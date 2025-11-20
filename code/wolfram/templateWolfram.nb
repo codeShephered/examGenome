@@ -1,0 +1,664 @@
+(* ::Package:: *)
+
+(* 50 TEMPLATE-BASED PERCENTAGE QUESTION GENERATOR *)
+
+ClearAll[percentageTemplates, generateQuestion, makeMCQ, randomPct, rnd]
+
+rnd[min_, max_] := RandomInteger[{min, max}]
+randomPct[] := RandomInteger[{5, 85}]
+
+percentageTemplates = {
+
+(*
+ 1–10: Basic percentage calculations
+*)
+(* 1 *)
+Function[{},
+  x = rnd[100, 900]; p = randomPct[];
+  {
+   "Question" -> "What is " <> ToString[p] <> "% of " <> ToString[x] <> "?",
+   "Answer" -> N[x*p/100]
+  }
+],
+
+(* 2 *)
+Function[{},
+  a = rnd[50, 500]; b = rnd[50, 500];
+  p = Round[100*a/b, 0.1];
+  {
+   "Question" -> 
+    "A number is " <> ToString[a] <> " which is what percent of " <> 
+     ToString[b] <> "?",
+   "Answer" -> p
+  }
+],
+
+(* 3 *)
+Function[{},
+  base = rnd[100, 900]; p = randomPct[];
+  new = base*(1 + p/100);
+  {
+   "Question" -> 
+    "A value increases from " <> ToString[base] <> 
+     " to " <> ToString[new] <> ". What is the percentage increase?",
+   "Answer" -> p
+  }
+],
+
+(*4*)
+Function[{},
+  base = rnd[200, 1200]; p = randomPct[];
+  new = base*(1 - p/100);
+  {
+   "Question" -> 
+    "A value decreases from " <> ToString[base] <> 
+     " to " <> ToString[new] <> ". What is the percentage decrease?",
+   "Answer" -> p
+  }
+],
+
+(*5*)
+Function[{},
+  total = rnd[200, 900]; part = rnd[20, 150];
+  p = Round[100*part/total, 0.1];
+  {
+   "Question" -> 
+    ToString[part] <> " is what percent of " <> ToString[total] <> "?",
+   "Answer" -> p
+  }
+],
+
+(*6*)
+Function[{},
+  cp = rnd[100, 900]; p = randomPct[];
+  sp = cp*(1 + p/100);
+  {
+   "Question" -> 
+    "A shopkeeper buys an item for " <> ToString[cp] <> 
+     " and sells it for " <> ToString[sp] <> 
+     ". What is the profit percentage?",
+   "Answer" -> p
+  }
+],
+
+(*7*)
+Function[{},
+  cp = rnd[100, 900]; p = randomPct[];
+  sp = cp*(1 - p/100);
+  {
+   "Question" -> 
+    "A shopkeeper buys an item for " <> ToString[cp] <> 
+     " and sells it for " <> ToString[sp] <> 
+     ". What is the loss percentage?",
+   "Answer" -> p
+  }
+],
+
+(*8*)
+Function[{},
+  salary = rnd[20000, 60000]; p = randomPct[];
+  inc = salary*(p/100);
+  {
+   "Question" -> 
+    "A person earning " <> ToString[salary] <> 
+     " gets a raise of " <> ToString[p] <> "%. How much is the increase?",
+   "Answer" -> N[inc]
+  }
+],
+
+(*9*)
+Function[{},
+  bill = rnd[500, 5000]; p = randomPct[];
+  disc = bill*(p/100);
+  {
+   "Question" -> 
+    "A shop offers a discount of " <> ToString[p] <> 
+     "% on a bill of " <> ToString[bill] <> ". How much is the discount?",
+   "Answer" -> N[disc]
+  }
+],
+
+(*10*)
+Function[{},
+  test = rnd[40, 100]; scored = rnd[20, test];
+  p = Round[100*scored/test, 0.1];
+  {
+   "Question" -> 
+    "A student scores " <> ToString[scored] <> 
+     " out of " <> ToString[test] <> ". What percent is this?",
+   "Answer" -> p
+  }
+],
+
+(*
+ 11–20: Reverse percentage problems
+*)
+(*11*)
+Function[{},
+  p = randomPct[]; val = rnd[50, 300];
+  original = val/(p/100);
+  {
+   "Question" -> 
+    ToString[val] <> " is " <> ToString[p] <> "% of what number?",
+   "Answer" -> N[original]
+  }
+],
+
+(*12*)
+Function[{},
+  increase = rnd[20, 200]; p = randomPct[];
+  original = increase/(p/100);
+  {
+   "Question" -> 
+    "If a value increases by " <> ToString[increase] <> 
+     " which is " <> ToString[p] <> "% of the original value, find the original value.",
+   "Answer" -> N[original]
+  }
+],
+
+(*13*)
+Function[{},
+  decrease = rnd[20, 200]; p = randomPct[];
+  original = decrease/(p/100);
+  {
+   "Question" -> 
+    "If a value decreases by " <> ToString[decrease] <> 
+     " which is " <> ToString[p] <> "% of the original value, find the original value.",
+   "Answer" -> N[original]
+  }
+],
+
+(*14*)
+Function[{},
+  final = rnd[200, 800]; p = randomPct[];
+  original = final/(1 + p/100);
+  {
+   "Question" -> 
+    "After a " <> ToString[p] <> 
+     "% increase, the value becomes " <> ToString[final] <> 
+     ". Find the original value.",
+   "Answer" -> N[original]
+  }
+],
+
+(*15*)
+Function[{},
+  final = rnd[200, 800]; p = randomPct[];
+  original = final/(1 - p/100);
+  {
+   "Question" -> 
+    "After a " <> ToString[p] <> 
+     "% decrease, the value becomes " <> ToString[final] <> 
+     ". Find the original value.",
+   "Answer" -> N[original]
+  }
+],
+
+(*16*)
+Function[{},
+  total = rnd[1000, 5000]; p = randomPct[];
+  tax = total*p/100;
+  {
+   "Question" -> 
+    ToString[p] <> "% tax is added to a bill of " <> ToString[total] <> 
+     ". How much tax is added?",
+   "Answer" -> N[tax]
+  }
+],
+
+(*17*)
+Function[{},
+  price = rnd[500, 2000]; p = randomPct[];
+  gst = price*p/100;
+  {
+   "Question" -> 
+    "GST at " <> ToString[p] <> "% is applied on an item of price " <> 
+     ToString[price] <> ". What is the GST amount?",
+   "Answer" -> N[gst]
+  }
+],
+
+(*18*)
+Function[{},
+  marked = rnd[200, 800]; disc = randomPct[];
+  selling = marked*(1 - disc/100);
+  {
+   "Question" -> 
+    "An item marked at " <> ToString[marked] <> 
+     " is sold at a discount of " <> ToString[disc] <> 
+     "%. What is the selling price?",
+   "Answer" -> N[selling]
+  }
+],
+
+(*19*)
+Function[{},
+  old = rnd[500, 900]; new = rnd[200, 800];
+  p = Round[100*(new - old)/old, 0.1];
+  {
+   "Question" -> 
+    "A value changes from " <> ToString[old] <> 
+     " to " <> ToString[new] <> ". What is the percentage change?",
+   "Answer" -> p
+  }
+],
+
+(*20*)
+Function[{},
+  total = rnd[300, 1000]; p = randomPct[];
+  reduced = total - total*p/100;
+  {
+   "Question" -> 
+    "A quantity of " <> ToString[total] <> " is reduced by " <> 
+     ToString[p] <> "%. What is the final value?",
+   "Answer" -> N[reduced]
+  }
+],
+
+(*
+ 21–30: Real-world applications
+*)
+(*21*)
+Function[{},
+  pop = rnd[50000, 1000000]; p = randomPct[];
+  increase = pop + pop*p/100;
+  {
+   "Question" -> 
+    "A town has a population of " <> ToString[pop] <> 
+     ". If it increases by " <> ToString[p] <> "%, what is the new population?",
+   "Answer" -> N[increase]
+  }
+],
+
+(*22*)
+Function[{},
+  amount = rnd[1000, 8000]; p = randomPct[];
+  {
+   "Question" -> 
+    "A savings account pays " <> ToString[p] <> 
+     "% interest annually on " <> ToString[amount] <> 
+     ". How much interest is earned in one year?",
+   "Answer" -> N[amount*p/100]
+  }
+],
+
+(*23*)
+Function[{},
+  students = rnd[100, 500]; p = randomPct[];
+  female = students*p/100;
+  {
+   "Question" -> 
+    "A school has " <> ToString[students] <> 
+     " students, of which " <> ToString[p] <> 
+     "% are girls. How many girls are there?",
+   "Answer" -> N[female]
+  }
+],
+
+(*24*)
+Function[{},
+  votes = rnd[2000, 20000]; p = randomPct[];
+  {
+   "Question" -> 
+    "A candidate receives " <> ToString[p] <> 
+     "% of " <> ToString[votes] <> " votes. How many votes is this?",
+   "Answer" -> N[votes*p/100]
+  }
+],
+
+(*25*)
+Function[{},
+  water = rnd[50, 500]; p = randomPct[];
+  saved = water*p/100;
+  {
+   "Question" -> 
+    "A household reduces water usage by " <> ToString[p] <> 
+     "% from " <> ToString[water] <> " litres. How much water is saved?",
+   "Answer" -> N[saved]
+  }
+],
+
+(*26*)
+Function[{},
+  price = rnd[10000, 50000]; dep = randomPct[];
+  {
+   "Question" -> 
+    "An asset worth " <> ToString[price] <> 
+     " depreciates by " <> ToString[dep] <> 
+     "% annually. What is the depreciation in the first year?",
+   "Answer" -> N[price*dep/100]
+  }
+],
+
+(*27*)
+Function[{},
+  marks = rnd[400, 600]; p = randomPct[];
+  req = marks*p/100;
+  {
+   "Question" -> 
+    "A student needs " <> ToString[p] <> 
+     "% to pass out of " <> ToString[marks] <> 
+     ". How many marks are required?",
+   "Answer" -> N[req]
+  }
+],
+
+(*28*)
+Function[{},
+  sale = rnd[20000, 100000]; p = randomPct[];
+  com = sale*p/100;
+  {
+   "Question" -> 
+    "A salesperson earns " <> ToString[p] <> 
+     "% commission on sales of " <> ToString[sale] <> 
+     ". How much commission does he earn?",
+   "Answer" -> N[com]
+  }
+],
+
+(*29*)
+Function[{},
+  weight = rnd[50, 120]; p = randomPct[];
+  reduced = weight - weight*p/100;
+  {
+   "Question" -> 
+    "A person's weight of " <> ToString[weight] <> 
+     " kg is reduced by " <> ToString[p] <> "%. What is the new weight?",
+   "Answer" -> N[reduced]
+  }
+],
+
+(*30*)
+Function[{},
+  rainfall = rnd[100, 400]; p = randomPct[];
+  {
+   "Question" -> 
+    "Rainfall this year is " <> ToString[p] <> 
+     "% more than last year's " <> ToString[rainfall] <> 
+     " mm. What is this year's rainfall?",
+   "Answer" -> N[rainfall*(1 + p/100)]
+  }
+],
+
+(*
+ 31–40: Comparative percentage problems
+*)
+(*31*)
+Function[{},
+  a = rnd[100, 400]; b = rnd[80, 380];
+  p = Round[100*(a - b)/b, 0.1];
+  {
+   "Question" -> 
+    "Value A is " <> ToString[a] <> 
+     " and Value B is " <> ToString[b] <> 
+     ". By what percent is A greater than B?",
+   "Answer" -> p
+  }
+],
+
+(*32*)
+Function[{},
+  a = rnd[100, 400]; b = rnd[120, 500];
+  p = Round[100*(b - a)/a, 0.1];
+  {
+   "Question" -> 
+    "Value B is " <> ToString[b] <> 
+     " and Value A is " <> ToString[a] <> 
+     ". By what percent is B greater than A?",
+   "Answer" -> p
+  }
+],
+
+(*33*)
+Function[{},
+  price = rnd[50, 500]; p1 = randomPct[]; p2 = randomPct[];
+  new = price*(1+p1/100)*(1+p2/100);
+  {
+   "Question" -> 
+    "A price is first increased by " <> ToString[p1] <> 
+     "% and then by " <> ToString[p2] <> "%. What is the final price if the original price was " <> ToString[price] <> "?",
+   "Answer" -> N[new]
+  }
+],
+
+(*34*)
+Function[{},
+  price = rnd[50, 500]; p1 = randomPct[]; p2 = randomPct[];
+  new = price*(1-p1/100)*(1-p2/100);
+  {
+   "Question" -> 
+    "A price is reduced by " <> ToString[p1] <> 
+     "% and then by " <> ToString[p2] <> "%. What is the final price if the original was " <> ToString[price] <> "?",
+   "Answer" -> N[new]
+  }
+],
+
+(*35*)
+Function[{},
+  salary = rnd[20000, 80000]; p1 = randomPct[]; p2 = randomPct[];
+  final = salary*(1 + p1/100)*(1 + p2/100);
+  {
+   "Question" -> 
+    "A salary increased first by " <> ToString[p1] <> 
+     "% and again by " <> ToString[p2] <> "%. What is the final salary if the original was " <> ToString[salary] <> "?",
+   "Answer" -> N[final]
+  }
+],
+
+(*36*)
+Function[{},
+  qty = rnd[100, 600]; p = randomPct[];
+  {
+   "Question" -> 
+    "If quantity increases by " <> ToString[p] <> 
+     "% from " <> ToString[qty] <> ", what is the new quantity?",
+   "Answer" -> N[qty*(1+p/100)]
+  }
+],
+
+(*37*)
+Function[{},
+  qty = rnd[100, 600]; p = randomPct[];
+  {
+   "Question" -> 
+    "If quantity decreases by " <> ToString[p] <> 
+     "% from " <> ToString[qty] <> ", what is the new quantity?",
+   "Answer" -> N[qty*(1-p/100)]
+  }
+],
+
+(*38*)
+Function[{},
+  price = rnd[30, 200]; p = randomPct[];
+  {
+   "Question" -> 
+    "If an item's price increases by " <> ToString[p] <> 
+     "% from " <> ToString[price] <> ", what is the increased amount?",
+   "Answer" -> N[price*p/100]
+  }
+],
+
+(*39*)
+Function[{},
+  price = rnd[30, 200]; p = randomPct[];
+  {
+   "Question" -> 
+    "If an item's price decreases by " <> ToString[p] <> 
+     "% from " <> ToString[price] <> ", what is the decreased amount?",
+   "Answer" -> N[price*p/100]
+  }
+],
+
+(*40*)
+Function[{},
+  base = rnd[100, 400]; p = randomPct[];
+  {
+   "Question" -> 
+    "A base value of " <> ToString[base] <> 
+     " is increased to " <> ToString[base*(1+p/100)] <>
+     ". What percent increase caused this?",
+   "Answer" -> p
+  }
+],
+
+(*
+ 41–50: Mixed percentage applications
+*)
+(*41*)
+Function[{},
+  income = rnd[20000, 70000]; p = randomPct[];
+  tax = income*p/100;
+  {
+   "Question" -> 
+    "If an income of " <> ToString[income] <> 
+     " is taxed at " <> ToString[p] <> "%, how much tax is paid?",
+   "Answer" -> N[tax]
+  }
+],
+
+(*42*)
+Function[{},
+  price = rnd[100, 500]; tip = randomPct[];
+  {
+   "Question" -> 
+    "A customer tips " <> ToString[tip] <> 
+     "% on a bill of " <> ToString[price] <> ". How much is the tip?",
+   "Answer" -> N[price*tip/100]
+  }
+],
+
+(*43*)
+Function[{},
+  loan = rnd[10000, 90000]; rate = randomPct[];
+  interest = loan*rate/100;
+  {
+   "Question" -> 
+    ToString(rate] <> "% of a loan of " <> ToString[loan] <> 
+     " is charged as interest. How much interest is charged?",
+   "Answer" -> N[interest]
+  }
+],
+
+(*44*)
+Function[{},
+  qty = rnd[20, 80]; p = randomPct[];
+  defective = qty*p/100;
+  {
+   "Question" -> 
+    "Out of " <> ToString[qty] <> 
+     " items, " <> ToString[p] <> "% are defective. How many are defective?",
+   "Answer" -> N[defective]
+  }
+],
+
+(*45*)
+Function[{},
+  cost = rnd[500, 2000]; p = randomPct[];
+  {
+   "Question" -> 
+    "A maintenance fee of " <> ToString[p] <> 
+     "% is added to a cost of " <> ToString[cost] <> 
+     ". What is the fee amount?",
+   "Answer" -> N[cost*p/100]
+  }
+],
+
+(*46*)
+Function[{},
+  students = rnd[100, 800]; absent = rnd[5, 60];
+  p = Round[100*absent/students, 0.1];
+  {
+   "Question" -> 
+    ToString[absent] <> " out of " <> ToString[students] <> 
+     " students were absent. What percent is this?",
+   "Answer" -> p
+  }
+],
+
+(*47*)
+Function[{},
+  stock = rnd[100, 800]; p = randomPct[];
+  shortage = stock*p/100;
+  {
+   "Question" -> 
+    "A store reports a " <> ToString[p] <> 
+     "% shortage on a stock of " <> ToString[stock] <- "<> ". How many units are short?",
+   "Answer" -> N[shortage]
+  }
+],
+
+(*48*)
+Function[{},
+  energy = rnd[200, 1000]; p = randomPct[];
+  reduced = energy - energy*p/100;
+  {
+   "Question" -> 
+    "Energy usage of " <> ToString[energy] <> 
+     " kWh is reduced by " <> ToString[p] <> "%. What is the new usage?",
+   "Answer" -> N[reduced]
+  }
+],
+
+(*49*)
+Function[{},
+  distance = rnd[50, 300]; p = randomPct[];
+  extra = distance*p/100;
+  {
+   "Question" -> 
+    ToString[p] <> "% extra distance is added to a route of " <> 
+     ToString[distance] <> " km. How many extra km?",
+   "Answer" -> N[extra]
+  }
+],
+
+(*50*)
+Function[{},
+  saving = rnd[1000, 6000]; p = randomPct[];
+  {
+   "Question" -> 
+    "A person saves " <> ToString[p] <> 
+     "% of their income. If they save " <> ToString[saving] <> 
+     ", what is their total income?",
+   "Answer" -> N[saving/(p/100)]
+  }
+]
+
+];
+
+
+(* FUNCTION TO BUILD 4 OPTIONS AND FORMAT INTO JSON MCQ *)
+makeMCQ[assoc_] := Module[
+  {
+   q = assoc["Question"],
+   ans = assoc["Answer"],
+   opts, correctIndex
+  },
+  
+  opts = 
+   RandomSample[
+    Union[
+      {ans, ans + RandomInteger[{-20, 20}], ans + RandomInteger[{-30, 30}],
+       ans + RandomInteger[{-40, 40}]}],
+    4
+   ];
+  
+  correctIndex = First@Flatten@Position[opts, ans];
+  
+  <|
+   "Question" -> q,
+   "A" -> ToString[opts[[1]]],
+   "B" -> ToString[opts[[2]]],
+   "C" -> ToString[opts[[3]]],
+   "D" -> ToString[opts[[4]]],
+   "Correct Answer" -> {"A", "B", "C", "D"}[[correctIndex]],
+   "Used" -> 0
+   |>
+]
+
+
+(* MAIN GENERATOR *)
+generateQuestion[] := makeMCQ[ RandomChoice[percentageTemplates][] ];
+
+questions = Table[generateQuestion[], 300];
+
+Export["percentages_300.json", questions, "JSON"];
