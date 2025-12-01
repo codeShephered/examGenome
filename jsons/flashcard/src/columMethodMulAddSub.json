@@ -1,0 +1,467 @@
+[
+{
+    "question": "What is the sum of 342 and 157 using the column method?",
+    "answer": "499",
+    "details": "Write the numbers vertically, aligning digits by place value: units under units, tens under tens, hundreds under hundreds. Add units: 2 + 7 = 9. Add tens: 4 + 5 = 9. Add hundreds: 3 + 1 = 4. Result: 499."
+},
+{
+    "question": "Subtract 213 from 586 using the column method.",
+    "answer": "373",
+    "details": "Align digits by place value. Units: 6 − 3 = 3. Tens: 8 − 1 = 7. Hundreds: 5 − 2 = 3. No borrowing needed. Answer: 373."
+},
+{
+    "question": "Multiply 24 by 3 using the column method.",
+    "answer": "72",
+    "details": "Write 24 on top, 3 below, aligned to the right. Multiply units: 4 × 3 = 12. Write 2 in units, carry 1. Multiply tens: 2 × 3 = 6, plus carry 1 = 7. Result: 72."
+},
+{
+    "question": "Add 489 and 376 using the column method. What is the result?",
+    "answer": "865",
+    "details": "Units: 9 + 6 = 15 → write 5, carry 1. Tens: 8 + 7 = 15, plus 1 = 16 → write 6, carry 1. Hundreds: 4 + 3 = 7, plus 1 = 8. Final answer: 865."
+},
+{
+    "question": "Subtract 348 from 702 using the column method.",
+    "answer": "354",
+    "details": "Units: 2 − 8 → cannot, so borrow from tens. But tens is 0, so borrow from hundreds first. Hundreds: 7 becomes 6. Tens: 0 becomes 10, then borrow 1 → tens becomes 9, units becomes 12. Now: 12 − 8 = 4. Tens: 9 − 4 = 5. Hundreds: 6 − 3 = 3. Answer: 354."
+},
+{
+    "question": "Multiply 132 by 4 using the column method.",
+    "answer": "528",
+    "details": "Units: 2 × 4 = 8. Tens: 3 × 4 = 12 → write 2, carry 1. Hundreds: 1 × 4 = 4, plus 1 = 5. Result: 528."
+},
+{
+    "question": "A store sold 256 apples on Monday and 178 on Tuesday. How many apples were sold in total? Use column addition.",
+    "answer": "434",
+    "details": "Add 256 + 178. Units: 6 + 8 = 14 → write 4, carry 1. Tens: 5 + 7 = 12, plus 1 = 13 → write 3, carry 1. Hundreds: 2 + 1 = 3, plus 1 = 4. Total: 434 apples."
+},
+{
+    "question": "There were 600 balloons. After a party, 237 were left. How many balloons were used? Use column subtraction.",
+    "answer": "363",
+    "details": "Subtract 237 from 600. Units: 0 − 7 → borrow. Tens is 0, so borrow from hundreds: 6 → 5, tens → 10. Then borrow to units: tens → 9, units → 10. 10 − 7 = 3. Tens: 9 − 3 = 6. Hundreds: 5 − 2 = 3. Answer: 363."
+},
+{
+    "question": "A box contains 8 packets, each with 25 candies. How many candies are there in total? Solve using column multiplication.",
+    "answer": "200",
+    "details": "Multiply 25 × 8. Units: 5 × 8 = 40 → write 0, carry 4. Tens: 2 × 8 = 16, plus 4 = 20. Write 20. Result: 200."
+},
+{
+    "question": "Add 1,234 and 567 using the column method.",
+    "answer": "1,801",
+    "details": "Align right: Units: 4 + 7 = 11 → write 1, carry 1. Tens: 3 + 6 = 9, plus 1 = 10 → write 0, carry 1. Hundreds: 2 + 5 = 7, plus 1 = 8. Thousands: 1 + 0 = 1. Answer: 1,801."
+},
+{
+    "question": "Subtract 489 from 1,000 using the column method.",
+    "answer": "511",
+    "details": "1,000 − 489. Borrowing required across all places. Units: 10 − 9 = 1 (after borrowing). Tens: 9 − 8 = 1 (after borrowing from hundreds). Hundreds: 9 − 4 = 5 (after borrowing from thousands). Thousands: 0. Result: 511."
+},
+{
+    "question": "Multiply 42 by 6 using the column method.",
+    "answer": "252",
+    "details": "Units: 2 × 6 = 12 → write 2, carry 1. Tens: 4 × 6 = 24, plus 1 = 25. Write 25. Answer: 252."
+},
+{
+    "question": "A farmer has 3 fields with 142, 205, and 98 trees. How many trees in total? Use column addition.",
+    "answer": "445",
+    "details": "Add 142 + 205 = 347; then 347 + 98. Units: 7 + 8 = 15 → write 5, carry 1. Tens: 4 + 9 = 13, plus 1 = 14 → write 4, carry 1. Hundreds: 3 + 0 = 3, plus 1 = 4. Total: 445."
+},
+{
+    "question": "A book has 328 pages. Tom has read 159 pages. How many pages are left? Use column subtraction.",
+    "answer": "169",
+    "details": "328 − 159. Units: 8 − 9 → borrow → 18 − 9 = 9. Tens: 2 becomes 1 → 1 − 5 → borrow → 11 − 5 = 6. Hundreds: 3 becomes 2 → 2 − 1 = 1. Answer: 169."
+},
+{
+    "question": "Multiply 115 by 5 using the column method.",
+    "answer": "575",
+    "details": "Units: 5 × 5 = 25 → write 5, carry 2. Tens: 1 × 5 = 5, plus 2 = 7. Hundreds: 1 × 5 = 5. Result: 575."
+},
+{
+    "question": "Add 78, 245, and 63 using the column method.",
+    "answer": "386",
+    "details": "Align all numbers by place value. Units: 8 + 5 + 3 = 16 → write 6, carry 1. Tens: 7 + 4 + 6 = 17, plus 1 = 18 → write 8, carry 1. Hundreds: 0 + 2 + 0 = 2, plus 1 = 3. Total: 386."
+},
+{
+    "question": "Subtract 1,234 from 2,000 using the column method.",
+    "answer": "766",
+    "details": "2,000 − 1,234. Borrow from thousands: 2 → 1, hundreds become 10. Borrow to tens: hundreds → 9, tens → 10. Borrow to units: tens → 9, units → 10. Units: 10 − 4 = 6. Tens: 9 − 3 = 6. Hundreds: 9 − 2 = 7. Thousands: 1 − 1 = 0. Answer: 766."
+},
+{
+    "question": "A train carries 8 carriages, each with 56 seats. How many seats in total? Use column multiplication.",
+    "answer": "448",
+    "details": "Multiply 56 × 8. Units: 6 × 8 = 48 → write 8, carry 4. Tens: 5 × 8 = 40, plus 4 = 44. Write 44. Total: 448."
+},
+{
+    "question": "What is 903 + 78 using the column method?",
+    "answer": "981",
+    "details": "Units: 3 + 8 = 11 → write 1, carry 1. Tens: 0 + 7 = 7, plus 1 = 8. Hundreds: 9 + 0 = 9. Answer: 981."
+},
+{
+    "question": "Subtract 87 from 500 using the column method.",
+    "answer": "413",
+    "details": "500 − 87. Units: 0 − 7 → borrow. Tens is 0, so borrow from hundreds: 5 → 4, tens → 10. Borrow to units: tens → 9, units → 10. 10 − 7 = 3. Tens: 9 − 8 = 1. Hundreds: 4 − 0 = 4. Answer: 413."
+},
+{
+    "question": "Multiply 207 by 3 using the column method.",
+    "answer": "621",
+    "details": "Units: 7 × 3 = 21 → write 1, carry 2. Tens: 0 × 3 = 0, plus 2 = 2. Hundreds: 2 × 3 = 6. Result: 621."
+},
+{
+    "question": "Add 1,056 and 2,347 using the column method.",
+    "answer": "3,403",
+    "details": "Units: 6 + 7 = 13 → write 3, carry 1. Tens: 5 + 4 = 9, plus 1 = 10 → write 0, carry 1. Hundreds: 0 + 3 = 3, plus 1 = 4. Thousands: 1 + 2 = 3. Answer: 3,403."
+},
+{
+    "question": "A school had 850 students. 298 students left. How many remain? Use column subtraction.",
+    "answer": "552",
+    "details": "850 − 298. Units: 0 − 8 → borrow → 10 − 8 = 2. Tens: 5 becomes 4 → 4 − 9 → borrow → 14 − 9 = 5. Hundreds: 8 becomes 7 → 7 − 2 = 5. Answer: 552."
+},
+{
+    "question": "Multiply 18 by 9 using the column method.",
+    "answer": "162",
+    "details": "Units: 8 × 9 = 72 → write 2, carry 7. Tens: 1 × 9 = 9, plus 7 = 16. Write 16. Answer: 162."
+},
+{
+    "question": "What is 642 − 189 using the column method?",
+    "answer": "453",
+    "details": "Units: 2 − 9 → borrow → 12 − 9 = 3. Tens: 4 becomes 3 → 3 − 8 → borrow → 13 − 8 = 5. Hundreds: 6 becomes 5 → 5 − 1 = 4. Answer: 453."
+},
+{
+    "question": "Add 375, 286, and 94 using the column method.",
+    "answer": "755",
+    "details": "Units: 5 + 6 + 4 = 15 → write 5, carry 1. Tens: 7 + 8 + 9 = 24, plus 1 = 25 → write 5, carry 2. Hundreds: 3 + 2 + 0 = 5, plus 2 = 7. Total: 755."
+},
+{
+    "question": "Multiply 304 by 2 using the column method.",
+    "answer": "608",
+    "details": "Units: 4 × 2 = 8. Tens: 0 × 2 = 0. Hundreds: 3 × 2 = 6. Result: 608."
+},
+{
+    "question": "Subtract 456 from 1,023 using the column method.",
+    "answer": "567",
+    "details": "Units: 3 − 6 → borrow → 13 − 6 = 7. Tens: 2 becomes 1 → 1 − 5 → borrow → 11 − 5 = 6. Hundreds: 0 becomes 9 (after borrowing from thousands) → 9 − 4 = 5. Thousands: 1 becomes 0. Answer: 567."
+},
+{
+    "question": "A library bought 7 boxes of books. Each box has 128 books. How many books total? Use column multiplication.",
+    "answer": "896",
+    "details": "Multiply 128 × 7. Units: 8 × 7 = 56 → write 6, carry 5. Tens: 2 × 7 = 14, plus 5 = 19 → write 9, carry 1. Hundreds: 1 × 7 = 7, plus 1 = 8. Total: 896."
+},
+{
+    "question": "What is 2,001 + 999 using the column method?",
+    "answer": "3,000",
+    "details": "Units: 1 + 9 = 10 → write 0, carry 1. Tens: 0 + 9 = 9, plus 1 = 10 → write 0, carry 1. Hundreds: 0 + 9 = 9, plus 1 = 10 → write 0, carry 1. Thousands: 2 + 0 = 2, plus 1 = 3. Answer: 3,000."
+},
+{
+    "question": "Subtract 789 from 1,500 using the column method.",
+    "answer": "711",
+    "details": "1,500 − 789. Units: 0 − 9 → borrow → 10 − 9 = 1. Tens: 0 becomes 9 (after borrowing chain) → 9 − 8 = 1. Hundreds: 5 becomes 4 → 4 − 7 → borrow → 14 − 7 = 7. Thousands: 1 becomes 0. Answer: 711."
+},
+{
+    "question": "Multiply 99 by 4 using the column method.",
+    "answer": "396",
+    "details": "Units: 9 × 4 = 36 → write 6, carry 3. Tens: 9 × 4 = 36, plus 3 = 39. Write 39. Answer: 396."
+},
+{
+    "question": "Add 4,321 and 5,678 using the column method.",
+    "answer": "9,999",
+    "details": "Units: 1 + 8 = 9. Tens: 2 + 7 = 9. Hundreds: 3 + 6 = 9. Thousands: 4 + 5 = 9. Result: 9,999."
+},
+{
+    "question": "A factory made 2,040 toys. They sold 1,387. How many are left? Use column subtraction.",
+    "answer": "653",
+    "details": "2,040 − 1,387. Units: 0 − 7 → borrow → 10 − 7 = 3. Tens: 4 becomes 3 → 3 − 8 → borrow → 13 − 8 = 5. Hundreds: 0 becomes 9 (after borrow) → 9 − 3 = 6. Thousands: 2 becomes 1 → 1 − 1 = 0. Answer: 653."
+},
+{
+    "question": "Multiply 250 by 8 using the column method.",
+    "answer": "2,000",
+    "details": "Units: 0 × 8 = 0. Tens: 5 × 8 = 40 → write 0, carry 4. Hundreds: 2 × 8 = 16, plus 4 = 20. Write 20. Result: 2,000."
+},
+{
+    "question": "What is 805 + 195 using the column method?",
+    "answer": "1,000",
+    "details": "Units: 5 + 5 = 10 → write 0, carry 1. Tens: 0 + 9 = 9, plus 1 = 10 → write 0, carry 1. Hundreds: 8 + 1 = 9, plus 1 = 10. Write 10. Answer: 1,000."
+},
+{
+    "question": "Subtract 2,156 from 5,000 using the column method.",
+    "answer": "2,844",
+    "details": "5,000 − 2,156. Borrow across: Units: 10 − 6 = 4. Tens: 9 − 5 = 4. Hundreds: 9 − 1 = 8. Thousands: 4 − 2 = 2. Answer: 2,844."
+},
+{
+    "question": "Multiply 143 by 6 using the column method.",
+    "answer": "858",
+    "details": "Units: 3 × 6 = 18 → write 8, carry 1. Tens: 4 × 6 = 24, plus 1 = 25 → write 5, carry 2. Hundreds: 1 × 6 = 6, plus 2 = 8. Result: 858."
+},
+{
+    "question": "Add 678, 234, and 98 using the column method.",
+    "answer": "1,010",
+    "details": "Units: 8 + 4 + 8 = 20 → write 0, carry 2. Tens: 7 + 3 + 9 = 19, plus 2 = 21 → write 1, carry 2. Hundreds: 6 + 2 + 0 = 8, plus 2 = 10. Write 10. Total: 1,010."
+},
+{
+    "question": "A delivery truck has 3,000 kg capacity. It already carries 1,842 kg. How much more can it carry? Use column subtraction.",
+    "answer": "1,158",
+    "details": "3,000 − 1,842. Units: 10 − 2 = 8 (after borrow). Tens: 9 − 4 = 5. Hundreds: 9 − 8 = 1. Thousands: 2 − 1 = 1. Answer: 1,158 kg."
+},
+{
+    "question": "Multiply 76 by 5 using the column method.",
+    "answer": "380",
+    "details": "Units: 6 × 5 = 30 → write 0, carry 3. Tens: 7 × 5 = 35, plus 3 = 38. Write 38. Answer: 380."
+},
+{
+    "question": "What is 1,234 + 866 using the column method?",
+    "answer": "2,100",
+    "details": "Units: 4 + 6 = 10 → write 0, carry 1. Tens: 3 + 6 = 9, plus 1 = 10 → write 0, carry 1. Hundreds: 2 + 8 = 10, plus 1 = 11 → write 1, carry 1. Thousands: 1 + 0 = 1, plus 1 = 2. Answer: 2,100."
+},
+{
+    "question": "Subtract 678 from 2,000 using the column method.",
+    "answer": "1,322",
+    "details": "2,000 − 678. Units: 10 − 8 = 2. Tens: 9 − 7 = 2. Hundreds: 9 − 6 = 3. Thousands: 1. Answer: 1,322."
+},
+{
+    "question": "Multiply 109 by 9 using the column method.",
+    "answer": "981",
+    "details": "Units: 9 × 9 = 81 → write 1, carry 8. Tens: 0 × 9 = 0, plus 8 = 8. Hundreds: 1 × 9 = 9. Result: 981."
+},
+{
+    "question": "Add 5,005 and 4,995 using the column method.",
+    "answer": "10,000",
+    "details": "Units: 5 + 5 = 10 → write 0, carry 1. Tens: 0 + 9 = 9, plus 1 = 10 → write 0, carry 1. Hundreds: 0 + 9 = 9, plus 1 = 10 → write 0, carry 1. Thousands: 5 + 4 = 9, plus 1 = 10. Write 10. Answer: 10,000."
+},
+{
+    "question": "A water tank holds 1,500 liters. 876 liters are used. How much remains? Use column subtraction.",
+    "answer": "624",
+    "details": "1,500 − 876. Units: 10 − 6 = 4. Tens: 9 − 7 = 2. Hundreds: 4 − 8 → borrow → 14 − 8 = 6. Thousands: 0. Answer: 624 liters."
+},
+{
+    "question": "Multiply 123 by 4 using the column method.",
+    "answer": "492",
+    "details": "Units: 3 × 4 = 12 → write 2, carry 1. Tens: 2 × 4 = 8, plus 1 = 9. Hundreds: 1 × 4 = 4. Result: 492."
+},
+{
+    "question": "What is 7,890 − 2,345 using the column method?",
+    "answer": "5,545",
+    "details": "Units: 0 − 5 → borrow → 10 − 5 = 5. Tens: 9 becomes 8 → 8 − 4 = 4. Hundreds: 8 − 3 = 5. Thousands: 7 − 2 = 5. Answer: 5,545."
+},
+{
+    "question": "Add 123, 456, and 789 using the column method.",
+    "answer": "1,368",
+    "details": "Units: 3 + 6 + 9 = 18 → write 8, carry 1. Tens: 2 + 5 + 8 = 15, plus 1 = 16 → write 6, carry 1. Hundreds: 1 + 4 + 7 = 12, plus 1 = 13. Write 13. Total: 1,368."
+},
+{
+    "question": "Multiply 210 by 7 using the column method.",
+    "answer": "1,470",
+    "details": "Units: 0 × 7 = 0. Tens: 1 × 7 = 7. Hundreds: 2 × 7 = 14. Write 14. Result: 1,470."
+},
+{
+    "question": "Subtract 1,111 from 3,333 using the column method.",
+    "answer": "2,222",
+    "details": "Each digit: 3 − 1 = 2 in every place. No borrowing needed. Answer: 2,222."
+},
+{
+    "question": "A school ordered 6 sets of chairs. Each set has 144 chairs. How many chairs total? Use column multiplication.",
+    "answer": "864",
+    "details": "Multiply 144 × 6. Units: 4 × 6 = 24 → write 4, carry 2. Tens: 4 × 6 = 24, plus 2 = 26 → write 6, carry 2. Hundreds: 1 × 6 = 6, plus 2 = 8. Total: 864."
+},
+{
+    "question": "What is 999 + 1 using the column method?",
+    "answer": "1,000",
+    "details": "Units: 9 + 1 = 10 → write 0, carry 1. Tens: 9 + 0 = 9, plus 1 = 10 → write 0, carry 1. Hundreds: 9 + 0 = 9, plus 1 = 10 → write 0, carry 1. Thousands: 1. Answer: 1,000."
+},
+{
+    "question": "Subtract 505 from 1,010 using the column method.",
+    "answer": "505",
+    "details": "Units: 0 − 5 → borrow → 10 − 5 = 5. Tens: 1 becomes 0 → 0 − 0 = 0. Hundreds: 0 − 5 → borrow → 10 − 5 = 5. Thousands: 1 becomes 0. Answer: 505."
+},
+{
+    "question": "Multiply 88 by 3 using the column method.",
+    "answer": "264",
+    "details": "Units: 8 × 3 = 24 → write 4, carry 2. Tens: 8 × 3 = 24, plus 2 = 26. Write 26. Answer: 264."
+},
+{
+    "question": "Add 2,222 and 3,333 using the column method.",
+    "answer": "5,555",
+    "details": "Each column: 2 + 3 = 5. No carrying needed. Answer: 5,555."
+},
+{
+    "question": "A shop had 1,200 pens. They sold 487. How many are left? Use column subtraction.",
+    "answer": "713",
+    "details": "1,200 − 487. Units: 10 − 7 = 3. Tens: 9 − 8 = 1. Hundreds: 1 − 4 → borrow → 11 − 4 = 7. Thousands: 0. Answer: 713."
+},
+{
+    "question": "Multiply 156 by 5 using the column method.",
+    "answer": "780",
+    "details": "Units: 6 × 5 = 30 → write 0, carry 3. Tens: 5 × 5 = 25, plus 3 = 28 → write 8, carry 2. Hundreds: 1 × 5 = 5, plus 2 = 7. Result: 780."
+},
+{
+    "question": "What is 4,000 − 1,234 using the column method?",
+    "answer": "2,766",
+    "details": "Borrowing across: Units: 10 − 4 = 6. Tens: 9 − 3 = 6. Hundreds: 9 − 2 = 7. Thousands: 3 − 1 = 2. Answer: 2,766."
+},
+{
+    "question": "Add 876 and 124 using the column method.",
+    "answer": "1,000",
+    "details": "Units: 6 + 4 = 10 → write 0, carry 1. Tens: 7 + 2 = 9, plus 1 = 10 → write 0, carry 1. Hundreds: 8 + 1 = 9, plus 1 = 10. Write 10. Answer: 1,000."
+},
+{
+    "question": "Subtract 999 from 2,000 using the column method.",
+    "answer": "1,001",
+    "details": "2,000 − 999. Units: 10 − 9 = 1. Tens: 9 − 9 = 0. Hundreds: 9 − 9 = 0. Thousands: 1. Answer: 1,001."
+},
+{
+    "question": "Multiply 200 by 9 using the column method.",
+    "answer": "1,800",
+    "details": "Units: 0 × 9 = 0. Tens: 0 × 9 = 0. Hundreds: 2 × 9 = 18. Write 18. Result: 1,800."
+},
+{
+    "question": "A baker made 3 batches of cookies: 128, 157, and 215. Total cookies? Use column addition.",
+    "answer": "500",
+    "details": "Add 128 + 157 = 285; 285 + 215. Units: 5 + 5 = 10 → write 0, carry 1. Tens: 8 + 1 = 9, plus 1 = 10 → write 0, carry 1. Hundreds: 2 + 2 = 4, plus 1 = 5. Total: 500."
+},
+{
+    "question": "What is 6,789 − 1,234 using the column method?",
+    "answer": "5,555",
+    "details": "Units: 9 − 4 = 5. Tens: 8 − 3 = 5. Hundreds: 7 − 2 = 5. Thousands: 6 − 1 = 5. Answer: 5,555."
+},
+{
+    "question": "Multiply 135 by 6 using the column method.",
+    "answer": "810",
+    "details": "Units: 5 × 6 = 30 → write 0, carry 3. Tens: 3 × 6 = 18, plus 3 = 21 → write 1, carry 2. Hundreds: 1 × 6 = 6, plus 2 = 8. Result: 810."
+},
+{
+    "question": "Add 999 and 111 using the column method.",
+    "answer": "1,110",
+    "details": "Units: 9 + 1 = 10 → write 0, carry 1. Tens: 9 + 1 = 10, plus 1 = 11 → write 1, carry 1. Hundreds: 9 + 1 = 10, plus 1 = 11. Write 11. Answer: 1,110."
+},
+{
+    "question": "Subtract 345 from 1,000 using the column method.",
+    "answer": "655",
+    "details": "1,000 − 345. Units: 10 − 5 = 5. Tens: 9 − 4 = 5. Hundreds: 9 − 3 = 6. Answer: 655."
+},
+{
+    "question": "Multiply 178 by 3 using the column method.",
+    "answer": "534",
+    "details": "Units: 8 × 3 = 24 → write 4, carry 2. Tens: 7 × 3 = 21, plus 2 = 23 → write 3, carry 2. Hundreds: 1 × 3 = 3, plus 2 = 5. Result: 534."
+},
+{
+    "question": "What is 3,456 + 2,544 using the column method?",
+    "answer": "6,000",
+    "details": "Units: 6 + 4 = 10 → write 0, carry 1. Tens: 5 + 4 = 9, plus 1 = 10 → write 0, carry 1. Hundreds: 4 + 5 = 9, plus 1 = 10 → write 0, carry 1. Thousands: 3 + 2 = 5, plus 1 = 6. Answer: 6,000."
+},
+{
+    "question": "A stadium has 5,000 seats. 3,789 are filled. How many are empty? Use column subtraction.",
+    "answer": "1,211",
+    "details": "5,000 − 3,789. Units: 10 − 9 = 1. Tens: 9 − 8 = 1. Hundreds: 9 − 7 = 2. Thousands: 4 − 3 = 1. Answer: 1,211."
+},
+{
+    "question": "Multiply 222 by 4 using the column method.",
+    "answer": "888",
+    "details": "Units: 2 × 4 = 8. Tens: 2 × 4 = 8. Hundreds: 2 × 4 = 8. Result: 888."
+},
+{
+    "question": "Add 1,111, 2,222, and 3,333 using the column method.",
+    "answer": "6,666",
+    "details": "Each column: 1 + 2 + 3 = 6. No carrying. Total: 6,666."
+},
+{
+    "question": "Subtract 777 from 2,000 using the column method.",
+    "answer": "1,223",
+    "details": "2,000 − 777. Units: 10 − 7 = 3. Tens: 9 − 7 = 2. Hundreds: 9 − 7 = 2. Thousands: 1. Answer: 1,223."
+},
+{
+    "question": "Multiply 105 by 8 using the column method.",
+    "answer": "840",
+    "details": "Units: 5 × 8 = 40 → write 0, carry 4. Tens: 0 × 8 = 0, plus 4 = 4. Hundreds: 1 × 8 = 8. Result: 840."
+},
+{
+    "question": "What is 8,000 − 4,567 using the column method?",
+    "answer": "3,433",
+    "details": "Units: 10 − 7 = 3. Tens: 9 − 6 = 3. Hundreds: 9 − 5 = 4. Thousands: 7 − 4 = 3. Answer: 3,433."
+},
+{
+    "question": "Add 456 and 544 using the column method.",
+    "answer": "1,000",
+    "details": "Units: 6 + 4 = 10 → write 0, carry 1. Tens: 5 + 4 = 9, plus 1 = 10 → write 0, carry 1. Hundreds: 4 + 5 = 9, plus 1 = 10. Write 10. Answer: 1,000."
+},
+{
+    "question": "A farmer harvested 2,400 kg of wheat. He sold 1,567 kg. How much remains? Use column subtraction.",
+    "answer": "833",
+    "details": "2,400 − 1,567. Units: 10 − 7 = 3. Tens: 9 − 6 = 3. Hundreds: 3 − 5 → borrow → 13 − 5 = 8. Thousands: 1 − 1 = 0. Answer: 833 kg."
+},
+{
+    "question": "Multiply 167 by 2 using the column method.",
+    "answer": "334",
+    "details": "Units: 7 × 2 = 14 → write 4, carry 1. Tens: 6 × 2 = 12, plus 1 = 13 → write 3, carry 1. Hundreds: 1 × 2 = 2, plus 1 = 3. Result: 334."
+},
+{
+    "question": "What is 7,777 + 2,223 using the column method?",
+    "answer": "10,000",
+    "details": "Units: 7 + 3 = 10 → write 0, carry 1. Tens: 7 + 2 = 9, plus 1 = 10 → write 0, carry 1. Hundreds: 7 + 2 = 9, plus 1 = 10 → write 0, carry 1. Thousands: 7 + 2 = 9, plus 1 = 10. Write 10. Answer: 10,000."
+},
+{
+    "question": "Subtract 444 from 1,000 using the column method.",
+    "answer": "556",
+    "details": "1,000 − 444. Units: 10 − 4 = 6. Tens: 9 − 4 = 5. Hundreds: 9 − 4 = 5. Answer: 556."
+},
+{
+    "question": "Multiply 199 by 5 using the column method.",
+    "answer": "995",
+    "details": "Units: 9 × 5 = 45 → write 5, carry 4. Tens: 9 × 5 = 45, plus 4 = 49 → write 9, carry 4. Hundreds: 1 × 5 = 5, plus 4 = 9. Result: 995."
+},
+{
+    "question": "Add 3,000 and 7,000 using the column method.",
+    "answer": "10,000",
+    "details": "Thousands: 3 + 7 = 10. All other digits are 0. Answer: 10,000."
+},
+{
+    "question": "Subtract 1,001 from 2,002 using the column method.",
+    "answer": "1,001",
+    "details": "Each digit: 2 − 1 = 1 in thousands and units; 0 − 0 = 0 in hundreds and tens. Answer: 1,001."
+},
+{
+    "question": "Multiply 256 by 3 using the column method.",
+    "answer": "768",
+    "details": "Units: 6 × 3 = 18 → write 8, carry 1. Tens: 5 × 3 = 15, plus 1 = 16 → write 6, carry 1. Hundreds: 2 × 3 = 6, plus 1 = 7. Result: 768."
+},
+{
+    "question": "A school collected $1,250 in donations and $750 in fundraiser sales. Total money? Use column addition.",
+    "answer": "2,000",
+    "details": "Add 1,250 + 750. Units: 0 + 0 = 0. Tens: 5 + 5 = 10 → write 0, carry 1. Hundreds: 2 + 7 = 9, plus 1 = 10 → write 0, carry 1. Thousands: 1 + 0 = 1, plus 1 = 2. Total: $2,000."
+},
+{
+    "question": "What is 5,555 − 2,222 using the column method?",
+    "answer": "3,333",
+    "details": "Each digit: 5 − 2 = 3. No borrowing. Answer: 3,333."
+},
+{
+    "question": "Multiply 140 by 7 using the column method.",
+    "answer": "980",
+    "details": "Units: 0 × 7 = 0. Tens: 4 × 7 = 28 → write 8, carry 2. Hundreds: 1 × 7 = 7, plus 2 = 9. Result: 980."
+},
+{
+    "question": "Add 999, 1, and 1,000 using the column method.",
+    "answer": "2,000",
+    "details": "First, 999 + 1 = 1,000. Then 1,000 + 1,000 = 2,000."
+},
+{
+    "question": "Subtract 888 from 1,500 using the column method.",
+    "answer": "612",
+    "details": "1,500 − 888. Units: 10 − 8 = 2. Tens: 9 − 8 = 1. Hundreds: 4 − 8 → borrow → 14 − 8 = 6. Thousands: 0. Answer: 612."
+},
+{
+    "question": "Multiply 125 by 8 using the column method.",
+    "answer": "1,000",
+    "details": "Units: 5 × 8 = 40 → write 0, carry 4. Tens: 2 × 8 = 16, plus 4 = 20 → write 0, carry 2. Hundreds: 1 × 8 = 8, plus 2 = 10. Write 10. Result: 1,000."
+},
+{
+    "question": "What is 6,000 + 4,000 using the column method?",
+    "answer": "10,000",
+    "details": "Thousands: 6 + 4 = 10. Rest are zeros. Answer: 10,000."
+},
+{
+    "question": "Subtract 123 from 1,000 using the column method.",
+    "answer": "877",
+    "details": "1,000 − 123. Units: 10 − 3 = 7. Tens: 9 − 2 = 7. Hundreds: 9 − 1 = 8. Answer: 877."
+},
+{
+    "question": "Multiply 111 by 9 using the column method.",
+    "answer": "999",
+    "details": "Units: 1 × 9 = 9. Tens: 1 × 9 = 9. Hundreds: 1 × 9 = 9. Result: 999."
+}
+]

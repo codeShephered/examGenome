@@ -1,0 +1,44 @@
+##Prompt:
+Generate 110 unambiguous, unbiased, and verifiable questions about 'Column method multiplication, addition & subtraction' in Mathematics at a easy, medium difficulty level in English.
+        Cover a wide range of subtopics within the specialization, including both theoretical concepts and practical real-world applications.
+        The questions should reflect the variety of topics that may appear in competitive examinations and educational assessments.
+
+        Ensure that each question is based on factual information that can be verified using reliable sources such as textbooks, academic papers, or well-known websites (e.g., government or university websites). Avoid speculative or opinion-based content.
+
+        All questions must be unambiguous, with clear language that leaves no room for misinterpretation.
+
+        The questions can be phrased with rules on 'Column method multiplication, addition & subtraction' in Mathematics , formula for 'Column method multiplication, addition & subtraction', tips and tricks on long division etc., if multiple varieties of questions are to be framed without repetition.
+
+        Provide detailed background material that would help a student understand the following question.The material should cover fundamental concepts, definitions, and any necessary background knowledge related to the question.
+
+        Each question MUST be unique, and have a correct answer, and a detailed explanation or steps on how to arrive on the correct answer. Format each question as follows:
+
+        question: [Question text]
+        answer: [Correct answer]
+        details: [Explanation]
+
+        Ensure that the options are plausible, and avoid trivial or obviously incorrect answers. Include real-world context where relevant, and ensure that all questions are diverse, covering different aspects of 'Column method multiplication, addition & subtraction' in Mathematics. Provide questions that are contextualized and solvable using the arithmetic and reasoning skills of children aged 11 or less. Create the output in JSON format.
+################################################################################################
+#Python Scripts:
+1) gemini.py => Template
+2) gemini-2.py => converts raw json data to extracted_data.json for gemini-1.py for verification
+3) gemini-1.py => reads extracted_data.json and verifies the answer, stores the output as _verification.txt
+4) concentricShape.py => python script generate concentric shape image questions
+5) flashCardGenerator.py => Generated the existing flashcard
+6) flashCardGenerator1.py => Generated flashcard in box with different colour scheme
+7) crawl.py => Generates questions using wolfram API
+8) firstGenerate.py => Generates cross and moves type of questoin and answers with image
+9) fnumberParameter.py => File number genration script for Wolfram code
+10) randomAreaProblemImage.py =>  Generates shaded image of shape questions in python
+11) randomShapeGenerator.py => Generates random shapes and queries about the missing side of the shape type questions in python  
+12) singleScript.py => Graph type question generation script
+13) testcrawl.py =>  sample crawler script in python to test any url's/api's
+14) untitled.py => Gemonetry shape generator questions in python as a backup
+15) etlPython.py => Question PDF creation script from json file input folder to pdf creation
+16) etlPythonEnh.py => PDF question generation script with topic clasification and constraint of picking up 4 max question per topic
+17) etlPythonEnh1.py => PDF question generation script with topic classification + 4 max question per topic + examgenie watermark
+18) etlPythonEnh2.py => PDF question generation script with topic classification + 4 max question per topic + examgenie watermark
+19) etlPythonEnh3.py => PDF question generation script with topic classification + 4 max question per topic + examgenie watermark
+20) etlPythonEnh_first_sample_paper.py => PDF question generation script with topic classification + 4 max question per topic + examgenome watermark + strategy
+21) etlPythonEnh_topic_sample_paper.py => PDF question generation script with topic classification + 4 max question per topic + examgenome watermark + strategy + current script used to generate PDF files
+18) 

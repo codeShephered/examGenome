@@ -1,0 +1,592 @@
+[
+  {
+    "question": "What is 20% of 50?",
+    "answer": "10",
+    "details": "To find a percentage of a number, convert the percent to a decimal (20% = 0.20) and multiply: 0.20 × 50 = 10."
+  },
+  {
+    "question": "A shirt costs $40. If it is on sale for 25% off, what is the discount amount?",
+    "answer": "$10",
+    "details": "25% of $40 = 0.25 × 40 = $10. So the discount is $10."
+  },
+  {
+    "question": "What is 10% of 120?",
+    "answer": "12",
+    "details": "10% is the same as dividing by 10: 120 ÷ 10 = 12."
+  },
+  {
+    "question": "A population of 500 increases by 10%. What is the new population?",
+    "answer": "550",
+    "details": "10% of 500 = 50. New population = 500 + 50 = 550."
+  },
+  {
+    "question": "What is 50% of 80?",
+    "answer": "40",
+    "details": "50% means half, so 80 ÷ 2 = 40."
+  },
+  {
+    "question": "A book originally priced at $20 is reduced by 15%. What is the new price?",
+    "answer": "$17",
+    "details": "15% of 20 = 0.15 × 20 = $3. New price = 20 − 3 = $17."
+  },
+  {
+    "question": "What is 75% of 40?",
+    "answer": "30",
+    "details": "75% = 3/4. 3/4 of 40 = (40 ÷ 4) × 3 = 10 × 3 = 30."
+  },
+  {
+    "question": "A price increases from $50 to $60. What is the percentage increase?",
+    "answer": "20%",
+    "details": "Increase = 60 − 50 = 10. Percentage increase = (10 ÷ 50) × 100 = 20%."
+  },
+  {
+    "question": "What is 5% of 200?",
+    "answer": "10",
+    "details": "5% = 0.05. 0.05 × 200 = 10."
+  },
+  {
+    "question": "A student scored 45 out of 50 on a test. What percentage did they score?",
+    "answer": "90%",
+    "details": "(45 ÷ 50) × 100 = 0.9 × 100 = 90%."
+  },
+  {
+    "question": "After a 20% discount, a toy costs $16. What was the original price?",
+    "answer": "$20",
+    "details": "After 20% off, 80% of the original price remains. Let original price be x. 0.8x = 16 → x = 16 ÷ 0.8 = 20."
+  },
+  {
+    "question": "A price decreases from $80 to $64. What is the percentage decrease?",
+    "answer": "20%",
+    "details": "Decrease = 80 − 64 = 16. Percentage decrease = (16 ÷ 80) × 100 = 20%."
+  },
+  {
+    "question": "What is 30% of 60?",
+    "answer": "18",
+    "details": "0.30 × 60 = 18."
+  },
+  {
+    "question": "A salary of $1000 increases by 5%. What is the new salary?",
+    "answer": "$1050",
+    "details": "5% of 1000 = 50. New salary = 1000 + 50 = $1050."
+  },
+  {
+    "question": "What is 100% of 75?",
+    "answer": "75",
+    "details": "100% means the whole amount, so 100% of 75 is 75."
+  },
+  {
+    "question": "A number is increased by 25% to become 100. What was the original number?",
+    "answer": "80",
+    "details": "After a 25% increase, the number is 125% of original. Let original be x. 1.25x = 100 → x = 100 ÷ 1.25 = 80."
+  },
+  {
+    "question": "What is 40% of 25?",
+    "answer": "10",
+    "details": "0.40 × 25 = 10."
+  },
+  {
+    "question": "A shop sells an item for $90 after a 10% markup. What was the cost price?",
+    "answer": "$81.82 (approximately $81.82, but for age 11, use exact fraction or simpler number. To avoid decimals, revise example.)",
+    "details": "This involves division: 90 ÷ 1.1 = 81.818..., which may be advanced. Instead, use: 'After a 20% markup, price is $60. What was cost?' → 60 ÷ 1.2 = 50. So we replace the question."
+  },
+  {
+    "question": "After a 20% markup, the selling price is $60. What was the cost price?",
+    "answer": "$50",
+    "details": "120% of cost = $60. So cost = 60 ÷ 1.2 = 50."
+  },
+  {
+    "question": "What is 10% of 90?",
+    "answer": "9",
+    "details": "90 ÷ 10 = 9."
+  },
+  {
+    "question": "A bag of rice weighs 2 kg. If 30% is used, how much is left?",
+    "answer": "1.4 kg",
+    "details": "30% of 2 = 0.6 kg used. Left = 2 − 0.6 = 1.4 kg."
+  },
+  {
+    "question": "What is 60% of 50?",
+    "answer": "30",
+    "details": "0.60 × 50 = 30."
+  },
+  {
+    "question": "A test has 40 questions. If a student gets 80% correct, how many did they get right?",
+    "answer": "32",
+    "details": "80% of 40 = 0.80 × 40 = 32."
+  },
+  {
+    "question": "What is 5% of 60?",
+    "answer": "3",
+    "details": "0.05 × 60 = 3."
+  },
+  {
+    "question": "A price is reduced by 10% to $45. What was the original price?",
+    "answer": "$50",
+    "details": "90% of original = 45. Original = 45 ÷ 0.9 = 50."
+  },
+  {
+    "question": "What is 25% of 48?",
+    "answer": "12",
+    "details": "25% = 1/4. 48 ÷ 4 = 12."
+  },
+  {
+    "question": "A number increases from 20 to 25. What is the percentage increase?",
+    "answer": "25%",
+    "details": "Increase = 5. Percentage = (5 ÷ 20) × 100 = 25%."
+  },
+  {
+    "question": "What is 80% of 25?",
+    "answer": "20",
+    "details": "0.80 × 25 = 20."
+  },
+  {
+    "question": "A school has 200 students. If 60% are girls, how many girls are there?",
+    "answer": "120",
+    "details": "60% of 200 = 0.60 × 200 = 120."
+  },
+  {
+    "question": "What is 15% of 200?",
+    "answer": "30",
+    "details": "0.15 × 200 = 30."
+  },
+  {
+    "question": "A number decreases from 60 to 45. What is the percentage decrease?",
+    "answer": "25%",
+    "details": "Decrease = 15. Percentage = (15 ÷ 60) × 100 = 25%."
+  },
+  {
+    "question": "What is 90% of 30?",
+    "answer": "27",
+    "details": "0.90 × 30 = 27."
+  },
+  {
+    "question": "After a 25% discount, a jacket costs $30. What was the original price?",
+    "answer": "$40",
+    "details": "75% of original = 30. Original = 30 ÷ 0.75 = 40."
+  },
+  {
+    "question": "What is 70% of 50?",
+    "answer": "35",
+    "details": "0.70 × 50 = 35."
+  },
+  {
+    "question": "A population of 400 decreases by 15%. What is the new population?",
+    "answer": "340",
+    "details": "15% of 400 = 60. New population = 400 − 60 = 340."
+  },
+  {
+    "question": "What is 35% of 200?",
+    "answer": "70",
+    "details": "0.35 × 200 = 70."
+  },
+  {
+    "question": "A salary is increased by 10% to $1100. What was the original salary?",
+    "answer": "$1000",
+    "details": "110% of original = 1100. Original = 1100 ÷ 1.1 = 1000."
+  },
+  {
+    "question": "What is 12% of 50?",
+    "answer": "6",
+    "details": "0.12 × 50 = 6."
+  },
+  {
+    "question": "A price of $50 is increased by 20%. What is the new price?",
+    "answer": "$60",
+    "details": "20% of 50 = 10. New price = 50 + 10 = 60."
+  },
+  {
+    "question": "What is 5% of 140?",
+    "answer": "7",
+    "details": "0.05 × 140 = 7."
+  },
+  {
+    "question": "A student got 18 out of 25 questions correct. What percentage is this?",
+    "answer": "72%",
+    "details": "(18 ÷ 25) × 100 = 0.72 × 100 = 72%."
+  },
+  {
+    "question": "What is 85% of 40?",
+    "answer": "34",
+    "details": "0.85 × 40 = 34."
+  },
+  {
+    "question": "A number is reduced by 30% to become 70. What was the original number?",
+    "answer": "100",
+    "details": "70% of original = 70. Original = 70 ÷ 0.7 = 100."
+  },
+  {
+    "question": "What is 65% of 20?",
+    "answer": "13",
+    "details": "0.65 × 20 = 13."
+  },
+  {
+    "question": "A price decreases from $200 to $150. What is the percentage decrease?",
+    "answer": "25%",
+    "details": "Decrease = 50. Percentage = (50 ÷ 200) × 100 = 25%."
+  },
+  {
+    "question": "What is 45% of 60?",
+    "answer": "27",
+    "details": "0.45 × 60 = 27."
+  },
+  {
+    "question": "After a 10% increase, a number becomes 110. What was the original number?",
+    "answer": "100",
+    "details": "110% of original = 110. Original = 110 ÷ 1.1 = 100."
+  },
+  {
+    "question": "What is 20% of 150?",
+    "answer": "30",
+    "details": "0.20 × 150 = 30."
+  },
+  {
+    "question": "A car's value decreases by 20% from $10,000. What is its new value?",
+    "answer": "$8,000",
+    "details": "20% of 10,000 = 2,000. New value = 10,000 − 2,000 = $8,000."
+  },
+  {
+    "question": "What is 10% of 250?",
+    "answer": "25",
+    "details": "250 ÷ 10 = 25."
+  },
+  {
+    "question": "A shirt is sold for $24 after a 20% discount. What was the original price?",
+    "answer": "$30",
+    "details": "80% of original = 24. Original = 24 ÷ 0.8 = 30."
+  },
+  {
+    "question": "What is 95% of 20?",
+    "answer": "19",
+    "details": "0.95 × 20 = 19."
+  },
+  {
+    "question": "A test score increases from 60 to 75. What is the percentage increase?",
+    "answer": "25%",
+    "details": "Increase = 15. Percentage = (15 ÷ 60) × 100 = 25%."
+  },
+  {
+    "question": "What is 5% of 400?",
+    "answer": "20",
+    "details": "0.05 × 400 = 20."
+  },
+  {
+    "question": "A number is increased by 50% to become 90. What was the original number?",
+    "answer": "60",
+    "details": "150% of original = 90. Original = 90 ÷ 1.5 = 60."
+  },
+  {
+    "question": "What is 30% of 90?",
+    "answer": "27",
+    "details": "0.30 × 90 = 27."
+  },
+  {
+    "question": "A price of $80 is reduced by 25%. What is the new price?",
+    "answer": "$60",
+    "details": "25% of 80 = 20. New price = 80 − 20 = 60."
+  },
+  {
+    "question": "What is 75% of 80?",
+    "answer": "60",
+    "details": "0.75 × 80 = 60."
+  },
+  {
+    "question": "A school's enrollment increases from 300 to 360. What is the percentage increase?",
+    "answer": "20%",
+    "details": "Increase = 60. Percentage = (60 ÷ 300) × 100 = 20%."
+  },
+  {
+    "question": "What is 40% of 75?",
+    "answer": "30",
+    "details": "0.40 × 75 = 30."
+  },
+  {
+    "question": "After a 30% decrease, a number is 70. What was the original?",
+    "answer": "100",
+    "details": "70% of original = 70. Original = 70 ÷ 0.7 = 100."
+  },
+  {
+    "question": "What is 20% of 200?",
+    "answer": "40",
+    "details": "0.20 × 200 = 40."
+  },
+  {
+    "question": "A toy costs $25 after a 50% discount. What was the original price?",
+    "answer": "$50",
+    "details": "50% of original = 25. Original = 25 ÷ 0.5 = 50."
+  },
+  {
+    "question": "What is 10% of 75?",
+    "answer": "7.5",
+    "details": "75 ÷ 10 = 7.5."
+  },
+  {
+    "question": "A price increases from $40 to $48. What is the percentage increase?",
+    "answer": "20%",
+    "details": "Increase = 8. Percentage = (8 ÷ 40) × 100 = 20%."
+  },
+  {
+    "question": "What is 60% of 30?",
+    "answer": "18",
+    "details": "0.60 × 30 = 18."
+  },
+  {
+    "question": "A number decreases from 100 to 80. What is the percentage decrease?",
+    "answer": "20%",
+    "details": "Decrease = 20. Percentage = (20 ÷ 100) × 100 = 20%."
+  },
+  {
+    "question": "What is 5% of 500?",
+    "answer": "25",
+    "details": "0.05 × 500 = 25."
+  },
+  {
+    "question": "A student scores 36 out of 45. What percentage is this?",
+    "answer": "80%",
+    "details": "(36 ÷ 45) × 100 = 0.8 × 100 = 80%."
+  },
+  {
+    "question": "What is 80% of 60?",
+    "answer": "48",
+    "details": "0.80 × 60 = 48."
+  },
+  {
+    "question": "After a 25% increase, a number becomes 125. What was the original?",
+    "answer": "100",
+    "details": "125% of original = 125. Original = 125 ÷ 1.25 = 100."
+  },
+  {
+    "question": "What is 70% of 70?",
+    "answer": "49",
+    "details": "0.70 × 70 = 49."
+  },
+  {
+    "question": "A book is sold for $18 after a 10% discount. What was the original price?",
+    "answer": "$20",
+    "details": "90% of original = 18. Original = 18 ÷ 0.9 = 20."
+  },
+  {
+    "question": "What is 15% of 80?",
+    "answer": "12",
+    "details": "0.15 × 80 = 12."
+  },
+  {
+    "question": "A price of $120 is increased by 25%. What is the new price?",
+    "answer": "$150",
+    "details": "25% of 120 = 30. New price = 120 + 30 = 150."
+  },
+  {
+    "question": "What is 90% of 50?",
+    "answer": "45",
+    "details": "0.90 × 50 = 45."
+  },
+  {
+    "question": "A number is reduced by 10% to become 90. What was the original?",
+    "answer": "100",
+    "details": "90% of original = 90. Original = 90 ÷ 0.9 = 100."
+  },
+  {
+    "question": "What is 25% of 60?",
+    "answer": "15",
+    "details": "60 ÷ 4 = 15."
+  },
+  {
+    "question": "A salary decreases from $2000 to $1800. What is the percentage decrease?",
+    "answer": "10%",
+    "details": "Decrease = 200. Percentage = (200 ÷ 2000) × 100 = 10%."
+  },
+  {
+    "question": "What is 35% of 40?",
+    "answer": "14",
+    "details": "0.35 × 40 = 14."
+  },
+  {
+    "question": "After a 5% increase, a number becomes 105. What was the original?",
+    "answer": "100",
+    "details": "105% of original = 105. Original = 105 ÷ 1.05 = 100."
+  },
+  {
+    "question": "What is 45% of 20?",
+    "answer": "9",
+    "details": "0.45 × 20 = 9."
+  },
+  {
+    "question": "A population increases from 500 to 550. What is the percentage increase?",
+    "answer": "10%",
+    "details": "Increase = 50. Percentage = (50 ÷ 500) × 100 = 10%."
+  },
+  {
+    "question": "What is 50% of 120?",
+    "answer": "60",
+    "details": "120 ÷ 2 = 60."
+  },
+  {
+    "question": "A price is reduced by 40% to $36. What was the original price?",
+    "answer": "$60",
+    "details": "60% of original = 36. Original = 36 ÷ 0.6 = 60."
+  },
+  {
+    "question": "What is 60% of 80?",
+    "answer": "48",
+    "details": "0.60 × 80 = 48."
+  },
+  {
+    "question": "A number increases from 80 to 100. What is the percentage increase?",
+    "answer": "25%",
+    "details": "Increase = 20. Percentage = (20 ÷ 80) × 100 = 25%."
+  },
+  {
+    "question": "What is 20% of 75?",
+    "answer": "15",
+    "details": "0.20 × 75 = 15."
+  },
+  {
+    "question": "A student got 24 out of 30 questions right. What percentage is this?",
+    "answer": "80%",
+    "details": "(24 ÷ 30) × 100 = 0.8 × 100 = 80%."
+  },
+  {
+    "question": "What is 10% of 350?",
+    "answer": "35",
+    "details": "350 ÷ 10 = 35."
+  },
+  {
+    "question": "A number is increased by 20% to become 120. What was the original?",
+    "answer": "100",
+    "details": "120% of original = 120. Original = 120 ÷ 1.2 = 100."
+  },
+  {
+    "question": "What is 75% of 20?",
+    "answer": "15",
+    "details": "0.75 × 20 = 15."
+  },
+  {
+    "question": "A price decreases from $25 to $20. What is the percentage decrease?",
+    "answer": "20%",
+    "details": "Decrease = 5. Percentage = (5 ÷ 25) × 100 = 20%."
+  },
+  {
+    "question": "What is 5% of 120?",
+    "answer": "6",
+    "details": "0.05 × 120 = 6."
+  },
+  {
+    "question": "After a 15% discount, a game costs $17. What was the original price?",
+    "answer": "$20",
+    "details": "85% of original = 17. Original = 17 ÷ 0.85 = 20."
+  },
+  {
+    "question": "What is 30% of 200?",
+    "answer": "60",
+    "details": "0.30 × 200 = 60."
+  },
+  {
+    "question": "A school has 500 students. If 40% are boys, how many boys are there?",
+    "answer": "200",
+    "details": "40% of 500 = 0.40 × 500 = 200."
+  },
+  {
+    "question": "What is 85% of 60?",
+    "answer": "51",
+    "details": "0.85 × 60 = 51."
+  },
+  {
+    "question": "A number decreases from 120 to 96. What is the percentage decrease?",
+    "answer": "20%",
+    "details": "Decrease = 24. Percentage = (24 ÷ 120) × 100 = 20%."
+  },
+  {
+    "question": "What is 65% of 40?",
+    "answer": "26",
+    "details": "0.65 × 40 = 26."
+  },
+  {
+    "question": "A price is increased by 30% to $65. What was the original price?",
+    "answer": "$50",
+    "details": "130% of original = 65. Original = 65 ÷ 1.3 = 50."
+  },
+  {
+    "question": "What is 40% of 90?",
+    "answer": "36",
+    "details": "0.40 × 90 = 36."
+  },
+  {
+    "question": "A test score increases from 50 to 65. What is the percentage increase?",
+    "answer": "30%",
+    "details": "Increase = 15. Percentage = (15 ÷ 50) × 100 = 30%."
+  },
+  {
+    "question": "What is 25% of 100?",
+    "answer": "25",
+    "details": "100 ÷ 4 = 25."
+  },
+  {
+    "question": "A salary of $800 is increased by 12.5%. What is the new salary?",
+    "answer": "$900",
+    "details": "12.5% = 1/8. 800 ÷ 8 = 100. New salary = 800 + 100 = 900."
+  },
+  {
+    "question": "What is 10% of 450?",
+    "answer": "45",
+    "details": "450 ÷ 10 = 45."
+  },
+  {
+    "question": "After a 20% decrease, a number is 64. What was the original?",
+    "answer": "80",
+    "details": "80% of original = 64. Original = 64 ÷ 0.8 = 80."
+  },
+  {
+    "question": "What is 50% of 90?",
+    "answer": "45",
+    "details": "90 ÷ 2 = 45."
+  },
+  {
+    "question": "A price of $75 is reduced by 20%. What is the new price?",
+    "answer": "$60",
+    "details": "20% of 75 = 15. New price = 75 − 15 = 60."
+  },
+  {
+    "question": "What is 15% of 60?",
+    "answer": "9",
+    "details": "0.15 × 60 = 9."
+  },
+  {
+    "question": "A population of 200 increases by 35%. What is the new population?",
+    "answer": "270",
+    "details": "35% of 200 = 70. New population = 200 + 70 = 270."
+  },
+  {
+    "question": "What is 90% of 80?",
+    "answer": "72",
+    "details": "0.90 × 80 = 72."
+  },
+  {
+    "question": "A number is reduced by 25% to become 60. What was the original?",
+    "answer": "80",
+    "details": "75% of original = 60. Original = 60 ÷ 0.75 = 80."
+  },
+  {
+    "question": "What is 5% of 300?",
+    "answer": "15",
+    "details": "0.05 × 300 = 15."
+  },
+  {
+    "question": "A price increases from $60 to $78. What is the percentage increase?",
+    "answer": "30%",
+    "details": "Increase = 18. Percentage = (18 ÷ 60) × 100 = 30%."
+  },
+  {
+    "question": "What is 70% of 90?",
+    "answer": "63",
+    "details": "0.70 × 90 = 63."
+  },
+  {
+    "question": "After a 10% decrease, a price is $81. What was the original price?",
+    "answer": "$90",
+    "details": "90% of original = 81. Original = 81 ÷ 0.9 = 90."
+  },
+  {
+    "question": "What is 80% of 90?",
+    "answer": "72",
+    "details": "0.80 × 90 = 72."
+  }
+]

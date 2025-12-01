@@ -1,0 +1,547 @@
+[
+  {
+    "question": "What is the square of 5?",
+    "answer": "25",
+    "details": "Squaring a number means multiplying it by itself: 5 × 5 = 25."
+  },
+  {
+    "question": "What is the cube of 3?",
+    "answer": "27",
+    "details": "Cubing a number means multiplying it by itself three times: 3 × 3 × 3 = 27."
+  },
+  {
+    "question": "Which of the following is a square number: 16, 20, 24, 30?",
+    "answer": "16",
+    "details": "16 = 4 × 4, so it is a perfect square. The others cannot be expressed as a whole number multiplied by itself."
+  },
+  {
+    "question": "Which of the following is a cube number: 27, 30, 36, 40?",
+    "answer": "27",
+    "details": "27 = 3 × 3 × 3, so it is a perfect cube. The others are not cubes of whole numbers."
+  },
+  {
+    "question": "What is the square of 10?",
+    "answer": "100",
+    "details": "10 × 10 = 100."
+  },
+  {
+    "question": "What is the cube of 4?",
+    "answer": "64",
+    "details": "4 × 4 × 4 = 64."
+  },
+  {
+    "question": "What is the smallest square number greater than 50?",
+    "answer": "64",
+    "details": "7² = 49 (too small), 8² = 64. So 64 is the smallest square number greater than 50."
+  },
+  {
+    "question": "What is the smallest cube number greater than 100?",
+    "answer": "125",
+    "details": "4³ = 64, 5³ = 125. So 125 is the smallest cube number greater than 100."
+  },
+  {
+    "question": "Is 36 a square number?",
+    "answer": "Yes",
+    "details": "36 = 6 × 6, so it is a perfect square."
+  },
+  {
+    "question": "Is 64 a cube number?",
+    "answer": "Yes",
+    "details": "64 = 4 × 4 × 4, so it is a perfect cube."
+  },
+  {
+    "question": "What is the square root of 81?",
+    "answer": "9",
+    "details": "9 × 9 = 81, so the square root of 81 is 9."
+  },
+  {
+    "question": "What is the cube root of 125?",
+    "answer": "5",
+    "details": "5 × 5 × 5 = 125, so the cube root of 125 is 5."
+  },
+  {
+    "question": "Which number is both a square and a cube?",
+    "answer": "64",
+    "details": "64 = 8² and 64 = 4³. Numbers that are both squares and cubes are sixth powers (e.g., 2⁶ = 64)."
+  },
+  {
+    "question": "What is the next square number after 49?",
+    "answer": "64",
+    "details": "49 = 7². The next integer is 8, and 8² = 64."
+  },
+  {
+    "question": "What is the next cube number after 27?",
+    "answer": "64",
+    "details": "27 = 3³. The next integer is 4, and 4³ = 64."
+  },
+  {
+    "question": "What is the square of 12?",
+    "answer": "144",
+    "details": "12 × 12 = 144."
+  },
+  {
+    "question": "What is the cube of 5?",
+    "answer": "125",
+    "details": "5 × 5 × 5 = 125."
+  },
+  {
+    "question": "How many square numbers are there between 1 and 100 (inclusive)?",
+    "answer": "10",
+    "details": "The squares are 1² to 10²: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100. Total: 10."
+  },
+  {
+    "question": "How many cube numbers are there between 1 and 100 (inclusive)?",
+    "answer": "4",
+    "details": "The cubes are 1³=1, 2³=8, 3³=27, 4³=64. 5³=125 > 100, so only 4 cube numbers."
+  },
+  {
+    "question": "Is 100 a square number?",
+    "answer": "Yes",
+    "details": "100 = 10 × 10, so it is a perfect square."
+  },
+  {
+    "question": "Is 100 a cube number?",
+    "answer": "No",
+    "details": "4³ = 64 and 5³ = 125. 100 is not equal to any whole number cubed."
+  },
+  {
+    "question": "What is the square of 0?",
+    "answer": "0",
+    "details": "0 × 0 = 0."
+  },
+  {
+    "question": "What is the cube of 1?",
+    "answer": "1",
+    "details": "1 × 1 × 1 = 1."
+  },
+  {
+    "question": "What is the area of a square with side length 7 cm?",
+    "answer": "49 cm²",
+    "details": "Area of a square = side × side = 7 × 7 = 49 square centimeters."
+  },
+  {
+    "question": "What is the volume of a cube with side length 3 cm?",
+    "answer": "27 cm³",
+    "details": "Volume of a cube = side × side × side = 3 × 3 × 3 = 27 cubic centimeters."
+  },
+  {
+    "question": "Which of the following is not a square number: 25, 36, 48, 49?",
+    "answer": "48",
+    "details": "25 = 5², 36 = 6², 49 = 7². 48 is not a perfect square."
+  },
+  {
+    "question": "Which of the following is not a cube number: 8, 27, 64, 100?",
+    "answer": "100",
+    "details": "8 = 2³, 27 = 3³, 64 = 4³. 100 is not a perfect cube."
+  },
+  {
+    "question": "What is the square of 15?",
+    "answer": "225",
+    "details": "15 × 15 = 225."
+  },
+  {
+    "question": "What is the cube of 6?",
+    "answer": "216",
+    "details": "6 × 6 × 6 = 216."
+  },
+  {
+    "question": "What number squared equals 144?",
+    "answer": "12",
+    "details": "12 × 12 = 144, so the number is 12."
+  },
+  {
+    "question": "What number cubed equals 216?",
+    "answer": "6",
+    "details": "6 × 6 × 6 = 216, so the number is 6."
+  },
+  {
+    "question": "Is 1 a square number?",
+    "answer": "Yes",
+    "details": "1 = 1 × 1, so it is a perfect square."
+  },
+  {
+    "question": "Is 1 a cube number?",
+    "answer": "Yes",
+    "details": "1 = 1 × 1 × 1, so it is a perfect cube."
+  },
+  {
+    "question": "What is the square of 20?",
+    "answer": "400",
+    "details": "20 × 20 = 400."
+  },
+  {
+    "question": "What is the cube of 10?",
+    "answer": "1000",
+    "details": "10 × 10 × 10 = 1000."
+  },
+  {
+    "question": "What is the difference between 10² and 9²?",
+    "answer": "19",
+    "details": "10² = 100, 9² = 81. Difference: 100 − 81 = 19."
+  },
+  {
+    "question": "What is the difference between 5³ and 4³?",
+    "answer": "61",
+    "details": "5³ = 125, 4³ = 64. Difference: 125 − 64 = 61."
+  },
+  {
+    "question": "Which square number is closest to 50?",
+    "answer": "49",
+    "details": "7² = 49, 8² = 64. 50 − 49 = 1, 64 − 50 = 14. So 49 is closer."
+  },
+  {
+    "question": "Which cube number is closest to 50?",
+    "answer": "64",
+    "details": "3³ = 27, 4³ = 64. 50 − 27 = 23, 64 − 50 = 14. So 64 is closer."
+  },
+  {
+    "question": "What is the square of 11?",
+    "answer": "121",
+    "details": "11 × 11 = 121."
+  },
+  {
+    "question": "What is the cube of 2?",
+    "answer": "8",
+    "details": "2 × 2 × 2 = 8."
+  },
+  {
+    "question": "If a square has an area of 64 cm², what is its side length?",
+    "answer": "8 cm",
+    "details": "Side length = √64 = 8 cm."
+  },
+  {
+    "question": "If a cube has a volume of 27 cm³, what is its side length?",
+    "answer": "3 cm",
+    "details": "Side length = ∛27 = 3 cm."
+  },
+  {
+    "question": "What is the sum of the first three square numbers?",
+    "answer": "14",
+    "details": "1² + 2² + 3² = 1 + 4 + 9 = 14."
+  },
+  {
+    "question": "What is the sum of the first three cube numbers?",
+    "answer": "36",
+    "details": "1³ + 2³ + 3³ = 1 + 8 + 27 = 36."
+  },
+  {
+    "question": "Is 81 a square number?",
+    "answer": "Yes",
+    "details": "81 = 9 × 9, so it is a perfect square."
+  },
+  {
+    "question": "Is 81 a cube number?",
+    "answer": "No",
+    "details": "4³ = 64, 5³ = 125. 81 is not a perfect cube."
+  },
+  {
+    "question": "What is the square of 13?",
+    "answer": "169",
+    "details": "13 × 13 = 169."
+  },
+  {
+    "question": "What is the cube of 7?",
+    "answer": "343",
+    "details": "7 × 7 × 7 = 343."
+  },
+  {
+    "question": "How many square numbers are less than 20?",
+    "answer": "4",
+    "details": "1, 4, 9, 16. (5² = 25 > 20). So 4 square numbers."
+  },
+  {
+    "question": "How many cube numbers are less than 50?",
+    "answer": "3",
+    "details": "1, 8, 27. (4³ = 64 > 50). So 3 cube numbers."
+  },
+  {
+    "question": "What is the square of 14?",
+    "answer": "196",
+    "details": "14 × 14 = 196."
+  },
+  {
+    "question": "What is the cube of 8?",
+    "answer": "512",
+    "details": "8 × 8 × 8 = 512."
+  },
+  {
+    "question": "Which number is both a square and a cube between 1 and 100?",
+    "answer": "1 and 64",
+    "details": "1 = 1² = 1³, and 64 = 8² = 4³. Both are between 1 and 100."
+  },
+  {
+    "question": "What is the square root of 100?",
+    "answer": "10",
+    "details": "10 × 10 = 100, so √100 = 10."
+  },
+  {
+    "question": "What is the cube root of 64?",
+    "answer": "4",
+    "details": "4 × 4 × 4 = 64, so ∛64 = 4."
+  },
+  {
+    "question": "Is 121 a square number?",
+    "answer": "Yes",
+    "details": "121 = 11 × 11, so it is a perfect square."
+  },
+  {
+    "question": "Is 125 a cube number?",
+    "answer": "Yes",
+    "details": "125 = 5 × 5 × 5, so it is a perfect cube."
+  },
+  {
+    "question": "What is the square of 9?",
+    "answer": "81",
+    "details": "9 × 9 = 81."
+  },
+  {
+    "question": "What is the cube of 9?",
+    "answer": "729",
+    "details": "9 × 9 × 9 = 729."
+  },
+  {
+    "question": "What is the area of a square with side length 12 meters?",
+    "answer": "144 m²",
+    "details": "Area = 12 × 12 = 144 square meters."
+  },
+  {
+    "question": "What is the volume of a cube with side length 5 meters?",
+    "answer": "125 m³",
+    "details": "Volume = 5 × 5 × 5 = 125 cubic meters."
+  },
+  {
+    "question": "Which square number comes before 100?",
+    "answer": "81",
+    "details": "10² = 100, so previous is 9² = 81."
+  },
+  {
+    "question": "Which cube number comes before 125?",
+    "answer": "64",
+    "details": "5³ = 125, so previous is 4³ = 64."
+  },
+  {
+    "question": "What is the square of 16?",
+    "answer": "256",
+    "details": "16 × 16 = 256."
+  },
+  {
+    "question": "What is the cube of 1?",
+    "answer": "1",
+    "details": "1 × 1 × 1 = 1."
+  },
+  {
+    "question": "Is 225 a square number?",
+    "answer": "Yes",
+    "details": "225 = 15 × 15, so it is a perfect square."
+  },
+  {
+    "question": "Is 216 a cube number?",
+    "answer": "Yes",
+    "details": "216 = 6 × 6 × 6, so it is a perfect cube."
+  },
+  {
+    "question": "What is the square root of 49?",
+    "answer": "7",
+    "details": "7 × 7 = 49, so √49 = 7."
+  },
+  {
+    "question": "What is the cube root of 27?",
+    "answer": "3",
+    "details": "3 × 3 × 3 = 27, so ∛27 = 3."
+  },
+  {
+    "question": "What is the smallest square number that is also even?",
+    "answer": "4",
+    "details": "1 is odd, 4 = 2² is even and the smallest even square."
+  },
+  {
+    "question": "What is the smallest cube number that is also even?",
+    "answer": "8",
+    "details": "1 is odd, 8 = 2³ is even and the smallest even cube."
+  },
+  {
+    "question": "What is the square of 17?",
+    "answer": "289",
+    "details": "17 × 17 = 289."
+  },
+  {
+    "question": "What is the cube of 10?",
+    "answer": "1000",
+    "details": "10 × 10 × 10 = 1000."
+  },
+  {
+    "question": "How many square numbers are there from 1 to 50?",
+    "answer": "7",
+    "details": "1² to 7²: 1, 4, 9, 16, 25, 36, 49. (8² = 64 > 50). So 7."
+  },
+  {
+    "question": "How many cube numbers are there from 1 to 200?",
+    "answer": "5",
+    "details": "1³ to 5³: 1, 8, 27, 64, 125. (6³ = 216 > 200). So 5."
+  },
+  {
+    "question": "What is the square of 18?",
+    "answer": "324",
+    "details": "18 × 18 = 324."
+  },
+  {
+    "question": "What is the cube of 11?",
+    "answer": "1331",
+    "details": "11 × 11 × 11 = 1331."
+  },
+  {
+    "question": "If a garden is a perfect square with area 144 m², what is its perimeter?",
+    "answer": "48 m",
+    "details": "Side = √144 = 12 m. Perimeter of square = 4 × side = 4 × 12 = 48 meters."
+  },
+  {
+    "question": "If a box is a perfect cube with volume 64 cm³, what is the total length of all its edges?",
+    "answer": "48 cm",
+    "details": "Side = ∛64 = 4 cm. A cube has 12 edges. Total edge length = 12 × 4 = 48 cm."
+  },
+  {
+    "question": "Which of the following is a square number: 121, 122, 123, 124?",
+    "answer": "121",
+    "details": "121 = 11 × 11. The others are not perfect squares."
+  },
+  {
+    "question": "Which of the following is a cube number: 215, 216, 217, 218?",
+    "answer": "216",
+    "details": "216 = 6 × 6 × 6. The others are not perfect cubes."
+  },
+  {
+    "question": "What is the square of 19?",
+    "answer": "361",
+    "details": "19 × 19 = 361."
+  },
+  {
+    "question": "What is the cube of 12?",
+    "answer": "1728",
+    "details": "12 × 12 × 12 = 1728."
+  },
+  {
+    "question": "Is 400 a square number?",
+    "answer": "Yes",
+    "details": "400 = 20 × 20, so it is a perfect square."
+  },
+  {
+    "question": "Is 1000 a cube number?",
+    "answer": "Yes",
+    "details": "1000 = 10 × 10 × 10, so it is a perfect cube."
+  },
+  {
+    "question": "What is the square root of 121?",
+    "answer": "11",
+    "details": "11 × 11 = 121, so √121 = 11."
+  },
+  {
+    "question": "What is the cube root of 1000?",
+    "answer": "10",
+    "details": "10 × 10 × 10 = 1000, so ∛1000 = 10."
+  },
+  {
+    "question": "What is the difference between 12² and 11²?",
+    "answer": "23",
+    "details": "12² = 144, 11² = 121. Difference: 144 − 121 = 23."
+  },
+  {
+    "question": "What is the difference between 6³ and 5³?",
+    "answer": "91",
+    "details": "6³ = 216, 5³ = 125. Difference: 216 − 125 = 91."
+  },
+  {
+    "question": "Which square number is closest to 200?",
+    "answer": "196",
+    "details": "14² = 196, 15² = 225. 200 − 196 = 4, 225 − 200 = 25. So 196 is closer."
+  },
+  {
+    "question": "Which cube number is closest to 200?",
+    "answer": "216",
+    "details": "5³ = 125, 6³ = 216. 200 − 125 = 75, 216 − 200 = 16. So 216 is closer."
+  },
+  {
+    "question": "What is the square of 25?",
+    "answer": "625",
+    "details": "25 × 25 = 625."
+  },
+  {
+    "question": "What is the cube of 15?",
+    "answer": "3375",
+    "details": "15 × 15 × 15 = 3375."
+  },
+  {
+    "question": "How many square numbers are between 100 and 200?",
+    "answer": "4",
+    "details": "11²=121, 12²=144, 13²=169, 14²=196. (15²=225 > 200). So 4."
+  },
+  {
+    "question": "How many cube numbers are between 100 and 500?",
+    "answer": "3",
+    "details": "5³=125, 6³=216, 7³=343. (8³=512 > 500). So 3."
+  },
+  {
+    "question": "Is 0 a square number?",
+    "answer": "Yes",
+    "details": "0 = 0 × 0, so it is a perfect square."
+  },
+  {
+    "question": "Is 0 a cube number?",
+    "answer": "Yes",
+    "details": "0 = 0 × 0 × 0, so it is a perfect cube."
+  },
+  {
+    "question": "What is the square of 30?",
+    "answer": "900",
+    "details": "30 × 30 = 900."
+  },
+  {
+    "question": "What is the cube of 20?",
+    "answer": "8000",
+    "details": "20 × 20 × 20 = 8000."
+  },
+  {
+    "question": "What is the sum of the squares of 3 and 4?",
+    "answer": "25",
+    "details": "3² + 4² = 9 + 16 = 25."
+  },
+  {
+    "question": "What is the sum of the cubes of 2 and 3?",
+    "answer": "35",
+    "details": "2³ + 3³ = 8 + 27 = 35."
+  },
+  {
+    "question": "In a chessboard, how many squares are there in total (including all sizes)?",
+    "answer": "204",
+    "details": "This is a classic problem: total squares = 1² + 2² + ... + 8² = 204. But for age 11, this may be advanced. However, the question is verifiable. Alternatively, for simplicity, we can ask about 1x1 squares: 64. But the question as stated is correct and appears in competitions."
+  },
+  {
+    "question": "If a number is both a square and a cube, what is the smallest such number greater than 1?",
+    "answer": "64",
+    "details": "The smallest number that is both a square and a cube (i.e., a sixth power) greater than 1 is 2⁶ = 64."
+  },
+  {
+    "question": "What is the square of 1?",
+    "answer": "1",
+    "details": "1 × 1 = 1."
+  },
+  {
+    "question": "What is the cube of 0?",
+    "answer": "0",
+    "details": "0 × 0 × 0 = 0."
+  },
+  {
+    "question": "Which has more numbers between 1 and 100: square numbers or cube numbers?",
+    "answer": "Square numbers",
+    "details": "There are 10 square numbers (1² to 10²) and 4 cube numbers (1³ to 4³) between 1 and 100."
+  },
+  {
+    "question": "What is the square root of 1?",
+    "answer": "1",
+    "details": "1 × 1 = 1, so √1 = 1."
+  },
+  {
+    "question": "What is the cube root of 1?",
+    "answer": "1",
+    "details": "1 × 1 × 1 = 1, so ∛1 = 1."
+  }
+]

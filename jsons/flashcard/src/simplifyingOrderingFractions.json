@@ -1,0 +1,479 @@
+[
+  {
+    "question": "What does it mean to simplify a fraction?",
+    "answer": "To reduce it to its lowest terms by dividing the numerator and denominator by their greatest common factor (GCF).",
+    "details": "Simplifying a fraction means expressing it in the simplest form where the numerator and denominator have no common factors other than 1. For example, 4/8 simplifies to 1/2."
+  },
+  {
+    "question": "What is the simplified form of 6/9?",
+    "answer": "2/3",
+    "details": "The GCF of 6 and 9 is 3. Divide both numerator and denominator by 3: 6 ÷ 3 = 2, 9 ÷ 3 = 3. So, 6/9 = 2/3."
+  },
+  {
+    "question": "Which fraction is larger: 3/4 or 2/3?",
+    "answer": "3/4",
+    "details": "Find a common denominator (12): 3/4 = 9/12, 2/3 = 8/12. Since 9/12 > 8/12, 3/4 is larger."
+  },
+  {
+    "question": "What is the simplified form of 10/25?",
+    "answer": "2/5",
+    "details": "GCF of 10 and 25 is 5. 10 ÷ 5 = 2, 25 ÷ 5 = 5. So, 10/25 = 2/5."
+  },
+  {
+    "question": "Which fraction is smaller: 1/5 or 1/4?",
+    "answer": "1/5",
+    "details": "When numerators are the same, the fraction with the larger denominator is smaller. Since 5 > 4, 1/5 < 1/4."
+  },
+  {
+    "question": "What is the simplified form of 15/20?",
+    "answer": "3/4",
+    "details": "GCF of 15 and 20 is 5. 15 ÷ 5 = 3, 20 ÷ 5 = 4. So, 15/20 = 3/4."
+  },
+  {
+    "question": "Order from least to greatest: 1/2, 1/3, 1/4.",
+    "answer": "1/4, 1/3, 1/2",
+    "details": "With the same numerator, larger denominators mean smaller fractions. So 1/4 < 1/3 < 1/2."
+  },
+  {
+    "question": "What is the simplified form of 18/24?",
+    "answer": "3/4",
+    "details": "GCF of 18 and 24 is 6. 18 ÷ 6 = 3, 24 ÷ 6 = 4. So, 18/24 = 3/4."
+  },
+  {
+    "question": "Which fraction is equivalent to 2/5?",
+    "answer": "4/10",
+    "details": "Multiply numerator and denominator of 2/5 by 2: (2×2)/(5×2) = 4/10. Both simplify to the same value."
+  },
+  {
+    "question": "Order from greatest to least: 2/3, 3/4, 1/2.",
+    "answer": "3/4, 2/3, 1/2",
+    "details": "Convert to twelfths: 2/3 = 8/12, 3/4 = 9/12, 1/2 = 6/12. So 9/12 > 8/12 > 6/12."
+  },
+  {
+    "question": "What is the simplified form of 21/28?",
+    "answer": "3/4",
+    "details": "GCF of 21 and 28 is 7. 21 ÷ 7 = 3, 28 ÷ 7 = 4. So, 21/28 = 3/4."
+  },
+  {
+    "question": "Is 5/10 in its simplest form?",
+    "answer": "No",
+    "details": "5/10 can be simplified by dividing numerator and denominator by 5: 5 ÷ 5 = 1, 10 ÷ 5 = 2. So it simplifies to 1/2."
+  },
+  {
+    "question": "Which is greater: 5/6 or 7/8?",
+    "answer": "7/8",
+    "details": "Common denominator is 24: 5/6 = 20/24, 7/8 = 21/24. Since 21/24 > 20/24, 7/8 is greater."
+  },
+  {
+    "question": "What is the simplified form of 12/18?",
+    "answer": "2/3",
+    "details": "GCF of 12 and 18 is 6. 12 ÷ 6 = 2, 18 ÷ 6 = 3. So, 12/18 = 2/3."
+  },
+  {
+    "question": "Order from least to greatest: 3/5, 2/5, 4/5.",
+    "answer": "2/5, 3/5, 4/5",
+    "details": "Same denominator: compare numerators. 2 < 3 < 4, so 2/5 < 3/5 < 4/5."
+  },
+  {
+    "question": "What is the simplified form of 14/21?",
+    "answer": "2/3",
+    "details": "GCF of 14 and 21 is 7. 14 ÷ 7 = 2, 21 ÷ 7 = 3. So, 14/21 = 2/3."
+  },
+  {
+    "question": "Which fraction is larger: 7/10 or 3/4?",
+    "answer": "3/4",
+    "details": "Common denominator is 20: 7/10 = 14/20, 3/4 = 15/20. Since 15/20 > 14/20, 3/4 is larger."
+  },
+  {
+    "question": "What is the simplified form of 25/35?",
+    "answer": "5/7",
+    "details": "GCF of 25 and 35 is 5. 25 ÷ 5 = 5, 35 ÷ 5 = 7. So, 25/35 = 5/7."
+  },
+  {
+    "question": "Is 9/12 equal to 3/4?",
+    "answer": "Yes",
+    "details": "9/12 simplifies to 3/4 (divide numerator and denominator by 3), so they are equivalent."
+  },
+  {
+    "question": "Order from greatest to least: 5/6, 4/5, 3/4.",
+    "answer": "5/6, 4/5, 3/4",
+    "details": "Common denominator 60: 5/6=50/60, 4/5=48/60, 3/4=45/60. So 50/60 > 48/60 > 45/60."
+  },
+  {
+    "question": "What is the simplified form of 16/20?",
+    "answer": "4/5",
+    "details": "GCF of 16 and 20 is 4. 16 ÷ 4 = 4, 20 ÷ 4 = 5. So, 16/20 = 4/5."
+  },
+  {
+    "question": "Which is smaller: 2/7 or 2/9?",
+    "answer": "2/9",
+    "details": "Same numerator: larger denominator means smaller fraction. Since 9 > 7, 2/9 < 2/7."
+  },
+  {
+    "question": "What is the simplified form of 30/45?",
+    "answer": "2/3",
+    "details": "GCF of 30 and 45 is 15. 30 ÷ 15 = 2, 45 ÷ 15 = 3. So, 30/45 = 2/3."
+  },
+  {
+    "question": "Order from least to greatest: 1/2, 2/3, 3/4.",
+    "answer": "1/2, 2/3, 3/4",
+    "details": "Common denominator 12: 1/2=6/12, 2/3=8/12, 3/4=9/12. So 6/12 < 8/12 < 9/12."
+  },
+  {
+    "question": "What is the simplified form of 8/12?",
+    "answer": "2/3",
+    "details": "GCF of 8 and 12 is 4. 8 ÷ 4 = 2, 12 ÷ 4 = 3. So, 8/12 = 2/3."
+  },
+  {
+    "question": "Which fraction is larger: 4/9 or 5/12?",
+    "answer": "4/9",
+    "details": "Common denominator 36: 4/9 = 16/36, 5/12 = 15/36. Since 16/36 > 15/36, 4/9 is larger."
+  },
+  {
+    "question": "What is the simplified form of 27/36?",
+    "answer": "3/4",
+    "details": "GCF of 27 and 36 is 9. 27 ÷ 9 = 3, 36 ÷ 9 = 4. So, 27/36 = 3/4."
+  },
+  {
+    "question": "Is 10/15 in simplest form?",
+    "answer": "No",
+    "details": "10/15 simplifies to 2/3 (GCF is 5), so it is not in simplest form."
+  },
+  {
+    "question": "Order from least to greatest: 3/8, 1/2, 5/8.",
+    "answer": "3/8, 1/2, 5/8",
+    "details": "Common denominator 8: 3/8, 1/2=4/8, 5/8. So 3/8 < 4/8 < 5/8."
+  },
+  {
+    "question": "What is the simplified form of 20/30?",
+    "answer": "2/3",
+    "details": "GCF of 20 and 30 is 10. 20 ÷ 10 = 2, 30 ÷ 10 = 3. So, 20/30 = 2/3."
+  },
+  {
+    "question": "Which is greater: 7/9 or 5/6?",
+    "answer": "5/6",
+    "details": "Common denominator 18: 7/9 = 14/18, 5/6 = 15/18. Since 15/18 > 14/18, 5/6 is greater."
+  },
+  {
+    "question": "What is the simplified form of 35/50?",
+    "answer": "7/10",
+    "details": "GCF of 35 and 50 is 5. 35 ÷ 5 = 7, 50 ÷ 5 = 10. So, 35/50 = 7/10."
+  },
+  {
+    "question": "Order from greatest to least: 2/5, 3/5, 1/5.",
+    "answer": "3/5, 2/5, 1/5",
+    "details": "Same denominator: compare numerators. 3 > 2 > 1, so 3/5 > 2/5 > 1/5."
+  },
+  {
+    "question": "What is the simplified form of 42/49?",
+    "answer": "6/7",
+    "details": "GCF of 42 and 49 is 7. 42 ÷ 7 = 6, 49 ÷ 7 = 7. So, 42/49 = 6/7."
+  },
+  {
+    "question": "Which fraction is smaller: 3/7 or 2/5?",
+    "answer": "2/5",
+    "details": "Common denominator 35: 3/7 = 15/35, 2/5 = 14/35. Since 14/35 < 15/35, 2/5 is smaller."
+  },
+  {
+    "question": "What is the simplified form of 50/100?",
+    "answer": "1/2",
+    "details": "GCF of 50 and 100 is 50. 50 ÷ 50 = 1, 100 ÷ 50 = 2. So, 50/100 = 1/2."
+  },
+  {
+    "question": "Order from least to greatest: 4/9, 1/3, 5/9.",
+    "answer": "1/3, 4/9, 5/9",
+    "details": "Common denominator 9: 1/3 = 3/9, 4/9, 5/9. So 3/9 < 4/9 < 5/9."
+  },
+  {
+    "question": "What is the simplified form of 64/80?",
+    "answer": "4/5",
+    "details": "GCF of 64 and 80 is 16. 64 ÷ 16 = 4, 80 ÷ 16 = 5. So, 64/80 = 4/5."
+  },
+  {
+    "question": "Which is larger: 5/8 or 2/3?",
+    "answer": "2/3",
+    "details": "Common denominator 24: 5/8 = 15/24, 2/3 = 16/24. Since 16/24 > 15/24, 2/3 is larger."
+  },
+  {
+    "question": "What is the simplified form of 18/45?",
+    "answer": "2/5",
+    "details": "GCF of 18 and 45 is 9. 18 ÷ 9 = 2, 45 ÷ 9 = 5. So, 18/45 = 2/5."
+  },
+  {
+    "question": "Is 8/10 equal to 4/5?",
+    "answer": "Yes",
+    "details": "8/10 simplifies to 4/5 (divide by 2), so they are equivalent."
+  },
+  {
+    "question": "Order from greatest to least: 7/8, 5/6, 3/4.",
+    "answer": "7/8, 5/6, 3/4",
+    "details": "Common denominator 24: 7/8=21/24, 5/6=20/24, 3/4=18/24. So 21/24 > 20/24 > 18/24."
+  },
+  {
+    "question": "What is the simplified form of 28/35?",
+    "answer": "4/5",
+    "details": "GCF of 28 and 35 is 7. 28 ÷ 7 = 4, 35 ÷ 7 = 5. So, 28/35 = 4/5."
+  },
+  {
+    "question": "Which is smaller: 5/12 or 3/8?",
+    "answer": "5/12",
+    "details": "Common denominator 24: 5/12 = 10/24, 3/8 = 9/24. Wait—9/24 < 10/24, so 3/8 is smaller. Correction: 3/8 = 9/24, 5/12 = 10/24, so 3/8 < 5/12. Therefore, the smaller is 3/8. But the question asks 'which is smaller: 5/12 or 3/8?' → Answer: 3/8. However, the original answer was '5/12', which is incorrect. We correct it.",
+    "answer": "3/8",
+    "details": "Common denominator 24: 5/12 = 10/24, 3/8 = 9/24. Since 9/24 < 10/24, 3/8 is smaller."
+  },
+  {
+    "question": "What is the simplified form of 24/36?",
+    "answer": "2/3",
+    "details": "GCF of 24 and 36 is 12. 24 ÷ 12 = 2, 36 ÷ 12 = 3. So, 24/36 = 2/3."
+  },
+  {
+    "question": "Order from least to greatest: 2/7, 3/7, 1/7.",
+    "answer": "1/7, 2/7, 3/7",
+    "details": "Same denominator: compare numerators. 1 < 2 < 3, so 1/7 < 2/7 < 3/7."
+  },
+  {
+    "question": "What is the simplified form of 45/60?",
+    "answer": "3/4",
+    "details": "GCF of 45 and 60 is 15. 45 ÷ 15 = 3, 60 ÷ 15 = 4. So, 45/60 = 3/4."
+  },
+  {
+    "question": "Which fraction is larger: 3/5 or 4/7?",
+    "answer": "3/5",
+    "details": "Common denominator 35: 3/5 = 21/35, 4/7 = 20/35. Since 21/35 > 20/35, 3/5 is larger."
+  },
+  {
+    "question": "What is the simplified form of 32/48?",
+    "answer": "2/3",
+    "details": "GCF of 32 and 48 is 16. 32 ÷ 16 = 2, 48 ÷ 16 = 3. So, 32/48 = 2/3."
+  },
+  {
+    "question": "Order from greatest to least: 3/10, 7/10, 1/10.",
+    "answer": "7/10, 3/10, 1/10",
+    "details": "Same denominator: compare numerators. 7 > 3 > 1, so 7/10 > 3/10 > 1/10."
+  },
+  {
+    "question": "What is the simplified form of 22/33?",
+    "answer": "2/3",
+    "details": "GCF of 22 and 33 is 11. 22 ÷ 11 = 2, 33 ÷ 11 = 3. So, 22/33 = 2/3."
+  },
+  {
+    "question": "Which is greater: 5/9 or 6/11?",
+    "answer": "5/9",
+    "details": "Common denominator 99: 5/9 = 55/99, 6/11 = 54/99. Since 55/99 > 54/99, 5/9 is greater."
+  },
+  {
+    "question": "What is the simplified form of 36/48?",
+    "answer": "3/4",
+    "details": "GCF of 36 and 48 is 12. 36 ÷ 12 = 3, 48 ÷ 12 = 4. So, 36/48 = 3/4."
+  },
+  {
+    "question": "Order from least to greatest: 5/6, 7/8, 3/4.",
+    "answer": "3/4, 5/6, 7/8",
+    "details": "Common denominator 24: 3/4=18/24, 5/6=20/24, 7/8=21/24. So 18/24 < 20/24 < 21/24."
+  },
+  {
+    "question": "What is the simplified form of 100/125?",
+    "answer": "4/5",
+    "details": "GCF of 100 and 125 is 25. 100 ÷ 25 = 4, 125 ÷ 25 = 5. So, 100/125 = 4/5."
+  },
+  {
+    "question": "Which fraction is smaller: 4/5 or 5/6?",
+    "answer": "4/5",
+    "details": "Common denominator 30: 4/5 = 24/30, 5/6 = 25/30. Since 24/30 < 25/30, 4/5 is smaller."
+  },
+  {
+    "question": "What is the simplified form of 14/42?",
+    "answer": "1/3",
+    "details": "GCF of 14 and 42 is 14. 14 ÷ 14 = 1, 42 ÷ 14 = 3. So, 14/42 = 1/3."
+  },
+  {
+    "question": "Is 12/16 equal to 3/4?",
+    "answer": "Yes",
+    "details": "12/16 simplifies to 3/4 (divide by 4), so they are equivalent."
+  },
+  {
+    "question": "Order from greatest to least: 2/3, 5/8, 3/5.",
+    "answer": "2/3, 5/8, 3/5",
+    "details": "Common denominator 120: 2/3=80/120, 5/8=75/120, 3/5=72/120. So 80/120 > 75/120 > 72/120."
+  },
+  {
+    "question": "What is the simplified form of 56/64?",
+    "answer": "7/8",
+    "details": "GCF of 56 and 64 is 8. 56 ÷ 8 = 7, 64 ÷ 8 = 8. So, 56/64 = 7/8."
+  },
+  {
+    "question": "Which is larger: 9/10 or 8/9?",
+    "answer": "9/10",
+    "details": "Common denominator 90: 9/10 = 81/90, 8/9 = 80/90. Since 81/90 > 80/90, 9/10 is larger."
+  },
+  {
+    "question": "What is the simplified form of 40/60?",
+    "answer": "2/3",
+    "details": "GCF of 40 and 60 is 20. 40 ÷ 20 = 2, 60 ÷ 20 = 3. So, 40/60 = 2/3."
+  },
+  {
+    "question": "Order from least to greatest: 3/10, 1/4, 2/5.",
+    "answer": "1/4, 3/10, 2/5",
+    "details": "Common denominator 20: 1/4=5/20, 3/10=6/20, 2/5=8/20. So 5/20 < 6/20 < 8/20."
+  },
+  {
+    "question": "What is the simplified form of 63/81?",
+    "answer": "7/9",
+    "details": "GCF of 63 and 81 is 9. 63 ÷ 9 = 7, 81 ÷ 9 = 9. So, 63/81 = 7/9."
+  },
+  {
+    "question": "Which fraction is smaller: 7/12 or 5/9?",
+    "answer": "7/12",
+    "details": "Common denominator 36: 7/12 = 21/36, 5/9 = 20/36. Since 20/36 < 21/36, 5/9 is smaller. Wait—so 5/9 < 7/12. Therefore, the smaller is 5/9. But the question asks 'which is smaller: 7/12 or 5/9?' → Answer: 5/9. We correct.",
+    "answer": "5/9",
+    "details": "Common denominator 36: 7/12 = 21/36, 5/9 = 20/36. Since 20/36 < 21/36, 5/9 is smaller."
+  },
+  {
+    "question": "What is the simplified form of 48/72?",
+    "answer": "2/3",
+    "details": "GCF of 48 and 72 is 24. 48 ÷ 24 = 2, 72 ÷ 24 = 3. So, 48/72 = 2/3."
+  },
+  {
+    "question": "Order from least to greatest: 4/7, 5/8, 3/5.",
+    "answer": "3/5, 4/7, 5/8",
+    "details": "Common denominator 280: 3/5=168/280, 4/7=160/280, 5/8=175/280. Wait—160 < 168 < 175, so 4/7 < 3/5 < 5/8. Correction: 4/7 ≈ 0.571, 3/5 = 0.6, 5/8 = 0.625. So order: 4/7, 3/5, 5/8. But the answer above is wrong. We correct.",
+    "answer": "4/7, 3/5, 5/8",
+    "details": "Convert to decimals or common denominator: 4/7 ≈ 0.571, 3/5 = 0.6, 5/8 = 0.625. So 4/7 < 3/5 < 5/8."
+  },
+  {
+    "question": "What is the simplified form of 26/39?",
+    "answer": "2/3",
+    "details": "GCF of 26 and 39 is 13. 26 ÷ 13 = 2, 39 ÷ 13 = 3. So, 26/39 = 2/3."
+  },
+  {
+    "question": "Which is greater: 11/12 or 10/11?",
+    "answer": "11/12",
+    "details": "Common denominator 132: 11/12 = 121/132, 10/11 = 120/132. Since 121/132 > 120/132, 11/12 is greater."
+  },
+  {
+    "question": "What is the simplified form of 30/42?",
+    "answer": "5/7",
+    "details": "GCF of 30 and 42 is 6. 30 ÷ 6 = 5, 42 ÷ 6 = 7. So, 30/42 = 5/7."
+  },
+  {
+    "question": "Order from greatest to least: 5/7, 3/4, 2/3.",
+    "answer": "3/4, 5/7, 2/3",
+    "details": "Common denominator 84: 3/4=63/84, 5/7=60/84, 2/3=56/84. So 63/84 > 60/84 > 56/84."
+  },
+  {
+    "question": "What is the simplified form of 54/72?",
+    "answer": "3/4",
+    "details": "GCF of 54 and 72 is 18. 54 ÷ 18 = 3, 72 ÷ 18 = 4. So, 54/72 = 3/4."
+  },
+  {
+    "question": "Which fraction is larger: 8/15 or 7/13?",
+    "answer": "7/13",
+    "details": "Common denominator 195: 8/15 = 104/195, 7/13 = 105/195. Since 105/195 > 104/195, 7/13 is larger."
+  },
+  {
+    "question": "What is the simplified form of 20/25?",
+    "answer": "4/5",
+    "details": "GCF of 20 and 25 is 5. 20 ÷ 5 = 4, 25 ÷ 5 = 5. So, 20/25 = 4/5."
+  },
+  {
+    "question": "Order from least to greatest: 2/9, 1/4, 3/10.",
+    "answer": "2/9, 1/4, 3/10",
+    "details": "Common denominator 180: 2/9=40/180, 1/4=45/180, 3/10=54/180. So 40/180 < 45/180 < 54/180."
+  },
+  {
+    "question": "What is the simplified form of 60/90?",
+    "answer": "2/3",
+    "details": "GCF of 60 and 90 is 30. 60 ÷ 30 = 2, 90 ÷ 30 = 3. So, 60/90 = 2/3."
+  },
+  {
+    "question": "Which is smaller: 9/11 or 8/10?",
+    "answer": "8/10",
+    "details": "8/10 = 4/5 = 0.8, 9/11 ≈ 0.818. So 0.8 < 0.818, thus 8/10 is smaller."
+  },
+  {
+    "question": "What is the simplified form of 33/55?",
+    "answer": "3/5",
+    "details": "GCF of 33 and 55 is 11. 33 ÷ 11 = 3, 55 ÷ 11 = 5. So, 33/55 = 3/5."
+  },
+  {
+    "question": "Order from greatest to least: 7/9, 4/5, 5/6.",
+    "answer": "5/6, 4/5, 7/9",
+    "details": "Common denominator 90: 5/6=75/90, 4/5=72/90, 7/9=70/90. So 75/90 > 72/90 > 70/90."
+  },
+  {
+    "question": "What is the simplified form of 18/30?",
+    "answer": "3/5",
+    "details": "GCF of 18 and 30 is 6. 18 ÷ 6 = 3, 30 ÷ 6 = 5. So, 18/30 = 3/5."
+  },
+  {
+    "question": "Which fraction is equivalent to 3/8?",
+    "answer": "6/16",
+    "details": "Multiply numerator and denominator of 3/8 by 2: (3×2)/(8×2) = 6/16. Both simplify to the same value."
+  },
+  {
+    "question": "What is the simplified form of 45/75?",
+    "answer": "3/5",
+    "details": "GCF of 45 and 75 is 15. 45 ÷ 15 = 3, 75 ÷ 15 = 5. So, 45/75 = 3/5."
+  },
+  {
+    "question": "Order from least to greatest: 5/12, 3/8, 7/16.",
+    "answer": "7/16, 3/8, 5/12",
+    "details": "Common denominator 48: 5/12=20/48, 3/8=18/48, 7/16=21/48. Wait—18 < 20 < 21, so 3/8 < 5/12 < 7/16. But 7/16 = 21/48 is largest. Correction: 3/8=18/48, 5/12=20/48, 7/16=21/48. So order: 3/8, 5/12, 7/16. However, the question asks for least to greatest, so answer should be 3/8, 5/12, 7/16. But we listed 7/16 first. We correct.",
+    "answer": "3/8, 5/12, 7/16",
+    "details": "Common denominator 48: 3/8 = 18/48, 5/12 = 20/48, 7/16 = 21/48. So 18/48 < 20/48 < 21/48."
+  },
+  {
+    "question": "What is the simplified form of 50/70?",
+    "answer": "5/7",
+    "details": "GCF of 50 and 70 is 10. 50 ÷ 10 = 5, 70 ÷ 10 = 7. So, 50/70 = 5/7."
+  },
+  {
+    "question": "Which is greater: 13/16 or 5/6?",
+    "answer": "5/6",
+    "details": "Common denominator 48: 13/16 = 39/48, 5/6 = 40/48. Since 40/48 > 39/48, 5/6 is greater."
+  },
+  {
+    "question": "What is the simplified form of 21/35?",
+    "answer": "3/5",
+    "details": "GCF of 21 and 35 is 7. 21 ÷ 7 = 3, 35 ÷ 7 = 5. So, 21/35 = 3/5."
+  },
+  {
+    "question": "Order from greatest to least: 3/7, 4/9, 5/11.",
+    "answer": "3/7, 4/9, 5/11",
+    "details": "Convert to decimals: 3/7 ≈ 0.428, 4/9 ≈ 0.444, 5/11 ≈ 0.454. Wait—0.454 > 0.444 > 0.428, so 5/11 > 4/9 > 3/7. Correction needed.",
+    "answer": "5/11, 4/9, 3/7",
+    "details": "Using common denominator 693: 3/7=297/693, 4/9=308/693, 5/11=315/693. So 315/693 > 308/693 > 297/693."
+  },
+  {
+    "question": "What is the simplified form of 24/40?",
+    "answer": "3/5",
+    "details": "GCF of 24 and 40 is 8. 24 ÷ 8 = 3, 40 ÷ 8 = 5. So, 24/40 = 3/5."
+  },
+  {
+    "question": "Which fraction is smaller: 6/11 or 7/13?",
+    "answer": "7/13",
+    "details": "Common denominator 143: 6/11 = 78/143, 7/13 = 77/143. Since 77/143 < 78/143, 7/13 is smaller."
+  },
+  {
+    "question": "What is the simplified form of 36/60?",
+    "answer": "3/5",
+    "details": "GCF of 36 and 60 is 12. 36 ÷ 12 = 3, 60 ÷ 12 = 5. So, 36/60 = 3/5."
+  },
+  {
+    "question": "Order from least to greatest: 2/5, 3/7, 4/9.",
+    "answer": "4/9, 3/7, 2/5",
+    "details": "Common denominator 315: 2/5=126/315, 3/7=135/315, 4/9=140/315. Wait—126 < 135 < 140, so 2/5 < 3/7 < 4/9. Correction.",
+    "answer": "2/5, 3/7, 4/9",
+    "details": "Common denominator 315: 2/5 = 126/315, 3/7 = 135/315, 4/9 = 140/315. So 126/315 < 135/315 < 140/315."
+  },
+  {
+    "question": "What is the simplified form of 42/70?",
+    "answer": "3/5",
+    "details": "GCF of 42 and 70 is 14. 42 ÷ 14 = 3, 70 ÷ 14 = 5. So, 42/70 = 3/5."
+  },
+  {
+    "question": "Which is larger: 1/2 or 5/9?",
+    "answer": "5/9",
+    "details": "Common denominator 18: 1/2 = 9/18, 5/9 = 10/18. Since 10/18 > 9/18, 5/9 is larger."
+  }
+]

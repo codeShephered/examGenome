@@ -1,0 +1,522 @@
+[
+  {
+    "question": "What is 3.4 + 2.7?",
+    "answer": "6.1",
+    "details": "Align decimals: 3.4 + 2.7. Add tenths: 4 + 7 = 11 → write 1, carry 1. Add ones: 3 + 2 + 1 = 6. Result: 6.1."
+  },
+  {
+    "question": "What is 5.6 − 2.3?",
+    "answer": "3.3",
+    "details": "Align decimals: 5.6 − 2.3. Subtract tenths: 6 − 3 = 3. Subtract ones: 5 − 2 = 3. Result: 3.3."
+  },
+  {
+    "question": "What is 4 × 0.5?",
+    "answer": "2.0",
+    "details": "Multiply as whole numbers: 4 × 5 = 20. Since 0.5 has one decimal place, the product has one decimal place: 2.0."
+  },
+  {
+    "question": "What is 6 ÷ 0.5?",
+    "answer": "12",
+    "details": "Dividing by 0.5 is the same as multiplying by 2, because 1 ÷ 0.5 = 2. So 6 ÷ 0.5 = 6 × 2 = 12."
+  },
+  {
+    "question": "What is 1.25 + 0.75?",
+    "answer": "2.00",
+    "details": "Align decimals: 1.25 + 0.75. Hundredths: 5 + 5 = 10 → 0, carry 1. Tenths: 2 + 7 + 1 = 10 → 0, carry 1. Ones: 1 + 0 + 1 = 2. Result: 2.00."
+  },
+  {
+    "question": "What is 8.4 − 3.9?",
+    "answer": "4.5",
+    "details": "Align decimals. Tenths: 4 − 9 → borrow → 14 − 9 = 5. Ones: 7 (after borrow) − 3 = 4. Result: 4.5."
+  },
+  {
+    "question": "What is 0.6 × 0.4?",
+    "answer": "0.24",
+    "details": "Multiply 6 × 4 = 24. Total decimal places: 1 + 1 = 2. So place decimal two places from right: 0.24."
+  },
+  {
+    "question": "What is 1.8 ÷ 0.3?",
+    "answer": "6",
+    "details": "Multiply numerator and denominator by 10: (1.8 × 10) ÷ (0.3 × 10) = 18 ÷ 3 = 6."
+  },
+  {
+    "question": "What is 2.3 + 4.56?",
+    "answer": "6.86",
+    "details": "Align decimals: 2.30 + 4.56. Hundredths: 0 + 6 = 6. Tenths: 3 + 5 = 8. Ones: 2 + 4 = 6. Result: 6.86."
+  },
+  {
+    "question": "What is 7.0 − 2.45?",
+    "answer": "4.55",
+    "details": "Write 7.0 as 7.00. Hundredths: 0 − 5 → borrow → 10 − 5 = 5. Tenths: 9 (after borrow) − 4 = 5. Ones: 6 − 2 = 4. Result: 4.55."
+  },
+  {
+    "question": "What is 5 × 1.2?",
+    "answer": "6.0",
+    "details": "5 × 12 = 60. One decimal place in 1.2, so result has one decimal place: 6.0."
+  },
+  {
+    "question": "What is 4.5 ÷ 0.5?",
+    "answer": "9",
+    "details": "4.5 ÷ 0.5 = (4.5 × 10) ÷ (0.5 × 10) = 45 ÷ 5 = 9."
+  },
+  {
+    "question": "What is 0.99 + 0.01?",
+    "answer": "1.00",
+    "details": "Hundredths: 9 + 1 = 10 → 0, carry 1. Tenths: 9 + 0 + 1 = 10 → 0, carry 1. Ones: 0 + 0 + 1 = 1. Result: 1.00."
+  },
+  {
+    "question": "What is 10.0 − 0.1?",
+    "answer": "9.9",
+    "details": "10.0 − 0.1 = 9.9, since subtracting one-tenth from ten gives nine and nine-tenths."
+  },
+  {
+    "question": "What is 0.7 × 3?",
+    "answer": "2.1",
+    "details": "7 × 3 = 21. One decimal place in 0.7, so result: 2.1."
+  },
+  {
+    "question": "What is 2.4 ÷ 0.6?",
+    "answer": "4",
+    "details": "2.4 ÷ 0.6 = (2.4 × 10) ÷ (0.6 × 10) = 24 ÷ 6 = 4."
+  },
+  {
+    "question": "What is $3.25 + $2.75?",
+    "answer": "$6.00",
+    "details": "Add cents: 25 + 75 = 100 cents = $1.00. Add dollars: 3 + 2 + 1 = $6.00."
+  },
+  {
+    "question": "What is $10.00 − $4.35?",
+    "answer": "$5.65",
+    "details": "Subtract cents: 0 − 35 → borrow → 100 − 35 = 65 cents. Dollars: 9 − 4 = $5. Result: $5.65."
+  },
+  {
+    "question": "What is 0.25 × 4?",
+    "answer": "1.00",
+    "details": "25 × 4 = 100. Two decimal places in 0.25, so result: 1.00."
+  },
+  {
+    "question": "What is 3.6 ÷ 0.9?",
+    "answer": "4",
+    "details": "3.6 ÷ 0.9 = (3.6 × 10) ÷ (0.9 × 10) = 36 ÷ 9 = 4."
+  },
+  {
+    "question": "What is 1.1 + 2.2 + 3.3?",
+    "answer": "6.6",
+    "details": "Add sequentially: 1.1 + 2.2 = 3.3; 3.3 + 3.3 = 6.6."
+  },
+  {
+    "question": "What is 5.55 − 2.22?",
+    "answer": "3.33",
+    "details": "Subtract each place: 5−2=3 in hundredths, tenths, and ones. Result: 3.33."
+  },
+  {
+    "question": "What is 0.1 × 0.1?",
+    "answer": "0.01",
+    "details": "1 × 1 = 1. Total decimal places: 1 + 1 = 2. So 0.01."
+  },
+  {
+    "question": "What is 0.64 ÷ 0.8?",
+    "answer": "0.8",
+    "details": "0.64 ÷ 0.8 = (0.64 × 10) ÷ (0.8 × 10) = 6.4 ÷ 8 = 0.8."
+  },
+  {
+    "question": "What is 4.05 + 3.95?",
+    "answer": "8.00",
+    "details": "Hundredths: 5 + 5 = 10 → 0, carry 1. Tenths: 0 + 9 + 1 = 10 → 0, carry 1. Ones: 4 + 3 + 1 = 8. Result: 8.00."
+  },
+  {
+    "question": "What is 6.7 − 1.8?",
+    "answer": "4.9",
+    "details": "Tenths: 7 − 8 → borrow → 17 − 8 = 9. Ones: 5 − 1 = 4. Result: 4.9."
+  },
+  {
+    "question": "What is 1.5 × 2?",
+    "answer": "3.0",
+    "details": "15 × 2 = 30. One decimal place in 1.5, so result: 3.0."
+  },
+  {
+    "question": "What is 1.44 ÷ 1.2?",
+    "answer": "1.2",
+    "details": "Multiply numerator and denominator by 10: 14.4 ÷ 12 = 1.2."
+  },
+  {
+    "question": "What is 0.5 + 0.25 + 0.25?",
+    "answer": "1.0",
+    "details": "0.5 + 0.25 = 0.75; 0.75 + 0.25 = 1.0."
+  },
+  {
+    "question": "What is 9.01 − 0.01?",
+    "answer": "9.00",
+    "details": "Subtract hundredths: 1 − 1 = 0. All other digits unchanged. Result: 9.00."
+  },
+  {
+    "question": "What is 0.9 × 0.9?",
+    "answer": "0.81",
+    "details": "9 × 9 = 81. Two decimal places total, so 0.81."
+  },
+  {
+    "question": "What is 2.5 ÷ 0.5?",
+    "answer": "5",
+    "details": "2.5 ÷ 0.5 = (2.5 × 10) ÷ (0.5 × 10) = 25 ÷ 5 = 5."
+  },
+  {
+    "question": "What is 7.89 + 1.11?",
+    "answer": "9.00",
+    "details": "Hundredths: 9 + 1 = 10 → 0, carry 1. Tenths: 8 + 1 + 1 = 10 → 0, carry 1. Ones: 7 + 1 + 1 = 9. Result: 9.00."
+  },
+  {
+    "question": "What is 4.2 − 1.35?",
+    "answer": "2.85",
+    "details": "Write 4.2 as 4.20. Hundredths: 0 − 5 → borrow → 10 − 5 = 5. Tenths: 1 (after borrow) − 3 → borrow → 11 − 3 = 8. Ones: 3 − 1 = 2. Result: 2.85."
+  },
+  {
+    "question": "What is 3.3 × 3?",
+    "answer": "9.9",
+    "details": "33 × 3 = 99. One decimal place in 3.3, so result: 9.9."
+  },
+  {
+    "question": "What is 0.49 ÷ 0.7?",
+    "answer": "0.7",
+    "details": "0.49 ÷ 0.7 = (0.49 × 10) ÷ (0.7 × 10) = 4.9 ÷ 7 = 0.7."
+  },
+  {
+    "question": "What is 2.5 + 3.75?",
+    "answer": "6.25",
+    "details": "2.50 + 3.75: hundredths 0+5=5, tenths 5+7=12 → 2 carry 1, ones 2+3+1=6. Result: 6.25."
+  },
+  {
+    "question": "What is 10.5 − 4.75?",
+    "answer": "5.75",
+    "details": "10.50 − 4.75: hundredths 0−5 → borrow → 10−5=5; tenths 4−7 → borrow → 14−7=7; ones 9−4=5. Result: 5.75."
+  },
+  {
+    "question": "What is 0.12 × 5?",
+    "answer": "0.60",
+    "details": "12 × 5 = 60. Two decimal places in 0.12, so result: 0.60."
+  },
+  {
+    "question": "What is 1.6 ÷ 0.4?",
+    "answer": "4",
+    "details": "1.6 ÷ 0.4 = (1.6 × 10) ÷ (0.4 × 10) = 16 ÷ 4 = 4."
+  },
+  {
+    "question": "What is 0.333 + 0.667?",
+    "answer": "1.000",
+    "details": "Thousandths: 3+7=10 → 0 carry 1; hundredths: 3+6+1=10 → 0 carry 1; tenths: 3+6+1=10 → 0 carry 1; ones: 1. Result: 1.000."
+  },
+  {
+    "question": "What is 8.0 − 0.08?",
+    "answer": "7.92",
+    "details": "8.00 − 0.08: hundredths 0−8 → borrow → 10−8=2; tenths 9−0=9; ones 7−0=7. Result: 7.92."
+  },
+  {
+    "question": "What is 2.25 × 4?",
+    "answer": "9.00",
+    "details": "225 × 4 = 900. Two decimal places in 2.25, so result: 9.00."
+  },
+  {
+    "question": "What is 0.81 ÷ 0.9?",
+    "answer": "0.9",
+    "details": "0.81 ÷ 0.9 = (0.81 × 10) ÷ (0.9 × 10) = 8.1 ÷ 9 = 0.9."
+  },
+  {
+    "question": "What is 1.2 + 3.45 + 0.35?",
+    "answer": "5.00",
+    "details": "1.20 + 3.45 = 4.65; 4.65 + 0.35 = 5.00."
+  },
+  {
+    "question": "What is 6.0 − 2.25?",
+    "answer": "3.75",
+    "details": "6.00 − 2.25: hundredths 0−5 → borrow → 10−5=5; tenths 9−2=7; ones 5−2=3. Result: 3.75."
+  },
+  {
+    "question": "What is 0.05 × 6?",
+    "answer": "0.30",
+    "details": "5 × 6 = 30. Two decimal places in 0.05, so result: 0.30."
+  },
+  {
+    "question": "What is 2.25 ÷ 0.5?",
+    "answer": "4.5",
+    "details": "2.25 ÷ 0.5 = (2.25 × 100) ÷ (0.5 × 100) = 225 ÷ 50 = 4.5."
+  },
+  {
+    "question": "What is 5.5 + 4.5?",
+    "answer": "10.0",
+    "details": "5.5 + 4.5 = 10.0, since 55 tenths + 45 tenths = 100 tenths = 10.0."
+  },
+  {
+    "question": "What is 7.77 − 2.22?",
+    "answer": "5.55",
+    "details": "Subtract each digit: 7−2=5 in each place. Result: 5.55."
+  },
+  {
+    "question": "What is 1.1 × 1.1?",
+    "answer": "1.21",
+    "details": "11 × 11 = 121. Two decimal places total, so 1.21."
+  },
+  {
+    "question": "What is 1.44 ÷ 0.12?",
+    "answer": "12",
+    "details": "Multiply numerator and denominator by 100: 144 ÷ 12 = 12."
+  },
+  {
+    "question": "What is $12.50 + $7.75?",
+    "answer": "$20.25",
+    "details": "Dollars: 12 + 7 = 19. Cents: 50 + 75 = 125 cents = $1.25. Total: 19 + 1.25 = $20.25."
+  },
+  {
+    "question": "What is $20.00 − $13.65?",
+    "answer": "$6.35",
+    "details": "Borrow as needed: cents 00−65 → 100−65=35; dollars 19−13=6. Result: $6.35."
+  },
+  {
+    "question": "What is 0.2 × 0.5?",
+    "answer": "0.10",
+    "details": "2 × 5 = 10. Two decimal places total, so 0.10."
+  },
+  {
+    "question": "What is 3.5 ÷ 0.7?",
+    "answer": "5",
+    "details": "3.5 ÷ 0.7 = (3.5 × 10) ÷ (0.7 × 10) = 35 ÷ 7 = 5."
+  },
+  {
+    "question": "What is 0.75 + 0.25?",
+    "answer": "1.00",
+    "details": "75 hundredths + 25 hundredths = 100 hundredths = 1.00."
+  },
+  {
+    "question": "What is 9.9 − 0.99?",
+    "answer": "8.91",
+    "details": "9.90 − 0.99: hundredths 0−9 → borrow → 10−9=1; tenths 8−9 → borrow → 18−9=9; ones 8−0=8. Result: 8.91."
+  },
+  {
+    "question": "What is 4.8 × 0.5?",
+    "answer": "2.4",
+    "details": "Multiplying by 0.5 is the same as dividing by 2. 4.8 ÷ 2 = 2.4."
+  },
+  {
+    "question": "What is 0.64 ÷ 0.08?",
+    "answer": "8",
+    "details": "Multiply numerator and denominator by 100: 64 ÷ 8 = 8."
+  },
+  {
+    "question": "What is 1.01 + 2.02 + 3.03?",
+    "answer": "6.06",
+    "details": "Add: 1.01 + 2.02 = 3.03; 3.03 + 3.03 = 6.06."
+  },
+  {
+    "question": "What is 5.05 − 1.01?",
+    "answer": "4.04",
+    "details": "Subtract each place: 5−1=4 in hundredths, tenths, and ones. Result: 4.04."
+  },
+  {
+    "question": "What is 0.3 × 0.7?",
+    "answer": "0.21",
+    "details": "3 × 7 = 21. Two decimal places total, so 0.21."
+  },
+  {
+    "question": "What is 2.1 ÷ 0.3?",
+    "answer": "7",
+    "details": "2.1 ÷ 0.3 = (2.1 × 10) ÷ (0.3 × 10) = 21 ÷ 3 = 7."
+  },
+  {
+    "question": "What is 3.33 + 6.67?",
+    "answer": "10.00",
+    "details": "Hundredths: 3+7=10 → 0 carry 1; tenths: 3+6+1=10 → 0 carry 1; ones: 3+6+1=10. Result: 10.00."
+  },
+  {
+    "question": "What is 12.3 − 4.56?",
+    "answer": "7.74",
+    "details": "12.30 − 4.56: hundredths 0−6 → borrow → 10−6=4; tenths 2−5 → borrow → 12−5=7; ones 11−4=7. Result: 7.74."
+  },
+  {
+    "question": "What is 2.5 × 0.4?",
+    "answer": "1.00",
+    "details": "25 × 4 = 100. Two decimal places total, so 1.00."
+  },
+  {
+    "question": "What is 1.21 ÷ 1.1?",
+    "answer": "1.1",
+    "details": "Multiply numerator and denominator by 10: 12.1 ÷ 11 = 1.1."
+  },
+  {
+    "question": "What is 0.9 + 0.09 + 0.009?",
+    "answer": "0.999",
+    "details": "Add: 0.900 + 0.090 = 0.990; +0.009 = 0.999."
+  },
+  {
+    "question": "What is 10.1 − 1.01?",
+    "answer": "9.09",
+    "details": "10.10 − 1.01: hundredths 0−1 → borrow → 10−1=9; tenths 0−0=0 (after borrow); ones 9−1=8? Wait—recheck: 10.10 − 1.01. Ones: 10 becomes 9 after borrow for tenths? Better: Align: 10.10 − 1.01. Hundredths: 0−1 → borrow from tenths (1 becomes 0), hundredths=10−1=9. Tenths: 0−0=0. Ones: 0−1 → borrow from tens (1 becomes 0), ones=10−1=9. Tens: 0. Result: 9.09."
+  },
+  {
+    "question": "What is 0.15 × 6?",
+    "answer": "0.90",
+    "details": "15 × 6 = 90. Two decimal places in 0.15, so result: 0.90."
+  },
+  {
+    "question": "What is 0.8 ÷ 0.04?",
+    "answer": "20",
+    "details": "Multiply numerator and denominator by 100: 80 ÷ 4 = 20."
+  },
+  {
+    "question": "What is 2.4 + 3.6?",
+    "answer": "6.0",
+    "details": "2.4 + 3.6 = 6.0, since 24 tenths + 36 tenths = 60 tenths = 6.0."
+  },
+  {
+    "question": "What is 8.88 − 4.44?",
+    "answer": "4.44",
+    "details": "Subtract each digit: 8−4=4 in each place. Result: 4.44."
+  },
+  {
+    "question": "What is 1.2 × 1.5?",
+    "answer": "1.80",
+    "details": "12 × 15 = 180. Two decimal places total, so 1.80."
+  },
+  {
+    "question": "What is 3.6 ÷ 1.2?",
+    "answer": "3",
+    "details": "3.6 ÷ 1.2 = (3.6 × 10) ÷ (1.2 × 10) = 36 ÷ 12 = 3."
+  },
+  {
+    "question": "What is $5.99 + $4.01?",
+    "answer": "$10.00",
+    "details": "Cents: 99 + 01 = 100 cents = $1.00. Dollars: 5 + 4 + 1 = $10.00."
+  },
+  {
+    "question": "What is $15.50 − $7.25?",
+    "answer": "$8.25",
+    "details": "Cents: 50 − 25 = 25. Dollars: 15 − 7 = 8. Result: $8.25."
+  },
+  {
+    "question": "What is 0.4 × 0.25?",
+    "answer": "0.100",
+    "details": "4 × 25 = 100. Three decimal places total (1 + 2), so 0.100."
+  },
+  {
+    "question": "What is 2.25 ÷ 1.5?",
+    "answer": "1.5",
+    "details": "Multiply numerator and denominator by 100: 225 ÷ 150 = 1.5."
+  },
+  {
+    "question": "What is 1.111 + 2.222?",
+    "answer": "3.333",
+    "details": "Add each place: 1+2=3 in thousandths, hundredths, tenths, and ones. Result: 3.333."
+  },
+  {
+    "question": "What is 7.00 − 0.77?",
+    "answer": "6.23",
+    "details": "7.00 − 0.77: hundredths 0−7 → borrow → 10−7=3; tenths 9−7=2; ones 6−0=6. Result: 6.23."
+  },
+  {
+    "question": "What is 3.2 × 0.5?",
+    "answer": "1.6",
+    "details": "Multiplying by 0.5 is halving: 3.2 ÷ 2 = 1.6."
+  },
+  {
+    "question": "What is 1.96 ÷ 0.14?",
+    "answer": "14",
+    "details": "Multiply numerator and denominator by 100: 196 ÷ 14 = 14."
+  },
+  {
+    "question": "What is 0.55 + 0.45?",
+    "answer": "1.00",
+    "details": "55 hundredths + 45 hundredths = 100 hundredths = 1.00."
+  },
+  {
+    "question": "What is 6.6 − 3.33?",
+    "answer": "3.27",
+    "details": "6.60 − 3.33: hundredths 0−3 → borrow → 10−3=7; tenths 5−3=2; ones 6−3=3. Result: 3.27."
+  },
+  {
+    "question": "What is 0.09 × 0.9?",
+    "answer": "0.081",
+    "details": "9 × 9 = 81. Three decimal places total (2 + 1), so 0.081."
+  },
+  {
+    "question": "What is 1.44 ÷ 0.06?",
+    "answer": "24",
+    "details": "Multiply numerator and denominator by 100: 144 ÷ 6 = 24."
+  },
+  {
+    "question": "What is 4.25 + 1.75?",
+    "answer": "6.00",
+    "details": "Hundredths: 5+5=10 → 0 carry 1; tenths: 2+7+1=10 → 0 carry 1; ones: 4+1+1=6. Result: 6.00."
+  },
+  {
+    "question": "What is 9.1 − 2.99?",
+    "answer": "6.11",
+    "details": "9.10 − 2.99: hundredths 0−9 → borrow → 10−9=1; tenths 0−9 → borrow → 10−9=1; ones 8−2=6. Result: 6.11."
+  },
+  {
+    "question": "What is 1.6 × 0.5?",
+    "answer": "0.80",
+    "details": "16 × 5 = 80. Two decimal places total, so 0.80."
+  },
+  {
+    "question": "What is 0.72 ÷ 0.09?",
+    "answer": "8",
+    "details": "Multiply numerator and denominator by 100: 72 ÷ 9 = 8."
+  },
+  {
+    "question": "What is 2.2 + 3.3 + 4.5?",
+    "answer": "10.0",
+    "details": "2.2 + 3.3 = 5.5; 5.5 + 4.5 = 10.0."
+  },
+  {
+    "question": "What is 11.11 − 5.55?",
+    "answer": "5.56",
+    "details": "Hundredths: 1−5 → borrow → 11−5=6; tenths: 0−5 → borrow → 10−5=5; ones: 10−5=5. Result: 5.56."
+  },
+  {
+    "question": "What is 0.25 × 0.4?",
+    "answer": "0.100",
+    "details": "25 × 4 = 100. Three decimal places total, so 0.100."
+  },
+  {
+    "question": "What is 2.56 ÷ 0.16?",
+    "answer": "16",
+    "details": "Multiply numerator and denominator by 100: 256 ÷ 16 = 16."
+  },
+  {
+    "question": "What is 0.88 + 0.12?",
+    "answer": "1.00",
+    "details": "88 hundredths + 12 hundredths = 100 hundredths = 1.00."
+  },
+  {
+    "question": "What is 5.55 − 0.55?",
+    "answer": "5.00",
+    "details": "Subtract: 5.55 − 0.55 = 5.00."
+  },
+  {
+    "question": "What is 0.5 × 0.5 × 0.5?",
+    "answer": "0.125",
+    "details": "0.5 × 0.5 = 0.25; 0.25 × 0.5 = 0.125."
+  },
+  {
+    "question": "What is 1.0 ÷ 0.25?",
+    "answer": "4",
+    "details": "1.0 ÷ 0.25 = 100 ÷ 25 = 4."
+  },
+  {
+    "question": "What is 3.75 + 2.25?",
+    "answer": "6.00",
+    "details": "75 hundredths + 25 hundredths = 100 hundredths = 1.00; 3 + 2 + 1 = 6. Result: 6.00."
+  },
+  {
+    "question": "What is 10.01 − 1.01?",
+    "answer": "9.00",
+    "details": "Subtract: 10.01 − 1.01 = 9.00."
+  },
+  {
+    "question": "What is 1.25 × 8?",
+    "answer": "10.00",
+    "details": "125 × 8 = 1000. Two decimal places in 1.25, so result: 10.00."
+  },
+  {
+    "question": "What is 0.81 ÷ 0.09?",
+    "answer": "9",
+    "details": "Multiply numerator and denominator by 100: 81 ÷ 9 = 9."
+  }
+]

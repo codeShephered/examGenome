@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What does HCF stand for in mathematics?",
+        "answer": "Highest Common Factor"
+    },
+    {
+        "question": "What does LCM stand for in mathematics?",
+        "answer": "Lowest Common Multiple"
+    },
+    {
+        "question": "What is the HCF of 8 and 12?",
+        "answer": "4"
+    },
+    {
+        "question": "What is the LCM of 4 and 6?",
+        "answer": "12"
+    },
+    {
+        "question": "What is the HCF of 15 and 25?",
+        "answer": "5"
+    },
+    {
+        "question": "What is the LCM of 5 and 7?",
+        "answer": "35"
+    },
+    {
+        "question": "If two numbers are co-prime, what is their HCF?",
+        "answer": "1"
+    },
+    {
+        "question": "If two numbers are co-prime, what is their LCM?",
+        "answer": "Their product"
+    },
+    {
+        "question": "What is the HCF of 18 and 24 using prime factorization?",
+        "answer": "6"
+    },
+    {
+        "question": "What is the LCM of 18 and 24 using prime factorization?",
+        "answer": "72"
+    },
+    {
+        "question": "What is the HCF of 36 and 48?",
+        "answer": "12"
+    },
+    {
+        "question": "What is the LCM of 9 and 12?",
+        "answer": "36"
+    },
+    {
+        "question": "What is the HCF of 10 and 21?",
+        "answer": "1"
+    },
+    {
+        "question": "What is the LCM of 10 and 21?",
+        "answer": "210"
+    },
+    {
+        "question": "What is the HCF of 7 and 14?",
+        "answer": "7"
+    },
+    {
+        "question": "What is the LCM of 7 and 14?",
+        "answer": "14"
+    },
+    {
+        "question": "What is the HCF of 20 and 30?",
+        "answer": "10"
+    },
+    {
+        "question": "What is the LCM of 20 and 30?",
+        "answer": "60"
+    },
+    {
+        "question": "What is the HCF of 16 and 24?",
+        "answer": "8"
+    },
+    {
+        "question": "What is the LCM of 16 and 24?",
+        "answer": "48"
+    },
+    {
+        "question": "What is the HCF of 25 and 35?",
+        "answer": "5"
+    },
+    {
+        "question": "What is the LCM of 25 and 35?",
+        "answer": "175"
+    },
+    {
+        "question": "What is the HCF of 12, 18, and 24?",
+        "answer": "6"
+    },
+    {
+        "question": "What is the LCM of 12, 18, and 24?",
+        "answer": "72"
+    },
+    {
+        "question": "What is the HCF of 9 and 10?",
+        "answer": "1"
+    },
+    {
+        "question": "What is the LCM of 9 and 10?",
+        "answer": "90"
+    },
+    {
+        "question": "What is the HCF of 42 and 56?",
+        "answer": "14"
+    },
+    {
+        "question": "What is the LCM of 42 and 56?",
+        "answer": "168"
+    },
+    {
+        "question": "If the HCF of two numbers is 1, what are they called?",
+        "answer": "Co-prime numbers"
+    },
+    {
+        "question": "What is the HCF of 100 and 75?",
+        "answer": "25"
+    },
+    {
+        "question": "What is the LCM of 100 and 75?",
+        "answer": "300"
+    },
+    {
+        "question": "What is the HCF of 36 and 60?",
+        "answer": "12"
+    },
+    {
+        "question": "What is the LCM of 36 and 60?",
+        "answer": "180"
+    },
+    {
+        "question": "What is the HCF of 27 and 36?",
+        "answer": "9"
+    },
+    {
+        "question": "What is the LCM of 27 and 36?",
+        "answer": "108"
+    },
+    {
+        "question": "What is the HCF of 50 and 70?",
+        "answer": "10"
+    },
+    {
+        "question": "What is the LCM of 50 and 70?",
+        "answer": "350"
+    },
+    {
+        "question": "What is the HCF of 1 and any number?",
+        "answer": "1"
+    },
+    {
+        "question": "What is the LCM of 1 and any number?",
+        "answer": "The number itself"
+    },
+    {
+        "question": "What is the HCF of two identical numbers, like 15 and 15?",
+        "answer": "15"
+    },
+    {
+        "question": "What is the LCM of two identical numbers, like 15 and 15?",
+        "answer": "15"
+    },
+    {
+        "question": "If the HCF of two numbers is 6 and their LCM is 36, and one number is 12, what is the other number?",
+        "answer": "18"
+    },
+    {
+        "question": "What is the HCF of 64 and 80?",
+        "answer": "16"
+    },
+    {
+        "question": "What is the LCM of 64 and 80?",
+        "answer": "320"
+    },
+    {
+        "question": "What is the HCF of 21 and 28?",
+        "answer": "7"
+    },
+    {
+        "question": "What is the LCM of 21 and 28?",
+        "answer": "84"
+    },
+    {
+        "question": "What is the HCF of 45 and 60?",
+        "answer": "15"
+    },
+    {
+        "question": "What is the LCM of 45 and 60?",
+        "answer": "180"
+    },
+    {
+        "question": "What is the HCF of 100 and 150?",
+        "answer": "50"
+    },
+    {
+        "question": "What is the LCM of 100 and 150?",
+        "answer": "300"
+    },
+    {
+        "question": "What is the HCF of 12 and 30?",
+        "answer": "6"
+    },
+    {
+        "question": "What is the LCM of 12 and 30?",
+        "answer": "60"
+    },
+    {
+        "question": "In a classroom, there are 24 pencils and 36 erasers. What is the maximum number of identical gift packs that can be made with no items left over?",
+        "answer": "12"
+    },
+    {
+        "question": "Two buses leave a station at the same time. One returns every 15 minutes, the other every 20 minutes. When will they next leave together?",
+        "answer": "60 minutes"
+    },
+    {
+        "question": "What is the HCF of 81 and 27?",
+        "answer": "27"
+    },
+    {
+        "question": "What is the LCM of 81 and 27?",
+        "answer": "81"
+    },
+    {
+        "question": "What is the HCF of 56 and 72?",
+        "answer": "8"
+    },
+    {
+        "question": "What is the LCM of 56 and 72?",
+        "answer": "504"
+    },
+    {
+        "question": "What is the HCF of 90 and 105?",
+        "answer": "15"
+    },
+    {
+        "question": "What is the LCM of 90 and 105?",
+        "answer": "630"
+    },
+    {
+        "question": "What is the HCF of 121 and 132?",
+        "answer": "11"
+    },
+    {
+        "question": "What is the LCM of 121 and 132?",
+        "answer": "1452"
+    },
+    {
+        "question": "What is the HCF of 18 and 45?",
+        "answer": "9"
+    },
+    {
+        "question": "What is the LCM of 18 and 45?",
+        "answer": "90"
+    },
+    {
+        "question": "A baker has 48 chocolate cookies and 64 vanilla cookies. What is the largest number of boxes he can pack so each box has the same number of each type with none left?",
+        "answer": "16"
+    },
+    {
+        "question": "Two lights flash every 4 seconds and 6 seconds. If they flash together now, when will they next flash together?",
+        "answer": "12 seconds"
+    },
+    {
+        "question": "What is the HCF of 60 and 90?",
+        "answer": "30"
+    },
+    {
+        "question": "What is the LCM of 60 and 90?",
+        "answer": "180"
+    },
+    {
+        "question": "What is the HCF of 108 and 144?",
+        "answer": "36"
+    },
+    {
+        "question": "What is the LCM of 108 and 144?",
+        "answer": "432"
+    },
+    {
+        "question": "What is the HCF of 200 and 300?",
+        "answer": "100"
+    },
+    {
+        "question": "What is the LCM of 200 and 300?",
+        "answer": "600"
+    },
+    {
+        "question": "What is the HCF of 35 and 49?",
+        "answer": "7"
+    },
+    {
+        "question": "What is the LCM of 35 and 49?",
+        "answer": "245"
+    },
+    {
+        "question": "What is the HCF of 77 and 91?",
+        "answer": "7"
+    },
+    {
+        "question": "What is the LCM of 77 and 91?",
+        "answer": "1001"
+    },
+    {
+        "question": "What is the HCF of 6 and 9?",
+        "answer": "3"
+    },
+    {
+        "question": "What is the LCM of 6 and 9?",
+        "answer": "18"
+    },
+    {
+        "question": "What is the HCF of 8, 12, and 16?",
+        "answer": "4"
+    },
+    {
+        "question": "What is the LCM of 8, 12, and 16?",
+        "answer": "48"
+    },
+    {
+        "question": "What is the HCF of 24 and 36?",
+        "answer": "12"
+    },
+    {
+        "question": "What is the LCM of 24 and 36?",
+        "answer": "72"
+    },
+    {
+        "question": "What is the HCF of 13 and 17?",
+        "answer": "1"
+    },
+    {
+        "question": "What is the LCM of 13 and 17?",
+        "answer": "221"
+    },
+    {
+        "question": "What is the HCF of 55 and 65?",
+        "answer": "5"
+    },
+    {
+        "question": "What is the LCM of 55 and 65?",
+        "answer": "715"
+    },
+    {
+        "question": "What is the HCF of 96 and 108?",
+        "answer": "12"
+    },
+    {
+        "question": "What is the LCM of 96 and 108?",
+        "answer": "864"
+    },
+    {
+        "question": "What is the HCF of 125 and 75?",
+        "answer": "25"
+    },
+    {
+        "question": "What is the LCM of 125 and 75?",
+        "answer": "375"
+    },
+    {
+        "question": "If the product of two numbers is 180 and their HCF is 6, what is their LCM?",
+        "answer": "30"
+    },
+    {
+        "question": "If the LCM of two numbers is 60 and their HCF is 4, what is their product?",
+        "answer": "240"
+    },
+    {
+        "question": "What is the HCF of 49 and 63?",
+        "answer": "7"
+    },
+    {
+        "question": "What is the LCM of 49 and 63?",
+        "answer": "441"
+    },
+    {
+        "question": "What is the HCF of 102 and 119?",
+        "answer": "17"
+    },
+    {
+        "question": "What is the LCM of 102 and 119?",
+        "answer": "714"
+    },
+    {
+        "question": "What is the HCF of 88 and 110?",
+        "answer": "22"
+    },
+    {
+        "question": "What is the LCM of 88 and 110?",
+        "answer": "440"
+    },
+    {
+        "question": "What is the HCF of 144 and 180?",
+        "answer": "36"
+    },
+    {
+        "question": "What is the LCM of 144 and 180?",
+        "answer": "720"
+    }
+]

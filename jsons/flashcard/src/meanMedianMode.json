@@ -1,0 +1,482 @@
+[
+  {
+    "question": "What is the mean of the numbers 4, 6, 8, and 10?",
+    "answer": "7",
+    "details": "The mean (average) is found by adding all numbers and dividing by how many numbers there are. Sum = 4 + 6 + 8 + 10 = 28. There are 4 numbers. Mean = 28 ÷ 4 = 7."
+  },
+  {
+    "question": "What is the median of the data set: 3, 7, 1, 9, 5?",
+    "answer": "5",
+    "details": "To find the median, first arrange the numbers in order: 1, 3, 5, 7, 9. The median is the middle number. Since there are 5 numbers (odd count), the third number (5) is the median."
+  },
+  {
+    "question": "What is the mode of the numbers: 2, 5, 5, 7, 8, 8, 8?",
+    "answer": "8",
+    "details": "The mode is the number that appears most frequently. Here, 2 appears once, 5 appears twice, 7 once, and 8 appears three times. So, the mode is 8."
+  },
+  {
+    "question": "What is the range of the numbers: 12, 15, 9, 20, 6?",
+    "answer": "14",
+    "details": "Range = highest value – lowest value. Highest = 20, lowest = 6. Range = 20 – 6 = 14."
+  },
+  {
+    "question": "The scores on a quiz are: 85, 90, 78, 92, 85. What is the mode?",
+    "answer": "85",
+    "details": "List the scores: 78, 85, 85, 90, 92. The number 85 appears twice, more than any other. So, the mode is 85."
+  },
+  {
+    "question": "A student’s math test scores are 76, 82, 90, and 88. What is the mean score?",
+    "answer": "84",
+    "details": "Add the scores: 76 + 82 + 90 + 88 = 336. Divide by 4: 336 ÷ 4 = 84."
+  },
+  {
+    "question": "Find the median of: 10, 20, 30, 40.",
+    "answer": "25",
+    "details": "When there is an even number of values, the median is the average of the two middle numbers. Ordered: 10, 20, 30, 40. Middle numbers: 20 and 30. Median = (20 + 30) ÷ 2 = 25."
+  },
+  {
+    "question": "Temperatures for five days were: 68°F, 70°F, 72°F, 70°F, 69°F. What is the mode?",
+    "answer": "70",
+    "details": "70 appears twice; all others appear once. So, the mode is 70°F."
+  },
+  {
+    "question": "Heights (in cm) of five plants are: 25, 30, 20, 35, 40. What is the range?",
+    "answer": "20",
+    "details": "Highest = 40, lowest = 20. Range = 40 – 20 = 20 cm."
+  },
+  {
+    "question": "What is the mean of 0, 10, 20, and 30?",
+    "answer": "15",
+    "details": "Sum = 0 + 10 + 20 + 30 = 60. Number of values = 4. Mean = 60 ÷ 4 = 15."
+  },
+  {
+    "question": "A data set is: 5, 5, 5, 5. What is the median?",
+    "answer": "5",
+    "details": "All values are 5. The middle value(s) are also 5. So, the median is 5."
+  },
+  {
+    "question": "In the list 1, 2, 3, 4, 5, 6, 7, what is the median?",
+    "answer": "4",
+    "details": "There are 7 numbers (odd count). The 4th number is the middle one: 4."
+  },
+  {
+    "question": "Scores in a game: 12, 15, 18, 15, 20, 15. What is the mode?",
+    "answer": "15",
+    "details": "15 appears three times, more than any other number. Mode = 15."
+  },
+  {
+    "question": "Daily rainfall (mm) for a week: 0, 2, 5, 0, 3, 1, 4. What is the range?",
+    "answer": "5",
+    "details": "Highest = 5 mm, lowest = 0 mm. Range = 5 – 0 = 5 mm."
+  },
+  {
+    "question": "What is the mean of the first five whole numbers?",
+    "answer": "2",
+    "details": "First five whole numbers: 0, 1, 2, 3, 4. Sum = 10. Mean = 10 ÷ 5 = 2."
+  },
+  {
+    "question": "Find the median of: 9, 3, 7, 5.",
+    "answer": "6",
+    "details": "Ordered: 3, 5, 7, 9. Two middle numbers: 5 and 7. Median = (5 + 7) ÷ 2 = 6."
+  },
+  {
+    "question": "A bag contains marbles of colors: red, blue, red, green, blue, red. Which color is the mode?",
+    "answer": "red",
+    "details": "Red appears 3 times, blue 2 times, green once. So, red is the mode."
+  },
+  {
+    "question": "Test scores: 88, 92, 76, 85, 90. What is the range?",
+    "answer": "16",
+    "details": "Highest = 92, lowest = 76. Range = 92 – 76 = 16."
+  },
+  {
+    "question": "What is the mean of 100, 200, and 300?",
+    "answer": "200",
+    "details": "Sum = 100 + 200 + 300 = 600. Divide by 3: 600 ÷ 3 = 200."
+  },
+  {
+    "question": "Data set: 2, 4, 4, 6, 8, 8. What is the mode?",
+    "answer": "4 and 8",
+    "details": "Both 4 and 8 appear twice, more than 2 or 6. This data set is bimodal, with modes 4 and 8."
+  },
+  {
+    "question": "Ages of children: 6, 8, 7, 9, 8, 10. What is the median age?",
+    "answer": "8",
+    "details": "Ordered: 6, 7, 8, 8, 9, 10. Even number (6) of values. Median = average of 3rd and 4th: (8 + 8) ÷ 2 = 8."
+  },
+  {
+    "question": "If the highest value in a data set is 50 and the range is 30, what is the lowest value?",
+    "answer": "20",
+    "details": "Range = highest – lowest → 30 = 50 – lowest → lowest = 50 – 30 = 20."
+  },
+  {
+    "question": "What is the mean of the numbers 15, 15, 15, and 15?",
+    "answer": "15",
+    "details": "All numbers are the same. Mean = 15."
+  },
+  {
+    "question": "Find the median of: 100, 200, 300.",
+    "answer": "200",
+    "details": "Ordered list: 100, 200, 300. Three numbers—middle is 200."
+  },
+  {
+    "question": "Shoe sizes in a class: 5, 6, 6, 7, 8, 6, 5. What is the mode?",
+    "answer": "6",
+    "details": "Size 6 appears three times—more than any other. Mode = 6."
+  },
+  {
+    "question": "Weekly savings (£): 10, 12, 8, 15, 9. What is the range?",
+    "answer": "7",
+    "details": "Highest = 15, lowest = 8. Range = 15 – 8 = 7."
+  },
+  {
+    "question": "What is the mean of 9 and 11?",
+    "answer": "10",
+    "details": "Sum = 20. Two numbers. Mean = 20 ÷ 2 = 10."
+  },
+  {
+    "question": "Data: 1, 3, 5, 7, 9, 11. What is the median?",
+    "answer": "6",
+    "details": "Even number of values (6). Middle two: 5 and 7. Median = (5 + 7) ÷ 2 = 6."
+  },
+  {
+    "question": "A dice is rolled 8 times: 2, 4, 6, 2, 3, 2, 5, 1. What is the mode?",
+    "answer": "2",
+    "details": "2 appears three times; others appear once. Mode = 2."
+  },
+  {
+    "question": "Prices of pens (£): 1.50, 2.00, 1.25, 3.00, 1.75. What is the range?",
+    "answer": "1.75",
+    "details": "Highest = 3.00, lowest = 1.25. Range = 3.00 – 1.25 = 1.75."
+  },
+  {
+    "question": "What is the mean of 5, 10, 15, 20, 25?",
+    "answer": "15",
+    "details": "Sum = 75. Five numbers. Mean = 75 ÷ 5 = 15."
+  },
+  {
+    "question": "Find the median of: 45, 50, 55, 60, 65, 70.",
+    "answer": "57.5",
+    "details": "Even count (6). Middle numbers: 55 and 60. Median = (55 + 60) ÷ 2 = 115 ÷ 2 = 57.5."
+  },
+  {
+    "question": "Number of pets per family: 0, 1, 2, 1, 3, 1, 0. What is the mode?",
+    "answer": "1",
+    "details": "1 appears three times—more than any other number. Mode = 1."
+  },
+  {
+    "question": "A runner’s times (minutes): 12, 15, 10, 18, 14. What is the range?",
+    "answer": "8",
+    "details": "Highest = 18, lowest = 10. Range = 18 – 10 = 8 minutes."
+  },
+  {
+    "question": "What is the mean of the first three odd numbers?",
+    "answer": "3",
+    "details": "First three odd numbers: 1, 3, 5. Sum = 9. Mean = 9 ÷ 3 = 3."
+  },
+  {
+    "question": "Data set: 8, 8, 9, 10, 11, 11. What is the median?",
+    "answer": "9.5",
+    "details": "Ordered already. Six numbers. Middle two: 9 and 10. Median = (9 + 10) ÷ 2 = 9.5."
+  },
+  {
+    "question": "Favorite fruits in a survey: apple, banana, apple, orange, banana, apple. What is the mode?",
+    "answer": "apple",
+    "details": "Apple appears 3 times—more than banana (2) or orange (1). Mode = apple."
+  },
+  {
+    "question": "Heights of students (cm): 130, 135, 140, 125, 150. What is the range?",
+    "answer": "25",
+    "details": "Highest = 150, lowest = 125. Range = 150 – 125 = 25 cm."
+  },
+  {
+    "question": "If the mean of three numbers is 10, and two of them are 8 and 12, what is the third number?",
+    "answer": "10",
+    "details": "Total sum = mean × count = 10 × 3 = 30. Known sum = 8 + 12 = 20. Third number = 30 – 20 = 10."
+  },
+  {
+    "question": "What is the median of: 22, 18, 25, 20?",
+    "answer": "21",
+    "details": "Ordered: 18, 20, 22, 25. Middle two: 20 and 22. Median = (20 + 22) ÷ 2 = 21."
+  },
+  {
+    "question": "Scores: 90, 85, 90, 80, 95, 85, 90. What is the mode?",
+    "answer": "90",
+    "details": "90 appears three times; 85 appears twice; others once. Mode = 90."
+  },
+  {
+    "question": "Temperatures (°C): –2, 0, 3, –1, 4. What is the range?",
+    "answer": "6",
+    "details": "Highest = 4, lowest = –2. Range = 4 – (–2) = 4 + 2 = 6."
+  },
+  {
+    "question": "What is the mean of 2.5, 3.5, and 4?",
+    "answer": "3.33",
+    "details": "Sum = 2.5 + 3.5 + 4 = 10. Mean = 10 ÷ 3 ≈ 3.33 (repeating). Rounded to two decimal places as commonly taught."
+  },
+  {
+    "question": "Data: 7, 14, 21, 28. What is the median?",
+    "answer": "17.5",
+    "details": "Even count (4). Middle numbers: 14 and 21. Median = (14 + 21) ÷ 2 = 17.5."
+  },
+  {
+    "question": "Number of books read: 4, 6, 4, 7, 5, 6, 4. What is the mode?",
+    "answer": "4",
+    "details": "4 appears three times; 6 appears twice; others once. Mode = 4."
+  },
+  {
+    "question": "Ages of team members: 11, 10, 12, 11, 9, 13. What is the range?",
+    "answer": "4",
+    "details": "Highest = 13, lowest = 9. Range = 13 – 9 = 4 years."
+  },
+  {
+    "question": "If the range of a data set is 10 and the lowest value is 15, what is the highest value?",
+    "answer": "25",
+    "details": "Range = highest – lowest → 10 = highest – 15 → highest = 15 + 10 = 25."
+  },
+  {
+    "question": "What is the mean of 0, 0, 10, 10?",
+    "answer": "5",
+    "details": "Sum = 0 + 0 + 10 + 10 = 20. Mean = 20 ÷ 4 = 5."
+  },
+  {
+    "question": "Find the median of: 30, 40, 50, 60, 70, 80, 90.",
+    "answer": "60",
+    "details": "Seven numbers (odd). The 4th number is the median: 60."
+  },
+  {
+    "question": "Colors of cars: red, blue, green, red, black, red, blue. What is the mode?",
+    "answer": "red",
+    "details": "Red appears 3 times—more than any other color. Mode = red."
+  },
+  {
+    "question": "Weekly screen time (hours): 10, 12, 8, 14, 6. What is the range?",
+    "answer": "8",
+    "details": "Highest = 14, lowest = 6. Range = 14 – 6 = 8 hours."
+  },
+  {
+    "question": "What is the mean of the numbers from 1 to 5?",
+    "answer": "3",
+    "details": "Numbers: 1, 2, 3, 4, 5. Sum = 15. Mean = 15 ÷ 5 = 3."
+  },
+  {
+    "question": "Data set: 100, 100, 200, 200. What is the median?",
+    "answer": "150",
+    "details": "Ordered: 100, 100, 200, 200. Middle two: 100 and 200. Median = (100 + 200) ÷ 2 = 150."
+  },
+  {
+    "question": "Dice rolls: 1, 3, 5, 3, 4, 3, 6. What is the mode?",
+    "answer": "3",
+    "details": "3 appears three times—more than any other number. Mode = 3."
+  },
+  {
+    "question": "Test scores out of 20: 18, 15, 20, 12, 19. What is the range?",
+    "answer": "8",
+    "details": "Highest = 20, lowest = 12. Range = 20 – 12 = 8."
+  },
+  {
+    "question": "If the mean of four numbers is 25, what is their total sum?",
+    "answer": "100",
+    "details": "Sum = mean × number of values = 25 × 4 = 100."
+  },
+  {
+    "question": "Data: 9, 11, 13, 15. What is the median?",
+    "answer": "12",
+    "details": "Even count. Middle numbers: 11 and 13. Median = (11 + 13) ÷ 2 = 12."
+  },
+  {
+    "question": "Number of siblings: 0, 1, 2, 1, 3, 1, 2, 1. What is the mode?",
+    "answer": "1",
+    "details": "1 appears four times—more than any other. Mode = 1."
+  },
+  {
+    "question": "Monthly rainfall (mm): 45, 50, 30, 60, 40. What is the range?",
+    "answer": "30",
+    "details": "Highest = 60, lowest = 30. Range = 60 – 30 = 30 mm."
+  },
+  {
+    "question": "What is the mean of 100 and 0?",
+    "answer": "50",
+    "details": "Sum = 100 + 0 = 100. Mean = 100 ÷ 2 = 50."
+  },
+  {
+    "question": "Ages: 7, 8, 9, 10, 11, 12, 13, 14. What is the median?",
+    "answer": "10.5",
+    "details": "Eight numbers. Middle two: 10 and 11. Median = (10 + 11) ÷ 2 = 10.5."
+  },
+  {
+    "question": "Survey of pizza toppings: cheese, pepperoni, cheese, mushroom, cheese, pepperoni. What is the mode?",
+    "answer": "cheese",
+    "details": "Cheese appears 3 times—more than others. Mode = cheese."
+  },
+  {
+    "question": "Race times (seconds): 25, 28, 22, 30, 24. What is the range?",
+    "answer": "8",
+    "details": "Highest = 30, lowest = 22. Range = 30 – 22 = 8 seconds."
+  },
+  {
+    "question": "If the sum of five numbers is 75, what is their mean?",
+    "answer": "15",
+    "details": "Mean = total sum ÷ count = 75 ÷ 5 = 15."
+  },
+  {
+    "question": "Data: 50, 60, 70, 80, 90, 100. What is the median?",
+    "answer": "75",
+    "details": "Even count (6). Middle two: 70 and 80. Median = (70 + 80) ÷ 2 = 75."
+  },
+  {
+    "question": "Daily steps: 8000, 9000, 8000, 10000, 9000, 8000. What is the mode?",
+    "answer": "8000",
+    "details": "8000 appears three times—more than 9000 (twice) or 10000 (once). Mode = 8000."
+  },
+  {
+    "question": "Temperatures (°F): 65, 70, 75, 60, 80. What is the range?",
+    "answer": "20",
+    "details": "Highest = 80, lowest = 60. Range = 80 – 60 = 20°F."
+  },
+  {
+    "question": "What is the mean of 3, 3, 3, 3, 3?",
+    "answer": "3",
+    "details": "All values are 3, so the mean is 3."
+  },
+  {
+    "question": "Find the median of: 1, 1, 2, 3, 5, 8.",
+    "answer": "2.5",
+    "details": "Even count (6). Middle two: 2 and 3. Median = (2 + 3) ÷ 2 = 2.5."
+  },
+  {
+    "question": "Favorite ice cream flavors: chocolate, vanilla, chocolate, strawberry, chocolate. What is the mode?",
+    "answer": "chocolate",
+    "details": "Chocolate appears 3 times—most frequent. Mode = chocolate."
+  },
+  {
+    "question": "Prices of notebooks (£): 2.50, 3.00, 1.75, 4.25, 2.00. What is the range?",
+    "answer": "2.50",
+    "details": "Highest = 4.25, lowest = 1.75. Range = 4.25 – 1.75 = 2.50."
+  },
+  {
+    "question": "What is the mean of 12, 18, and 24?",
+    "answer": "18",
+    "details": "Sum = 12 + 18 + 24 = 54. Mean = 54 ÷ 3 = 18."
+  },
+  {
+    "question": "Data: 6, 7, 8, 9, 10, 11, 12, 13, 14. What is the median?",
+    "answer": "10",
+    "details": "Nine numbers—middle (5th) is 10."
+  },
+  {
+    "question": "Number of goals scored: 2, 0, 1, 2, 3, 2, 1. What is the mode?",
+    "answer": "2",
+    "details": "2 appears three times—most frequent. Mode = 2."
+  },
+  {
+    "question": "Weights of backpacks (kg): 3, 4, 2, 5, 3. What is the range?",
+    "answer": "3",
+    "details": "Highest = 5, lowest = 2. Range = 5 – 2 = 3 kg."
+  },
+  {
+    "question": "If the median of five numbers is 15, and four of them are 10, 12, 18, 20, what is the fifth number if the list is ordered?",
+    "answer": "15",
+    "details": "For five numbers in order, the third is the median. To have median 15, the third number must be 15. So the missing number is 15."
+  },
+  {
+    "question": "Data: 40, 50, 60, 50, 70, 50. What is the mode?",
+    "answer": "50",
+    "details": "50 appears three times—more than any other. Mode = 50."
+  },
+  {
+    "question": "Heights (inches): 55, 60, 58, 62, 57. What is the range?",
+    "answer": "7",
+    "details": "Highest = 62, lowest = 55. Range = 62 – 55 = 7 inches."
+  },
+  {
+    "question": "What is the mean of the even numbers from 2 to 8?",
+    "answer": "5",
+    "details": "Even numbers: 2, 4, 6, 8. Sum = 20. Mean = 20 ÷ 4 = 5."
+  },
+  {
+    "question": "Scores: 88, 92, 85, 90, 87, 89. What is the median?",
+    "answer": "88.5",
+    "details": "Ordered: 85, 87, 88, 89, 90, 92. Middle two: 88 and 89. Median = (88 + 89) ÷ 2 = 88.5."
+  },
+  {
+    "question": "A spinner lands on: red, blue, red, green, blue, red, yellow. What is the mode?",
+    "answer": "red",
+    "details": "Red appears 3 times—most frequent. Mode = red."
+  },
+  {
+    "question": "Weekly allowance (£): 5, 7, 6, 10, 8. What is the range?",
+    "answer": "5",
+    "details": "Highest = 10, lowest = 5. Range = 10 – 5 = 5."
+  },
+  {
+    "question": "If the mode of a data set is 7, which of the following must be true?",
+    "answer": "7 appears more times than any other number",
+    "details": "By definition, the mode is the most frequently occurring value. So 7 must appear more often than any other number."
+  },
+  {
+    "question": "Data: 101, 102, 103, 104, 105. What is the median?",
+    "answer": "103",
+    "details": "Five numbers in order. Middle (3rd) is 103."
+  },
+  {
+    "question": "Number of pencils: 4, 5, 6, 4, 7, 4, 5. What is the mode?",
+    "answer": "4",
+    "details": "4 appears three times—more than any other. Mode = 4."
+  },
+  {
+    "question": "Temperatures (°C): 18, 22, 19, 25, 20. What is the range?",
+    "answer": "7",
+    "details": "Highest = 25, lowest = 18. Range = 25 – 18 = 7°C."
+  },
+  {
+    "question": "What is the mean of one hundred 5s?",
+    "answer": "5",
+    "details": "If all numbers are 5, the mean is 5, regardless of how many there are."
+  },
+  {
+    "question": "Data: 20, 20, 30, 40, 40, 40. What is the mode?",
+    "answer": "40",
+    "details": "40 appears three times; 20 appears twice. Mode = 40."
+  },
+  {
+    "question": "Ages of pets (years): 2, 5, 3, 7, 1. What is the range?",
+    "answer": "6",
+    "details": "Highest = 7, lowest = 1. Range = 7 – 1 = 6 years."
+  },
+  {
+    "question": "What is the median of: 1000, 2000, 3000?",
+    "answer": "2000",
+    "details": "Three numbers in order. Middle is 2000."
+  },
+  {
+    "question": "Survey responses: yes, no, yes, maybe, yes, no. What is the mode?",
+    "answer": "yes",
+    "details": "Yes appears 3 times—more than no (2) or maybe (1). Mode = yes."
+  },
+  {
+    "question": "Test scores: 75, 80, 85, 90, 95. What is the range?",
+    "answer": "20",
+    "details": "Highest = 95, lowest = 75. Range = 95 – 75 = 20."
+  },
+  {
+    "question": "If the mean of two numbers is 12, and one number is 10, what is the other?",
+    "answer": "14",
+    "details": "Sum = 12 × 2 = 24. Other number = 24 – 10 = 14."
+  },
+  {
+    "question": "Data: 9, 8, 7, 6, 5, 4. What is the median?",
+    "answer": "6.5",
+    "details": "Ordered: 4, 5, 6, 7, 8, 9. Middle two: 6 and 7. Median = (6 + 7) ÷ 2 = 6.5."
+  },
+  {
+    "question": "Colors of shirts: white, black, white, blue, white, gray. What is the mode?",
+    "answer": "white",
+    "details": "White appears 3 times—most frequent. Mode = white."
+  },
+  {
+    "question": "Daily water intake (cups): 6, 8, 5, 9, 7. What is the range?",
+    "answer": "4",
+    "details": "Highest = 9, lowest = 5. Range = 9 – 5 = 4 cups."
+  }
+]

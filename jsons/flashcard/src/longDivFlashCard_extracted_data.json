@@ -1,0 +1,442 @@
+[
+    {
+        "question": "What is the first step in performing long division?",
+        "answer": "Divide the leftmost digit(s) of the dividend by the divisor."
+    },
+    {
+        "question": "In long division, what is the term for the number being divided?",
+        "answer": "Dividend"
+    },
+    {
+        "question": "What is the name of the number by which the dividend is divided in long division?",
+        "answer": "Divisor"
+    },
+    {
+        "question": "What is the result of a division problem called?",
+        "answer": "Quotient"
+    },
+    {
+        "question": "What is the term for the amount left over after performing division?",
+        "answer": "Remainder"
+    },
+    {
+        "question": "When dividing 256 by 8 using long division, what is the quotient?",
+        "answer": "32"
+    },
+    {
+        "question": "What is the remainder when 97 is divided by 6 using long division?",
+        "answer": "1"
+    },
+    {
+        "question": "Which of the following best describes the 'bring down' step in long division?",
+        "answer": "Moving the next digit of the dividend down to join the remainder to form a new number."
+    },
+    {
+        "question": "What should you do if the divisor is larger than the first digit of the dividend in long division?",
+        "answer": "Consider more digits from the dividend until the number is larger than or equal to the divisor."
+    },
+    {
+        "question": "Can long division be used to divide decimal numbers?",
+        "answer": "Yes"
+    },
+    {
+        "question": "What is 144 divided by 12 using long division?",
+        "answer": "12"
+    },
+    {
+        "question": "In long division, what does it mean if the remainder is zero?",
+        "answer": "The dividend is exactly divisible by the divisor."
+    },
+    {
+        "question": "When dividing 1000 by 25, what is the quotient?",
+        "answer": "40"
+    },
+    {
+        "question": "What is the standard format for writing a long division problem?",
+        "answer": "Divisor outside the division bracket, dividend inside, and quotient on top."
+    },
+    {
+        "question": "What is the quotient when 864 is divided by 12?",
+        "answer": "72"
+    },
+    {
+        "question": "What is the primary purpose of long division?",
+        "answer": "To divide large numbers systematically using a step-by-step method."
+    },
+    {
+        "question": "How many times does 7 go into 50 using long division?",
+        "answer": "7"
+    },
+    {
+        "question": "What is the remainder when 200 is divided by 13?",
+        "answer": "5"
+    },
+    {
+        "question": "Can the remainder in long division ever be greater than the divisor?",
+        "answer": "No"
+    },
+    {
+        "question": "In long division, after multiplying the divisor by the quotient digit, what is the next step?",
+        "answer": "Subtract the product from the current portion of the dividend."
+    },
+    {
+        "question": "What is the quotient and remainder when 123 is divided by 10?",
+        "answer": "Quotient: 12, Remainder: 3"
+    },
+    {
+        "question": "What is 999 divided by 27?",
+        "answer": "37"
+    },
+    {
+        "question": "What must be true for a number to be divisible by 5 in the context of long division?",
+        "answer": "The last digit must be 0 or 5."
+    },
+    {
+        "question": "If the dividend is 0 and the divisor is any non-zero number, what is the quotient?",
+        "answer": "0"
+    },
+    {
+        "question": "What happens if you attempt to divide a number by zero in long division?",
+        "answer": "It is undefined."
+    },
+    {
+        "question": "What is the quotient when 504 is divided by 8?",
+        "answer": "63"
+    },
+    {
+        "question": "What is the first multiple of 9 that is greater than 50?",
+        "answer": "54"
+    },
+    {
+        "question": "Which digit should you consider first when dividing 1024 by 4 using long division?",
+        "answer": "1"
+    },
+    {
+        "question": "What is the remainder when 73 is divided by 9?",
+        "answer": "1"
+    },
+    {
+        "question": "How many digits are in the quotient when dividing 2500 by 25?",
+        "answer": "3"
+    },
+    {
+        "question": "In long division, what does it mean to 'estimate' the quotient digit?",
+        "answer": "To approximate how many times the divisor fits into the current part of the dividend."
+    },
+    {
+        "question": "What is 5000 divided by 125?",
+        "answer": "40"
+    },
+    {
+        "question": "Which property ensures that long division terminates for integers?",
+        "answer": "The well-ordering principle of natural numbers."
+    },
+    {
+        "question": "What is the quotient when 345 is divided by 15?",
+        "answer": "23"
+    },
+    {
+        "question": "What is the remainder when 1001 is divided by 7?",
+        "answer": "0"
+    },
+    {
+        "question": "In long division, what is the purpose of writing the quotient above the dividend?",
+        "answer": "To keep track of the result digit by digit as the division progresses."
+    },
+    {
+        "question": "Can long division result in a quotient with more digits than the dividend?",
+        "answer": "No"
+    },
+    {
+        "question": "How is long division related to repeated subtraction?",
+        "answer": "Long division is a systematic way of performing repeated subtraction efficiently."
+    },
+    {
+        "question": "What is the quotient of 1020 \u00f7 17?",
+        "answer": "60"
+    },
+    {
+        "question": "When dividing 600 by 24, what is the quotient?",
+        "answer": "25"
+    },
+    {
+        "question": "What is the remainder when 300 is divided by 7?",
+        "answer": "6"
+    },
+    {
+        "question": "Which of the following is a valid step in long division?",
+        "answer": "Multiply the divisor by the current quotient digit and subtract from the working dividend."
+    },
+    {
+        "question": "What is 728 divided by 13?",
+        "answer": "56"
+    },
+    {
+        "question": "In long division, if the current partial dividend is smaller than the divisor, what digit is placed in the quotient?",
+        "answer": "0"
+    },
+    {
+        "question": "What is the quotient when 2025 is divided by 45?",
+        "answer": "45"
+    },
+    {
+        "question": "What is the remainder when 9999 is divided by 101?",
+        "answer": "0"
+    },
+    {
+        "question": "How many times does 16 go into 256?",
+        "answer": "16"
+    },
+    {
+        "question": "What is the quotient of 4096 \u00f7 64?",
+        "answer": "64"
+    },
+    {
+        "question": "In long division, why is place value important?",
+        "answer": "Because each digit of the quotient corresponds to a specific place value aligned with the dividend."
+    },
+    {
+        "question": "What is the remainder when 1234 is divided by 5?",
+        "answer": "4"
+    },
+    {
+        "question": "What is 1001 \u00f7 11?",
+        "answer": "91"
+    },
+    {
+        "question": "When dividing 875 by 25, what is the result?",
+        "answer": "35"
+    },
+    {
+        "question": "What is the smallest possible non-zero remainder when dividing by 8?",
+        "answer": "1"
+    },
+    {
+        "question": "What is the quotient when 7000 is divided by 14?",
+        "answer": "500"
+    },
+    {
+        "question": "In long division, what should you do if your estimated quotient digit is too large?",
+        "answer": "Reduce the quotient digit and recalculate."
+    },
+    {
+        "question": "What is 625 divided by 25?",
+        "answer": "25"
+    },
+    {
+        "question": "What is the remainder when 513 is divided by 8?",
+        "answer": "1"
+    },
+    {
+        "question": "When is it necessary to add decimal places in long division?",
+        "answer": "When the division does not result in a whole number and a more precise answer is required."
+    },
+    {
+        "question": "What is 987 divided by 3?",
+        "answer": "329"
+    },
+    {
+        "question": "What is the remainder when 100 is divided by 3?",
+        "answer": "1"
+    },
+    {
+        "question": "How many digits are in the quotient of 10,000 \u00f7 16?",
+        "answer": "3"
+    },
+    {
+        "question": "What is the quotient when 196 is divided by 14?",
+        "answer": "14"
+    },
+    {
+        "question": "In long division, what does a zero in the quotient indicate?",
+        "answer": "That the divisor does not go into the current part of the dividend at that place value."
+    },
+    {
+        "question": "What is 2048 divided by 32?",
+        "answer": "64"
+    },
+    {
+        "question": "What is the remainder when 500 is divided by 9?",
+        "answer": "5"
+    },
+    {
+        "question": "How is long division used in converting fractions to decimals?",
+        "answer": "By dividing the numerator by the denominator using long division extended into decimal places."
+    },
+    {
+        "question": "What is 360 divided by 12?",
+        "answer": "30"
+    },
+    {
+        "question": "What is the quotient when 777 is divided by 7?",
+        "answer": "111"
+    },
+    {
+        "question": "What is the remainder when 600 is divided by 17?",
+        "answer": "5"
+    },
+    {
+        "question": "In long division, why do we check our answer by multiplying the quotient by the divisor and adding the remainder?",
+        "answer": "To verify that the result equals the original dividend."
+    },
+    {
+        "question": "What is 841 divided by 29?",
+        "answer": "29"
+    },
+    {
+        "question": "What is the quotient when 1225 is divided by 35?",
+        "answer": "35"
+    },
+    {
+        "question": "What is the remainder when 1000 is divided by 6?",
+        "answer": "4"
+    },
+    {
+        "question": "What is the first step when dividing 105 by 15 using long division?",
+        "answer": "Determine how many times 15 goes into 105."
+    },
+    {
+        "question": "What is 900 divided by 18?",
+        "answer": "50"
+    },
+    {
+        "question": "What is the quotient when 529 is divided by 23?",
+        "answer": "23"
+    },
+    {
+        "question": "In long division, what should you do if the dividend has fewer digits than the divisor?",
+        "answer": "The quotient is 0 with the dividend as the remainder (for whole numbers)."
+    },
+    {
+        "question": "What is the remainder when 256 is divided by 10?",
+        "answer": "6"
+    },
+    {
+        "question": "How many times does 13 go into 169?",
+        "answer": "13"
+    },
+    {
+        "question": "What is 1089 divided by 33?",
+        "answer": "33"
+    },
+    {
+        "question": "What is the quotient when 1444 is divided by 38?",
+        "answer": "38"
+    },
+    {
+        "question": "What is the remainder when 400 is divided by 19?",
+        "answer": "1"
+    },
+    {
+        "question": "In long division, what is the role of estimation?",
+        "answer": "To quickly determine a suitable quotient digit without trial and error."
+    },
+    {
+        "question": "What is 1521 divided by 39?",
+        "answer": "39"
+    },
+    {
+        "question": "What is the quotient when 961 is divided by 31?",
+        "answer": "31"
+    },
+    {
+        "question": "What is the remainder when 3000 is divided by 7?",
+        "answer": "4"
+    },
+    {
+        "question": "What is 1024 divided by 32?",
+        "answer": "32"
+    },
+    {
+        "question": "How can long division help in finding the greatest common divisor (GCD)?",
+        "answer": "It is used in the Euclidean algorithm, which repeatedly applies division with remainders."
+    },
+    {
+        "question": "What is the quotient when 2401 is divided by 49?",
+        "answer": "49"
+    },
+    {
+        "question": "What is the remainder when 5000 is divided by 13?",
+        "answer": "8"
+    },
+    {
+        "question": "What is 1296 divided by 36?",
+        "answer": "36"
+    },
+    {
+        "question": "In long division, what does it mean if the quotient has a decimal point?",
+        "answer": "The division does not result in a whole number, and decimal places represent fractional parts."
+    },
+    {
+        "question": "What is the quotient when 625 is divided by 25?",
+        "answer": "25"
+    },
+    {
+        "question": "What is the remainder when 999 is divided by 11?",
+        "answer": "9"
+    },
+    {
+        "question": "How is long division applied in calculating averages?",
+        "answer": "By dividing the total sum by the number of items."
+    },
+    {
+        "question": "What is 1369 divided by 37?",
+        "answer": "37"
+    },
+    {
+        "question": "What is the quotient when 1849 is divided by 43?",
+        "answer": "43"
+    },
+    {
+        "question": "What is the remainder when 2024 is divided by 12?",
+        "answer": "8"
+    },
+    {
+        "question": "What is the result of dividing 100 by 4 using long division?",
+        "answer": "25"
+    },
+    {
+        "question": "What is the remainder when 700 is divided by 13?",
+        "answer": "11"
+    },
+    {
+        "question": "In long division, what is the 'division bracket' also known as?",
+        "answer": "The long division symbol or tableau."
+    },
+    {
+        "question": "What is 1600 divided by 40?",
+        "answer": "40"
+    },
+    {
+        "question": "What is the quotient when 2209 is divided by 47?",
+        "answer": "47"
+    },
+    {
+        "question": "What is the remainder when 1000 is divided by 17?",
+        "answer": "14"
+    },
+    {
+        "question": "How does long division support understanding of place value?",
+        "answer": "By requiring alignment of digits according to their place values during each step."
+    },
+    {
+        "question": "What is 2500 divided by 50?",
+        "answer": "50"
+    },
+    {
+        "question": "What is the quotient when 2809 is divided by 53?",
+        "answer": "53"
+    },
+    {
+        "question": "What is the remainder when 500 is divided by 23?",
+        "answer": "17"
+    },
+    {
+        "question": "In budgeting, how might long division be used?",
+        "answer": "To divide a total amount equally among several categories or people."
+    },
+    {
+        "question": "What is 3025 divided by 55?",
+        "answer": "55"
+    }
+]

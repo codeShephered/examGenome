@@ -1,0 +1,537 @@
+[
+  {
+    "question": "What is the place value of the digit 7 in the number 573?",
+    "answer": "70",
+    "details": "In the number 573, the digit 7 is in the tens place. The place value is calculated as 7 × 10 = 70."
+  },
+  {
+    "question": "In the number 2,048, what is the value of the digit 4?",
+    "answer": "40",
+    "details": "The digit 4 is in the tens place (from right: units=8, tens=4, hundreds=0, thousands=2). So its place value is 4 × 10 = 40."
+  },
+  {
+    "question": "Which digit is in the hundreds place in 3,692?",
+    "answer": "6",
+    "details": "From right to left: units (2), tens (9), hundreds (6), thousands (3). So the digit in the hundreds place is 6."
+  },
+  {
+    "question": "What is the place value of 9 in 9,000?",
+    "answer": "9,000",
+    "details": "The digit 9 is in the thousands place, so its place value is 9 × 1,000 = 9,000."
+  },
+  {
+    "question": "How many places are there between the thousands place and the tens place?",
+    "answer": "1",
+    "details": "From right to left: units (1st), tens (2nd), hundreds (3rd), thousands (4th). Between thousands (4th) and tens (2nd) are the hundreds place only—but actually, the positions are consecutive: tens → hundreds → thousands. So between tens and thousands is just the hundreds place, meaning 1 place between."
+  },
+  {
+    "question": "How many times greater is the value of a digit in the hundreds place compared to the same digit in the tens place?",
+    "answer": "10",
+    "details": "Place values increase by powers of 10. Hundreds = 100, tens = 10. So 100 ÷ 10 = 10. A digit in the hundreds place is 10 times the value of the same digit in the tens place."
+  },
+  {
+    "question": "What is the place value of the digit 0 in 4,056?",
+    "answer": "0",
+    "details": "The digit 0 is in the hundreds place, so its place value is 0 × 100 = 0. Zero holds the place but contributes no value."
+  },
+  {
+    "question": "In the number 702, what does the 0 represent?",
+    "answer": "There are no tens.",
+    "details": "The 0 is in the tens place, indicating that there are zero tens in the number 702."
+  },
+  {
+    "question": "What number is formed if you have 3 thousands, 0 hundreds, 5 tens, and 2 ones?",
+    "answer": "3,052",
+    "details": "Thousands: 3 × 1,000 = 3,000; hundreds: 0; tens: 5 × 10 = 50; ones: 2. Total: 3,000 + 50 + 2 = 3,052."
+  },
+  {
+    "question": "What is the digit in the ones place in 8,409?",
+    "answer": "9",
+    "details": "The ones (or units) place is the rightmost digit. In 8,409, it is 9."
+  },
+  {
+    "question": "Which place value is 10 times smaller than the thousands place?",
+    "answer": "Hundreds",
+    "details": "Thousands = 1,000. 1,000 ÷ 10 = 100, which is the hundreds place."
+  },
+  {
+    "question": "What is the total value of the digit 8 in 8,888?",
+    "answer": "8,888",
+    "details": "Each 8 has a different place value: thousands (8,000), hundreds (800), tens (80), ones (8). Sum: 8,000 + 800 + 80 + 8 = 8,888."
+  },
+  {
+    "question": "In the number 15,324, which digit is in the ten-thousands place?",
+    "answer": "1",
+    "details": "From right: ones (4), tens (2), hundreds (3), thousands (5), ten-thousands (1). So the digit is 1."
+  },
+  {
+    "question": "What is the place value of 6 in 63,721?",
+    "answer": "60,000",
+    "details": "The digit 6 is in the ten-thousands place: 6 × 10,000 = 60,000."
+  },
+  {
+    "question": "How many digits are in a number that has its highest place value as hundred-thousands?",
+    "answer": "6",
+    "details": "Hundred-thousands is the 6th place from the right (units, tens, hundreds, thousands, ten-thousands, hundred-thousands). So the number has 6 digits, e.g., 100,000."
+  },
+  {
+    "question": "What is the smallest 4-digit number?",
+    "answer": "1,000",
+    "details": "The smallest 4-digit number has 1 in the thousands place and 0 in all others: 1,000."
+  },
+  {
+    "question": "What is the largest 3-digit number?",
+    "answer": "999",
+    "details": "The largest 3-digit number has 9 in hundreds, tens, and ones places: 999."
+  },
+  {
+    "question": "In 907, how many tens are there?",
+    "answer": "0",
+    "details": "The digit in the tens place is 0, so there are zero tens."
+  },
+  {
+    "question": "What number has 7 in the thousands place, 2 in the hundreds, 0 in the tens, and 5 in the ones?",
+    "answer": "7,205",
+    "details": "Combine place values: 7,000 + 200 + 0 + 5 = 7,205."
+  },
+  {
+    "question": "What is the value of the digit 3 in 23,456?",
+    "answer": "3,000",
+    "details": "The digit 3 is in the thousands place: 3 × 1,000 = 3,000."
+  },
+  {
+    "question": "Which digit in 40,102 has the greatest place value?",
+    "answer": "4",
+    "details": "The digit 4 is in the ten-thousands place (40,000), which is the highest place value in the number."
+  },
+  {
+    "question": "What is 10 times 100?",
+    "answer": "1,000",
+    "details": "100 is the hundreds place. 10 × 100 = 1,000, which is the thousands place."
+  },
+  {
+    "question": "How many ones make a ten?",
+    "answer": "10",
+    "details": "By definition of base-10 system, 10 ones (1+1+...+1 ten times) equal 1 ten."
+  },
+  {
+    "question": "How many tens make a hundred?",
+    "answer": "10",
+    "details": "10 × 10 = 100, so 10 tens make one hundred."
+  },
+  {
+    "question": "In the number 5,006, what is the place value of the first 0 (from left)?",
+    "answer": "0",
+    "details": "The first 0 is in the hundreds place: 0 × 100 = 0."
+  },
+  {
+    "question": "What is the place value system used in standard arithmetic called?",
+    "answer": "Base-10 (decimal) system",
+    "details": "The standard place value system uses powers of 10, so it is called the base-10 or decimal system."
+  },
+  {
+    "question": "What is the next place value after thousands?",
+    "answer": "Ten-thousands",
+    "details": "Place values from right: ones, tens, hundreds, thousands, ten-thousands, etc. So after thousands comes ten-thousands (10,000)."
+  },
+  {
+    "question": "What is the place value of 2 in 125?",
+    "answer": "20",
+    "details": "The digit 2 is in the tens place: 2 × 10 = 20."
+  },
+  {
+    "question": "If you move a digit one place to the left in a number, what happens to its value?",
+    "answer": "It becomes 10 times greater.",
+    "details": "For example, moving 3 from tens (30) to hundreds (300) makes it 10 times larger."
+  },
+  {
+    "question": "If you move a digit one place to the right, what happens to its value?",
+    "answer": "It becomes 10 times smaller.",
+    "details": "For example, moving 5 from hundreds (500) to tens (50) divides its value by 10."
+  },
+  {
+    "question": "What is the sum of the place values of all digits in 400?",
+    "answer": "400",
+    "details": "Digit 4 is in hundreds place: 400. Other digits are 0. Total = 400 + 0 + 0 = 400."
+  },
+  {
+    "question": "In 7,890, which digit has the smallest place value?",
+    "answer": "0",
+    "details": "The digit 0 is in the ones place, and its value is 0, which is the smallest possible."
+  },
+  {
+    "question": "What number is represented by 9 × 1,000 + 0 × 100 + 4 × 10 + 2 × 1?",
+    "answer": "9,042",
+    "details": "Calculate: 9,000 + 0 + 40 + 2 = 9,042."
+  },
+  {
+    "question": "How is the number 6,030 read aloud?",
+    "answer": "Six thousand thirty",
+    "details": "The 0 in the hundreds place is not spoken, and the 0 in the ones place means no units, so it's 'six thousand thirty'."
+  },
+  {
+    "question": "What is the place value of the digit 1 in 100,000?",
+    "answer": "100,000",
+    "details": "The digit 1 is in the hundred-thousands place: 1 × 100,000 = 100,000."
+  },
+  {
+    "question": "Which number has a 5 with a place value of 500?",
+    "answer": "2,583",
+    "details": "In 2,583, the digit 5 is in the hundreds place: 5 × 100 = 500."
+  },
+  {
+    "question": "In the number 30,040, how many zeros are placeholders?",
+    "answer": "3",
+    "details": "The zeros in the thousands, hundreds, and ones places are placeholders to maintain correct digit positions."
+  },
+  {
+    "question": "What is the difference between the place value and face value of 8 in 85?",
+    "answer": "72",
+    "details": "Place value of 8 is 80 (tens place). Face value is 8. Difference: 80 − 8 = 72."
+  },
+  {
+    "question": "What is the face value of 7 in 7,234?",
+    "answer": "7",
+    "details": "Face value is the digit itself, regardless of position. So face value of 7 is 7."
+  },
+  {
+    "question": "What is the place value of 9 in 900,000?",
+    "answer": "900,000",
+    "details": "The digit 9 is in the hundred-thousands place: 9 × 100,000 = 900,000."
+  },
+  {
+    "question": "How many thousands are there in 50,000?",
+    "answer": "50",
+    "details": "50,000 ÷ 1,000 = 50. So there are 50 thousands."
+  },
+  {
+    "question": "What digit is in the ten-thousands place in 123,456?",
+    "answer": "2",
+    "details": "From right: 6 (ones), 5 (tens), 4 (hundreds), 3 (thousands), 2 (ten-thousands), 1 (hundred-thousands). So answer is 2."
+  },
+  {
+    "question": "What is 100 times 10?",
+    "answer": "1,000",
+    "details": "100 × 10 = 1,000, which is the thousands place."
+  },
+  {
+    "question": "In 5,600, how many hundreds are there?",
+    "answer": "56",
+    "details": "5,600 ÷ 100 = 56. So there are 56 hundreds."
+  },
+  {
+    "question": "What number is 100 less than 5,000?",
+    "answer": "4,900",
+    "details": "5,000 − 100 = 4,900. This reduces the hundreds place by 1."
+  },
+  {
+    "question": "What number is 10 more than 3,450?",
+    "answer": "3,460",
+    "details": "Adding 10 increases the tens digit by 1: 3,450 + 10 = 3,460."
+  },
+  {
+    "question": "Which place value is three places to the left of the ones place?",
+    "answer": "Thousands",
+    "details": "Ones (0), tens (1), hundreds (2), thousands (3). So three places left is thousands."
+  },
+  {
+    "question": "In a place value chart, what comes after hundred-thousands?",
+    "answer": "Millions",
+    "details": "The sequence is: ones, tens, hundreds, thousands, ten-thousands, hundred-thousands, millions."
+  },
+  {
+    "question": "What is the smallest whole number that has a digit in the ten-thousands place?",
+    "answer": "10,000",
+    "details": "The smallest number with a non-zero digit in the ten-thousands place is 1 followed by four zeros: 10,000."
+  },
+  {
+    "question": "How many place values are there in the number 707?",
+    "answer": "3",
+    "details": "707 has digits in the hundreds, tens, and ones places—three place values, even though the tens digit is 0."
+  },
+  {
+    "question": "What is the value of the digit 8 in 808?",
+    "answer": "800",
+    "details": "The leftmost 8 is in the hundreds place: 8 × 100 = 800."
+  },
+  {
+    "question": "In the number 4,005, what is the place value of the 5?",
+    "answer": "5",
+    "details": "The digit 5 is in the ones place, so its place value is 5 × 1 = 5."
+  },
+  {
+    "question": "Which number has the same digit in the hundreds and ones place?",
+    "answer": "525 or 949 etc.,",
+    "details": "In 525, the digit in the hundreds place is 5 and the digit in the ones place is also 5."
+  },
+  {
+    "question": "What is the place value of 0 in 105?",
+    "answer": "0",
+    "details": "The 0 is in the tens place, so its place value is 0 × 10 = 0."
+  },
+  {
+    "question": "How many tens are in 200?",
+    "answer": "20",
+    "details": "200 ÷ 10 = 20, so there are 20 tens in 200."
+  },
+  {
+    "question": "What is the number that is 1,000 more than 8,765?",
+    "answer": "9,765",
+    "details": "Adding 1,000 increases the thousands digit by 1: 8,765 + 1,000 = 9,765."
+  },
+  {
+    "question": "In 45,678, what is the place value of the digit 6?",
+    "answer": "600",
+    "details": "The digit 6 is in the hundreds place: 6 × 100 = 600."
+  },
+  {
+    "question": "Which digit in 203,040 is in the ten-thousands place?",
+    "answer": "0",
+    "details": "From right: 0 (ones), 4 (tens), 0 (hundreds), 3 (thousands), 0 (ten-thousands), 2 (hundred-thousands). So the digit is 0."
+  },
+  {
+    "question": "What is the largest place value in the number 90,000?",
+    "answer": "Ten-thousands",
+    "details": "The digit 9 is in the ten-thousands place, which is the highest in this number."
+  },
+  {
+    "question": "How many hundreds make 1,000?",
+    "answer": "10",
+    "details": "1,000 ÷ 100 = 10, so 10 hundreds make 1,000."
+  },
+  {
+    "question": "What is the value of the digit 4 in 40,000?",
+    "answer": "40,000",
+    "details": "The digit 4 is in the ten-thousands place: 4 × 10,000 = 40,000."
+  },
+  {
+    "question": "In the number 1,000,000, what is the place value of the digit 1?",
+    "answer": "1,000,000",
+    "details": "The digit 1 is in the millions place: 1 × 1,000,000 = 1,000,000."
+  },
+  {
+    "question": "What number has 0 in the tens place and 5 in the hundreds place?",
+    "answer": "1,502",
+    "details": "In 1,502, the hundreds digit is 5 and the tens digit is 0."
+  },
+  {
+    "question": "How is place value used when rounding numbers?",
+    "answer": "To determine which digit to round and what place value to round to.",
+    "details": "For example, to round 457 to the nearest ten, look at the tens place (5) and the digit to its right (7). Since 7 ≥ 5, round up the tens digit."
+  },
+  {
+    "question": "What is 6,789 rounded to the nearest hundred?",
+    "answer": "6,800",
+    "details": "The hundreds digit is 7. The tens digit is 8 (≥5), so round up: 7 becomes 8, and tens/ones become 0 → 6,800."
+  },
+  {
+    "question": "In money, what place value does the digit just left of the decimal represent?",
+    "answer": "Ones",
+    "details": "In $12.34, the '2' is in the ones place (dollars), and '1' is in the tens place."
+  },
+  {
+    "question": "In $45.60, what is the place value of the 4?",
+    "answer": "40",
+    "details": "The 4 is in the tens place of dollars: 4 × 10 = 40 dollars."
+  },
+  {
+    "question": "How many place values are to the left of the decimal point in 123.45?",
+    "answer": "3",
+    "details": "The digits 1 (hundreds), 2 (tens), and 3 (ones) are to the left—three place values."
+  },
+  {
+    "question": "What is the place value of the first digit to the right of the decimal in 7.8?",
+    "answer": "Tenths",
+    "details": "The first decimal place is tenths (1/10), so 8 is in the tenths place."
+  },
+  {
+    "question": "What is the value of the digit 6 in 0.63?",
+    "answer": "0.6",
+    "details": "The 6 is in the tenths place: 6 × 0.1 = 0.6."
+  },
+  {
+    "question": "In 5.072, which digit is in the thousandths place?",
+    "answer": "2",
+    "details": "Decimal places: tenths (0), hundredths (7), thousandths (2). So the digit is 2."
+  },
+  {
+    "question": "What is the place value of 9 in 0.009?",
+    "answer": "0.009",
+    "details": "The 9 is in the thousandths place: 9 × 0.001 = 0.009."
+  },
+  {
+    "question": "How many times smaller is the hundredths place than the tenths place?",
+    "answer": "10",
+    "details": "Tenths = 0.1, hundredths = 0.01. 0.1 ÷ 0.01 = 10, so hundredths is 10 times smaller."
+  },
+  {
+    "question": "What is the sum of the place values of the digits in 30.40?",
+    "answer": "30.4",
+    "details": "3 × 10 = 30, 0 × 1 = 0, 4 × 0.1 = 0.4, 0 × 0.01 = 0. Total: 30 + 0 + 0.4 + 0 = 30.4."
+  },
+  {
+    "question": "In the number 200.05, what is the value of the 5?",
+    "answer": "0.05",
+    "details": "The 5 is in the hundredths place: 5 × 0.01 = 0.05."
+  },
+  {
+    "question": "Which digit in 12.304 has the smallest place value?",
+    "answer": "4",
+    "details": "The digit 4 is in the thousandths place (0.001), the smallest place value in the number."
+  },
+  {
+    "question": "How many tenths are in 1 whole?",
+    "answer": "10",
+    "details": "1 ÷ 0.1 = 10, so there are 10 tenths in one whole."
+  },
+  {
+    "question": "What number is represented by 5 × 100 + 3 × 1 + 7 × 0.1?",
+    "answer": "503.7",
+    "details": "500 + 3 + 0.7 = 503.7."
+  },
+  {
+    "question": "In measurement, if a ruler shows 12.5 cm, what does the 5 represent?",
+    "answer": "5 millimeters",
+    "details": "0.5 cm = 5 mm, so the 5 in the tenths place represents half a centimeter or 5 millimeters."
+  },
+  {
+    "question": "What is the place value of 8 in 80.00?",
+    "answer": "80",
+    "details": "The 8 is in the tens place: 8 × 10 = 80."
+  },
+  {
+    "question": "How many hundredths are in 0.5?",
+    "answer": "50",
+    "details": "0.5 = 50/100, so there are 50 hundredths in 0.5."
+  },
+  {
+    "question": "What is the difference between the place value of 2 in 2.5 and 2 in 0.25?",
+    "answer": "1.8",
+    "details": "In 2.5, 2 is in ones place: value = 2. In 0.25, 2 is in tenths place: value = 0.2. Difference: 2 − 0.2 = 1.8."
+  },
+  {
+    "question": "In 7,000, how many zeros act as placeholders?",
+    "answer": "3",
+    "details": "The three zeros hold the hundreds, tens, and ones places, indicating no value in those positions."
+  },
+  {
+    "question": "What is the smallest 5-digit number?",
+    "answer": "10,000",
+    "details": "The smallest 5-digit number has 1 in the ten-thousands place and zeros elsewhere: 10,000."
+  },
+  {
+    "question": "What is the largest 4-digit number?",
+    "answer": "9,999",
+    "details": "All digits are 9: 9,999."
+  },
+  {
+    "question": "How many digits are in the number one million?",
+    "answer": "7",
+    "details": "1,000,000 has seven digits: 1 followed by six zeros."
+  },
+  {
+    "question": "In 3,405, what is the place value of the 4?",
+    "answer": "400",
+    "details": "The 4 is in the hundreds place: 4 × 100 = 400."
+  },
+  {
+    "question": "What number is 100 times greater than 35?",
+    "answer": "3,500",
+    "details": "35 × 100 = 3,500. The digits shift two places left."
+  },
+  {
+    "question": "What number is 10 times smaller than 600?",
+    "answer": "60",
+    "details": "600 ÷ 10 = 60. The digits shift one place right."
+  },
+  {
+    "question": "In 0.007, what is the place value of 7?",
+    "answer": "Thousandths",
+    "details": "The 7 is three places to the right of the decimal, which is the thousandths place."
+  },
+  {
+    "question": "How many thousandths make one hundredth?",
+    "answer": "10",
+    "details": "0.01 ÷ 0.001 = 10, so 10 thousandths make one hundredth."
+  },
+  {
+    "question": "What is the face value of 9 in 0.09?",
+    "answer": "9",
+    "details": "Face value is always the digit itself, so 9."
+  },
+  {
+    "question": "What is the place value of 1 in 0.100?",
+    "answer": "0.1",
+    "details": "The 1 is in the tenths place: 1 × 0.1 = 0.1."
+  },
+  {
+    "question": "In the number 50.05, how many times greater is the left 5 than the right 5?",
+    "answer": "1,000",
+    "details": "Left 5 is in tens place: 50. Right 5 is in hundredths place: 0.05. 50 ÷ 0.05 = 1,000."
+  },
+  {
+    "question": "What is the value of the digit 3 in 300.003?",
+    "answer": "300 and 0.003",
+    "details": "The left 3 is in hundreds place: 300. The right 3 is in thousandths place: 0.003."
+  },
+  {
+    "question": "How is place value used in reading large numbers?",
+    "answer": "By grouping digits into periods (ones, thousands, millions) based on place value.",
+    "details": "For example, 12,345 is read as 'twelve thousand, three hundred forty-five' by recognizing place value groups."
+  },
+  {
+    "question": "What is the place value period that includes the hundred-thousands place?",
+    "answer": "Thousands period",
+    "details": "The thousands period includes thousands, ten-thousands, and hundred-thousands places."
+  },
+  {
+    "question": "In 2,000,000, how many zeros are there?",
+    "answer": "6",
+    "details": "Two million is written as 2 followed by six zeros: 2,000,000."
+  },
+  {
+    "question": "What is the place value of the digit 6 in 0.0006?",
+    "answer": "Ten-thousandths",
+    "details": "The 6 is four places to the right of the decimal, which is the ten-thousandths place (0.0001)."
+  },
+  {
+    "question": "How many ten-thousandths are in one thousandth?",
+    "answer": "10",
+    "details": "0.001 ÷ 0.0001 = 10, so there are 10 ten-thousandths in one thousandth."
+  },
+  {
+    "question": "What number has 4 in the tenths place and 2 in the hundredths place?",
+    "answer": "0.42",
+    "details": "Tenths: 4 × 0.1 = 0.4; hundredths: 2 × 0.01 = 0.02; total = 0.42."
+  },
+  {
+    "question": "In 123,456.789, which digit is in the hundredths place?",
+    "answer": "8",
+    "details": "Decimal places: tenths (7), hundredths (8), thousandths (9). So the digit is 8."
+  },
+  {
+    "question": "What is the place value of 5 in 5,000,000?",
+    "answer": "5,000,000",
+    "details": "The digit 5 is in the millions place: 5 × 1,000,000 = 5,000,000."
+  },
+  {
+    "question": "How many millions are in 50,000,000?",
+    "answer": "50",
+    "details": "50,000,000 ÷ 1,000,000 = 50."
+  },
+  {
+    "question": "What is 100,000 ÷ 10?",
+    "answer": "10,000",
+    "details": "Dividing by 10 shifts digits one place right: hundred-thousands becomes ten-thousands."
+  },
+  {
+    "question": "In population statistics, what place value might represent 'thousands of people'?",
+    "answer": "The thousands place",
+    "details": "For example, a population of 123,000 means 123 thousand people, where '123' is in the thousands place and above."
+  },
+  {
+    "question": "If a car costs $25,600, what does the digit 6 represent?",
+    "answer": "600 dollars",
+    "details": "The 6 is in the hundreds place: 6 × 100 = $600."
+  }
+]

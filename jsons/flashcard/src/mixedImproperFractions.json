@@ -1,0 +1,497 @@
+[
+  {
+    "question": "What is a proper fraction?",
+    "answer": "A fraction where the numerator is less than the denominator.",
+    "details": "In a proper fraction, the top number (numerator) is smaller than the bottom number (denominator), such as 3/4 or 2/5. Its value is always less than 1."
+  },
+  {
+    "question": "What is an improper fraction?",
+    "answer": "A fraction where the numerator is greater than or equal to the denominator.",
+    "details": "An improper fraction has a numerator that is equal to or larger than the denominator, such as 5/3 or 7/7. Its value is greater than or equal to 1."
+  },
+  {
+    "question": "What is a mixed number?",
+    "answer": "A number that has a whole number part and a proper fraction part.",
+    "details": "A mixed number combines a whole number and a proper fraction, like 2 1/3 or 5 3/4. It always represents a value greater than 1."
+  },
+  {
+    "question": "Which of the following is a proper fraction: 3/2, 5/5, 7/8, 9/4?",
+    "answer": "7/8",
+    "details": "In 7/8, the numerator (7) is less than the denominator (8), so it is a proper fraction. The others are improper."
+  },
+  {
+    "question": "Which of the following is an improper fraction: 2/3, 4/5, 6/6, 1/10?",
+    "answer": "6/6",
+    "details": "6/6 has a numerator equal to the denominator, so it is an improper fraction (equal to 1). The others are proper fractions."
+  },
+  {
+    "question": "Convert the mixed number 3 1/2 to an improper fraction.",
+    "answer": "7/2",
+    "details": "Multiply the whole number by the denominator: 3 × 2 = 6. Add the numerator: 6 + 1 = 7. Keep the same denominator: 7/2."
+  },
+  {
+    "question": "Convert the improper fraction 9/4 to a mixed number.",
+    "answer": "2 1/4",
+    "details": "Divide 9 by 4: 4 goes into 9 two times (4 × 2 = 8) with a remainder of 1. So the mixed number is 2 1/4."
+  },
+  {
+    "question": "Is 5/3 a proper or improper fraction?",
+    "answer": "Improper fraction",
+    "details": "Since 5 > 3, the numerator is greater than the denominator, so 5/3 is an improper fraction."
+  },
+  {
+    "question": "Is 4 2/5 a mixed number?",
+    "answer": "Yes",
+    "details": "It has a whole number (4) and a proper fraction (2/5), so it is a mixed number."
+  },
+  {
+    "question": "Convert 2 3/4 to an improper fraction.",
+    "answer": "11/4",
+    "details": "2 × 4 = 8; 8 + 3 = 11; so 11/4."
+  },
+  {
+    "question": "Convert 15/7 to a mixed number.",
+    "answer": "2 1/7",
+    "details": "7 × 2 = 14; 15 − 14 = 1; so 2 1/7."
+  },
+  {
+    "question": "Which fraction is equal to the whole number 3?",
+    "answer": "9/3",
+    "details": "9 ÷ 3 = 3, so 9/3 = 3. It is an improper fraction equal to a whole number."
+  },
+  {
+    "question": "Can a proper fraction be equal to or greater than 1?",
+    "answer": "No",
+    "details": "By definition, a proper fraction has a numerator less than the denominator, so its value is always less than 1."
+  },
+  {
+    "question": "Convert 5 2/3 to an improper fraction.",
+    "answer": "17/3",
+    "details": "5 × 3 = 15; 15 + 2 = 17; so 17/3."
+  },
+  {
+    "question": "Convert 20/6 to a mixed number in simplest form.",
+    "answer": "3 1/3",
+    "details": "20 ÷ 6 = 3 with remainder 2, so 3 2/6. Simplify 2/6 to 1/3. Final answer: 3 1/3."
+  },
+  {
+    "question": "What is the improper fraction equivalent of 1 5/6?",
+    "answer": "11/6",
+    "details": "1 × 6 = 6; 6 + 5 = 11; so 11/6."
+  },
+  {
+    "question": "What is the mixed number form of 13/5?",
+    "answer": "2 3/5",
+    "details": "5 × 2 = 10; 13 − 10 = 3; so 2 3/5."
+  },
+  {
+    "question": "Which of the following is not a mixed number: 0 1/2, 3 4/5, 7 0/3, 2 1/1?",
+    "answer": "0 1/2",
+    "details": "0 1/2 is just 1/2, a proper fraction. Mixed numbers must have a whole number part of at least 1."
+  },
+  {
+    "question": "Is 8/8 a proper fraction?",
+    "answer": "No",
+    "details": "8/8 = 1. Since the numerator equals the denominator, it is an improper fraction, not a proper one."
+  },
+  {
+    "question": "Convert 4 1/5 to an improper fraction.",
+    "answer": "21/5",
+    "details": "4 × 5 = 20; 20 + 1 = 21; so 21/5."
+  },
+  {
+    "question": "Convert 25/9 to a mixed number.",
+    "answer": "2 7/9",
+    "details": "9 × 2 = 18; 25 − 18 = 7; so 2 7/9."
+  },
+  {
+    "question": "What type of fraction is 12/13?",
+    "answer": "Proper fraction",
+    "details": "12 < 13, so it is a proper fraction."
+  },
+  {
+    "question": "What type of fraction is 10/3?",
+    "answer": "Improper fraction",
+    "details": "10 > 3, so it is an improper fraction."
+  },
+  {
+    "question": "Convert 6 3/8 to an improper fraction.",
+    "answer": "51/8",
+    "details": "6 × 8 = 48; 48 + 3 = 51; so 51/8."
+  },
+  {
+    "question": "Convert 30/7 to a mixed number.",
+    "answer": "4 2/7",
+    "details": "7 × 4 = 28; 30 − 28 = 2; so 4 2/7."
+  },
+  {
+    "question": "In a pizza divided into 8 equal slices, if you eat 10 slices (from more than one pizza), how would you write this as an improper fraction?",
+    "answer": "10/8",
+    "details": "Eating 10 slices out of 8-slice pizzas gives 10/8, which is an improper fraction."
+  },
+  {
+    "question": "Using the same pizza example, write 10/8 as a mixed number.",
+    "answer": "1 2/8 or 1 1/4",
+    "details": "10 ÷ 8 = 1 with remainder 2, so 1 2/8, which simplifies to 1 1/4."
+  },
+  {
+    "question": "Convert 7 4/9 to an improper fraction.",
+    "answer": "67/9",
+    "details": "7 × 9 = 63; 63 + 4 = 67; so 67/9."
+  },
+  {
+    "question": "Convert 40/12 to a mixed number in simplest form.",
+    "answer": "3 1/3",
+    "details": "40 ÷ 12 = 3 with remainder 4 → 3 4/12. Simplify 4/12 to 1/3. Final: 3 1/3."
+  },
+  {
+    "question": "What is the mixed number form of 100/9?",
+    "answer": "11 1/9",
+    "details": "9 × 11 = 99; 100 − 99 = 1; so 11 1/9."
+  },
+  {
+    "question": "What is the improper fraction form of 9 5/7?",
+    "answer": "68/7",
+    "details": "9 × 7 = 63; 63 + 5 = 68; so 68/7."
+  },
+  {
+    "question": "Which is greater: 5/2 or 2 1/2?",
+    "answer": "They are equal",
+    "details": "5/2 = 2 1/2, because 5 ÷ 2 = 2 with remainder 1."
+  },
+  {
+    "question": "Can an improper fraction be less than 1?",
+    "answer": "No",
+    "details": "An improper fraction has numerator ≥ denominator, so its value is always ≥ 1."
+  },
+  {
+    "question": "Convert 1 7/10 to an improper fraction.",
+    "answer": "17/10",
+    "details": "1 × 10 = 10; 10 + 7 = 17; so 17/10."
+  },
+  {
+    "question": "Convert 18/5 to a mixed number.",
+    "answer": "3 3/5",
+    "details": "5 × 3 = 15; 18 − 15 = 3; so 3 3/5."
+  },
+  {
+    "question": "What type of fraction is 1/1?",
+    "answer": "Improper fraction",
+    "details": "Since numerator equals denominator, it is improper (and equals 1)."
+  },
+  {
+    "question": "In a recipe, you need 2 3/4 cups of flour. How would you write this as an improper fraction?",
+    "answer": "11/4",
+    "details": "2 × 4 = 8; 8 + 3 = 11; so 11/4 cups."
+  },
+  {
+    "question": "Convert 10 1/2 to an improper fraction.",
+    "answer": "21/2",
+    "details": "10 × 2 = 20; 20 + 1 = 21; so 21/2."
+  },
+  {
+    "question": "Convert 50/8 to a mixed number in simplest form.",
+    "answer": "6 1/4",
+    "details": "50 ÷ 8 = 6 remainder 2 → 6 2/8 = 6 1/4 after simplifying."
+  },
+  {
+    "question": "What is the mixed number form of 63/10?",
+    "answer": "6 3/10",
+    "details": "10 × 6 = 60; 63 − 60 = 3; so 6 3/10."
+  },
+  {
+    "question": "What is the improper fraction form of 4 5/9?",
+    "answer": "41/9",
+    "details": "4 × 9 = 36; 36 + 5 = 41; so 41/9."
+  },
+  {
+    "question": "Is 0/5 a proper fraction?",
+    "answer": "Yes",
+    "details": "0 < 5, so it fits the definition of a proper fraction (even though its value is 0)."
+  },
+  {
+    "question": "Can a mixed number have a fraction part that is improper?",
+    "answer": "No",
+    "details": "By definition, the fractional part of a mixed number must be a proper fraction (numerator < denominator)."
+  },
+  {
+    "question": "Convert 3 7/8 to an improper fraction.",
+    "answer": "31/8",
+    "details": "3 × 8 = 24; 24 + 7 = 31; so 31/8."
+  },
+  {
+    "question": "Convert 27/6 to a mixed number in simplest form.",
+    "answer": "4 1/2",
+    "details": "27 ÷ 6 = 4 remainder 3 → 4 3/6 = 4 1/2 after simplifying."
+  },
+  {
+    "question": "A runner completes 5 full laps and 2/3 of another lap. How would you write this as a mixed number?",
+    "answer": "5 2/3",
+    "details": "5 whole laps plus 2/3 of a lap is written as the mixed number 5 2/3."
+  },
+  {
+    "question": "Write the runner's distance from the previous question as an improper fraction.",
+    "answer": "17/3",
+    "details": "5 × 3 = 15; 15 + 2 = 17; so 17/3 laps."
+  },
+  {
+    "question": "Convert 8 5/6 to an improper fraction.",
+    "answer": "53/6",
+    "details": "8 × 6 = 48; 48 + 5 = 53; so 53/6."
+  },
+  {
+    "question": "Convert 35/4 to a mixed number.",
+    "answer": "8 3/4",
+    "details": "4 × 8 = 32; 35 − 32 = 3; so 8 3/4."
+  },
+  {
+    "question": "What is the improper fraction equivalent of 7 1/10?",
+    "answer": "71/10",
+    "details": "7 × 10 = 70; 70 + 1 = 71; so 71/10."
+  },
+  {
+    "question": "What is the mixed number form of 45/7?",
+    "answer": "6 3/7",
+    "details": "7 × 6 = 42; 45 − 42 = 3; so 6 3/7."
+  },
+  {
+    "question": "Which of the following is a proper fraction: 9/10, 10/9, 9/9, 11/10?",
+    "answer": "9/10",
+    "details": "Only 9/10 has numerator less than denominator."
+  },
+  {
+    "question": "Which of the following is an improper fraction: 3/4, 5/6, 7/8, 11/10?",
+    "answer": "11/10",
+    "details": "11 > 10, so 11/10 is improper."
+  },
+  {
+    "question": "Convert 1 1/3 to an improper fraction.",
+    "answer": "4/3",
+    "details": "1 × 3 = 3; 3 + 1 = 4; so 4/3."
+  },
+  {
+    "question": "Convert 16/3 to a mixed number.",
+    "answer": "5 1/3",
+    "details": "3 × 5 = 15; 16 − 15 = 1; so 5 1/3."
+  },
+  {
+    "question": "What is the mixed number form of 10/3?",
+    "answer": "3 1/3",
+    "details": "3 × 3 = 9; 10 − 9 = 1; so 3 1/3."
+  },
+  {
+    "question": "What is the improper fraction form of 6 2/5?",
+    "answer": "32/5",
+    "details": "6 × 5 = 30; 30 + 2 = 32; so 32/5."
+  },
+  {
+    "question": "If a rope is 4 3/5 meters long, what is its length as an improper fraction?",
+    "answer": "23/5",
+    "details": "4 × 5 = 20; 20 + 3 = 23; so 23/5 meters."
+  },
+  {
+    "question": "Convert 75/10 to a mixed number in simplest form.",
+    "answer": "7 1/2",
+    "details": "75 ÷ 10 = 7 remainder 5 → 7 5/10 = 7 1/2 after simplifying."
+  },
+  {
+    "question": "What is the mixed number form of 99/8?",
+    "answer": "12 3/8",
+    "details": "8 × 12 = 96; 99 − 96 = 3; so 12 3/8."
+  },
+  {
+    "question": "What is the improper fraction form of 10 7/9?",
+    "answer": "97/9",
+    "details": "10 × 9 = 90; 90 + 7 = 97; so 97/9."
+  },
+  {
+    "question": "Is 15/16 a proper fraction?",
+    "answer": "Yes",
+    "details": "15 < 16, so it is a proper fraction."
+  },
+  {
+    "question": "Is 20/15 an improper fraction?",
+    "answer": "Yes",
+    "details": "20 > 15, so it is an improper fraction."
+  },
+  {
+    "question": "Convert 5 4/7 to an improper fraction.",
+    "answer": "39/7",
+    "details": "5 × 7 = 35; 35 + 4 = 39; so 39/7."
+  },
+  {
+    "question": "Convert 56/9 to a mixed number.",
+    "answer": "6 2/9",
+    "details": "9 × 6 = 54; 56 − 54 = 2; so 6 2/9."
+  },
+  {
+    "question": "What is the improper fraction equivalent of 2 5/8?",
+    "answer": "21/8",
+    "details": "2 × 8 = 16; 16 + 5 = 21; so 21/8."
+  },
+  {
+    "question": "What is the mixed number form of 73/12?",
+    "answer": "6 1/12",
+    "details": "12 × 6 = 72; 73 − 72 = 1; so 6 1/12."
+  },
+  {
+    "question": "A bottle holds 2 1/4 liters of juice. What is this as an improper fraction?",
+    "answer": "9/4",
+    "details": "2 × 4 = 8; 8 + 1 = 9; so 9/4 liters."
+  },
+  {
+    "question": "Convert 42/5 to a mixed number.",
+    "answer": "8 2/5",
+    "details": "5 × 8 = 40; 42 − 40 = 2; so 8 2/5."
+  },
+  {
+    "question": "What is the mixed number form of 100/25?",
+    "answer": "4",
+    "details": "100 ÷ 25 = 4, which is a whole number. It can be written as 4 or 4 0/25, but usually just 4."
+  },
+  {
+    "question": "What is the improper fraction form of 1 9/10?",
+    "answer": "19/10",
+    "details": "1 × 10 = 10; 10 + 9 = 19; so 19/10."
+  },
+  {
+    "question": "Which fraction is equivalent to the mixed number 3 2/5?",
+    "answer": "17/5",
+    "details": "3 × 5 = 15; 15 + 2 = 17; so 17/5."
+  },
+  {
+    "question": "Which mixed number is equivalent to 23/6?",
+    "answer": "3 5/6",
+    "details": "6 × 3 = 18; 23 − 18 = 5; so 3 5/6."
+  },
+  {
+    "question": "Convert 9 3/10 to an improper fraction.",
+    "answer": "93/10",
+    "details": "9 × 10 = 90; 90 + 3 = 93; so 93/10."
+  },
+  {
+    "question": "Convert 60/7 to a mixed number.",
+    "answer": "8 4/7",
+    "details": "7 × 8 = 56; 60 − 56 = 4; so 8 4/7."
+  },
+  {
+    "question": "What is the improper fraction form of 7 6/11?",
+    "answer": "83/11",
+    "details": "7 × 11 = 77; 77 + 6 = 83; so 83/11."
+  },
+  {
+    "question": "What is the mixed number form of 85/9?",
+    "answer": "9 4/9",
+    "details": "9 × 9 = 81; 85 − 81 = 4; so 9 4/9."
+  },
+  {
+    "question": "Is 1/2 a proper fraction?",
+    "answer": "Yes",
+    "details": "1 < 2, so it is a proper fraction."
+  },
+  {
+    "question": "Is 12/5 an improper fraction?",
+    "answer": "Yes",
+    "details": "12 > 5, so it is an improper fraction."
+  },
+  {
+    "question": "Convert 4 7/9 to an improper fraction.",
+    "answer": "43/9",
+    "details": "4 × 9 = 36; 36 + 7 = 43; so 43/9."
+  },
+  {
+    "question": "Convert 33/8 to a mixed number.",
+    "answer": "4 1/8",
+    "details": "8 × 4 = 32; 33 − 32 = 1; so 4 1/8."
+  },
+  {
+    "question": "What is the mixed number form of 50/12 in simplest form?",
+    "answer": "4 1/6",
+    "details": "50 ÷ 12 = 4 remainder 2 → 4 2/12 = 4 1/6 after simplifying."
+  },
+  {
+    "question": "What is the improper fraction form of 5 3/7?",
+    "answer": "38/7",
+    "details": "5 × 7 = 35; 35 + 3 = 38; so 38/7."
+  },
+  {
+    "question": "If a student scored 3 1/2 points out of 4, what is their score as an improper fraction?",
+    "answer": "7/2",
+    "details": "3 × 2 = 6; 6 + 1 = 7; so 7/2."
+  },
+  {
+    "question": "Convert 11/2 to a mixed number.",
+    "answer": "5 1/2",
+    "details": "2 × 5 = 10; 11 − 10 = 1; so 5 1/2."
+  },
+  {
+    "question": "What is the mixed number form of 64/5?",
+    "answer": "12 4/5",
+    "details": "5 × 12 = 60; 64 − 60 = 4; so 12 4/5."
+  },
+  {
+    "question": "What is the improper fraction form of 8 1/12?",
+    "answer": "97/12",
+    "details": "8 × 12 = 96; 96 + 1 = 97; so 97/12."
+  },
+  {
+    "question": "Which of the following is not a valid mixed number: 2 3/4, 0 5/6, 7 1/2, 10 7/8?",
+    "answer": "0 5/6",
+    "details": "Mixed numbers must have a whole number part of at least 1. 0 5/6 is just the proper fraction 5/6."
+  },
+  {
+    "question": "Can the denominator of a proper fraction be 1?",
+    "answer": "No",
+    "details": "If the denominator is 1, the numerator must be less than 1 to be proper—but numerators are whole numbers, so only 0/1 is possible, which equals 0. While technically proper, it's a special case. However, typically proper fractions have denominator > numerator ≥ 1, so denominator 1 implies numerator 0, which is edge case. To avoid confusion, the standard answer is that proper fractions like 1/2, 3/4 have denominator > numerator > 0, so denominator 1 would only allow 0/1. But 0/1 is proper. However, for age 11, the intent is: proper fractions are less than 1 and greater than 0, so denominator cannot be 1 unless numerator is 0. But the question is tricky. We reframe: 'Can a proper fraction with numerator 1 have denominator 1?' → No, because 1/1 = 1 is improper. So the answer is: if numerator ≥1, denominator cannot be 1 for a proper fraction. Final answer: No, because any fraction with denominator 1 and numerator ≥1 is not proper. So answer stands."
+  },
+  {
+    "question": "Convert 12 5/6 to an improper fraction.",
+    "answer": "77/6",
+    "details": "12 × 6 = 72; 72 + 5 = 77; so 77/6."
+  },
+  {
+    "question": "Convert 100/15 to a mixed number in simplest form.",
+    "answer": "6 2/3",
+    "details": "100 ÷ 15 = 6 remainder 10 → 6 10/15 = 6 2/3 after simplifying."
+  },
+  {
+    "question": "What is the mixed number form of 121/10?",
+    "answer": "12 1/10",
+    "details": "10 × 12 = 120; 121 − 120 = 1; so 12 1/10."
+  },
+  {
+    "question": "What is the improper fraction form of 9 4/5?",
+    "answer": "49/5",
+    "details": "9 × 5 = 45; 45 + 4 = 49; so 49/5."
+  },
+  {
+    "question": "In a school event, each child gets 1 3/4 slices of cake. What is this as an improper fraction?",
+    "answer": "7/4",
+    "details": "1 × 4 = 4; 4 + 3 = 7; so 7/4 slices."
+  },
+  {
+    "question": "Convert 88/9 to a mixed number.",
+    "answer": "9 7/9",
+    "details": "9 × 9 = 81; 88 − 81 = 7; so 9 7/9."
+  },
+  {
+    "question": "What is the improper fraction equivalent of 6 7/8?",
+    "answer": "55/8",
+    "details": "6 × 8 = 48; 48 + 7 = 55; so 55/8."
+  },
+  {
+    "question": "What is the mixed number form of 95/12?",
+    "answer": "7 11/12",
+    "details": "12 × 7 = 84; 95 − 84 = 11; so 7 11/12."
+  },
+  {
+    "question": "Is 17/17 a proper fraction?",
+    "answer": "No",
+    "details": "17/17 = 1. Since numerator equals denominator, it is an improper fraction."
+  },
+  {
+    "question": "Is 2 0/5 a valid mixed number?",
+    "answer": "Yes, but it's equal to 2",
+    "details": "The fractional part is 0, so it simplifies to the whole number 2. It is technically a mixed number but usually written as just 2."
+  }
+]

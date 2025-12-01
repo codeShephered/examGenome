@@ -1,0 +1,477 @@
+[
+  {
+    "question": "What is the ratio of 8 to 4 in its simplest form?",
+    "answer": "2:1",
+    "details": "To simplify a ratio, divide both numbers by their greatest common factor (GCF). GCF of 8 and 4 is 4. 8 ÷ 4 = 2, 4 ÷ 4 = 1. So the ratio is 2:1."
+  },
+  {
+    "question": "If there are 6 red balls and 9 blue balls, what is the ratio of red to blue balls?",
+    "answer": "2:3",
+    "details": "The ratio is 6:9. Simplify by dividing both by 3: 6 ÷ 3 = 2, 9 ÷ 3 = 3. So 2:3."
+  },
+  {
+    "question": "A recipe uses 2 cups of flour for every 3 cups of sugar. What is the ratio of flour to sugar?",
+    "answer": "2:3",
+    "details": "The ratio is directly given: 2 cups flour to 3 cups sugar, so 2:3."
+  },
+  {
+    "question": "What is the ratio of 15 to 25 in simplest form?",
+    "answer": "3:5",
+    "details": "GCF of 15 and 25 is 5. 15 ÷ 5 = 3, 25 ÷ 5 = 5. So 3:5."
+  },
+  {
+    "question": "If the ratio of boys to girls in a class is 4:5 and there are 16 boys, how many girls are there?",
+    "answer": "20",
+    "details": "The ratio 4:5 means for every 4 boys, there are 5 girls. 16 boys ÷ 4 = 4 groups. So girls = 4 × 5 = 20."
+  },
+  {
+    "question": "What is the ratio of 12 to 18 in simplest form?",
+    "answer": "2:3",
+    "details": "GCF of 12 and 18 is 6. 12 ÷ 6 = 2, 18 ÷ 6 = 3. So 2:3."
+  },
+  {
+    "question": "A map scale is 1 cm : 5 km. If two towns are 4 cm apart on the map, how far are they in real life?",
+    "answer": "20 km",
+    "details": "1 cm represents 5 km, so 4 cm represents 4 × 5 = 20 km."
+  },
+  {
+    "question": "What is the ratio of 10 to 2 in simplest form?",
+    "answer": "5:1",
+    "details": "GCF of 10 and 2 is 2. 10 ÷ 2 = 5, 2 ÷ 2 = 1. So 5:1."
+  },
+  {
+    "question": "If the ratio of apples to oranges is 3:2 and there are 15 apples, how many oranges are there?",
+    "answer": "10",
+    "details": "3:2 means for every 3 apples, there are 2 oranges. 15 apples ÷ 3 = 5 groups. Oranges = 5 × 2 = 10."
+  },
+  {
+    "question": "What is the ratio of 20 to 30 in simplest form?",
+    "answer": "2:3",
+    "details": "GCF of 20 and 30 is 10. 20 ÷ 10 = 2, 30 ÷ 10 = 3. So 2:3."
+  },
+  {
+    "question": "A mixture contains 4 parts water and 1 part juice. What is the ratio of water to juice?",
+    "answer": "4:1",
+    "details": "The mixture is described as 4 parts water to 1 part juice, so the ratio is 4:1."
+  },
+  {
+    "question": "What is the ratio of 9 to 12 in simplest form?",
+    "answer": "3:4",
+    "details": "GCF of 9 and 12 is 3. 9 ÷ 3 = 3, 12 ÷ 3 = 4. So 3:4."
+  },
+  {
+    "question": "If the ratio of cats to dogs is 2:3 and there are 10 cats, how many dogs are there?",
+    "answer": "15",
+    "details": "2:3 means for every 2 cats, there are 3 dogs. 10 cats ÷ 2 = 5 groups. Dogs = 5 × 3 = 15."
+  },
+  {
+    "question": "What is the ratio of 14 to 21 in simplest form?",
+    "answer": "2:3",
+    "details": "GCF of 14 and 21 is 7. 14 ÷ 7 = 2, 21 ÷ 7 = 3. So 2:3."
+  },
+  {
+    "question": "A school has a student-to-teacher ratio of 20:1. If there are 10 teachers, how many students are there?",
+    "answer": "200",
+    "details": "20:1 means 20 students per 1 teacher. So 10 teachers × 20 = 200 students."
+  },
+  {
+    "question": "What is the ratio of 25 to 15 in simplest form?",
+    "answer": "5:3",
+    "details": "GCF of 25 and 15 is 5. 25 ÷ 5 = 5, 15 ÷ 5 = 3. So 5:3."
+  },
+  {
+    "question": "If the ratio of width to height of a rectangle is 3:2 and the width is 12 cm, what is the height?",
+    "answer": "8 cm",
+    "details": "3:2 means width = 3 parts = 12 cm, so 1 part = 12 ÷ 3 = 4 cm. Height = 2 parts = 2 × 4 = 8 cm."
+  },
+  {
+    "question": "What is the ratio of 16 to 24 in simplest form?",
+    "answer": "2:3",
+    "details": "GCF of 16 and 24 is 8. 16 ÷ 8 = 2, 24 ÷ 8 = 3. So 2:3."
+  },
+  {
+    "question": "A paint mixture uses 5 parts red and 3 parts white. What is the ratio of red to total paint?",
+    "answer": "5:8",
+    "details": "Total parts = 5 + 3 = 8. Ratio of red to total is 5:8."
+  },
+  {
+    "question": "What is the ratio of 18 to 12 in simplest form?",
+    "answer": "3:2",
+    "details": "GCF of 18 and 12 is 6. 18 ÷ 6 = 3, 12 ÷ 6 = 2. So 3:2."
+  },
+  {
+    "question": "If the ratio of boys to total students is 3:5 and there are 25 students, how many boys are there?",
+    "answer": "15",
+    "details": "3:5 means 3 boys out of every 5 students. 25 students ÷ 5 = 5 groups. Boys = 5 × 3 = 15."
+  },
+  {
+    "question": "What is the ratio of 30 to 45 in simplest form?",
+    "answer": "2:3",
+    "details": "GCF of 30 and 45 is 15. 30 ÷ 15 = 2, 45 ÷ 15 = 3. So 2:3."
+  },
+  {
+    "question": "A recipe calls for butter and sugar in the ratio 1:2. If you use 3 cups of butter, how much sugar do you need?",
+    "answer": "6 cups",
+    "details": "1:2 means 1 part butter to 2 parts sugar. So 3 cups butter × 2 = 6 cups sugar."
+  },
+  {
+    "question": "What is the ratio of 21 to 28 in simplest form?",
+    "answer": "3:4",
+    "details": "GCF of 21 and 28 is 7. 21 ÷ 7 = 3, 28 ÷ 7 = 4. So 3:4."
+  },
+  {
+    "question": "If the ratio of correct answers to total questions is 4:5 and there are 20 questions, how many did the student get right?",
+    "answer": "16",
+    "details": "4:5 means 4 correct out of every 5 questions. 20 questions ÷ 5 = 4 groups. Correct = 4 × 4 = 16."
+  },
+  {
+    "question": "What is the ratio of 35 to 50 in simplest form?",
+    "answer": "7:10",
+    "details": "GCF of 35 and 50 is 5. 35 ÷ 5 = 7, 50 ÷ 5 = 10. So 7:10."
+  },
+  {
+    "question": "A bag contains green and yellow marbles in the ratio 2:3. If there are 25 marbles in total, how many are green?",
+    "answer": "10",
+    "details": "Total parts = 2 + 3 = 5. 25 marbles ÷ 5 = 5 per part. Green = 2 × 5 = 10."
+  },
+  {
+    "question": "What is the ratio of 10 to 40 in simplest form?",
+    "answer": "1:4",
+    "details": "GCF of 10 and 40 is 10. 10 ÷ 10 = 1, 40 ÷ 10 = 4. So 1:4."
+  },
+  {
+    "question": "If the ratio of length to width of a field is 5:3 and the width is 15 m, what is the length?",
+    "answer": "25 m",
+    "details": "5:3 means width = 3 parts = 15 m, so 1 part = 15 ÷ 3 = 5 m. Length = 5 parts = 5 × 5 = 25 m."
+  },
+  {
+    "question": "What is the ratio of 12 to 36 in simplest form?",
+    "answer": "1:3",
+    "details": "GCF of 12 and 36 is 12. 12 ÷ 12 = 1, 36 ÷ 12 = 3. So 1:3."
+  },
+  {
+    "question": "A fruit salad has apples, bananas, and oranges in the ratio 2:3:4. If there are 18 bananas, how many apples are there?",
+    "answer": "12",
+    "details": "Bananas = 3 parts = 18, so 1 part = 6. Apples = 2 parts = 2 × 6 = 12."
+  },
+  {
+    "question": "What is the ratio of 40 to 20 in simplest form?",
+    "answer": "2:1",
+    "details": "GCF of 40 and 20 is 20. 40 ÷ 20 = 2, 20 ÷ 20 = 1. So 2:1."
+  },
+  {
+    "question": "If the ratio of pens to pencils is 5:7 and there are 35 pencils, how many pens are there?",
+    "answer": "25",
+    "details": "5:7 means 7 pencils correspond to 5 pens. 35 pencils ÷ 7 = 5 groups. Pens = 5 × 5 = 25."
+  },
+  {
+    "question": "What is the ratio of 27 to 36 in simplest form?",
+    "answer": "3:4",
+    "details": "GCF of 27 and 36 is 9. 27 ÷ 9 = 3, 36 ÷ 9 = 4. So 3:4."
+  },
+  {
+    "question": "A car uses 3 liters of fuel to travel 45 km. What is the ratio of fuel to distance in simplest form?",
+    "answer": "1:15",
+    "details": "3 liters : 45 km. GCF of 3 and 45 is 3. 3 ÷ 3 = 1, 45 ÷ 3 = 15. So 1:15."
+  },
+  {
+    "question": "What is the ratio of 50 to 100 in simplest form?",
+    "answer": "1:2",
+    "details": "GCF of 50 and 100 is 50. 50 ÷ 50 = 1, 100 ÷ 50 = 2. So 1:2."
+  },
+  {
+    "question": "If the ratio of black to white tiles is 4:9 and there are 52 black tiles, how many white tiles are there?",
+    "answer": "117",
+    "details": "4:9 means 4 black tiles correspond to 9 white tiles. 52 black tiles ÷ 4 = 13 groups. White = 13 × 9 = 117."
+  },
+  {
+    "question": "What is the ratio of 6 to 24 in simplest form?",
+    "answer": "1:4",
+    "details": "GCF of 6 and 24 is 6. 6 ÷ 6 = 1, 24 ÷ 6 = 4. So 1:4."
+  },
+  {
+    "question": "A school has a ratio of girls to boys of 3:2. If there are 60 girls, how many boys are there?",
+    "answer": "40",
+    "details": "3:2 means 3 girls for every 2 boys. 60 girls ÷ 3 = 20 groups. Boys = 20 × 2 = 40."
+  },
+  {
+    "question": "What is the ratio of 32 to 48 in simplest form?",
+    "answer": "2:3",
+    "details": "GCF of 32 and 48 is 16. 32 ÷ 16 = 2, 48 ÷ 16 = 3. So 2:3."
+  },
+  {
+    "question": "A mixture of cement and sand is in the ratio 1:4. If you use 5 kg of cement, how much sand do you need?",
+    "answer": "20 kg",
+    "details": "1:4 means 1 part cement to 4 parts sand. So 5 kg cement × 4 = 20 kg sand."
+  },
+  {
+    "question": "What is the ratio of 15 to 9 in simplest form?",
+    "answer": "5:3",
+    "details": "GCF of 15 and 9 is 3. 15 ÷ 3 = 5, 9 ÷ 3 = 3. So 5:3."
+  },
+  {
+    "question": "If the ratio of red to total cars is 2:7 and there are 35 cars, how many are red?",
+    "answer": "10",
+    "details": "2:7 means 2 red cars out of every 7. 35 cars ÷ 7 = 5 groups. Red = 5 × 2 = 10."
+  },
+  {
+    "question": "What is the ratio of 20 to 16 in simplest form?",
+    "answer": "5:4",
+    "details": "GCF of 20 and 16 is 4. 20 ÷ 4 = 5, 16 ÷ 4 = 4. So 5:4."
+  },
+  {
+    "question": "A photo has a width-to-height ratio of 4:3. If the height is 9 inches, what is the width?",
+    "answer": "12 inches",
+    "details": "4:3 means height = 3 parts = 9 inches, so 1 part = 3 inches. Width = 4 parts = 4 × 3 = 12 inches."
+  },
+  {
+    "question": "What is the ratio of 45 to 60 in simplest form?",
+    "answer": "3:4",
+    "details": "GCF of 45 and 60 is 15. 45 ÷ 15 = 3, 60 ÷ 15 = 4. So 3:4."
+  },
+  {
+    "question": "If the ratio of fiction to non-fiction books is 5:3 and there are 24 non-fiction books, how many fiction books are there?",
+    "answer": "40",
+    "details": "5:3 means 3 non-fiction correspond to 5 fiction. 24 non-fiction ÷ 3 = 8 groups. Fiction = 8 × 5 = 40."
+  },
+  {
+    "question": "What is the ratio of 56 to 72 in simplest form?",
+    "answer": "7:9",
+    "details": "GCF of 56 and 72 is 8. 56 ÷ 8 = 7, 72 ÷ 8 = 9. So 7:9."
+  },
+  {
+    "question": "A juice is made of orange and apple juice in the ratio 3:2. If you have 15 liters of orange juice, how much apple juice do you need?",
+    "answer": "10 liters",
+    "details": "3:2 means 3 parts orange to 2 parts apple. 15 liters orange ÷ 3 = 5. Apple = 5 × 2 = 10 liters."
+  },
+  {
+    "question": "What is the ratio of 63 to 81 in simplest form?",
+    "answer": "7:9",
+    "details": "GCF of 63 and 81 is 9. 63 ÷ 9 = 7, 81 ÷ 9 = 9. So 7:9."
+  },
+  {
+    "question": "If the ratio of eggs to flour in a recipe is 2:5 and you use 20 cups of flour, how many eggs do you need?",
+    "answer": "8",
+    "details": "2:5 means 5 cups flour correspond to 2 eggs. 20 cups flour ÷ 5 = 4 groups. Eggs = 4 × 2 = 8."
+  },
+  {
+    "question": "What is the ratio of 12 to 20 in simplest form?",
+    "answer": "3:5",
+    "details": "GCF of 12 and 20 is 4. 12 ÷ 4 = 3, 20 ÷ 4 = 5. So 3:5."
+  },
+  {
+    "question": "A classroom has chairs and tables in the ratio 8:1. If there are 7 tables, how many chairs are there?",
+    "answer": "56",
+    "details": "8:1 means 8 chairs per 1 table. So 7 tables × 8 = 56 chairs."
+  },
+  {
+    "question": "What is the ratio of 48 to 64 in simplest form?",
+    "answer": "3:4",
+    "details": "GCF of 48 and 64 is 16. 48 ÷ 16 = 3, 64 ÷ 16 = 4. So 3:4."
+  },
+  {
+    "question": "If the ratio of wins to losses is 7:3 and a team has 21 wins, how many losses do they have?",
+    "answer": "9",
+    "details": "7:3 means 7 wins correspond to 3 losses. 21 wins ÷ 7 = 3 groups. Losses = 3 × 3 = 9."
+  },
+  {
+    "question": "What is the ratio of 100 to 150 in simplest form?",
+    "answer": "2:3",
+    "details": "GCF of 100 and 150 is 50. 100 ÷ 50 = 2, 150 ÷ 50 = 3. So 2:3."
+  },
+  {
+    "question": "A map has a scale of 1:50,000. If two cities are 3 cm apart on the map, what is the real distance in kilometers? (1 km = 100,000 cm)",
+    "answer": "1.5 km",
+    "details": "1 cm on map = 50,000 cm in real life. 3 cm = 150,000 cm. 150,000 cm ÷ 100,000 = 1.5 km."
+  },
+  {
+    "question": "What is the ratio of 84 to 96 in simplest form?",
+    "answer": "7:8",
+    "details": "GCF of 84 and 96 is 12. 84 ÷ 12 = 7, 96 ÷ 12 = 8. So 7:8."
+  },
+  {
+    "question": "If the ratio of blue to green beads is 5:6 and there are 30 blue beads, how many green beads are there?",
+    "answer": "36",
+    "details": "5:6 means 5 blue correspond to 6 green. 30 blue ÷ 5 = 6 groups. Green = 6 × 6 = 36."
+  },
+  {
+    "question": "What is the ratio of 90 to 120 in simplest form?",
+    "answer": "3:4",
+    "details": "GCF of 90 and 120 is 30. 90 ÷ 30 = 3, 120 ÷ 30 = 4. So 3:4."
+  },
+  {
+    "question": "A triangle has sides in the ratio 3:4:5. If the shortest side is 12 cm, what is the longest side?",
+    "answer": "20 cm",
+    "details": "Shortest side = 3 parts = 12 cm, so 1 part = 4 cm. Longest side = 5 parts = 5 × 4 = 20 cm."
+  },
+  {
+    "question": "What is the ratio of 105 to 140 in simplest form?",
+    "answer": "3:4",
+    "details": "GCF of 105 and 140 is 35. 105 ÷ 35 = 3, 140 ÷ 35 = 4. So 3:4."
+  },
+  {
+    "question": "If the ratio of milk to water is 4:1 and you have 20 liters of milk, how much water do you add?",
+    "answer": "5 liters",
+    "details": "4:1 means 4 parts milk to 1 part water. 20 liters milk ÷ 4 = 5. Water = 5 × 1 = 5 liters."
+  },
+  {
+    "question": "What is the ratio of 72 to 108 in simplest form?",
+    "answer": "2:3",
+    "details": "GCF of 72 and 108 is 36. 72 ÷ 36 = 2, 108 ÷ 36 = 3. So 2:3."
+  },
+  {
+    "question": "A school band has flutes and trumpets in the ratio 3:7. If there are 50 instruments in total, how many are flutes?",
+    "answer": "15",
+    "details": "Total parts = 3 + 7 = 10. 50 instruments ÷ 10 = 5 per part. Flutes = 3 × 5 = 15."
+  },
+  {
+    "question": "What is the ratio of 125 to 150 in simplest form?",
+    "answer": "5:6",
+    "details": "GCF of 125 and 150 is 25. 125 ÷ 25 = 5, 150 ÷ 25 = 6. So 5:6."
+  },
+  {
+    "question": "If the ratio of salt to sugar is 1:3 and you use 9 teaspoons of sugar, how much salt do you use?",
+    "answer": "3 teaspoons",
+    "details": "1:3 means 3 teaspoons sugar correspond to 1 teaspoon salt. 9 sugar ÷ 3 = 3 groups. Salt = 3 × 1 = 3 teaspoons."
+  },
+  {
+    "question": "What is the ratio of 16 to 64 in simplest form?",
+    "answer": "1:4",
+    "details": "GCF of 16 and 64 is 16. 16 ÷ 16 = 1, 64 ÷ 16 = 4. So 1:4."
+  },
+  {
+    "question": "A rectangle has a length-to-width ratio of 7:4. If the width is 16 cm, what is the length?",
+    "answer": "28 cm",
+    "details": "7:4 means width = 4 parts = 16 cm, so 1 part = 4 cm. Length = 7 parts = 7 × 4 = 28 cm."
+  },
+  {
+    "question": "What is the ratio of 80 to 100 in simplest form?",
+    "answer": "4:5",
+    "details": "GCF of 80 and 100 is 20. 80 ÷ 20 = 4, 100 ÷ 20 = 5. So 4:5."
+  },
+  {
+    "question": "If the ratio of adults to children is 2:5 and there are 35 children, how many adults are there?",
+    "answer": "14",
+    "details": "2:5 means 5 children correspond to 2 adults. 35 children ÷ 5 = 7 groups. Adults = 7 × 2 = 14."
+  },
+  {
+    "question": "What is the ratio of 99 to 121 in simplest form?",
+    "answer": "9:11",
+    "details": "GCF of 99 and 121 is 11. 99 ÷ 11 = 9, 121 ÷ 11 = 11. So 9:11."
+  },
+  {
+    "question": "A smoothie recipe uses yogurt and fruit in the ratio 2:5. If you use 14 cups of yogurt, how much fruit do you need?",
+    "answer": "35 cups",
+    "details": "2:5 means 2 parts yogurt to 5 parts fruit. 14 yogurt ÷ 2 = 7. Fruit = 7 × 5 = 35 cups."
+  },
+  {
+    "question": "What is the ratio of 120 to 180 in simplest form?",
+    "answer": "2:3",
+    "details": "GCF of 120 and 180 is 60. 120 ÷ 60 = 2, 180 ÷ 60 = 3. So 2:3."
+  },
+  {
+    "question": "If the ratio of red to blue to green marbles is 1:2:3 and there are 36 marbles in total, how many are blue?",
+    "answer": "12",
+    "details": "Total parts = 1 + 2 + 3 = 6. 36 marbles ÷ 6 = 6 per part. Blue = 2 × 6 = 12."
+  },
+  {
+    "question": "What is the ratio of 144 to 180 in simplest form?",
+    "answer": "4:5",
+    "details": "GCF of 144 and 180 is 36. 144 ÷ 36 = 4, 180 ÷ 36 = 5. So 4:5."
+  },
+  {
+    "question": "A car travels 240 km using 20 liters of fuel. What is the ratio of distance to fuel in simplest form?",
+    "answer": "12:1",
+    "details": "240 km : 20 liters. GCF of 240 and 20 is 20. 240 ÷ 20 = 12, 20 ÷ 20 = 1. So 12:1."
+  },
+  {
+    "question": "What is the ratio of 81 to 108 in simplest form?",
+    "answer": "3:4",
+    "details": "GCF of 81 and 108 is 27. 81 ÷ 27 = 3, 108 ÷ 27 = 4. So 3:4."
+  },
+  {
+    "question": "If the ratio of tea to coffee sold is 3:4 and 28 coffees are sold, how many teas are sold?",
+    "answer": "21",
+    "details": "3:4 means 4 coffees correspond to 3 teas. 28 coffees ÷ 4 = 7 groups. Tea = 7 × 3 = 21."
+  },
+  {
+    "question": "What is the ratio of 135 to 180 in simplest form?",
+    "answer": "3:4",
+    "details": "GCF of 135 and 180 is 45. 135 ÷ 45 = 3, 180 ÷ 45 = 4. So 3:4."
+  },
+  {
+    "question": "A school has a ratio of students to teachers of 25:1. If there are 500 students, how many teachers are there?",
+    "answer": "20",
+    "details": "25:1 means 25 students per 1 teacher. 500 students ÷ 25 = 20 teachers."
+  },
+  {
+    "question": "What is the ratio of 100 to 250 in simplest form?",
+    "answer": "2:5",
+    "details": "GCF of 100 and 250 is 50. 100 ÷ 50 = 2, 250 ÷ 50 = 5. So 2:5."
+  },
+  {
+    "question": "If the ratio of width to perimeter of a square is 1:4, and the width is 5 cm, what is the perimeter?",
+    "answer": "20 cm",
+    "details": "1:4 means width = 1 part = 5 cm, so perimeter = 4 parts = 4 × 5 = 20 cm."
+  },
+  {
+    "question": "What is the ratio of 75 to 125 in simplest form?",
+    "answer": "3:5",
+    "details": "GCF of 75 and 125 is 25. 75 ÷ 25 = 3, 125 ÷ 25 = 5. So 3:5."
+  },
+  {
+    "question": "A pizza is cut into slices in the ratio of pepperoni to cheese to vegetarian as 2:3:1. If there are 24 slices in total, how many are cheese?",
+    "answer": "12",
+    "details": "Total parts = 2 + 3 + 1 = 6. 24 slices ÷ 6 = 4 per part. Cheese = 3 × 4 = 12."
+  },
+  {
+    "question": "What is the ratio of 128 to 192 in simplest form?",
+    "answer": "2:3",
+    "details": "GCF of 128 and 192 is 64. 128 ÷ 64 = 2, 192 ÷ 64 = 3. So 2:3."
+  },
+  {
+    "question": "If the ratio of boys to girls is 5:6 and there are 55 students in total, how many boys are there?",
+    "answer": "25",
+    "details": "Total parts = 5 + 6 = 11. 55 students ÷ 11 = 5 per part. Boys = 5 × 5 = 25."
+  },
+  {
+    "question": "What is the ratio of 160 to 200 in simplest form?",
+    "answer": "4:5",
+    "details": "GCF of 160 and 200 is 40. 160 ÷ 40 = 4, 200 ÷ 40 = 5. So 4:5."
+  },
+  {
+    "question": "A paint mixture uses blue, red, and white in the ratio 3:2:5. If you use 15 liters of white paint, how much blue paint do you use?",
+    "answer": "9 liters",
+    "details": "White = 5 parts = 15 liters, so 1 part = 3 liters. Blue = 3 parts = 3 × 3 = 9 liters."
+  },
+  {
+    "question": "What is the ratio of 200 to 250 in simplest form?",
+    "answer": "4:5",
+    "details": "GCF of 200 and 250 is 50. 200 ÷ 50 = 4, 250 ÷ 50 = 5. So 4:5."
+  },
+  {
+    "question": "If the ratio of correct to incorrect answers is 7:2 and a student got 14 correct answers, how many did they get wrong?",
+    "answer": "4",
+    "details": "7:2 means 7 correct correspond to 2 incorrect. 14 correct ÷ 7 = 2 groups. Incorrect = 2 × 2 = 4."
+  },
+  {
+    "question": "What is the ratio of 225 to 300 in simplest form?",
+    "answer": "3:4",
+    "details": "GCF of 225 and 300 is 75. 225 ÷ 75 = 3, 300 ÷ 75 = 4. So 3:4."
+  },
+  {
+    "question": "A farm has chickens and cows in the ratio 8:3. If there are 24 cows, how many chickens are there?",
+    "answer": "64",
+    "details": "8:3 means 3 cows correspond to 8 chickens. 24 cows ÷ 3 = 8 groups. Chickens = 8 × 8 = 64."
+  },
+  {
+    "question": "What is the ratio of 240 to 300 in simplest form?",
+    "answer": "4:5",
+    "details": "GCF of 240 and 300 is 60. 240 ÷ 60 = 4, 300 ÷ 60 = 5. So 4:5."
+  },
+  {
+    "question": "If the ratio of length to width of a room is 5:4 and the perimeter is 36 meters, what is the length?",
+    "answer": "10 meters",
+    "details": "Let length = 5x, width = 4x. Perimeter = 2(5x + 4x) = 18x = 36 → x = 2. Length = 5 × 2 = 10 m."
+  }
+]

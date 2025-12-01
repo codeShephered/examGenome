@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What does HCF stand for in mathematics?",
+    "answer": "Highest Common Factor",
+    "details": "HCF is the largest number that divides two or more numbers exactly without leaving a remainder."
+  },
+  {
+    "question": "What does LCM stand for in mathematics?",
+    "answer": "Lowest Common Multiple",
+    "details": "LCM is the smallest number that is a multiple of two or more given numbers."
+  },
+  {
+    "question": "What is the HCF of 8 and 12?",
+    "answer": "4",
+    "details": "Factors of 8: 1, 2, 4, 8. Factors of 12: 1, 2, 3, 4, 6, 12. Common factors: 1, 2, 4. Highest is 4."
+  },
+  {
+    "question": "What is the LCM of 4 and 6?",
+    "answer": "12",
+    "details": "Multiples of 4: 4, 8, 12, 16... Multiples of 6: 6, 12, 18... The smallest common multiple is 12."
+  },
+  {
+    "question": "What is the HCF of 15 and 25?",
+    "answer": "5",
+    "details": "15 = 3 × 5, 25 = 5 × 5. Common prime factor is 5. So HCF = 5."
+  },
+  {
+    "question": "What is the LCM of 5 and 7?",
+    "answer": "35",
+    "details": "5 and 7 are both prime numbers. LCM of two primes is their product: 5 × 7 = 35."
+  },
+  {
+    "question": "If two numbers are co-prime, what is their HCF?",
+    "answer": "1",
+    "details": "Co-prime numbers have no common factors other than 1. Therefore, their HCF is always 1."
+  },
+  {
+    "question": "If two numbers are co-prime, what is their LCM?",
+    "answer": "Their product",
+    "details": "For co-prime numbers, LCM = product of the numbers because they share no common prime factors."
+  },
+  {
+    "question": "What is the HCF of 18 and 24 using prime factorization?",
+    "answer": "6",
+    "details": "18 = 2 × 3², 24 = 2³ × 3. Common primes: 2 and 3. Take lowest powers: 2¹ × 3¹ = 6."
+  },
+  {
+    "question": "What is the LCM of 18 and 24 using prime factorization?",
+    "answer": "72",
+    "details": "18 = 2 × 3², 24 = 2³ × 3. LCM takes highest powers: 2³ × 3² = 8 × 9 = 72."
+  },
+  {
+    "question": "What is the HCF of 36 and 48?",
+    "answer": "12",
+    "details": "36 = 2² × 3², 48 = 2⁴ × 3. Common primes: 2² and 3. HCF = 4 × 3 = 12."
+  },
+  {
+    "question": "What is the LCM of 9 and 12?",
+    "answer": "36",
+    "details": "9 = 3², 12 = 2² × 3. LCM = 2² × 3² = 4 × 9 = 36."
+  },
+  {
+    "question": "What is the HCF of 10 and 21?",
+    "answer": "1",
+    "details": "10 = 2 × 5, 21 = 3 × 7. No common prime factors, so HCF = 1. They are co-prime."
+  },
+  {
+    "question": "What is the LCM of 10 and 21?",
+    "answer": "210",
+    "details": "Since 10 and 21 are co-prime, LCM = 10 × 21 = 210."
+  },
+  {
+    "question": "What is the HCF of 7 and 14?",
+    "answer": "7",
+    "details": "7 divides both 7 and 14. Since 7 is a factor of 14, the HCF is 7."
+  },
+  {
+    "question": "What is the LCM of 7 and 14?",
+    "answer": "14",
+    "details": "14 is a multiple of 7, so the LCM is the larger number, 14."
+  },
+  {
+    "question": "What is the HCF of 20 and 30?",
+    "answer": "10",
+    "details": "20 = 2² × 5, 30 = 2 × 3 × 5. Common primes: 2 and 5. HCF = 2 × 5 = 10."
+  },
+  {
+    "question": "What is the LCM of 20 and 30?",
+    "answer": "60",
+    "details": "20 = 2² × 5, 30 = 2 × 3 × 5. LCM = 2² × 3 × 5 = 4 × 3 × 5 = 60."
+  },
+  {
+    "question": "What is the HCF of 16 and 24?",
+    "answer": "8",
+    "details": "16 = 2⁴, 24 = 2³ × 3. Common prime: 2. Lowest power: 2³ = 8."
+  },
+  {
+    "question": "What is the LCM of 16 and 24?",
+    "answer": "48",
+    "details": "16 = 2⁴, 24 = 2³ × 3. LCM = 2⁴ × 3 = 16 × 3 = 48."
+  },
+  {
+    "question": "What is the HCF of 25 and 35?",
+    "answer": "5",
+    "details": "25 = 5², 35 = 5 × 7. Common prime: 5. HCF = 5."
+  },
+  {
+    "question": "What is the LCM of 25 and 35?",
+    "answer": "175",
+    "details": "25 = 5², 35 = 5 × 7. LCM = 5² × 7 = 25 × 7 = 175."
+  },
+  {
+    "question": "What is the HCF of 12, 18, and 24?",
+    "answer": "6",
+    "details": "12 = 2² × 3, 18 = 2 × 3², 24 = 2³ × 3. Common primes: 2 and 3. Lowest powers: 2¹ × 3¹ = 6."
+  },
+  {
+    "question": "What is the LCM of 12, 18, and 24?",
+    "answer": "72",
+    "details": "12 = 2² × 3, 18 = 2 × 3², 24 = 2³ × 3. LCM = 2³ × 3² = 8 × 9 = 72."
+  },
+  {
+    "question": "What is the HCF of 9 and 10?",
+    "answer": "1",
+    "details": "9 = 3², 10 = 2 × 5. No common factors, so HCF = 1."
+  },
+  {
+    "question": "What is the LCM of 9 and 10?",
+    "answer": "90",
+    "details": "9 and 10 are co-prime, so LCM = 9 × 10 = 90."
+  },
+  {
+    "question": "What is the HCF of 42 and 56?",
+    "answer": "14",
+    "details": "42 = 2 × 3 × 7, 56 = 2³ × 7. Common primes: 2 and 7. HCF = 2 × 7 = 14."
+  },
+  {
+    "question": "What is the LCM of 42 and 56?",
+    "answer": "168",
+    "details": "42 = 2 × 3 × 7, 56 = 2³ × 7. LCM = 2³ × 3 × 7 = 8 × 3 × 7 = 168."
+  },
+  {
+    "question": "If the HCF of two numbers is 1, what are they called?",
+    "answer": "Co-prime numbers",
+    "details": "Two numbers with HCF 1 are called co-prime or relatively prime."
+  },
+  {
+    "question": "What is the HCF of 100 and 75?",
+    "answer": "25",
+    "details": "100 = 2² × 5², 75 = 3 × 5². Common prime: 5² = 25."
+  },
+  {
+    "question": "What is the LCM of 100 and 75?",
+    "answer": "300",
+    "details": "100 = 2² × 5², 75 = 3 × 5². LCM = 2² × 3 × 5² = 4 × 3 × 25 = 300."
+  },
+  {
+    "question": "What is the HCF of 36 and 60?",
+    "answer": "12",
+    "details": "36 = 2² × 3², 60 = 2² × 3 × 5. Common primes: 2² and 3. HCF = 4 × 3 = 12."
+  },
+  {
+    "question": "What is the LCM of 36 and 60?",
+    "answer": "180",
+    "details": "36 = 2² × 3², 60 = 2² × 3 × 5. LCM = 2² × 3² × 5 = 4 × 9 × 5 = 180."
+  },
+  {
+    "question": "What is the HCF of 27 and 36?",
+    "answer": "9",
+    "details": "27 = 3³, 36 = 2² × 3². Common prime: 3² = 9."
+  },
+  {
+    "question": "What is the LCM of 27 and 36?",
+    "answer": "108",
+    "details": "27 = 3³, 36 = 2² × 3². LCM = 2² × 3³ = 4 × 27 = 108."
+  },
+  {
+    "question": "What is the HCF of 50 and 70?",
+    "answer": "10",
+    "details": "50 = 2 × 5², 70 = 2 × 5 × 7. Common primes: 2 and 5. HCF = 2 × 5 = 10."
+  },
+  {
+    "question": "What is the LCM of 50 and 70?",
+    "answer": "350",
+    "details": "50 = 2 × 5², 70 = 2 × 5 × 7. LCM = 2 × 5² × 7 = 2 × 25 × 7 = 350."
+  },
+  {
+    "question": "What is the HCF of 1 and any number?",
+    "answer": "1",
+    "details": "1 is a factor of every number, and it is the only common factor between 1 and any other number."
+  },
+  {
+    "question": "What is the LCM of 1 and any number?",
+    "answer": "The number itself",
+    "details": "The smallest multiple of any number that is also a multiple of 1 is the number itself."
+  },
+  {
+    "question": "What is the HCF of two identical numbers, like 15 and 15?",
+    "answer": "15",
+    "details": "The highest number that divides both is the number itself."
+  },
+  {
+    "question": "What is the LCM of two identical numbers, like 15 and 15?",
+    "answer": "15",
+    "details": "The smallest common multiple is the number itself."
+  },
+  {
+    "question": "If the HCF of two numbers is 6 and their LCM is 36, and one number is 12, what is the other number?",
+    "answer": "18",
+    "details": "For any two numbers, Product = HCF × LCM. So 12 × other = 6 × 36 = 216. Other = 216 ÷ 12 = 18."
+  },
+  {
+    "question": "What is the HCF of 64 and 80?",
+    "answer": "16",
+    "details": "64 = 2⁶, 80 = 2⁴ × 5. Common prime: 2⁴ = 16."
+  },
+  {
+    "question": "What is the LCM of 64 and 80?",
+    "answer": "320",
+    "details": "64 = 2⁶, 80 = 2⁴ × 5. LCM = 2⁶ × 5 = 64 × 5 = 320."
+  },
+  {
+    "question": "What is the HCF of 21 and 28?",
+    "answer": "7",
+    "details": "21 = 3 × 7, 28 = 2² × 7. Common prime: 7. HCF = 7."
+  },
+  {
+    "question": "What is the LCM of 21 and 28?",
+    "answer": "84",
+    "details": "21 = 3 × 7, 28 = 2² × 7. LCM = 2² × 3 × 7 = 4 × 3 × 7 = 84."
+  },
+  {
+    "question": "What is the HCF of 45 and 60?",
+    "answer": "15",
+    "details": "45 = 3² × 5, 60 = 2² × 3 × 5. Common primes: 3 and 5. HCF = 3 × 5 = 15."
+  },
+  {
+    "question": "What is the LCM of 45 and 60?",
+    "answer": "180",
+    "details": "45 = 3² × 5, 60 = 2² × 3 × 5. LCM = 2² × 3² × 5 = 4 × 9 × 5 = 180."
+  },
+  {
+    "question": "What is the HCF of 100 and 150?",
+    "answer": "50",
+    "details": "100 = 2² × 5², 150 = 2 × 3 × 5². Common primes: 2 and 5². HCF = 2 × 25 = 50."
+  },
+  {
+    "question": "What is the LCM of 100 and 150?",
+    "answer": "300",
+    "details": "100 = 2² × 5², 150 = 2 × 3 × 5². LCM = 2² × 3 × 5² = 4 × 3 × 25 = 300."
+  },
+  {
+    "question": "What is the HCF of 12 and 30?",
+    "answer": "6",
+    "details": "12 = 2² × 3, 30 = 2 × 3 × 5. Common primes: 2 and 3. HCF = 2 × 3 = 6."
+  },
+  {
+    "question": "What is the LCM of 12 and 30?",
+    "answer": "60",
+    "details": "12 = 2² × 3, 30 = 2 × 3 × 5. LCM = 2² × 3 × 5 = 4 × 3 × 5 = 60."
+  },
+  {
+    "question": "In a classroom, there are 24 pencils and 36 erasers. What is the maximum number of identical gift packs that can be made with no items left over?",
+    "answer": "12",
+    "details": "This requires the HCF of 24 and 36. HCF = 12, so 12 packs, each with 2 pencils and 3 erasers."
+  },
+  {
+    "question": "Two buses leave a station at the same time. One returns every 15 minutes, the other every 20 minutes. When will they next leave together?",
+    "answer": "60 minutes",
+    "details": "Find LCM of 15 and 20. 15 = 3 × 5, 20 = 2² × 5. LCM = 2² × 3 × 5 = 60."
+  },
+  {
+    "question": "What is the HCF of 81 and 27?",
+    "answer": "27",
+    "details": "27 divides 81 (81 ÷ 27 = 3). So HCF is 27."
+  },
+  {
+    "question": "What is the LCM of 81 and 27?",
+    "answer": "81",
+    "details": "81 is a multiple of 27, so LCM is 81."
+  },
+  {
+    "question": "What is the HCF of 56 and 72?",
+    "answer": "8",
+    "details": "56 = 2³ × 7, 72 = 2³ × 3². Common prime: 2³ = 8."
+  },
+  {
+    "question": "What is the LCM of 56 and 72?",
+    "answer": "504",
+    "details": "56 = 2³ × 7, 72 = 2³ × 3². LCM = 2³ × 3² × 7 = 8 × 9 × 7 = 504."
+  },
+  {
+    "question": "What is the HCF of 90 and 105?",
+    "answer": "15",
+    "details": "90 = 2 × 3² × 5, 105 = 3 × 5 × 7. Common primes: 3 and 5. HCF = 3 × 5 = 15."
+  },
+  {
+    "question": "What is the LCM of 90 and 105?",
+    "answer": "630",
+    "details": "90 = 2 × 3² × 5, 105 = 3 × 5 × 7. LCM = 2 × 3² × 5 × 7 = 2 × 9 × 5 × 7 = 630."
+  },
+  {
+    "question": "What is the HCF of 121 and 132?",
+    "answer": "11",
+    "details": "121 = 11², 132 = 2² × 3 × 11. Common prime: 11. HCF = 11."
+  },
+  {
+    "question": "What is the LCM of 121 and 132?",
+    "answer": "1452",
+    "details": "121 = 11², 132 = 2² × 3 × 11. LCM = 2² × 3 × 11² = 4 × 3 × 121 = 1452."
+  },
+  {
+    "question": "What is the HCF of 18 and 45?",
+    "answer": "9",
+    "details": "18 = 2 × 3², 45 = 3² × 5. Common prime: 3² = 9."
+  },
+  {
+    "question": "What is the LCM of 18 and 45?",
+    "answer": "90",
+    "details": "18 = 2 × 3², 45 = 3² × 5. LCM = 2 × 3² × 5 = 2 × 9 × 5 = 90."
+  },
+  {
+    "question": "A baker has 48 chocolate cookies and 64 vanilla cookies. What is the largest number of boxes he can pack so each box has the same number of each type with none left?",
+    "answer": "16",
+    "details": "HCF of 48 and 64. 48 = 2⁴ × 3, 64 = 2⁶. HCF = 2⁴ = 16."
+  },
+  {
+    "question": "Two lights flash every 4 seconds and 6 seconds. If they flash together now, when will they next flash together?",
+    "answer": "12 seconds",
+    "details": "LCM of 4 and 6 = 12."
+  },
+  {
+    "question": "What is the HCF of 60 and 90?",
+    "answer": "30",
+    "details": "60 = 2² × 3 × 5, 90 = 2 × 3² × 5. Common primes: 2, 3, 5. HCF = 2 × 3 × 5 = 30."
+  },
+  {
+    "question": "What is the LCM of 60 and 90?",
+    "answer": "180",
+    "details": "60 = 2² × 3 × 5, 90 = 2 × 3² × 5. LCM = 2² × 3² × 5 = 4 × 9 × 5 = 180."
+  },
+  {
+    "question": "What is the HCF of 108 and 144?",
+    "answer": "36",
+    "details": "108 = 2² × 3³, 144 = 2⁴ × 3². Common primes: 2² and 3². HCF = 4 × 9 = 36."
+  },
+  {
+    "question": "What is the LCM of 108 and 144?",
+    "answer": "432",
+    "details": "108 = 2² × 3³, 144 = 2⁴ × 3². LCM = 2⁴ × 3³ = 16 × 27 = 432."
+  },
+  {
+    "question": "What is the HCF of 200 and 300?",
+    "answer": "100",
+    "details": "200 = 2³ × 5², 300 = 2² × 3 × 5². Common primes: 2² and 5². HCF = 4 × 25 = 100."
+  },
+  {
+    "question": "What is the LCM of 200 and 300?",
+    "answer": "600",
+    "details": "200 = 2³ × 5², 300 = 2² × 3 × 5². LCM = 2³ × 3 × 5² = 8 × 3 × 25 = 600."
+  },
+  {
+    "question": "What is the HCF of 35 and 49?",
+    "answer": "7",
+    "details": "35 = 5 × 7, 49 = 7². Common prime: 7. HCF = 7."
+  },
+  {
+    "question": "What is the LCM of 35 and 49?",
+    "answer": "245",
+    "details": "35 = 5 × 7, 49 = 7². LCM = 5 × 7² = 5 × 49 = 245."
+  },
+  {
+    "question": "What is the HCF of 77 and 91?",
+    "answer": "7",
+    "details": "77 = 7 × 11, 91 = 7 × 13. Common prime: 7. HCF = 7."
+  },
+  {
+    "question": "What is the LCM of 77 and 91?",
+    "answer": "1001",
+    "details": "77 = 7 × 11, 91 = 7 × 13. LCM = 7 × 11 × 13 = 1001."
+  },
+  {
+    "question": "What is the HCF of 6 and 9?",
+    "answer": "3",
+    "details": "6 = 2 × 3, 9 = 3². Common prime: 3. HCF = 3."
+  },
+  {
+    "question": "What is the LCM of 6 and 9?",
+    "answer": "18",
+    "details": "6 = 2 × 3, 9 = 3². LCM = 2 × 3² = 2 × 9 = 18."
+  },
+  {
+    "question": "What is the HCF of 8, 12, and 16?",
+    "answer": "4",
+    "details": "8 = 2³, 12 = 2² × 3, 16 = 2⁴. Common prime: 2² = 4."
+  },
+  {
+    "question": "What is the LCM of 8, 12, and 16?",
+    "answer": "48",
+    "details": "8 = 2³, 12 = 2² × 3, 16 = 2⁴. LCM = 2⁴ × 3 = 16 × 3 = 48."
+  },
+  {
+    "question": "What is the HCF of 24 and 36?",
+    "answer": "12",
+    "details": "24 = 2³ × 3, 36 = 2² × 3². Common primes: 2² and 3. HCF = 4 × 3 = 12."
+  },
+  {
+    "question": "What is the LCM of 24 and 36?",
+    "answer": "72",
+    "details": "24 = 2³ × 3, 36 = 2² × 3². LCM = 2³ × 3² = 8 × 9 = 72."
+  },
+  {
+    "question": "What is the HCF of 13 and 17?",
+    "answer": "1",
+    "details": "Both are prime and different, so they are co-prime. HCF = 1."
+  },
+  {
+    "question": "What is the LCM of 13 and 17?",
+    "answer": "221",
+    "details": "13 × 17 = 221, since they are co-prime."
+  },
+  {
+    "question": "What is the HCF of 55 and 65?",
+    "answer": "5",
+    "details": "55 = 5 × 11, 65 = 5 × 13. Common prime: 5. HCF = 5."
+  },
+  {
+    "question": "What is the LCM of 55 and 65?",
+    "answer": "715",
+    "details": "55 = 5 × 11, 65 = 5 × 13. LCM = 5 × 11 × 13 = 715."
+  },
+  {
+    "question": "What is the HCF of 96 and 108?",
+    "answer": "12",
+    "details": "96 = 2⁵ × 3, 108 = 2² × 3³. Common primes: 2² and 3. HCF = 4 × 3 = 12."
+  },
+  {
+    "question": "What is the LCM of 96 and 108?",
+    "answer": "864",
+    "details": "96 = 2⁵ × 3, 108 = 2² × 3³. LCM = 2⁵ × 3³ = 32 × 27 = 864."
+  },
+  {
+    "question": "What is the HCF of 125 and 75?",
+    "answer": "25",
+    "details": "125 = 5³, 75 = 3 × 5². Common prime: 5² = 25."
+  },
+  {
+    "question": "What is the LCM of 125 and 75?",
+    "answer": "375",
+    "details": "125 = 5³, 75 = 3 × 5². LCM = 3 × 5³ = 3 × 125 = 375."
+  },
+  {
+    "question": "If the product of two numbers is 180 and their HCF is 6, what is their LCM?",
+    "answer": "30",
+    "details": "Product = HCF × LCM → 180 = 6 × LCM → LCM = 180 ÷ 6 = 30."
+  },
+  {
+    "question": "If the LCM of two numbers is 60 and their HCF is 4, what is their product?",
+    "answer": "240",
+    "details": "Product = HCF × LCM = 4 × 60 = 240."
+  },
+  {
+    "question": "What is the HCF of 49 and 63?",
+    "answer": "7",
+    "details": "49 = 7², 63 = 7 × 3². Common prime: 7. HCF = 7."
+  },
+  {
+    "question": "What is the LCM of 49 and 63?",
+    "answer": "441",
+    "details": "49 = 7², 63 = 7 × 3². LCM = 7² × 3² = 49 × 9 = 441."
+  },
+  {
+    "question": "What is the HCF of 102 and 119?",
+    "answer": "17",
+    "details": "102 = 2 × 3 × 17, 119 = 7 × 17. Common prime: 17. HCF = 17."
+  },
+  {
+    "question": "What is the LCM of 102 and 119?",
+    "answer": "714",
+    "details": "102 = 2 × 3 × 17, 119 = 7 × 17. LCM = 2 × 3 × 7 × 17 = 714."
+  },
+  {
+    "question": "What is the HCF of 88 and 110?",
+    "answer": "22",
+    "details": "88 = 2³ × 11, 110 = 2 × 5 × 11. Common primes: 2 and 11. HCF = 2 × 11 = 22."
+  },
+  {
+    "question": "What is the LCM of 88 and 110?",
+    "answer": "440",
+    "details": "88 = 2³ × 11, 110 = 2 × 5 × 11. LCM = 2³ × 5 × 11 = 8 × 5 × 11 = 440."
+  },
+  {
+    "question": "What is the HCF of 144 and 180?",
+    "answer": "36",
+    "details": "144 = 2⁴ × 3², 180 = 2² × 3² × 5. Common primes: 2² and 3². HCF = 4 × 9 = 36."
+  },
+  {
+    "question": "What is the LCM of 144 and 180?",
+    "answer": "720",
+    "details": "144 = 2⁴ × 3², 180 = 2² × 3² × 5. LCM = 2⁴ × 3² × 5 = 16 × 9 × 5 = 720."
+  }
+]
