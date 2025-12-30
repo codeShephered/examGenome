@@ -1,0 +1,3434 @@
+[
+{
+"question": "How many metres are in 1 kilometre?",
+"options": {
+"A": "10",
+"B": "100",
+"C": "1,000",
+"D": "10,000"},
+"answer": "C",
+"details": "1 kilometre = 1,000 metres. This is a basic metric conversion that children learn in Year 4.",
+"difficulty": "easy"
+},
+{
+"question": "How many minutes are in 2 hours?",
+"options": {
+"A": "60",
+"B": "100",
+"C": "120",
+"D": "200"},
+"answer": "C",
+"details": "1 hour = 60 minutes, so 2 hours = 2 × 60 = 120 minutes.",
+"difficulty": "easy"
+},
+{
+"question": "How many seconds are in 3 minutes?",
+"options": {
+"A": "120",
+"B": "150",
+"C": "180",
+"D": "300"},
+"answer": "C",
+"details": "1 minute = 60 seconds, so 3 minutes = 3 × 60 = 180 seconds.",
+"difficulty": "easy"
+},
+{
+"question": "How many months are in 2 years?",
+"options": {
+"A": "12",
+"B": "18",
+"C": "24",
+"D": "30"},
+"answer": "C",
+"details": "1 year = 12 months, so 2 years = 2 × 12 = 24 months.",
+"difficulty": "easy"
+},
+{
+"question": "How many days are in 4 weeks?",
+"options": {
+"A": "21",
+"B": "24",
+"C": "28",
+"D": "30"},
+"answer": "C",
+"details": "1 week = 7 days, so 4 weeks = 4 × 7 = 28 days.",
+"difficulty": "easy"
+},
+{
+"question": "What is the perimeter of a square with each side 5 cm long?",
+"options": {
+"A": "10 cm",
+"B": "15 cm",
+"C": "20 cm",
+"D": "25 cm"},
+"answer": "C",
+"details": "A square has 4 equal sides. Perimeter = 4 × side = 4 × 5 = 20 cm.",
+"difficulty": "easy"
+},
+{
+"question": "A rectangle is 6 cm long and 3 cm wide. What is its perimeter?",
+"options": {
+"A": "9 cm",
+"B": "12 cm",
+"C": "18 cm",
+"D": "24 cm"},
+"answer": "C",
+"details": "Perimeter = 2 × (length + width) = 2 × (6 + 3) = 2 × 9 = 18 cm.",
+"difficulty": "easy"
+},
+{
+"question": "Each small square in a grid is 1 cm by 1 cm. A shape covers 12 of these squares. What is its area?",
+"options": {
+"A": "6 cm²",
+"B": "10 cm²",
+"C": "12 cm²",
+"D": "14 cm²"},
+"answer": "C",
+"details": "Area is found by counting the number of 1 cm² squares. 12 squares = 12 cm².",
+"difficulty": "easy"
+},
+{
+"question": "What time is shown on a digital clock as 15:00 in 12-hour format?",
+"options": {
+"A": "3:00 a.m.",
+"B": "5:00 p.m.",
+"C": "3:00 p.m.",
+"D": "12:15 p.m."},
+"answer": "C",
+"details": "15:00 in 24-hour time is 3:00 p.m. (subtract 12 for times after 12:59).",
+"difficulty": "easy"
+},
+{
+"question": "How many pence are in £1?",
+"options": {
+"A": "10",
+"B": "50",
+"C": "100",
+"D": "1,000"},
+"answer": "C",
+"details": "£1 = 100 pence. This is a fundamental money conversion.",
+"difficulty": "easy"
+},
+{
+"question": "How many metres are in 3 kilometres?",
+"options": {
+"A": "30",
+"B": "300",
+"C": "3,000",
+"D": "30,000"},
+"answer": "C",
+"details": "1 km = 1,000 m, so 3 km = 3 × 1,000 = 3,000 m.",
+"difficulty": "easy"
+},
+{
+"question": "How many minutes are in 3 hours?",
+"options": {
+"A": "90",
+"B": "120",
+"C": "150",
+"D": "180"},
+"answer": "D",
+"details": "1 hour = 60 minutes, so 3 × 60 = 180 minutes.",
+"difficulty": "easy"
+},
+{
+"question": "How many seconds are in 5 minutes?",
+"options": {
+"A": "200",
+"B": "250",
+"C": "300",
+"D": "350"},
+"answer": "C",
+"details": "5 × 60 = 300 seconds.",
+"difficulty": "easy"
+},
+{
+"question": "How many months are in 3 years?",
+"options": {
+"A": "24",
+"B": "30",
+"C": "36",
+"D": "40"},
+"answer": "C",
+"details": "3 × 12 = 36 months.",
+"difficulty": "easy"
+},
+{
+"question": "How many days are in 5 weeks?",
+"options": {
+"A": "30",
+"B": "35",
+"C": "40",
+"D": "45"},
+"answer": "B",
+"details": "5 × 7 = 35 days.",
+"difficulty": "easy"
+},
+{
+"question": "What is the perimeter of a square with side 7 cm?",
+"options": {
+"A": "14 cm",
+"B": "21 cm",
+"C": "28 cm",
+"D": "35 cm"},
+"answer": "C",
+"details": "4 × 7 = 28 cm.",
+"difficulty": "easy"
+},
+{
+"question": "A rectangle is 8 cm long and 2 cm wide. What is its perimeter?",
+"options": {
+"A": "10 cm",
+"B": "16 cm",
+"C": "20 cm",
+"D": "24 cm"},
+"answer": "C",
+"details": "2 × (8 + 2) = 2 × 10 = 20 cm.",
+"difficulty": "easy"
+},
+{
+"question": "A shape covers 8 full squares on a 1 cm grid. What is its area?",
+"options": {
+"A": "4 cm²",
+"B": "6 cm²",
+"C": "8 cm²",
+"D": "10 cm²"},
+"answer": "C",
+"details": "Each square is 1 cm², so 8 squares = 8 cm².",
+"difficulty": "easy"
+},
+{
+"question": "What is 6:00 p.m. in 24-hour clock time?",
+"options": {
+"A": "06:00",
+"B": "16:00",
+"C": "18:00",
+"D": "20:00"},
+"answer": "C",
+"details": "Add 12 to p.m. times (except 12 p.m.): 6 + 12 = 18 → 18:00.",
+"difficulty": "easy"
+},
+{
+"question": "How many pence are in £3?",
+"options": {
+"A": "30",
+"B": "300",
+"C": "3,000",
+"D": "30,000"},
+"answer": "B",
+"details": "£1 = 100p, so £3 = 3 × 100 = 300p.",
+"difficulty": "easy"
+},
+{
+"question": "How many metres are in 5 km?",
+"options": {
+"A": "500",
+"B": "1,000",
+"C": "5,000",
+"D": "50,000"},
+"answer": "C",
+"details": "5 × 1,000 = 5,000 m.",
+"difficulty": "easy"
+},
+{
+"question": "How many minutes are in half an hour?",
+"options": {
+"A": "15",
+"B": "30",
+"C": "45",
+"D": "60"},
+"answer": "B",
+"details": "Half of 60 minutes is 30 minutes.",
+"difficulty": "easy"
+},
+{
+"question": "How many seconds are in 2 minutes?",
+"options": {
+"A": "60",
+"B": "100",
+"C": "120",
+"D": "200"},
+"answer": "C",
+"details": "2 × 60 = 120 seconds.",
+"difficulty": "easy"
+},
+{
+"question": "How many months are in half a year?",
+"options": {
+"A": "4",
+"B": "6",
+"C": "8",
+"D": "10"},
+"answer": "B",
+"details": "12 ÷ 2 = 6 months.",
+"difficulty": "easy"
+},
+{
+"question": "How many days are in 2 weeks?",
+"options": {
+"A": "10",
+"B": "12",
+"C": "14",
+"D": "16"},
+"answer": "C",
+"details": "2 × 7 = 14 days.",
+"difficulty": "easy"
+},
+{
+"question": "What is the perimeter of a square with side 10 cm?",
+"options": {
+"A": "20 cm",
+"B": "30 cm",
+"C": "40 cm",
+"D": "50 cm"},
+"answer": "C",
+"details": "4 × 10 = 40 cm.",
+"difficulty": "easy"
+},
+{
+"question": "A rectangle is 5 cm long and 4 cm wide. What is its perimeter?",
+"options": {
+"A": "9 cm",
+"B": "16 cm",
+"C": "18 cm",
+"D": "20 cm"},
+"answer": "C",
+"details": "2 × (5 + 4) = 2 × 9 = 18 cm.",
+"difficulty": "easy"
+},
+{
+"question": "A shape covers 15 squares on a 1 cm grid. What is its area?",
+"options": {
+"A": "10 cm²",
+"B": "12 cm²",
+"C": "15 cm²",
+"D": "20 cm²"},
+"answer": "C",
+"details": "15 × 1 cm² = 15 cm².",
+"difficulty": "easy"
+},
+{
+"question": "What is 9:00 a.m. in 24-hour time?",
+"options": {
+"A": "09:00",
+"B": "19:00",
+"C": "21:00",
+"D": "12:09"},
+"answer": "A",
+"details": "a.m. times stay the same in 24-hour format (with leading zero if needed).",
+"difficulty": "easy"
+},
+{
+"question": "How many pence are in £5?",
+"options": {
+"A": "50",
+"B": "100",
+"C": "500",
+"D": "5,000"},
+"answer": "C",
+"details": "5 × 100 = 500 pence.",
+"difficulty": "easy"
+},
+{
+"question": "A race is 2 km long. How many metres is that?",
+"options": {
+"A": "200",
+"B": "1,000",
+"C": "2,000",
+"D": "20,000"},
+"answer": "C",
+"details": "2 × 1,000 = 2,000 metres.",
+"difficulty": "easy"
+},
+{
+"question": "A film lasts 2 hours. How many minutes is that?",
+"options": {
+"A": "60",
+"B": "90",
+"C": "120",
+"D": "150"},
+"answer": "C",
+"details": "2 × 60 = 120 minutes.",
+"difficulty": "easy"
+},
+{
+"question": "You wait 4 minutes for a bus. How many seconds is that?",
+"options": {
+"A": "120",
+"B": "180",
+"C": "240",
+"D": "300"},
+"answer": "C",
+"details": "4 × 60 = 240 seconds.",
+"difficulty": "easy"
+},
+{
+"question": "A baby is 4 years old. How many months old is the baby?",
+"options": {
+"A": "36",
+"B": "40",
+"C": "48",
+"D": "60"},
+"answer": "C",
+"details": "4 × 12 = 48 months.",
+"difficulty": "easy"
+},
+{
+"question": "A holiday lasts 3 weeks. How many days is that?",
+"options": {
+"A": "14",
+"B": "21",
+"C": "28",
+"D": "35"},
+"answer": "B",
+"details": "3 × 7 = 21 days.",
+"difficulty": "easy"
+},
+{
+"question": "What is the perimeter of a square garden with each side 6 m?",
+"options": {
+"A": "12 m",
+"B": "18 m",
+"C": "24 m",
+"D": "36 m"},
+"answer": "C",
+"details": "4 × 6 = 24 m.",
+"difficulty": "easy"
+},
+{
+"question": "A book is 20 cm tall and 15 cm wide. What is the perimeter of its front cover?",
+"options": {
+"A": "35 cm",
+"B": "50 cm",
+"C": "70 cm",
+"D": "100 cm"},
+"answer": "C",
+"details": "2 × (20 + 15) = 2 × 35 = 70 cm.",
+"difficulty": "easy"
+},
+{
+"question": "A rectangle on a grid is 3 squares long and 4 squares wide. What is its area?",
+"options": {
+"A": "7 cm²",
+"B": "10 cm²",
+"C": "12 cm²",
+"D": "14 cm²"},
+"answer": "C",
+"details": "Area = length × width = 3 × 4 = 12 cm² (assuming 1 square = 1 cm²).",
+"difficulty": "easy"
+},
+{
+"question": "What time is 20:00 in 12-hour clock?",
+"options": {
+"A": "8:00 a.m.",
+"B": "10:00 p.m.",
+"C": "8:00 p.m.",
+"D": "12:20 a.m."},
+"answer": "C",
+"details": "20 – 12 = 8 → 8:00 p.m.",
+"difficulty": "easy"
+},
+{
+"question": "A toy costs £2.50. How many pence is that?",
+"options": {
+"A": "25p",
+"B": "205p",
+"C": "250p",
+"D": "2,500p"},
+"answer": "C",
+"details": "£2 = 200p, 50p = 50p, so total = 250p.",
+"difficulty": "easy"
+},
+{
+"question": "How many metres are in 10 km?",
+"options": {
+"A": "100",
+"B": "1,000",
+"C": "10,000",
+"D": "100,000"},
+"answer": "C",
+"details": "10 × 1,000 = 10,000 m.",
+"difficulty": "easy"
+},
+{
+"question": "How many minutes are in 1 hour and 30 minutes?",
+"options": {
+"A": "60",
+"B": "90",
+"C": "100",
+"D": "120"},
+"answer": "B",
+"details": "60 + 30 = 90 minutes.",
+"difficulty": "easy"
+},
+{
+"question": "How many seconds are in 1 minute and 30 seconds?",
+"options": {
+"A": "60",
+"B": "90",
+"C": "100",
+"D": "120"},
+"answer": "B",
+"details": "60 + 30 = 90 seconds.",
+"difficulty": "easy"
+},
+{
+"question": "How many months are in 1 year and 6 months?",
+"options": {
+"A": "12",
+"B": "16",
+"C": "18",
+"D": "20"},
+"answer": "C",
+"details": "12 + 6 = 18 months.",
+"difficulty": "easy"
+},
+{
+"question": "How many days are in 1 week and 3 days?",
+"options": {
+"A": "7",
+"B": "9",
+"C": "10",
+"D": "11"},
+"answer": "C",
+"details": "7 + 3 = 10 days.",
+"difficulty": "easy"
+},
+{
+"question": "A square has sides of 9 cm. What is its perimeter?",
+"options": {
+"A": "18 cm",
+"B": "27 cm",
+"C": "36 cm",
+"D": "45 cm"},
+"answer": "C",
+"details": "4 × 9 = 36 cm.",
+"difficulty": "easy"
+},
+{
+"question": "A rectangle is 10 m long and 5 m wide. What is its perimeter?",
+"options": {
+"A": "15 m",
+"B": "25 m",
+"C": "30 m",
+"D": "50 m"},
+"answer": "C",
+"details": "2 × (10 + 5) = 2 × 15 = 30 m.",
+"difficulty": "easy"
+},
+{
+"question": "A shape covers 20 full 1 cm² squares. What is its area?",
+"options": {
+"A": "10 cm²",
+"B": "15 cm²",
+"C": "20 cm²",
+"D": "25 cm²"},
+"answer": "C",
+"details": "20 × 1 = 20 cm².",
+"difficulty": "easy"
+},
+{
+"question": "What is 12:00 p.m. in 24-hour time?",
+"options": {
+"A": "00:00",
+"B": "12:00",
+"C": "24:00",
+"D": "13:00"},
+"answer": "B",
+"details": "12:00 p.m. (noon) is written as 12:00 in 24-hour time.",
+"difficulty": "easy"
+},
+{
+"question": "How many pence are in £7?",
+"options": {
+"A": "70",
+"B": "700",
+"C": "7,000",
+"D": "70,000"},
+"answer": "B",
+"details": "7 × 100 = 700 pence.",
+"difficulty": "easy"
+},
+{
+"question": "A walk is 500 m. How many kilometres is that?",
+"options": {
+"A": "0.5 km",
+"B": "5 km",
+"C": "50 km",
+"D": "500 km"},
+"answer": "A",
+"details": "1,000 m = 1 km, so 500 m = 0.5 km.",
+"difficulty": "easy"
+},
+{
+"question": "How many minutes are in 4 hours?",
+"options": {
+"A": "120",
+"B": "180",
+"C": "240",
+"D": "300"},
+"answer": "C",
+"details": "4 × 60 = 240 minutes.",
+"difficulty": "easy"
+},
+{
+"question": "How many seconds are in 4 minutes?",
+"options": {
+"A": "120",
+"B": "180",
+"C": "240",
+"D": "300"},
+"answer": "C",
+"details": "4 × 60 = 240 seconds.",
+"difficulty": "easy"
+},
+{
+"question": "How many months are in 4 years?",
+"options": {
+"A": "36",
+"B": "40",
+"C": "48",
+"D": "60"},
+"answer": "C",
+"details": "4 × 12 = 48 months.",
+"difficulty": "easy"
+},
+{
+"question": "How many days are in 6 weeks?",
+"options": {
+"A": "30",
+"B": "36",
+"C": "42",
+"D": "48"},
+"answer": "C",
+"details": "6 × 7 = 42 days.",
+"difficulty": "easy"
+},
+{
+"question": "A square tile has sides of 8 cm. What is its perimeter?",
+"options": {
+"A": "16 cm",
+"B": "24 cm",
+"C": "32 cm",
+"D": "64 cm"},
+"answer": "C",
+"details": "4 × 8 = 32 cm.",
+"difficulty": "easy"
+},
+{
+"question": "A door is 2 m high and 1 m wide. What is its perimeter?",
+"options": {
+"A": "3 m",
+"B": "4 m",
+"C": "6 m",
+"D": "8 m"},
+"answer": "C",
+"details": "2 × (2 + 1) = 2 × 3 = 6 m.",
+"difficulty": "easy"
+},
+{
+"question": "A rectangle is 5 cm by 6 cm. What is its area?",
+"options": {
+"A": "11 cm²",
+"B": "25 cm²",
+"C": "30 cm²",
+"D": "36 cm²"},
+"answer": "C",
+"details": "Area = length × width = 5 × 6 = 30 cm².",
+"difficulty": "easy"
+},
+{
+"question": "What is 10:30 a.m. in 24-hour time?",
+"options": {
+"A": "10:30",
+"B": "22:30",
+"C": "12:30",
+"D": "00:30"},
+"answer": "A",
+"details": "a.m. times (except 12 a.m.) are written the same in 24-hour format.",
+"difficulty": "easy"
+},
+{
+"question": "A pencil costs 75p. How much is that in pounds?",
+"options": {
+"A": "£0.075",
+"B": "£0.75",
+"C": "£7.50",
+"D": "£75"},
+"answer": "B",
+"details": "100p = £1, so 75p = £0.75.",
+"difficulty": "easy"
+},
+{
+"question": "How many metres are in 0.5 km?",
+"options": {
+"A": "5",
+"B": "50",
+"C": "500",
+"D": "5,000"},
+"answer": "C",
+"details": "0.5 × 1,000 = 500 m.",
+"difficulty": "easy"
+},
+{
+"question": "How many minutes are in 5 hours?",
+"options": {
+"A": "200",
+"B": "250",
+"C": "300",
+"D": "350"},
+"answer": "C",
+"details": "5 × 60 = 300 minutes.",
+"difficulty": "easy"
+},
+{
+"question": "How many seconds are in 6 minutes?",
+"options": {
+"A": "300",
+"B": "360",
+"C": "420",
+"D": "480"},
+"answer": "B",
+"details": "6 × 60 = 360 seconds.",
+"difficulty": "easy"
+},
+{
+"question": "How many months are in 5 years?",
+"options": {
+"A": "50",
+"B": "60",
+"C": "70",
+"D": "72"},
+"answer": "B",
+"details": "5 × 12 = 60 months.",
+"difficulty": "easy"
+},
+{
+"question": "How many days are in 8 weeks?",
+"options": {
+"A": "49",
+"B": "56",
+"C": "63",
+"D": "70"},
+"answer": "B",
+"details": "8 × 7 = 56 days.",
+"difficulty": "easy"
+},
+{
+"question": "A square has sides of 12 cm. What is its perimeter?",
+"options": {
+"A": "24 cm",
+"B": "36 cm",
+"C": "48 cm",
+"D": "60 cm"},
+"answer": "C",
+"details": "4 × 12 = 48 cm.",
+"difficulty": "easy"
+},
+{
+"question": "A garden is 7 m long and 3 m wide. What is its perimeter?",
+"options": {
+"A": "10 m",
+"B": "14 m",
+"C": "20 m",
+"D": "21 m"},
+"answer": "C",
+"details": "2 × (7 + 3) = 2 × 10 = 20 m.",
+"difficulty": "easy"
+},
+{
+"question": "A rectangle is 9 cm long and 2 cm wide. What is its area?",
+"options": {
+"A": "11 cm²",
+"B": "18 cm²",
+"C": "20 cm²",
+"D": "27 cm²"},
+"answer": "B",
+"details": "9 × 2 = 18 cm².",
+"difficulty": "easy"
+},
+{
+"question": "What is 14:30 in 12-hour clock time?",
+"options": {
+"A": "2:30 a.m.",
+"B": "4:30 p.m.",
+"C": "2:30 p.m.",
+"D": "10:30 p.m."},
+"answer": "C",
+"details": "14 – 12 = 2 → 2:30 p.m.",
+"difficulty": "easy"
+},
+{
+"question": "How many pence are in £10?",
+"options": {
+"A": "100",
+"B": "500",
+"C": "1,000",
+"D": "10,000"},
+"answer": "C",
+"details": "10 × 100 = 1,000 pence.",
+"difficulty": "easy"
+},
+{
+"question": "A swimming pool is 25 m long. How many kilometres is that?",
+"options": {
+"A": "0.025 km",
+"B": "0.25 km",
+"C": "2.5 km",
+"D": "25 km"},
+"answer": "A",
+"details": "25 ÷ 1,000 = 0.025 km.",
+"difficulty": "easy"
+},
+{
+"question": "How many minutes are in 1.5 hours?",
+"options": {
+"A": "60",
+"B": "75",
+"C": "90",
+"D": "100"},
+"answer": "C",
+"details": "1 hour = 60 min, 0.5 hour = 30 min → 60 + 30 = 90 min.",
+"difficulty": "easy"
+},
+{
+"question": "How many seconds are in 10 minutes?",
+"options": {
+"A": "100",
+"B": "300",
+"C": "600",
+"D": "1,000"},
+"answer": "C",
+"details": "10 × 60 = 600 seconds.",
+"difficulty": "easy"
+},
+{
+"question": "How many months are in 6 years?",
+"options": {
+"A": "60",
+"B": "66",
+"C": "72",
+"D": "78"},
+"answer": "C",
+"details": "6 × 12 = 72 months.",
+"difficulty": "easy"
+},
+{
+"question": "How many days are in 10 weeks?",
+"options": {
+"A": "60",
+"B": "70",
+"C": "80",
+"D": "90"},
+"answer": "B",
+"details": "10 × 7 = 70 days.",
+"difficulty": "easy"
+},
+{
+"question": "A square has sides of 15 cm. What is its perimeter?",
+"options": {
+"A": "30 cm",
+"B": "45 cm",
+"C": "60 cm",
+"D": "75 cm"},
+"answer": "C",
+"details": "4 × 15 = 60 cm.",
+"difficulty": "easy"
+},
+{
+"question": "A room is 4 m by 3 m. What is its perimeter?",
+"options": {
+"A": "7 m",
+"B": "12 m",
+"C": "14 m",
+"D": "24 m"},
+"answer": "C",
+"details": "2 × (4 + 3) = 2 × 7 = 14 m.",
+"difficulty": "easy"
+},
+{
+"question": "A rectangle is 7 cm by 4 cm. What is its area?",
+"options": {
+"A": "11 cm²",
+"B": "21 cm²",
+"C": "28 cm²",
+"D": "32 cm²"},
+"answer": "C",
+"details": "7 × 4 = 28 cm².",
+"difficulty": "easy"
+},
+{
+"question": "What is 8:45 p.m. in 24-hour time?",
+"options": {
+"A": "08:45",
+"B": "18:45",
+"C": "20:45",
+"D": "22:45"},
+"answer": "C",
+"details": "8 + 12 = 20 → 20:45.",
+"difficulty": "easy"
+},
+{
+"question": "A book costs £4.75. How many pence is that?",
+"options": {
+"A": "47.5p",
+"B": "405p",
+"C": "475p",
+"D": "4,750p"},
+"answer": "C",
+"details": "£4 = 400p, 75p = 75p → total = 475p.",
+"difficulty": "easy"
+},
+{
+"question": "How many metres are in 7 km?",
+"options": {
+"A": "70",
+"B": "700",
+"C": "7,000",
+"D": "70,000"},
+"answer": "C",
+"details": "7 × 1,000 = 7,000 m.",
+"difficulty": "easy"
+},
+{
+"question": "How many minutes are in 1 hour and 15 minutes?",
+"options": {
+"A": "65",
+"B": "70",
+"C": "75",
+"D": "80"},
+"answer": "C",
+"details": "60 + 15 = 75 minutes.",
+"difficulty": "easy"
+},
+{
+"question": "How many seconds are in 2 minutes and 30 seconds?",
+"options": {
+"A": "120",
+"B": "150",
+"C": "180",
+"D": "200"},
+"answer": "B",
+"details": "120 + 30 = 150 seconds.",
+"difficulty": "easy"
+},
+{
+"question": "How many months are in 2 years and 3 months?",
+"options": {
+"A": "24",
+"B": "25",
+"C": "26",
+"D": "27"},
+"answer": "D",
+"details": "24 + 3 = 27 months.",
+"difficulty": "easy"
+},
+{
+"question": "How many days are in 3 weeks and 2 days?",
+"options": {
+"A": "21",
+"B": "22",
+"C": "23",
+"D": "24"},
+"answer": "C",
+"details": "21 + 2 = 23 days.",
+"difficulty": "easy"
+},
+{
+"question": "A square postcard has sides of 10 cm. What is its perimeter?",
+"options": {
+"A": "20 cm",
+"B": "30 cm",
+"C": "40 cm",
+"D": "50 cm"},
+"answer": "C",
+"details": "4 × 10 = 40 cm.",
+"difficulty": "easy"
+},
+{
+"question": "A window is 1.5 m wide and 1 m tall. What is its perimeter?",
+"options": {
+"A": "2.5 m",
+"B": "3.0 m",
+"C": "4.0 m",
+"D": "5.0 m"},
+"answer": "D",
+"details": "2 × (1.5 + 1) = 2 × 2.5 = 5.0 m.",
+"difficulty": "easy"
+},
+{
+"question": "A shape covers 25 squares on a 1 cm grid. What is its area?",
+"options": {
+"A": "20 cm²",
+"B": "24 cm²",
+"C": "25 cm²",
+"D": "30 cm²"},
+"answer": "C",
+"details": "25 × 1 = 25 cm².",
+"difficulty": "easy"
+},
+{
+"question": "What is 00:00 in 12-hour clock time?",
+"options": {
+"A": "12:00 a.m.",
+"B": "12:00 p.m.",
+"C": "0:00 a.m.",
+"D": "Midnight p.m."},
+"answer": "A",
+"details": "00:00 is midnight, which is 12:00 a.m.",
+"difficulty": "easy"
+},
+{
+"question": "A chocolate bar costs 90p. How much is that in pounds?",
+"options": {
+"A": "£0.09",
+"B": "£0.90",
+"C": "£9.00",
+"D": "£90"},
+"answer": "B",
+"details": "90 ÷ 100 = £0.90.",
+"difficulty": "easy"
+},
+{
+"question": "How many metres are in 2 kilometres?",
+"options": {
+"A": "20",
+"B": "200",
+"C": "2,000",
+"D": "20,000"},
+"answer": "C",
+"details": "1 kilometre = 1,000 metres, so 2 km = 2 × 1,000 = 2,000 metres.",
+"difficulty": "easy"
+},
+{
+"question": "How many minutes are in 3 hours?",
+"options": {
+"A": "60",
+"B": "120",
+"C": "180",
+"D": "300"},
+"answer": "C",
+"details": "1 hour = 60 minutes, so 3 hours = 3 × 60 = 180 minutes.",
+"difficulty": "easy"
+},
+{
+"question": "What is the perimeter of a square with sides of 4 cm?",
+"options": {
+"A": "8 cm",
+"B": "12 cm",
+"C": "16 cm",
+"D": "20 cm"},
+"answer": "C",
+"details": "A square has 4 equal sides. Perimeter = 4 × 4 = 16 cm.",
+"difficulty": "easy"
+},
+{
+"question": "Each small square on a grid is 1 cm². A shape covers 9 of these squares. What is its area?",
+"options": {
+"A": "6 cm²",
+"B": "8 cm²",
+"C": "9 cm²",
+"D": "12 cm²"},
+"answer": "C",
+"details": "Area is found by counting the number of 1 cm² squares. 9 squares = 9 cm².",
+"difficulty": "easy"
+},
+{
+"question": "What is 4:00 p.m. in 24-hour clock time?",
+"options": {
+"A": "04:00",
+"B": "14:00",
+"C": "16:00",
+"D": "20:00"},
+"answer": "C",
+"details": "For p.m. times (except 12 p.m.), add 12 to the hour: 4 + 12 = 16 → 16:00.",
+"difficulty": "easy"
+},
+{
+"question": "How many pence are in £2?",
+"options": {
+"A": "20",
+"B": "100",
+"C": "200",
+"D": "2,000"},
+"answer": "C",
+"details": "£1 = 100 pence, so £2 = 2 × 100 = 200 pence.",
+"difficulty": "easy"
+},
+{
+"question": "How many days are in 3 weeks?",
+"options": {
+"A": "14",
+"B": "21",
+"C": "28",
+"D": "30"},
+"answer": "B",
+"details": "1 week = 7 days, so 3 weeks = 3 × 7 = 21 days.",
+"difficulty": "easy"
+},
+{
+"question": "A rectangle is 5 cm long and 3 cm wide. What is its perimeter?",
+"options": {
+"A": "8 cm",
+"B": "15 cm",
+"C": "16 cm",
+"D": "30 cm"},
+"answer": "C",
+"details": "Perimeter = 2 × (length + width) = 2 × (5 + 3) = 2 × 8 = 16 cm.",
+"difficulty": "easy"
+},
+{
+"question": "How many seconds are in 2 minutes?",
+"options": {
+"A": "60",
+"B": "100",
+"C": "120",
+"D": "200"},
+"answer": "C",
+"details": "1 minute = 60 seconds, so 2 minutes = 2 × 60 = 120 seconds.",
+"difficulty": "easy"
+},
+{
+"question": "A pencil costs 60p. How much is that in pounds?",
+"options": {
+"A": "£0.06",
+"B": "£0.60",
+"C": "£6.00",
+"D": "£60"},
+"answer": "B",
+"details": "100 pence = £1, so 60 pence = £0.60.",
+"difficulty": "easy"
+},
+{
+"question": "How many metres are in 3.5 kilometres?",
+"options": {
+"A": "350 m",
+"B": "3,050 m",
+"C": "3,500 m",
+"D": "35,000 m"},
+"answer": "C",
+"details": "1 km = 1,000 m, so 3.5 km = 3.5 × 1,000 = 3,500 m.",
+"difficulty": "medium"
+},
+{
+"question": "How many minutes are in 2 hours and 45 minutes?",
+"options": {
+"A": "120 min",
+"B": "145 min",
+"C": "165 min",
+"D": "180 min"},
+"answer": "C",
+"details": "2 hours = 2 × 60 = 120 minutes. Add 45 minutes: 120 + 45 = 165 minutes.",
+"difficulty": "medium"
+},
+{
+"question": "How many seconds are in 4 minutes and 30 seconds?",
+"options": {
+"A": "240 s",
+"B": "250 s",
+"C": "270 s",
+"D": "300 s"},
+"answer": "C",
+"details": "4 minutes = 4 × 60 = 240 seconds. Add 30 seconds: 240 + 30 = 270 seconds.",
+"difficulty": "medium"
+},
+{
+"question": "How many months are in 2 years and 5 months?",
+"options": {
+"A": "24 months",
+"B": "27 months",
+"C": "29 months",
+"D": "30 months"},
+"answer": "C",
+"details": "2 years = 2 × 12 = 24 months. Add 5 months: 24 + 5 = 29 months.",
+"difficulty": "medium"
+},
+{
+"question": "How many days are in 6 weeks and 3 days?",
+"options": {
+"A": "42 days",
+"B": "45 days",
+"C": "48 days",
+"D": "51 days"},
+"answer": "B",
+"details": "6 weeks = 6 × 7 = 42 days. Add 3 days: 42 + 3 = 45 days.",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle is 12 cm long and 8 cm wide. What is its perimeter?",
+"options": {
+"A": "20 cm",
+"B": "40 cm",
+"C": "60 cm",
+"D": "96 cm"},
+"answer": "B",
+"details": "Perimeter = 2 × (length + width) = 2 × (12 + 8) = 2 × 20 = 40 cm.",
+"difficulty": "medium"
+},
+{
+"question": "A square has a perimeter of 36 cm. What is the length of one side?",
+"options": {
+"A": "6 cm",
+"B": "9 cm",
+"C": "12 cm",
+"D": "18 cm"},
+"answer": "B",
+"details": "A square has 4 equal sides. Side length = perimeter ÷ 4 = 36 ÷ 4 = 9 cm.",
+"difficulty": "medium"
+},
+{
+"question": "This shape is made of 1 cm squares. It is 5 squares long and 4 squares tall. What is its area?",
+"options": {
+"A": "9 cm²",
+"B": "18 cm²",
+"C": "20 cm²",
+"D": "24 cm²"},
+"answer": "C",
+"details": "Area = length × width = 5 × 4 = 20 cm².",
+"difficulty": "medium"
+},
+{
+"question": "What time is 19:20 in 12-hour clock format?",
+"options": {
+"A": "7:20 a.m.",
+"B": "9:20 p.m.",
+"C": "7:20 p.m.",
+"D": "11:20 p.m."},
+"answer": "C",
+"details": "19:20 is after 12:00, so subtract 12: 19 – 12 = 7 → 7:20 p.m.",
+"difficulty": "medium"
+},
+{
+"question": "What is 10:45 a.m. in 24-hour time?",
+"options": {
+"A": "00:45",
+"B": "10:45",
+"C": "22:45",
+"D": "12:45"},
+"answer": "B",
+"details": "Times before 1 p.m. (a.m. times) stay the same in 24-hour format, written as 10:45.",
+"difficulty": "medium"
+},
+{
+"question": "A toy costs £3.65. How many pence is that?",
+"options": {
+"A": "36.5p",
+"B": "305p",
+"C": "365p",
+"D": "3,650p"},
+"answer": "C",
+"details": "£1 = 100p, so £3.65 = 3 × 100 + 65 = 300 + 65 = 365p.",
+"difficulty": "medium"
+},
+{
+"question": "How many pence are in £7.20?",
+"options": {
+"A": "72p",
+"B": "702p",
+"C": "720p",
+"D": "7,200p"},
+"answer": "C",
+"details": "£7.20 = 7 × 100 + 20 = 700 + 20 = 720 pence.",
+"difficulty": "medium"
+},
+{
+"question": "A race is 2,500 metres long. How many kilometres is that?",
+"options": {
+"A": "0.25 km",
+"B": "2.5 km",
+"C": "25 km",
+"D": "250 km"},
+"answer": "B",
+"details": "1,000 m = 1 km, so 2,500 ÷ 1,000 = 2.5 km.",
+"difficulty": "medium"
+},
+{
+"question": "A film lasts 135 minutes. How many hours and minutes is that?",
+"options": {
+"A": "1 hour 35 minutes",
+"B": "2 hours 15 minutes",
+"C": "2 hours 30 minutes",
+"D": "2 hours 45 minutes"},
+"answer": "B",
+"details": "135 ÷ 60 = 2 remainder 15 → 2 hours and 15 minutes.",
+"difficulty": "medium"
+},
+{
+"question": "A train journey takes 5,400 seconds. How many minutes is that?",
+"options": {
+"A": "60 minutes",
+"B": "90 minutes",
+"C": "120 minutes",
+"D": "150 minutes"},
+"answer": "B",
+"details": "5,400 ÷ 60 = 90 minutes.",
+"difficulty": "medium"
+},
+{
+"question": "A child is 30 months old. How many years and months is that?",
+"options": {
+"A": "2 years 6 months",
+"B": "2 years 8 months",
+"C": "3 years",
+"D": "3 years 2 months"},
+"answer": "A",
+"details": "30 ÷ 12 = 2 remainder 6 → 2 years and 6 months.",
+"difficulty": "medium"
+},
+{
+"question": "A project lasted 50 days. How many weeks and days is that?",
+"options": {
+"A": "6 weeks 6 days",
+"B": "7 weeks 1 day",
+"C": "7 weeks 2 days",
+"D": "8 weeks"},
+"answer": "B",
+"details": "50 ÷ 7 = 7 remainder 1 → 7 weeks and 1 day.",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle has a perimeter of 30 cm. Its length is 10 cm. What is its width?",
+"options": {
+"A": "5 cm",
+"B": "10 cm",
+"C": "15 cm",
+"D": "20 cm"},
+"answer": "A",
+"details": "Perimeter = 2 × (L + W). So 30 = 2 × (10 + W) → 15 = 10 + W → W = 5 cm.",
+"difficulty": "medium"
+},
+{
+"question": "A square has sides of 11 cm. What is its perimeter?",
+"options": {
+"A": "22 cm",
+"B": "33 cm",
+"C": "44 cm",
+"D": "121 cm"},
+"answer": "C",
+"details": "Perimeter = 4 × side = 4 × 11 = 44 cm.",
+"difficulty": "medium"
+},
+{
+"question": "A shape covers 27 full 1 cm² squares. What is its area?",
+"options": {
+"A": "20 cm²",
+"B": "25 cm²",
+"C": "27 cm²",
+"D": "30 cm²"},
+"answer": "C",
+"details": "Each square is 1 cm², so 27 squares = 27 cm².",
+"difficulty": "medium"
+},
+{
+"question": "What is 21:45 in 12-hour clock time?",
+"options": {
+"A": "9:45 a.m.",
+"B": "11:45 p.m.",
+"C": "9:45 p.m.",
+"D": "10:45 p.m."},
+"answer": "C",
+"details": "21 – 12 = 9 → 9:45 p.m.",
+"difficulty": "medium"
+},
+{
+"question": "What is 2:15 p.m. in 24-hour time?",
+"options": {
+"A": "02:15",
+"B": "12:15",
+"C": "14:15",
+"D": "22:15"},
+"answer": "C",
+"details": "Add 12 to p.m. hours: 2 + 12 = 14 → 14:15.",
+"difficulty": "medium"
+},
+{
+"question": "Ben has £5. He buys a drink for £1.35. How much money does he have left?",
+"options": {
+"A": "£3.65",
+"B": "£3.75",
+"C": "£4.65",
+"D": "£4.35"},
+"answer": "A",
+"details": "£5.00 – £1.35 = £3.65.",
+"difficulty": "medium"
+},
+{
+"question": "A rope is 4.8 m long. How many centimetres is that?",
+"options": {
+"A": "48 cm",
+"B": "480 cm",
+"C": "4,800 cm",
+"D": "0.48 cm"},
+"answer": "B",
+"details": "1 m = 100 cm, so 4.8 × 100 = 480 cm.",
+"difficulty": "medium"
+},
+{
+"question": "How many metres are in 0.75 km?",
+"options": {
+"A": "7.5 m",
+"B": "75 m",
+"C": "750 m",
+"D": "7,500 m"},
+"answer": "C",
+"details": "0.75 × 1,000 = 750 m.",
+"difficulty": "medium"
+},
+{
+"question": "How many minutes are in 5.5 hours?",
+"options": {
+"A": "300 min",
+"B": "330 min",
+"C": "350 min",
+"D": "550 min"},
+"answer": "B",
+"details": "5 hours = 300 minutes, 0.5 hour = 30 minutes → 300 + 30 = 330 minutes.",
+"difficulty": "medium"
+},
+{
+"question": "How many seconds are in 7.5 minutes?",
+"options": {
+"A": "420 s",
+"B": "450 s",
+"C": "500 s",
+"D": "750 s"},
+"answer": "B",
+"details": "7 minutes = 420 seconds, 0.5 minute = 30 seconds → 420 + 30 = 450 seconds.",
+"difficulty": "medium"
+},
+{
+"question": "How many months are in 4.5 years?",
+"options": {
+"A": "48 months",
+"B": "50 months",
+"C": "54 months",
+"D": "60 months"},
+"answer": "C",
+"details": "4 years = 48 months, 0.5 year = 6 months → 48 + 6 = 54 months.",
+"difficulty": "medium"
+},
+{
+"question": "How many days are in 9.5 weeks?",
+"options": {
+"A": "63 days",
+"B": "66.5 days",
+"C": "70 days",
+"D": "95 days"},
+"answer": "B",
+"details": "9 weeks = 63 days, 0.5 week = 3.5 days → 63 + 3.5 = 66.5 days.",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle is 9 m long and 6 m wide. What is its perimeter?",
+"options": {
+"A": "15 m",
+"B": "30 m",
+"C": "45 m",
+"D": "54 m"},
+"answer": "B",
+"details": "Perimeter = 2 × (9 + 6) = 2 × 15 = 30 m.",
+"difficulty": "medium"
+},
+{
+"question": "The perimeter of a square is 28 cm. What is its area?",
+"options": {
+"A": "28 cm²",
+"B": "36 cm²",
+"C": "49 cm²",
+"D": "64 cm²"},
+"answer": "C",
+"details": "Side = 28 ÷ 4 = 7 cm. Area = 7 × 7 = 49 cm².",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle is 8 cm by 5 cm. What is its area?",
+"options": {
+"A": "13 cm²",
+"B": "26 cm²",
+"C": "40 cm²",
+"D": "80 cm²"},
+"answer": "C",
+"details": "Area = length × width = 8 × 5 = 40 cm².",
+"difficulty": "medium"
+},
+{
+"question": "What is 03:30 in 12-hour time?",
+"options": {
+"A": "3:30 a.m.",
+"B": "3:30 p.m.",
+"C": "12:30 a.m.",
+"D": "15:30"},
+"answer": "A",
+"details": "Times from 00:00 to 11:59 in 24-hour format are a.m. times. So 03:30 = 3:30 a.m.",
+"difficulty": "medium"
+},
+{
+"question": "What is 8:55 p.m. in 24-hour time?",
+"options": {
+"A": "08:55",
+"B": "18:55",
+"C": "20:55",
+"D": "22:55"},
+"answer": "C",
+"details": "8 + 12 = 20 → 20:55.",
+"difficulty": "medium"
+},
+{
+"question": "A book costs £6.40. A pencil costs £1.25. What is the total cost?",
+"options": {
+"A": "£7.55",
+"B": "£7.65",
+"C": "£7.75",
+"D": "£8.65"},
+"answer": "B",
+"details": "£6.40 + £1.25 = £7.65.",
+"difficulty": "medium"
+},
+{
+"question": "A bag of flour weighs 1.25 kg. How many grams is that?",
+"options": {
+"A": "12.5 g",
+"B": "125 g",
+"C": "1,250 g",
+"D": "12,500 g"},
+"answer": "C",
+"details": "1 kg = 1,000 g, so 1.25 × 1,000 = 1,250 g.",
+"difficulty": "medium"
+},
+{
+"question": "A path is 350 m long. How many kilometres is that?",
+"options": {
+"A": "0.035 km",
+"B": "0.35 km",
+"C": "3.5 km",
+"D": "35 km"},
+"answer": "B",
+"details": "350 ÷ 1,000 = 0.35 km.",
+"difficulty": "medium"
+},
+{
+"question": "How many hours are in 420 minutes?",
+"options": {
+"A": "4 hours",
+"B": "6 hours",
+"C": "7 hours",
+"D": "8 hours"},
+"answer": "C",
+"details": "420 ÷ 60 = 7 hours.",
+"difficulty": "medium"
+},
+{
+"question": "How many minutes are in 3,000 seconds?",
+"options": {
+"A": "30 min",
+"B": "50 min",
+"C": "60 min",
+"D": "100 min"},
+"answer": "B",
+"details": "3,000 ÷ 60 = 50 minutes.",
+"difficulty": "medium"
+},
+{
+"question": "How many years are in 60 months?",
+"options": {
+"A": "4 years",
+"B": "5 years",
+"C": "6 years",
+"D": "10 years"},
+"answer": "B",
+"details": "60 ÷ 12 = 5 years.",
+"difficulty": "medium"
+},
+{
+"question": "How many weeks are in 84 days?",
+"options": {
+"A": "10 weeks",
+"B": "12 weeks",
+"C": "14 weeks",
+"D": "21 weeks"},
+"answer": "B",
+"details": "84 ÷ 7 = 12 weeks.",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle has sides of 14 cm and 6 cm. What is its perimeter?",
+"options": {
+"A": "20 cm",
+"B": "40 cm",
+"C": "60 cm",
+"D": "84 cm"},
+"answer": "B",
+"details": "2 × (14 + 6) = 2 × 20 = 40 cm.",
+"difficulty": "medium"
+},
+{
+"question": "A square has an area of 64 cm². What is its perimeter?",
+"options": {
+"A": "16 cm",
+"B": "24 cm",
+"C": "32 cm",
+"D": "64 cm"},
+"answer": "C",
+"details": "Side = √64 = 8 cm. Perimeter = 4 × 8 = 32 cm.",
+"difficulty": "medium"
+},
+{
+"question": "A shape is made of 3 rows of 7 squares each (1 cm²). What is its area?",
+"options": {
+"A": "10 cm²",
+"B": "18 cm²",
+"C": "21 cm²",
+"D": "28 cm²"},
+"answer": "C",
+"details": "3 × 7 = 21 cm².",
+"difficulty": "medium"
+},
+{
+"question": "What time is 13:15 in 12-hour clock?",
+"options": {
+"A": "1:15 a.m.",
+"B": "1:15 p.m.",
+"C": "3:15 p.m.",
+"D": "11:15 a.m."},
+"answer": "B",
+"details": "13 – 12 = 1 → 1:15 p.m.",
+"difficulty": "medium"
+},
+{
+"question": "What is 5:30 a.m. in 24-hour time?",
+"options": {
+"A": "05:30",
+"B": "15:30",
+"C": "17:30",
+"D": "00:30"},
+"answer": "A",
+"details": "a.m. times are written the same (with leading zero if needed): 05:30.",
+"difficulty": "medium"
+},
+{
+"question": "A sandwich costs £2.80. A drink costs £1.40. How much for both?",
+"options": {
+"A": "£3.20",
+"B": "£4.00",
+"C": "£4.20",
+"D": "£4.40"},
+"answer": "C",
+"details": "£2.80 + £1.40 = £4.20.",
+"difficulty": "medium"
+},
+{
+"question": "A bottle holds 2.3 litres. How many millilitres is that?",
+"options": {
+"A": "23 mL",
+"B": "230 mL",
+"C": "2,300 mL",
+"D": "23,000 mL"},
+"answer": "C",
+"details": "1 L = 1,000 mL, so 2.3 × 1,000 = 2,300 mL.",
+"difficulty": "medium"
+},
+{
+"question": "A garden is 15 m by 10 m. What is its perimeter?",
+"options": {
+"A": "25 m",
+"B": "50 m",
+"C": "100 m",
+"D": "150 m"},
+"answer": "B",
+"details": "2 × (15 + 10) = 2 × 25 = 50 m.",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle has a perimeter of 40 cm and width of 8 cm. What is its length?",
+"options": {
+"A": "10 cm",
+"B": "12 cm",
+"C": "16 cm",
+"D": "24 cm"},
+"answer": "B",
+"details": "Perimeter = 2(L + W) → 40 = 2(L + 8) → 20 = L + 8 → L = 12 cm.",
+"difficulty": "medium"
+},
+{
+"question": "A shape covers 6 full squares and 4 half-squares (each 1 cm²). What is its area?",
+"options": {
+"A": "6 cm²",
+"B": "8 cm²",
+"C": "10 cm²",
+"D": "12 cm²"},
+"answer": "B",
+"details": "4 half-squares = 2 full squares. Total = 6 + 2 = 8 cm².",
+"difficulty": "medium"
+},
+{
+"question": "What is 23:59 in 12-hour time?",
+"options": {
+"A": "11:59 a.m.",
+"B": "12:59 a.m.",
+"C": "11:59 p.m.",
+"D": "1:59 a.m."},
+"answer": "C",
+"details": "23 – 12 = 11 → 11:59 p.m.",
+"difficulty": "medium"
+},
+{
+"question": "What is 12:01 a.m. in 24-hour time?",
+"options": {
+"A": "00:01",
+"B": "12:01",
+"C": "24:01",
+"D": "01:12"},
+"answer": "A",
+"details": "12:01 a.m. (just after midnight) is 00:01 in 24-hour time.",
+"difficulty": "medium"
+},
+{
+"question": "Lily has £10. She buys a book for £6.75. How much change does she get?",
+"options": {
+"A": "£3.25",
+"B": "£3.75",
+"C": "£4.25",
+"D": "£4.75"},
+"answer": "A",
+"details": "£10.00 – £6.75 = £3.25.",
+"difficulty": "medium"
+},
+{
+"question": "A plank is 250 cm long. How many metres is that?",
+"options": {
+"A": "0.25 m",
+"B": "2.5 m",
+"C": "25 m",
+"D": "250 m"},
+"answer": "B",
+"details": "250 ÷ 100 = 2.5 m.",
+"difficulty": "medium"
+},
+{
+"question": "A journey is 7.2 km. How many metres is that?",
+"options": {
+"A": "72 m",
+"B": "720 m",
+"C": "7,200 m",
+"D": "72,000 m"},
+"answer": "C",
+"details": "7.2 × 1,000 = 7,200 m.",
+"difficulty": "medium"
+},
+{
+"question": "How many minutes are in 8.25 hours?",
+"options": {
+"A": "480 min",
+"B": "495 min",
+"C": "500 min",
+"D": "825 min"},
+"answer": "B",
+"details": "8 hours = 480 min, 0.25 hour = 15 min → 480 + 15 = 495 min.",
+"difficulty": "medium"
+},
+{
+"question": "How many seconds are in 10.5 minutes?",
+"options": {
+"A": "600 s",
+"B": "630 s",
+"C": "1,050 s",
+"D": "1,200 s"},
+"answer": "B",
+"details": "10 minutes = 600 s, 0.5 min = 30 s → 630 s.",
+"difficulty": "medium"
+},
+{
+"question": "How many months are in 7 years and 2 months?",
+"options": {
+"A": "84 months",
+"B": "86 months",
+"C": "88 months",
+"D": "90 months"},
+"answer": "B",
+"details": "7 × 12 = 84 + 2 = 86 months.",
+"difficulty": "medium"
+},
+{
+"question": "How many days are in 11 weeks and 4 days?",
+"options": {
+"A": "77 days",
+"B": "81 days",
+"C": "84 days",
+"D": "88 days"},
+"answer": "B",
+"details": "11 × 7 = 77 + 4 = 81 days.",
+"difficulty": "medium"
+},
+{
+"question": "A square has sides of 13 cm. What is its perimeter?",
+"options": {
+"A": "26 cm",
+"B": "39 cm",
+"C": "52 cm",
+"D": "169 cm"},
+"answer": "C",
+"details": "4 × 13 = 52 cm.",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle is 15 cm by 4 cm. What is its area?",
+"options": {
+"A": "19 cm²",
+"B": "38 cm²",
+"C": "60 cm²",
+"D": "90 cm²"},
+"answer": "C",
+"details": "15 × 4 = 60 cm².",
+"difficulty": "medium"
+},
+{
+"question": "A shape is 6 cm by 6 cm. What is its area?",
+"options": {
+"A": "12 cm²",
+"B": "24 cm²",
+"C": "36 cm²",
+"D": "60 cm²"},
+"answer": "C",
+"details": "It’s a square: 6 × 6 = 36 cm².",
+"difficulty": "medium"
+},
+{
+"question": "What is 16:45 in 12-hour time?",
+"options": {
+"A": "4:45 a.m.",
+"B": "6:45 p.m.",
+"C": "4:45 p.m.",
+"D": "6:45 a.m."},
+"answer": "C",
+"details": "16 – 12 = 4 → 4:45 p.m.",
+"difficulty": "medium"
+},
+{
+"question": "What is 9:20 p.m. in 24-hour time?",
+"options": {
+"A": "09:20",
+"B": "19:20",
+"C": "21:20",
+"D": "23:20"},
+"answer": "C",
+"details": "9 + 12 = 21 → 21:20.",
+"difficulty": "medium"
+},
+{
+"question": "A pack of stickers costs £3.99. How many pence is that?",
+"options": {
+"A": "39.9p",
+"B": "309p",
+"C": "399p",
+"D": "3,990p"},
+"answer": "C",
+"details": "£3.99 = 399 pence.",
+"difficulty": "medium"
+},
+{
+"question": "A toy costs £4.20. Tom pays with a £10 note. How much change does he get?",
+"options": {
+"A": "£5.20",
+"B": "£5.80",
+"C": "£6.20",
+"D": "£6.80"},
+"answer": "B",
+"details": "£10.00 – £4.20 = £5.80.",
+"difficulty": "medium"
+},
+{
+"question": "A room is 4.5 m by 3 m. What is its perimeter?",
+"options": {
+"A": "7.5 m",
+"B": "12 m",
+"C": "15 m",
+"D": "27 m"},
+"answer": "C",
+"details": "2 × (4.5 + 3) = 2 × 7.5 = 15 m.",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle has an area of 30 cm² and a width of 5 cm. What is its length?",
+"options": {
+"A": "5 cm",
+"B": "6 cm",
+"C": "10 cm",
+"D": "15 cm"},
+"answer": "B",
+"details": "Area = length × width → 30 = L × 5 → L = 6 cm.",
+"difficulty": "medium"
+},
+{
+"question": "A shape covers 5 full squares and 6 half-squares. What is its area?",
+"options": {
+"A": "6 cm²",
+"B": "8 cm²",
+"C": "11 cm²",
+"D": "16 cm²"},
+"answer": "B",
+"details": "6 half-squares = 3 full squares. Total = 5 + 3 = 8 cm².",
+"difficulty": "medium"
+},
+{
+"question": "What is 00:45 in 12-hour time?",
+"options": {
+"A": "12:45 a.m.",
+"B": "12:45 p.m.",
+"C": "0:45 a.m.",
+"D": "11:45 p.m."},
+"answer": "A",
+"details": "00:45 is 12:45 in the early morning, so 12:45 a.m.",
+"difficulty": "medium"
+},
+{
+"question": "What is 7:05 p.m. in 24-hour time?",
+"options": {
+"A": "07:05",
+"B": "17:05",
+"C": "19:05",
+"D": "21:05"},
+"answer": "C",
+"details": "7 + 12 = 19 → 19:05.",
+"difficulty": "medium"
+},
+{
+"question": "Two pens cost £1.60. How much do 5 pens cost?",
+"options": {
+"A": "£3.20",
+"B": "£4.00",
+"C": "£4.80",
+"D": "£5.60"},
+"answer": "B",
+"details": "One pen = £1.60 ÷ 2 = £0.80. Five pens = 5 × £0.80 = £4.00.",
+"difficulty": "medium"
+},
+{
+"question": "A ribbon is 3.6 m long. It is cut into 6 equal pieces. How long is each piece?",
+"options": {
+"A": "0.4 m",
+"B": "0.6 m",
+"C": "0.9 m",
+"D": "1.2 m"},
+"answer": "B",
+"details": "3.6 ÷ 6 = 0.6 m.",
+"difficulty": "medium"
+},
+{
+"question": "How many km are in 8,250 m?",
+"options": {
+"A": "0.825 km",
+"B": "8.25 km",
+"C": "82.5 km",
+"D": "825 km"},
+"answer": "B",
+"details": "8,250 ÷ 1,000 = 8.25 km.",
+"difficulty": "medium"
+},
+{
+"question": "A TV show starts at 18:30 and ends at 20:15. How long is it?",
+"options": {
+"A": "1 hour 15 min",
+"B": "1 hour 30 min",
+"C": "1 hour 45 min",
+"D": "2 hours"},
+"answer": "C",
+"details": "From 18:30 to 20:15 is 1 hour 45 minutes.",
+"difficulty": "medium"
+},
+{
+"question": "A bus leaves at 09:15 and arrives at 11:40. How long was the journey?",
+"options": {
+"A": "2 hours 15 min",
+"B": "2 hours 25 min",
+"C": "2 hours 35 min",
+"D": "2 hours 45 min"},
+"answer": "B",
+"details": "From 09:15 to 11:15 = 2 hours. Then to 11:40 = +25 min → total 2h 25m.",
+"difficulty": "medium"
+},
+{
+"question": "How many weeks are in 100 days?",
+"options": {
+"A": "14 weeks",
+"B": "14 weeks 2 days",
+"C": "15 weeks",
+"D": "16 weeks 4 days"},
+"answer": "B",
+"details": "100 ÷ 7 = 14 remainder 2 → 14 weeks and 2 days.",
+"difficulty": "medium"
+},
+{
+"question": "How many years are in 96 months?",
+"options": {
+"A": "6 years",
+"B": "8 years",
+"C": "9 years",
+"D": "12 years"},
+"answer": "B",
+"details": "96 ÷ 12 = 8 years.",
+"difficulty": "medium"
+},
+{
+"question": "A square has a perimeter of 44 cm. What is its area?",
+"options": {
+"A": "121 cm²",
+"B": "144 cm²",
+"C": "440 cm²",
+"D": "484 cm²"},
+"answer": "A",
+"details": "Side = 44 ÷ 4 = 11 cm. Area = 11 × 11 = 121 cm².",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle is twice as long as it is wide. If the width is 5 cm, what is the perimeter?",
+"options": {
+"A": "15 cm",
+"B": "20 cm",
+"C": "30 cm",
+"D": "50 cm"},
+"answer": "C",
+"details": "Width = 5 cm, length = 10 cm. Perimeter = 2 × (10 + 5) = 30 cm.",
+"difficulty": "medium"
+},
+{
+"question": "A shape covers 4 rows of 9 squares. What is its area?",
+"options": {
+"A": "13 cm²",
+"B": "26 cm²",
+"C": "36 cm²",
+"D": "45 cm²"},
+"answer": "C",
+"details": "4 × 9 = 36 cm².",
+"difficulty": "medium"
+},
+{
+"question": "What is 11:59 p.m. in 24-hour time?",
+"options": {
+"A": "11:59",
+"B": "22:59",
+"C": "23:59",
+"D": "00:59"},
+"answer": "C",
+"details": "11 + 12 = 23 → 23:59.",
+"difficulty": "medium"
+},
+{
+"question": "What is 02:10 in 12-hour time?",
+"options": {
+"A": "2:10 a.m.",
+"B": "2:10 p.m.",
+"C": "12:10 a.m.",
+"D": "10:02 a.m."},
+"answer": "A",
+"details": "02:10 is in the early morning → 2:10 a.m.",
+"difficulty": "medium"
+},
+{
+"question": "A cake costs £7.50. It is shared equally by 3 people. How much does each pay?",
+"options": {
+"A": "£2.25",
+"B": "£2.50",
+"C": "£3.00",
+"D": "£3.50"},
+"answer": "B",
+"details": "£7.50 ÷ 3 = £2.50.",
+"difficulty": "medium"
+},
+{
+"question": "A box is 30 cm long. How many such boxes fit in a 2.4 m shelf?",
+"options": {
+"A": "6",
+"B": "8",
+"C": "10",
+"D": "12"},
+"answer": "B",
+"details": "2.4 m = 240 cm. 240 ÷ 30 = 8 boxes.",
+"difficulty": "medium"
+},
+{
+"question": "A runner completes 5 laps of a 400 m track. How many kilometres did she run?",
+"options": {
+"A": "1 km",
+"B": "2 km",
+"C": "4 km",
+"D": "5 km"},
+"answer": "B",
+"details": "5 × 400 = 2,000 m = 2 km.",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle has an area of 48 cm² and length of 8 cm. What is its width?",
+"options": {
+"A": "4 cm",
+"B": "6 cm",
+"C": "8 cm",
+"D": "12 cm"},
+"answer": "B",
+"details": "Area = L × W → 48 = 8 × W → W = 6 cm.",
+"difficulty": "medium"
+},
+{
+"question": "A square has an area of 81 cm². What is its perimeter?",
+"options": {
+"A": "18 cm",
+"B": "27 cm",
+"C": "36 cm",
+"D": "81 cm"},
+"answer": "C",
+"details": "Side = √81 = 9 cm. Perimeter = 4 × 9 = 36 cm.",
+"difficulty": "medium"
+},
+{
+"question": "A shape covers 9 full squares and 2 half-squares. What is its area?",
+"options": {
+"A": "9 cm²",
+"B": "10 cm²",
+"C": "11 cm²",
+"D": "12 cm²"},
+"answer": "B",
+"details": "2 half-squares = 1 full square. Total = 9 + 1 = 10 cm².",
+"difficulty": "medium"
+},
+{
+"question": "School starts at 08:45 and ends at 15:30. How long is the school day?",
+"options": {
+"A": "6 hours 15 min",
+"B": "6 hours 45 min",
+"C": "7 hours",
+"D": "7 hours 15 min"},
+"answer": "B",
+"details": "From 08:45 to 15:30: 6 hours from 08:45 to 14:45, then +45 min = 6h 45m.",
+"difficulty": "medium"
+},
+{
+"question": "How many minutes are in 1.75 hours?",
+"options": {
+"A": "75 min",
+"B": "90 min",
+"C": "105 min",
+"D": "115 min"},
+"answer": "C",
+"details": "1 hour = 60 min, 0.75 hour = 45 min → 60 + 45 = 105 min.",
+"difficulty": "medium"
+},
+{
+"question": "How many cm are in 5.05 m?",
+"options": {
+"A": "50.5 cm",
+"B": "505 cm",
+"C": "5,005 cm",
+"D": "5,500 cm"},
+"answer": "B",
+"details": "5.05 × 100 = 505 cm.",
+"difficulty": "medium"
+},
+{
+"question": "A jug holds 1.8 L. How many 300 mL cups can it fill?",
+"options": {
+"A": "4",
+"B": "5",
+"C": "6",
+"D": "7"},
+"answer": "C",
+"details": "1.8 L = 1,800 mL. 1,800 ÷ 300 = 6 cups.",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle is 12 cm by 7 cm. What is its area?",
+"options": {
+"A": "19 cm²",
+"B": "38 cm²",
+"C": "84 cm²",
+"D": "144 cm²"},
+"answer": "C",
+"details": "12 × 7 = 84 cm².",
+"difficulty": "medium"
+},
+{
+"question": "The perimeter of a rectangle is 50 cm. The length is 16 cm. What is the width?",
+"options": {
+"A": "8 cm",
+"B": "9 cm",
+"C": "10 cm",
+"D": "18 cm"},
+"answer": "B",
+"details": "2(L + W) = 50 → L + W = 25 → 16 + W = 25 → W = 9 cm.",
+"difficulty": "medium"
+},
+{
+"question": "A film starts at 14:20 and lasts 2 hours 10 minutes. What time does it end?",
+"options": {
+"A": "16:10",
+"B": "16:20",
+"C": "16:30",
+"D": "16:40"},
+"answer": "C",
+"details": "14:20 + 2 hours = 16:20, +10 min = 16:30.",
+"difficulty": "medium"
+},
+{
+"question": "A packet of 8 pencils costs £2.40. What is the cost of one pencil?",
+"options": {
+"A": "20p",
+"B": "25p",
+"C": "30p",
+"D": "40p"},
+"answer": "C",
+"details": "£2.40 = 240p. 240 ÷ 8 = 30p.",
+"difficulty": "medium"
+},
+{
+"question": "How many metres are in 2.4 kilometres?",
+"options": {
+"A": "24 m",
+"B": "240 m",
+"C": "2,400 m",
+"D": "24,000 m"},
+"answer": "C",
+"details": "1 kilometre = 1,000 metres, so 2.4 km = 2.4 × 1,000 = 2,400 metres.",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle is 9 cm long and 5 cm wide. What is its perimeter?",
+"options": {
+"A": "14 cm",
+"B": "28 cm",
+"C": "36 cm",
+"D": "45 cm"},
+"answer": "B",
+"details": "Perimeter = 2 × (length + width) = 2 × (9 + 5) = 2 × 14 = 28 cm.",
+"difficulty": "medium"
+},
+{
+"question": "How many minutes are in 3 hours and 20 minutes?",
+"options": {
+"A": "180 min",
+"B": "200 min",
+"C": "220 min",
+"D": "240 min"},
+"answer": "B",
+"details": "3 hours = 3 × 60 = 180 minutes. Add 20 minutes: 180 + 20 = 200 minutes.",
+"difficulty": "medium"
+},
+{
+"question": "What is 16:30 in 12-hour clock time?",
+"options": {
+"A": "4:30 a.m.",
+"B": "6:30 p.m.",
+"C": "4:30 p.m.",
+"D": "8:30 p.m."},
+"answer": "C",
+"details": "16:30 is in the afternoon. Subtract 12: 16 – 12 = 4, so it is 4:30 p.m.",
+"difficulty": "medium"
+},
+{
+"question": "A shape covers 7 full 1 cm² squares and 4 half-squares. What is its area?",
+"options": {
+"A": "7 cm²",
+"B": "8 cm²",
+"C": "9 cm²",
+"D": "11 cm²"},
+"answer": "C",
+"details": "4 half-squares = 2 full squares. Total area = 7 + 2 = 9 cm².",
+"difficulty": "medium"
+},
+{
+"question": "How many pence are in £4.70?",
+"options": {
+"A": "47p",
+"B": "407p",
+"C": "470p",
+"D": "4,700p"},
+"answer": "C",
+"details": "£1 = 100p, so £4.70 = 4 × 100 + 70 = 400 + 70 = 470 pence.",
+"difficulty": "medium"
+},
+{
+"question": "How many days are in 8 weeks and 5 days?",
+"options": {
+"A": "56 days",
+"B": "60 days",
+"C": "61 days",
+"D": "65 days"},
+"answer": "C",
+"details": "8 weeks = 8 × 7 = 56 days. Add 5 days: 56 + 5 = 61 days.",
+"difficulty": "medium"
+},
+{
+"question": "A square has a perimeter of 32 cm. What is the length of one side?",
+"options": {
+"A": "4 cm",
+"B": "6 cm",
+"C": "8 cm",
+"D": "16 cm"},
+"answer": "C",
+"details": "A square has 4 equal sides. Side length = perimeter ÷ 4 = 32 ÷ 4 = 8 cm.",
+"difficulty": "medium"
+},
+{
+"question": "A toy costs £5.40. Sam pays with a £10 note. How much change does he get?",
+"options": {
+"A": "£4.40",
+"B": "£4.60",
+"C": "£5.40",
+"D": "£5.60"},
+"answer": "B",
+"details": "£10.00 – £5.40 = £4.60.",
+"difficulty": "medium"
+},
+{
+"question": "How many seconds are in 5 minutes and 40 seconds?",
+"options": {
+"A": "240 s",
+"B": "300 s",
+"C": "340 s",
+"D": "540 s"},
+"answer": "C",
+"details": "5 minutes = 5 × 60 = 300 seconds. Add 40 seconds: 300 + 40 = 340 seconds.",
+"difficulty": "medium"
+},
+{
+"question": "A runner completes 2 laps of a 400 m track and then runs an extra 1.2 km. How far did they run in total, in metres?",
+"options": {
+"A": "1,600 m",
+"B": "2,000 m",
+"C": "2,800 m",
+"D": "3,200 m"},
+"answer": "B",
+"details": "2 laps × 400 m = 800 m. 1.2 km = 1.2 × 1,000 = 1,200 m. Total = 800 m + 1,200 m = 2,000 m.",
+"difficulty": "hard"
+},
+{
+"question": "A film starts at 14:45 and lasts 1 hour 50 minutes. At what time does it end? Give your answer in 24-hour format.",
+"options": {
+"A": "15:35",
+"B": "16:15",
+"C": "16:35",
+"D": "16:55"},
+"answer": "C",
+"details": "Start: 14:45. Add 1 hour → 15:45. Add 50 minutes: 15 min to 16:00, then 35 more min → 16:35.",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle has a perimeter of 36 cm. Its length is twice its width. What is its width?",
+"options": {
+"A": "6 cm",
+"B": "8 cm",
+"C": "9 cm",
+"D": "12 cm"},
+"answer": "A",
+"details": "Let width = w, then length = 2w. Perimeter = 2(w + 2w) = 2(3w) = 6w = 36 cm. So w = 36 ÷ 6 = 6 cm.",
+"difficulty": "hard"
+},
+{
+"question": "A shape is made from 1 cm² squares: 5 rows, each with 6 squares, but the top-right 2 squares are missing. What is the area?",
+"options": {
+"A": "26 cm²",
+"B": "28 cm²",
+"C": "30 cm²",
+"D": "32 cm²"},
+"answer": "B",
+"details": "Full rectangle = 5 × 6 = 30 squares. Remove 2 squares → 30 − 2 = 28 cm².",
+"difficulty": "hard"
+},
+{
+"question": "Amira buys a book for £7.45 and a notebook for £2.80. She pays with a £20 note. How much change does she get?",
+"options": {
+"A": "£8.75",
+"B": "£9.75",
+"C": "£10.25",
+"D": "£10.75"},
+"answer": "B",
+"details": "Total cost = £7.45 + £2.80 = £10.25. Change = £20.00 − £10.25 = £9.75.",
+"difficulty": "hard"
+},
+{
+"question": "How many seconds are there in 1 hour 15 minutes?",
+"options": {
+"A": "3,600 s",
+"B": "4,200 s",
+"C": "4,500 s",
+"D": "5,400 s"},
+"answer": "C",
+"details": "1 hour = 3,600 s. 15 min = 15 × 60 = 900 s. Total = 3,600 + 900 = 4,500 s.",
+"difficulty": "hard"
+},
+{
+"question": "A garden is L-shaped. One rectangle is 8 m by 3 m; the other (attached) is 5 m by 3 m, sharing the 3 m side. What is the total perimeter?",
+"options": {
+"A": "30 m",
+"B": "32 m",
+"C": "34 m",
+"D": "36 m"},
+"answer": "C",
+"details": "Sketch mentally: outer dimensions are 8 m (long side), 5 m (short extension), and 3 m (height). Perimeter = 8 + 3 + 5 + 3 + (8−5) + 3 + 3 = 8+3+5+3+3+3+3 = 28? Wait — better: trace edges: top: 8 m, right: 3 m, down: 3 m, left: 5 m, down: 3 m, left: (8−5)=3 m, up: 6 m? Let's use standard L-perimeter: total rectangle (8×6) minus internal overlap. Simpler: outline path: start bottom-left → 8 m right → 3 m up → 3 m left → 3 m up → 5 m left → 6 m down → back. Total = 8+3+3+3+5+6 = 28? That’s wrong. Correct method: The L-shape has outer sides: width = 8 m, height = 6 m (3+3), but an inner notch of 3 m × 3 m removed. Perimeter = 2×(8+6) + 2×3 = 28 + 6 = 34 m. Yes: full rectangle 8×6 would be 28 m perimeter, but removing a 3×3 corner *adds* 2×3 = 6 m (two new edges), so 28 + 6 = 34 m.",
+"difficulty": "hard"
+},
+{
+"question": "A train leaves London at 09:20 and arrives in Manchester at 11:55. How long was the journey?",
+"options": {
+"A": "2 hours 25 minutes",
+"B": "2 hours 35 minutes",
+"C": "2 hours 45 minutes",
+"D": "3 hours 15 minutes"},
+"answer": "B",
+"details": "From 09:20 to 11:20 = 2 hours. Then 11:20 to 11:55 = 35 minutes. Total = 2 h 35 min.",
+"difficulty": "hard"
+},
+{
+"question": "Which is the greatest distance?",
+"options": {
+"A": "2,500 m",
+"B": "2.4 km",
+"C": "2 km 600 m",
+"D": "2,450 m"},
+"answer": "C",
+"details": "Convert all to metres: A = 2,500 m; B = 2.4 × 1,000 = 2,400 m; C = 2,000 + 600 = 2,600 m; D = 2,450 m. Greatest is 2,600 m → C.",
+"difficulty": "hard"
+},
+{
+"question": "A square and a rectangle have the same perimeter of 40 cm. The rectangle is 12 cm long. What is the side length of the square?",
+"options": {
+"A": "8 cm",
+"B": "10 cm",
+"C": "12 cm",
+"D": "14 cm"},
+"answer": "B",
+"details": "Square perimeter = 40 cm, so side = 40 ÷ 4 = 10 cm. (Rectangle info is extra — not needed for square side!)",
+"difficulty": "hard"
+},
+{
+"question": "A bottle holds 1.75 litres. How many millilitres is this?",
+"options": {
+"A": "17.5 mL",
+"B": "175 mL",
+"C": "1,750 mL",
+"D": "17,500 mL"},
+"answer": "C",
+"details": "1 litre = 1,000 mL, so 1.75 L = 1.75 × 1,000 = 1,750 mL.",
+"difficulty": "hard"
+},
+{
+"question": "A bus journey takes 1 hour 48 minutes. It starts at 15:20. What time does it finish?",
+"options": {
+"A": "16:08",
+"B": "17:08",
+"C": "17:18",
+"D": "17:28"},
+"answer": "B",
+"details": "15:20 + 1 hour = 16:20. Add 48 min: 40 min → 17:00, then 8 min → 17:08.",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle is 9 cm long and 4 cm wide. A square has the same area. What is the perimeter of the square?",
+"options": {
+"A": "24 cm",
+"B": "26 cm",
+"C": "28 cm",
+"D": "30 cm"},
+"answer": "A",
+"details": "Rectangle area = 9 × 4 = 36 cm². Square with same area: side = √36 = 6 cm. Perimeter = 4 × 6 = 24 cm.",
+"difficulty": "hard"
+},
+{
+"question": "A shape is made of whole and half squares on 1 cm grid paper: 9 full squares and 4 half-squares. What is its area?",
+"options": {
+"A": "9.5 cm²",
+"B": "10 cm²",
+"C": "11 cm²",
+"D": "12 cm²"},
+"answer": "C",
+"details": "4 half-squares = 2 full squares. Total area = 9 + 2 = 11 cm².",
+"difficulty": "hard"
+},
+{
+"question": "Liam has £5. He buys 3 pencils at 75p each and a ruler for £1.20. How much money does he have left?",
+"options": {
+"A": "£1.55",
+"B": "£1.65",
+"C": "£1.75",
+"D": "£1.85"},
+"answer": "A",
+"details": "Cost of pencils = 3 × 75p = 225p = £2.25. Ruler = £1.20. Total = £2.25 + £1.20 = £3.45. Left = £5.00 − £3.45 = £1.55.",
+"difficulty": "hard"
+},
+{
+"question": "How many minutes are there in 5/6 of an hour?",
+"options": {
+"A": "40 min",
+"B": "45 min",
+"C": "50 min",
+"D": "55 min"},
+"answer": "C",
+"details": "1 hour = 60 min. 5/6 of 60 = (5 × 60) ÷ 6 = 300 ÷ 6 = 50 min.",
+"difficulty": "hard"
+},
+{
+"question": "Which time is the same as 03:45 in 12-hour clock notation?",
+"options": {
+"A": "3:45 am",
+"B": "3:45 pm",
+"C": "15:45",
+"D": "4:45 am"},
+"answer": "A",
+"details": "Times from 00:00 to 11:59 in 24-hour clock are am. 03:45 = 3:45 am.",
+"difficulty": "hard"
+},
+{
+"question": "A rope is 5.6 m long. It is cut into 8 equal pieces. How long is each piece in centimetres?",
+"options": {
+"A": "56 cm",
+"B": "60 cm",
+"C": "65 cm",
+"D": "70 cm"},
+"answer": "D",
+"details": "5.6 m = 560 cm. 560 ÷ 8 = 70 cm.",
+"difficulty": "hard"
+},
+{
+"question": "A birthday party starts at 14:30 and lasts 2 hours 15 minutes, but it overruns by 20 minutes. What time does it finish?",
+"options": {
+"A": "16:45",
+"B": "16:55",
+"C": "17:05",
+"D": "17:15"},
+"answer": "C",
+"details": "Planned end: 14:30 + 2h15m = 16:45. Overrun 20 min → 16:45 + 20 min = 17:05.",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle has an area of 60 cm² and a width of 5 cm. What is its perimeter?",
+"options": {
+"A": "28 cm",
+"B": "30 cm",
+"C": "34 cm",
+"D": "38 cm"},
+"answer": "C",
+"details": "Area = length × width → 60 = l × 5 → l = 12 cm. Perimeter = 2 × (12 + 5) = 2 × 17 = 34 cm.",
+"difficulty": "hard"
+},
+{
+"question": "How many days are there in 10 weeks and 3 days?",
+"options": {
+"A": "70 days",
+"B": "72 days",
+"C": "73 days",
+"D": "75 days"},
+"answer": "C",
+"details": "10 weeks = 10 × 7 = 70 days. +3 days = 73 days.",
+"difficulty": "hard"
+},
+{
+"question": "A digital clock shows 20:25. What time will it be in 55 minutes?",
+"options": {
+"A": "21:10",
+"B": "21:15",
+"C": "21:20",
+"D": "21:25"},
+"answer": "C",
+"details": "20:25 + 35 min = 21:00. Then +20 min = 21:20.",
+"difficulty": "hard"
+},
+{
+"question": "An L-shaped figure is made of two rectangles: 6 cm × 4 cm and 4 cm × 2 cm, joined along the 4 cm side. What is the total area?",
+"options": {
+"A": "24 cm²",
+"B": "28 cm²",
+"C": "30 cm²",
+"D": "32 cm²"},
+"answer": "D",
+"details": "Area1 = 6 × 4 = 24 cm². Area2 = 4 × 2 = 8 cm². Total = 24 + 8 = 32 cm².",
+"difficulty": "hard"
+},
+{
+"question": "Convert 2,850 metres to kilometres and metres.",
+"options": {
+"A": "2 km 85 m",
+"B": "2 km 850 m",
+"C": "28 km 50 m",
+"D": "2.85 km"},
+"answer": "B",
+"details": "2,850 m = 2,000 m + 850 m = 2 km 850 m.",
+"difficulty": "hard"
+},
+{
+"question": "A square has a perimeter of 48 cm. What is its area?",
+"options": {
+"A": "96 cm²",
+"B": "121 cm²",
+"C": "144 cm²",
+"D": "169 cm²"},
+"answer": "C",
+"details": "Side = 48 ÷ 4 = 12 cm. Area = 12 × 12 = 144 cm².",
+"difficulty": "hard"
+},
+{
+"question": "School starts at 08:50 and finishes at 15:30, with a 1-hour lunch break. How long are the lessons?",
+"options": {
+"A": "5 hours 20 minutes",
+"B": "5 hours 40 minutes",
+"C": "6 hours 20 minutes",
+"D": "6 hours 40 minutes"},
+"answer": "B",
+"details": "Total time: 08:50 to 15:30 = 6h40m. Subtract 1h lunch = 5h40m.",
+"difficulty": "hard"
+},
+{
+"question": "A packet of 6 juice bottles costs £4.50. Each bottle holds 330 mL. How many litres is that in total?",
+"options": {
+"A": "1.65 L",
+"B": "1.80 L",
+"C": "1.98 L",
+"D": "2.10 L"},
+"answer": "C",
+"details": "6 × 330 mL = 1,980 mL = 1.98 L.",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle is 12 cm long. Its perimeter is 3 times its length. What is its width?",
+"options": {
+"A": "4 cm",
+"B": "6 cm",
+"C": "8 cm",
+"D": "10 cm"},
+"answer": "B",
+"details": "Perimeter = 3 × 12 = 36 cm. Perimeter = 2(l + w) → 36 = 2(12 + w) → 18 = 12 + w → w = 6 cm.",
+"difficulty": "hard"
+},
+{
+"question": "How many seconds are in 2.5 minutes?",
+"options": {
+"A": "120 s",
+"B": "130 s",
+"C": "150 s",
+"D": "180 s"},
+"answer": "C",
+"details": "2.5 × 60 = 150 seconds.",
+"difficulty": "hard"
+},
+{
+"question": "A carpet is 3.6 m by 2.5 m. What is its area in square metres?",
+"options": {
+"A": "8.0 m²",
+"B": "8.5 m²",
+"C": "9.0 m²",
+"D": "9.5 m²"},
+"answer": "C",
+"details": "3.6 × 2.5 = (36/10) × (25/10) = 900/100 = 9.0 m².",
+"difficulty": "hard"
+},
+{
+"question": "A train leaves at 07:15 and arrives at 09:08. How long was the journey?",
+"options": {
+"A": "1 hour 43 minutes",
+"B": "1 hour 53 minutes",
+"C": "2 hours 07 minutes",
+"D": "2 hours 13 minutes"},
+"answer": "B",
+"details": "07:15 to 09:15 = 2h, but arrival is 09:08, so 7 minutes earlier → 2h − 7 min = 1h53m.",
+"difficulty": "hard"
+},
+{
+"question": "A shape on 1 cm² grid has 14 full squares and 6 half-squares. What is its area?",
+"options": {
+"A": "15 cm²",
+"B": "16 cm²",
+"C": "17 cm²",
+"D": "18 cm²"},
+"answer": "C",
+"details": "6 half-squares = 3 full squares. Total = 14 + 3 = 17 cm².",
+"difficulty": "hard"
+},
+{
+"question": "A 2.4 km walk is split into 3 equal parts. How long is each part in metres?",
+"options": {
+"A": "600 m",
+"B": "700 m",
+"C": "800 m",
+"D": "900 m"},
+"answer": "C",
+"details": "2.4 km = 2,400 m. 2,400 ÷ 3 = 800 m.",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle has length 9 cm and perimeter 30 cm. What is its area?",
+"options": {
+"A": "45 cm²",
+"B": "54 cm²",
+"C": "63 cm²",
+"D": "72 cm²"},
+"answer": "B",
+"details": "Perimeter = 2(l + w) = 30 → l + w = 15 → 9 + w = 15 → w = 6 cm. Area = 9 × 6 = 54 cm².",
+"difficulty": "hard"
+},
+{
+"question": "How many months are in 5 years and 9 months?",
+"options": {
+"A": "60 months",
+"B": "63 months",
+"C": "66 months",
+"D": "69 months"},
+"answer": "D",
+"details": "5 years = 60 months + 9 = 69 months.",
+"difficulty": "hard"
+},
+{
+"question": "A digital clock shows 00:25. In 12-hour format, this is:",
+"options": {
+"A": "12:25 am",
+"B": "12:25 pm",
+"C": "0:25 am",
+"D": "1:25 am"},
+"answer": "A",
+"details": "00:00 is 12:00 am (midnight). So 00:25 = 12:25 am.",
+"difficulty": "hard"
+},
+{
+"question": "A ribbon 4.2 m long is cut into 6 equal pieces. Each piece is then cut in half. How long is each final piece in cm?",
+"options": {
+"A": "30 cm",
+"B": "35 cm",
+"C": "40 cm",
+"D": "45 cm"},
+"answer": "B",
+"details": "4.2 m = 420 cm. ÷6 = 70 cm per piece. Cut in half → 35 cm.",
+"difficulty": "hard"
+},
+{
+"question": "How many minutes are there from 10:40 to 13:15?",
+"options": {
+"A": "150 min",
+"B": "155 min",
+"C": "160 min",
+"D": "165 min"},
+"answer": "B",
+"details": "10:40 to 13:40 = 3h = 180 min. But end is 13:15, which is 25 min earlier → 180 − 25 = 155 min.",
+"difficulty": "hard"
+},
+{
+"question": "A box is 30 cm long, 20 cm wide, and 10 cm high. What is the perimeter of its base?",
+"options": {
+"A": "60 cm",
+"B": "80 cm",
+"C": "100 cm",
+"D": "120 cm"},
+"answer": "C",
+"details": "Base = 30 cm by 20 cm rectangle. Perimeter = 2×(30+20) = 100 cm.",
+"difficulty": "hard"
+},
+{
+"question": "A film lasts 1 hour 48 minutes. It ends at 21:05. What time did it start?",
+"options": {
+"A": "19:17",
+"B": "19:27",
+"C": "19:37",
+"D": "19:47"},
+"answer": "A",
+"details": "21:05 minus 1h = 20:05. Minus 48 min: 5 min to 20:00, then 43 min to 19:17.",
+"difficulty": "hard"
+},
+{
+"question": "A shape is made of three rectangles: 5×3, 3×2, and 2×3, arranged to form a larger rectangle. What is the total area?",
+"options": {
+"A": "21 cm²",
+"B": "24 cm²",
+"C": "27 cm²",
+"D": "30 cm²"},
+"answer": "C",
+"details": "5×3=15, 3×2=6, 2×3=6. Total = 15+6+6=27 cm².",
+"difficulty": "hard"
+},
+{
+"question": "£15.60 is shared equally between 4 children. How much does each get?",
+"options": {
+"A": "£3.80",
+"B": "£3.90",
+"C": "£4.00",
+"D": "£4.10"},
+"answer": "B",
+"details": "£15.60 ÷ 4 = £3.90.",
+"difficulty": "hard"
+},
+{
+"question": "How many days are there in February in a leap year?",
+"options": {
+"A": "28",
+"B": "29",
+"C": "30",
+"D": "31"},
+"answer": "B",
+"details": "Leap year February has 29 days.",
+"difficulty": "hard"
+},
+{
+"question": "A car travels 240 km in 3 hours. How far does it travel in 45 minutes at the same speed?",
+"options": {
+"A": "40 km",
+"B": "50 km",
+"C": "60 km",
+"D": "70 km"},
+"answer": "C",
+"details": "Speed = 240 km ÷ 3 h = 80 km/h. 45 min = 0.75 h. Distance = 80 × 0.75 = 60 km.",
+"difficulty": "hard"
+},
+{
+"question": "A square has side 8.5 cm. What is its perimeter?",
+"options": {
+"A": "32 cm",
+"B": "33 cm",
+"C": "34 cm",
+"D": "35 cm"},
+"answer": "C",
+"details": "Perimeter = 4 × 8.5 = 34 cm.",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle is 7.2 cm by 4.5 cm. What is its area in cm²?",
+"options": {
+"A": "30.6 cm²",
+"B": "31.5 cm²",
+"C": "32.4 cm²",
+"D": "33.3 cm²"},
+"answer": "C",
+"details": "7.2 × 4.5 = (72/10)×(45/10) = 3,240/100 = 32.4 cm².",
+"difficulty": "hard"
+},
+{
+"question": "Which time is 9:30 pm in 24-hour clock?",
+"options": {
+"A": "09:30",
+"B": "19:30",
+"C": "20:30",
+"D": "21:30"},
+"answer": "D",
+"details": "9 pm = 21:00, so 9:30 pm = 21:30.",
+"difficulty": "hard"
+},
+{
+"question": "A packet weighs 1.25 kg. 7 packets weigh how many grams?",
+"options": {
+"A": "7,500 g",
+"B": "8,000 g",
+"C": "8,500 g",
+"D": "8,750 g"},
+"answer": "D",
+"details": "1.25 kg = 1,250 g. 7 × 1,250 = 8,750 g.",
+"difficulty": "hard"
+},
+{
+"question": "A garden path is 12 m long and 80 cm wide. What is its area in square metres?",
+"options": {
+"A": "8.6 m²",
+"B": "9.2 m²",
+"C": "9.6 m²",
+"D": "10.0 m²"},
+"answer": "C",
+"details": "80 cm = 0.8 m. Area = 12 × 0.8 = 9.6 m².",
+"difficulty": "hard"
+},
+{
+"question": "A clock shows 4:45. How many minutes until 6:20?",
+"options": {
+"A": "85 min",
+"B": "90 min",
+"C": "95 min",
+"D": "100 min"},
+"answer": "C",
+"details": "4:45 to 6:00 = 1h15m = 75 min. 6:00 to 6:20 = 20 min. Total = 95 min.",
+"difficulty": "hard"
+},
+{
+"question": "A shape on grid paper covers 20 full squares and 8 half-squares. What is its area?",
+"options": {
+"A": "22 cm²",
+"B": "24 cm²",
+"C": "26 cm²",
+"D": "28 cm²"},
+"answer": "B",
+"details": "8 half-squares = 4 full squares. Total = 20 + 4 = 24 cm².",
+"difficulty": "hard"
+},
+{
+"question": "A train journey is 2 h 35 min. It starts at 10:50. What time does it finish?",
+"options": {
+"A": "13:15",
+"B": "13:20",
+"C": "13:25",
+"D": "13:30"},
+"answer": "C",
+"details": "10:50 + 2h = 12:50. +35 min = 13:25.",
+"difficulty": "hard"
+},
+{
+"question": "How many seconds are in 3/4 of an hour?",
+"options": {
+"A": "2,400 s",
+"B": "2,700 s",
+"C": "3,000 s",
+"D": "3,600 s"},
+"answer": "B",
+"details": "1 hour = 3,600 s. 3/4 × 3,600 = 2,700 s.",
+"difficulty": "hard"
+},
+{
+"question": "A 5.4 m rope is cut into 9 equal pieces. Each piece is used as the side of a square. What is the perimeter of one square?",
+"options": {
+"A": "1.8 m",
+"B": "2.0 m",
+"C": "2.2 m",
+"D": "2.4 m"},
+"answer": "D",
+"details": "Each piece = 5.4 ÷ 9 = 0.6 m. Square perimeter = 4 × 0.6 = 2.4 m.",
+"difficulty": "hard"
+},
+{
+"question": "A shop sells apples at £1.80 per kg. How much for 750 g?",
+"options": {
+"A": "£1.25",
+"B": "£1.30",
+"C": "£1.35",
+"D": "£1.40"},
+"answer": "C",
+"details": "750 g = 0.75 kg. 0.75 × £1.80 = £1.35.",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle is 15 cm by 9 cm. A square has the same perimeter. What is the square’s area?",
+"options": {
+"A": "121 cm²",
+"B": "144 cm²",
+"C": "169 cm²",
+"D": "196 cm²"},
+"answer": "B",
+"details": "Rectangle perimeter = 2×(15+9)=48 cm. Square side = 48÷4=12 cm. Area = 12×12=144 cm².",
+"difficulty": "hard"
+},
+{
+"question": "How many minutes are there in 2 days?",
+"options": {
+"A": "2,400 min",
+"B": "2,880 min",
+"C": "3,200 min",
+"D": "3,600 min"},
+"answer": "B",
+"details": "1 day = 24 × 60 = 1,440 min. 2 days = 2,880 min.",
+"difficulty": "hard"
+},
+{
+"question": "A digital clock shows 18:40. In 12-hour format, this is:",
+"options": {
+"A": "6:40 am",
+"B": "6:40 pm",
+"C": "8:40 pm",
+"D": "10:40 pm"},
+"answer": "B",
+"details": "18:00 = 6 pm, so 18:40 = 6:40 pm.",
+"difficulty": "hard"
+},
+{
+"question": "A shape is made of a 6×5 rectangle with a 2×3 rectangle removed from one corner. What is the area?",
+"options": {
+"A": "22 cm²",
+"B": "24 cm²",
+"C": "26 cm²",
+"D": "28 cm²"},
+"answer": "B",
+"details": "Full = 30 cm². Removed = 6 cm². Remaining = 24 cm².",
+"difficulty": "hard"
+},
+{
+"question": "£23.40 is shared between 6 friends. How much does each get?",
+"options": {
+"A": "£3.80",
+"B": "£3.90",
+"C": "£4.00",
+"D": "£4.10"},
+"answer": "B",
+"details": "£23.40 ÷ 6 = £3.90.",
+"difficulty": "hard"
+},
+{
+"question": "A bus leaves at 14:20 and arrives at 16:55. The timetable says the journey is 2 h 20 min. How long was the delay?",
+"options": {
+"A": "10 min",
+"B": "15 min",
+"C": "20 min",
+"D": "25 min"},
+"answer": "B",
+"details": "Actual = 14:20 to 16:55 = 2h35m. Timetable = 2h20m. Delay = 15 min.",
+"difficulty": "hard"
+},
+{
+"question": "A square has area 81 cm². What is its perimeter?",
+"options": {
+"A": "27 cm",
+"B": "32 cm",
+"C": "36 cm",
+"D": "40 cm"},
+"answer": "C",
+"details": "Side = √81 = 9 cm. Perimeter = 4 × 9 = 36 cm.",
+"difficulty": "hard"
+},
+{
+"question": "Which is the greatest?",
+"options": {
+"A": "5.2 km",
+"B": "5,050 m",
+"C": "5 km 300 m",
+"D": "5,250 m"},
+"answer": "C",
+"details": "A = 5,200 m; B = 5,050 m; C = 5,300 m; D = 5,250 m. Greatest is 5,300 m → C.",
+"difficulty": "hard"
+},
+{
+"question": "A film starts at 18:35 and lasts 125 minutes. What time does it end?",
+"options": {
+"A": "20:30",
+"B": "20:40",
+"C": "20:50",
+"D": "21:00"},
+"answer": "B",
+"details": "125 min = 2h5m. 18:35 + 2h = 20:35. +5m = 20:40.",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle is 11 cm long. Its width is 3 cm less than its length. What is its perimeter?",
+"options": {
+"A": "32 cm",
+"B": "34 cm",
+"C": "36 cm",
+"D": "38 cm"},
+"answer": "D",
+"details": "Width = 11 − 3 = 8 cm. Perimeter = 2×(11+8) = 38 cm.",
+"difficulty": "hard"
+},
+{
+"question": "How many hours are in 540 minutes?",
+"options": {
+"A": "8 h",
+"B": "9 h",
+"C": "10 h",
+"D": "11 h"},
+"answer": "B",
+"details": "540 ÷ 60 = 9 hours.",
+"difficulty": "hard"
+},
+{
+"question": "A 3.6 kg bag of flour is used to make 12 identical cakes. How much flour in grams per cake?",
+"options": {
+"A": "250 g",
+"B": "300 g",
+"C": "350 g",
+"D": "400 g"},
+"answer": "B",
+"details": "3.6 kg = 3,600 g. 3,600 ÷ 12 = 300 g.",
+"difficulty": "hard"
+},
+{
+"question": "A shape has an area of 45 cm² and is made of 1 cm² squares. If it is 5 squares wide, how many squares long is it?",
+"options": {
+"A": "7",
+"B": "8",
+"C": "9",
+"D": "10"},
+"answer": "C",
+"details": "Area = length × width → 45 = l × 5 → l = 9.",
+"difficulty": "hard"
+},
+{
+"question": "A clock shows 22:15. How many minutes until midnight?",
+"options": {
+"A": "95 min",
+"B": "100 min",
+"C": "105 min",
+"D": "110 min"},
+"answer": "C",
+"details": "Midnight = 24:00 or 00:00. 22:15 to 24:00 = 1h45m = 105 min.",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle’s length is 3 times its width. Perimeter is 48 cm. What is the area?",
+"options": {
+"A": "96 cm²",
+"B": "108 cm²",
+"C": "120 cm²",
+"D": "132 cm²"},
+"answer": "B",
+"details": "Let w = x, l = 3x. Perimeter = 2(x + 3x) = 8x = 48 → x = 6. So w=6, l=18. Area = 6×18=108 cm².",
+"difficulty": "hard"
+},
+{
+"question": "A bottle holds 2.25 L. How many 150 mL glasses can be filled?",
+"options": {
+"A": "12",
+"B": "13",
+"C": "14",
+"D": "15"},
+"answer": "D",
+"details": "2.25 L = 2,250 mL. 2,250 ÷ 150 = 15.",
+"difficulty": "hard"
+},
+{
+"question": "A train due at 11:40 arrives at 12:08. How late is it?",
+"options": {
+"A": "24 min",
+"B": "26 min",
+"C": "28 min",
+"D": "30 min"},
+"answer": "C",
+"details": "11:40 to 12:00 = 20 min, +8 min = 28 min late.",
+"difficulty": "hard"
+},
+{
+"question": "A square and a rectangle have the same perimeter. Square side = 10 cm. Rectangle length = 14 cm. What is rectangle width?",
+"options": {
+"A": "4 cm",
+"B": "5 cm",
+"C": "6 cm",
+"D": "7 cm"},
+"answer": "C",
+"details": "Square perimeter = 40 cm. Rectangle: 2(14 + w) = 40 → 14 + w = 20 → w = 6 cm.",
+"difficulty": "hard"
+},
+{
+"question": "How many months are there from 1st March to 31st October inclusive?",
+"options": {
+"A": "7",
+"B": "8",
+"C": "9",
+"D": "10"},
+"answer": "B",
+"details": "Mar, Apr, May, Jun, Jul, Aug, Sep, Oct = 8 months.",
+"difficulty": "hard"
+},
+{
+"question": "A path is 8.4 m long and 1.5 m wide. What is its area in m²?",
+"options": {
+"A": "11.6 m²",
+"B": "12.0 m²",
+"C": "12.4 m²",
+"D": "12.6 m²"},
+"answer": "D",
+"details": "8.4 × 1.5 = 12.6 m².",
+"difficulty": "hard"
+},
+{
+"question": "A shape on grid paper: 7 rows of 5 squares, but the bottom-right 3 squares are missing. What is the area?",
+"options": {
+"A": "30 cm²",
+"B": "31 cm²",
+"C": "32 cm²",
+"D": "33 cm²"},
+"answer": "C",
+"details": "Full = 7×5=35. Minus 3 = 32 cm².",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle is 9.6 cm by 4.5 cm. What is its perimeter?",
+"options": {
+"A": "26.2 cm",
+"B": "27.4 cm",
+"C": "28.2 cm",
+"D": "29.4 cm"},
+"answer": "C",
+"details": "Perimeter = 2×(9.6 + 4.5) = 2×14.1 = 28.2 cm.",
+"difficulty": "hard"
+},
+{
+"question": "A film lasts 1 hour 55 minutes. It starts at 19:20. What time does it end?",
+"options": {
+"A": "21:05",
+"B": "21:10",
+"C": "21:15",
+"D": "21:20"},
+"answer": "C",
+"details": "19:20 + 1h = 20:20. +55 min = 21:15.",
+"difficulty": "hard"
+},
+{
+"question": "How many seconds are in 1.8 minutes?",
+"options": {
+"A": "98 s",
+"B": "100 s",
+"C": "108 s",
+"D": "118 s"},
+"answer": "C",
+"details": "1.8 × 60 = 108 seconds.",
+"difficulty": "hard"
+},
+{
+"question": "A 4.5 km run is completed in 30 minutes. What is the speed in km/h?",
+"options": {
+"A": "8 km/h",
+"B": "9 km/h",
+"C": "10 km/h",
+"D": "11 km/h"},
+"answer": "B",
+"details": "30 min = 0.5 h. Speed = distance/time = 4.5 ÷ 0.5 = 9 km/h.",
+"difficulty": "hard"
+},
+{
+"question": "A shape is made of two rectangles: 7×4 and 5×3, overlapping by a 2×2 square. What is the total area?",
+"options": {
+"A": "39 cm²",
+"B": "41 cm²",
+"C": "43 cm²",
+"D": "45 cm²"},
+"answer": "A",
+"details": "7×4=28, 5×3=15, overlap=4. Total = 28+15−4=39 cm².",
+"difficulty": "hard"
+},
+{
+"question": "A packet of 8 biscuits weighs 240 g. How much do 5 biscuits weigh?",
+"options": {
+"A": "120 g",
+"B": "130 g",
+"C": "140 g",
+"D": "150 g"},
+"answer": "D",
+"details": "1 biscuit = 240 ÷ 8 = 30 g. 5 biscuits = 150 g.",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle is 14 cm long. Its area is 98 cm². What is its perimeter?",
+"options": {
+"A": "36 cm",
+"B": "38 cm",
+"C": "40 cm",
+"D": "42 cm"},
+"answer": "D",
+"details": "Width = 98 ÷ 14 = 7 cm. Perimeter = 2×(14+7)=42 cm.",
+"difficulty": "hard"
+},
+{
+"question": "How many days are there in June, July, and August combined?",
+"options": {
+"A": "90",
+"B": "91",
+"C": "92",
+"D": "93"},
+"answer": "C",
+"details": "June=30, July=31, Aug=31. Total=30+31+31=92.",
+"difficulty": "hard"
+},
+{
+"question": "A digital clock shows 03:15. What time was it 50 minutes ago?",
+"options": {
+"A": "02:15",
+"B": "02:25",
+"C": "02:35",
+"D": "02:45"},
+"answer": "B",
+"details": "03:15 minus 15 min = 03:00. Minus 35 more = 02:25.",
+"difficulty": "hard"
+},
+{
+"question": "A rope 6.3 m long is cut into 7 equal pieces. Each piece is used as the side of an equilateral triangle. What is the perimeter of one triangle?",
+"options": {
+"A": "2.4 m",
+"B": "2.7 m",
+"C": "3.0 m",
+"D": "3.3 m"},
+"answer": "B",
+"details": "Each piece = 6.3 ÷ 7 = 0.9 m. Triangle perimeter = 3 × 0.9 = 2.7 m.",
+"difficulty": "hard"
+},
+{
+"question": "A shop sells juice at £2.40 for 1.5 L. What is the cost per litre?",
+"options": {
+"A": "£1.40",
+"B": "£1.50",
+"C": "£1.60",
+"D": "£1.70"},
+"answer": "C",
+"details": "£2.40 ÷ 1.5 = £1.60 per litre.",
+"difficulty": "hard"
+},
+{
+"question": "A square has perimeter 52 cm. What is its area?",
+"options": {
+"A": "144 cm²",
+"B": "169 cm²",
+"C": "196 cm²",
+"D": "225 cm²"},
+"answer": "B",
+"details": "Side = 52 ÷ 4 = 13 cm. Area = 13 × 13 = 169 cm².",
+"difficulty": "hard"
+},
+{
+"question": "How many minutes are in 1.75 hours?",
+"options": {
+"A": "95 min",
+"B": "100 min",
+"C": "105 min",
+"D": "110 min"},
+"answer": "C",
+"details": "1.75 × 60 = 105 minutes.",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle is 10.5 cm by 6 cm. What is its area?",
+"options": {
+"A": "60 cm²",
+"B": "62 cm²",
+"C": "63 cm²",
+"D": "65 cm²"},
+"answer": "C",
+"details": "10.5 × 6 = 63 cm².",
+"difficulty": "hard"
+},
+{
+"question": "A train leaves at 08:55 and arrives at 11:20. How long was the journey?",
+"options": {
+"A": "2 h 15 min",
+"B": "2 h 20 min",
+"C": "2 h 25 min",
+"D": "2 h 30 min"},
+"answer": "C",
+"details": "08:55 to 11:00 = 2h5m, +20 min = 2h25m.",
+"difficulty": "hard"
+},
+{
+"question": "A shape has area 50 cm² and is made of full and half squares. There are 12 half-squares. How many full squares?",
+"options": {
+"A": "40",
+"B": "42",
+"C": "44",
+"D": "46"},
+"answer": "C",
+"details": "12 half-squares = 6 full squares. So full squares = 50 − 6 = 44.",
+"difficulty": "hard"
+},
+{
+"question": "£18.60 is divided equally among 5 children. How much does each get?",
+"options": {
+"A": "£3.62",
+"B": "£3.70",
+"C": "£3.72",
+"D": "£3.80"},
+"answer": "C",
+"details": "£18.60 ÷ 5 = £3.72.",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle’s width is half its length. Perimeter is 36 cm. What is the area?",
+"options": {
+"A": "64 cm²",
+"B": "72 cm²",
+"C": "80 cm²",
+"D": "88 cm²"},
+"answer": "B",
+"details": "Let l = 2x, w = x. Perimeter = 2(2x + x) = 6x = 36 → x=6. So l=12, w=6. Area=72 cm².",
+"difficulty": "hard"
+},
+{
+"question": "How many seconds are in 2 hours 10 minutes?",
+"options": {
+"A": "7,200 s",
+"B": "7,500 s",
+"C": "7,800 s",
+"D": "8,100 s"},
+"answer": "C",
+"details": "2h = 7,200 s. 10 min = 600 s. Total = 7,800 s.",
+"difficulty": "hard"
+},
+{
+"question": "A 2.8 L container is filled to 75%. How much liquid is in it in mL?",
+"options": {
+"A": "1,900 mL",
+"B": "2,000 mL",
+"C": "2,100 mL",
+"D": "2,200 mL"},
+"answer": "C",
+"details": "75% of 2.8 L = 0.75 × 2,800 mL = 2,100 mL.",
+"difficulty": "hard"
+},
+{
+"question": "A clock shows 15:40. How many minutes until 18:15?",
+"options": {
+"A": "145 min",
+"B": "150 min",
+"C": "155 min",
+"D": "160 min"},
+"answer": "C",
+"details": "15:40 to 18:40 = 3h = 180 min. Minus 25 min (to 18:15) = 155 min.",
+"difficulty": "hard"
+},
+{
+"question": "A garden is 12 m by 8 m. A 1 m wide path is built around it. What is the outer perimeter of the path?",
+"options": {
+"A": "40 m",
+"B": "44 m",
+"C": "48 m",
+"D": "52 m"},
+"answer": "C",
+"details": "Outer dimensions: 12+2=14 m, 8+2=10 m. Perimeter = 2×(14+10)=48 m.",
+"difficulty": "hard"
+},
+{
+"question": "A film starts at 13:55 and ends at 15:40. How long is it?",
+"options": {
+"A": "1 h 35 min",
+"B": "1 h 40 min",
+"C": "1 h 45 min",
+"D": "1 h 50 min"},
+"answer": "C",
+"details": "13:55 to 15:00 = 1h5m, +40 min = 1h45m.",
+"difficulty": "hard"
+},
+{
+"question": "How many hours and minutes are in 380 minutes?",
+"options": {
+"A": "6 h 10 min",
+"B": "6 h 20 min",
+"C": "6 h 30 min",
+"D": "6 h 40 min"},
+"answer": "B",
+"details": "380 ÷ 60 = 6 remainder 20 → 6 h 20 min.",
+"difficulty": "hard"
+},
+{
+"question": "A packet of 5 apples weighs 750 g. How much do 3 apples weigh?",
+"options": {
+"A": "400 g",
+"B": "420 g",
+"C": "450 g",
+"D": "480 g"},
+"answer": "C",
+"details": "1 apple = 750 ÷ 5 = 150 g. 3 apples = 450 g.",
+"difficulty": "hard"
+},
+{
+"question": "A shape is 9 squares long and 6 squares wide, with a 3×2 rectangle missing from the centre. What is the area?",
+"options": {
+"A": "42 cm²",
+"B": "44 cm²",
+"C": "46 cm²",
+"D": "48 cm²"},
+"answer": "D",
+"details": "Full = 9×6=54. Missing = 6. Remaining = 48 cm².",
+"difficulty": "hard"
+},
+{
+"question": "A bus journey is scheduled for 1 h 40 min. It departs at 15:15 and arrives at 17:05. How late is it?",
+"options": {
+"A": "8 min",
+"B": "10 min",
+"C": "12 min",
+"D": "15 min"},
+"answer": "B",
+"details": "Scheduled arrival = 15:15 + 1h40m = 16:55. Actual = 17:05. Delay = 10 min.",
+"difficulty": "hard"
+},
+{
+"question": "A square has area 121 cm². What is its perimeter?",
+"options": {
+"A": "40 cm",
+"B": "42 cm",
+"C": "44 cm",
+"D": "46 cm"},
+"answer": "C",
+"details": "Side = √121 = 11 cm. Perimeter = 4 × 11 = 44 cm.",
+"difficulty": "hard"
+}
+]

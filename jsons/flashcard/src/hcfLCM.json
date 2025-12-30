@@ -498,5 +498,55 @@
     "question": "What is the LCM of 144 and 180?",
     "answer": "720",
     "details": "144 = 2⁴ × 3², 180 = 2² × 3² × 5. LCM = 2⁴ × 3² × 5 = 16 × 9 × 5 = 720."
+  },
+  {
+    "question": "What is the Highest Common Factor (HCF) of 18 and 30?",
+    "answer": "6",
+    "details": "The factors of 18 are: 1, 2, 3, 6, 9, 18. The factors of 30 are: 1, 2, 3, 5, 6, 10, 15, 30. The common factors are 1, 2, 3, and 6. The largest of these common factors is 6."
+  },
+  {
+    "question": "What is the Least Common Multiple (LCM) of 8 and 12?",
+    "answer": "24",
+    "details": "Multiples of 8 are: 8, 16, 24, 32, ... Multiples of 12 are: 12, 24, 36, ... The smallest number that appears in both lists is 24."
+  },
+  {
+    "question": "Two buses leave the station at 9:00 AM. Bus A leaves every 15 minutes, and Bus B leaves every 20 minutes. At what time will they next leave the station at the exact same time?",
+    "answer": "10:00 AM",
+    "details": "This is an LCM problem. Find the LCM of 15 and 20. Multiples of 15: 15, 30, 45, 60, ... Multiples of 20: 20, 40, 60, ... The LCM is 60. Since the buses leave at 9:00 AM, they will leave together again after 60 minutes, which is 1 hour later, at 10:00 AM."
+  },
+  {
+    "question": "A gardener has 36 red flowers and 48 yellow flowers. She wants to create identical bunches of flowers, with no flowers left over. What is the greatest number of bunches she can make?",
+    "answer": "12 bunches",
+    "details": "This is an HCF problem, as we seek the largest common dividing number. Prime factorization: 36 = 2² * 3². 48 = 2⁴ * 3. HCF is found by taking the lowest power of common factors: 2² * 3 = 4 * 3 = 12. She can make 12 identical bunches."
+  },
+  {
+    "question": "Which of the following numbers is the HCF of two consecutive prime numbers (e.g., 5 and 7)?",
+    "answer": "1",
+    "details": "The definition of prime numbers means their only factors are 1 and themselves. Since they are different numbers, their only common factor will always be 1. Therefore, the HCF of any two distinct prime numbers is always 1."
+  },
+  {
+    "question": "The LCM of two numbers is 72, and their HCF is 6. If one of the numbers is 18, what is the other number?",
+    "answer": "24",
+    "details": "Use the formula: Number_1 * Number_2 = HCF * LCM. Let the unknown number be B. 18 * B = 6 * 72. 18B = 432. B = 432 % 18 = 24. The other number is 24."
+  },
+  {
+    "question": "Using the prime factorization method, what is the LCM of 10 and 14?",
+    "answer": "70",
+    "details": "Prime factorization: 10 = 2 * 5. 14 = 2 * 7. LCM is found by taking the highest power of all prime factors: 2 * 5 * 7 = 70. The LCM is 70."
+  },
+  {
+    "question": "If the HCF of two numbers is 5, what must be true about both numbers?",
+    "answer": "Both numbers are multiples of 5.",
+    "details": "The HCF is the highest factor that divides both numbers exactly. If 5 is the HCF, it means that 5 is a common factor, and therefore, both original numbers must be perfectly divisible by 5, making them multiples of 5."
+  },
+  {
+    "question": "Find the LCM of the smallest prime number (2) and the smallest composite number (4).",
+    "answer": "4",
+    "details": "The smallest prime number is 2. The smallest composite number is 4. Multiples of 2 are: 2, 4, 6, 8, ... Multiples of 4 are: 4, 8, 12, ... The Least Common Multiple is 4. (Note: Since 4 is a multiple of 2, the LCM is simply 4)."
+  },
+  {
+    "question": "A construction worker has two pieces of metal piping, one 45 cm long and the other 60 cm long. He needs to cut both into pieces of equal length without any waste. What is the greatest possible length for each piece?",
+    "answer": "15 cm",
+    "details": "This is an HCF problem. Find the HCF of 45 and 60. Factors of 45: 1, 3, 5, 9, 15, 45. Factors of 60: 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60. The common factors include 1, 3, 5, and 15. The greatest common factor is 15. The greatest possible length is 15 cm."
   }
 ]

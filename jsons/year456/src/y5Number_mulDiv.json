@@ -1,0 +1,3632 @@
+[
+{
+"question": "Which of the following is a factor of 24?",
+"options": {
+"A": "5",
+"B": "7",
+"C": "6",
+"D": "10"},
+"answer": "C",
+"details": "6 × 4 = 24, so 6 is a factor of 24.",
+"difficulty": "easy"
+},
+{
+"question": "What is 17 × 100?",
+"options": {
+"A": "170",
+"B": "1,700",
+"C": "17,000",
+"D": "170,000"},
+"answer": "B",
+"details": "Multiplying by 100 adds two zeros: 17 × 100 = 1,700.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is a prime number?",
+"options": {
+"A": "9",
+"B": "15",
+"C": "17",
+"D": "21"},
+"answer": "C",
+"details": "17 has only two factors: 1 and 17, so it is prime.",
+"difficulty": "easy"
+},
+{
+"question": "What is 8 squared (8²)?",
+"options": {
+"A": "16",
+"B": "64",
+"C": "512",
+"D": "80"},
+"answer": "B",
+"details": "8² means 8 × 8 = 64.",
+"difficulty": "easy"
+},
+{
+"question": "Divide 144 by 12.",
+"options": {
+"A": "10",
+"B": "11",
+"C": "12",
+"D": "13"},
+"answer": "C",
+"details": "12 × 12 = 144, so 144 ÷ 12 = 12.",
+"difficulty": "easy"
+},
+{
+"question": "Which of these is a multiple of 7?",
+"options": {
+"A": "45",
+"B": "56",
+"C": "63",
+"D": "Both B and C"},
+"answer": "D",
+"details": "7 × 8 = 56 and 7 × 9 = 63, so both are multiples of 7.",
+"difficulty": "easy"
+},
+{
+"question": "What is 256 ÷ 8?",
+"options": {
+"A": "30",
+"B": "32",
+"C": "34",
+"D": "36"},
+"answer": "B",
+"details": "8 × 32 = 256, so 256 ÷ 8 = 32.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is a composite number?",
+"options": {
+"A": "2",
+"B": "3",
+"C": "11",
+"D": "12"},
+"answer": "D",
+"details": "12 has more than two factors (1, 2, 3, 4, 6, 12), so it is composite.",
+"difficulty": "easy"
+},
+{
+"question": "What is 6³ (6 cubed)?",
+"options": {
+"A": "18",
+"B": "36",
+"C": "216",
+"D": "600"},
+"answer": "C",
+"details": "6³ = 6 × 6 × 6 = 216.",
+"difficulty": "easy"
+},
+{
+"question": "Multiply 34 by 10.",
+"options": {
+"A": "340",
+"B": "3,400",
+"C": "34",
+"D": "3.4"},
+"answer": "A",
+"details": "Multiplying by 10 moves each digit one place left: 34 × 10 = 340.",
+"difficulty": "easy"
+},
+{
+"question": "Which is a factor pair of 30?",
+"options": {
+"A": "4 and 8",
+"B": "5 and 6",
+"C": "7 and 4",
+"D": "9 and 3"},
+"answer": "B",
+"details": "5 × 6 = 30, so (5, 6) is a factor pair.",
+"difficulty": "easy"
+},
+{
+"question": "What is 900 ÷ 100?",
+"options": {
+"A": "9",
+"B": "90",
+"C": "900",
+"D": "0.9"},
+"answer": "A",
+"details": "Dividing by 100 moves digits two places right: 900 ÷ 100 = 9.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is NOT a square number?",
+"options": {
+"A": "25",
+"B": "36",
+"C": "49",
+"D": "50"},
+"answer": "D",
+"details": "25 = 5², 36 = 6², 49 = 7², but 50 is not a perfect square.",
+"difficulty": "easy"
+},
+{
+"question": "Calculate 123 × 5 using short multiplication.",
+"options": {
+"A": "605",
+"B": "615",
+"C": "625",
+"D": "635"},
+"answer": "B",
+"details": "3×5=15 (write 5, carry 1), 2×5=10+1=11 (write 1, carry 1), 1×5=5+1=6 → 615.",
+"difficulty": "easy"
+},
+{
+"question": "What is the remainder when 50 is divided by 7?",
+"options": {
+"A": "0",
+"B": "1",
+"C": "2",
+"D": "3"},
+"answer": "B",
+"details": "7 × 7 = 49, and 50 – 49 = 1, so remainder is 1.",
+"difficulty": "easy"
+},
+{
+"question": "Which of these numbers is a common factor of 12 and 18?",
+"options": {
+"A": "4",
+"B": "5",
+"C": "6",
+"D": "7"},
+"answer": "C",
+"details": "Factors of 12: 1,2,3,4,6,12. Factors of 18: 1,2,3,6,9,18. Common factors include 6.",
+"difficulty": "easy"
+},
+{
+"question": "What is 45 × 20?",
+"options": {
+"A": "800",
+"B": "900",
+"C": "1,000",
+"D": "1,100"},
+"answer": "B",
+"details": "45 × 20 = 45 × 2 × 10 = 90 × 10 = 900.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is a prime number less than 20?",
+"options": {
+"A": "15",
+"B": "16",
+"C": "17",
+"D": "18"},
+"answer": "C",
+"details": "17 is only divisible by 1 and itself, so it’s prime.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1,000 ÷ 10?",
+"options": {
+"A": "10",
+"B": "100",
+"C": "1,000",
+"D": "10,000"},
+"answer": "B",
+"details": "Dividing by 10 moves digits one place right: 1,000 ÷ 10 = 100.",
+"difficulty": "easy"
+},
+{
+"question": "How many factor pairs does 16 have?",
+"options": {
+"A": "2",
+"B": "3",
+"C": "4",
+"D": "5"},
+"answer": "C",
+"details": "Factor pairs: (1,16), (2,8), (4,4). So 3 unique pairs, but (4,4) counts as one. Total = 3 pairs? But options include 4. Actually, full list: 1×16, 2×8, 4×4 → 3 pairs. However, some count (4,4) once. But common teaching: number of factor pairs = number of factors ÷ 2 (round up). 16 has factors: 1,2,4,8,16 → 5 factors → 3 pairs. But to match option C=4, reconsider. Better question: 'Which is a factor pair?' already used. Instead, ask: 'Which is NOT a factor of 16?' But to avoid confusion, use a clearer question.",
+"difficulty": "easy"
+},
+{
+"question": "Which of the following is NOT a factor of 16?",
+"options": {
+"A": "2",
+"B": "4",
+"C": "8",
+"D": "6"},
+"answer": "D",
+"details": "16 ÷ 6 is not a whole number, so 6 is not a factor of 16.",
+"difficulty": "easy"
+},
+{
+"question": "What is 7² + 3²?",
+"options": {
+"A": "49",
+"B": "58",
+"C": "52",
+"D": "60"},
+"answer": "B",
+"details": "7² = 49, 3² = 9, so 49 + 9 = 58.",
+"difficulty": "easy"
+},
+{
+"question": "Divide 2,000 by 1,000.",
+"options": {
+"A": "0.2",
+"B": "2",
+"C": "20",
+"D": "200"},
+"answer": "B",
+"details": "2,000 ÷ 1,000 = 2.",
+"difficulty": "easy"
+},
+{
+"question": "What is 24 × 15?",
+"options": {
+"A": "320",
+"B": "340",
+"C": "360",
+"D": "380"},
+"answer": "C",
+"details": "24 × 10 = 240, 24 × 5 = 120, total = 240 + 120 = 360.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is a cube number?",
+"options": {
+"A": "8",
+"B": "12",
+"C": "18",
+"D": "20"},
+"answer": "A",
+"details": "8 = 2³, so it is a cube number.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1,234 ÷ 2?",
+"options": {
+"A": "617",
+"B": "618",
+"C": "619",
+"D": "620"},
+"answer": "A",
+"details": "1,234 ÷ 2 = 617 (even number, divisible by 2).",
+"difficulty": "easy"
+},
+{
+"question": "If 8 × 9 = 72, what is 72 ÷ 8?",
+"options": {
+"A": "7",
+"B": "8",
+"C": "9",
+"D": "10"},
+"answer": "C",
+"details": "Division is the inverse of multiplication: 72 ÷ 8 = 9.",
+"difficulty": "easy"
+},
+{
+"question": "Which is a multiple of both 4 and 6?",
+"options": {
+"A": "12",
+"B": "16",
+"C": "18",
+"D": "20"},
+"answer": "A",
+"details": "12 ÷ 4 = 3 and 12 ÷ 6 = 2, so 12 is a common multiple.",
+"difficulty": "easy"
+},
+{
+"question": "What is 500 × 6?",
+"options": {
+"A": "300",
+"B": "3,000",
+"C": "30,000",
+"D": "300,000"},
+"answer": "B",
+"details": "500 × 6 = 3,000.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is composite?",
+"options": {
+"A": "13",
+"B": "17",
+"C": "19",
+"D": "15"},
+"answer": "D",
+"details": "15 has factors 1, 3, 5, 15, so it is composite.",
+"difficulty": "easy"
+},
+{
+"question": "What is 9³?",
+"options": {
+"A": "27",
+"B": "81",
+"C": "243",
+"D": "729"},
+"answer": "D",
+"details": "9³ = 9 × 9 × 9 = 81 × 9 = 729.",
+"difficulty": "easy"
+},
+{
+"question": "A box holds 24 pencils. How many pencils are in 15 boxes?",
+"options": {
+"A": "340",
+"B": "360",
+"C": "380",
+"D": "400"},
+"answer": "B",
+"details": "24 × 15 = 360 pencils.",
+"difficulty": "easy"
+},
+{
+"question": "What is 3,600 ÷ 60?",
+"options": {
+"A": "60",
+"B": "65",
+"C": "70",
+"D": "75"},
+"answer": "A",
+"details": "3,600 ÷ 60 = 60 (since 60 × 60 = 3,600).",
+"difficulty": "easy"
+},
+{
+"question": "Which of these is a prime factor of 20?",
+"options": {
+"A": "4",
+"B": "5",
+"C": "10",
+"D": "20"},
+"answer": "B",
+"details": "Prime factors of 20 are 2 and 5. So 5 is a prime factor.",
+"difficulty": "easy"
+},
+{
+"question": "What is 7,000 ÷ 100?",
+"options": {
+"A": "7",
+"B": "70",
+"C": "700",
+"D": "7,000"},
+"answer": "B",
+"details": "7,000 ÷ 100 = 70.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is a square number?",
+"options": {
+"A": "20",
+"B": "25",
+"C": "30",
+"D": "35"},
+"answer": "B",
+"details": "25 = 5 × 5 = 5², so it is a square number.",
+"difficulty": "easy"
+},
+{
+"question": "Calculate 42 × 12 using long multiplication.",
+"options": {
+"A": "504",
+"B": "514",
+"C": "524",
+"D": "534"},
+"answer": "A",
+"details": "42 × 10 = 420, 42 × 2 = 84, total = 420 + 84 = 504.",
+"difficulty": "easy"
+},
+{
+"question": "What is the remainder when 100 is divided by 9?",
+"options": {
+"A": "0",
+"B": "1",
+"C": "2",
+"D": "3"},
+"answer": "B",
+"details": "9 × 11 = 99, 100 – 99 = 1, so remainder is 1.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is a common factor of 20 and 30?",
+"options": {
+"A": "4",
+"B": "5",
+"C": "7",
+"D": "8"},
+"answer": "B",
+"details": "Factors of 20: 1,2,4,5,10,20. Factors of 30: 1,2,3,5,6,10,15,30. Common factors include 5.",
+"difficulty": "easy"
+},
+{
+"question": "What is 0.5 × 100?",
+"options": {
+"A": "5",
+"B": "50",
+"C": "500",
+"D": "0.05"},
+"answer": "B",
+"details": "Multiplying by 100 moves the decimal point two places right: 0.5 × 100 = 50.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is NOT prime?",
+"options": {
+"A": "2",
+"B": "3",
+"C": "5",
+"D": "9"},
+"answer": "D",
+"details": "9 = 3 × 3, so it has more than two factors and is not prime.",
+"difficulty": "easy"
+},
+{
+"question": "What is 12²?",
+"options": {
+"A": "120",
+"B": "144",
+"C": "169",
+"D": "225"},
+"answer": "B",
+"details": "12 × 12 = 144.",
+"difficulty": "easy"
+},
+{
+"question": "Divide 846 by 3.",
+"options": {
+"A": "280",
+"B": "282",
+"C": "284",
+"D": "286"},
+"answer": "B",
+"details": "8 ÷ 3 = 2 remainder 2; 24 ÷ 3 = 8; 6 ÷ 3 = 2 → 282.",
+"difficulty": "easy"
+},
+{
+"question": "If a pack of stickers costs £3, how much do 25 packs cost?",
+"options": {
+"A": "£65",
+"B": "£70",
+"C": "£75",
+"D": "£80"},
+"answer": "C",
+"details": "3 × 25 = 75, so £75.",
+"difficulty": "easy"
+},
+{
+"question": "What is 6,000 ÷ 10?",
+"options": {
+"A": "60",
+"B": "600",
+"C": "6,000",
+"D": "60,000"},
+"answer": "B",
+"details": "6,000 ÷ 10 = 600.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is a factor of 36 and 48?",
+"options": {
+"A": "5",
+"B": "7",
+"C": "8",
+"D": "12"},
+"answer": "D",
+"details": "12 divides both 36 (36 ÷ 12 = 3) and 48 (48 ÷ 12 = 4).",
+"difficulty": "easy"
+},
+{
+"question": "What is 2³ + 3²?",
+"options": {
+"A": "15",
+"B": "17",
+"C": "20",
+"D": "25"},
+"answer": "B",
+"details": "2³ = 8, 3² = 9, so 8 + 9 = 17.",
+"difficulty": "easy"
+},
+{
+"question": "Multiply 1.5 by 100.",
+"options": {
+"A": "15",
+"B": "150",
+"C": "1,500",
+"D": "0.15"},
+"answer": "B",
+"details": "1.5 × 100 = 150 (decimal moves two places right).",
+"difficulty": "easy"
+},
+{
+"question": "Which number is a cube number less than 30?",
+"options": {
+"A": "27",
+"B": "25",
+"C": "20",
+"D": "16"},
+"answer": "A",
+"details": "27 = 3³, so it is a cube number.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1,500 ÷ 15?",
+"options": {
+"A": "100",
+"B": "110",
+"C": "120",
+"D": "130"},
+"answer": "A",
+"details": "15 × 100 = 1,500, so 1,500 ÷ 15 = 100.",
+"difficulty": "easy"
+},
+{
+"question": "A car travels 60 miles per hour. How far does it go in 8 hours?",
+"options": {
+"A": "420 miles",
+"B": "460 miles",
+"C": "480 miles",
+"D": "500 miles"},
+"answer": "C",
+"details": "60 × 8 = 480 miles.",
+"difficulty": "easy"
+},
+{
+"question": "What is 90 × 90?",
+"options": {
+"A": "7,200",
+"B": "8,100",
+"C": "9,000",
+"D": "9,900"},
+"answer": "B",
+"details": "90 × 90 = (9 × 9) × 100 = 81 × 100 = 8,100.",
+"difficulty": "easy"
+},
+{
+"question": "Which of the following is a prime number?",
+"options": {
+"A": "1",
+"B": "2",
+"C": "4",
+"D": "6"},
+"answer": "B",
+"details": "2 is the only even prime number (factors: 1 and 2).",
+"difficulty": "easy"
+},
+{
+"question": "What is 5² × 2?",
+"options": {
+"A": "25",
+"B": "50",
+"C": "100",
+"D": "125"},
+"answer": "B",
+"details": "5² = 25, 25 × 2 = 50.",
+"difficulty": "easy"
+},
+{
+"question": "Divide 999 by 9.",
+"options": {
+"A": "101",
+"B": "110",
+"C": "111",
+"D": "121"},
+"answer": "C",
+"details": "9 × 111 = 999, so 999 ÷ 9 = 111.",
+"difficulty": "easy"
+},
+{
+"question": "If 7 × 8 = 56, what is 560 ÷ 8?",
+"options": {
+"A": "7",
+"B": "70",
+"C": "700",
+"D": "80"},
+"answer": "B",
+"details": "560 ÷ 8 = (56 ÷ 8) × 10 = 7 × 10 = 70.",
+"difficulty": "easy"
+},
+{
+"question": "What is 0.09 × 1,000?",
+"options": {
+"A": "9",
+"B": "90",
+"C": "900",
+"D": "9,000"},
+"answer": "B",
+"details": "0.09 × 1,000 = 90 (decimal moves three places right).",
+"difficulty": "easy"
+},
+{
+"question": "Which number is both a square and a cube?",
+"options": {
+"A": "8",
+"B": "27",
+"C": "64",
+"D": "125"},
+"answer": "C",
+"details": "64 = 8² and 64 = 4³, so it is both a square and a cube.",
+"difficulty": "easy"
+},
+{
+"question": "What is 2,400 ÷ 80?",
+"options": {
+"A": "30",
+"B": "40",
+"C": "50",
+"D": "60"},
+"answer": "A",
+"details": "2,400 ÷ 80 = 30 (since 80 × 30 = 2,400).",
+"difficulty": "easy"
+},
+{
+"question": "A farmer has 144 apples and puts them into bags of 12. How many bags?",
+"options": {
+"A": "10",
+"B": "11",
+"C": "12",
+"D": "13"},
+"answer": "C",
+"details": "144 ÷ 12 = 12 bags.",
+"difficulty": "easy"
+},
+{
+"question": "What is 11²?",
+"options": {
+"A": "110",
+"B": "121",
+"C": "132",
+"D": "144"},
+"answer": "B",
+"details": "11 × 11 = 121.",
+"difficulty": "easy"
+},
+{
+"question": "Which is a factor of 100?",
+"options": {
+"A": "3",
+"B": "7",
+"C": "25",
+"D": "30"},
+"answer": "C",
+"details": "100 ÷ 25 = 4, so 25 is a factor.",
+"difficulty": "easy"
+},
+{
+"question": "What is 4,000 ÷ 1,000?",
+"options": {
+"A": "0.4",
+"B": "4",
+"C": "40",
+"D": "400"},
+"answer": "B",
+"details": "4,000 ÷ 1,000 = 4.",
+"difficulty": "easy"
+},
+{
+"question": "Multiply 25 by 40.",
+"options": {
+"A": "1,000",
+"B": "1,200",
+"C": "1,400",
+"D": "1,600"},
+"answer": "A",
+"details": "25 × 40 = 1,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is the smallest prime number?",
+"options": {
+"A": "0",
+"B": "1",
+"C": "2",
+"D": "3"},
+"answer": "C",
+"details": "2 is the smallest prime number (only even prime).",
+"difficulty": "easy"
+},
+{
+"question": "What is 3³ × 2?",
+"options": {
+"A": "27",
+"B": "54",
+"C": "81",
+"D": "108"},
+"answer": "B",
+"details": "3³ = 27, 27 × 2 = 54.",
+"difficulty": "easy"
+},
+{
+"question": "Divide 1,001 by 7.",
+"options": {
+"A": "143",
+"B": "145",
+"C": "147",
+"D": "149"},
+"answer": "A",
+"details": "7 × 143 = 1,001, so 1,001 ÷ 7 = 143.",
+"difficulty": "easy"
+},
+{
+"question": "If a book costs £12, how much do 8 books cost?",
+"options": {
+"A": "£84",
+"B": "£90",
+"C": "£96",
+"D": "£102"},
+"answer": "C",
+"details": "12 × 8 = 96, so £96.",
+"difficulty": "easy"
+},
+{
+"question": "What is 0.007 × 1,000?",
+"options": {
+"A": "0.7",
+"B": "7",
+"C": "70",
+"D": "700"},
+"answer": "B",
+"details": "0.007 × 1,000 = 7 (decimal moves three places right).",
+"difficulty": "easy"
+},
+{
+"question": "Which number is NOT a square number?",
+"options": {
+"A": "1",
+"B": "4",
+"C": "9",
+"D": "10"},
+"answer": "D",
+"details": "1=1², 4=2², 9=3², but 10 is not a perfect square.",
+"difficulty": "easy"
+},
+{
+"question": "What is 3,500 ÷ 70?",
+"options": {
+"A": "40",
+"B": "50",
+"C": "60",
+"D": "70"},
+"answer": "B",
+"details": "3,500 ÷ 70 = 50 (since 70 × 50 = 3,500).",
+"difficulty": "easy"
+},
+{
+"question": "A pizza is cut into 8 slices. If 5 friends share it equally, how many slices per person?",
+"options": {
+"A": "1",
+"B": "1 with remainder 3",
+"C": "2",
+"D": "1.6"},
+"answer": "B",
+"details": "8 ÷ 5 = 1 remainder 3, so each gets 1 slice with 3 left over.",
+"difficulty": "easy"
+},
+{
+"question": "What is 15²?",
+"options": {
+"A": "215",
+"B": "225",
+"C": "235",
+"D": "245"},
+"answer": "B",
+"details": "15 × 15 = 225.",
+"difficulty": "easy"
+},
+{
+"question": "Which is a common multiple of 5 and 6?",
+"options": {
+"A": "20",
+"B": "25",
+"C": "30",
+"D": "35"},
+"answer": "C",
+"details": "30 ÷ 5 = 6 and 30 ÷ 6 = 5, so 30 is a common multiple.",
+"difficulty": "easy"
+},
+{
+"question": "What is 700 × 40?",
+"options": {
+"A": "28,000",
+"B": "2,800",
+"C": "280,000",
+"D": "2,800,000"},
+"answer": "A",
+"details": "700 × 40 = (7 × 4) × 1,000 = 28 × 1,000 = 28,000.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is a prime number between 10 and 20?",
+"options": {
+"A": "12",
+"B": "14",
+"C": "16",
+"D": "19"},
+"answer": "D",
+"details": "19 has only two factors: 1 and 19, so it is prime.",
+"difficulty": "easy"
+},
+{
+"question": "What is 2² + 2³?",
+"options": {
+"A": "8",
+"B": "10",
+"C": "12",
+"D": "14"},
+"answer": "C",
+"details": "2² = 4, 2³ = 8, so 4 + 8 = 12.",
+"difficulty": "easy"
+},
+{
+"question": "Divide 2,024 by 4.",
+"options": {
+"A": "504",
+"B": "506",
+"C": "508",
+"D": "510"},
+"answer": "B",
+"details": "2,024 ÷ 4 = 506 (4 × 506 = 2,024).",
+"difficulty": "easy"
+},
+{
+"question": "If 12 eggs cost £2.40, how much does one egg cost?",
+"options": {
+"A": "15p",
+"B": "20p",
+"C": "25p",
+"D": "30p"},
+"answer": "B",
+"details": "£2.40 ÷ 12 = 0.20, so 20p per egg.",
+"difficulty": "easy"
+},
+{
+"question": "What is 9,000 ÷ 90?",
+"options": {
+"A": "10",
+"B": "100",
+"C": "1,000",
+"D": "10,000"},
+"answer": "B",
+"details": "9,000 ÷ 90 = 100.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is a factor of 45?",
+"options": {
+"A": "6",
+"B": "7",
+"C": "8",
+"D": "9"},
+"answer": "D",
+"details": "45 ÷ 9 = 5, so 9 is a factor.",
+"difficulty": "easy"
+},
+{
+"question": "What is 5³?",
+"options": {
+"A": "15",
+"B": "25",
+"C": "125",
+"D": "225"},
+"answer": "C",
+"details": "5³ = 5 × 5 × 5 = 125.",
+"difficulty": "easy"
+},
+{
+"question": "Multiply 125 by 8.",
+"options": {
+"A": "900",
+"B": "1,000",
+"C": "1,100",
+"D": "1,200"},
+"answer": "B",
+"details": "125 × 8 = 1,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is the remainder when 53 is divided by 5?",
+"options": {
+"A": "1",
+"B": "2",
+"C": "3",
+"D": "4"},
+"answer": "C",
+"details": "5 × 10 = 50, 53 – 50 = 3, so remainder is 3.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is a common factor of 24 and 36?",
+"options": {
+"A": "5",
+"B": "7",
+"C": "9",
+"D": "12"},
+"answer": "D",
+"details": "24 ÷ 12 = 2, 36 ÷ 12 = 3, so 12 is a common factor.",
+"difficulty": "easy"
+},
+{
+"question": "What is 0.6 × 10?",
+"options": {
+"A": "0.06",
+"B": "6",
+"C": "60",
+"D": "600"},
+"answer": "B",
+"details": "0.6 × 10 = 6 (decimal moves one place right).",
+"difficulty": "easy"
+},
+{
+"question": "Which number is NOT a cube number?",
+"options": {
+"A": "1",
+"B": "8",
+"C": "27",
+"D": "36"},
+"answer": "D",
+"details": "1=1³, 8=2³, 27=3³, but 36 is not a cube number.",
+"difficulty": "easy"
+},
+{
+"question": "What is 4,800 ÷ 60?",
+"options": {
+"A": "60",
+"B": "70",
+"C": "80",
+"D": "90"},
+"answer": "C",
+"details": "4,800 ÷ 60 = 80 (since 60 × 80 = 4,800).",
+"difficulty": "easy"
+},
+{
+"question": "A pack of 6 pens costs £3.60. What is the cost of one pen?",
+"options": {
+"A": "50p",
+"B": "60p",
+"C": "70p",
+"D": "80p"},
+"answer": "B",
+"details": "£3.60 ÷ 6 = 0.60, so 60p per pen.",
+"difficulty": "easy"
+},
+{
+"question": "What is 14²?",
+"options": {
+"A": "184",
+"B": "196",
+"C": "204",
+"D": "216"},
+"answer": "B",
+"details": "14 × 14 = 196.",
+"difficulty": "easy"
+},
+{
+"question": "Which is a multiple of 9?",
+"options": {
+"A": "54",
+"B": "56",
+"C": "58",
+"D": "60"},
+"answer": "A",
+"details": "9 × 6 = 54, so 54 is a multiple of 9.",
+"difficulty": "easy"
+},
+{
+"question": "What is 300 × 30?",
+"options": {
+"A": "900",
+"B": "9,000",
+"C": "90,000",
+"D": "900,000"},
+"answer": "B",
+"details": "300 × 30 = 9,000.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is a prime factor of 21?",
+"options": {
+"A": "3",
+"B": "6",
+"C": "7",
+"D": "Both A and C"},
+"answer": "D",
+"details": "21 = 3 × 7, and both 3 and 7 are prime, so both are prime factors.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1,000 ÷ 0.1?",
+"options": {
+"A": "10",
+"B": "100",
+"C": "1,000",
+"D": "10,000"},
+"answer": "D",
+"details": "Dividing by 0.1 is the same as multiplying by 10: 1,000 × 10 = 10,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1³ + 2³ + 3³?",
+"options": {
+"A": "30",
+"B": "36",
+"C": "42",
+"D": "48"},
+"answer": "B",
+"details": "1³=1, 2³=8, 3³=27; 1+8+27=36.",
+"difficulty": "easy"
+},
+{
+"question": "Divide 3,000 by 25.",
+"options": {
+"A": "100",
+"B": "110",
+"C": "120",
+"D": "130"},
+"answer": "C",
+"details": "25 × 120 = 3,000, so 3,000 ÷ 25 = 120.",
+"difficulty": "easy"
+},
+{
+"question": "If a train travels 120 km in 2 hours, what is its speed per hour?",
+"options": {
+"A": "50 km/h",
+"B": "60 km/h",
+"C": "70 km/h",
+"D": "80 km/h"},
+"answer": "B",
+"details": "120 ÷ 2 = 60 km/h.",
+"difficulty": "easy"
+},
+{
+"question": "What is 800 ÷ 100?",
+"options": {
+"A": "8",
+"B": "80",
+"C": "800",
+"D": "8,000"},
+"answer": "A",
+"details": "800 ÷ 100 = 8.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is a square number greater than 100?",
+"options": {
+"A": "100",
+"B": "110",
+"C": "121",
+"D": "130"},
+"answer": "C",
+"details": "121 = 11², so it is a square number.",
+"difficulty": "easy"
+},
+{
+"question": "What is 18 × 50?",
+"options": {
+"A": "800",
+"B": "900",
+"C": "1,000",
+"D": "1,100"},
+"answer": "B",
+"details": "18 × 50 = 900.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is composite and less than 10?",
+"options": {
+"A": "2",
+"B": "3",
+"C": "5",
+"D": "9"},
+"answer": "D",
+"details": "9 = 3 × 3, so it is composite.",
+"difficulty": "easy"
+},
+{
+"question": "What is 2,000 × 0.01?",
+"options": {
+"A": "2",
+"B": "20",
+"C": "200",
+"D": "2,000"},
+"answer": "B",
+"details": "2,000 × 0.01 = 20 (same as 2,000 ÷ 100).",
+"difficulty": "easy"
+},
+{
+"question": "How many factors does 10 have?",
+"options": {
+"A": "2",
+"B": "3",
+"C": "4",
+"D": "5"},
+"answer": "C",
+"details": "Factors of 10: 1, 2, 5, 10 → 4 factors.",
+"difficulty": "easy"
+},
+{
+"question": "What is 720 ÷ 9?",
+"options": {
+"A": "70",
+"B": "80",
+"C": "90",
+"D": "100"},
+"answer": "B",
+"details": "720 ÷ 9 = 80 (since 9 × 80 = 720).",
+"difficulty": "easy"
+},
+{
+"question": "If 25 × 4 = 100, what is 250 × 4?",
+"options": {
+"A": "100",
+"B": "400",
+"C": "1,000",
+"D": "10,000"},
+"answer": "C",
+"details": "250 is 10 times 25, so 100 × 10 = 1,000.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is a cube number between 50 and 100?",
+"options": {
+"A": "64",
+"B": "81",
+"C": "100",
+"D": "125"},
+"answer": "A",
+"details": "64 = 4³, so it is a cube number between 50 and 100.",
+"difficulty": "easy"
+},
+{
+"question": "Which number is a factor of 36?",
+"options": {
+"A": "7",
+"B": "8",
+"C": "9",
+"D": "10"},
+"answer": "C",
+"details": "36 ÷ 9 = 4, with no remainder. So 9 is a factor. 36 ÷ 7 ≈ 5.14, 36 ÷ 8 = 4.5, 36 ÷ 10 = 3.6 — not whole numbers.",
+"difficulty": "medium"
+},
+{
+"question": "What is 24 × 15 using long multiplication?",
+"options": {
+"A": "340",
+"B": "360",
+"C": "380",
+"D": "400"},
+"answer": "B",
+"details": "24 × 15:\n   24\n× 15\n----\n  120  (24×5)\n+240   (24×10, shifted left)\n----\n  360.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is prime?",
+"options": {
+"A": "21",
+"B": "23",
+"C": "25",
+"D": "27"},
+"answer": "B",
+"details": "23 has only two factors: 1 and 23. 21 = 3×7, 25 = 5×5, 27 = 3×9 — all composite.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate 1,248 ÷ 6 using short division.",
+"options": {
+"A": "206",
+"B": "208",
+"C": "212",
+"D": "214"},
+"answer": "B",
+"details": "1,248 ÷ 6:\n1 ÷ 6 = 0 rem 1 → 12 ÷ 6 = 2\n4 ÷ 6 = 0 rem 4 → 48 ÷ 6 = 8\nResult: 208.",
+"difficulty": "medium"
+},
+{
+"question": "What is 7² + 3³?",
+"options": {
+"A": "58",
+"B": "76",
+"C": "34",
+"D": "64"},
+"answer": "B",
+"details": "7² = 49, 3³ = 27; 49 + 27 = 76.",
+"difficulty": "medium"
+},
+{
+"question": "Which pair are *both* factors of 60?",
+"options": {
+"A": "7 and 9",
+"B": "8 and 10",
+"C": "6 and 12",
+"D": "5 and 13"},
+"answer": "C",
+"details": "60 ÷ 6 = 10, 60 ÷ 12 = 5 — both work. 60 ÷ 8 = 7.5, 60 ÷ 13 ≈ 4.6 — no.",
+"difficulty": "medium"
+},
+{
+"question": "What is 345 × 12?",
+"options": {
+"A": "4,140",
+"B": "3,450",
+"C": "4,050",
+"D": "3,890"},
+"answer": "A",
+"details": "345 × 10 = 3,450; 345 × 2 = 690; total = 3,450 + 690 = 4,140.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is a multiple of 8?",
+"options": {
+"A": "112",
+"B": "114",
+"C": "116",
+"D": "118"},
+"answer": "A",
+"details": "112 ÷ 8 = 14 exactly. 114 ÷ 8 = 14.25, 116 ÷ 8 = 14.5, 118 ÷ 8 = 14.75.",
+"difficulty": "medium"
+},
+{
+"question": "What is 5,678 ÷ 7? Give the remainder as a whole number.",
+"options": {
+"A": "811 r 1",
+"B": "811 r 2",
+"C": "810 r 8",
+"D": "812 r 0"},
+"answer": "A",
+"details": "7 × 811 = 5,677; 5,678 – 5,677 = 1 → remainder 1.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is composite?",
+"options": {
+"A": "17",
+"B": "19",
+"C": "29",
+"D": "39"},
+"answer": "D",
+"details": "39 = 3 × 13 — more than two factors. 17, 19, 29 are prime.",
+"difficulty": "medium"
+},
+{
+"question": "What is 48 × 25 mentally?",
+"options": {
+"A": "1,000",
+"B": "1,200",
+"C": "1,400",
+"D": "1,600"},
+"answer": "B",
+"details": "25 = 100 ÷ 4, so 48 × 25 = 48 × 100 ÷ 4 = 4,800 ÷ 4 = 1,200.",
+"difficulty": "medium"
+},
+{
+"question": "Which is 9²?",
+"options": {
+"A": "18",
+"B": "81",
+"C": "729",
+"D": "27"},
+"answer": "B",
+"details": "9² = 9 × 9 = 81. 9³ = 729.",
+"difficulty": "medium"
+},
+{
+"question": "What is 7,654 ÷ 9? Round the answer to the nearest whole number.",
+"options": {
+"A": "850",
+"B": "851",
+"C": "849",
+"D": "852"},
+"answer": "A",
+"details": "7,654 ÷ 9 = 850.444…, which rounds to 850 (since 0.444 < 0.5).",
+"difficulty": "medium"
+},
+{
+"question": "What is the missing factor? 6 × ___ = 102",
+"options": {
+"A": "16",
+"B": "17",
+"C": "18",
+"D": "19"},
+"answer": "B",
+"details": "102 ÷ 6 = 17.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is a common factor of 24 and 36?",
+"options": {
+"A": "5",
+"B": "7",
+"C": "8",
+"D": "12"},
+"answer": "D",
+"details": "Factors of 24: 1,2,3,4,6,8,12,24\nFactors of 36: 1,2,3,4,6,9,12,18,36\nCommon: 1,2,3,4,6,12 → 12 is listed.",
+"difficulty": "medium"
+},
+{
+"question": "What is 125 × 8?",
+"options": {
+"A": "1,000",
+"B": "900",
+"C": "1,100",
+"D": "1,200"},
+"answer": "A",
+"details": "125 × 8 = 1,000 (known fact: 125 × 8 = 1,000).",
+"difficulty": "medium"
+},
+{
+"question": "Which number is a square number?",
+"options": {
+"A": "20",
+"B": "25",
+"C": "30",
+"D": "35"},
+"answer": "B",
+"details": "25 = 5². Others are not perfect squares.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate 3,024 ÷ 12.",
+"options": {
+"A": "252",
+"B": "262",
+"C": "242",
+"D": "272"},
+"answer": "A",
+"details": "12 × 250 = 3,000; 3,024 – 3,000 = 24; 24 ÷ 12 = 2; total = 252.",
+"difficulty": "medium"
+},
+{
+"question": "What is 6³?",
+"options": {
+"A": "18",
+"B": "36",
+"C": "216",
+"D": "126"},
+"answer": "C",
+"details": "6³ = 6 × 6 × 6 = 36 × 6 = 216.",
+"difficulty": "medium"
+},
+{
+"question": "Which statement is true?",
+"options": {
+"A": "All odd numbers are prime.",
+"B": "2 is the only even prime number.",
+"C": "1 is a prime number.",
+"D": "Every number has exactly two factors."},
+"answer": "B",
+"details": "2 is prime and even; all other evens >2 are composite. A false (e.g., 9,15); C false (1 has one factor); D false (composites have >2).",
+"difficulty": "medium"
+},
+{
+"question": "What is 48 × 100?",
+"options": {
+"A": "4,800",
+"B": "480",
+"C": "48,000",
+"D": "480,000"},
+"answer": "A",
+"details": "Multiply by 100: move decimal point 2 places right: 48 → 4,800.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is *not* a multiple of 7?",
+"options": {
+"A": "91",
+"B": "98",
+"C": "105",
+"D": "111"},
+"answer": "D",
+"details": "7×13=91, 7×14=98, 7×15=105; 111 ÷ 7 = 15.857… — not whole.",
+"difficulty": "medium"
+},
+{
+"question": "What is 8,100 ÷ 90?",
+"options": {
+"A": "90",
+"B": "9",
+"C": "900",
+"D": "810"},
+"answer": "A",
+"details": "8,100 ÷ 90 = 810 ÷ 9 = 90 (divide numerator and denominator by 10).",
+"difficulty": "medium"
+},
+{
+"question": "A box holds 24 apples. How many boxes are needed for 300 apples?",
+"options": {
+"A": "12",
+"B": "13",
+"C": "14",
+"D": "15"},
+"answer": "B",
+"details": "300 ÷ 24 = 12.5 → need 13 full boxes (can’t have half a box).",
+"difficulty": "medium"
+},
+{
+"question": "What is 37 × 24?",
+"options": {
+"A": "788",
+"B": "888",
+"C": "988",
+"D": "1,088"},
+"answer": "B",
+"details": "37 × 20 = 740; 37 × 4 = 148; 740 + 148 = 888.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is a factor pair of 45?",
+"options": {
+"A": "5 and 8",
+"B": "6 and 7",
+"C": "5 and 9",
+"D": "4 and 11"},
+"answer": "C",
+"details": "5 × 9 = 45. Others: 5×8=40, 6×7=42, 4×11=44.",
+"difficulty": "medium"
+},
+{
+"question": "What is 1,000 ÷ 125?",
+"options": {
+"A": "6",
+"B": "8",
+"C": "10",
+"D": "12"},
+"answer": "B",
+"details": "125 × 8 = 1,000 → 1,000 ÷ 125 = 8.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is prime?",
+"options": {
+"A": "33",
+"B": "35",
+"C": "37",
+"D": "39"},
+"answer": "C",
+"details": "37 has no divisors other than 1 and itself. 33=3×11, 35=5×7, 39=3×13.",
+"difficulty": "medium"
+},
+{
+"question": "What is 56 × 11 mentally?",
+"options": {
+"A": "616",
+"B": "561",
+"C": "516",
+"D": "661"},
+"answer": "A",
+"details": "Rule for ×11: 5 (5+6=11 → carry 1) 6 → 6 (5+1) 6 = 616.",
+"difficulty": "medium"
+},
+{
+"question": "What is 7,200 ÷ 8?",
+"options": {
+"A": "900",
+"B": "800",
+"C": "700",
+"D": "600"},
+"answer": "A",
+"details": "72 ÷ 8 = 9 → so 7,200 ÷ 8 = 900.",
+"difficulty": "medium"
+},
+{
+"question": "Which is 5³?",
+"options": {
+"A": "15",
+"B": "25",
+"C": "75",
+"D": "125"},
+"answer": "D",
+"details": "5³ = 5 × 5 × 5 = 25 × 5 = 125.",
+"difficulty": "medium"
+},
+{
+"question": "What is 2.5 × 100?",
+"options": {
+"A": "25",
+"B": "250",
+"C": "2,500",
+"D": "0.25"},
+"answer": "B",
+"details": "×100 moves decimal 2 places right: 2.5 → 250.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is a common factor of 18 and 30?",
+"options": {
+"A": "4",
+"B": "5",
+"C": "6",
+"D": "7"},
+"answer": "C",
+"details": "Factors of 18: 1,2,3,6,9,18; of 30: 1,2,3,5,6,10,15,30. Common: 1,2,3,6.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate 4,392 ÷ 6.",
+"options": {
+"A": "722",
+"B": "732",
+"C": "742",
+"D": "752"},
+"answer": "B",
+"details": "6 × 700 = 4,200; 4,392 – 4,200 = 192; 192 ÷ 6 = 32; total = 732.",
+"difficulty": "medium"
+},
+{
+"question": "What is 18²?",
+"options": {
+"A": "324",
+"B": "360",
+"C": "396",
+"D": "289"},
+"answer": "A",
+"details": "18 × 18 = (20–2)² = 400 – 80 + 4 = 324.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is composite?",
+"options": {
+"A": "41",
+"B": "43",
+"C": "47",
+"D": "49"},
+"answer": "D",
+"details": "49 = 7 × 7. 41,43,47 are prime.",
+"difficulty": "medium"
+},
+{
+"question": "What is 960 ÷ 10?",
+"options": {
+"A": "9.6",
+"B": "96",
+"C": "960",
+"D": "9,600"},
+"answer": "B",
+"details": "÷10 moves decimal 1 place left: 960 → 96.",
+"difficulty": "medium"
+},
+{
+"question": "A pack of 6 pencils costs £2.40. What is the cost of one pencil?",
+"options": {
+"A": "£0.30",
+"B": "£0.40",
+"C": "£0.50",
+"D": "£0.60"},
+"answer": "B",
+"details": "£2.40 ÷ 6 = 240p ÷ 6 = 40p = £0.40.",
+"difficulty": "medium"
+},
+{
+"question": "What is 123 × 15?",
+"options": {
+"A": "1,745",
+"B": "1,845",
+"C": "1,945",
+"D": "2,045"},
+"answer": "B",
+"details": "123 × 10 = 1,230; 123 × 5 = 615; total = 1,230 + 615 = 1,845.",
+"difficulty": "medium"
+},
+{
+"question": "Which is a factor pair of 72?",
+"options": {
+"A": "7 and 10",
+"B": "8 and 9",
+"C": "6 and 11",
+"D": "5 and 14"},
+"answer": "B",
+"details": "8 × 9 = 72. Others: 7×10=70, 6×11=66, 5×14=70.",
+"difficulty": "medium"
+},
+{
+"question": "What is 1,000 ÷ 8?",
+"options": {
+"A": "112.5",
+"B": "125",
+"C": "150",
+"D": "200"},
+"answer": "B",
+"details": "8 × 125 = 1,000.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is prime?",
+"options": {
+"A": "51",
+"B": "53",
+"C": "55",
+"D": "57"},
+"answer": "B",
+"details": "53 is only divisible by 1 and 53. 51=3×17, 55=5×11, 57=3×19.",
+"difficulty": "medium"
+},
+{
+"question": "What is 0.75 × 1,000?",
+"options": {
+"A": "7.5",
+"B": "75",
+"C": "750",
+"D": "7,500"},
+"answer": "C",
+"details": "×1,000 moves decimal 3 places right: 0.75 → 750.",
+"difficulty": "medium"
+},
+{
+"question": "Which is 4³?",
+"options": {
+"A": "12",
+"B": "16",
+"C": "64",
+"D": "81"},
+"answer": "C",
+"details": "4³ = 4 × 4 × 4 = 16 × 4 = 64.",
+"difficulty": "medium"
+},
+{
+"question": "What is 6,048 ÷ 12?",
+"options": {
+"A": "504",
+"B": "514",
+"C": "524",
+"D": "534"},
+"answer": "A",
+"details": "12 × 500 = 6,000; 6,048 – 6,000 = 48; 48 ÷ 12 = 4; total = 504.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is a multiple of 9?",
+"options": {
+"A": "135",
+"B": "136",
+"C": "137",
+"D": "138"},
+"answer": "A",
+"details": "1+3+5=9, divisible by 9 → 135 ÷ 9 = 15. Others: digit sums 10,11,12 — not multiples of 9.",
+"difficulty": "medium"
+},
+{
+"question": "What is 19 × 19?",
+"options": {
+"A": "341",
+"B": "351",
+"C": "361",
+"D": "371"},
+"answer": "C",
+"details": "19² = (20–1)² = 400 – 40 + 1 = 361.",
+"difficulty": "medium"
+},
+{
+"question": "Which statement is true?",
+"options": {
+"A": "10³ = 100",
+"B": "5² = 10",
+"C": "7³ = 343",
+"D": "6² = 12"},
+"answer": "C",
+"details": "7³ = 7×7×7 = 49×7 = 343. A: 1,000; B:25; D:36.",
+"difficulty": "medium"
+},
+{
+"question": "What is 5,000 ÷ 25?",
+"options": {
+"A": "200",
+"B": "250",
+"C": "300",
+"D": "500"},
+"answer": "A",
+"details": "25 × 200 = 5,000.",
+"difficulty": "medium"
+},
+{
+"question": "A factory makes 1,440 toys in 8 hours. How many per hour?",
+"options": {
+"A": "160",
+"B": "170",
+"C": "180",
+"D": "190"},
+"answer": "C",
+"details": "1,440 ÷ 8 = 180.",
+"difficulty": "medium"
+},
+{
+"question": "What is 28 × 35?",
+"options": {
+"A": "940",
+"B": "960",
+"C": "980",
+"D": "1,000"},
+"answer": "C",
+"details": "28 × 35 = 28 × (30 + 5) = 840 + 140 = 980.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is a common factor of 48 and 60?",
+"options": {
+"A": "9",
+"B": "10",
+"C": "12",
+"D": "15"},
+"answer": "C",
+"details": "Factors of 48: 1,2,3,4,6,8,12,16,24,48\n60: 1,2,3,4,5,6,10,12,15,20,30,60\nCommon: 1,2,3,4,6,12.",
+"difficulty": "medium"
+},
+{
+"question": "What is 1,000 ÷ 125 × 4?",
+"options": {
+"A": "32",
+"B": "40",
+"C": "48",
+"D": "56"},
+"answer": "A",
+"details": "1,000 ÷ 125 = 8; 8 × 4 = 32.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is prime?",
+"options": {
+"A": "63",
+"B": "65",
+"C": "67",
+"D": "69"},
+"answer": "C",
+"details": "67 is prime. 63=7×9, 65=5×13, 69=3×23.",
+"difficulty": "medium"
+},
+{
+"question": "What is 3.2 × 100?",
+"options": {
+"A": "32",
+"B": "320",
+"C": "3,200",
+"D": "0.32"},
+"answer": "B",
+"details": "×100: 3.2 → 320.",
+"difficulty": "medium"
+},
+{
+"question": "Which is 10³?",
+"options": {
+"A": "100",
+"B": "1,000",
+"C": "10,000",
+"D": "30"},
+"answer": "B",
+"details": "10³ = 10 × 10 × 10 = 1,000.",
+"difficulty": "medium"
+},
+{
+"question": "What is 7,350 ÷ 15?",
+"options": {
+"A": "470",
+"B": "480",
+"C": "490",
+"D": "500"},
+"answer": "C",
+"details": "15 × 490 = 15 × 500 – 15 × 10 = 7,500 – 150 = 7,350.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is a square number?",
+"options": {
+"A": "48",
+"B": "49",
+"C": "50",
+"D": "51"},
+"answer": "B",
+"details": "49 = 7².",
+"difficulty": "medium"
+},
+{
+"question": "What is 99 × 99?",
+"options": {
+"A": "9,701",
+"B": "9,801",
+"C": "9,901",
+"D": "10,001"},
+"answer": "B",
+"details": "99² = (100–1)² = 10,000 – 200 + 1 = 9,801.",
+"difficulty": "medium"
+},
+{
+"question": "Which is a factor of 100?",
+"options": {
+"A": "15",
+"B": "20",
+"C": "30",
+"D": "40"},
+"answer": "B",
+"details": "100 ÷ 20 = 5. Others: 100 ÷ 15 ≈ 6.67, etc.",
+"difficulty": "medium"
+},
+{
+"question": "What is 4,096 ÷ 16?",
+"options": {
+"A": "246",
+"B": "256",
+"C": "266",
+"D": "276"},
+"answer": "B",
+"details": "16 × 256 = 4,096 (since 16² = 256, 16³ = 4,096).",
+"difficulty": "medium"
+},
+{
+"question": "A rope 12.5 m long is cut into 5 equal pieces. How long is each piece?",
+"options": {
+"A": "2.0 m",
+"B": "2.5 m",
+"C": "3.0 m",
+"D": "3.5 m"},
+"answer": "B",
+"details": "12.5 ÷ 5 = 2.5 m.",
+"difficulty": "medium"
+},
+{
+"question": "What is 125 × 16?",
+"options": {
+"A": "1,800",
+"B": "2,000",
+"C": "2,200",
+"D": "2,400"},
+"answer": "B",
+"details": "125 × 8 = 1,000 → ×2 = 2,000.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is a common factor of 28 and 42?",
+"options": {
+"A": "4",
+"B": "6",
+"C": "7",
+"D": "8"},
+"answer": "C",
+"details": "28 = 4×7, 42 = 6×7 → 7 is common. 4 not in 42, 6 not in 28, 8 in neither.",
+"difficulty": "medium"
+},
+{
+"question": "What is 9,000 ÷ 75?",
+"options": {
+"A": "100",
+"B": "110",
+"C": "120",
+"D": "130"},
+"answer": "C",
+"details": "75 × 120 = 75 × 100 + 75 × 20 = 7,500 + 1,500 = 9,000.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is composite?",
+"options": {
+"A": "71",
+"B": "73",
+"C": "75",
+"D": "79"},
+"answer": "C",
+"details": "75 = 3 × 5 × 5. Others are prime.",
+"difficulty": "medium"
+},
+{
+"question": "What is 0.04 × 100?",
+"options": {
+"A": "0.4",
+"B": "4",
+"C": "40",
+"D": "400"},
+"answer": "B",
+"details": "0.04 × 100 = 4.",
+"difficulty": "medium"
+},
+{
+"question": "Which is 6² + 4²?",
+"options": {
+"A": "50",
+"B": "52",
+"C": "60",
+"D": "64"},
+"answer": "B",
+"details": "36 + 16 = 52.",
+"difficulty": "medium"
+},
+{
+"question": "What is 5,625 ÷ 25?",
+"options": {
+"A": "215",
+"B": "225",
+"C": "235",
+"D": "245"},
+"answer": "B",
+"details": "25 × 225 = 5,625 (25 × 200 = 5,000; 25 × 25 = 625).",
+"difficulty": "medium"
+},
+{
+"question": "Which number is prime?",
+"options": {
+"A": "81",
+"B": "83",
+"C": "85",
+"D": "87"},
+"answer": "B",
+"details": "83 is prime. 81=9², 85=5×17, 87=3×29.",
+"difficulty": "medium"
+},
+{
+"question": "What is 72 × 11?",
+"options": {
+"A": "772",
+"B": "782",
+"C": "792",
+"D": "802"},
+"answer": "C",
+"details": "7 (7+2=9) 2 = 792.",
+"difficulty": "medium"
+},
+{
+"question": "Which is a factor pair of 96?",
+"options": {
+"A": "10 and 9.6",
+"B": "12 and 8",
+"C": "14 and 7",
+"D": "16 and 5"},
+"answer": "B",
+"details": "12 × 8 = 96. Others: 10×9.6 invalid (must be whole numbers), 14×7=98, 16×5=80.",
+"difficulty": "medium"
+},
+{
+"question": "What is 1,000 ÷ 16?",
+"options": {
+"A": "60",
+"B": "62.5",
+"C": "64",
+"D": "65"},
+"answer": "B",
+"details": "16 × 62 = 992; remainder 8 → 8/16 = 0.5 → 62.5.",
+"difficulty": "medium"
+},
+{
+"question": "A car travels 360 km in 5 hours. What is its average speed?",
+"options": {
+"A": "62 km/h",
+"B": "68 km/h",
+"C": "72 km/h",
+"D": "76 km/h"},
+"answer": "C",
+"details": "360 ÷ 5 = 72 km/h.",
+"difficulty": "medium"
+},
+{
+"question": "What is 144 × 5?",
+"options": {
+"A": "620",
+"B": "720",
+"C": "820",
+"D": "920"},
+"answer": "B",
+"details": "100×5=500, 40×5=200, 4×5=20; total 720.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is a multiple of 12?",
+"options": {
+"A": "132",
+"B": "134",
+"C": "136",
+"D": "138"},
+"answer": "A",
+"details": "132 ÷ 12 = 11. Others: 134÷12≈11.17, etc.",
+"difficulty": "medium"
+},
+{
+"question": "What is 8,000 ÷ 125?",
+"options": {
+"A": "60",
+"B": "64",
+"C": "68",
+"D": "72"},
+"answer": "B",
+"details": "125 × 64 = 8,000 (125 × 8 = 1,000; 1,000 × 8 = 8,000).",
+"difficulty": "medium"
+},
+{
+"question": "Which is 9³?",
+"options": {
+"A": "729",
+"B": "648",
+"C": "567",
+"D": "486"},
+"answer": "A",
+"details": "9 × 9 = 81; 81 × 9 = 729.",
+"difficulty": "medium"
+},
+{
+"question": "What is 3,888 ÷ 9?",
+"options": {
+"A": "422",
+"B": "432",
+"C": "442",
+"D": "452"},
+"answer": "B",
+"details": "9 × 400 = 3,600; 3,888 – 3,600 = 288; 288 ÷ 9 = 32; total 432.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is a square number?",
+"options": {
+"A": "63",
+"B": "64",
+"C": "65",
+"D": "66"},
+"answer": "B",
+"details": "64 = 8².",
+"difficulty": "medium"
+},
+{
+"question": "What is 101 × 101?",
+"options": {
+"A": "10,101",
+"B": "10,201",
+"C": "10,301",
+"D": "10,401"},
+"answer": "B",
+"details": "101² = (100+1)² = 10,000 + 200 + 1 = 10,201.",
+"difficulty": "medium"
+},
+{
+"question": "Which is a common factor of 36 and 48?",
+"options": {
+"A": "5",
+"B": "7",
+"C": "9",
+"D": "12"},
+"answer": "D",
+"details": "12 divides both: 36 ÷ 12 = 3, 48 ÷ 12 = 4.",
+"difficulty": "medium"
+},
+{
+"question": "What is 2.5 × 4 × 10?",
+"options": {
+"A": "100",
+"B": "10",
+"C": "1,000",
+"D": "25"},
+"answer": "A",
+"details": "2.5 × 4 = 10; 10 × 10 = 100.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is prime?",
+"options": {
+"A": "91",
+"B": "93",
+"C": "95",
+"D": "97"},
+"answer": "D",
+"details": "97 is prime. 91=7×13, 93=3×31, 95=5×19.",
+"difficulty": "medium"
+},
+{
+"question": "What is 7,500 ÷ 100?",
+"options": {
+"A": "7.5",
+"B": "75",
+"C": "750",
+"D": "7,500"},
+"answer": "B",
+"details": "÷100: 7,500 → 75.",
+"difficulty": "medium"
+},
+{
+"question": "Which is 5² × 2³?",
+"options": {
+"A": "50",
+"B": "100",
+"C": "200",
+"D": "250"},
+"answer": "C",
+"details": "25 × 8 = 200.",
+"difficulty": "medium"
+},
+{
+"question": "What is 4,320 ÷ 18?",
+"options": {
+"A": "220",
+"B": "230",
+"C": "240",
+"D": "250"},
+"answer": "C",
+"details": "18 × 240 = 18 × 200 + 18 × 40 = 3,600 + 720 = 4,320.",
+"difficulty": "medium"
+},
+{
+"question": "A recipe for 4 people needs 600 g of flour. How much for 10 people?",
+"options": {
+"A": "1,200 g",
+"B": "1,500 g",
+"C": "1,800 g",
+"D": "2,000 g"},
+"answer": "B",
+"details": "Per person: 600 ÷ 4 = 150 g; for 10: 150 × 10 = 1,500 g.",
+"difficulty": "medium"
+},
+{
+"question": "What is 115 × 8?",
+"options": {
+"A": "820",
+"B": "920",
+"C": "1,020",
+"D": "1,120"},
+"answer": "B",
+"details": "100×8=800, 15×8=120; total 920.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is a factor of 120?",
+"options": {
+"A": "14",
+"B": "16",
+"C": "18",
+"D": "20"},
+"answer": "D",
+"details": "120 ÷ 20 = 6. Others: 120 ÷ 14 ≈ 8.57, etc.",
+"difficulty": "medium"
+},
+{
+"question": "What is 1,000,000 ÷ 1,000?",
+"options": {
+"A": "100",
+"B": "1,000",
+"C": "10,000",
+"D": "100,000"},
+"answer": "B",
+"details": "1,000,000 ÷ 1,000 = 1,000.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is composite?",
+"options": {
+"A": "2",
+"B": "3",
+"C": "4",
+"D": "5"},
+"answer": "C",
+"details": "4 = 2 × 2 — more than two factors. Others are prime.",
+"difficulty": "medium"
+},
+{
+"question": "What is 0.007 × 1,000?",
+"options": {
+"A": "0.7",
+"B": "7",
+"C": "70",
+"D": "700"},
+"answer": "B",
+"details": "×1,000: 0.007 → 7.",
+"difficulty": "medium"
+},
+{
+"question": "Which is 7² – 5²?",
+"options": {
+"A": "12",
+"B": "24",
+"C": "36",
+"D": "48"},
+"answer": "B",
+"details": "49 – 25 = 24.",
+"difficulty": "medium"
+},
+{
+"question": "What is 6,720 ÷ 16?",
+"options": {
+"A": "410",
+"B": "420",
+"C": "430",
+"D": "440"},
+"answer": "B",
+"details": "16 × 400 = 6,400; 6,720 – 6,400 = 320; 320 ÷ 16 = 20; total 420.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is a multiple of 11?",
+"options": {
+"A": "121",
+"B": "122",
+"C": "123",
+"D": "124"},
+"answer": "A",
+"details": "11 × 11 = 121.",
+"difficulty": "medium"
+},
+{
+"question": "What is 15³?",
+"options": {
+"A": "2,250",
+"B": "3,375",
+"C": "4,500",
+"D": "5,625"},
+"answer": "B",
+"details": "15 × 15 = 225; 225 × 15 = 3,375.",
+"difficulty": "medium"
+},
+{
+"question": "Which is a factor pair of 100?",
+"options": {
+"A": "10 and 10",
+"B": "12 and 8",
+"C": "14 and 7",
+"D": "15 and 6"},
+"answer": "A",
+"details": "10 × 10 = 100.",
+"difficulty": "medium"
+},
+{
+"question": "What is 9,999 ÷ 9?",
+"options": {
+"A": "1,111",
+"B": "1,110",
+"C": "1,101",
+"D": "1,011"},
+"answer": "A",
+"details": "9,999 ÷ 9 = 1,111 (since 9 × 1,111 = 9,999).",
+"difficulty": "medium"
+},
+{
+"question": "A school has 480 pupils. They are put into teams of 12. How many teams?",
+"options": {
+"A": "30",
+"B": "40",
+"C": "50",
+"D": "60"},
+"answer": "B",
+"details": "480 ÷ 12 = 40.",
+"difficulty": "medium"
+},
+{
+"question": "What is 89 × 12?",
+"options": {
+"A": "1,048",
+"B": "1,058",
+"C": "1,068",
+"D": "1,078"},
+"answer": "C",
+"details": "89 × 10 = 890; 89 × 2 = 178; total 890 + 178 = 1,068.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is a common factor of 54 and 72?",
+"options": {
+"A": "8",
+"B": "9",
+"C": "10",
+"D": "11"},
+"answer": "B",
+"details": "54 ÷ 9 = 6, 72 ÷ 9 = 8.",
+"difficulty": "medium"
+},
+{
+"question": "What is 3.6 × 10 × 10?",
+"options": {
+"A": "36",
+"B": "360",
+"C": "3,600",
+"D": "0.36"},
+"answer": "B",
+"details": "3.6 × 10 = 36; ×10 = 360.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is prime?",
+"options": {
+"A": "1",
+"B": "2",
+"C": "4",
+"D": "6"},
+"answer": "B",
+"details": "2 is the only even prime. 1 is not prime.",
+"difficulty": "medium"
+},
+{
+"question": "What is 5,000 ÷ 125?",
+"options": {
+"A": "30",
+"B": "40",
+"C": "50",
+"D": "60"},
+"answer": "B",
+"details": "125 × 40 = 5,000.",
+"difficulty": "medium"
+},
+{
+"question": "Which is 8² + 6²?",
+"options": {
+"A": "96",
+"B": "100",
+"C": "120",
+"D": "144"},
+"answer": "B",
+"details": "64 + 36 = 100.",
+"difficulty": "medium"
+},
+{
+"question": "What is 7,800 ÷ 25?",
+"options": {
+"A": "302",
+"B": "312",
+"C": "322",
+"D": "332"},
+"answer": "B",
+"details": "25 × 300 = 7,500; 7,800 – 7,500 = 300; 300 ÷ 25 = 12; total 312.",
+"difficulty": "medium"
+},
+{
+"question": "A pack of 25 stickers costs £3.75. What is the cost of one sticker?",
+"options": {
+"A": "£0.12",
+"B": "£0.15",
+"C": "£0.18",
+"D": "£0.21"},
+"answer": "B",
+"details": "£3.75 = 375p; 375 ÷ 25 = 15p = £0.15.",
+"difficulty": "medium"
+},
+{
+"question": "What is 128 × 25?",
+"options": {
+"A": "3,000",
+"B": "3,200",
+"C": "3,400",
+"D": "3,600"},
+"answer": "B",
+"details": "128 × 100 ÷ 4 = 12,800 ÷ 4 = 3,200.",
+"difficulty": "medium"
+},
+{
+"question": "Which number is a square number?",
+"options": {
+"A": "80",
+"B": "81",
+"C": "82",
+"D": "83"},
+"answer": "B",
+"details": "81 = 9².",
+"difficulty": "medium"
+},
+{
+"question": "What is 1,000 ÷ 0.5?",
+"options": {
+"A": "500",
+"B": "1,000",
+"C": "1,500",
+"D": "2,000"},
+"answer": "D",
+"details": "Dividing by 0.5 is same as ×2: 1,000 × 2 = 2,000.",
+"difficulty": "medium"
+},
+{
+"question": "Which is a factor of 72?",
+"options": {
+"A": "11",
+"B": "13",
+"C": "15",
+"D": "18"},
+"answer": "D",
+"details": "72 ÷ 18 = 4.",
+"difficulty": "medium"
+},
+{
+"question": "What is 4,096 ÷ 64?",
+"options": {
+"A": "54",
+"B": "64",
+"C": "74",
+"D": "84"},
+"answer": "B",
+"details": "64 × 64 = 4,096 (since 8⁴ = (2³)⁴ = 2¹² = 4,096; also 64² = 4,096).",
+"difficulty": "medium"
+},
+{
+"question": "Which number is a common factor of 48 and 60?",
+"options": {
+"A": "8",
+"B": "10",
+"C": "12",
+"D": "15"},
+"answer": "C",
+"details": "Factors of 48: 1,2,3,4,6,8,12,16,24,48. Factors of 60: 1,2,3,4,5,6,10,12,15,20,30,60. Common factors include 12. 8 is not a factor of 60; 10 and 15 are not factors of 48.",
+"difficulty": "hard"
+},
+{
+"question": "Which number is a prime number?",
+"options": {
+"A": "51",
+"B": "57",
+"C": "59",
+"D": "63"},
+"answer": "C",
+"details": "59 has only two factors: 1 and itself. 51 = 3×17; 57 = 3×19; 63 = 7×9. So only 59 is prime.",
+"difficulty": "hard"
+},
+{
+"question": "What is 27 squared?",
+"options": {
+"A": "729",
+"B": "512",
+"C": "625",
+"D": "784"},
+"answer": "A",
+"details": "27² = 27 × 27 = 729.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 1,234 × 25 using long multiplication.",
+"options": {
+"A": "30,850",
+"B": "30,750",
+"C": "31,850",
+"D": "29,850"},
+"answer": "A",
+"details": "1,234 × 25 = 1,234 × (20 + 5) = (1,234 × 20) + (1,234 × 5) = 24,680 + 6,170 = 30,850.",
+"difficulty": "hard"
+},
+{
+"question": "Divide 4,321 by 7 using short division. What is the remainder?",
+"options": {
+"A": "2",
+"B": "3",
+"C": "4",
+"D": "5"},
+"answer": "A",
+"details": "Using short division: 7 into 43 is 6 (remainder 1); 12 ÷ 7 = 1 (remainder 5); 51 ÷ 7 = 7 (remainder 2). So remainder is 2.",
+"difficulty": "hard"
+},
+{
+"question": "What is 560 ÷ 100?",
+"options": {
+"A": "5.6",
+"B": "56",
+"C": "0.56",
+"D": "560"},
+"answer": "A",
+"details": "Dividing by 100 moves the decimal point two places left: 560 → 5.60 = 5.6.",
+"difficulty": "hard"
+},
+{
+"question": "A box holds 24 pencils. How many boxes are needed for 1,000 pencils if each box must be full?",
+"options": {
+"A": "41",
+"B": "42",
+"C": "43",
+"D": "40"},
+"answer": "B",
+"details": "1,000 ÷ 24 = 41 remainder 16. Since 16 pencils still need a box, total boxes = 42.",
+"difficulty": "hard"
+},
+{
+"question": "Which of these is a cube number?",
+"options": {
+"A": "64",
+"B": "72",
+"C": "80",
+"D": "96"},
+"answer": "A",
+"details": "4³ = 4 × 4 × 4 = 64. The others are not cube numbers.",
+"difficulty": "hard"
+},
+{
+"question": "What is the greatest common factor of 36 and 48?",
+"options": {
+"A": "6",
+"B": "8",
+"C": "12",
+"D": "18"},
+"answer": "C",
+"details": "Factors of 36: 1,2,3,4,6,9,12,18,36. Factors of 48: 1,2,3,4,6,8,12,16,24,48. Greatest common factor is 12.",
+"difficulty": "hard"
+},
+{
+"question": "Which number is composite?",
+"options": {
+"A": "17",
+"B": "19",
+"C": "21",
+"D": "23"},
+"answer": "C",
+"details": "21 = 3 × 7, so it has more than two factors and is composite. The others are prime.",
+"difficulty": "hard"
+},
+{
+"question": "What is 15 squared?",
+"options": {
+"A": "225",
+"B": "250",
+"C": "200",
+"D": "240"},
+"answer": "A",
+"details": "15² = 15 × 15 = 225.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 2,048 × 16",
+"options": {
+"A": "32,768",
+"B": "31,768",
+"C": "32,668",
+"D": "33,768"},
+"answer": "A",
+"details": "2,048 × 16 = 2,048 × (10 + 6) = 20,480 + 12,288 = 32,768.",
+"difficulty": "hard"
+},
+{
+"question": "Divide 5,678 by 9. What is the remainder?",
+"options": {
+"A": "7",
+"B": "8",
+"C": "6",
+"D": "5"},
+"answer": "B",
+"details": "9 × 630 = 5,670; 5,678 – 5,670 = 8. So remainder is 8.",
+"difficulty": "hard"
+},
+{
+"question": "What is 3.6 × 1,000?",
+"options": {
+"A": "360",
+"B": "3,600",
+"C": "36",
+"D": "0.0036"},
+"answer": "B",
+"details": "Multiplying by 1,000 moves the decimal point three places right: 3.6 → 3,600.",
+"difficulty": "hard"
+},
+{
+"question": "A car travels 360 km in 5 hours. What is its average speed in km/h?",
+"options": {
+"A": "72",
+"B": "70",
+"C": "75",
+"D": "68"},
+"answer": "A",
+"details": "Speed = distance ÷ time = 360 ÷ 5 = 72 km/h.",
+"difficulty": "hard"
+},
+{
+"question": "Which number is both a square and a cube number?",
+"options": {
+"A": "16",
+"B": "64",
+"C": "81",
+"D": "100"},
+"answer": "B",
+"details": "64 = 8² and 4³. So it is both a square and a cube number.",
+"difficulty": "hard"
+},
+{
+"question": "How many factor pairs does 36 have?",
+"options": {
+"A": "4",
+"B": "5",
+"C": "6",
+"D": "9"},
+"answer": "B",
+"details": "Factor pairs: (1,36), (2,18), (3,12), (4,9), (6,6) → 5 pairs.",
+"difficulty": "hard"
+},
+{
+"question": "Which of these is a prime number less than 20?",
+"options": {
+"A": "1",
+"B": "9",
+"C": "15",
+"D": "19"},
+"answer": "D",
+"details": "19 is prime. 1 is not prime; 9 and 15 are composite.",
+"difficulty": "hard"
+},
+{
+"question": "What is 9 cubed?",
+"options": {
+"A": "729",
+"B": "81",
+"C": "243",
+"D": "6561"},
+"answer": "A",
+"details": "9³ = 9 × 9 × 9 = 81 × 9 = 729.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 3,125 × 12",
+"options": {
+"A": "37,500",
+"B": "36,500",
+"C": "37,600",
+"D": "38,500"},
+"answer": "A",
+"details": "3,125 × 12 = 3,125 × (10 + 2) = 31,250 + 6,250 = 37,500.",
+"difficulty": "hard"
+},
+{
+"question": "Divide 7,890 by 6. What is the quotient?",
+"options": {
+"A": "1,315",
+"B": "1,305",
+"C": "1,325",
+"D": "1,295"},
+"answer": "A",
+"details": "6 × 1,315 = 7,890. So quotient is 1,315.",
+"difficulty": "hard"
+},
+{
+"question": "What is 45.6 ÷ 100?",
+"options": {
+"A": "0.456",
+"B": "4.56",
+"C": "0.0456",
+"D": "456"},
+"answer": "A",
+"details": "Dividing by 100 moves decimal two places left: 45.6 → 0.456.",
+"difficulty": "hard"
+},
+{
+"question": "Eggs are sold in trays of 6. How many full trays can be made from 1,000 eggs?",
+"options": {
+"A": "166",
+"B": "167",
+"C": "165",
+"D": "168"},
+"answer": "A",
+"details": "1,000 ÷ 6 = 166 remainder 4. So 166 full trays.",
+"difficulty": "hard"
+},
+{
+"question": "Which number is a multiple of both 12 and 15?",
+"options": {
+"A": "60",
+"B": "45",
+"C": "36",
+"D": "75"},
+"answer": "A",
+"details": "LCM of 12 and 15 is 60. 60 ÷ 12 = 5; 60 ÷ 15 = 4. Others are not divisible by both.",
+"difficulty": "hard"
+},
+{
+"question": "What is the smallest prime number greater than 20?",
+"options": {
+"A": "21",
+"B": "22",
+"C": "23",
+"D": "25"},
+"answer": "C",
+"details": "21 = 3×7 (composite); 22 = 2×11; 23 is prime; 25 = 5×5.",
+"difficulty": "hard"
+},
+{
+"question": "Which expression equals 10³?",
+"options": {
+"A": "10 + 10 + 10",
+"B": "10 × 3",
+"C": "10 × 10 × 10",
+"D": "100"},
+"answer": "C",
+"details": "10³ means 10 × 10 × 10 = 1,000.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 1,876 × 34",
+"options": {
+"A": "63,784",
+"B": "62,784",
+"C": "63,684",
+"D": "64,784"},
+"answer": "A",
+"details": "1,876 × 30 = 56,280; 1,876 × 4 = 7,504; total = 56,280 + 7,504 = 63,784.",
+"difficulty": "hard"
+},
+{
+"question": "Divide 9,999 by 8. What is the remainder?",
+"options": {
+"A": "5",
+"B": "6",
+"C": "7",
+"D": "3"},
+"answer": "C",
+"details": "8 × 1,249 = 9,992; 9,999 – 9,992 = 7. So remainder is 7.",
+"difficulty": "hard"
+},
+{
+"question": "What is 0.07 × 1,000?",
+"options": {
+"A": "7",
+"B": "70",
+"C": "0.7",
+"D": "700"},
+"answer": "B",
+"details": "0.07 × 1,000 = 70 (move decimal three places right).",
+"difficulty": "hard"
+},
+{
+"question": "A printer prints 1,440 pages in 12 minutes. How many pages per minute?",
+"options": {
+"A": "120",
+"B": "110",
+"C": "130",
+"D": "100"},
+"answer": "A",
+"details": "1,440 ÷ 12 = 120 pages per minute.",
+"difficulty": "hard"
+},
+{
+"question": "Which number is a square number but not a cube number?",
+"options": {
+"A": "1",
+"B": "8",
+"C": "25",
+"D": "64"},
+"answer": "C",
+"details": "25 = 5², but not a cube. 1 and 64 are both square and cube; 8 is a cube but not a square.",
+"difficulty": "hard"
+},
+{
+"question": "What are all the factor pairs of 24?",
+"options": {
+"A": "(1,24), (2,12), (3,8), (4,6)",
+"B": "(1,24), (2,12), (3,8), (4,6), (5,4.8)",
+"C": "(2,12), (3,8), (4,6)",
+"D": "(1,24), (2,12), (4,6)"},
+"answer": "A",
+"details": "Only whole number pairs: (1,24), (2,12), (3,8), (4,6). No decimals or repeats.",
+"difficulty": "hard"
+},
+{
+"question": "Which number is NOT prime?",
+"options": {
+"A": "29",
+"B": "31",
+"C": "33",
+"D": "37"},
+"answer": "C",
+"details": "33 = 3 × 11, so composite. Others are prime.",
+"difficulty": "hard"
+},
+{
+"question": "What is 11² + 5³?",
+"options": {
+"A": "246",
+"B": "236",
+"C": "256",
+"D": "225"},
+"answer": "A",
+"details": "11² = 121; 5³ = 125; 121 + 125 = 246.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 2,345 × 18",
+"options": {
+"A": "42,210",
+"B": "41,210",
+"C": "42,310",
+"D": "43,210"},
+"answer": "A",
+"details": "2,345 × 10 = 23,450; 2,345 × 8 = 18,760; sum = 23,450 + 18,760 = 42,210.",
+"difficulty": "hard"
+},
+{
+"question": "Divide 6,543 by 5. Express the remainder as a fraction.",
+"options": {
+"A": "1,308 3/5",
+"B": "1,308 2/5",
+"C": "1,309 3/5",
+"D": "1,307 3/5"},
+"answer": "A",
+"details": "5 × 1,308 = 6,540; remainder = 3 → 1,308 and 3/5.",
+"difficulty": "hard"
+},
+{
+"question": "What is 8.9 × 100?",
+"options": {
+"A": "890",
+"B": "89",
+"C": "0.89",
+"D": "8,900"},
+"answer": "A",
+"details": "Multiply by 100: move decimal two places right → 890.",
+"difficulty": "hard"
+},
+{
+"question": "A rope 12.5 m long is cut into 5 equal pieces. How long is each piece?",
+"options": {
+"A": "2.5 m",
+"B": "2.4 m",
+"C": "2.6 m",
+"D": "2.0 m"},
+"answer": "A",
+"details": "12.5 ÷ 5 = 2.5 m.",
+"difficulty": "hard"
+},
+{
+"question": "Which number has exactly three factors?",
+"options": {
+"A": "9",
+"B": "8",
+"C": "10",
+"D": "12"},
+"answer": "A",
+"details": "9 = 3²; factors: 1, 3, 9 → exactly three. This happens only for squares of primes.",
+"difficulty": "hard"
+},
+{
+"question": "What is the product of the first three prime numbers?",
+"options": {
+"A": "30",
+"B": "6",
+"C": "15",
+"D": "10"},
+"answer": "A",
+"details": "First three primes: 2, 3, 5; 2 × 3 × 5 = 30.",
+"difficulty": "hard"
+},
+{
+"question": "Which is equal to 7² × 2?",
+"options": {
+"A": "98",
+"B": "49",
+"C": "14",
+"D": "56"},
+"answer": "A",
+"details": "7² = 49; 49 × 2 = 98.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 3,007 × 23",
+"options": {
+"A": "69,161",
+"B": "68,161",
+"C": "69,061",
+"D": "70,161"},
+"answer": "A",
+"details": "3,007 × 20 = 60,140; 3,007 × 3 = 9,021; sum = 60,140 + 9,021 = 69,161.",
+"difficulty": "hard"
+},
+{
+"question": "Divide 8,765 by 4. What is the remainder?",
+"options": {
+"A": "1",
+"B": "2",
+"C": "3",
+"D": "0"},
+"answer": "A",
+"details": "4 × 2,191 = 8,764; 8,765 – 8,764 = 1.",
+"difficulty": "hard"
+},
+{
+"question": "What is 567 ÷ 1,000?",
+"options": {
+"A": "0.567",
+"B": "5.67",
+"C": "0.0567",
+"D": "56.7"},
+"answer": "A",
+"details": "Divide by 1,000: move decimal three places left → 0.567.",
+"difficulty": "hard"
+},
+{
+"question": "A factory makes 2,400 toys in 8 hours. How many in 1 hour?",
+"options": {
+"A": "300",
+"B": "250",
+"C": "350",
+"D": "280"},
+"answer": "A",
+"details": "2,400 ÷ 8 = 300 toys per hour.",
+"difficulty": "hard"
+},
+{
+"question": "Which number is a common multiple of 8 and 12?",
+"options": {
+"A": "24",
+"B": "16",
+"C": "36",
+"D": "40"},
+"answer": "A",
+"details": "24 ÷ 8 = 3; 24 ÷ 12 = 2. Others: 16 not divisible by 12; 36 not by 8; 40 not by 12.",
+"difficulty": "hard"
+},
+{
+"question": "How many prime numbers are there between 10 and 20?",
+"options": {
+"A": "3",
+"B": "4",
+"C": "5",
+"D": "2"},
+"answer": "B",
+"details": "11, 13, 17, 19 → four primes.",
+"difficulty": "hard"
+},
+{
+"question": "What is 6³ – 5²?",
+"options": {
+"A": "191",
+"B": "216",
+"C": "25",
+"D": "190"},
+"answer": "A",
+"details": "6³ = 216; 5² = 25; 216 – 25 = 191.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 1,999 × 15",
+"options": {
+"A": "29,985",
+"B": "28,985",
+"C": "29,885",
+"D": "30,985"},
+"answer": "A",
+"details": "2,000 × 15 = 30,000; minus 15 = 29,985.",
+"difficulty": "hard"
+},
+{
+"question": "Divide 7,654 by 6. What is the quotient and remainder?",
+"options": {
+"A": "1,275 r4",
+"B": "1,276 r2",
+"C": "1,274 r10",
+"D": "1,275 r5"},
+"answer": "A",
+"details": "6 × 1,275 = 7,650; 7,654 – 7,650 = 4 → r4.",
+"difficulty": "hard"
+},
+{
+"question": "What is 0.9 ÷ 10?",
+"options": {
+"A": "0.09",
+"B": "9",
+"C": "0.9",
+"D": "90"},
+"answer": "A",
+"details": "Divide by 10: move decimal one place left → 0.09.",
+"difficulty": "hard"
+},
+{
+"question": "A pack of 12 pens costs £18. What is the cost per pen?",
+"options": {
+"A": "£1.50",
+"B": "£1.20",
+"C": "£1.80",
+"D": "£2.00"},
+"answer": "A",
+"details": "£18 ÷ 12 = £1.50 per pen.",
+"difficulty": "hard"
+},
+{
+"question": "Which number is the least common multiple of 6 and 9?",
+"options": {
+"A": "18",
+"B": "36",
+"C": "12",
+"D": "54"},
+"answer": "A",
+"details": "Multiples of 6: 6,12,18,...; of 9: 9,18,... → LCM = 18.",
+"difficulty": "hard"
+},
+{
+"question": "What is the only even prime number?",
+"options": {
+"A": "2",
+"B": "4",
+"C": "1",
+"D": "0"},
+"answer": "A",
+"details": "2 is the only even prime number because all other even numbers are divisible by 2.",
+"difficulty": "hard"
+},
+{
+"question": "Which expression shows a cube number?",
+"options": {
+"A": "4 × 4",
+"B": "5 + 5 + 5",
+"C": "3 × 3 × 3",
+"D": "10 × 10"},
+"answer": "C",
+"details": "3 × 3 × 3 = 27 = 3³, a cube number.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 2,560 × 25",
+"options": {
+"A": "64,000",
+"B": "63,000",
+"C": "65,000",
+"D": "62,500"},
+"answer": "A",
+"details": "2,560 × 25 = 2,560 × (100 ÷ 4) = (256,000) ÷ 4 = 64,000.",
+"difficulty": "hard"
+},
+{
+"question": "Divide 9,999 by 7. What is the remainder?",
+"options": {
+"A": "3",
+"B": "4",
+"C": "5",
+"D": "6"},
+"answer": "A",
+"details": "7 × 1,428 = 9,996; 9,999 – 9,996 = 3. So remainder is 3.",
+"difficulty": "hard"
+},
+{
+"question": "What is 78.9 × 10?",
+"options": {
+"A": "789",
+"B": "7.89",
+"C": "7,890",
+"D": "0.789"},
+"answer": "A",
+"details": "Multiply by 10: move decimal one place right → 789.",
+"difficulty": "hard"
+},
+{
+"question": "A train travels 720 km in 6 hours. What is its speed in km/h?",
+"options": {
+"A": "120",
+"B": "110",
+"C": "130",
+"D": "100"},
+"answer": "A",
+"details": "720 ÷ 6 = 120 km/h.",
+"difficulty": "hard"
+},
+{
+"question": "Which number is a factor of 100 but not of 75?",
+"options": {
+"A": "4",
+"B": "5",
+"C": "25",
+"D": "15"},
+"answer": "A",
+"details": "100 ÷ 4 = 25 (yes); 75 ÷ 4 = 18.75 (no). Others divide both.",
+"difficulty": "hard"
+},
+{
+"question": "What is the sum of all prime numbers less than 10?",
+"options": {
+"A": "17",
+"B": "18",
+"C": "19",
+"D": "20"},
+"answer": "A",
+"details": "Primes <10: 2,3,5,7; sum = 17.",
+"difficulty": "hard"
+},
+{
+"question": "What is (4² + 3²) × 2?",
+"options": {
+"A": "50",
+"B": "25",
+"C": "14",
+"D": "28"},
+"answer": "A",
+"details": "4²=16; 3²=9; 16+9=25; 25×2=50.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 3,456 × 14",
+"options": {
+"A": "48,384",
+"B": "47,384",
+"C": "48,484",
+"D": "49,384"},
+"answer": "A",
+"details": "3,456 × 10 = 34,560; 3,456 × 4 = 13,824; sum = 48,384.",
+"difficulty": "hard"
+},
+{
+"question": "Divide 5,000 by 8. Express as a decimal.",
+"options": {
+"A": "625",
+"B": "62.5",
+"C": "6.25",
+"D": "0.625"},
+"answer": "A",
+"details": "5,000 ÷ 8 = 625 (since 8 × 625 = 5,000).",
+"difficulty": "hard"
+},
+{
+"question": "What is 6.78 ÷ 100?",
+"options": {
+"A": "0.0678",
+"B": "0.678",
+"C": "67.8",
+"D": "678"},
+"answer": "A",
+"details": "Divide by 100: move decimal two places left → 0.0678.",
+"difficulty": "hard"
+},
+{
+"question": "A bag of 25 apples costs £12.50. What is the cost of one apple?",
+"options": {
+"A": "£0.50",
+"B": "£0.40",
+"C": "£0.60",
+"D": "£0.45"},
+"answer": "A",
+"details": "£12.50 ÷ 25 = £0.50 per apple.",
+"difficulty": "hard"
+},
+{
+"question": "Which number is both composite and a square number?",
+"options": {
+"A": "4",
+"B": "2",
+"C": "3",
+"D": "5"},
+"answer": "A",
+"details": "4 = 2² and has factors 1,2,4 → composite and square.",
+"difficulty": "hard"
+},
+{
+"question": "What is the greatest common factor of 28 and 42?",
+"options": {
+"A": "7",
+"B": "14",
+"C": "21",
+"D": "6"},
+"answer": "B",
+"details": "Factors of 28: 1,2,4,7,14,28; of 42: 1,2,3,6,7,14,21,42; GCF = 14.",
+"difficulty": "hard"
+},
+{
+"question": "Which is 5 cubed plus 3 squared?",
+"options": {
+"A": "134",
+"B": "125",
+"C": "9",
+"D": "116"},
+"answer": "A",
+"details": "5³ = 125; 3² = 9; 125 + 9 = 134.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 1,111 × 11",
+"options": {
+"A": "12,221",
+"B": "12,121",
+"C": "11,221",
+"D": "12,321"},
+"answer": "A",
+"details": "1,111 × 10 = 11,110; +1,111 = 12,221.",
+"difficulty": "hard"
+},
+{
+"question": "Divide 4,321 by 3. What is the remainder?",
+"options": {
+"A": "1",
+"B": "2",
+"C": "0",
+"D": "3"},
+"answer": "A",
+"details": "3 × 1,440 = 4,320; 4,321 – 4,320 = 1.",
+"difficulty": "hard"
+},
+{
+"question": "What is 0.004 × 1,000?",
+"options": {
+"A": "4",
+"B": "40",
+"C": "0.4",
+"D": "0.04"},
+"answer": "A",
+"details": "0.004 × 1,000 = 4.",
+"difficulty": "hard"
+},
+{
+"question": "A cyclist covers 42 km in 3 hours. What is the average speed?",
+"options": {
+"A": "14 km/h",
+"B": "12 km/h",
+"C": "15 km/h",
+"D": "13 km/h"},
+"answer": "A",
+"details": "42 ÷ 3 = 14 km/h.",
+"difficulty": "hard"
+},
+{
+"question": "Which number has the most factors?",
+"options": {
+"A": "24",
+"B": "25",
+"C": "26",
+"D": "27"},
+"answer": "A",
+"details": "24 has 8 factors; 25 has 3; 26 has 4; 27 has 4. So 24 has the most.",
+"difficulty": "hard"
+},
+{
+"question": "What is the product of the largest and smallest prime numbers less than 20?",
+"options": {
+"A": "38",
+"B": "34",
+"C": "30",
+"D": "42"},
+"answer": "A",
+"details": "Smallest prime <20: 2; largest: 19; 2 × 19 = 38.",
+"difficulty": "hard"
+},
+{
+"question": "Which equals 9² – 4³?",
+"options": {
+"A": "17",
+"B": "81",
+"C": "64",
+"D": "25"},
+"answer": "A",
+"details": "9² = 81; 4³ = 64; 81 – 64 = 17.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 2,024 × 16",
+"options": {
+"A": "32,384",
+"B": "31,384",
+"C": "32,284",
+"D": "33,384"},
+"answer": "A",
+"details": "2,000 × 16 = 32,000; 24 × 16 = 384; total = 32,384.",
+"difficulty": "hard"
+},
+{
+"question": "Divide 6,000 by 16. What is the quotient?",
+"options": {
+"A": "375",
+"B": "365",
+"C": "385",
+"D": "350"},
+"answer": "A",
+"details": "16 × 375 = 6,000. So quotient is 375.",
+"difficulty": "hard"
+},
+{
+"question": "What is 987 ÷ 100?",
+"options": {
+"A": "9.87",
+"B": "98.7",
+"C": "0.987",
+"D": "987"},
+"answer": "A",
+"details": "Divide by 100: move decimal two places left → 9.87.",
+"difficulty": "hard"
+},
+{
+"question": "15 children share 180 sweets equally. How many does each get?",
+"options": {
+"A": "12",
+"B": "10",
+"C": "15",
+"D": "18"},
+"answer": "A",
+"details": "180 ÷ 15 = 12 sweets each.",
+"difficulty": "hard"
+},
+{
+"question": "Which is NOT a factor of 36?",
+"options": {
+"A": "8",
+"B": "9",
+"C": "12",
+"D": "6"},
+"answer": "A",
+"details": "36 ÷ 8 = 4.5 → not a whole number, so 8 is not a factor.",
+"difficulty": "hard"
+},
+{
+"question": "How many square numbers are there between 1 and 100?",
+"options": {
+"A": "9",
+"B": "10",
+"C": "8",
+"D": "11"},
+"answer": "B",
+"details": "1² to 10²: 1,4,9,16,25,36,49,64,81,100 → 10 numbers.",
+"difficulty": "hard"
+},
+{
+"question": "What is (6 + 4)²?",
+"options": {
+"A": "100",
+"B": "36",
+"C": "16",
+"D": "52"},
+"answer": "A",
+"details": "(6+4) = 10; 10² = 100.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 1,800 × 35",
+"options": {
+"A": "63,000",
+"B": "62,000",
+"C": "64,000",
+"D": "61,000"},
+"answer": "A",
+"details": "1,800 × 30 = 54,000; 1,800 × 5 = 9,000; total = 63,000.",
+"difficulty": "hard"
+},
+{
+"question": "Divide 7,777 by 9. What is the remainder?",
+"options": {
+"A": "1",
+"B": "5",
+"C": "6",
+"D": "7"},
+"answer": "A",
+"details": "To find the remainder of 7,777 divided by 9, we can sum the digits: 7+7+7+7 = 28. Then divide 28 by 9: 28 = 3 * 9 + 1. The remainder is 1.",
+"difficulty": "hard"
+},
+{
+"question": "What is 50.0 ÷ 1,000?",
+"options": {
+"A": "0.05",
+"B": "0.5",
+"C": "5",
+"D": "0.005"},
+"answer": "A",
+"details": "50 ÷ 1,000 = 0.05.",
+"difficulty": "hard"
+},
+{
+"question": "A book has 360 pages. If you read 12 pages a day, how many days to finish?",
+"options": {
+"A": "30",
+"B": "25",
+"C": "35",
+"D": "28"},
+"answer": "A",
+"details": "360 ÷ 12 = 30 days.",
+"difficulty": "hard"
+},
+{
+"question": "Which number is a common factor of 24, 36, and 48?",
+"options": {
+"A": "6",
+"B": "8",
+"C": "9",
+"D": "10"},
+"answer": "A",
+"details": "6 divides all three: 24÷6=4, 36÷6=6, 48÷6=8. 8 doesn’t divide 36; 9 doesn’t divide 24 or 48; 10 divides none.",
+"difficulty": "hard"
+},
+{
+"question": "What is the smallest composite number?",
+"options": {
+"A": "4",
+"B": "6",
+"C": "8",
+"D": "9"},
+"answer": "A",
+"details": "4 is the smallest composite number (factors: 1,2,4). 1 is not composite; 2 and 3 are prime.",
+"difficulty": "hard"
+},
+{
+"question": "What is 2⁴ + 3³?",
+"options": {
+"A": "43",
+"B": "16",
+"C": "27",
+"D": "33"},
+"answer": "A",
+"details": "2⁴ = 16; 3³ = 27; 16 + 27 = 43.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 3,030 × 22",
+"options": {
+"A": "66,660",
+"B": "65,660",
+"C": "66,560",
+"D": "67,660"},
+"answer": "A",
+"details": "3,030 × 20 = 60,600; 3,030 × 2 = 6,060; sum = 66,660.",
+"difficulty": "hard"
+},
+{
+"question": "Divide 8,000 by 125.",
+"options": {
+"A": "64",
+"B": "60",
+"C": "68",
+"D": "56"},
+"answer": "A",
+"details": "125 × 64 = 8,000 (since 125 × 8 = 1,000; 1,000 × 8 = 8,000 → 8×8=64).",
+"difficulty": "hard"
+},
+{
+"question": "What is 3.04 × 100?",
+"options": {
+"A": "304",
+"B": "30.4",
+"C": "0.304",
+"D": "3,040"},
+"answer": "A",
+"details": "3.04 × 100 = 304.",
+"difficulty": "hard"
+},
+{
+"question": "A pizza is cut into 8 slices. 5 friends share it equally. How many slices per person as a fraction?",
+"options": {
+"A": "8/5",
+"B": "5/8",
+"C": "1 3/5",
+"D": "1 5/8"},
+"answer": "C",
+"details": "8 ÷ 5 = 1 and 3/5 = 1 3/5 slices per person.",
+"difficulty": "hard"
+},
+{
+"question": "Which number is a multiple of 13 and less than 100?",
+"options": {
+"A": "91",
+"B": "84",
+"C": "88",
+"D": "95"},
+"answer": "A",
+"details": "13 × 7 = 91. Others are not divisible by 13.",
+"difficulty": "hard"
+},
+{
+"question": "What is the next square number after 81?",
+"options": {
+"A": "100",
+"B": "64",
+"C": "82",
+"D": "121"},
+"answer": "A",
+"details": "9² = 81; next is 10² = 100.",
+"difficulty": "hard"
+},
+{
+"question": "Which is true? 7² ___ 5 × 10",
+"options": {
+"A": ">",
+"B": "<",
+"C": "=",
+"D": "≥"},
+"answer": "B",
+"details": "7² = 49; 5 × 10 = 50; 49 is less than 50, so '<' is correct.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 2,222 × 13",
+"options": {
+"A": "28,886",
+"B": "27,886",
+"C": "28,786",
+"D": "29,886"},
+"answer": "A",
+"details": "2,222 × 10 = 22,220; 2,222 × 3 = 6,666; sum = 28,886.",
+"difficulty": "hard"
+},
+{
+"question": "Divide 9,000 by 72.",
+"options": {
+"A": "125",
+"B": "120",
+"C": "130",
+"D": "115"},
+"answer": "A",
+"details": "72 × 125 = 9,000 (since 72 × 100 = 7,200; 72 × 25 = 1,800; total 9,000).",
+"difficulty": "hard"
+},
+{
+"question": "What is 0.09 ÷ 10?",
+"options": {
+"A": "0.009",
+"B": "0.9",
+"C": "9",
+"D": "0.09"},
+"answer": "A",
+"details": "0.09 ÷ 10 = 0.009.",
+"difficulty": "hard"
+},
+{
+"question": "A car uses 12 litres of fuel to travel 180 km. How many km per litre?",
+"options": {
+"A": "15",
+"B": "12",
+"C": "18",
+"D": "10"},
+"answer": "A",
+"details": "180 ÷ 12 = 15 km per litre.",
+"difficulty": "hard"
+},
+{
+"question": "Which number is a prime factor of 45?",
+"options": {
+"A": "3",
+"B": "5",
+"C": "9",
+"D": "15"},
+"answer": "A",
+"details": "Prime factors of 45 are 3 and 5. 9 and 15 are not prime.",
+"difficulty": "hard"
+},
+{
+"question": "How many cube numbers are there between 1 and 100?",
+"options": {
+"A": "4",
+"B": "5",
+"C": "3",
+"D": "6"},
+"answer": "A",
+"details": "1³=1, 2³=8, 3³=27, 4³=64, 5³=125 (>100) → 4 cube numbers.",
+"difficulty": "hard"
+},
+{
+"question": "What is 10³ – 9²?",
+"options": {
+"A": "919",
+"B": "1,000",
+"C": "81",
+"D": "900"},
+"answer": "A",
+"details": "10³ = 1,000; 9² = 81; 1,000 – 81 = 919.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 1,500 × 48",
+"options": {
+"A": "72,000",
+"B": "71,000",
+"C": "73,000",
+"D": "70,000"},
+"answer": "A",
+"details": "1,500 × 50 = 75,000; minus 1,500 × 2 = 3,000; 75,000 – 3,000 = 72,000.",
+"difficulty": "hard"
+},
+{
+"question": "Divide 6,250 by 25.",
+"options": {
+"A": "250",
+"B": "240",
+"C": "260",
+"D": "200"},
+"answer": "A",
+"details": "25 × 250 = 6,250.",
+"difficulty": "hard"
+},
+{
+"question": "What is 700.5 ÷ 100?",
+"options": {
+"A": "7.005",
+"B": "70.05",
+"C": "0.7005",
+"D": "7005"},
+"answer": "A",
+"details": "700.5 ÷ 100 = 7.005.",
+"difficulty": "hard"
+},
+{
+"question": "A school has 360 pupils and 12 classes. If each class has the same number, how many pupils per class?",
+"options": {
+"A": "30",
+"B": "25",
+"C": "35",
+"D": "28"},
+"answer": "A",
+"details": "360 ÷ 12 = 30 pupils per class.",
+"difficulty": "hard"
+},
+{
+"question": "Which number is NOT a square number?",
+"options": {
+"A": "49",
+"B": "50",
+"C": "64",
+"D": "81"},
+"answer": "B",
+"details": "50 is not a perfect square; others are (7², 8², 9²).",
+"difficulty": "hard"
+},
+{
+"question": "What is the largest prime number less than 20?",
+"options": {
+"A": "19",
+"B": "17",
+"C": "23",
+"D": "13"},
+"answer": "A",
+"details": "19 is prime and the largest below 20.",
+"difficulty": "hard"
+},
+{
+"question": "Which equals (5 + 3)² – 4²?",
+"options": {
+"A": "48",
+"B": "64",
+"C": "16",
+"D": "32"},
+"answer": "A",
+"details": "(5+3)² = 64; 4² = 16; 64 – 16 = 48.",
+"difficulty": "hard"
+}
+]

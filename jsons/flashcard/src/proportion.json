@@ -1,8 +1,8 @@
 [
   {
-    "question": "If 2 apples cost $1, how much do 6 apples cost?",
-    "answer": "$3",
-    "details": "The cost is directly proportional to the number of apples. 6 apples is 3 times 2 apples, so cost = 3 × $1 = $3."
+    "question": "If 2 apples cost £1, how much do 6 apples cost?",
+    "answer": "£3",
+    "details": "The cost is directly proportional to the number of apples. 6 apples is 3 times 2 apples, so cost = 3 × £1 = £3."
   },
   {
     "question": "A car travels 120 km in 2 hours. How far will it travel in 5 hours at the same speed?",
@@ -10,9 +10,9 @@
     "details": "Distance is proportional to time. Speed = 120 km / 2 h = 60 km/h. In 5 hours: 60 × 5 = 300 km."
   },
   {
-    "question": "If 5 pens cost $2.50, how much do 8 pens cost?",
-    "answer": "$4.00",
-    "details": "Cost per pen = $2.50 ÷ 5 = $0.50. For 8 pens: 8 × $0.50 = $4.00."
+    "question": "If 5 pens cost £2.50, how much do 8 pens cost?",
+    "answer": "£4.00",
+    "details": "Cost per pen = £2.50 ÷ 5 = £0.50. For 8 pens: 8 × £0.50 = £4.00."
   },
   {
     "question": "It takes 3 workers 4 hours to paint a wall. How long would it take 6 workers to paint the same wall?",
@@ -30,9 +30,9 @@
     "details": "Flour is proportional to number of people. 10 ÷ 4 = 2.5, so 2.5 × 2 = 5 cups."
   },
   {
-    "question": "If 3 meters of cloth cost $15, how much does 7 meters cost?",
-    "answer": "$35",
-    "details": "Cost per meter = $15 ÷ 3 = $5. For 7 meters: 7 × $5 = $35."
+    "question": "If 3 meters of cloth cost £15, how much does 7 meters cost?",
+    "answer": "£35",
+    "details": "Cost per meter = £15 ÷ 3 = £5. For 7 meters: 7 × £5 = £35."
   },
   {
     "question": "A printer prints 60 pages in 5 minutes. How many pages can it print in 12 minutes?",
@@ -40,9 +40,9 @@
     "details": "Pages per minute = 60 ÷ 5 = 12. In 12 minutes: 12 × 12 = 144 pages."
   },
   {
-    "question": "If 2 kg of rice costs $4, how much does 5 kg cost?",
-    "answer": "$10",
-    "details": "Cost per kg = $4 ÷ 2 = $2. For 5 kg: 5 × $2 = $10."
+    "question": "If 2 kg of rice costs £4, how much does 5 kg cost?",
+    "answer": "£10",
+    "details": "Cost per kg = £4 ÷ 2 = £2. For 5 kg: 5 × £2 = £10."
   },
   {
     "question": "It takes 8 hours for 5 people to build a shed. How long would it take 10 people?",
@@ -50,9 +50,9 @@
     "details": "Inverse proportion. Total work = 5 × 8 = 40 person-hours. With 10 people: 40 ÷ 10 = 4 hours."
   },
   {
-    "question": "If 6 pencils cost $1.80, how much do 15 pencils cost?",
-    "answer": "$4.50",
-    "details": "Cost per pencil = $1.80 ÷ 6 = $0.30. For 15 pencils: 15 × $0.30 = $4.50."
+    "question": "If 6 pencils cost £1.80, how much do 15 pencils cost?",
+    "answer": "£4.50",
+    "details": "Cost per pencil = £1.80 ÷ 6 = £0.30. For 15 pencils: 15 × £0.30 = £4.50."
   },
   {
     "question": "A tap fills a tank in 12 hours. How long will it take if 3 identical taps are used?",
@@ -60,9 +60,9 @@
     "details": "Inverse proportion. One tap: 12 hours. Three taps: 12 ÷ 3 = 4 hours."
   },
   {
-    "question": "If 5 liters of milk cost $6, how much do 8 liters cost?",
-    "answer": "$9.60",
-    "details": "Cost per liter = $6 ÷ 5 = $1.20. For 8 liters: 8 × $1.20 = $9.60."
+    "question": "If 5 liters of milk cost £6, how much do 8 liters cost?",
+    "answer": "£9.60",
+    "details": "Cost per liter = £6 ÷ 5 = £1.20. For 8 liters: 8 × £1.20 = £9.60."
   },
   {
     "question": "A cyclist covers 30 km in 1.5 hours. How far will they go in 4 hours at the same speed?",
@@ -70,9 +70,9 @@
     "details": "Speed = 30 km ÷ 1.5 h = 20 km/h. In 4 hours: 20 × 4 = 80 km."
   },
   {
-    "question": "If 4 oranges cost $1.20, how much do 9 oranges cost?",
-    "answer": "$2.70",
-    "details": "Cost per orange = $1.20 ÷ 4 = $0.30. For 9 oranges: 9 × $0.30 = $2.70."
+    "question": "If 4 oranges cost £1.20, how much do 9 oranges cost?",
+    "answer": "£2.70",
+    "details": "Cost per orange = £1.20 ÷ 4 = £0.30. For 9 oranges: 9 × £0.30 = £2.70."
   },
   {
     "question": "It takes 6 machines 8 hours to produce a batch. How long with 12 machines?",
@@ -80,9 +80,9 @@
     "details": "Inverse proportion. Total work = 6 × 8 = 48 machine-hours. With 12 machines: 48 ÷ 12 = 4 hours."
   },
   {
-    "question": "If 3 notebooks cost $4.50, how much do 7 notebooks cost?",
-    "answer": "$10.50",
-    "details": "Cost per notebook = $4.50 ÷ 3 = $1.50. For 7 notebooks: 7 × $1.50 = $10.50."
+    "question": "If 3 notebooks cost £4.50, how much do 7 notebooks cost?",
+    "answer": "£10.50",
+    "details": "Cost per notebook = £4.50 ÷ 3 = £1.50. For 7 notebooks: 7 × £1.50 = £10.50."
   },
   {
     "question": "A car uses 10 liters of fuel to travel 120 km. How much fuel is needed for 180 km?",
@@ -90,9 +90,9 @@
     "details": "Fuel per km = 10 ÷ 120 = 1/12 liter/km. For 180 km: 180 × (1/12) = 15 liters."
   },
   {
-    "question": "If 2 kg of sugar costs $1.60, how much does 7 kg cost?",
-    "answer": "$5.60",
-    "details": "Cost per kg = $1.60 ÷ 2 = $0.80. For 7 kg: 7 × $0.80 = $5.60."
+    "question": "If 2 kg of sugar costs £1.60, how much does 7 kg cost?",
+    "answer": "£5.60",
+    "details": "Cost per kg = £1.60 ÷ 2 = £0.80. For 7 kg: 7 × £0.80 = £5.60."
   },
   {
     "question": "A pump can empty a pool in 9 hours. How long with 3 pumps?",
@@ -100,9 +100,9 @@
     "details": "Inverse proportion. One pump: 9 hours. Three pumps: 9 ÷ 3 = 3 hours."
   },
   {
-    "question": "If 5 meters of ribbon cost $7.50, how much does 12 meters cost?",
-    "answer": "$18.00",
-    "details": "Cost per meter = $7.50 ÷ 5 = $1.50. For 12 meters: 12 × $1.50 = $18.00."
+    "question": "If 5 meters of ribbon cost £7.50, how much does 12 meters cost?",
+    "answer": "£18.00",
+    "details": "Cost per meter = £7.50 ÷ 5 = £1.50. For 12 meters: 12 × £1.50 = £18.00."
   },
   {
     "question": "A train travels 240 km in 3 hours. How far in 7 hours?",
@@ -110,9 +110,9 @@
     "details": "Speed = 240 ÷ 3 = 80 km/h. In 7 hours: 80 × 7 = 560 km."
   },
   {
-    "question": "If 8 eggs cost $2.40, how much do 5 eggs cost?",
-    "answer": "$1.50",
-    "details": "Cost per egg = $2.40 ÷ 8 = $0.30. For 5 eggs: 5 × $0.30 = $1.50."
+    "question": "If 8 eggs cost £2.40, how much do 5 eggs cost?",
+    "answer": "£1.50",
+    "details": "Cost per egg = £2.40 ÷ 8 = £0.30. For 5 eggs: 5 × £0.30 = £1.50."
   },
   {
     "question": "It takes 10 days for 6 workers to complete a job. How long for 15 workers?",
@@ -120,9 +120,9 @@
     "details": "Inverse proportion. Total work = 6 × 10 = 60 worker-days. With 15 workers: 60 ÷ 15 = 4 days."
   },
   {
-    "question": "If 3 kg of potatoes cost $2.10, how much do 8 kg cost?",
-    "answer": "$5.60",
-    "details": "Cost per kg = $2.10 ÷ 3 = $0.70. For 8 kg: 8 × $0.70 = $5.60."
+    "question": "If 3 kg of potatoes cost £2.10, how much do 8 kg cost?",
+    "answer": "£5.60",
+    "details": "Cost per kg = £2.10 ÷ 3 = £0.70. For 8 kg: 8 × £0.70 = £5.60."
   },
   {
     "question": "A photocopier makes 180 copies in 6 minutes. How many in 15 minutes?",
@@ -130,9 +130,9 @@
     "details": "Copies per minute = 180 ÷ 6 = 30. In 15 minutes: 30 × 15 = 450 copies."
   },
   {
-    "question": "If 4 bottles of juice cost $6, how much do 9 bottles cost?",
-    "answer": "$13.50",
-    "details": "Cost per bottle = $6 ÷ 4 = $1.50. For 9 bottles: 9 × $1.50 = $13.50."
+    "question": "If 4 bottles of juice cost £6, how much do 9 bottles cost?",
+    "answer": "£13.50",
+    "details": "Cost per bottle = £6 ÷ 4 = £1.50. For 9 bottles: 9 × £1.50 = £13.50."
   },
   {
     "question": "A hose fills a tank in 20 minutes. How long with 4 hoses?",
@@ -140,9 +140,9 @@
     "details": "Inverse proportion. One hose: 20 minutes. Four hoses: 20 ÷ 4 = 5 minutes."
   },
   {
-    "question": "If 6 chocolates cost $3.60, how much do 10 chocolates cost?",
-    "answer": "$6.00",
-    "details": "Cost per chocolate = $3.60 ÷ 6 = $0.60. For 10 chocolates: 10 × $0.60 = $6.00."
+    "question": "If 6 chocolates cost £3.60, how much do 10 chocolates cost?",
+    "answer": "£6.00",
+    "details": "Cost per chocolate = £3.60 ÷ 6 = £0.60. For 10 chocolates: 10 × £0.60 = £6.00."
   },
   {
     "question": "A plane flies 900 km in 1.5 hours. How far in 4 hours?",
@@ -160,9 +160,9 @@
     "details": "Inverse proportion. Total work = 2 × 12 = 24 person-hours. With 6 people: 24 ÷ 6 = 4 hours."
   },
   {
-    "question": "If 7 pens cost $5.60, how much do 3 pens cost?",
-    "answer": "$2.40",
-    "details": "Cost per pen = $5.60 ÷ 7 = $0.80. For 3 pens: 3 × $0.80 = $2.40."
+    "question": "If 7 pens cost £5.60, how much do 3 pens cost?",
+    "answer": "£2.40",
+    "details": "Cost per pen = £5.60 ÷ 7 = £0.80. For 3 pens: 3 × £0.80 = £2.40."
   },
   {
     "question": "A car travels 180 km using 15 liters of petrol. How far on 25 liters?",
@@ -180,9 +180,9 @@
     "details": "Toys per hour = 200 ÷ 4 = 50. In 10 hours: 50 × 10 = 500 toys."
   },
   {
-    "question": "If 3 kg of flour costs $2.40, how much does 9 kg cost?",
-    "answer": "$7.20",
-    "details": "Cost per kg = $2.40 ÷ 3 = $0.80. For 9 kg: 9 × $0.80 = $7.20."
+    "question": "If 3 kg of flour costs £2.40, how much does 9 kg cost?",
+    "answer": "£7.20",
+    "details": "Cost per kg = £2.40 ÷ 3 = £0.80. For 9 kg: 9 × £0.80 = £7.20."
   },
   {
     "question": "It takes 5 days for 8 workers to build a wall. How long for 10 workers?",
@@ -200,9 +200,9 @@
     "details": "Speed = 210 ÷ 3 = 70 km/h. In 5 hours: 70 × 5 = 350 km."
   },
   {
-    "question": "If 6 oranges cost $1.80, how much do 4 oranges cost?",
-    "answer": "$1.20",
-    "details": "Cost per orange = $1.80 ÷ 6 = $0.30. For 4 oranges: 4 × $0.30 = $1.20."
+    "question": "If 6 oranges cost £1.80, how much do 4 oranges cost?",
+    "answer": "£1.20",
+    "details": "Cost per orange = £1.80 ÷ 6 = £0.30. For 4 oranges: 4 × £0.30 = £1.20."
   },
   {
     "question": "A tap can fill a bucket in 8 minutes. How long with 2 taps?",
@@ -210,9 +210,9 @@
     "details": "Inverse proportion. One tap: 8 minutes. Two taps: 8 ÷ 2 = 4 minutes."
   },
   {
-    "question": "If 5 notebooks cost $7.50, how much do 8 notebooks cost?",
-    "answer": "$12.00",
-    "details": "Cost per notebook = $7.50 ÷ 5 = $1.50. For 8 notebooks: 8 × $1.50 = $12.00."
+    "question": "If 5 notebooks cost £7.50, how much do 8 notebooks cost?",
+    "answer": "£12.00",
+    "details": "Cost per notebook = £7.50 ÷ 5 = £1.50. For 8 notebooks: 8 × £1.50 = £12.00."
   },
   {
     "question": "A car uses 8 liters of fuel for 100 km. How much for 250 km?",
@@ -220,9 +220,9 @@
     "details": "Fuel per km = 8 ÷ 100 = 0.08 L/km. For 250 km: 250 × 0.08 = 20 liters."
   },
   {
-    "question": "If 3 meters of rope cost $4.50, how much do 7 meters cost?",
-    "answer": "$10.50",
-    "details": "Cost per meter = $4.50 ÷ 3 = $1.50. For 7 meters: 7 × $1.50 = $10.50."
+    "question": "If 3 meters of rope cost £4.50, how much do 7 meters cost?",
+    "answer": "£10.50",
+    "details": "Cost per meter = £4.50 ÷ 3 = £1.50. For 7 meters: 7 × £1.50 = £10.50."
   },
   {
     "question": "A printer prints 240 pages in 8 minutes. How many in 20 minutes?",
@@ -230,9 +230,9 @@
     "details": "Pages per minute = 240 ÷ 8 = 30. In 20 minutes: 30 × 20 = 600 pages."
   },
   {
-    "question": "If 2 kg of apples cost $3, how much do 5 kg cost?",
-    "answer": "$7.50",
-    "details": "Cost per kg = $3 ÷ 2 = $1.50. For 5 kg: 5 × $1.50 = $7.50."
+    "question": "If 2 kg of apples cost £3, how much do 5 kg cost?",
+    "answer": "£7.50",
+    "details": "Cost per kg = £3 ÷ 2 = £1.50. For 5 kg: 5 × £1.50 = £7.50."
   },
   {
     "question": "It takes 9 hours for 4 workers to dig a trench. How long for 6 workers?",
@@ -240,9 +240,9 @@
     "details": "Inverse proportion. Total work = 4 × 9 = 36 worker-hours. With 6 workers: 36 ÷ 6 = 6 hours."
   },
   {
-    "question": "If 8 pencils cost $2, how much do 5 pencils cost?",
-    "answer": "$1.25",
-    "details": "Cost per pencil = $2 ÷ 8 = $0.25. For 5 pencils: 5 × $0.25 = $1.25."
+    "question": "If 8 pencils cost £2, how much do 5 pencils cost?",
+    "answer": "£1.25",
+    "details": "Cost per pencil = £2 ÷ 8 = £0.25. For 5 pencils: 5 × £0.25 = £1.25."
   },
   {
     "question": "A cyclist rides 45 km in 1.5 hours. How far in 4 hours?",
@@ -250,9 +250,9 @@
     "details": "Speed = 45 ÷ 1.5 = 30 km/h. In 4 hours: 30 × 4 = 120 km."
   },
   {
-    "question": "If 5 liters of oil cost $12.50, how much do 3 liters cost?",
-    "answer": "$7.50",
-    "details": "Cost per liter = $12.50 ÷ 5 = $2.50. For 3 liters: 3 × $2.50 = $7.50."
+    "question": "If 5 liters of oil cost £12.50, how much do 3 liters cost?",
+    "answer": "£7.50",
+    "details": "Cost per liter = £12.50 ÷ 5 = £2.50. For 3 liters: 3 × £2.50 = £7.50."
   },
   {
     "question": "A machine makes 300 parts in 5 hours. How many in 12 hours?",
@@ -260,9 +260,9 @@
     "details": "Parts per hour = 300 ÷ 5 = 60. In 12 hours: 60 × 12 = 720 parts."
   },
   {
-    "question": "If 6 meters of fabric cost $18, how much do 9 meters cost?",
-    "answer": "$27",
-    "details": "Cost per meter = $18 ÷ 6 = $3. For 9 meters: 9 × $3 = $27."
+    "question": "If 6 meters of fabric cost £18, how much do 9 meters cost?",
+    "answer": "£27",
+    "details": "Cost per meter = £18 ÷ 6 = £3. For 9 meters: 9 × £3 = £27."
   },
   {
     "question": "It takes 15 days for 4 people to complete a project. How long for 6 people?",
@@ -270,9 +270,9 @@
     "details": "Inverse proportion. Total work = 4 × 15 = 60 person-days. With 6 people: 60 ÷ 6 = 10 days."
   },
   {
-    "question": "If 3 kg of rice cost $4.20, how much do 7 kg cost?",
-    "answer": "$9.80",
-    "details": "Cost per kg = $4.20 ÷ 3 = $1.40. For 7 kg: 7 × $1.40 = $9.80."
+    "question": "If 3 kg of rice cost £4.20, how much do 7 kg cost?",
+    "answer": "£9.80",
+    "details": "Cost per kg = £4.20 ÷ 3 = £1.40. For 7 kg: 7 × £1.40 = £9.80."
   },
   {
     "question": "A train covers 360 km in 4 hours. How far in 9 hours?",
@@ -280,9 +280,9 @@
     "details": "Speed = 360 ÷ 4 = 90 km/h. In 9 hours: 90 × 9 = 810 km."
   },
   {
-    "question": "If 10 eggs cost $3, how much do 6 eggs cost?",
-    "answer": "$1.80",
-    "details": "Cost per egg = $3 ÷ 10 = $0.30. For 6 eggs: 6 × $0.30 = $1.80."
+    "question": "If 10 eggs cost £3, how much do 6 eggs cost?",
+    "answer": "£1.80",
+    "details": "Cost per egg = £3 ÷ 10 = £0.30. For 6 eggs: 6 × £0.30 = £1.80."
   },
   {
     "question": "A hose fills a pool in 24 hours. How long with 6 hoses?",
@@ -290,9 +290,9 @@
     "details": "Inverse proportion. One hose: 24 hours. Six hoses: 24 ÷ 6 = 4 hours."
   },
   {
-    "question": "If 4 books cost $20, how much do 7 books cost?",
-    "answer": "$35",
-    "details": "Cost per book = $20 ÷ 4 = $5. For 7 books: 7 × $5 = $35."
+    "question": "If 4 books cost £20, how much do 7 books cost?",
+    "answer": "£35",
+    "details": "Cost per book = £20 ÷ 4 = £5. For 7 books: 7 × £5 = £35."
   },
   {
     "question": "A car travels 225 km using 15 liters of fuel. How far on 24 liters?",
@@ -310,9 +310,9 @@
     "details": "Widgets per hour = 150 ÷ 3 = 50. In 10 hours: 50 × 10 = 500 widgets."
   },
   {
-    "question": "If 2 kg of sugar cost $1.40, how much does 9 kg cost?",
-    "answer": "$6.30",
-    "details": "Cost per kg = $1.40 ÷ 2 = $0.70. For 9 kg: 9 × $0.70 = $6.30."
+    "question": "If 2 kg of sugar cost £1.40, how much does 9 kg cost?",
+    "answer": "£6.30",
+    "details": "Cost per kg = £1.40 ÷ 2 = £0.70. For 9 kg: 9 × £0.70 = £6.30."
   },
   {
     "question": "It takes 12 days for 5 workers to finish a job. How long for 10 workers?",
@@ -330,9 +330,9 @@
     "details": "Speed = 1,200 ÷ 2 = 600 km/h. In 5 hours: 600 × 5 = 3,000 km."
   },
   {
-    "question": "If 7 oranges cost $2.10, how much do 4 oranges cost?",
-    "answer": "$1.20",
-    "details": "Cost per orange = $2.10 ÷ 7 = $0.30. For 4 oranges: 4 × $0.30 = $1.20."
+    "question": "If 7 oranges cost £2.10, how much do 4 oranges cost?",
+    "answer": "£1.20",
+    "details": "Cost per orange = £2.10 ÷ 7 = £0.30. For 4 oranges: 4 × £0.30 = £1.20."
   },
   {
     "question": "A tap fills a tank in 30 minutes. How long with 5 taps?",
@@ -340,9 +340,9 @@
     "details": "Inverse proportion. One tap: 30 minutes. Five taps: 30 ÷ 5 = 6 minutes."
   },
   {
-    "question": "If 3 notebooks cost $6, how much do 10 notebooks cost?",
-    "answer": "$20",
-    "details": "Cost per notebook = $6 ÷ 3 = $2. For 10 notebooks: 10 × $2 = $20."
+    "question": "If 3 notebooks cost £6, how much do 10 notebooks cost?",
+    "answer": "£20",
+    "details": "Cost per notebook = £6 ÷ 3 = £2. For 10 notebooks: 10 × £2 = £20."
   },
   {
     "question": "A bus uses 30 liters of diesel for 240 km. How much for 400 km?",
@@ -350,9 +350,9 @@
     "details": "Fuel per km = 30 ÷ 240 = 0.125 L/km. For 400 km: 400 × 0.125 = 50 liters."
   },
   {
-    "question": "If 4 meters of cable cost $10, how much do 9 meters cost?",
-    "answer": "$22.50",
-    "details": "Cost per meter = $10 ÷ 4 = $2.50. For 9 meters: 9 × $2.50 = $22.50."
+    "question": "If 4 meters of cable cost £10, how much do 9 meters cost?",
+    "answer": "£22.50",
+    "details": "Cost per meter = £10 ÷ 4 = £2.50. For 9 meters: 9 × £2.50 = £22.50."
   },
   {
     "question": "A photocopier makes 300 copies in 10 minutes. How many in 25 minutes?",
@@ -360,9 +360,9 @@
     "details": "Copies per minute = 300 ÷ 10 = 30. In 25 minutes: 30 × 25 = 750 copies."
   },
   {
-    "question": "If 5 kg of potatoes cost $4, how much do 8 kg cost?",
-    "answer": "$6.40",
-    "details": "Cost per kg = $4 ÷ 5 = $0.80. For 8 kg: 8 × $0.80 = $6.40."
+    "question": "If 5 kg of potatoes cost £4, how much do 8 kg cost?",
+    "answer": "£6.40",
+    "details": "Cost per kg = £4 ÷ 5 = £0.80. For 8 kg: 8 × £0.80 = £6.40."
   },
   {
     "question": "It takes 8 hours for 3 people to paint a house. How long for 4 people?",
@@ -370,9 +370,9 @@
     "details": "Inverse proportion. Total work = 3 × 8 = 24 person-hours. With 4 people: 24 ÷ 4 = 6 hours."
   },
   {
-    "question": "If 9 pens cost $4.50, how much do 4 pens cost?",
-    "answer": "$2.00",
-    "details": "Cost per pen = $4.50 ÷ 9 = $0.50. For 4 pens: 4 × $0.50 = $2.00."
+    "question": "If 9 pens cost £4.50, how much do 4 pens cost?",
+    "answer": "£2.00",
+    "details": "Cost per pen = £4.50 ÷ 9 = £0.50. For 4 pens: 4 × £0.50 = £2.00."
   },
   {
     "question": "A car travels 150 km in 2 hours. How far in 7 hours?",
@@ -380,9 +380,9 @@
     "details": "Speed = 150 ÷ 2 = 75 km/h. In 7 hours: 75 × 7 = 525 km."
   },
   {
-    "question": "If 6 liters of juice cost $9, how much do 4 liters cost?",
-    "answer": "$6.00",
-    "details": "Cost per liter = $9 ÷ 6 = $1.50. For 4 liters: 4 × $1.50 = $6.00."
+    "question": "If 6 liters of juice cost £9, how much do 4 liters cost?",
+    "answer": "£6.00",
+    "details": "Cost per liter = £9 ÷ 6 = £1.50. For 4 liters: 4 × £1.50 = £6.00."
   },
   {
     "question": "A machine produces 400 items in 8 hours. How many in 15 hours?",
@@ -390,9 +390,9 @@
     "details": "Items per hour = 400 ÷ 8 = 50. In 15 hours: 50 × 15 = 750 items."
   },
   {
-    "question": "If 7 meters of cloth cost $21, how much do 5 meters cost?",
-    "answer": "$15",
-    "details": "Cost per meter = $21 ÷ 7 = $3. For 5 meters: 5 × $3 = $15."
+    "question": "If 7 meters of cloth cost £21, how much do 5 meters cost?",
+    "answer": "£15",
+    "details": "Cost per meter = £21 ÷ 7 = £3. For 5 meters: 5 × £3 = £15."
   },
   {
     "question": "It takes 10 days for 6 workers to build a shed. How long for 15 workers?",
@@ -400,9 +400,9 @@
     "details": "Inverse proportion. Total work = 6 × 10 = 60 worker-days. With 15 workers: 60 ÷ 15 = 4 days."
   },
   {
-    "question": "If 8 kg of flour cost $6.40, how much do 3 kg cost?",
-    "answer": "$2.40",
-    "details": "Cost per kg = $6.40 ÷ 8 = $0.80. For 3 kg: 3 × $0.80 = $2.40."
+    "question": "If 8 kg of flour cost £6.40, how much do 3 kg cost?",
+    "answer": "£2.40",
+    "details": "Cost per kg = £6.40 ÷ 8 = £0.80. For 3 kg: 3 × £0.80 = £2.40."
   },
   {
     "question": "A train covers 480 km in 6 hours. How far in 10 hours?",
@@ -410,9 +410,9 @@
     "details": "Speed = 480 ÷ 6 = 80 km/h. In 10 hours: 80 × 10 = 800 km."
   },
   {
-    "question": "If 5 chocolates cost $2.50, how much do 12 chocolates cost?",
-    "answer": "$6.00",
-    "details": "Cost per chocolate = $2.50 ÷ 5 = $0.50. For 12 chocolates: 12 × $0.50 = $6.00."
+    "question": "If 5 chocolates cost £2.50, how much do 12 chocolates cost?",
+    "answer": "£6.00",
+    "details": "Cost per chocolate = £2.50 ÷ 5 = £0.50. For 12 chocolates: 12 × £0.50 = £6.00."
   },
   {
     "question": "A hose fills a tank in 18 minutes. How long with 3 hoses?",
@@ -420,9 +420,9 @@
     "details": "Inverse proportion. One hose: 18 minutes. Three hoses: 18 ÷ 3 = 6 minutes."
   },
   {
-    "question": "If 6 apples cost $1.50, how much do 10 apples cost?",
-    "answer": "$2.50",
-    "details": "Cost per apple = $1.50 ÷ 6 = $0.25. For 10 apples: 10 × $0.25 = $2.50."
+    "question": "If 6 apples cost £1.50, how much do 10 apples cost?",
+    "answer": "£2.50",
+    "details": "Cost per apple = £1.50 ÷ 6 = £0.25. For 10 apples: 10 × £0.25 = £2.50."
   },
   {
     "question": "A car uses 12 liters of fuel for 150 km. How much for 250 km?",
@@ -440,9 +440,9 @@
     "details": "Pages per minute = 400 ÷ 8 = 50. In 18 minutes: 50 × 18 = 900 pages."
   },
   {
-    "question": "If 4 kg of rice cost $5.60, how much do 9 kg cost?",
-    "answer": "$12.60",
-    "details": "Cost per kg = $5.60 ÷ 4 = $1.40. For 9 kg: 9 × $1.40 = $12.60."
+    "question": "If 4 kg of rice cost £5.60, how much do 9 kg cost?",
+    "answer": "£12.60",
+    "details": "Cost per kg = £5.60 ÷ 4 = £1.40. For 9 kg: 9 × £1.40 = £12.60."
   },
   {
     "question": "It takes 14 days for 5 workers to complete a task. How long for 7 workers?",
@@ -460,9 +460,9 @@
     "details": "Speed = 60 ÷ 2 = 30 km/h. In 5 hours: 30 × 5 = 150 km."
   },
   {
-    "question": "If 8 eggs cost $2.80, how much do 5 eggs cost?",
-    "answer": "$1.75",
-    "details": "Cost per egg = $2.80 ÷ 8 = $0.35. For 5 eggs: 5 × $0.35 = $1.75."
+    "question": "If 8 eggs cost £2.80, how much do 5 eggs cost?",
+    "answer": "£1.75",
+    "details": "Cost per egg = £2.80 ÷ 8 = £0.35. For 5 eggs: 5 × £0.35 = £1.75."
   },
   {
     "question": "A tap fills a bucket in 15 minutes. How long with 3 taps?",
@@ -470,9 +470,9 @@
     "details": "Inverse proportion. One tap: 15 minutes. Three taps: 15 ÷ 3 = 5 minutes."
   },
   {
-    "question": "If 7 books cost $21, how much do 4 books cost?",
-    "answer": "$12",
-    "details": "Cost per book = $21 ÷ 7 = $3. For 4 books: 4 × $3 = $12."
+    "question": "If 7 books cost £21, how much do 4 books cost?",
+    "answer": "£12",
+    "details": "Cost per book = £21 ÷ 7 = £3. For 4 books: 4 × £3 = £12."
   },
   {
     "question": "A plane flies 1,800 km in 3 hours. How far in 7 hours?",
@@ -480,9 +480,9 @@
     "details": "Speed = 1,800 ÷ 3 = 600 km/h. In 7 hours: 600 × 7 = 4,200 km."
   },
   {
-    "question": "If 10 pencils cost $3.50, how much do 6 pencils cost?",
-    "answer": "$2.10",
-    "details": "Cost per pencil = $3.50 ÷ 10 = $0.35. For 6 pencils: 6 × $0.35 = $2.10."
+    "question": "If 10 pencils cost £3.50, how much do 6 pencils cost?",
+    "answer": "£2.10",
+    "details": "Cost per pencil = £3.50 ÷ 10 = £0.35. For 6 pencils: 6 × £0.35 = £2.10."
   },
   {
     "question": "A factory produces 250 units in 5 hours. How many in 14 hours?",
@@ -490,9 +490,9 @@
     "details": "Units per hour = 250 ÷ 5 = 50. In 14 hours: 50 × 14 = 700 units."
   },
   {
-    "question": "If 6 kg of sugar cost $4.80, how much do 2 kg cost?",
-    "answer": "$1.60",
-    "details": "Cost per kg = $4.80 ÷ 6 = $0.80. For 2 kg: 2 × $0.80 = $1.60."
+    "question": "If 6 kg of sugar cost £4.80, how much do 2 kg cost?",
+    "answer": "£1.60",
+    "details": "Cost per kg = £4.80 ÷ 6 = £0.80. For 2 kg: 2 × £0.80 = £1.60."
   },
   {
     "question": "It takes 16 days for 4 workers to build a wall. How long for 8 workers?",
@@ -500,9 +500,9 @@
     "details": "Inverse proportion. Total work = 4 × 16 = 64 worker-days. With 8 workers: 64 ÷ 8 = 8 days."
   },
   {
-    "question": "If 9 meters of rope cost $27, how much do 5 meters cost?",
-    "answer": "$15",
-    "details": "Cost per meter = $27 ÷ 9 = $3. For 5 meters: 5 × $3 = $15."
+    "question": "If 9 meters of rope cost £27, how much do 5 meters cost?",
+    "answer": "£15",
+    "details": "Cost per meter = £27 ÷ 9 = £3. For 5 meters: 5 × £3 = £15."
   },
   {
     "question": "A car travels 200 km using 16 liters of fuel. How far on 30 liters?",
@@ -510,8 +510,58 @@
     "details": "Distance per liter = 200 ÷ 16 = 12.5 km/L. On 30 liters: 30 × 12.5 = 375 km."
   },
   {
-    "question": "If 5 notebooks cost $12.50, how much do 3 notebooks cost?",
-    "answer": "$7.50",
-    "details": "Cost per notebook = $12.50 ÷ 5 = $2.50. For 3 notebooks: 3 × $2.50 = $7.50."
-  }
+    "question": "If 5 notebooks cost £12.50, how much do 3 notebooks cost?",
+    "answer": "£7.50",
+    "details": "Cost per notebook = £12.50 ÷ 5 = £2.50. For 3 notebooks: 3 × £2.50 = £7.50."
+  },
+    {
+      "question": "If 3 pencils cost £1.50, how much would 5 pencils cost at the same rate?",
+      "answer": "2.50",
+      "details": "This is a direct proportion problem. First, find the cost of one pencil: £1.50 ÷ 3 = £0.50. Then multiply by 5: 5 × £0.50 = £2.50. Alternatively, set up a proportion: 3/1.50 = 5/x → cross-multiply: 3x = 7.50 → x = 2.50. Proportional reasoning is a key skill in real-life shopping and is emphasized in standards like the Common Core (Grade 6)."
+    },
+    {
+      "question": "A recipe uses 2 cups of flour for every 3 cups of sugar. How many cups of sugar are needed if 8 cups of flour are used?",
+      "answer": "12",
+      "details": "The ratio of flour to sugar is 2:3. If 8 cups of flour are used, that’s 4 times the original amount (8 ÷ 2 = 4). So, sugar needed = 3 × 4 = 12 cups. This maintains the same proportion. Scaling recipes is a common real-world application of proportions taught in elementary math."
+    },
+    {
+      "question": "Which pair of ratios forms a proportion: 4/6 and 6/9, or 5/8 and 3/5?",
+      "answer": "4/6 and 6/9",
+      "details": "Two ratios form a proportion if they are equivalent. Simplify 4/6 = 2/3, and 6/9 = 2/3—so they are equal. For 5/8 and 3/5: 5/8 = 0.625, 3/5 = 0.6—not equal. A proportion is a statement that two ratios are equal, a core concept in ratio and proportion units (e.g., UK Key Stage 3, US Grade 6)."
+    },
+    {
+      "question": "If 4 meters of cloth cost £24, how much would 7 meters cost?",
+      "answer": "42",
+      "details": "Cost per meter = £24 ÷ 4 = £6. So 7 meters cost 7 × £6 = £42. This uses unit rate to solve a direct proportion. Real-world contexts like fabric pricing help students apply math to everyday decisions."
+    },
+    {
+      "question": "A map scale shows that 1 cm represents 5 km. How many kilometers does 6 cm represent?",
+      "answer": "30",
+      "details": "This is a proportional relationship: 1 cm : 5 km = 6 cm : x km. Since 1 × x = 5 × 6, x = 30. So 6 cm represents 30 km. Map scales are a standard application of proportion in geography and mathematics curricula worldwide."
+    },
+    {
+      "question": "If 10 apples weigh 1.5 kg, how much do 4 apples weigh (assuming all apples are the same weight)?",
+      "answer": "0.6",
+      "details": "Weight per apple = 1.5 kg ÷ 10 = 0.15 kg. So 4 apples weigh 4 × 0.15 = 0.6 kg. Alternatively, set up a proportion: 10/1.5 = 4/x → 10x = 6 → x = 0.6. This models proportional reasoning with mass, a common topic in measurement units."
+    },
+    {
+      "question": "In a classroom, the ratio of boys to girls is 3:4. If there are 21 boys, how many girls are there?",
+      "answer": "28",
+      "details": "The ratio 3:4 means for every 3 boys, there are 4 girls. If there are 21 boys, that’s 21 ÷ 3 = 7 groups. So girls = 7 × 4 = 28. This uses equivalent ratios to solve real-world grouping problems, aligned with elementary ratio standards."
+    },
+    {
+      "question": "A car travels 120 km in 2 hours at a constant speed. How far will it travel in 5 hours?",
+      "answer": "300",
+      "details": "Speed is constant, so distance is directly proportional to time. Distance per hour = 120 ÷ 2 = 60 km/h. In 5 hours: 60 × 5 = 300 km. This applies the concept of direct proportion to motion, a foundational idea in both math and science."
+    },
+    {
+      "question": "Which equation correctly represents the proportion: '5 is to 10 as 8 is to 16'?",
+      "answer": "5/10 = 8/16",
+      "details": "The phrase 'a is to b as c is to d' translates to the proportion a/b = c/d. So '5 is to 10 as 8 is to 16' becomes 5/10 = 8/16. Both sides simplify to 1/2, confirming the proportion is valid. Understanding this notation is essential for solving word problems involving ratios."
+    },
+    {
+      "question": "If 6 identical notebooks cost £9, what is the cost of one notebook?",
+      "answer": "1.50",
+      "details": "This uses proportion to find a unit rate. Total cost = £9 for 6 notebooks. Cost per notebook = 9 ÷ 6 = 1.5, or £1.50. Unit pricing is a practical life skill and a standard topic in elementary mathematics (e.g., Common Core 6.RP.A.3)."
+    }
 ]

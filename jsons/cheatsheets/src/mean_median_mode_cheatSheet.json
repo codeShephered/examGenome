@@ -1,0 +1,52 @@
+[
+    {
+      "question": "What is the **mean** of a set of numbers?",
+      "answer": "The mean is the average—found by adding all the numbers and dividing by how many numbers there are.",
+      "explanation": "Example: For 2, 4, 6: add them (2+4+6=12), then divide by 3 → mean = 4. It gives a 'fair share' value."
+    },
+    {
+      "question": "What is the **median** of a list of numbers?",
+      "answer": "The median is the middle number when the numbers are put in order from smallest to largest.",
+      "explanation": "If there’s an even number of values, the median is the average of the two middle numbers. It shows the 'center' of the data."
+    },
+    {
+      "question": "What is the **mode** of a data set?",
+      "answer": "The mode is the number that appears most often.",
+      "explanation": "A data set can have one mode, more than one mode, or no mode at all (if all numbers appear the same number of times)."
+    },
+    {
+      "question": "What is the **range** of a group of numbers?",
+      "answer": "The range is the difference between the largest and smallest numbers.",
+      "explanation": "You find it by subtracting: Range = Biggest number – Smallest number. It tells how spread out the data is."
+    },
+    {
+      "question": "Do mean, median, and mode have units?",
+      "answer": "Yes! They use the same units as the data—like centimeters, dollars, or points.",
+      "explanation": "If you’re finding the mean height of students in cm, the answer is in cm. The units don’t disappear!"
+    },
+    {
+      "question": "Which measure of center is not affected by very large or very small numbers (outliers)?",
+      "answer": "The median.",
+      "explanation": "The median only cares about the middle value, so one very high or low number won’t change it much. The mean can be pulled up or down by outliers."
+    },
+    {
+      "question": "Can a data set have more than one mode?",
+      "answer": "Yes! If two (or more) numbers appear the same highest number of times, the data is 'bimodal' or 'multimodal'.",
+      " explanation": "Example: In 1, 2, 2, 3, 3, both 2 and 3 are modes. If all numbers are different, there is no mode."
+    },
+    {
+      "question": "What must you always do before finding the median?",
+      "answer": "Put the numbers in order from smallest to largest.",
+      "explanation": "The median is based on position, not value—so ordering is essential. For example: 5, 1, 3 → order to 1, 3, 5 → median is 3."
+    },
+    {
+      "question": "Which measure tells you how spread out the data is?",
+      "answer": "The range.",
+      "explanation": "A small range means numbers are close together. A large range means they are far apart. It’s the simplest measure of spread."
+    },
+    {
+      "question": "What is the main difference between mean and median?",
+      "answer": "The mean uses all numbers in the calculation, while the median only uses the middle one(s).",
+      "explanation": "Mean = total ÷ count. Median = middle position. They can be very different if the data has extreme values."
+    }
+]

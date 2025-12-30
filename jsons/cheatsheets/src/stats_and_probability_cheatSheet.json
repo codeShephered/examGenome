@@ -1,0 +1,52 @@
+[
+    {
+      "question": "What is data in statistics?",
+      "answer": "Data is information collected about things, like numbers of pets, favorite colors, or test scores.",
+      "explanation": "Data can be numbers (like ages) or words (like names of animals). We organize it to find patterns or make decisions."
+    },
+    {
+      "question": "What are the three main types of averages in statistics?",
+      "answer": "Mean, median, and mode.",
+      "explanation": "Mean = total ÷ number of items. Median = middle value when ordered. Mode = most common value. Each shows a 'typical' result in a different way."
+    },
+    {
+      "question": "What is the range of a data set?",
+      "answer": "The range is the difference between the largest and smallest values.",
+      "explanation": "It tells you how spread out the data is. A small range means numbers are close together; a large range means they are far apart."
+    },
+    {
+      "question": "How do we display data clearly?",
+      "answer": "Using charts and graphs like bar graphs, pictograms, line plots, and pie charts.",
+      "explanation": "These pictures make it easier to see patterns, compare groups, and understand information at a glance."
+    },
+    {
+      "question": "What is probability?",
+      "answer": "Probability is how likely something is to happen—like flipping a coin or rolling a die.",
+      "explanation": "It’s measured as a number from 0 (impossible) to 1 (certain), or as a fraction, decimal, or percentage."
+    },
+    {
+      "question": "What does a probability of 0 or 1 mean?",
+      "answer": "0 means it will never happen. 1 means it will definitely happen.",
+      "explanation": "For example, the probability of rolling a 7 on a regular die is 0. The probability of the sun rising tomorrow is 1."
+    },
+    {
+      "question": "How do you write the probability of an event?",
+      "answer": "As: (Number of favorable outcomes) ÷ (Total number of possible outcomes).",
+      "explanation": "Example: A coin has 2 sides. Probability of heads = 1 (favorable) ÷ 2 (total) = 1/2."
+    },
+    {
+      "question": "Can probability be shown as a fraction, decimal, or percent?",
+      "answer": "Yes! All three are used—like 1/2, 0.5, or 50%—to show how likely something is.",
+      "explanation": "They all mean the same thing, just written differently. You can convert between them."
+    },
+    {
+      "question": "What is a fair game or experiment in probability?",
+      "answer": "A fair game is one where all outcomes are equally likely—like a fair coin or a fair die.",
+      "explanation": "In a fair coin toss, heads and tails each have a 50% chance. No side is more likely to win."
+    },
+    {
+      "question": "Do statistics and probability use units?",
+      "answer": "Statistics often uses the same units as the data (like cm or dollars). Probability has no units—it’s just a number between 0 and 1.",
+      "explanation": "For example, average height might be 140 cm (with units), but the probability of rain is 0.7 (no units)."
+    }
+]

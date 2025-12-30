@@ -25,7 +25,7 @@ from reportlab.platypus import (
 )
 
 # === Configuration ===
-INPUT_FOLDER = "trial/topicSampleJson/Percentages.json"  # Folder where your *.json files are stored
+INPUT_FOLDER = "../../trial/Percentages.json"  # Folder where your *.json files are stored
 OUTPUT_PREFIX = "Percentages Topic Sample Sheet "  # Prefix for output PDF files
 TOTAL_PER_PDF = 20  # Questions per PDF
 LOGO_PATH = "/Users/rd/examGenome.png"

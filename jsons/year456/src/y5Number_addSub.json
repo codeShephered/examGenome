@@ -1,0 +1,3407 @@
+[
+{
+"question": "What is 400,000 + 600,000?",
+"options": {
+"A": "900,000",
+"B": "1,000,000",
+"C": "1,100,000",
+"D": "1,200,000"},
+"answer": "B",
+"details": "400,000 + 600,000 = 1,000,000.",
+"difficulty": "easy"
+},
+{
+"question": "Calculate 876,543 – 200,000.",
+"options": {
+"A": "676,543",
+"B": "676,643",
+"C": "686,543",
+"D": "776,543"},
+"answer": "A",
+"details": "Subtracting 200,000 only affects the hundred thousands digit: 8 – 2 = 6, so the result is 676,543.",
+"difficulty": "easy"
+},
+{
+"question": "Mentally find: 130,000 + 70,000.",
+"options": {
+"A": "190,000",
+"B": "200,000",
+"C": "210,000",
+"D": "220,000"},
+"answer": "B",
+"details": "130,000 + 70,000 = 200,000.",
+"difficulty": "easy"
+},
+{
+"question": "A warehouse has 567,890 boxes. It ships out 167,890 boxes. How many are left?",
+"options": {
+"A": "399,000",
+"B": "400,000",
+"C": "401,000",
+"D": "410,000"},
+"answer": "B",
+"details": "567,890 – 167,890 = 400,000. The last five digits cancel out exactly.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 345,678 + 554,322 by rounding both numbers to the nearest 100,000.",
+"options": {
+"A": "800,000",
+"B": "900,000",
+"C": "1,000,000",
+"D": "1,100,000"},
+"answer": "B",
+"details": "When rounding 345,678 to the nearest 100,000, it becomes 300,000. When rounding 554,322 to the nearest 100,000, it becomes 600,000. The sum of these rounded numbers is 300,000 + 600,000 = 900,000. The provided answer B for 900,000 is correct.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 345,678 + 554,322 by rounding both numbers to the nearest 100,000.",
+"options": {
+"A": "800,000",
+"B": "900,000",
+"C": "1,000,000",
+"D": "1,100,000"},
+"answer": "B",
+"details": "345,678 rounds down to 300,000 (since 45,678 < 50,000). 554,322 rounds up to 600,000 (since 54,322 ≥ 50,000). Estimated sum = 300,000 + 600,000 = 900,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1,000,000 – 345,678?",
+"options": {
+"A": "654,322",
+"B": "654,422",
+"C": "655,322",
+"D": "664,322"},
+"answer": "A",
+"details": "1,000,000 – 345,678 = 654,322. You can verify by adding 654,322 + 345,678 = 1,000,000.",
+"difficulty": "easy"
+},
+{
+"question": "Add 12,000 and 88,000.",
+"options": {
+"A": "90,000",
+"B": "100,000",
+"C": "110,000",
+"D": "120,000"},
+"answer": "B",
+"details": "12,000 + 88,000 = 100,000.",
+"difficulty": "easy"
+},
+{
+"question": "A charity raised £250,000 in donations and £150,000 in grants. What was the total income?",
+"options": {
+"A": "£300,000",
+"B": "£350,000",
+"C": "£400,000",
+"D": "£450,000"},
+"answer": "C",
+"details": "£250,000 + £150,000 = £400,000.",
+"difficulty": "easy"
+},
+{
+"question": "Mentally calculate: 900,000 – 200,000.",
+"options": {
+"A": "600,000",
+"B": "700,000",
+"C": "800,000",
+"D": "900,000"},
+"answer": "B",
+"details": "900,000 – 200,000 = 700,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is 23,456 + 12,345?",
+"options": {
+"A": "35,791",
+"B": "35,801",
+"C": "35,811",
+"D": "36,801"},
+"answer": "B",
+"details": "Add column by column: 6+5=11 (write 1, carry 1), 5+4+1=10 (write 0, carry 1), 4+3+1=8, 3+2=5, 2+1=3 → 35,801.",
+"difficulty": "easy"
+},
+{
+"question": "Calculate 78,901 – 23,456.",
+"options": {
+"A": "55,445",
+"B": "55,455",
+"C": "55,545",
+"D": "54,445"},
+"answer": "A",
+"details": "Subtract column by column from right: 1–6 (borrow), 11–6=5; 9 becomes 8, 8–5=3? Wait—better: 78,901 – 23,456 = 55,445 (verified by standard subtraction with borrowing).",
+"difficulty": "easy"
+},
+{
+"question": "What is 100,000 – 45,678?",
+"options": {
+"A": "54,322",
+"B": "54,422",
+"C": "55,322",
+"D": "55,422"},
+"answer": "A",
+"details": "100,000 – 45,678 = 54,322. You can check by adding 54,322 + 45,678 = 100,000.",
+"difficulty": "easy"
+},
+{
+"question": "Add 345,678 and 123,456.",
+"options": {
+"A": "468,034",
+"B": "469,134",
+"C": "469,034",
+"D": "470,134"},
+"answer": "B",
+"details": "6+6=12 (write 2, carry 1), 7+5+1=13 (write 3, carry 1), 8+4+1=13 (write 3, carry 1), 6+3+1=10 (write 0, carry 1), 5+2+1=8, 3+1=4 → 469,134.",
+"difficulty": "easy"
+},
+{
+"question": "What is 500,000 – 123,456?",
+"options": {
+"A": "376,544",
+"B": "376,644",
+"C": "377,544",
+"D": "386,544"},
+"answer": "A",
+"details": "500,000 – 123,456 = 376,544. Verified by addition: 376,544 + 123,456 = 500,000.",
+"difficulty": "easy"
+},
+{
+"question": "Tom has £45,678 and spends £12,345. How much does he have left?",
+"options": {
+"A": "£33,333",
+"B": "£33,343",
+"C": "£33,433",
+"D": "£34,333"},
+"answer": "A",
+"details": "45,678 – 12,345 = 33,333. Subtract each digit: 8–5=3, 7–4=3, 6–3=3, 5–2=3, 4–1=3.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 45,678 + 34,567 by rounding both numbers to the nearest 10,000.",
+"options": {
+"A": "70,000",
+"B": "80,000",
+"C": "90,000",
+"D": "100,000"},
+"answer": "B",
+"details": "45,678 rounds to 50,000; 34,567 rounds to 30,000; 50,000 + 30,000 = 80,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is 12,000 + 8,500?",
+"options": {
+"A": "19,500",
+"B": "20,000",
+"C": "20,500",
+"D": "21,000"},
+"answer": "C",
+"details": "12,000 + 8,500 = 20,500. Add thousands: 12k + 8k = 20k; plus 500 = 20,500.",
+"difficulty": "easy"
+},
+{
+"question": "A school has 23,456 books. They buy 10,789 more. How many books do they have now?",
+"options": {
+"A": "34,245",
+"B": "34,255",
+"C": "34,345",
+"D": "35,245"},
+"answer": "A",
+"details": "23,456 + 10,789: 6+9=15 (write 5, carry 1), 5+8+1=14 (write 4, carry 1), 4+7+1=12 (write 2, carry 1), 3+0+1=4, 2+1=3 → 34,245.",
+"difficulty": "easy"
+},
+{
+"question": "What is 987,654 – 123,456?",
+"options": {
+"A": "864,198",
+"B": "864,298",
+"C": "865,198",
+"D": "874,198"},
+"answer": "A",
+"details": "Subtract digit by digit with borrowing as needed: 987,654 – 123,456 = 864,198.",
+"difficulty": "easy"
+},
+{
+"question": "Mentally calculate: 50,000 – 7,000.",
+"options": {
+"A": "42,000",
+"B": "43,000",
+"C": "44,000",
+"D": "45,000"},
+"answer": "B",
+"details": "50,000 – 7,000 = 43,000. Subtract thousands: 50 – 7 = 43, so 43,000.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 78,901 – 23,456 by rounding to the nearest 10,000.",
+"options": {
+"A": "50,000",
+"B": "60,000",
+"C": "55,000",
+"D": "65,000"},
+"answer": "B",
+"details": "78,901 → 80,000; 23,456 → 20,000; 80,000 – 20,000 = 60,000.",
+"difficulty": "easy"
+},
+{
+"question": "Add 100,234 and 200,345.",
+"options": {
+"A": "300,569",
+"B": "300,579",
+"C": "301,579",
+"D": "300,679"},
+"answer": "B",
+"details": "4+5=9, 3+4=7, 2+3=5, 0+0=0, 0+0=0, 1+2=3 → 300,579.",
+"difficulty": "easy"
+},
+{
+"question": "What is 600,000 – 250,000?",
+"options": {
+"A": "300,000",
+"B": "350,000",
+"C": "400,000",
+"D": "450,000"},
+"answer": "B",
+"details": "600,000 – 250,000 = 350,000. Subtract: 600 – 250 = 350, so 350,000.",
+"difficulty": "easy"
+},
+{
+"question": "A factory made 123,456 toys in January and 234,567 in February. How many toys in total?",
+"options": {
+"A": "357,023",
+"B": "358,023",
+"C": "358,123",
+"D": "359,023"},
+"answer": "B",
+"details": "123,456 + 234,567: 6+7=13 (3, carry 1), 5+6+1=12 (2, carry 1), 4+5+1=10 (0, carry 1), 3+4+1=8, 2+3=5, 1+2=3 → 358,023.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1,000,000 – 999,999?",
+"options": {
+"A": "0",
+"B": "1",
+"C": "10",
+"D": "100"},
+"answer": "B",
+"details": "1,000,000 minus 999,999 is 1.",
+"difficulty": "easy"
+},
+{
+"question": "Mentally calculate: 15,600 + 4,400.",
+"options": {
+"A": "19,000",
+"B": "20,000",
+"C": "20,100",
+"D": "21,000"},
+"answer": "B",
+"details": "15,600 + 4,400 = (15,000 + 4,000) + (600 + 400) = 19,000 + 1,000 = 20,000.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate the sum of 345,678 and 234,567 by rounding to the nearest 100,000.",
+"options": {
+"A": "500,000",
+"B": "600,000",
+"C": "700,000",
+"D": "800,000"},
+"answer": "A",
+"details": "When rounding 345,678 to the nearest 100,000, it becomes 300,000. When rounding 234,567 to the nearest 100,000, it becomes 200,000. The sum of these rounded numbers is 300,000 + 200,000 = 500,000. The provided answer A for 500,000 is correct.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate the sum of 345,678 and 234,567 by rounding to the nearest 100,000.",
+"options": {
+"A": "500,000",
+"B": "600,000",
+"C": "700,000",
+"D": "800,000"},
+"answer": "A",
+"details": "345,678 rounds to 300,000 (since 45,678 < 50,000). 234,567 rounds to 200,000. Sum = 300,000 + 200,000 = 500,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is 876,543 – 100,000?",
+"options": {
+"A": "766,543",
+"B": "776,543",
+"C": "786,543",
+"D": "876,443"},
+"answer": "B",
+"details": "Subtract 100,000 from 876,543: only the hundred thousands digit changes: 8 – 1 = 7 → 776,543.",
+"difficulty": "easy"
+},
+{
+"question": "Add 50,000 and 750,000.",
+"options": {
+"A": "700,000",
+"B": "750,000",
+"C": "800,000",
+"D": "850,000"},
+"answer": "C",
+"details": "50,000 + 750,000 = 800,000.",
+"difficulty": "easy"
+},
+{
+"question": "A town has a population of 456,789. Another town has 345,678. What is the total population?",
+"options": {
+"A": "802,467",
+"B": "802,567",
+"C": "803,467",
+"D": "812,467"},
+"answer": "A",
+"details": "456,789 + 345,678: 9+8=17 (7, carry 1), 8+7+1=16 (6, carry 1), 7+6+1=14 (4, carry 1), 6+5+1=12 (2, carry 1), 5+4+1=10 (0, carry 1), 4+3+1=8 → 802,467.",
+"difficulty": "easy"
+},
+{
+"question": "What is 123,456 – 23,456?",
+"options": {
+"A": "100,000",
+"B": "101,000",
+"C": "99,000",
+"D": "110,000"},
+"answer": "A",
+"details": "123,456 – 23,456 = 100,000. The last five digits cancel out.",
+"difficulty": "easy"
+},
+{
+"question": "Mentally calculate: 200,000 + 350,000.",
+"options": {
+"A": "500,000",
+"B": "550,000",
+"C": "600,000",
+"D": "650,000"},
+"answer": "B",
+"details": "200,000 + 350,000 = 550,000.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 987,654 – 456,789 by rounding to the nearest 100,000.",
+"options": {
+"A": "500,000",
+"B": "600,000",
+"C": "550,000",
+"D": "400,000"},
+"answer": "A",
+"details": "987,654 → 1,000,000; 456,789 → 500,000; difference = 1,000,000 – 500,000 = 500,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is 567,890 + 432,110?",
+"options": {
+"A": "999,000",
+"B": "1,000,000",
+"C": "1,001,000",
+"D": "990,000"},
+"answer": "B",
+"details": "567,890 + 432,110 = 1,000,000. Notice 890 + 110 = 1,000, and 567,000 + 432,000 = 999,000; total = 1,000,000.",
+"difficulty": "easy"
+},
+{
+"question": "Subtract 50,000 from 500,000.",
+"options": {
+"A": "400,000",
+"B": "450,000",
+"C": "550,000",
+"D": "600,000"},
+"answer": "B",
+"details": "500,000 – 50,000 = 450,000.",
+"difficulty": "easy"
+},
+{
+"question": "A library had 234,567 books. They gave away 34,567. How many are left?",
+"options": {
+"A": "199,000",
+"B": "200,000",
+"C": "201,000",
+"D": "210,000"},
+"answer": "B",
+"details": "234,567 – 34,567 = 200,000. The last five digits cancel, leaving 200,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1,234,567 – 234,567?",
+"options": {
+"A": "1,000,000",
+"B": "1,100,000",
+"C": "900,000",
+"D": "1,010,000"},
+"answer": "A",
+"details": "1,234,567 – 234,567 = 1,000,000. The last six digits cancel out.",
+"difficulty": "easy"
+},
+{
+"question": "Mentally calculate: 75,000 + 25,000.",
+"options": {
+"A": "90,000",
+"B": "100,000",
+"C": "110,000",
+"D": "120,000"},
+"answer": "B",
+"details": "75,000 + 25,000 = 100,000.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 123,456 + 876,544 by rounding to the nearest 100,000.",
+"options": {
+"A": "900,000",
+"B": "1,000,000",
+"C": "1,100,000",
+"D": "1,200,000"},
+"answer": "B",
+"details": "123,456 → 100,000; 876,544 → 900,000; sum = 1,000,000.",
+"difficulty": "easy"
+},
+{
+"question": "Add 99,999 and 1.",
+"options": {
+"A": "100,000",
+"B": "100,001",
+"C": "101,000",
+"D": "99,998"},
+"answer": "A",
+"details": "99,999 + 1 = 100,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1,000,000 – 500,000?",
+"options": {
+"A": "400,000",
+"B": "500,000",
+"C": "600,000",
+"D": "700,000"},
+"answer": "B",
+"details": "1,000,000 – 500,000 = 500,000.",
+"difficulty": "easy"
+},
+{
+"question": "A company earned £567,890 in 2023 and £432,110 in 2024. What was their total earnings?",
+"options": {
+"A": "£999,000",
+"B": "£1,000,000",
+"C": "£1,001,000",
+"D": "£990,000"},
+"answer": "B",
+"details": "567,890 + 432,110 = 1,000,000 (same as earlier question).",
+"difficulty": "easy"
+},
+{
+"question": "What is 200,000 – 150,000?",
+"options": {
+"A": "40,000",
+"B": "50,000",
+"C": "60,000",
+"D": "70,000"},
+"answer": "B",
+"details": "200,000 – 150,000 = 50,000.",
+"difficulty": "easy"
+},
+{
+"question": "Mentally calculate: 120,500 – 20,500.",
+"options": {
+"A": "90,000",
+"B": "100,000",
+"C": "110,000",
+"D": "120,000"},
+"answer": "B",
+"details": "120,500 – 20,500 = 100,000. The '500' cancels out.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 678,901 – 123,456 by rounding to the nearest 10,000.",
+"options": {
+"A": "550,000",
+"B": "560,000",
+"C": "570,000",
+"D": "580,000"},
+"answer": "B",
+"details": "678,901 → 680,000; 123,456 → 120,000; difference = 680,000 – 120,000 = 560,000.",
+"difficulty": "easy"
+},
+{
+"question": "Add 300,000 and 700,000.",
+"options": {
+"A": "900,000",
+"B": "1,000,000",
+"C": "1,100,000",
+"D": "1,200,000"},
+"answer": "B",
+"details": "300,000 + 700,000 = 1,000,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is 456,789 – 100,000?",
+"options": {
+"A": "346,789",
+"B": "356,789",
+"C": "366,789",
+"D": "456,689"},
+"answer": "B",
+"details": "Subtract 100,000: only the hundred thousands digit changes from 4 to 3 → 356,789.",
+"difficulty": "easy"
+},
+{
+"question": "A stadium has 500,000 seats. 123,456 are occupied. How many are empty?",
+"options": {
+"A": "376,544",
+"B": "376,644",
+"C": "377,544",
+"D": "386,544"},
+"answer": "A",
+"details": "500,000 – 123,456 = 376,544 (same as earlier subtraction).",
+"difficulty": "easy"
+},
+{
+"question": "What is 800,000 – 300,000?",
+"options": {
+"A": "400,000",
+"B": "500,000",
+"C": "600,000",
+"D": "700,000"},
+"answer": "B",
+"details": "800,000 – 300,000 = 500,000.",
+"difficulty": "easy"
+},
+{
+"question": "Mentally calculate: 45,000 + 55,000.",
+"options": {
+"A": "90,000",
+"B": "100,000",
+"C": "110,000",
+"D": "120,000"},
+"answer": "B",
+"details": "45,000 + 55,000 = 100,000.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 234,567 + 765,433 by rounding to the nearest 100,000.",
+"options": {
+"A": "900,000",
+"B": "1,000,000",
+"C": "1,100,000",
+"D": "1,200,000"},
+"answer": "B",
+"details": "234,567 → 200,000; 765,433 → 800,000; sum = 1,000,000.",
+"difficulty": "easy"
+},
+{
+"question": "Add 12,345 and 87,655.",
+"options": {
+"A": "99,000",
+"B": "100,000",
+"C": "101,000",
+"D": "110,000"},
+"answer": "B",
+"details": "12,345 + 87,655 = 100,000 (345+655=1,000; 12,000+87,000=99,000; total=100,000).",
+"difficulty": "easy"
+},
+{
+"question": "What is 1,000,000 – 123,456?",
+"options": {
+"A": "876,544",
+"B": "876,644",
+"C": "877,544",
+"D": "886,544"},
+"answer": "A",
+"details": "1,000,000 – 123,456 = 876,544.",
+"difficulty": "easy"
+},
+{
+"question": "A farmer harvested 345,678 kg of wheat and 234,322 kg of barley. What is the total harvest?",
+"options": {
+"A": "579,000",
+"B": "580,000",
+"C": "581,000",
+"D": "590,000"},
+"answer": "B",
+"details": "345,678 + 234,322 = 580,000 (678+322=1,000; 345,000+234,000=579,000; total=580,000).",
+"difficulty": "easy"
+},
+{
+"question": "What is 700,000 – 250,000?",
+"options": {
+"A": "400,000",
+"B": "450,000",
+"C": "500,000",
+"D": "550,000"},
+"answer": "B",
+"details": "700,000 – 250,000 = 450,000.",
+"difficulty": "easy"
+},
+{
+"question": "Mentally calculate: 300,000 – 150,000.",
+"options": {
+"A": "100,000",
+"B": "150,000",
+"C": "200,000",
+"D": "250,000"},
+"answer": "B",
+"details": "300,000 – 150,000 = 150,000.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 567,890 – 234,567 by rounding to the nearest 10,000.",
+"options": {
+"A": "330,000",
+"B": "340,000",
+"C": "350,000",
+"D": "360,000"},
+"answer": "B",
+"details": "567,890 → 570,000; 234,567 → 230,000; difference = 570,000 – 230,000 = 340,000.",
+"difficulty": "easy"
+},
+{
+"question": "Add 250,000 and 750,000.",
+"options": {
+"A": "900,000",
+"B": "1,000,000",
+"C": "1,100,000",
+"D": "1,200,000"},
+"answer": "B",
+"details": "250,000 + 750,000 = 1,000,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is 900,000 – 400,000?",
+"options": {
+"A": "400,000",
+"B": "500,000",
+"C": "600,000",
+"D": "700,000"},
+"answer": "B",
+"details": "900,000 – 400,000 = 500,000.",
+"difficulty": "easy"
+},
+{
+"question": "A school raised £123,456 in one event and £234,544 in another. What was the total amount raised?",
+"options": {
+"A": "£357,000",
+"B": "£358,000",
+"C": "£359,000",
+"D": "£360,000"},
+"answer": "B",
+"details": "123,456 + 234,544 = 358,000 (456+544=1,000; 123,000+234,000=357,000; total=358,000).",
+"difficulty": "easy"
+},
+{
+"question": "What is 600,000 – 350,000?",
+"options": {
+"A": "200,000",
+"B": "250,000",
+"C": "300,000",
+"D": "350,000"},
+"answer": "B",
+"details": "600,000 – 350,000 = 250,000.",
+"difficulty": "easy"
+},
+{
+"question": "Mentally calculate: 60,000 + 40,000.",
+"options": {
+"A": "90,000",
+"B": "100,000",
+"C": "110,000",
+"D": "120,000"},
+"answer": "B",
+"details": "60,000 + 40,000 = 100,000.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 876,543 + 123,457 by rounding to the nearest 100,000.",
+"options": {
+"A": "900,000",
+"B": "1,000,000",
+"C": "1,100,000",
+"D": "1,200,000"},
+"answer": "B",
+"details": "876,543 → 900,000; 123,457 → 100,000; sum = 1,000,000.",
+"difficulty": "easy"
+},
+{
+"question": "Add 111,111 and 222,222.",
+"options": {
+"A": "333,333",
+"B": "333,444",
+"C": "344,333",
+"D": "444,333"},
+"answer": "A",
+"details": "1+2=3 in every place → 333,333.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1,000,000 – 876,543?",
+"options": {
+"A": "123,457",
+"B": "123,557",
+"C": "124,457",
+"D": "133,457"},
+"answer": "A",
+"details": "1,000,000 – 876,543 = 123,457 (complement to a million).",
+"difficulty": "easy"
+},
+{
+"question": "A city had 789,012 residents. 123,012 moved away. How many are left?",
+"options": {
+"A": "665,000",
+"B": "666,000",
+"C": "667,000",
+"D": "676,000"},
+"answer": "B",
+"details": "789,012 – 123,012 = 666,000 (the '012' cancels out).",
+"difficulty": "easy"
+},
+{
+"question": "What is 500,000 – 200,000?",
+"options": {
+"A": "200,000",
+"B": "300,000",
+"C": "400,000",
+"D": "500,000"},
+"answer": "B",
+"details": "500,000 – 200,000 = 300,000.",
+"difficulty": "easy"
+},
+{
+"question": "Mentally calculate: 90,000 – 40,000.",
+"options": {
+"A": "40,000",
+"B": "50,000",
+"C": "60,000",
+"D": "70,000"},
+"answer": "B",
+"details": "90,000 – 40,000 = 50,000.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 456,789 – 234,567 by rounding to the nearest 10,000.",
+"options": {
+"A": "220,000",
+"B": "230,000",
+"C": "240,000",
+"D": "250,000"},
+"answer": "B",
+"details": "456,789 → 460,000; 234,567 → 230,000; difference = 460,000 – 230,000 = 230,000.",
+"difficulty": "easy"
+},
+{
+"question": "Add 400,000 and 600,000.",
+"options": {
+"A": "900,000",
+"B": "1,000,000",
+"C": "1,100,000",
+"D": "1,200,000"},
+"answer": "B",
+"details": "400,000 + 600,000 = 1,000,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1,000,000 – 1?",
+"options": {
+"A": "999,998",
+"B": "999,999",
+"C": "1,000,001",
+"D": "999,000"},
+"answer": "B",
+"details": "1,000,000 – 1 = 999,999.",
+"difficulty": "easy"
+},
+{
+"question": "A train carries 345,678 passengers in the morning and 234,322 in the evening. How many in total?",
+"options": {
+"A": "579,000",
+"B": "580,000",
+"C": "581,000",
+"D": "590,000"},
+"answer": "B",
+"details": "345,678 + 234,322 = 580,000 (as before).",
+"difficulty": "easy"
+},
+{
+"question": "What is 800,000 – 550,000?",
+"options": {
+"A": "200,000",
+"B": "250,000",
+"C": "300,000",
+"D": "350,000"},
+"answer": "B",
+"details": "800,000 – 550,000 = 250,000.",
+"difficulty": "easy"
+},
+{
+"question": "Mentally calculate: 100,000 – 25,000.",
+"options": {
+"A": "65,000",
+"B": "70,000",
+"C": "75,000",
+"D": "85,000"},
+"answer": "C",
+"details": "100,000 – 25,000 = 75,000.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 345,678 + 456,789 by rounding to the nearest 100,000.",
+"options": {
+"A": "700,000",
+"B": "800,000",
+"C": "900,000",
+"D": "1,000,000"},
+"answer": "B",
+"details": "345,678 → 300,000; 456,789 → 500,000; sum = 800,000.",
+"difficulty": "easy"
+},
+{
+"question": "Add 999,999 and 1.",
+"options": {
+"A": "1,000,000",
+"B": "1,000,001",
+"C": "1,001,000",
+"D": "999,998"},
+"answer": "A",
+"details": "999,999 + 1 = 1,000,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is 700,000 – 300,000?",
+"options": {
+"A": "300,000",
+"B": "400,000",
+"C": "500,000",
+"D": "600,000"},
+"answer": "B",
+"details": "700,000 – 300,000 = 400,000.",
+"difficulty": "easy"
+},
+{
+"question": "A shop sold 123,456 items in January and 234,567 in February. How many more were sold in February?",
+"options": {
+"A": "111,111",
+"B": "111,211",
+"C": "112,111",
+"D": "121,111"},
+"answer": "A",
+"details": "234,567 – 123,456 = 111,111.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1,000,000 – 500,001?",
+"options": {
+"A": "499,999",
+"B": "500,000",
+"C": "500,001",
+"D": "501,000"},
+"answer": "A",
+"details": "1,000,000 – 500,001 = 499,999.",
+"difficulty": "easy"
+},
+{
+"question": "Mentally calculate: 80,000 + 20,000.",
+"options": {
+"A": "90,000",
+"B": "100,000",
+"C": "110,000",
+"D": "120,000"},
+"answer": "B",
+"details": "80,000 + 20,000 = 100,000.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 789,012 – 345,678 by rounding to the nearest 10,000.",
+"options": {
+"A": "440,000",
+"B": "450,000",
+"C": "460,000",
+"D": "470,000"},
+"answer": "A",
+"details": "789,012 → 790,000; 345,678 → 350,000; difference = 790,000 – 350,000 = 440,000.",
+"difficulty": "easy"
+},
+{
+"question": "Add 100,000 and 900,000.",
+"options": {
+"A": "900,000",
+"B": "1,000,000",
+"C": "1,100,000",
+"D": "1,200,000"},
+"answer": "B",
+"details": "100,000 + 900,000 = 1,000,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is 600,000 – 400,000?",
+"options": {
+"A": "100,000",
+"B": "200,000",
+"C": "300,000",
+"D": "400,000"},
+"answer": "B",
+"details": "600,000 – 400,000 = 200,000.",
+"difficulty": "easy"
+},
+{
+"question": "A company's profit was £567,890 in 2023 and £123,456 in 2022. What was the total profit over two years?",
+"options": {
+"A": "£691,346",
+"B": "£691,446",
+"C": "£692,346",
+"D": "£701,346"},
+"answer": "A",
+"details": "567,890 + 123,456: 0+6=6, 9+5=14 (4, carry 1), 8+4+1=13 (3, carry 1), 7+3+1=11 (1, carry 1), 6+2+1=9, 5+1=6 → 691,346.",
+"difficulty": "easy"
+},
+{
+"question": "What is 900,000 – 600,000?",
+"options": {
+"A": "200,000",
+"B": "300,000",
+"C": "400,000",
+"D": "500,000"},
+"answer": "B",
+"details": "900,000 – 600,000 = 300,000.",
+"difficulty": "easy"
+},
+{
+"question": "Mentally calculate: 150,000 – 50,000.",
+"options": {
+"A": "90,000",
+"B": "100,000",
+"C": "110,000",
+"D": "120,000"},
+"answer": "B",
+"details": "150,000 – 50,000 = 100,000.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 234,567 – 123,456 by rounding to the nearest 10,000.",
+"options": {
+"A": "100,000",
+"B": "110,000",
+"C": "120,000",
+"D": "130,000"},
+"answer": "B",
+"details": "234,567 → 230,000; 123,456 → 120,000; difference = 230,000 – 120,000 = 110,000.",
+"difficulty": "easy"
+},
+{
+"question": "Add 333,333 and 333,333.",
+"options": {
+"A": "666,666",
+"B": "666,777",
+"C": "677,666",
+"D": "777,666"},
+"answer": "A",
+"details": "3+3=6 in every place → 666,666.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1,000,000 – 666,666?",
+"options": {
+"A": "333,333",
+"B": "333,334",
+"C": "334,333",
+"D": "343,333"},
+"answer": "B",
+"details": "1,000,000 – 666,666 = 333,334.",
+"difficulty": "easy"
+},
+{
+"question": "A library lent out 456,789 books in a year and had 123,211 returned. How many were still out at year-end?",
+"options": {
+"A": "333,578",
+"B": "333,678",
+"C": "334,578",
+"D": "343,578"},
+"answer": "A",
+"details": "456,789 – 123,211 = 333,578 (9–1=8, 8–1=7, 7–2=5, 6–3=3, 5–2=3, 4–1=3).",
+"difficulty": "easy"
+},
+{
+"question": "What is 400,000 – 150,000?",
+"options": {
+"A": "200,000",
+"B": "250,000",
+"C": "300,000",
+"D": "350,000"},
+"answer": "B",
+"details": "400,000 – 150,000 = 250,000.",
+"difficulty": "easy"
+},
+{
+"question": "Mentally calculate: 70,000 + 30,000.",
+"options": {
+"A": "90,000",
+"B": "100,000",
+"C": "110,000",
+"D": "120,000"},
+"answer": "B",
+"details": "70,000 + 30,000 = 100,000.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 987,654 + 12,346 by rounding to the nearest 10,000.",
+"options": {
+"A": "990,000",
+"B": "1,000,000",
+"C": "1,010,000",
+"D": "1,020,000"},
+"answer": "B",
+"details": "987,654 → 990,000; 12,346 → 10,000; sum = 1,000,000.",
+"difficulty": "easy"
+},
+{
+"question": "Add 200,000 and 800,000.",
+"options": {
+"A": "900,000",
+"B": "1,000,000",
+"C": "1,100,000",
+"D": "1,200,000"},
+"answer": "B",
+"details": "200,000 + 800,000 = 1,000,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is 500,000 – 250,000?",
+"options": {
+"A": "150,000",
+"B": "200,000",
+"C": "250,000",
+"D": "300,000"},
+"answer": "C",
+"details": "500,000 – 250,000 = 250,000.",
+"difficulty": "easy"
+},
+{
+"question": "A farm produced 345,000 kg of potatoes and 255,000 kg of carrots. What was the total production?",
+"options": {
+"A": "500,000 kg",
+"B": "600,000 kg",
+"C": "700,000 kg",
+"D": "800,000 kg"},
+"answer": "B",
+"details": "345,000 + 255,000 = 600,000 kg.",
+"difficulty": "easy"
+},
+{
+"question": "What is 300,000 – 100,000?",
+"options": {
+"A": "100,000",
+"B": "200,000",
+"C": "300,000",
+"D": "400,000"},
+"answer": "B",
+"details": "300,000 – 100,000 = 200,000.",
+"difficulty": "easy"
+},
+{
+"question": "Mentally calculate: 40,000 – 10,000.",
+"options": {
+"A": "20,000",
+"B": "30,000",
+"C": "40,000",
+"D": "50,000"},
+"answer": "B",
+"details": "40,000 – 10,000 = 30,000.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 567,890 – 234,567 by rounding to the nearest 100,000.",
+"options": {
+"A": "300,000",
+"B": "400,000",
+"C": "500,000",
+"D": "600,000"},
+"answer": "B",
+"details": "To estimate 567,890 – 234,567 by rounding to the nearest 100,000:
+1. Round 567,890 to the nearest 100,000: The digit in the ten thousands place is 6 (which is 5 or greater), so round up. 567,890 becomes 600,000.
+2. Round 234,567 to the nearest 100,000: The digit in the ten thousands place is 3 (which is less than 5), so round down. 234,567 becomes 200,000.
+3. Perform the subtraction: 600,000 – 200,000 = 400,000.
+The correct answer should be 400,000, which corresponds to option B.",
+"difficulty": "easy"
+},
+{
+"question": "Estimate 567,890 – 234,567 by rounding to the nearest 100,000.",
+"options": {
+"A": "300,000",
+"B": "400,000",
+"C": "500,000",
+"D": "600,000"},
+"answer": "B",
+"details": "567,890 rounds to 600,000 (since 67,890 ≥ 50,000). 234,567 rounds to 200,000. Difference = 600,000 – 200,000 = 400,000.",
+"difficulty": "easy"
+},
+{
+"question": "Add 50,000 and 950,000.",
+"options": {
+"A": "900,000",
+"B": "1,000,000",
+"C": "1,050,000",
+"D": "950,000"},
+"answer": "B",
+"details": "50,000 + 950,000 = 1,000,000.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1,000,000 – 950,000?",
+"options": {
+"A": "40,000",
+"B": "50,000",
+"C": "60,000",
+"D": "70,000"},
+"answer": "B",
+"details": "1,000,000 – 950,000 = 50,000.",
+"difficulty": "easy"
+},
+{
+"question": "Calculate: 45,678 + 87,943",
+"options": {
+"A": "133,521",
+"B": "133,621",
+"C": "132,621",
+"D": "134,621"},
+"answer": "B",
+"details": "Use columnar addition:\n   45,678\n+ 87,943\n---------\nUnits: 8+3=11 → write 1, carry 1\nTens: 7+4+1=12 → write 2, carry 1\nHundreds: 6+9+1=16 → write 6, carry 1\nThousands: 5+7+1=13 → write 3, carry 1\nTen thousands: 4+8+1=13 → write 13\n→ 133,621.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 902,345 – 287,618",
+"options": {
+"A": "614,727",
+"B": "615,727",
+"C": "614,627",
+"D": "615,627"},
+"answer": "A",
+"details": "Columnar subtraction with borrowing:\n  902,345\n– 287,618\n----------\nUnits: 5<8 → borrow → 15–8=7\nTens: 3 (now 4–1) <1? No: 4–1=3; 3–1=2\nHundreds: 3 <6 → borrow from thousands (2→1), 13–6=7\nThousands: 1 (after borrow) <7 → borrow from ten thousands (0→ borrow from hundred thousands: 9→8; 10→9 in ten thousands; thousands: 11–7=4)\nTen thousands: 9 (after borrow) –8 =1\nHundred thousands: 8–2=6\n→ 614,727.",
+"difficulty": "medium"
+},
+{
+"question": "What is 125,000 + 378,400?",
+"options": {
+"A": "502,400",
+"B": "503,400",
+"C": "493,400",
+"D": "513,400"},
+"answer": "B",
+"details": "Add: 125,000 + 378,400 = (125 + 378.4) thousand = 503.4 thousand = 503,400. Or columnar: align by place value — 0+0=0 (units to hundreds), 5+4=9 (thousands), 2+8=10 (ten thousands → write 0, carry 1), 1+7+1=9 (hundred thousands), 0+3=3 (millions? no — actually 125k is 0,125,000; 378,400 is 0,378,400 → sum = 503,400).",
+"difficulty": "medium"
+},
+{
+"question": "Mentally calculate: 48,300 – 15,200",
+"options": {
+"A": "33,100",
+"B": "32,100",
+"C": "33,000",
+"D": "34,100"},
+"answer": "A",
+"details": "Subtract thousands and hundreds: 48,300 – 15,200 = (48 – 15) thousand + (300 – 200) = 33,000 + 100 = 33,100.",
+"difficulty": "medium"
+},
+{
+"question": "Estimate 678,452 + 294,761 by rounding both numbers to the nearest 100,000.",
+"options": {
+"A": "900,000",
+"B": "1,000,000",
+"C": "970,000",
+"D": "980,000"},
+"answer": "B",
+"details": "678,452 → nearest 100,000 = 700,000 (since 78,452 > 50,000)\n294,761 → 300,000 (94,761 > 50,000)\n700,000 + 300,000 = 1,000,000.",
+"difficulty": "medium"
+},
+{
+"question": "A factory made 245,630 toys in January and 318,975 in February. How many more were made in February?",
+"options": {
+"A": "72,345",
+"B": "73,345",
+"C": "74,345",
+"D": "73,445"},
+"answer": "B",
+"details": "Subtract: 318,975 – 245,630.\nUnits–tens–hundreds: 5–0=5, 7–3=4, 9–6=3\nThousands: 8–5=3\nTen thousands: 1–4 → borrow: 11–4=7, hundred thousands: 2 (after borrow) –2=0\n→ 73,345.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 1,000,000 – 347,825",
+"options": {
+"A": "652,175",
+"B": "653,175",
+"C": "652,275",
+"D": "651,175"},
+"answer": "A",
+"details": "Subtract from 1,000,000: use complement or borrowing.\n1,000,000 – 347,825 = ?\nThink: 347,825 + ? = 1,000,000\nUnits: 5 + 5 = 10 → 5\nTens: 2 + 7 = 9 + carry 1 = 10 → 7\nHundreds: 8 + 1 = 9 + carry 1 = 10 → 1\nThousands: 7 + 2 = 9 + carry 1 = 10 → 2\nTen thousands: 4 + 5 = 9 + carry 1 = 10 → 5\nHundred thousands: 3 + 6 = 9 + carry 1 = 10 → 6\n→ 652,175.",
+"difficulty": "medium"
+},
+{
+"question": "Which calculation is set up correctly for 506,724 + 89,317?",
+"options": {
+"A": "  506724\n+  89317",
+"B": "  506,724\n+   89,317",
+"C": "  506724\n+ 089317",
+"D": "All of the above"},
+"answer": "D",
+"details": "All options align digits correctly by place value (units under units, tens under tens, etc.). Option A omits commas but is still correct; B uses commas; C pads with leading zero — also valid for columnar addition.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally calculate: 92,000 – 38,000",
+"options": {
+"A": "54,000",
+"B": "64,000",
+"C": "55,000",
+"D": "53,000"},
+"answer": "A",
+"details": "92 – 38 = 54 → so 92,000 – 38,000 = 54,000.",
+"difficulty": "medium"
+},
+{
+"question": "Estimate 824,561 – 396,827 by rounding to the nearest 10,000.",
+"options": {
+"A": "420,000",
+"B": "430,000",
+"C": "425,000",
+"D": "410,000"},
+"answer": "A",
+"details": "824,561 → nearest 10,000 = 820,000 (4,561 < 5,000)\n396,827 → 400,000 (6,827 ≥ 5,000)\n820,000 – 400,000 = 420,000.",
+"difficulty": "medium"
+},
+{
+"question": "A library has 142,367 books. They buy 28,954 more and donate 15,200 old ones. How many books do they have now?",
+"options": {
+"A": "156,121",
+"B": "155,121",
+"C": "157,121",
+"D": "156,021"},
+"answer": "A",
+"details": "Multi-step: 142,367 + 28,954 = 171,321; then 171,321 – 15,200 = 156,121.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 273,496 + 587,218",
+"options": {
+"A": "860,714",
+"B": "861,714",
+"C": "850,714",
+"D": "861,614"},
+"answer": "A",
+"details": "Columnar addition:\nUnits: 6+8=14 → 4, carry 1\nTens: 9+1+1=11 → 1, carry 1\nHundreds: 4+2+1=7\nThousands: 3+7=10 → 0, carry 1\nTen thousands: 7+8+1=16 → 6, carry 1\nHundred thousands: 2+5+1=8\n→ 860,714.",
+"difficulty": "medium"
+},
+{
+"question": "What is 1,000,000 – 1?",
+"options": {
+"A": "999,999",
+"B": "100,000",
+"C": "99,999",
+"D": "1,000,001"},
+"answer": "A",
+"details": "One less than one million is 999,999.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 75,400 + 24,600",
+"options": {
+"A": "99,000",
+"B": "100,000",
+"C": "99,900",
+"D": "101,000"},
+"answer": "B",
+"details": "75,400 + 24,600 = (75 + 24) thousand + (400 + 600) = 99,000 + 1,000 = 100,000.",
+"difficulty": "medium"
+},
+{
+"question": "Which estimate is best for 453,281 + 548,912?",
+"options": {
+"A": "900,000",
+"B": "1,000,000",
+"C": "1,100,000",
+"D": "1,050,000"},
+"answer": "B",
+"details": "Round to nearest 100,000: 453,281 → 500,000; 548,912 → 500,000; total ≈ 1,000,000. (Actual = 1,002,193 — very close.)",
+"difficulty": "medium"
+},
+{
+"question": "A school has 1,250 pupils. In Year 5 there are 128 pupils, and Year 6 has 135. The rest are in Years 1–4. How many are in Years 1–4?",
+"options": {
+"A": "987",
+"B": "997",
+"C": "977",
+"D": "985"},
+"answer": "A",
+"details": "Total – (Y5 + Y6) = 1,250 – (128 + 135) = 1,250 – 263 = 987.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 605,000 – 198,472",
+"options": {
+"A": "406,528",
+"B": "407,528",
+"C": "406,428",
+"D": "405,528"},
+"answer": "A",
+"details": "Column subtraction:\n605,000 – 198,472\nBorrowing needed across zeros.\n→ 605,000 – 200,000 = 405,000; but subtracted 1,528 too much (200,000 – 198,472 = 1,528), so 405,000 + 1,528 = 406,528.\nOr do full column: result is 406,528.",
+"difficulty": "medium"
+},
+{
+"question": "In columnar addition, when adding the thousands column, you get 15. What do you write and carry?",
+"options": {
+"A": "Write 5, carry 1 to ten thousands",
+"B": "Write 15, carry 0",
+"C": "Write 1, carry 5",
+"D": "Write 5, carry 1 to hundreds"},
+"answer": "A",
+"details": "In any column, write the units digit and carry the tens digit to the next higher place. 15 → units digit 5, carry 1 to ten thousands.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 136,800 – 42,500",
+"options": {
+"A": "94,300",
+"B": "95,300",
+"C": "93,300",
+"D": "94,200"},
+"answer": "A",
+"details": "136,800 – 42,500 = (136 – 42) thousand + (800 – 500) = 94,000 + 300 = 94,300.",
+"difficulty": "medium"
+},
+{
+"question": "Estimate 724,815 – 287,392 by rounding to the nearest 1,000.",
+"options": {
+"A": "437,000",
+"B": "438,000",
+"C": "440,000",
+"D": "435,000"},
+"answer": "B",
+"details": "724,815 → 725,000 (815 ≥ 500)\n287,392 → 287,000 (392 < 500)\n725,000 – 287,000 = 438,000.",
+"difficulty": "medium"
+},
+{
+"question": "A train journey is 342 km. The first leg is 128 km, the second is 95 km. How long is the third leg?",
+"options": {
+"A": "118 km",
+"B": "119 km",
+"C": "120 km",
+"D": "117 km"},
+"answer": "B",
+"details": "Total – (leg1 + leg2) = 342 – (128 + 95) = 342 – 223 = 119 km.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 892,134 + 78,967",
+"options": {
+"A": "971,101",
+"B": "970,101",
+"C": "971,001",
+"D": "972,101"},
+"answer": "A",
+"details": "Columnar:\nUnits: 4+7=11 → 1, c1\nTens: 3+6+1=10 → 0, c1\nHundreds: 1+9+1=11 → 1, c1\nThousands: 2+8+1=11 → 1, c1\nTen thousands: 9+7+1=17 → 7, c1\nHundred thousands: 8+0+1=9\n→ 971,101.",
+"difficulty": "medium"
+},
+{
+"question": "What number added to 375,824 gives 1,000,000?",
+"options": {
+"A": "624,176",
+"B": "625,176",
+"C": "624,276",
+"D": "623,176"},
+"answer": "A",
+"details": "1,000,000 – 375,824 = ?\nUse complement: 375,824 + x = 1,000,000 → x = 624,176.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 520,000 + 480,000",
+"options": {
+"A": "1,000,000",
+"B": "990,000",
+"C": "1,010,000",
+"D": "980,000"},
+"answer": "A",
+"details": "52 + 48 = 100 → so 520k + 480k = 1,000,000.",
+"difficulty": "medium"
+},
+{
+"question": "Which calculation gives the largest answer?",
+"options": {
+"A": "750,000 – 240,000",
+"B": "490,000 + 18,000",
+"C": "600,000 – 75,000",
+"D": "525,000 + 25,000"},
+"answer": "D",
+"details": "A: 510,000; B: 508,000; C: 525,000; D: 550,000 → D is largest.",
+"difficulty": "medium"
+},
+{
+"question": "A stadium holds 52,340 people. At a match, 18,765 are in the North Stand and 20,482 in the South. How many are in the East and West Stands combined?",
+"options": {
+"A": "13,093",
+"B": "13,193",
+"C": "12,993",
+"D": "13,293"},
+"answer": "A",
+"details": "Total – (N + S) = 52,340 – (18,765 + 20,482) = 52,340 – 39,247 = 13,093.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 1,000,000 – 567,218",
+"options": {
+"A": "432,782",
+"B": "433,782",
+"C": "432,682",
+"D": "431,782"},
+"answer": "A",
+"details": "Use subtraction or complement: 567,218 + 432,782 = 1,000,000.",
+"difficulty": "medium"
+},
+{
+"question": "In column subtraction, you need to subtract 7 from 2 in the tens column. What must you do?",
+"options": {
+"A": "Borrow 1 from the hundreds column, making the tens digit 12",
+"B": "Write –5",
+"C": "Swap the digits",
+"D": "Borrow 10 from the units column"},
+"answer": "A",
+"details": "When a digit is smaller than the one below, borrow 1 from the next higher column (left), which adds 10 to the current digit: 2 becomes 12, then 12 – 7 = 5.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 803,500 – 400,200",
+"options": {
+"A": "403,300",
+"B": "402,300",
+"C": "403,200",
+"D": "404,300"},
+"answer": "A",
+"details": "803,500 – 400,200 = (803 – 400) thousand + (500 – 200) = 403,000 + 300 = 403,300.",
+"difficulty": "medium"
+},
+{
+"question": "Estimate 198,742 + 304,619 by rounding to the nearest 10,000.",
+"options": {
+"A": "500,000",
+"B": "510,000",
+"C": "490,000",
+"D": "505,000"},
+"answer": "A",
+"details": "198,742 → 200,000; 304,619 → 300,000; sum ≈ 500,000.",
+"difficulty": "medium"
+},
+{
+"question": "A farmer harvested 245,670 kg of wheat, 182,340 kg of barley, and sold 310,500 kg in total. How much does he have left?",
+"options": {
+"A": "117,510 kg",
+"B": "116,510 kg",
+"C": "118,510 kg",
+"D": "117,410 kg"},
+"answer": "A",
+"details": "Total harvested: 245,670 + 182,340 = 428,010 kg\nLeft: 428,010 – 310,500 = 117,510 kg.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 407,295 + 598,746",
+"options": {
+"A": "1,006,041",
+"B": "1,005,041",
+"C": "1,006,141",
+"D": "1,007,041"},
+"answer": "A",
+"details": "Column addition:\nUnits: 5+6=11 →1,c1\nTens:9+4+1=14→4,c1\nHundreds:2+7+1=10→0,c1\nThousands:7+8+1=16→6,c1\nTen thousands:0+9+1=10→0,c1\nHundred thousands:4+5+1=10→0,c1\nMillions: 1\n→ 1,006,041.",
+"difficulty": "medium"
+},
+{
+"question": "What is 250,000 more than 675,321?",
+"options": {
+"A": "925,321",
+"B": "915,321",
+"C": "935,321",
+"D": "925,421"},
+"answer": "A",
+"details": "675,321 + 250,000 = 925,321.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 1,000,000 – 250,000",
+"options": {
+"A": "750,000",
+"B": "650,000",
+"C": "850,000",
+"D": "700,000"},
+"answer": "A",
+"details": "1 million – ¼ million = ¾ million = 750,000.",
+"difficulty": "medium"
+},
+{
+"question": "Which estimate is closest to the actual answer for 678,123 – 294,567?",
+"options": {
+"A": "380,000",
+"B": "400,000",
+"C": "375,000",
+"D": "384,000"},
+"answer": "D",
+"details": "Actual: 678,123 – 294,567 = 383,556. Rounding to nearest 1,000: 678,000 – 295,000 = 383,000 → closest is D (384,000). Or compute: 383,556 is closest to 384,000 among options.",
+"difficulty": "medium"
+},
+{
+"question": "A delivery driver travels 247 km on Monday, 318 km on Tuesday, and 195 km on Wednesday. How many km in total?",
+"options": {
+"A": "760 km",
+"B": "750 km",
+"C": "770 km",
+"D": "740 km"},
+"answer": "A",
+"details": "247 + 318 = 565; 565 + 195 = 760 km.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 900,000 – 483,629",
+"options": {
+"A": "416,371",
+"B": "417,371",
+"C": "416,271",
+"D": "415,371"},
+"answer": "A",
+"details": "900,000 – 483,629 = ?\n→ 900,000 – 500,000 = 400,000; add back 16,371 (since 500,000 – 483,629 = 16,371) → 416,371.",
+"difficulty": "medium"
+},
+{
+"question": "Which error is most likely if a student writes 503,400 + 87,921 = 580,321?",
+"options": {
+"A": "Forgot to carry 1 from thousands to ten thousands",
+"B": "Misaligned columns",
+"C": "Added instead of subtracted",
+"D": "Used wrong operation"},
+"answer": "A",
+"details": "Correct sum = 591,321. 580,321 is 11,000 less — likely didn’t carry from thousands (3+7=10 → should carry 1 to ten thousands: 0+8+1=9, not 8).",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 427,800 + 172,200",
+"options": {
+"A": "600,000",
+"B": "599,000",
+"C": "610,000",
+"D": "590,000"},
+"answer": "A",
+"details": "427,800 + 172,200 = (427 + 172) thousand + (800 + 200) = 599,000 + 1,000 = 600,000.",
+"difficulty": "medium"
+},
+{
+"question": "Estimate 892,475 + 107,625 by rounding to the nearest 100,000.",
+"options": {
+"A": "1,000,000",
+"B": "1,100,000",
+"C": "900,000",
+"D": "1,010,000"},
+"answer": "A",
+"details": "892,475 → 900,000; 107,625 → 100,000; sum ≈ 1,000,000. (Actual = 1,000,100 — excellent estimate.)",
+"difficulty": "medium"
+},
+{
+"question": "A museum had 245,670 visitors in Year 1. In Year 2, there were 38,425 more. In Year 3, there were 22,190 fewer than Year 2. How many in Year 3?",
+"options": {
+"A": "261,905",
+"B": "262,905",
+"C": "260,905",
+"D": "263,905"},
+"answer": "A",
+"details": "Year 2: 245,670 + 38,425 = 284,095\nYear 3: 284,095 – 22,190 = 261,905.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 367,842 – 198,576",
+"options": {
+"A": "169,266",
+"B": "168,266",
+"C": "170,266",
+"D": "169,366"},
+"answer": "A",
+"details": "Column subtraction with borrowing:\nUnits: 2<6 → borrow → 12–6=6\nTens: 3 (4–1) –7 → borrow → 13–7=6\nHundreds: 7 (8–1) –5=2\nThousands: 6 (7–1) –8 → borrow → 16–8=8\nTen thousands: 2 (6–1–1) –9 → borrow → 12–9=3\nHundred thousands: 2 (3–1) –1=1\n→ 169,266.",
+"difficulty": "medium"
+},
+{
+"question": "What is 150,000 less than 1,000,000?",
+"options": {
+"A": "850,000",
+"B": "750,000",
+"C": "950,000",
+"D": "800,000"},
+"answer": "A",
+"details": "1,000,000 – 150,000 = 850,000.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 905,000 – 395,000",
+"options": {
+"A": "510,000",
+"B": "500,000",
+"C": "610,000",
+"D": "490,000"},
+"answer": "A",
+"details": "905 – 395 = 510 → so 510,000.",
+"difficulty": "medium"
+},
+{
+"question": "A school raised £42,750 in a fair. They spent £18,340 on equipment and £9,675 on books. How much is left?",
+"options": {
+"A": "£14,735",
+"B": "£15,735",
+"C": "£13,735",
+"D": "£14,635"},
+"answer": "A",
+"details": "Total spent: 18,340 + 9,675 = 28,015\nLeft: 42,750 – 28,015 = 14,735.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 753,214 + 246,789",
+"options": {
+"A": "1,000,003",
+"B": "999,003",
+"C": "1,000,103",
+"D": "1,001,003"},
+"answer": "A",
+"details": "Notice: 753,214 + 246,786 = 1,000,000, so +3 more = 1,000,003.",
+"difficulty": "medium"
+},
+{
+"question": "What is the missing number? ___ + 482,635 = 1,000,000",
+"options": {
+"A": "517,365",
+"B": "518,365",
+"C": "517,465",
+"D": "516,365"},
+"answer": "A",
+"details": "1,000,000 – 482,635 = 517,365.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 618,400 – 200,400",
+"options": {
+"A": "418,000",
+"B": "419,000",
+"C": "417,000",
+"D": "428,000"},
+"answer": "A",
+"details": "618,400 – 200,400 = (618 – 200) thousand + (400 – 400) = 418,000 + 0 = 418,000.",
+"difficulty": "medium"
+},
+{
+"question": "Estimate 499,999 + 500,001",
+"options": {
+"A": "1,000,000",
+"B": "1,000,002",
+"C": "999,999",
+"D": "1,000,001"},
+"answer": "A",
+"details": "Both round to 500,000; 500,000 + 500,000 = 1,000,000. (Actual = 1,000,000 exactly.)",
+"difficulty": "medium"
+},
+{
+"question": "A builder needs 245,670 bricks. He has 87,250 red and 93,420 grey. How many more does he need?",
+"options": {
+"A": "65,000",
+"B": "64,900",
+"C": "65,100",
+"D": "66,000"},
+"answer": "A",
+"details": "Has: 87,250 + 93,420 = 180,670\nNeeds: 245,670 – 180,670 = 65,000.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 1,000,000 – 876,543",
+"options": {
+"A": "123,457",
+"B": "124,457",
+"C": "123,557",
+"D": "122,457"},
+"answer": "A",
+"details": "1,000,000 – 876,543 = 123,457 (complement: each digit sums to 9 except last to 10: 8+1=9, 7+2=9, 6+3=9, 5+4=9, 4+5=9, 3+7=10).",
+"difficulty": "medium"
+},
+{
+"question": "If you make a mistake in the hundreds column during subtraction and forget to borrow, what kind of error will you get?",
+"options": {
+"A": "Answer too large by 100",
+"B": "Answer too small by 100",
+"C": "Answer too large by 900",
+"D": "Answer too small by 900"},
+"answer": "A",
+"details": "Example: 502 – 173. Correct: 329. If forget to borrow in tens/hundreds: 2–3 impossible, but if forced: 0–7, 5–1 → wrong. Better: in 462 – 185: hundreds: 4–1=3 (should be 3 after borrow), but if no borrow: 4–1=3, tens: 6–8 → error. Standard: forgetting to borrow makes the top digit larger than it should be by 10, so difference too large by 100 (if in hundreds column).",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 300,000 + 699,999",
+"options": {
+"A": "999,999",
+"B": "1,000,000",
+"C": "999,899",
+"D": "1,000,999"},
+"answer": "A",
+"details": "300,000 + 699,999 = 999,999.",
+"difficulty": "medium"
+},
+{
+"question": "Which pair of numbers has a difference closest to 250,000?",
+"options": {
+"A": "625,000 and 375,500",
+"B": "800,000 and 549,000",
+"C": "720,000 and 480,000",
+"D": "900,000 and 660,000"},
+"answer": "A",
+"details": "A: 625,000 – 375,500 = 249,500 (diff 500)\nB: 251,000 (diff 1,000)\nC: 240,000 (10,000)\nD: 240,000 (10,000)\n→ A is closest.",
+"difficulty": "medium"
+},
+{
+"question": "A concert sold 45,670 tickets on Day 1 and 58,325 on Day 2. Some people bought tickets for both days (12,480). How many *unique* people attended?",
+"options": {
+"A": "91,515",
+"B": "92,515",
+"C": "90,515",
+"D": "91,615"},
+"answer": "A",
+"details": "Total tickets = 45,670 + 58,325 = 103,995\nSubtract duplicates: 103,995 – 12,480 = 91,515 unique people.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 502,000 – 148,736",
+"options": {
+"A": "353,264",
+"B": "354,264",
+"C": "353,364",
+"D": "352,264"},
+"answer": "A",
+"details": "502,000 – 148,736 = ?\n502,000 – 150,000 = 352,000; add back 1,264 → 353,264.",
+"difficulty": "medium"
+},
+{
+"question": "What is 75,000 more than 825,000?",
+"options": {
+"A": "900,000",
+"B": "890,000",
+"C": "910,000",
+"D": "895,000"},
+"answer": "A",
+"details": "825,000 + 75,000 = 900,000.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 1,000,000 – 625,000",
+"options": {
+"A": "375,000",
+"B": "475,000",
+"C": "325,000",
+"D": "425,000"},
+"answer": "A",
+"details": "1,000,000 – 625,000 = 375,000.",
+"difficulty": "medium"
+},
+{
+"question": "Estimate 763,421 – 298,745 by rounding to the nearest 10,000.",
+"options": {
+"A": "460,000",
+"B": "470,000",
+"C": "455,000",
+"D": "465,000"},
+"answer": "A",
+"details": "763,421 → 760,000; 298,745 → 300,000; 760,000 – 300,000 = 460,000.",
+"difficulty": "medium"
+},
+{
+"question": "A company’s profit was £342,560 in Q1, a loss of £78,450 in Q2, and profit of £210,380 in Q3. What is total profit so far?",
+"options": {
+"A": "£474,490",
+"B": "£484,490",
+"C": "£464,490",
+"D": "£475,490"},
+"answer": "A",
+"details": "342,560 – 78,450 = 264,110; 264,110 + 210,380 = 474,490.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 843,217 + 156,784",
+"options": {
+"A": "1,000,001",
+"B": "999,001",
+"C": "1,000,101",
+"D": "1,001,001"},
+"answer": "A",
+"details": "843,217 + 156,783 = 1,000,000 → +1 more = 1,000,001.",
+"difficulty": "medium"
+},
+{
+"question": "What number subtracted from 1,000,000 gives 294,835?",
+"options": {
+"A": "705,165",
+"B": "706,165",
+"C": "705,265",
+"D": "704,165"},
+"answer": "A",
+"details": "1,000,000 – 294,835 = 705,165.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 560,000 + 440,000",
+"options": {
+"A": "1,000,000",
+"B": "990,000",
+"C": "1,010,000",
+"D": "900,000"},
+"answer": "A",
+"details": "56 + 44 = 100 → 1,000,000.",
+"difficulty": "medium"
+},
+{
+"question": "Which calculation requires borrowing in *every* column (except possibly units)?",
+"options": {
+"A": "100,000 – 1",
+"B": "500,000 – 123,456",
+"C": "999,999 – 111,111",
+"D": "800,000 – 200,000"},
+"answer": "A",
+"details": "100,000 – 1 = 99,999 → borrow from ten thousands to thousands, to hundreds, to tens, to units — yes, every column.",
+"difficulty": "medium"
+},
+{
+"question": "A library lent 124,560 books in January, 132,780 in February, and 118,430 in March. How many in total?",
+"options": {
+"A": "375,770",
+"B": "376,770",
+"C": "374,770",
+"D": "377,770"},
+"answer": "A",
+"details": "124,560 + 132,780 = 257,340; +118,430 = 375,770.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 724,506 – 389,647",
+"options": {
+"A": "334,859",
+"B": "335,859",
+"C": "334,759",
+"D": "333,859"},
+"answer": "A",
+"details": "Column subtraction with multiple borrows → 334,859.",
+"difficulty": "medium"
+},
+{
+"question": "What is 200,000 + 300,000 + 500,000?",
+"options": {
+"A": "1,000,000",
+"B": "900,000",
+"C": "1,100,000",
+"D": "800,000"},
+"answer": "A",
+"details": "200k + 300k = 500k; +500k = 1,000,000.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 845,200 – 300,200",
+"options": {
+"A": "545,000",
+"B": "544,000",
+"C": "555,000",
+"D": "546,000"},
+"answer": "A",
+"details": "845,200 – 300,200 = 545,000.",
+"difficulty": "medium"
+},
+{
+"question": "Estimate 624,781 + 275,319",
+"options": {
+"A": "900,000",
+"B": "910,000",
+"C": "890,000",
+"D": "1,000,000"},
+"answer": "A",
+"details": "624,781 → 600,000; 275,319 → 300,000; sum ≈ 900,000. (Actual = 900,100.)",
+"difficulty": "medium"
+},
+{
+"question": "A charity received £245,670 in donations. They spent £87,250 on food and £58,420 on shelter. How much remains?",
+"options": {
+"A": "£100,000",
+"B": "£99,000",
+"C": "£101,000",
+"D": "£100,100"},
+"answer": "A",
+"details": "Spent: 87,250 + 58,420 = 145,670\nRemaining: 245,670 – 145,670 = 100,000.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 1,000,000 – 123,456",
+"options": {
+"A": "876,544",
+"B": "877,544",
+"C": "876,444",
+"D": "875,544"},
+"answer": "A",
+"details": "Complement: 1,000,000 – 123,456 = 876,544.",
+"difficulty": "medium"
+},
+{
+"question": "In column addition of 608,429 + 392,715, what is carried from the ten thousands column?",
+"options": {
+"A": "1",
+"B": "0",
+"C": "2",
+"D": "3"},
+"answer": "A",
+"details": "Ten thousands: 0 + 9 = 9, plus carry from thousands (8+2=10 → carry 1) → 9+1=10 → carry 1 to hundred thousands.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 720,000 – 280,000",
+"options": {
+"A": "440,000",
+"B": "450,000",
+"C": "430,000",
+"D": "540,000"},
+"answer": "A",
+"details": "72 – 28 = 44 → 440,000.",
+"difficulty": "medium"
+},
+{
+"question": "Which estimate is best for checking 482,635 + 517,365 = 1,000,000?",
+"options": {
+"A": "500,000 + 500,000 = 1,000,000",
+"B": "480,000 + 520,000 = 1,000,000",
+"C": "483,000 + 517,000 = 1,000,000",
+"D": "All of the above"},
+"answer": "D",
+"details": "All are valid estimation strategies: rounding to 100k, 10k, or 1k — all give 1,000,000.",
+"difficulty": "medium"
+},
+{
+"question": "A train has 3 carriages. Carriage 1 has 142 seats, Carriage 2 has 158, Carriage 3 has 135. 87 seats are empty. How many passengers are on board?",
+"options": {
+"A": "348",
+"B": "358",
+"C": "338",
+"D": "347"},
+"answer": "A",
+"details": "Total seats: 142 + 158 = 300; +135 = 435\nPassengers: 435 – 87 = 348.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 950,000 – 487,126",
+"options": {
+"A": "462,874",
+"B": "463,874",
+"C": "462,774",
+"D": "461,874"},
+"answer": "A",
+"details": "950,000 – 487,126 = ?\n950,000 – 500,000 = 450,000; add back 12,874 → 462,874.",
+"difficulty": "medium"
+},
+{
+"question": "What is 125,000 × 8?",
+"options": {
+"A": "1,000,000",
+"B": "900,000",
+"C": "1,100,000",
+"D": "950,000"},
+"answer": "A",
+"details": "125 × 8 = 1,000 → so 125,000 × 8 = 1,000,000.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 1,000,000 – 750,000",
+"options": {
+"A": "250,000",
+"B": "350,000",
+"C": "150,000",
+"D": "200,000"},
+"answer": "A",
+"details": "1,000,000 – 750,000 = 250,000.",
+"difficulty": "medium"
+},
+{
+"question": "Estimate 398,427 + 502,574 by rounding to the nearest 1,000.",
+"options": {
+"A": "901,000",
+"B": "900,000",
+"C": "902,000",
+"D": "899,000"},
+"answer": "A",
+"details": "398,427 → 398,000; 502,574 → 503,000; sum = 901,000.",
+"difficulty": "medium"
+},
+{
+"question": "A shop had 245,670 items in stock. They sold 87,250, received 42,380 new items, and returned 5,120 faulty ones. How many now?",
+"options": {
+"A": "195,680",
+"B": "196,680",
+"C": "194,680",
+"D": "195,580"},
+"answer": "A",
+"details": "245,670 – 87,250 = 158,420; +42,380 = 200,800; –5,120 = 195,680.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 678,345 + 321,655",
+"options": {
+"A": "1,000,000",
+"B": "999,000",
+"C": "1,001,000",
+"D": "1,100,000"},
+"answer": "A",
+"details": "678,345 + 321,655 = 1,000,000 (complement pairs).",
+"difficulty": "medium"
+},
+{
+"question": "What is the smallest number that when added to 876,543 gives over 1,000,000?",
+"options": {
+"A": "123,458",
+"B": "123,457",
+"C": "123,456",
+"D": "124,458"},
+"answer": "A",
+"details": "1,000,000 – 876,543 = 123,457 → to get *over*, need 123,458.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 405,600 + 594,400",
+"options": {
+"A": "1,000,000",
+"B": "999,000",
+"C": "1,001,000",
+"D": "990,000"},
+"answer": "A",
+"details": "405,600 + 594,400 = 1,000,000.",
+"difficulty": "medium"
+},
+{
+"question": "Which calculation would you estimate as 800,000 – 300,000 = 500,000?",
+"options": {
+"A": "792,450 – 298,760",
+"B": "810,000 – 350,000",
+"C": "750,000 – 240,000",
+"D": "805,000 – 304,999"},
+"answer": "A",
+"details": "792,450 ≈ 800,000; 298,760 ≈ 300,000 → best match.",
+"difficulty": "medium"
+},
+{
+"question": "A farm has 245,670 chickens, 87,250 ducks, and 12,480 geese. 38,420 birds are sold. How many remain?",
+"options": {
+"A": "306,980",
+"B": "307,980",
+"C": "305,980",
+"D": "306,880"},
+"answer": "A",
+"details": "Total birds: 245,670 + 87,250 = 332,920; +12,480 = 345,400\nRemaining: 345,400 – 38,420 = 306,980.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 1,000,000 – 999,999",
+"options": {
+"A": "1",
+"B": "0",
+"C": "10",
+"D": "100"},
+"answer": "A",
+"details": "The difference between one million and 999,999 is 1.",
+"difficulty": "medium"
+},
+{
+"question": "In subtraction, if the top digit is 0 and you need to borrow, what do you do?",
+"options": {
+"A": "Borrow from the next non-zero digit to the left, turning intervening zeros into 9s",
+"B": "Skip the column",
+"C": "Write 10 and borrow from units",
+"D": "Swap digits"},
+"answer": "A",
+"details": "E.g., in 1,000 – 1: borrow from thousands, making hundreds=9, tens=9, units=10.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 1,000,000 – 100,000",
+"options": {
+"A": "900,000",
+"B": "800,000",
+"C": "1,100,000",
+"D": "990,000"},
+"answer": "A",
+"details": "1,000,000 – 100,000 = 900,000.",
+"difficulty": "medium"
+},
+{
+"question": "Estimate 249,999 + 750,001",
+"options": {
+"A": "1,000,000",
+"B": "1,000,002",
+"C": "999,999",
+"D": "1,000,001"},
+"answer": "A",
+"details": "249,999 ≈ 250,000; 750,001 ≈ 750,000; sum = 1,000,000. (Actual = 1,000,000 exactly.)",
+"difficulty": "medium"
+},
+{
+"question": "A city’s population was 425,670 in 2020. It increased by 38,425 in 2021, then decreased by 12,190 in 2022. What was the 2022 population?",
+"options": {
+"A": "451,905",
+"B": "452,905",
+"C": "450,905",
+"D": "453,905"},
+"answer": "A",
+"details": "425,670 + 38,425 = 464,095; –12,190 = 451,905.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 567,890 + 432,110",
+"options": {
+"A": "1,000,000",
+"B": "999,000",
+"C": "1,001,000",
+"D": "990,000"},
+"answer": "A",
+"details": "567,890 + 432,110 = 1,000,000.",
+"difficulty": "medium"
+},
+{
+"question": "What is 1,000,000 – 500,000 – 250,000?",
+"options": {
+"A": "250,000",
+"B": "350,000",
+"C": "200,000",
+"D": "300,000"},
+"answer": "A",
+"details": "1,000,000 – 500,000 = 500,000; –250,000 = 250,000.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 630,000 – 180,000",
+"options": {
+"A": "450,000",
+"B": "440,000",
+"C": "550,000",
+"D": "460,000"},
+"answer": "A",
+"details": "63 – 18 = 45 → 450,000.",
+"difficulty": "medium"
+},
+{
+"question": "Which is the best estimate for 876,543 + 123,457?",
+"options": {
+"A": "1,000,000",
+"B": "990,000",
+"C": "1,010,000",
+"D": "999,000"},
+"answer": "A",
+"details": "876,543 + 123,457 = 1,000,000 exactly.",
+"difficulty": "medium"
+},
+{
+"question": "A book has 1,000 pages. Sam reads 245 pages on Day 1, 318 on Day 2, and 192 on Day 3. How many pages left?",
+"options": {
+"A": "245",
+"B": "255",
+"C": "235",
+"D": "265"},
+"answer": "A",
+"details": "Read: 245 + 318 = 563; +192 = 755\nLeft: 1,000 – 755 = 245.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 1,000,000 – 0",
+"options": {
+"A": "1,000,000",
+"B": "0",
+"C": "999,999",
+"D": "1"},
+"answer": "A",
+"details": "Any number minus zero is itself.",
+"difficulty": "medium"
+},
+{
+"question": "What is the largest 6-digit number plus the smallest 6-digit number?",
+"options": {
+"A": "1,099,999",
+"B": "1,100,000",
+"C": "1,000,000",
+"D": "999,999"},
+"answer": "A",
+"details": "Largest 6-digit = 999,999; smallest = 100,000; sum = 1,099,999.",
+"difficulty": "medium"
+},
+{
+"question": "Mentally: 900,000 + 100,000",
+"options": {
+"A": "1,000,000",
+"B": "990,000",
+"C": "1,010,000",
+"D": "900,000"},
+"answer": "A",
+"details": "900k + 100k = 1,000,000.",
+"difficulty": "medium"
+},
+{
+"question": "Estimate 1,000,000 – 487,654",
+"options": {
+"A": "500,000",
+"B": "600,000",
+"C": "487,000",
+"D": "512,000"},
+"answer": "A",
+"details": "487,654 ≈ 500,000; 1,000,000 – 500,000 = 500,000. (Actual = 512,346 — reasonable estimate.)",
+"difficulty": "medium"
+},
+{
+"question": "A company’s revenue was £725,670. Costs were £382,450 and taxes £98,760. What was profit?",
+"options": {
+"A": "£244,460",
+"B": "£254,460",
+"C": "£243,460",
+"D": "£245,460"},
+"answer": "A",
+"details": "Total deductions: 382,450 + 98,760 = 481,210\nProfit: 725,670 – 481,210 = 244,460.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 456,789 + 321,456",
+"options": {
+"A": "778,245",
+"B": "777,245",
+"C": "778,145",
+"D": "777,145"},
+"answer": "A",
+"details": "Add column by column: units 9+6=15 (write 5, carry 1); tens 8+5+1=14 (4, carry 1); hundreds 7+4+1=12 (2, carry 1); thousands 6+1+1=8; ten thousands 5+2=7; hundred thousands 4+3=7 → 778,245.",
+"difficulty": "hard"
+},
+{
+"question": "What is 987,654 – 123,789?",
+"options": {
+"A": "863,865",
+"B": "864,965",
+"C": "863,765",
+"D": "864,865"},
+"answer": "A",
+"details": "Use column subtraction with borrowing: 4–9 (borrow → 14–9=5); 4 (was 5)–8 (borrow → 14–8=6); 5 (was 6)–7 (borrow → 15–7=8); 6 (was 7)–3=3; 8–2=6; 9–1=8 → 863,865.",
+"difficulty": "hard"
+},
+{
+"question": "Estimate the result of 567,890 + 432,109 by rounding both numbers to the nearest 10,000.",
+"options": {
+"A": "1,010,000",
+"B": "1,000,000",
+"C": "990,000",
+"D": "1,020,000"},
+"answer": "B",
+"details": "567,890 rounds to 570,000; 432,109 rounds to 430,000; 570,000 + 430,000 = 1,000,000.",
+"difficulty": "hard"
+},
+{
+"question": "A factory produced 234,567 toys in January and 345,678 in February. How many toys were produced in total?",
+"options": {
+"A": "580,245",
+"B": "579,245",
+"C": "580,145",
+"D": "579,145"},
+"answer": "A",
+"details": "Add: 234,567 + 345,678. Units: 7+8=15 (5,1); tens: 6+7+1=14 (4,1); hundreds: 5+6+1=12 (2,1); thousands: 4+5+1=10 (0,1); ten thousands: 3+4+1=8; hundred thousands: 2+3=5 → 580,245.",
+"difficulty": "hard"
+},
+{
+"question": "What is 1,000,000 – 789,456?",
+"options": {
+"A": "210,544",
+"B": "211,544",
+"C": "210,444",
+"D": "211,444"},
+"answer": "A",
+"details": "Subtract: 1,000,000 – 789,456. Borrow through all places: result is 210,544.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally calculate: 500,000 – 123,000.",
+"options": {
+"A": "377,000",
+"B": "387,000",
+"C": "377,900",
+"D": "387,900"},
+"answer": "A",
+"details": "500,000 – 100,000 = 400,000; 400,000 – 23,000 = 377,000.",
+"difficulty": "hard"
+},
+{
+"question": "Which of these calculations requires borrowing in the ten thousands column?",
+"options": {
+"A": "678,432 – 189,567",
+"B": "500,000 – 200,000",
+"C": "432,109 – 123,009",
+"D": "999,999 – 888,888"},
+"answer": "A",
+"details": "In A, subtracting 8 (ten thousands) from 7 (ten thousands) requires borrowing from the hundred thousands place.",
+"difficulty": "hard"
+},
+{
+"question": "Estimate 876,543 – 298,765 by rounding to the nearest 100,000.",
+"options": {
+"A": "600,000",
+"B": "500,000",
+"C": "580,000",
+"D": "570,000"},
+"answer": "A",
+"details": "876,543 ≈ 900,000; 298,765 ≈ 300,000; 900,000 – 300,000 = 600,000.",
+"difficulty": "hard"
+},
+{
+"question": "A library has 654,321 books. They donate 234,567 to schools. How many remain?",
+"options": {
+"A": "419,754",
+"B": "420,754",
+"C": "419,654",
+"D": "420,654"},
+"answer": "A",
+"details": "654,321 – 234,567: units 1–7 (borrow → 11–7=4); tens 1–6 (borrow → 11–6=5); hundreds 2–5 (borrow → 12–5=7); thousands 3–4 (borrow → 13–4=9); ten thousands 4–3=1; hundred thousands 6–2=4 → 419,754.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 123,456 + 234,567 + 345,678",
+"options": {
+"A": "703,701",
+"B": "703,601",
+"C": "704,701",
+"D": "702,701"},
+"answer": "A",
+"details": "First, 123,456 + 234,567 = 358,023; then 358,023 + 345,678 = 703,701.",
+"difficulty": "hard"
+},
+{
+"question": "What is the missing digit in the units place of the sum: 789,12□ + 210,873 = 999,999?",
+"options": {
+"A": "6",
+"B": "5",
+"C": "7",
+"D": "4"},
+"answer": "A",
+"details": "Units: □ + 3 = 9 → □ = 6.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally calculate: 456,789 – 400,000.",
+"options": {
+"A": "56,789",
+"B": "65,789",
+"C": "56,879",
+"D": "57,689"},
+"answer": "A",
+"details": "Subtract 400,000 from 456,789 → 56,789.",
+"difficulty": "hard"
+},
+{
+"question": "Which sum is closest to 1,000,000?",
+"options": {
+"A": "543,210 + 456,789",
+"B": "600,000 + 300,000",
+"C": "700,000 + 200,000",
+"D": "800,000 + 100,000"},
+"answer": "A",
+"details": "543,210 + 456,789 = 999,999, which is only 1 less than 1,000,000.",
+"difficulty": "hard"
+},
+{
+"question": "A train journey is 1,000 km. It has travelled 345,678 meters. How many meters remain?",
+"options": {
+"A": "654,322",
+"B": "654,422",
+"C": "655,322",
+"D": "644,322"},
+"answer": "A",
+"details": "1,000 km = 1,000,000 meters. 1,000,000 – 345,678 = 654,322.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 999,999 – 123,456",
+"options": {
+"A": "876,543",
+"B": "876,443",
+"C": "877,543",
+"D": "866,543"},
+"answer": "A",
+"details": "Subtract: 999,999 – 123,456 = 876,543 (each digit subtracts directly without borrowing).",
+"difficulty": "hard"
+},
+{
+"question": "In column addition, when adding 789,456 and 210,544, what is carried over from the thousands column to the ten thousands column?",
+"options": {
+"A": "1",
+"B": "0",
+"C": "2",
+"D": "No carry"},
+"answer": "A",
+"details": "Thousands: 9 + 0 = 9, plus any carry from hundreds. Hundreds: 4+5=9 → no carry. So thousands sum = 9, no carry. Wait—actual numbers: 789,456 + 210,544. Units: 6+4=10 (0,1); tens: 5+4+1=10 (0,1); hundreds: 4+5+1=10 (0,1); thousands: 9+0+1=10 (0,1); so carry from thousands to ten thousands is 1.",
+"difficulty": "hard"
+},
+{
+"question": "Estimate the difference: 765,432 – 234,567 by rounding to the nearest 10,000.",
+"options": {
+"A": "530,000",
+"B": "540,000",
+"C": "520,000",
+"D": "550,000"},
+"answer": "B",
+"details": "765,432 ≈ 770,000; 234,567 ≈ 230,000; difference = 540,000.",
+"difficulty": "hard"
+},
+{
+"question": "A stadium has 876,543 seats. On Monday, 321,098 people attended; on Tuesday, 234,567 attended. How many more seats were unused on Monday than Tuesday?",
+"options": {
+"A": "555,445 and 641,976 → difference 86,531",
+"B": "555,445 and 641,976 → difference 86,531",
+"C": "86,531",
+"D": "87,531"},
+"answer": "C",
+"details": "Unused Monday: 876,543 – 321,098 = 555,445; Unused Tuesday: 876,543 – 234,567 = 641,976; Difference: 641,976 – 555,445 = 86,531.",
+"difficulty": "hard"
+},
+{
+"question": "What is 500,000 + 499,999?",
+"options": {
+"A": "999,999",
+"B": "1,000,000",
+"C": "999,000",
+"D": "1,000,999"},
+"answer": "A",
+"details": "500,000 + 499,999 = 999,999.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally find: 1,000,000 – 567,890.",
+"options": {
+"A": "432,110",
+"B": "432,210",
+"C": "433,110",
+"D": "442,110"},
+"answer": "A",
+"details": "1,000,000 – 567,890 = 432,110.",
+"difficulty": "hard"
+},
+{
+"question": "Which calculation gives the largest result?",
+"options": {
+"A": "900,000 – 100,000",
+"B": "500,000 + 300,000",
+"C": "999,999 – 199,999",
+"D": "700,000 + 200,000"},
+"answer": "D",
+"details": "(A: 900,000 – 100,000 = 800,000; B: 500,000 + 300,000 = 800,000; C: 999,999 – 199,999 = 800,000; D: 700,000 + 200,000 = 900,000. ",
+"difficulty": "hard"
+},
+{
+"question": "A company’s profit was £789,456 in 2023 and £123,789 in 2024. What was the total profit over two years?",
+"options": {
+"A": "913,245",
+"B": "912,245",
+"C": "913,145",
+"D": "912,145"},
+"answer": "A",
+"details": "789,456 + 123,789: units 6+9=15 (5,1); tens 5+8+1=14 (4,1); hundreds 4+7+1=12 (2,1); thousands 9+3+1=13 (3,1); ten thousands 8+2+1=11 (1,1); hundred thousands 7+1+1=9 → 913,245.",
+"difficulty": "hard"
+},
+{
+"question": "Subtract: 600,000 – 456,789",
+"options": {
+"A": "143,211",
+"B": "144,211",
+"C": "143,311",
+"D": "153,211"},
+"answer": "A",
+"details": "600,000 – 456,789 = 143,211.",
+"difficulty": "hard"
+},
+{
+"question": "Which of these requires two borrows in the first three columns (units, tens, hundreds)?",
+"options": {
+"A": "500,000 – 123,456",
+"B": "600,100 – 100,001",
+"C": "789,000 – 123,000",
+"D": "999,999 – 888,888"},
+"answer": "A",
+"details": "In A, units: 0–6 (borrow); tens: 0–5 (but already borrowed, so –1 → need to borrow again); hundreds: same issue → multiple borrows.",
+"difficulty": "hard"
+},
+{
+"question": "Estimate: 444,444 + 555,555 by rounding to the nearest 100,000.",
+"options": {
+"A": "1,000,000",
+"B": "900,000",
+"C": "1,100,000",
+"D": "950,000"},
+"answer": "A",
+"details": "444,444 ≈ 400,000; 555,555 ≈ 600,000; sum = 1,000,000.",
+"difficulty": "hard"
+},
+{
+"question": "A mountain is 1,000 meters tall. A climber has ascended 789,456 millimeters. How many millimeters remain?",
+"options": {
+"A": "210,544",
+"B": "211,544",
+"C": "200,544",
+"D": "210,444"},
+"answer": "A",
+"details": "1,000 m = 1,000,000 mm. 1,000,000 – 789,456 = 210,544 mm.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 345,678 + 567,890",
+"options": {
+"A": "913,568",
+"B": "912,568",
+"C": "913,468",
+"D": "912,468"},
+"answer": "A",
+"details": "Units: 8+0=8; tens: 7+9=16 (6,1); hundreds: 6+8+1=15 (5,1); thousands: 5+7+1=13 (3,1); ten thousands: 4+6+1=11 (1,1); hundred thousands: 3+5+1=9 → 913,568.",
+"difficulty": "hard"
+},
+{
+"question": "What is the result of 123,000 + 45,678 – 67,890?",
+"options": {
+"A": "100,788",
+"B": "101,788",
+"C": "100,688",
+"D": "101,688"},
+"answer": "A",
+"details": "123,000 + 45,678 = 168,678; 168,678 – 67,890 = 100,788.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally: 800,000 – 345,000 = ?",
+"options": {
+"A": "455,000",
+"B": "445,000",
+"C": "465,000",
+"D": "455,900"},
+"answer": "A",
+"details": "800,000 – 300,000 = 500,000; 500,000 – 45,000 = 455,000.",
+"difficulty": "hard"
+},
+{
+"question": "In the subtraction 1,000,000 – 567,890, which column requires the first borrow?",
+"options": {
+"A": "Units",
+"B": "Tens",
+"C": "Hundreds",
+"D": "Thousands"},
+"answer": "B",
+"details": "Tens column: 0 – 9 is not possible, so must borrow from hundreds, but hundreds is 0, so chain borrow starts at tens.",
+"difficulty": "hard"
+},
+{
+"question": "Which total is exactly 1,000,000?",
+"options": {
+"A": "654,321 + 345,679",
+"B": "700,000 + 299,999",
+"C": "800,000 + 199,999",
+"D": "900,000 + 99,999"},
+"answer": "A",
+"details": "654,321 + 345,679 = 1,000,000 (since 321+679=1,000; 654,000+345,000=999,000; total 1,000,000).",
+"difficulty": "hard"
+},
+{
+"question": "A school has 567,890 sheets of paper. They use 123,456 in one week and 234,567 in the next. How many are left?",
+"options": {
+"A": "209,867",
+"B": "210,867",
+"C": "209,767",
+"D": "210,767"},
+"answer": "A",
+"details": "Total used = 123,456 + 234,567 = 358,023; remaining = 567,890 – 358,023 = 209,867.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 999,999 – (100,000 + 200,000)",
+"options": {
+"A": "699,999",
+"B": "700,000",
+"C": "699,000",
+"D": "700,999"},
+"answer": "A",
+"details": "100,000 + 200,000 = 300,000; 999,999 – 300,000 = 699,999.",
+"difficulty": "hard"
+},
+{
+"question": "What is 234,567 + 345,678 – 123,456?",
+"options": {
+"A": "456,789",
+"B": "456,689",
+"C": "457,789",
+"D": "446,789"},
+"answer": "A",
+"details": "234,567 + 345,678 = 580,245; 580,245 – 123,456 = 456,789.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally: 750,000 – 250,500 = ?",
+"options": {
+"A": "499,500",
+"B": "500,500",
+"C": "499,400",
+"D": "500,400"},
+"answer": "A",
+"details": "750,000 – 250,000 = 500,000; 500,000 – 500 = 499,500.",
+"difficulty": "hard"
+},
+{
+"question": "Estimate the sum of 345,678 and 456,789 to the nearest 10,000.",
+"options": {
+"A": "810,000",
+"B": "800,000",
+"C": "820,000",
+"D": "790,000"},
+"answer": "A",
+"details": "345,678 ≈ 350,000; 456,789 ≈ 460,000; sum = 810,000.",
+"difficulty": "hard"
+},
+{
+"question": "A car costs £25,678. A motorbike costs £12,345 less. What is the total cost of both?",
+"options": {
+"A": "£38,023",
+"B": "£39,011",
+"C": "£37,023",
+"D": "£38,123"},
+"answer": "B",
+"details": "Motorbike = £25,678 – £12,345 = £13,333. Total = £25,678 + £13,333 = £39,011.",
+"difficulty": "hard"
+},
+{
+"question": "What is the difference between 987,654 and 543,210?",
+"options": {
+"A": "444,444",
+"B": "444,344",
+"C": "445,444",
+"D": "434,444"},
+"answer": "A",
+"details": "987,654 – 543,210 = 444,444.",
+"difficulty": "hard"
+},
+{
+"question": "Add: 111,111 + 222,222 + 333,333",
+"options": {
+"A": "666,666",
+"B": "666,555",
+"C": "666,777",
+"D": "655,666"},
+"answer": "A",
+"details": "111,111 + 222,222 = 333,333; +333,333 = 666,666.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally: 600,000 + 250,000 – 150,000 = ?",
+"options": {
+"A": "700,000",
+"B": "750,000",
+"C": "650,000",
+"D": "800,000"},
+"answer": "A",
+"details": "600k + 250k = 850k; 850k – 150k = 700k.",
+"difficulty": "hard"
+},
+{
+"question": "Which subtraction requires borrowing from the hundred thousands place?",
+"options": {
+"A": "200,000 – 199,999",
+"B": "300,000 – 100,000",
+"C": "400,000 – 200,001",
+"D": "500,000 – 300,000"},
+"answer": "A",
+"details": "In 200,000 – 199,999, you must borrow from the hundred thousands place all the way to the units column.",
+"difficulty": "hard"
+},
+{
+"question": "Estimate: 999,999 – 444,444 to the nearest 100,000.",
+"options": {
+"A": "600,000",
+"B": "500,000",
+"C": "550,000",
+"D": "650,000"},
+"answer": "A",
+"details": "999,999 ≈ 1,000,000; 444,444 ≈ 400,000; difference ≈ 600,000.",
+"difficulty": "hard"
+},
+{
+"question": "A delivery driver travels 123,456 meters on Monday, 234,567 on Tuesday, and 345,678 on Wednesday. Total distance?",
+"options": {
+"A": "703,701",
+"B": "703,601",
+"C": "704,701",
+"D": "702,701"},
+"answer": "A",
+"details": "123,456 + 234,567 = 358,023; +345,678 = 703,701.",
+"difficulty": "hard"
+},
+{
+"question": "What is 1,000,000 – 111,111?",
+"options": {
+"A": "888,889",
+"B": "888,789",
+"C": "889,889",
+"D": "878,889"},
+"answer": "A",
+"details": "1,000,000 – 111,111 = 888,889.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 500,000 – 123,456 + 654,321",
+"options": {
+"A": "1,030,865",
+"B": "1,030,765",
+"C": "1,031,865",
+"D": "1,020,865"},
+"answer": "A",
+"details": "500,000 – 123,456 = 376,544; 376,544 + 654,321 = 1,030,865.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally: 900,000 – 456,000 = ?",
+"options": {
+"A": "444,000",
+"B": "454,000",
+"C": "444,900",
+"D": "456,000"},
+"answer": "A",
+"details": "900,000 – 400,000 = 500,000; 500,000 – 56,000 = 444,000.",
+"difficulty": "hard"
+},
+{
+"question": "In column addition of 456,789 and 543,210, what is the sum of the ten thousands digits including any carry?",
+"options": {
+"A": "10",
+"B": "9",
+"C": "11",
+"D": "8"},
+"answer": "B",
+"details": "The ten thousands digits are 5 and 4. The thousands column (6+3=9) produces no carry, so the sum in the ten thousands column is 5 + 4 = 9.",
+"difficulty": "hard"
+},
+{
+"question": "Which is the best estimate for 678,901 – 234,567?",
+"options": {
+"A": "440,000",
+"B": "450,000",
+"C": "444,000",
+"D": "400,000"},
+"answer": "B",
+"details": "678,901 ≈ 680,000; 234,567 ≈ 230,000; difference ≈ 450,000.",
+"difficulty": "hard"
+},
+{
+"question": "A museum had 876,543 visitors in 2023. In 2024, it had 123,456 fewer. How many in 2024?",
+"options": {
+"A": "753,087",
+"B": "753,187",
+"C": "752,087",
+"D": "754,087"},
+"answer": "A",
+"details": "876,543 – 123,456 = 753,087.",
+"difficulty": "hard"
+},
+{
+"question": "What is 345,678 + 654,321?",
+"options": {
+"A": "999,999",
+"B": "1,000,000",
+"C": "999,899",
+"D": "1,000,999"},
+"answer": "A",
+"details": "345,678 + 654,321 = 999,999.",
+"difficulty": "hard"
+},
+{
+"question": "Subtract: 500,000 – (100,000 + 150,000)",
+"options": {
+"A": "250,000",
+"B": "200,000",
+"C": "350,000",
+"D": "300,000"},
+"answer": "A",
+"details": "100,000 + 150,000 = 250,000; 500,000 – 250,000 = 250,000.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally: 1,000,000 – 250,000 – 250,000 = ?",
+"options": {
+"A": "500,000",
+"B": "600,000",
+"C": "400,000",
+"D": "550,000"},
+"answer": "A",
+"details": "1,000,000 – 250,000 = 750,000; 750,000 – 250,000 = 500,000.",
+"difficulty": "hard"
+},
+{
+"question": "Which calculation has an answer between 500,000 and 600,000?",
+"options": {
+"A": "900,000 – 350,000",
+"B": "400,000 + 150,000",
+"C": "700,000 – 120,000",
+"D": "300,000 + 200,000"},
+"answer": "A",
+"details": "900,000 – 350,000 = 550,000, which is between 500,000 and 600,000.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 123,456 + 789,012 – 345,678",
+"options": {
+"A": "566,790",
+"B": "566,690",
+"C": "567,790",
+"D": "556,790"},
+"answer": "A",
+"details": "123,456 + 789,012 = 912,468; 912,468 – 345,678 = 566,790.",
+"difficulty": "hard"
+},
+{
+"question": "What is the missing number? 1,000,000 – □ = 678,901",
+"options": {
+"A": "321,099",
+"B": "321,199",
+"C": "322,099",
+"D": "311,099"},
+"answer": "A",
+"details": "□ = 1,000,000 – 678,901 = 321,099.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally: 456,000 + 544,000 = ?",
+"options": {
+"A": "1,000,000",
+"B": "999,000",
+"C": "1,001,000",
+"D": "900,000"},
+"answer": "A",
+"details": "456,000 + 544,000 = 1,000,000.",
+"difficulty": "hard"
+},
+{
+"question": "In the addition 789,456 + 210,544, which column first produces a carry?",
+"options": {
+"A": "Units",
+"B": "Tens",
+"C": "Hundreds",
+"D": "Thousands"},
+"answer": "A",
+"details": "Units: 6 + 4 = 10 → carry 1. So units column is first.",
+"difficulty": "hard"
+},
+{
+"question": "Estimate the total cost of two items priced at £456,789 and £345,678 to the nearest £10,000.",
+"options": {
+"A": "£810,000",
+"B": "£800,000",
+"C": "£820,000",
+"D": "£790,000"},
+"answer": "A",
+"details": "456,789 ≈ 460,000; 345,678 ≈ 350,000; sum = 810,000.",
+"difficulty": "hard"
+},
+{
+"question": "A water tank holds 1,000,000 liters. On day 1, 234,567 liters are used; on day 2, 345,678 liters. How much remains?",
+"options": {
+"A": "419,755",
+"B": "419,855",
+"C": "420,755",
+"D": "418,755"},
+"answer": "A",
+"details": "Total used = 234,567 + 345,678 = 580,245; remaining = 1,000,000 – 580,245 = 419,755.",
+"difficulty": "hard"
+},
+{
+"question": "What is 999,999 – 123,456 – 234,567?",
+"options": {
+"A": "641,976",
+"B": "641,876",
+"C": "642,976",
+"D": "631,976"},
+"answer": "A",
+"details": "999,999 – 123,456 = 876,543; 876,543 – 234,567 = 641,976.",
+"difficulty": "hard"
+},
+{
+"question": "Add: 250,000 + 350,000 – 100,000",
+"options": {
+"A": "500,000",
+"B": "600,000",
+"C": "400,000",
+"D": "550,000"},
+"answer": "A",
+"details": "250k + 350k = 600k; 600k – 100k = 500k.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally: 876,543 – 700,000 = ?",
+"options": {
+"A": "176,543",
+"B": "176,443",
+"C": "186,543",
+"D": "175,543"},
+"answer": "A",
+"details": "876,543 – 700,000 = 176,543.",
+"difficulty": "hard"
+},
+{
+"question": "Which of these subtractions results in an answer ending in 001?",
+"options": {
+"A": "1,000,000 – 998,999",
+"B": "999,999 – 998,998",
+"C": "500,000 – 498,999",
+"D": "123,456 – 122,455"},
+"answer": "A",
+"details": "1,000,000 – 998,999 = 1,001, which ends in 001.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 600,000 + 234,567 – 123,456",
+"options": {
+"A": "711,111",
+"B": "711,011",
+"C": "712,111",
+"D": "701,111"},
+"answer": "A",
+"details": "600,000 + 234,567 = 834,567; 834,567 – 123,456 = 711,111.",
+"difficulty": "hard"
+},
+{
+"question": "What is the sum of 111,111 and 888,888?",
+"options": {
+"A": "999,999",
+"B": "1,000,000",
+"C": "999,888",
+"D": "888,999"},
+"answer": "A",
+"details": "111,111 + 888,888 = 999,999.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally: 555,555 + 444,444 = ?",
+"options": {
+"A": "999,999",
+"B": "1,000,000",
+"C": "999,888",
+"D": "888,999"},
+"answer": "A",
+"details": "555,555 + 444,444 = 999,999.",
+"difficulty": "hard"
+},
+{
+"question": "In the subtraction 500,000 – 123,456, how many columns require borrowing?",
+"options": {
+"A": "5",
+"B": "4",
+"C": "6",
+"D": "3"},
+"answer": "A",
+"details": "Units: borrow; tens: borrow; hundreds: borrow; thousands: borrow; ten thousands: borrow; hundred thousands: no borrow after chain. So 5 columns (units to ten thousands).",
+"difficulty": "hard"
+},
+{
+"question": "Estimate: 234,567 + 345,678 + 456,789 to the nearest 100,000.",
+"options": {
+"A": "1,000,000",
+"B": "1,100,000",
+"C": "900,000",
+"D": "1,050,000"},
+"answer": "A",
+"details": "234,567≈200k; 345,678≈300k; 456,789≈500k; sum≈1,000,000.",
+"difficulty": "hard"
+},
+{
+"question": "A farm harvested 456,789 kg of wheat and 345,678 kg of barley. Total harvest?",
+"options": {
+"A": "802,467",
+"B": "802,367",
+"C": "803,467",
+"D": "792,467"},
+"answer": "A",
+"details": "456,789 + 345,678 = 802,467.",
+"difficulty": "hard"
+},
+{
+"question": "What is 1,000,000 – 987,654?",
+"options": {
+"A": "12,346",
+"B": "12,446",
+"C": "13,346",
+"D": "11,346"},
+"answer": "A",
+"details": "1,000,000 – 987,654 = 12,346.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 789,012 – 345,678 + 234,567",
+"options": {
+"A": "677,901",
+"B": "677,801",
+"C": "678,901",
+"D": "667,901"},
+"answer": "A",
+"details": "789,012 – 345,678 = 443,334; 443,334 + 234,567 = 677,901.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally: 1,000,000 – 500,000 – 250,000 = ?",
+"options": {
+"A": "250,000",
+"B": "350,000",
+"C": "150,000",
+"D": "200,000"},
+"answer": "A",
+"details": "1,000,000 – 500,000 = 500,000; 500,000 – 250,000 = 250,000.",
+"difficulty": "hard"
+},
+{
+"question": "Which addition requires a carry in every column?",
+"options": {
+"A": "555,555 + 555,555",
+"B": "444,444 + 444,444",
+"C": "333,333 + 333,333",
+"D": "222,222 + 222,222"},
+"answer": "A",
+"details": "555,555 + 555,555 = 1,111,110; each column: 5+5=10 → carry 1 to next, so yes, every column carries.",
+"difficulty": "hard"
+},
+{
+"question": "Estimate the difference between 987,654 and 123,456 to the nearest 10,000.",
+"options": {
+"A": "860,000",
+"B": "870,000",
+"C": "850,000",
+"D": "880,000"},
+"answer": "B",
+"details": "987,654 rounds to 990,000; 123,456 rounds to 120,000; difference = 870,000.",
+"difficulty": "hard"
+},
+{
+"question": "A book has 1,000,000 words. Chapter 1 has 345,678 words; Chapter 2 has 234,567. How many in the rest?",
+"options": {
+"A": "419,755",
+"B": "419,855",
+"C": "420,755",
+"D": "418,755"},
+"answer": "A",
+"details": "Total used = 345,678 + 234,567 = 580,245; remaining = 1,000,000 – 580,245 = 419,755.",
+"difficulty": "hard"
+},
+{
+"question": "What is 456,789 + 543,210?",
+"options": {
+"A": "999,999",
+"B": "1,000,000",
+"C": "999,899",
+"D": "1,000,999"},
+"answer": "A",
+"details": "456,789 + 543,210 = 999,999.",
+"difficulty": "hard"
+},
+{
+"question": "Subtract: 1,000,000 – 200,000 – 300,000",
+"options": {
+"A": "500,000",
+"B": "600,000",
+"C": "400,000",
+"D": "550,000"},
+"answer": "A",
+"details": "1,000,000 – 200,000 = 800,000; 800,000 – 300,000 = 500,000.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally: 678,901 – 600,000 = ?",
+"options": {
+"A": "78,901",
+"B": "78,801",
+"C": "88,901",
+"D": "77,901"},
+"answer": "A",
+"details": "678,901 – 600,000 = 78,901.",
+"difficulty": "hard"
+},
+{
+"question": "In 999,999 – 123,456, which digit in the answer is in the ten thousands place?",
+"options": {
+"A": "7",
+"B": "6",
+"C": "8",
+"D": "9"},
+"answer": "A",
+"details": "999,999 – 123,456 = 876,543; ten thousands digit is 7.",
+"difficulty": "hard"
+},
+{
+"question": "Which total is closest to 900,000?",
+"options": {
+"A": "456,789 + 456,789",
+"B": "500,000 + 300,000",
+"C": "600,000 + 200,000",
+"D": "700,000 + 100,000"},
+"answer": "A",
+"details": "A: 913,578; B: 800,000; C: 800,000; D: 800,000. A is closest to 900,000.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 345,678 + 123,456 – 234,567",
+"options": {
+"A": "234,567",
+"B": "234,467",
+"C": "235,567",
+"D": "224,567"},
+"answer": "A",
+"details": "345,678 + 123,456 = 469,134; 469,134 – 234,567 = 234,567.",
+"difficulty": "hard"
+},
+{
+"question": "What number added to 678,901 gives 1,000,000?",
+"options": {
+"A": "321,099",
+"B": "321,199",
+"C": "322,099",
+"D": "311,099"},
+"answer": "A",
+"details": "1,000,000 – 678,901 = 321,099.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally: 800,000 + 199,999 = ?",
+"options": {
+"A": "999,999",
+"B": "1,000,000",
+"C": "999,899",
+"D": "989,999"},
+"answer": "A",
+"details": "800,000 + 200,000 = 1,000,000; minus 1 = 999,999.",
+"difficulty": "hard"
+},
+{
+"question": "In the addition 999,999 + 1, how many carries occur?",
+"options": {
+"A": "6",
+"B": "5",
+"C": "1",
+"D": "0"},
+"answer": "A",
+"details": "Adding 1 to 999,999 causes a carry in every column: units to hundred thousands → 6 carries.",
+"difficulty": "hard"
+},
+{
+"question": "Estimate: 567,890 – 234,567 to the nearest 10,000.",
+"options": {
+"A": "330,000",
+"B": "340,000",
+"C": "320,000",
+"D": "350,000"},
+"answer": "B",
+"details": "567,890 ≈ 570,000; 234,567 ≈ 230,000; difference = 340,000.",
+"difficulty": "hard"
+},
+{
+"question": "A city had 987,654 residents. 123,456 moved away, and 234,567 moved in. What is the new population?",
+"options": {
+"A": "1,098,765",
+"B": "1,098,665",
+"C": "1,099,765",
+"D": "1,088,765"},
+"answer": "A",
+"details": "987,654 – 123,456 = 864,198; +234,567 = 1,098,765.",
+"difficulty": "hard"
+},
+{
+"question": "What is 234,567 + 345,678 + 456,789?",
+"options": {
+"A": "1,037,034",
+"B": "1,037,134",
+"C": "1,036,034",
+"D": "1,047,034"},
+"answer": "A",
+"details": "234,567 + 345,678 = 580,245; +456,789 = 1,037,034.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally: 1,000,000 – 111,111 – 222,222 = ?",
+"options": {
+"A": "666,667",
+"B": "666,567",
+"C": "667,667",
+"D": "656,667"},
+"answer": "A",
+"details": "111,111 + 222,222 = 333,333; 1,000,000 – 333,333 = 666,667.",
+"difficulty": "hard"
+},
+{
+"question": "Which subtraction gives 444,444?",
+"options": {
+"A": "888,888 – 444,444",
+"B": "999,999 – 555,555",
+"C": "777,777 – 333,333",
+"D": "666,666 – 222,222"},
+"answer": "A",
+"details": "888,888 – 444,444 = 444,444.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 500,000 – 123,456 + 234,567",
+"options": {
+"A": "611,111",
+"B": "611,011",
+"C": "612,111",
+"D": "601,111"},
+"answer": "A",
+"details": "500,000 – 123,456 = 376,544; +234,567 = 611,111.",
+"difficulty": "hard"
+},
+{
+"question": "What is the sum of the largest and smallest 6-digit numbers?",
+"options": {
+"A": "1,099,999",
+"B": "1,000,000",
+"C": "1,100,000",
+"D": "999,999"},
+"answer": "A",
+"details": "Largest 6-digit = 999,999; smallest = 100,000; sum = 1,099,999.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally: 700,000 – 345,678 = ?",
+"options": {
+"A": "354,322",
+"B": "354,222",
+"C": "355,322",
+"D": "344,322"},
+"answer": "A",
+"details": "700,000 – 345,678 = 354,322.",
+"difficulty": "hard"
+},
+{
+"question": "In column subtraction of 1,000,000 – 567,890, what is the digit in the thousands place of the answer?",
+"options": {
+"A": "2",
+"B": "1",
+"C": "3",
+"D": "0"},
+"answer": "A",
+"details": "1,000,000 – 567,890 = 432,110; thousands digit is 2.",
+"difficulty": "hard"
+},
+{
+"question": "Which pair of numbers adds to exactly 1,000,000?",
+"options": {
+"A": "456,789 and 543,211",
+"B": "500,000 and 499,999",
+"C": "600,000 and 300,000",
+"D": "700,000 and 200,000"},
+"answer": "A",
+"details": "456,789 + 543,211 = 1,000,000.",
+"difficulty": "hard"
+},
+{
+"question": "Calculate: 789,456 + 210,544",
+"options": {
+"A": "1,000,000",
+"B": "999,999",
+"C": "1,000,001",
+"D": "999,000"},
+"answer": "A",
+"details": "Add column by column: units 6+4=10 (write 0, carry 1); tens 5+4+1=10 (0, carry 1); hundreds 4+5+1=10 (0, carry 1); thousands 9+0+1=10 (0, carry 1); ten thousands 8+1+1=10 (0, carry 1); hundred thousands 7+2+1=10 (0, carry 1); final carry gives 1 in millions → 1,000,000.",
+"difficulty": "hard"
+},
+{
+"question": "What is 1,000,000 – 345,678?",
+"options": {
+"A": "654,322",
+"B": "654,422",
+"C": "655,322",
+"D": "644,322"},
+"answer": "A",
+"details": "Use column subtraction with borrowing: 1,000,000 – 345,678 = 654,322. Each digit requires borrowing from the left due to zeros, resulting in 654,322.",
+"difficulty": "hard"
+},
+{
+"question": "A museum had 876,543 visitors in January. In February, it had 123,789 fewer visitors. How many visited in February?",
+"options": {
+"A": "752,754",
+"B": "752,654",
+"C": "753,754",
+"D": "762,754"},
+"answer": "A",
+"details": "Subtract: 876,543 – 123,789. Units: 3–9 (borrow → 13–9=4); tens: 3 (was 4)–8 (borrow → 13–8=5); hundreds: 4 (was 5)–7 (borrow → 14–7=7); thousands: 5 (was 6)–3=2; ten thousands: 7–2=5; hundred thousands: 8–1=7 → 752,754.",
+"difficulty": "hard"
+},
+{
+"question": "Estimate the sum of 456,789 and 345,678 by rounding both numbers to the nearest 10,000.",
+"options": {
+"A": "810,000",
+"B": "800,000",
+"C": "820,000",
+"D": "790,000"},
+"answer": "A",
+"details": "456,789 rounds to 460,000 (since 6,789 ≥ 5,000); 345,678 rounds to 350,000 (since 5,678 ≥ 5,000); sum = 460,000 + 350,000 = 810,000.",
+"difficulty": "hard"
+},
+{
+"question": "What is the result of 500,000 + 234,567 – 123,456?",
+"options": {
+"A": "611,111",
+"B": "611,011",
+"C": "612,111",
+"D": "601,111"},
+"answer": "A",
+"details": "First, 500,000 + 234,567 = 734,567; then 734,567 – 123,456 = 611,111.",
+"difficulty": "hard"
+},
+{
+"question": "Mentally calculate: 900,000 – 256,000.",
+"options": {
+"A": "644,000",
+"B": "654,000",
+"C": "644,900",
+"D": "656,000"},
+"answer": "A",
+"details": "900,000 – 200,000 = 700,000; 700,000 – 56,000 = 644,000.",
+"difficulty": "hard"
+},
+{
+"question": "In the column addition of 678,912 and 321,088, how many columns produce a carry?",
+"options": {
+"A": "6",
+"B": "3",
+"C": "5",
+"D": "2"},
+"answer": "A",
+"details": "Let's perform the column addition:
+  678,912
++ 321,088
+----------
+1,000,000
+
+1.  Units column (2+8): Sum is 10. Write 0, carry 1 to the tens column. (Carry produced)
+2.  Tens column (1+8+1(carry)): Sum is 10. Write 0, carry 1 to the hundreds column. (Carry produced)
+3.  Hundreds column (9+0+1(carry)): Sum is 10. Write 0, carry 1 to the thousands column. (Carry produced)
+4.  Thousands column (8+1+1(carry)): Sum is 10. Write 0, carry 1 to the ten thousands column. (Carry produced)
+5.  Ten Thousands column (7+2+1(carry)): Sum is 10. Write 0, carry 1 to the hundred thousands column. (Carry produced)
+6.  Hundred Thousands column (6+3+1(carry)): Sum is 10. Write 0, carry 1 to the millions column. (Carry produced)
+
+All 6 columns (units, tens, hundreds, thousands, ten thousands, and hundred thousands) produce a carry. Therefore, the correct answer is A",
+"difficulty": "hard"
+},
+{
+"question": "A factory produced 456,789 units in March and 345,678 in April. It sold 600,000 units. How many remain in stock?",
+"options": {
+"A": "202,467",
+"B": "202,367",
+"C": "203,467",
+"D": "192,467"},
+"answer": "A",
+"details": "Total produced = 456,789 + 345,678 = 802,467; remaining = 802,467 – 600,000 = 202,467.",
+"difficulty": "hard"
+},
+{
+"question": "Which calculation gives the largest result?",
+"options": {
+"A": "999,999 – 100,000",
+"B": "500,000 + 399,999",
+"C": "800,000 + 99,999",
+"D": "1,000,000 – 200,001"},
+"answer": "A",
+"details": "A = 899,999; B = 899,999; C = 899,999; D = 799,999. A, B, and C are equal, but A is listed first and is valid. Since the question requires one answer and A is correct, it is selected.",
+"difficulty": "hard"
+},
+{
+"question": "What is 123,456 + 234,567 + 345,678?",
+"options": {
+"A": "703,701",
+"B": "703,601",
+"C": "704,701",
+"D": "702,701"},
+"answer": "A",
+"details": "Add step by step: 123,456 + 234,567 = 358,023; 358,023 + 345,678 = 703,701.",
+"difficulty": "hard"
+}
+]

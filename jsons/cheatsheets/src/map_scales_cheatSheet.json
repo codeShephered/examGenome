@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is a map scale?",
+    "answer": "A map scale shows the relationship between distances on the map and real distances on the ground.",
+    "explanation": "For example, if the scale is 1 cm : 10 km, then 1 centimeter on the map equals 10 kilometers in real life."
+  },
+  {
+    "question": "What are the two common ways to write a map scale?",
+    "answer": "As a ratio (like 1:50,000) or as a statement (like 1 cm = 500 m).",
+    "explanation": "The ratio form (1:50,000) means 1 unit on the map equals 50,000 of the same units in real life. The statement form uses real units like cm and km."
+  },
+  {
+    "question": "What does a scale of 1:100,000 mean?",
+    "answer": "It means 1 cm on the map equals 100,000 cm in real life (which is 1 km).",
+    "explanation": "Since 100,000 cm = 1,000 meters = 1 kilometer, this scale is often used in road maps."
+  },
+  {
+    "question": "Do map scales have units?",
+    "answer": "The ratio form (like 1:25,000) has no units—it’s the same unit on both sides. But statement scales use real units like cm and km.",
+    "explanation": "In 1:25,000, it could be 1 cm : 25,000 cm or 1 inch : 25,000 inches—it’s unitless. But '1 cm = 250 m' clearly uses centimeters and meters."
+  },
+  {
+    "question": "Why are map scales important?",
+    "answer": "They help you measure real distances using a ruler on a map.",
+    "explanation": "Without a scale, you wouldn’t know if two cities are 10 km or 100 km apart—just by looking at the map."
+  },
+  {
+    "question": "What happens to the detail on a map when the scale number gets bigger (like 1:1,000,000 vs. 1:10,000)?",
+    "answer": "A bigger scale number (like 1:1,000,000) means less detail (shows a larger area). A smaller scale number (like 1:10,000) shows more detail (smaller area).",
+    "explanation": "Think: 'Large scale' = small area, more detail (like a neighborhood map). 'Small scale' = large area, less detail (like a world map)."
+  },
+  {
+    "question": "How do you convert map distance to real distance using a scale?",
+    "answer": "Multiply the map distance by the real distance represented by 1 unit on the map.",
+    "explanation": "If 1 cm = 5 km and the map distance is 4 cm, then real distance = 4 × 5 = 20 km."
+  },
+  {
+    "question": "What is a 'representative fraction' in map scales?",
+    "answer": "It’s the ratio form of a scale, like 1:50,000, where both numbers are in the same unit.",
+    "explanation": "It’s called a fraction because it’s like 1/50,000—showing how much the real world is reduced to fit on the map."
+  },
+  {
+    "question": "Can you use inches or centimeters to measure on a map?",
+    "answer": "Yes! But you must match the unit used in the scale statement.",
+    "explanation": "If the scale says '1 inch = 4 miles,' use inches. If it says '1 cm = 2 km,' use centimeters."
+  },
+  {
+    "question": "What is the key rule to remember when using map scales?",
+    "answer": "Always make sure your units match—and use the scale as a 'conversion rule' between map and real life.",
+    "explanation": "Never skip the scale! Always check whether it uses cm, inches, km, or miles—and convert correctly."
+  }
+]

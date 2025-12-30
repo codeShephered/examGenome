@@ -5,9 +5,9 @@
     "details": "To find a percentage of a number, convert the percent to a decimal (20% = 0.20) and multiply: 0.20 × 50 = 10."
   },
   {
-    "question": "A shirt costs $40. If it is on sale for 25% off, what is the discount amount?",
-    "answer": "$10",
-    "details": "25% of $40 = 0.25 × 40 = $10. So the discount is $10."
+    "question": "A shirt costs £40. If it is on sale for 25% off, what is the discount amount?",
+    "answer": "£10",
+    "details": "25% of £40 = 0.25 × 40 = £10. So the discount is £10."
   },
   {
     "question": "What is 10% of 120?",
@@ -25,9 +25,9 @@
     "details": "50% means half, so 80 ÷ 2 = 40."
   },
   {
-    "question": "A book originally priced at $20 is reduced by 15%. What is the new price?",
-    "answer": "$17",
-    "details": "15% of 20 = 0.15 × 20 = $3. New price = 20 − 3 = $17."
+    "question": "A book originally priced at £20 is reduced by 15%. What is the new price?",
+    "answer": "£17",
+    "details": "15% of 20 = 0.15 × 20 = £3. New price = 20 − 3 = £17."
   },
   {
     "question": "What is 75% of 40?",
@@ -35,7 +35,7 @@
     "details": "75% = 3/4. 3/4 of 40 = (40 ÷ 4) × 3 = 10 × 3 = 30."
   },
   {
-    "question": "A price increases from $50 to $60. What is the percentage increase?",
+    "question": "A price increases from £50 to £60. What is the percentage increase?",
     "answer": "20%",
     "details": "Increase = 60 − 50 = 10. Percentage increase = (10 ÷ 50) × 100 = 20%."
   },
@@ -50,12 +50,12 @@
     "details": "(45 ÷ 50) × 100 = 0.9 × 100 = 90%."
   },
   {
-    "question": "After a 20% discount, a toy costs $16. What was the original price?",
-    "answer": "$20",
+    "question": "After a 20% discount, a toy costs £16. What was the original price?",
+    "answer": "£20",
     "details": "After 20% off, 80% of the original price remains. Let original price be x. 0.8x = 16 → x = 16 ÷ 0.8 = 20."
   },
   {
-    "question": "A price decreases from $80 to $64. What is the percentage decrease?",
+    "question": "A price decreases from £80 to £64. What is the percentage decrease?",
     "answer": "20%",
     "details": "Decrease = 80 − 64 = 16. Percentage decrease = (16 ÷ 80) × 100 = 20%."
   },
@@ -65,9 +65,9 @@
     "details": "0.30 × 60 = 18."
   },
   {
-    "question": "A salary of $1000 increases by 5%. What is the new salary?",
-    "answer": "$1050",
-    "details": "5% of 1000 = 50. New salary = 1000 + 50 = $1050."
+    "question": "A salary of £1000 increases by 5%. What is the new salary?",
+    "answer": "£1050",
+    "details": "5% of 1000 = 50. New salary = 1000 + 50 = £1050."
   },
   {
     "question": "What is 100% of 75?",
@@ -85,14 +85,14 @@
     "details": "0.40 × 25 = 10."
   },
   {
-    "question": "A shop sells an item for $90 after a 10% markup. What was the cost price?",
-    "answer": "$81.82 (approximately $81.82, but for age 11, use exact fraction or simpler number. To avoid decimals, revise example.)",
-    "details": "This involves division: 90 ÷ 1.1 = 81.818..., which may be advanced. Instead, use: 'After a 20% markup, price is $60. What was cost?' → 60 ÷ 1.2 = 50. So we replace the question."
+    "question": "A shop sells an item for £90 after a 10% markup. What was the cost price?",
+    "answer": "£81.82 (approximately £81.82, but for age 11, use exact fraction or simpler number. To avoid decimals, revise example.)",
+    "details": "This involves division: 90 ÷ 1.1 = 81.818..., which may be advanced. Instead, use: 'After a 20% markup, price is £60. What was cost?' → 60 ÷ 1.2 = 50. So we replace the question."
   },
   {
-    "question": "After a 20% markup, the selling price is $60. What was the cost price?",
-    "answer": "$50",
-    "details": "120% of cost = $60. So cost = 60 ÷ 1.2 = 50."
+    "question": "After a 20% markup, the selling price is £60. What was the cost price?",
+    "answer": "£50",
+    "details": "120% of cost = £60. So cost = 60 ÷ 1.2 = 50."
   },
   {
     "question": "What is 10% of 90?",
@@ -120,8 +120,8 @@
     "details": "0.05 × 60 = 3."
   },
   {
-    "question": "A price is reduced by 10% to $45. What was the original price?",
-    "answer": "$50",
+    "question": "A price is reduced by 10% to £45. What was the original price?",
+    "answer": "£50",
     "details": "90% of original = 45. Original = 45 ÷ 0.9 = 50."
   },
   {
@@ -160,8 +160,8 @@
     "details": "0.90 × 30 = 27."
   },
   {
-    "question": "After a 25% discount, a jacket costs $30. What was the original price?",
-    "answer": "$40",
+    "question": "After a 25% discount, a jacket costs £30. What was the original price?",
+    "answer": "£40",
     "details": "75% of original = 30. Original = 30 ÷ 0.75 = 40."
   },
   {
@@ -180,8 +180,8 @@
     "details": "0.35 × 200 = 70."
   },
   {
-    "question": "A salary is increased by 10% to $1100. What was the original salary?",
-    "answer": "$1000",
+    "question": "A salary is increased by 10% to £1100. What was the original salary?",
+    "answer": "£1000",
     "details": "110% of original = 1100. Original = 1100 ÷ 1.1 = 1000."
   },
   {
@@ -190,8 +190,8 @@
     "details": "0.12 × 50 = 6."
   },
   {
-    "question": "A price of $50 is increased by 20%. What is the new price?",
-    "answer": "$60",
+    "question": "A price of £50 is increased by 20%. What is the new price?",
+    "answer": "£60",
     "details": "20% of 50 = 10. New price = 50 + 10 = 60."
   },
   {
@@ -220,7 +220,7 @@
     "details": "0.65 × 20 = 13."
   },
   {
-    "question": "A price decreases from $200 to $150. What is the percentage decrease?",
+    "question": "A price decreases from £200 to £150. What is the percentage decrease?",
     "answer": "25%",
     "details": "Decrease = 50. Percentage = (50 ÷ 200) × 100 = 25%."
   },
@@ -240,9 +240,9 @@
     "details": "0.20 × 150 = 30."
   },
   {
-    "question": "A car's value decreases by 20% from $10,000. What is its new value?",
-    "answer": "$8,000",
-    "details": "20% of 10,000 = 2,000. New value = 10,000 − 2,000 = $8,000."
+    "question": "A car's value decreases by 20% from £10,000. What is its new value?",
+    "answer": "£8,000",
+    "details": "20% of 10,000 = 2,000. New value = 10,000 − 2,000 = £8,000."
   },
   {
     "question": "What is 10% of 250?",
@@ -250,8 +250,8 @@
     "details": "250 ÷ 10 = 25."
   },
   {
-    "question": "A shirt is sold for $24 after a 20% discount. What was the original price?",
-    "answer": "$30",
+    "question": "A shirt is sold for £24 after a 20% discount. What was the original price?",
+    "answer": "£30",
     "details": "80% of original = 24. Original = 24 ÷ 0.8 = 30."
   },
   {
@@ -280,8 +280,8 @@
     "details": "0.30 × 90 = 27."
   },
   {
-    "question": "A price of $80 is reduced by 25%. What is the new price?",
-    "answer": "$60",
+    "question": "A price of £80 is reduced by 25%. What is the new price?",
+    "answer": "£60",
     "details": "25% of 80 = 20. New price = 80 − 20 = 60."
   },
   {
@@ -310,8 +310,8 @@
     "details": "0.20 × 200 = 40."
   },
   {
-    "question": "A toy costs $25 after a 50% discount. What was the original price?",
-    "answer": "$50",
+    "question": "A toy costs £25 after a 50% discount. What was the original price?",
+    "answer": "£50",
     "details": "50% of original = 25. Original = 25 ÷ 0.5 = 50."
   },
   {
@@ -320,7 +320,7 @@
     "details": "75 ÷ 10 = 7.5."
   },
   {
-    "question": "A price increases from $40 to $48. What is the percentage increase?",
+    "question": "A price increases from £40 to £48. What is the percentage increase?",
     "answer": "20%",
     "details": "Increase = 8. Percentage = (8 ÷ 40) × 100 = 20%."
   },
@@ -360,8 +360,8 @@
     "details": "0.70 × 70 = 49."
   },
   {
-    "question": "A book is sold for $18 after a 10% discount. What was the original price?",
-    "answer": "$20",
+    "question": "A book is sold for £18 after a 10% discount. What was the original price?",
+    "answer": "£20",
     "details": "90% of original = 18. Original = 18 ÷ 0.9 = 20."
   },
   {
@@ -370,8 +370,8 @@
     "details": "0.15 × 80 = 12."
   },
   {
-    "question": "A price of $120 is increased by 25%. What is the new price?",
-    "answer": "$150",
+    "question": "A price of £120 is increased by 25%. What is the new price?",
+    "answer": "£150",
     "details": "25% of 120 = 30. New price = 120 + 30 = 150."
   },
   {
@@ -390,7 +390,7 @@
     "details": "60 ÷ 4 = 15."
   },
   {
-    "question": "A salary decreases from $2000 to $1800. What is the percentage decrease?",
+    "question": "A salary decreases from £2000 to £1800. What is the percentage decrease?",
     "answer": "10%",
     "details": "Decrease = 200. Percentage = (200 ÷ 2000) × 100 = 10%."
   },
@@ -420,8 +420,8 @@
     "details": "120 ÷ 2 = 60."
   },
   {
-    "question": "A price is reduced by 40% to $36. What was the original price?",
-    "answer": "$60",
+    "question": "A price is reduced by 40% to £36. What was the original price?",
+    "answer": "£60",
     "details": "60% of original = 36. Original = 36 ÷ 0.6 = 60."
   },
   {
@@ -460,7 +460,7 @@
     "details": "0.75 × 20 = 15."
   },
   {
-    "question": "A price decreases from $25 to $20. What is the percentage decrease?",
+    "question": "A price decreases from £25 to £20. What is the percentage decrease?",
     "answer": "20%",
     "details": "Decrease = 5. Percentage = (5 ÷ 25) × 100 = 20%."
   },
@@ -470,8 +470,8 @@
     "details": "0.05 × 120 = 6."
   },
   {
-    "question": "After a 15% discount, a game costs $17. What was the original price?",
-    "answer": "$20",
+    "question": "After a 15% discount, a game costs £17. What was the original price?",
+    "answer": "£20",
     "details": "85% of original = 17. Original = 17 ÷ 0.85 = 20."
   },
   {
@@ -500,8 +500,8 @@
     "details": "0.65 × 40 = 26."
   },
   {
-    "question": "A price is increased by 30% to $65. What was the original price?",
-    "answer": "$50",
+    "question": "A price is increased by 30% to £65. What was the original price?",
+    "answer": "£50",
     "details": "130% of original = 65. Original = 65 ÷ 1.3 = 50."
   },
   {
@@ -520,8 +520,8 @@
     "details": "100 ÷ 4 = 25."
   },
   {
-    "question": "A salary of $800 is increased by 12.5%. What is the new salary?",
-    "answer": "$900",
+    "question": "A salary of £800 is increased by 12.5%. What is the new salary?",
+    "answer": "£900",
     "details": "12.5% = 1/8. 800 ÷ 8 = 100. New salary = 800 + 100 = 900."
   },
   {
@@ -540,8 +540,8 @@
     "details": "90 ÷ 2 = 45."
   },
   {
-    "question": "A price of $75 is reduced by 20%. What is the new price?",
-    "answer": "$60",
+    "question": "A price of £75 is reduced by 20%. What is the new price?",
+    "answer": "£60",
     "details": "20% of 75 = 15. New price = 75 − 15 = 60."
   },
   {
@@ -570,7 +570,7 @@
     "details": "0.05 × 300 = 15."
   },
   {
-    "question": "A price increases from $60 to $78. What is the percentage increase?",
+    "question": "A price increases from £60 to £78. What is the percentage increase?",
     "answer": "30%",
     "details": "Increase = 18. Percentage = (18 ÷ 60) × 100 = 30%."
   },
@@ -580,13 +580,63 @@
     "details": "0.70 × 90 = 63."
   },
   {
-    "question": "After a 10% decrease, a price is $81. What was the original price?",
-    "answer": "$90",
+    "question": "After a 10% decrease, a price is £81. What was the original price?",
+    "answer": "£90",
     "details": "90% of original = 81. Original = 81 ÷ 0.9 = 90."
   },
   {
     "question": "What is 80% of 90?",
     "answer": "72",
     "details": "0.80 × 90 = 72."
-  }
+  },
+    {
+      "question": "A T-shirt costs £20. If the price is increased by 25%, what is the new price?",
+      "answer": "25",
+      "details": "To calculate a 25% increase: find 25% of £20, which is (25 ÷ 100) × 20 = 0.25 × 20 = 5. Add this to the original price: 20 + 5 = 25. So the new price is £25. This is a standard percentage increase problem commonly found in real-life pricing scenarios and school curricula like the UK Key Stage 2 or US Grade 6 math standards."
+    },
+    {
+      "question": "A book is sold for £45 after a 10% discount. What was its original price?",
+      "answer": "50",
+      "details": "A 10% discount means the selling price is 90% of the original price. Let the original price be x. Then 90% of x = 45 → 0.9x = 45 → x = 45 ÷ 0.9 = 50. So the original price was £50. This is a classic reverse percentage problem, where you work backward from the discounted amount to find the initial value."
+    },
+    {
+      "question": "What is 40% of 150?",
+      "answer": "60",
+      "details": "To find 40% of 150, multiply: (40 ÷ 100) × 150 = 0.4 × 150 = 60. This is a foundational percentage calculation. Understanding that 'percent' means 'per hundred' allows students to convert percentages to decimals and apply multiplication—a core skill in elementary mathematics."
+    },
+    {
+      "question": "A population of 800 birds decreases by 15%. How many birds are left?",
+      "answer": "680",
+      "details": "A 15% decrease means 15% of 800 is removed. First, calculate 15% of 800: 0.15 × 800 = 120. Subtract from the original: 800 − 120 = 680. Alternatively, since 100% − 15% = 85%, compute 0.85 × 800 = 680. Both methods are valid and taught in standard curricula."
+    },
+    {
+      "question": "After a 20% increase, a toy costs £36. What was its original price?",
+      "answer": "30",
+      "details": "A 20% increase means the new price is 120% of the original. Let the original price be x. Then 1.2x = 36 → x = 36 ÷ 1.2 = 30. So the original price was £30. This reverse percentage question tests understanding of percentage multipliers and is common in real-world contexts like sales tax or markups."
+    },
+    {
+      "question": "A shop reduces the price of a £120 jacket by 25%. What is the sale price?",
+      "answer": "90",
+      "details": "25% of £120 is (25 ÷ 100) × 120 = 0.25 × 120 = 30. Subtract the discount: 120 − 30 = 90. So the sale price is £90. Alternatively, 75% of 120 = 0.75 × 120 = 90. This models typical discount scenarios in retail, aligning with real-world financial literacy skills."
+    },
+    {
+      "question": "If 30% of a number is 45, what is the whole number?",
+      "answer": "150",
+      "details": "Let the number be x. Then 30% of x = 45 → 0.3x = 45 → x = 45 ÷ 0.3 = 150. This is a reverse percentage problem where a part is known and the whole is to be found. It appears frequently in standardized tests and reinforces the relationship between parts, wholes, and percentages."
+    },
+    {
+      "question": "A student scored 85% on a test with 40 questions. How many questions did they answer correctly?",
+      "answer": "34",
+      "details": "85% of 40 = (85 ÷ 100) × 40 = 0.85 × 40 = 34. So the student answered 34 questions correctly. This applies percentages to assessment scoring—a practical and relatable context for students aged 11 or under."
+    },
+    {
+      "question": "The price of a bicycle was reduced from £200 to £170. What is the percentage decrease?",
+      "answer": "15",
+      "details": "First, find the amount of decrease: 200 − 170 = 30. Then divide by the original price: 30 ÷ 200 = 0.15. Convert to a percentage: 0.15 × 100 = 15%. So the percentage decrease is 15%. This formula—(decrease ÷ original) × 100—is standard for calculating percentage change."
+    },
+    {
+      "question": "A school had 250 students last year. This year, enrollment increased by 12%. How many students are there this year?",
+      "answer": "280",
+      "details": "12% of 250 = 0.12 × 250 = 30. Add to the original: 250 + 30 = 280. Alternatively, 112% of 250 = 1.12 × 250 = 280. This models real-world population growth and is solvable using basic multiplication and addition, appropriate for upper elementary math."
+    }
 ]

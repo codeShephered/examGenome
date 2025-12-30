@@ -7,9 +7,9 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import inch
 from reportlab.lib.pdfencrypt import StandardEncryption
 
-JSON_FILE = "longDivFlashCard.json"
+JSON_FILE = "../../jsons/flashcard/src/squareCube.json"
 ICON_PATH = "examGenome.png"
-OUTPUT_PREFIX = "examGenome_flashCard_longDivision"
+OUTPUT_PREFIX = "examGenome_flashCard_squareCube"
 
 # ------------------------------------------------------------
 # Watermark

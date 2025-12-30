@@ -1,0 +1,3302 @@
+[
+    {
+        "question": "How many centimetres are in 3 metres?",
+        "answer": "B",
+        "options": {
+            "A": "30 cm",
+            "B": "300 cm",
+            "C": "3,000 cm",
+            "D": "30,000 cm"
+        }
+    },
+    {
+        "question": "Which is the same as 2.5 kg in grams?",
+        "answer": "C",
+        "options": {
+            "A": "25 g",
+            "B": "250 g",
+            "C": "2,500 g",
+            "D": "25,000 g"
+        }
+    },
+    {
+        "question": "How many millilitres are in 4.25 litres?",
+        "answer": "B",
+        "options": {
+            "A": "425 mL",
+            "B": "4,250 mL",
+            "C": "42,500 mL",
+            "D": "425,000 mL"
+        }
+    },
+    {
+        "question": "Convert 500 cm to metres.",
+        "answer": "B",
+        "options": {
+            "A": "0.5 m",
+            "B": "5 m",
+            "C": "50 m",
+            "D": "500 m"
+        }
+    },
+    {
+        "question": "Approximately how many kilometres is 10 miles? (Use 1 mile \u2248 1.6 km)",
+        "answer": "C",
+        "options": {
+            "A": "10 km",
+            "B": "12 km",
+            "C": "16 km",
+            "D": "20 km"
+        }
+    },
+    {
+        "question": "A rectangle has length 6 cm and width 4 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "10 cm\u00b2",
+            "B": "20 cm\u00b2",
+            "C": "24 cm\u00b2",
+            "D": "36 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with side 5 cm?",
+        "answer": "C",
+        "options": {
+            "A": "10 cm",
+            "B": "15 cm",
+            "C": "20 cm",
+            "D": "25 cm"
+        }
+    },
+    {
+        "question": "Which shape can have the same area as a rectangle but a different perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "Only another rectangle",
+            "B": "A triangle",
+            "C": "Any shape with the same side lengths",
+            "D": "Only a square"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 10 cm and height 6 cm?",
+        "answer": "B",
+        "options": {
+            "A": "16 cm\u00b2",
+            "B": "30 cm\u00b2",
+            "C": "60 cm\u00b2",
+            "D": "120 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a parallelogram with base 8 cm and height 5 cm?",
+        "answer": "C",
+        "options": {
+            "A": "13 cm\u00b2",
+            "B": "26 cm\u00b2",
+            "C": "40 cm\u00b2",
+            "D": "80 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many cubic centimetres are in a cube with side 3 cm?",
+        "answer": "C",
+        "options": {
+            "A": "9 cm\u00b3",
+            "B": "18 cm\u00b3",
+            "C": "27 cm\u00b3",
+            "D": "36 cm\u00b3"
+        }
+    },
+    {
+        "question": "A cuboid has length 4 cm, width 3 cm, and height 2 cm. What is its volume?",
+        "answer": "C",
+        "options": {
+            "A": "9 cm\u00b3",
+            "B": "18 cm\u00b3",
+            "C": "24 cm\u00b3",
+            "D": "36 cm\u00b3"
+        }
+    },
+    {
+        "question": "Which is longer: 1,200 mm or 1.2 m?",
+        "answer": "C",
+        "options": {
+            "A": "1,200 mm",
+            "B": "1.2 m",
+            "C": "They are equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "How many grams are in 0.75 kg?",
+        "answer": "C",
+        "options": {
+            "A": "7.5 g",
+            "B": "75 g",
+            "C": "750 g",
+            "D": "7,500 g"
+        }
+    },
+    {
+        "question": "If a car travels 120 miles in 2 hours, what is its average speed?",
+        "answer": "C",
+        "options": {
+            "A": "40 mph",
+            "B": "50 mph",
+            "C": "60 mph",
+            "D": "70 mph"
+        }
+    },
+    {
+        "question": "Convert 3,500 g to kilograms.",
+        "answer": "B",
+        "options": {
+            "A": "0.35 kg",
+            "B": "3.5 kg",
+            "C": "35 kg",
+            "D": "350 kg"
+        }
+    },
+    {
+        "question": "How many millimetres are in 0.8 cm?",
+        "answer": "B",
+        "options": {
+            "A": "0.08 mm",
+            "B": "8 mm",
+            "C": "80 mm",
+            "D": "800 mm"
+        }
+    },
+    {
+        "question": "Which is heavier: 1.2 kg or 1,150 g?",
+        "answer": "A",
+        "options": {
+            "A": "1.2 kg",
+            "B": "1,150 g",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle with length 9 cm and width 4 cm?",
+        "answer": "B",
+        "options": {
+            "A": "13 cm",
+            "B": "26 cm",
+            "C": "36 cm",
+            "D": "40 cm"
+        }
+    },
+    {
+        "question": "A triangle has base 12 cm and height 5 cm. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "17 cm\u00b2",
+            "B": "30 cm\u00b2",
+            "C": "60 cm\u00b2",
+            "D": "120 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many litres are in 2,750 mL?",
+        "answer": "B",
+        "options": {
+            "A": "0.275 L",
+            "B": "2.75 L",
+            "C": "27.5 L",
+            "D": "275 L"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 32 km? (Use 1 mile \u2248 1.6 km)",
+        "answer": "C",
+        "options": {
+            "A": "10 miles",
+            "B": "15 miles",
+            "C": "20 miles",
+            "D": "25 miles"
+        }
+    },
+    {
+        "question": "A parallelogram has base 7 cm and height 4 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "11 cm\u00b2",
+            "B": "21 cm\u00b2",
+            "C": "28 cm\u00b2",
+            "D": "56 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which has a larger volume: a cube of side 4 cm or a cuboid 5 cm \u00d7 3 cm \u00d7 2 cm?",
+        "answer": "A",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "How many metres are in 2.5 km?",
+        "answer": "C",
+        "options": {
+            "A": "25 m",
+            "B": "250 m",
+            "C": "2,500 m",
+            "D": "25,000 m"
+        }
+    },
+    {
+        "question": "Convert 750 mL to litres.",
+        "answer": "B",
+        "options": {
+            "A": "0.075 L",
+            "B": "0.75 L",
+            "C": "7.5 L",
+            "D": "75 L"
+        }
+    },
+    {
+        "question": "A rectangle and a triangle both have area 20 cm\u00b2. Which could have a larger perimeter?",
+        "answer": "C",
+        "options": {
+            "A": "Only the rectangle",
+            "B": "Only the triangle",
+            "C": "Either one",
+            "D": "They must have the same perimeter"
+        }
+    },
+    {
+        "question": "What is the volume of a cube with side 5 cm?",
+        "answer": "D",
+        "options": {
+            "A": "15 cm\u00b3",
+            "B": "25 cm\u00b3",
+            "C": "75 cm\u00b3",
+            "D": "125 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many centimetres are in 0.06 m?",
+        "answer": "B",
+        "options": {
+            "A": "0.6 cm",
+            "B": "6 cm",
+            "C": "60 cm",
+            "D": "600 cm"
+        }
+    },
+    {
+        "question": "Which is lighter: 0.9 kg or 950 g?",
+        "answer": "A",
+        "options": {
+            "A": "0.9 kg",
+            "B": "950 g",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "A car travels 80 km in 1 hour. What is its speed in km/h?",
+        "answer": "C",
+        "options": {
+            "A": "40 km/h",
+            "B": "60 km/h",
+            "C": "80 km/h",
+            "D": "100 km/h"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle with length 12 cm and width 5 cm?",
+        "answer": "C",
+        "options": {
+            "A": "17 cm\u00b2",
+            "B": "34 cm\u00b2",
+            "C": "60 cm\u00b2",
+            "D": "120 cm\u00b2"
+        }
+    },
+    {
+        "question": "Convert 4 km to metres.",
+        "answer": "C",
+        "options": {
+            "A": "40 m",
+            "B": "400 m",
+            "C": "4,000 m",
+            "D": "40,000 m"
+        }
+    },
+    {
+        "question": "How many milligrams are in 3 grams?",
+        "answer": "C",
+        "options": {
+            "A": "30 mg",
+            "B": "300 mg",
+            "C": "3,000 mg",
+            "D": "30,000 mg"
+        }
+    },
+    {
+        "question": "A triangle has base 8 cm and height 7 cm. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "15 cm\u00b2",
+            "B": "28 cm\u00b2",
+            "C": "56 cm\u00b2",
+            "D": "112 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which unit is best for measuring the volume of a shoebox?",
+        "answer": "B",
+        "options": {
+            "A": "mm\u00b3",
+            "B": "cm\u00b3",
+            "C": "m\u00b3",
+            "D": "km\u00b3"
+        }
+    },
+    {
+        "question": "How many seconds are in 5 minutes?",
+        "answer": "C",
+        "options": {
+            "A": "60",
+            "B": "120",
+            "C": "300",
+            "D": "600"
+        }
+    },
+    {
+        "question": "Convert 2 hours 30 minutes to minutes.",
+        "answer": "C",
+        "options": {
+            "A": "90 minutes",
+            "B": "120 minutes",
+            "C": "150 minutes",
+            "D": "180 minutes"
+        }
+    },
+    {
+        "question": "What is the perimeter of an equilateral triangle with side 8 cm?",
+        "answer": "C",
+        "options": {
+            "A": "16 cm",
+            "B": "20 cm",
+            "C": "24 cm",
+            "D": "32 cm"
+        }
+    },
+    {
+        "question": "A parallelogram has base 10 cm and height 6 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "16 cm\u00b2",
+            "B": "30 cm\u00b2",
+            "C": "60 cm\u00b2",
+            "D": "120 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many kilograms are in 2,250 g?",
+        "answer": "B",
+        "options": {
+            "A": "0.225 kg",
+            "B": "2.25 kg",
+            "C": "22.5 kg",
+            "D": "225 kg"
+        }
+    },
+    {
+        "question": "Which is longer: 1.05 m or 105 cm?",
+        "answer": "C",
+        "options": {
+            "A": "1.05 m",
+            "B": "105 cm",
+            "C": "They are equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "A cuboid is 6 cm long, 2 cm wide, and 3 cm high. What is its volume?",
+        "answer": "C",
+        "options": {
+            "A": "11 cm\u00b3",
+            "B": "22 cm\u00b3",
+            "C": "36 cm\u00b3",
+            "D": "48 cm\u00b3"
+        }
+    },
+    {
+        "question": "What is 3.005 kg in grams?",
+        "answer": "B",
+        "options": {
+            "A": "305 g",
+            "B": "3,005 g",
+            "C": "3,500 g",
+            "D": "30,005 g"
+        }
+    },
+    {
+        "question": "Approximately how many km is 5 miles? (1 mile \u2248 1.6 km)",
+        "answer": "C",
+        "options": {
+            "A": "6 km",
+            "B": "7 km",
+            "C": "8 km",
+            "D": "9 km"
+        }
+    },
+    {
+        "question": "A rectangle has area 30 cm\u00b2 and length 6 cm. What is its width?",
+        "answer": "B",
+        "options": {
+            "A": "4 cm",
+            "B": "5 cm",
+            "C": "6 cm",
+            "D": "7 cm"
+        }
+    },
+    {
+        "question": "How many millilitres are in 0.05 L?",
+        "answer": "B",
+        "options": {
+            "A": "5 mL",
+            "B": "50 mL",
+            "C": "500 mL",
+            "D": "5,000 mL"
+        }
+    },
+    {
+        "question": "Which has a greater area: a square of side 5 cm or a rectangle 6 cm \u00d7 4 cm?",
+        "answer": "A",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 9 cm and height 4 cm?",
+        "answer": "B",
+        "options": {
+            "A": "13 cm\u00b2",
+            "B": "18 cm\u00b2",
+            "C": "36 cm\u00b2",
+            "D": "72 cm\u00b2"
+        }
+    },
+    {
+        "question": "Convert 1.8 m to centimetres.",
+        "answer": "B",
+        "options": {
+            "A": "18 cm",
+            "B": "180 cm",
+            "C": "1,800 cm",
+            "D": "18,000 cm"
+        }
+    },
+    {
+        "question": "A cube has volume 64 cm\u00b3. What is the length of one side?",
+        "answer": "A",
+        "options": {
+            "A": "4 cm",
+            "B": "6 cm",
+            "C": "8 cm",
+            "D": "16 cm"
+        }
+    },
+    {
+        "question": "How many minutes are in 2.5 hours?",
+        "answer": "C",
+        "options": {
+            "A": "120 minutes",
+            "B": "130 minutes",
+            "C": "150 minutes",
+            "D": "180 minutes"
+        }
+    },
+    {
+        "question": "Which is heavier: 1,005 g or 1.05 kg?",
+        "answer": "B",
+        "options": {
+            "A": "1,005 g",
+            "B": "1.05 kg",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "A parallelogram has area 42 cm\u00b2 and base 7 cm. What is its height?",
+        "answer": "B",
+        "options": {
+            "A": "5 cm",
+            "B": "6 cm",
+            "C": "7 cm",
+            "D": "8 cm"
+        }
+    },
+    {
+        "question": "How many litres are in 5,000 mL?",
+        "answer": "B",
+        "options": {
+            "A": "0.5 L",
+            "B": "5 L",
+            "C": "50 L",
+            "D": "500 L"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle 10 cm by 3 cm?",
+        "answer": "C",
+        "options": {
+            "A": "13 cm",
+            "B": "20 cm",
+            "C": "26 cm",
+            "D": "30 cm"
+        }
+    },
+    {
+        "question": "Convert 7 km to miles (use 1 mile \u2248 1.6 km).",
+        "answer": "C",
+        "options": {
+            "A": "3.5 miles",
+            "B": "4.0 miles",
+            "C": "4.375 miles",
+            "D": "5.6 miles"
+        }
+    },
+    {
+        "question": "A triangle has area 20 cm\u00b2 and height 5 cm. What is its base?",
+        "answer": "C",
+        "options": {
+            "A": "4 cm",
+            "B": "6 cm",
+            "C": "8 cm",
+            "D": "10 cm"
+        }
+    },
+    {
+        "question": "Which unit is most appropriate for the mass of a pencil?",
+        "answer": "B",
+        "options": {
+            "A": "kg",
+            "B": "g",
+            "C": "mg",
+            "D": "tonnes"
+        }
+    },
+    {
+        "question": "How many cm are in 5.25 m?",
+        "answer": "B",
+        "options": {
+            "A": "52.5 cm",
+            "B": "525 cm",
+            "C": "5,250 cm",
+            "D": "52,500 cm"
+        }
+    },
+    {
+        "question": "A cuboid has volume 100 cm\u00b3, length 5 cm, width 4 cm. What is its height?",
+        "answer": "B",
+        "options": {
+            "A": "4 cm",
+            "B": "5 cm",
+            "C": "6 cm",
+            "D": "10 cm"
+        }
+    },
+    {
+        "question": "What is 0.008 kg in grams?",
+        "answer": "B",
+        "options": {
+            "A": "0.8 g",
+            "B": "8 g",
+            "C": "80 g",
+            "D": "800 g"
+        }
+    },
+    {
+        "question": "A car travels 150 km in 3 hours. What is its average speed?",
+        "answer": "C",
+        "options": {
+            "A": "40 km/h",
+            "B": "45 km/h",
+            "C": "50 km/h",
+            "D": "60 km/h"
+        }
+    },
+    {
+        "question": "Which is shorter: 0.95 m or 96 cm?",
+        "answer": "A",
+        "options": {
+            "A": "0.95 m",
+            "B": "96 cm",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "What is the area of a square with side 9 cm?",
+        "answer": "D",
+        "options": {
+            "A": "18 cm\u00b2",
+            "B": "36 cm\u00b2",
+            "C": "72 cm\u00b2",
+            "D": "81 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many millimetres are in 2.3 cm?",
+        "answer": "A",
+        "options": {
+            "A": "23 mm",
+            "B": "230 mm",
+            "C": "2,300 mm",
+            "D": "0.23 mm"
+        }
+    },
+    {
+        "question": "Convert 9,000 g to kilograms.",
+        "answer": "B",
+        "options": {
+            "A": "0.9 kg",
+            "B": "9 kg",
+            "C": "90 kg",
+            "D": "900 kg"
+        }
+    },
+    {
+        "question": "A rectangle has perimeter 20 cm and length 6 cm. What is its width?",
+        "answer": "B",
+        "options": {
+            "A": "2 cm",
+            "B": "4 cm",
+            "C": "6 cm",
+            "D": "8 cm"
+        }
+    },
+    {
+        "question": "Which is larger: 1,200 mL or 1.15 L?",
+        "answer": "A",
+        "options": {
+            "A": "1,200 mL",
+            "B": "1.15 L",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "What is the volume of a cube with side 2 cm?",
+        "answer": "C",
+        "options": {
+            "A": "4 cm\u00b3",
+            "B": "6 cm\u00b3",
+            "C": "8 cm\u00b3",
+            "D": "12 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many hours are in 360 minutes?",
+        "answer": "D",
+        "options": {
+            "A": "3 hours",
+            "B": "4 hours",
+            "C": "5 hours",
+            "D": "6 hours"
+        }
+    },
+    {
+        "question": "A triangle and a rectangle both have perimeter 20 cm. Which could have a larger area?",
+        "answer": "C",
+        "options": {
+            "A": "Only the rectangle",
+            "B": "Only the triangle",
+            "C": "Either one",
+            "D": "They must be equal"
+        }
+    },
+    {
+        "question": "Convert 15 cm to metres.",
+        "answer": "B",
+        "options": {
+            "A": "0.015 m",
+            "B": "0.15 m",
+            "C": "1.5 m",
+            "D": "15 m"
+        }
+    },
+    {
+        "question": "What is the area of a parallelogram with base 9 cm and height 3 cm?",
+        "answer": "C",
+        "options": {
+            "A": "12 cm\u00b2",
+            "B": "18 cm\u00b2",
+            "C": "27 cm\u00b2",
+            "D": "36 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many grams are in 4.001 kg?",
+        "answer": "B",
+        "options": {
+            "A": "401 g",
+            "B": "4,001 g",
+            "C": "40,010 g",
+            "D": "400,100 g"
+        }
+    },
+    {
+        "question": "Which is a reasonable height for a door?",
+        "answer": "B",
+        "options": {
+            "A": "20 cm",
+            "B": "2 m",
+            "C": "20 m",
+            "D": "200 m"
+        }
+    },
+    {
+        "question": "A car travels at 60 km/h. How far does it go in 2 hours?",
+        "answer": "C",
+        "options": {
+            "A": "60 km",
+            "B": "90 km",
+            "C": "120 km",
+            "D": "180 km"
+        }
+    },
+    {
+        "question": "Convert 850 cm to metres.",
+        "answer": "B",
+        "options": {
+            "A": "0.85 m",
+            "B": "8.5 m",
+            "C": "85 m",
+            "D": "850 m"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with area 25 cm\u00b2?",
+        "answer": "B",
+        "options": {
+            "A": "10 cm",
+            "B": "20 cm",
+            "C": "25 cm",
+            "D": "30 cm"
+        }
+    },
+    {
+        "question": "How many millilitres are in 3.75 L?",
+        "answer": "B",
+        "options": {
+            "A": "375 mL",
+            "B": "3,750 mL",
+            "C": "37,500 mL",
+            "D": "375,000 mL"
+        }
+    },
+    {
+        "question": "Which has more volume: a cuboid 4\u00d74\u00d74 cm or 5\u00d73\u00d74 cm?",
+        "answer": "B",
+        "options": {
+            "A": "First",
+            "B": "Second",
+            "C": "Equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "A triangle has area 30 cm\u00b2 and base 12 cm. What is its height?",
+        "answer": "B",
+        "options": {
+            "A": "4 cm",
+            "B": "5 cm",
+            "C": "6 cm",
+            "D": "7 cm"
+        }
+    },
+    {
+        "question": "Convert 2.4 km to metres.",
+        "answer": "C",
+        "options": {
+            "A": "24 m",
+            "B": "240 m",
+            "C": "2,400 m",
+            "D": "24,000 m"
+        }
+    },
+    {
+        "question": "How many kilograms are in 850 g?",
+        "answer": "B",
+        "options": {
+            "A": "0.085 kg",
+            "B": "0.85 kg",
+            "C": "8.5 kg",
+            "D": "85 kg"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle 7 cm by 9 cm?",
+        "answer": "C",
+        "options": {
+            "A": "16 cm\u00b2",
+            "B": "32 cm\u00b2",
+            "C": "63 cm\u00b2",
+            "D": "72 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 1,020 mm or 1.02 m?",
+        "answer": "C",
+        "options": {
+            "A": "1,020 mm",
+            "B": "1.02 m",
+            "C": "Equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "A cuboid has volume 80 cm\u00b3, length 5 cm, height 4 cm. What is its width?",
+        "answer": "C",
+        "options": {
+            "A": "2 cm",
+            "B": "3 cm",
+            "C": "4 cm",
+            "D": "5 cm"
+        }
+    },
+    {
+        "question": "How many seconds are in 10 minutes?",
+        "answer": "C",
+        "options": {
+            "A": "100",
+            "B": "300",
+            "C": "600",
+            "D": "1,000"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle 12 cm by 5 cm?",
+        "answer": "B",
+        "options": {
+            "A": "17 cm",
+            "B": "34 cm",
+            "C": "60 cm",
+            "D": "120 cm"
+        }
+    },
+    {
+        "question": "Convert 0.6 L to millilitres.",
+        "answer": "C",
+        "options": {
+            "A": "6 mL",
+            "B": "60 mL",
+            "C": "600 mL",
+            "D": "6,000 mL"
+        }
+    },
+    {
+        "question": "Which is lighter: 0.99 kg or 999 g?",
+        "answer": "A",
+        "options": {
+            "A": "0.99 kg",
+            "B": "999 g",
+            "C": "Equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "A square has perimeter 24 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "24 cm\u00b2",
+            "B": "30 cm\u00b2",
+            "C": "36 cm\u00b2",
+            "D": "48 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many cm are in 0.005 km?",
+        "answer": "C",
+        "options": {
+            "A": "5 cm",
+            "B": "50 cm",
+            "C": "500 cm",
+            "D": "5,000 cm"
+        }
+    },
+    {
+        "question": "A car travels 200 miles in 4 hours. What is its speed?",
+        "answer": "B",
+        "options": {
+            "A": "40 mph",
+            "B": "50 mph",
+            "C": "60 mph",
+            "D": "80 mph"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 14 cm and height 5 cm?",
+        "answer": "B",
+        "options": {
+            "A": "19 cm\u00b2",
+            "B": "35 cm\u00b2",
+            "C": "70 cm\u00b2",
+            "D": "140 cm\u00b2"
+        }
+    },
+    {
+        "question": "Convert 3.25 kg to grams.",
+        "answer": "B",
+        "options": {
+            "A": "325 g",
+            "B": "3,250 g",
+            "C": "32,500 g",
+            "D": "325,000 g"
+        }
+    },
+    {
+        "question": "Which unit is best for measuring the distance between two cities?",
+        "answer": "C",
+        "options": {
+            "A": "metres",
+            "B": "centimetres",
+            "C": "kilometres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "A parallelogram has area 56 cm\u00b2 and height 7 cm. What is its base?",
+        "answer": "C",
+        "options": {
+            "A": "6 cm",
+            "B": "7 cm",
+            "C": "8 cm",
+            "D": "9 cm"
+        }
+    },
+    {
+        "question": "How many millimetres are in 4.5 cm?",
+        "answer": "A",
+        "options": {
+            "A": "45 mm",
+            "B": "450 mm",
+            "C": "4,500 mm",
+            "D": "0.45 mm"
+        }
+    },
+    {
+        "question": "A rectangle has length 10 cm and width 6 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "16 cm\u00b2",
+            "B": "32 cm\u00b2",
+            "C": "60 cm\u00b2",
+            "D": "100 cm\u00b2"
+        }
+    },
+    {
+        "question": "Convert 2,400 mL to litres.",
+        "answer": "B",
+        "options": {
+            "A": "0.24 L",
+            "B": "2.4 L",
+            "C": "24 L",
+            "D": "240 L"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 16 km? (Use 1 mile \u2248 1.6 km)",
+        "answer": "B",
+        "options": {
+            "A": "8 miles",
+            "B": "10 miles",
+            "C": "12 miles",
+            "D": "14 miles"
+        }
+    },
+    {
+        "question": "What is the volume of a cuboid with dimensions 5 cm \u00d7 4 cm \u00d7 3 cm?",
+        "answer": "C",
+        "options": {
+            "A": "12 cm\u00b3",
+            "B": "48 cm\u00b3",
+            "C": "60 cm\u00b3",
+            "D": "120 cm\u00b3"
+        }
+    },
+    {
+        "question": "Which is heavier: 1.02 kg or 1,002 g?",
+        "answer": "A",
+        "options": {
+            "A": "1.02 kg",
+            "B": "1,002 g",
+            "C": "They are equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "A triangle has base 10 cm and height 8 cm. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "18 cm\u00b2",
+            "B": "40 cm\u00b2",
+            "C": "80 cm\u00b2",
+            "D": "160 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many metres are in 0.75 km?",
+        "answer": "C",
+        "options": {
+            "A": "7.5 m",
+            "B": "75 m",
+            "C": "750 m",
+            "D": "7,500 m"
+        }
+    },
+    {
+        "question": "A square has side 7 cm. What is its perimeter?",
+        "answer": "C",
+        "options": {
+            "A": "14 cm",
+            "B": "21 cm",
+            "C": "28 cm",
+            "D": "49 cm"
+        }
+    },
+    {
+        "question": "A car travels 90 km in 1.5 hours. What is its average speed in km/h?",
+        "answer": "C",
+        "options": {
+            "A": "45 km/h",
+            "B": "50 km/h",
+            "C": "60 km/h",
+            "D": "75 km/h"
+        }
+    },
+    {
+        "question": "How many millimetres are in 2.35 metres?",
+        "answer": "B",
+        "options": {
+            "A": "235 mm",
+            "B": "2350 mm",
+            "C": "23.5 mm",
+            "D": "23500 mm"
+        }
+    },
+    {
+        "question": "Convert 4560 grams to kilograms.",
+        "answer": "A",
+        "options": {
+            "A": "4.56 kg",
+            "B": "45.6 kg",
+            "C": "0.456 kg",
+            "D": "456 kg"
+        }
+    },
+    {
+        "question": "How many litres are in 7500 millilitres?",
+        "answer": "B",
+        "options": {
+            "A": "0.75 L",
+            "B": "7.5 L",
+            "C": "75 L",
+            "D": "750 L"
+        }
+    },
+    {
+        "question": "Approximately how many kilometres are in 10 miles? (Use 5 miles \u2248 8 km)",
+        "answer": "C",
+        "options": {
+            "A": "12 km",
+            "B": "14 km",
+            "C": "16 km",
+            "D": "18 km"
+        }
+    },
+    {
+        "question": "A rectangle has an area of 48 cm\u00b2 and a length of 12 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "28 cm",
+            "B": "32 cm",
+            "C": "36 cm",
+            "D": "40 cm"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 14 cm and height 9 cm?",
+        "answer": "B",
+        "options": {
+            "A": "56 cm\u00b2",
+            "B": "63 cm\u00b2",
+            "C": "72 cm\u00b2",
+            "D": "126 cm\u00b2"
+        }
+    },
+    {
+        "question": "A cuboid measures 5 cm by 4 cm by 3 cm. What is its volume?",
+        "answer": "C",
+        "options": {
+            "A": "45 cm\u00b3",
+            "B": "50 cm\u00b3",
+            "C": "60 cm\u00b3",
+            "D": "70 cm\u00b3"
+        }
+    },
+    {
+        "question": "Convert 2.045 km to metres.",
+        "answer": "B",
+        "options": {
+            "A": "204.5 m",
+            "B": "2045 m",
+            "C": "20.45 m",
+            "D": "2450 m"
+        }
+    },
+    {
+        "question": "The temperature at 6 a.m. was \u20133\u00b0C. By noon, it rose by 11\u00b0C. What was the temperature at noon?",
+        "answer": "C",
+        "options": {
+            "A": "6\u00b0C",
+            "B": "7\u00b0C",
+            "C": "8\u00b0C",
+            "D": "9\u00b0C"
+        }
+    },
+    {
+        "question": "A car travels 180 miles in 3 hours. What is its average speed in miles per hour?",
+        "answer": "C",
+        "options": {
+            "A": "50 mph",
+            "B": "55 mph",
+            "C": "60 mph",
+            "D": "65 mph"
+        }
+    },
+    {
+        "question": "How many millilitres are in 0.875 litres?",
+        "answer": "B",
+        "options": {
+            "A": "87.5 mL",
+            "B": "875 mL",
+            "C": "8.75 mL",
+            "D": "8750 mL"
+        }
+    },
+    {
+        "question": "Which has the greater area: a square with side 6 cm or a rectangle 8 cm by 4 cm?",
+        "answer": "A",
+        "options": {
+            "A": "The square",
+            "B": "The rectangle",
+            "C": "They are equal",
+            "D": "Cannot be determined"
+        }
+    },
+    {
+        "question": "What is the area of a parallelogram with base 12 cm and height 5 cm?",
+        "answer": "B",
+        "options": {
+            "A": "50 cm\u00b2",
+            "B": "60 cm\u00b2",
+            "C": "70 cm\u00b2",
+            "D": "80 cm\u00b2"
+        }
+    },
+    {
+        "question": "A cube has a side length of 4 cm. What is its volume?",
+        "answer": "D",
+        "options": {
+            "A": "16 cm\u00b3",
+            "B": "32 cm\u00b3",
+            "C": "48 cm\u00b3",
+            "D": "64 cm\u00b3"
+        }
+    },
+    {
+        "question": "Convert 3250 metres to kilometres.",
+        "answer": "A",
+        "options": {
+            "A": "3.25 km",
+            "B": "32.5 km",
+            "C": "0.325 km",
+            "D": "325 km"
+        }
+    },
+    {
+        "question": "If 8 km \u2248 5 miles, how many miles is 24 km approximately?",
+        "answer": "B",
+        "options": {
+            "A": "12 miles",
+            "B": "15 miles",
+            "C": "18 miles",
+            "D": "20 miles"
+        }
+    },
+    {
+        "question": "A rectangle and a square both have an area of 36 cm\u00b2. The rectangle is 9 cm long. What is the difference in their perimeters?",
+        "answer": "B",
+        "options": {
+            "A": "4 cm",
+            "B": "6 cm",
+            "C": "8 cm",
+            "D": "10 cm"
+        }
+    },
+    {
+        "question": "What is the height of a triangle with area 56 cm\u00b2 and base 14 cm?",
+        "answer": "C",
+        "options": {
+            "A": "6 cm",
+            "B": "7 cm",
+            "C": "8 cm",
+            "D": "9 cm"
+        }
+    },
+    {
+        "question": "A cuboid has volume 120 cm\u00b3, length 6 cm, and width 5 cm. What is its height?",
+        "answer": "B",
+        "options": {
+            "A": "3 cm",
+            "B": "4 cm",
+            "C": "5 cm",
+            "D": "6 cm"
+        }
+    },
+    {
+        "question": "Convert 0.006 kg to grams.",
+        "answer": "B",
+        "options": {
+            "A": "0.6 g",
+            "B": "6 g",
+            "C": "60 g",
+            "D": "600 g"
+        }
+    },
+    {
+        "question": "The temperature dropped from 4\u00b0C to \u20136\u00b0C. By how many degrees did it fall?",
+        "answer": "C",
+        "options": {
+            "A": "8\u00b0C",
+            "B": "9\u00b0C",
+            "C": "10\u00b0C",
+            "D": "11\u00b0C"
+        }
+    },
+    {
+        "question": "A bus travels 225 km in 2.5 hours. What is its average speed in km/h?",
+        "answer": "C",
+        "options": {
+            "A": "80 km/h",
+            "B": "85 km/h",
+            "C": "90 km/h",
+            "D": "95 km/h"
+        }
+    },
+    {
+        "question": "How many centimetres are in 0.725 metres?",
+        "answer": "B",
+        "options": {
+            "A": "7.25 cm",
+            "B": "72.5 cm",
+            "C": "725 cm",
+            "D": "7250 cm"
+        }
+    },
+    {
+        "question": "Two shapes have the same perimeter. One is a square of side 5 cm. The other is a rectangle 7 cm long. What is the rectangle\u2019s width?",
+        "answer": "B",
+        "options": {
+            "A": "2 cm",
+            "B": "3 cm",
+            "C": "4 cm",
+            "D": "5 cm"
+        }
+    },
+    {
+        "question": "What is the base of a parallelogram with area 96 cm\u00b2 and height 8 cm?",
+        "answer": "C",
+        "options": {
+            "A": "10 cm",
+            "B": "11 cm",
+            "C": "12 cm",
+            "D": "13 cm"
+        }
+    },
+    {
+        "question": "A cube has a volume of 125 cm\u00b3. What is the length of one side?",
+        "answer": "B",
+        "options": {
+            "A": "4 cm",
+            "B": "5 cm",
+            "C": "6 cm",
+            "D": "7 cm"
+        }
+    },
+    {
+        "question": "Convert 4.8 L to millilitres.",
+        "answer": "B",
+        "options": {
+            "A": "480 mL",
+            "B": "4800 mL",
+            "C": "48 mL",
+            "D": "48000 mL"
+        }
+    },
+    {
+        "question": "If 5 miles \u2248 8 km, which is longer: 20 miles or 32 km?",
+        "answer": "C",
+        "options": {
+            "A": "20 miles",
+            "B": "32 km",
+            "C": "They are equal",
+            "D": "Cannot be determined"
+        }
+    },
+    {
+        "question": "A triangle has sides 5 cm, 12 cm, and 13 cm. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "25 cm\u00b2",
+            "B": "30 cm\u00b2",
+            "C": "35 cm\u00b2",
+            "D": "40 cm\u00b2"
+        }
+    },
+    {
+        "question": "A cuboid measures 10 cm by 6 cm by 4 cm. What is its volume in cubic metres?",
+        "answer": "A",
+        "options": {
+            "A": "0.00024 m\u00b3",
+            "B": "0.0024 m\u00b3",
+            "C": "0.024 m\u00b3",
+            "D": "0.24 m\u00b3"
+        }
+    },
+    {
+        "question": "Convert 1520 mm to metres.",
+        "answer": "A",
+        "options": {
+            "A": "1.52 m",
+            "B": "15.2 m",
+            "C": "0.152 m",
+            "D": "152 m"
+        }
+    },
+    {
+        "question": "The temperature at midnight was \u20135\u00b0C. It rose by 8\u00b0C by 8 a.m. What was the temperature at 8 a.m.?",
+        "answer": "B",
+        "options": {
+            "A": "2\u00b0C",
+            "B": "3\u00b0C",
+            "C": "4\u00b0C",
+            "D": "5\u00b0C"
+        }
+    },
+    {
+        "question": "A train travels 315 km in 3.5 hours. What is its average speed in km/h?",
+        "answer": "C",
+        "options": {
+            "A": "80 km/h",
+            "B": "85 km/h",
+            "C": "90 km/h",
+            "D": "95 km/h"
+        }
+    },
+    {
+        "question": "How many kilograms are in 3750 grams?",
+        "answer": "B",
+        "options": {
+            "A": "0.375 kg",
+            "B": "3.75 kg",
+            "C": "37.5 kg",
+            "D": "375 kg"
+        }
+    },
+    {
+        "question": "A square and a rectangle both have a perimeter of 24 cm. The rectangle is 8 cm long. Which has the greater area?",
+        "answer": "A",
+        "options": {
+            "A": "The square",
+            "B": "The rectangle",
+            "C": "They are equal",
+            "D": "Cannot be determined"
+        }
+    },
+    {
+        "question": "What is the height of a parallelogram with area 105 cm\u00b2 and base 15 cm?",
+        "answer": "B",
+        "options": {
+            "A": "6 cm",
+            "B": "7 cm",
+            "C": "8 cm",
+            "D": "9 cm"
+        }
+    },
+    {
+        "question": "A cuboid has a volume of 200 cm\u00b3 and a square base of side 5 cm. What is its height?",
+        "answer": "C",
+        "options": {
+            "A": "6 cm",
+            "B": "7 cm",
+            "C": "8 cm",
+            "D": "9 cm"
+        }
+    },
+    {
+        "question": "Convert 2.005 km to metres.",
+        "answer": "B",
+        "options": {
+            "A": "200.5 m",
+            "B": "2005 m",
+            "C": "20.05 m",
+            "D": "2050 m"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 32 km? (5 miles \u2248 8 km)",
+        "answer": "B",
+        "options": {
+            "A": "18 miles",
+            "B": "20 miles",
+            "C": "22 miles",
+            "D": "24 miles"
+        }
+    },
+    {
+        "question": "A triangle has area 48 cm\u00b2 and height 12 cm. What is its base?",
+        "answer": "C",
+        "options": {
+            "A": "6 cm",
+            "B": "7 cm",
+            "C": "8 cm",
+            "D": "9 cm"
+        }
+    },
+    {
+        "question": "A cube has a side of 6 cm. What is its volume in cubic millimetres?",
+        "answer": "D",
+        "options": {
+            "A": "216 mm\u00b3",
+            "B": "2160 mm\u00b3",
+            "C": "21600 mm\u00b3",
+            "D": "216000 mm\u00b3"
+        }
+    },
+    {
+        "question": "Convert 0.405 L to millilitres.",
+        "answer": "C",
+        "options": {
+            "A": "4.05 mL",
+            "B": "40.5 mL",
+            "C": "405 mL",
+            "D": "4050 mL"
+        }
+    },
+    {
+        "question": "The temperature changed from \u20132\u00b0C to 7\u00b0C. By how many degrees did it rise?",
+        "answer": "C",
+        "options": {
+            "A": "7\u00b0C",
+            "B": "8\u00b0C",
+            "C": "9\u00b0C",
+            "D": "10\u00b0C"
+        }
+    },
+    {
+        "question": "A car travels 195 miles in 3 hours. What is its speed in mph?",
+        "answer": "C",
+        "options": {
+            "A": "60 mph",
+            "B": "62 mph",
+            "C": "65 mph",
+            "D": "68 mph"
+        }
+    },
+    {
+        "question": "How many grams are in 0.085 kg?",
+        "answer": "C",
+        "options": {
+            "A": "0.85 g",
+            "B": "8.5 g",
+            "C": "85 g",
+            "D": "850 g"
+        }
+    },
+    {
+        "question": "A rectangle has length 10 cm and width 6 cm. A square has the same area. What is the side of the square?",
+        "answer": "A",
+        "options": {
+            "A": "\u221a60 cm",
+            "B": "7 cm",
+            "C": "8 cm",
+            "D": "9 cm"
+        }
+    },
+    {
+        "question": "What is the area of a parallelogram with base 9 cm and height 6 cm?",
+        "answer": "C",
+        "options": {
+            "A": "48 cm\u00b2",
+            "B": "52 cm\u00b2",
+            "C": "54 cm\u00b2",
+            "D": "56 cm\u00b2"
+        }
+    },
+    {
+        "question": "A cuboid has dimensions 8 cm, 5 cm, and 3 cm. What is its volume?",
+        "answer": "C",
+        "options": {
+            "A": "100 cm\u00b3",
+            "B": "110 cm\u00b3",
+            "C": "120 cm\u00b3",
+            "D": "130 cm\u00b3"
+        }
+    },
+    {
+        "question": "Convert 5670 m to km.",
+        "answer": "A",
+        "options": {
+            "A": "5.67 km",
+            "B": "56.7 km",
+            "C": "0.567 km",
+            "D": "567 km"
+        }
+    },
+    {
+        "question": "If 8 km \u2248 5 miles, how many kilometres is 15 miles approximately?",
+        "answer": "C",
+        "options": {
+            "A": "20 km",
+            "B": "22 km",
+            "C": "24 km",
+            "D": "26 km"
+        }
+    },
+    {
+        "question": "A triangle has base 18 cm and area 81 cm\u00b2. What is its height?",
+        "answer": "B",
+        "options": {
+            "A": "8 cm",
+            "B": "9 cm",
+            "C": "10 cm",
+            "D": "11 cm"
+        }
+    },
+    {
+        "question": "A cube has volume 343 cm\u00b3. What is its surface area?",
+        "answer": "B",
+        "options": {
+            "A": "245 cm\u00b2",
+            "B": "294 cm\u00b2",
+            "C": "343 cm\u00b2",
+            "D": "392 cm\u00b2"
+        }
+    },
+    {
+        "question": "Convert 3.25 kg to grams.",
+        "answer": "B",
+        "options": {
+            "A": "325 g",
+            "B": "3250 g",
+            "C": "32.5 g",
+            "D": "32500 g"
+        }
+    },
+    {
+        "question": "The temperature at 9 p.m. was 2\u00b0C. It fell by 7\u00b0C overnight. What was the temperature in the morning?",
+        "answer": "B",
+        "options": {
+            "A": "\u20134\u00b0C",
+            "B": "\u20135\u00b0C",
+            "C": "\u20136\u00b0C",
+            "D": "\u20137\u00b0C"
+        }
+    },
+    {
+        "question": "A cyclist travels 42 km in 1.5 hours. What is her average speed in km/h?",
+        "answer": "C",
+        "options": {
+            "A": "24 km/h",
+            "B": "26 km/h",
+            "C": "28 km/h",
+            "D": "30 km/h"
+        }
+    },
+    {
+        "question": "How many metres are in 0.045 km?",
+        "answer": "B",
+        "options": {
+            "A": "4.5 m",
+            "B": "45 m",
+            "C": "450 m",
+            "D": "4500 m"
+        }
+    },
+    {
+        "question": "A square has perimeter 28 cm. A rectangle has the same perimeter and is 9 cm long. What is the difference in their areas?",
+        "answer": "B",
+        "options": {
+            "A": "10 cm\u00b2",
+            "B": "12 cm\u00b2",
+            "C": "14 cm\u00b2",
+            "D": "16 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the base of a triangle with area 65 cm\u00b2 and height 10 cm?",
+        "answer": "B",
+        "options": {
+            "A": "12 cm",
+            "B": "13 cm",
+            "C": "14 cm",
+            "D": "15 cm"
+        }
+    },
+    {
+        "question": "A cuboid has volume 300 cm\u00b3, length 10 cm, height 5 cm. What is its width?",
+        "answer": "B",
+        "options": {
+            "A": "5 cm",
+            "B": "6 cm",
+            "C": "7 cm",
+            "D": "8 cm"
+        }
+    },
+    {
+        "question": "Convert 750 mL to litres.",
+        "answer": "B",
+        "options": {
+            "A": "0.075 L",
+            "B": "0.75 L",
+            "C": "7.5 L",
+            "D": "75 L"
+        }
+    },
+    {
+        "question": "Which is longer: 25 miles or 40 km? (5 miles \u2248 8 km)",
+        "answer": "C",
+        "options": {
+            "A": "25 miles",
+            "B": "40 km",
+            "C": "They are equal",
+            "D": "Cannot be determined"
+        }
+    },
+    {
+        "question": "A parallelogram has sides 10 cm and 6 cm, and height 4 cm (corresponding to the 10 cm base). What is its area?",
+        "answer": "A",
+        "options": {
+            "A": "40 cm\u00b2",
+            "B": "48 cm\u00b2",
+            "C": "60 cm\u00b2",
+            "D": "72 cm\u00b2"
+        }
+    },
+    {
+        "question": "A cube has side 5 cm. What is its volume in cubic metres?",
+        "answer": "A",
+        "options": {
+            "A": "0.000125 m\u00b3",
+            "B": "0.00125 m\u00b3",
+            "C": "0.0125 m\u00b3",
+            "D": "0.125 m\u00b3"
+        }
+    },
+    {
+        "question": "Convert 1.025 kg to grams.",
+        "answer": "B",
+        "options": {
+            "A": "102.5 g",
+            "B": "1025 g",
+            "C": "10.25 g",
+            "D": "10250 g"
+        }
+    },
+    {
+        "question": "The temperature went from \u20138\u00b0C to 3\u00b0C. By how many degrees did it rise?",
+        "answer": "C",
+        "options": {
+            "A": "9\u00b0C",
+            "B": "10\u00b0C",
+            "C": "11\u00b0C",
+            "D": "12\u00b0C"
+        }
+    },
+    {
+        "question": "A runner covers 10 km in 50 minutes. What is his speed in km/h?",
+        "answer": "C",
+        "options": {
+            "A": "10 km/h",
+            "B": "11 km/h",
+            "C": "12 km/h",
+            "D": "13 km/h"
+        }
+    },
+    {
+        "question": "How many millimetres are in 0.065 m?",
+        "answer": "B",
+        "options": {
+            "A": "6.5 mm",
+            "B": "65 mm",
+            "C": "650 mm",
+            "D": "6500 mm"
+        }
+    },
+    {
+        "question": "A rectangle has area 72 cm\u00b2 and width 8 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "32 cm",
+            "B": "34 cm",
+            "C": "36 cm",
+            "D": "38 cm"
+        }
+    },
+    {
+        "question": "What is the height of a triangle with area 90 cm\u00b2 and base 15 cm?",
+        "answer": "C",
+        "options": {
+            "A": "10 cm",
+            "B": "11 cm",
+            "C": "12 cm",
+            "D": "13 cm"
+        }
+    },
+    {
+        "question": "A cuboid has a square base of side 4 cm and height 9 cm. What is its volume?",
+        "answer": "C",
+        "options": {
+            "A": "120 cm\u00b3",
+            "B": "132 cm\u00b3",
+            "C": "144 cm\u00b3",
+            "D": "156 cm\u00b3"
+        }
+    },
+    {
+        "question": "Convert 0.0035 km to metres.",
+        "answer": "B",
+        "options": {
+            "A": "0.35 m",
+            "B": "3.5 m",
+            "C": "35 m",
+            "D": "350 m"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 48 km? (5 miles \u2248 8 km)",
+        "answer": "B",
+        "options": {
+            "A": "28 miles",
+            "B": "30 miles",
+            "C": "32 miles",
+            "D": "34 miles"
+        }
+    },
+    {
+        "question": "A parallelogram has area 120 cm\u00b2 and base 16 cm. What is its height?",
+        "answer": "C",
+        "options": {
+            "A": "6.5 cm",
+            "B": "7 cm",
+            "C": "7.5 cm",
+            "D": "8 cm"
+        }
+    },
+    {
+        "question": "A cube has volume 512 cm\u00b3. What is its total edge length?",
+        "answer": "C",
+        "options": {
+            "A": "72 cm",
+            "B": "84 cm",
+            "C": "96 cm",
+            "D": "108 cm"
+        }
+    },
+    {
+        "question": "Convert 250 g to kilograms.",
+        "answer": "B",
+        "options": {
+            "A": "0.025 kg",
+            "B": "0.25 kg",
+            "C": "2.5 kg",
+            "D": "25 kg"
+        }
+    },
+    {
+        "question": "The temperature at 3 a.m. was \u201310\u00b0C. It rose to 2\u00b0C by 10 a.m. By how many degrees did it rise?",
+        "answer": "C",
+        "options": {
+            "A": "10\u00b0C",
+            "B": "11\u00b0C",
+            "C": "12\u00b0C",
+            "D": "13\u00b0C"
+        }
+    },
+    {
+        "question": "A plane flies 600 miles in 1.5 hours. What is its speed in mph?",
+        "answer": "C",
+        "options": {
+            "A": "350 mph",
+            "B": "375 mph",
+            "C": "400 mph",
+            "D": "425 mph"
+        }
+    },
+    {
+        "question": "How many litres are in 2500 mL?",
+        "answer": "B",
+        "options": {
+            "A": "0.25 L",
+            "B": "2.5 L",
+            "C": "25 L",
+            "D": "250 L"
+        }
+    },
+    {
+        "question": "A square has area 64 cm\u00b2. A rectangle has the same perimeter and is 10 cm long. What is the rectangle\u2019s width?",
+        "answer": "B",
+        "options": {
+            "A": "5 cm",
+            "B": "6 cm",
+            "C": "7 cm",
+            "D": "8 cm"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 20 cm and height 7 cm?",
+        "answer": "C",
+        "options": {
+            "A": "60 cm\u00b2",
+            "B": "65 cm\u00b2",
+            "C": "70 cm\u00b2",
+            "D": "75 cm\u00b2"
+        }
+    },
+    {
+        "question": "A cuboid measures 12 cm by 5 cm by 2 cm. What is its volume?",
+        "answer": "C",
+        "options": {
+            "A": "100 cm\u00b3",
+            "B": "110 cm\u00b3",
+            "C": "120 cm\u00b3",
+            "D": "130 cm\u00b3"
+        }
+    },
+    {
+        "question": "Convert 6.008 km to metres.",
+        "answer": "B",
+        "options": {
+            "A": "600.8 m",
+            "B": "6008 m",
+            "C": "60.08 m",
+            "D": "6080 m"
+        }
+    },
+    {
+        "question": "If 5 miles \u2248 8 km, how many kilometres is 35 miles?",
+        "answer": "C",
+        "options": {
+            "A": "52 km",
+            "B": "54 km",
+            "C": "56 km",
+            "D": "58 km"
+        }
+    },
+    {
+        "question": "A triangle has area 105 cm\u00b2 and base 15 cm. What is its height?",
+        "answer": "C",
+        "options": {
+            "A": "12 cm",
+            "B": "13 cm",
+            "C": "14 cm",
+            "D": "15 cm"
+        }
+    },
+    {
+        "question": "A cube has side 10 cm. What is its volume in cubic millimetres?",
+        "answer": "D",
+        "options": {
+            "A": "1000 mm\u00b3",
+            "B": "10000 mm\u00b3",
+            "C": "100000 mm\u00b3",
+            "D": "1000000 mm\u00b3"
+        }
+    },
+    {
+        "question": "Convert 0.075 L to millilitres.",
+        "answer": "C",
+        "options": {
+            "A": "0.75 mL",
+            "B": "7.5 mL",
+            "C": "75 mL",
+            "D": "750 mL"
+        }
+    },
+    {
+        "question": "The temperature dropped from 5\u00b0C to \u20139\u00b0C. By how many degrees did it fall?",
+        "answer": "C",
+        "options": {
+            "A": "12\u00b0C",
+            "B": "13\u00b0C",
+            "C": "14\u00b0C",
+            "D": "15\u00b0C"
+        }
+    },
+    {
+        "question": "A car travels at 70 mph. How far will it go in 2.5 hours?",
+        "answer": "C",
+        "options": {
+            "A": "165 miles",
+            "B": "170 miles",
+            "C": "175 miles",
+            "D": "180 miles"
+        }
+    },
+    {
+        "question": "How many kilograms are in 450 g?",
+        "answer": "B",
+        "options": {
+            "A": "0.045 kg",
+            "B": "0.45 kg",
+            "C": "4.5 kg",
+            "D": "45 kg"
+        }
+    },
+    {
+        "question": "A rectangle has perimeter 30 cm and length 9 cm. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "52 cm\u00b2",
+            "B": "54 cm\u00b2",
+            "C": "56 cm\u00b2",
+            "D": "58 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the base of a parallelogram with area 135 cm\u00b2 and height 9 cm?",
+        "answer": "B",
+        "options": {
+            "A": "14 cm",
+            "B": "15 cm",
+            "C": "16 cm",
+            "D": "17 cm"
+        }
+    },
+    {
+        "question": "A cuboid has volume 180 cm\u00b3, width 6 cm, height 3 cm. What is its length?",
+        "answer": "C",
+        "options": {
+            "A": "8 cm",
+            "B": "9 cm",
+            "C": "10 cm",
+            "D": "11 cm"
+        }
+    },
+    {
+        "question": "Convert 3.007 kg to grams.",
+        "answer": "B",
+        "options": {
+            "A": "300.7 g",
+            "B": "3007 g",
+            "C": "30.07 g",
+            "D": "30070 g"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 56 km? (5 miles \u2248 8 km)",
+        "answer": "C",
+        "options": {
+            "A": "32 miles",
+            "B": "34 miles",
+            "C": "35 miles",
+            "D": "36 miles"
+        }
+    },
+    {
+        "question": "A triangle has sides 9 cm, 12 cm, and 15 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "48 cm\u00b2",
+            "B": "52 cm\u00b2",
+            "C": "54 cm\u00b2",
+            "D": "56 cm\u00b2"
+        }
+    },
+    {
+        "question": "A cube has side 7 cm. What is its volume?",
+        "answer": "C",
+        "options": {
+            "A": "323 cm\u00b3",
+            "B": "333 cm\u00b3",
+            "C": "343 cm\u00b3",
+            "D": "353 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many centimetres are in 0.0805 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "805 cm",
+            "B": "8050 cm",
+            "C": "80.5 cm",
+            "D": "8.05 cm"
+        }
+    },
+    {
+        "question": "A rectangle has an area of 120 cm\u00b2 and a perimeter of 46 cm. What is its length if the length is greater than the width?",
+        "answer": "D",
+        "options": {
+            "A": "12 cm",
+            "B": "13 cm",
+            "C": "14 cm",
+            "D": "15 cm"
+        }
+    },
+    {
+        "question": "What is the volume of a cuboid with length 0.5 m, width 40 cm, and height 300 mm? Give your answer in cm\u00b3.",
+        "answer": "A",
+        "options": {
+            "A": "6000 cm\u00b3",
+            "B": "60000 cm\u00b3",
+            "C": "600 cm\u00b3",
+            "D": "60 cm\u00b3"
+        }
+    },
+    {
+        "question": "The temperature at 6 a.m. was \u20137\u00b0C. It rose by 15\u00b0C by 2 p.m. What was the temperature at 2 p.m.?",
+        "answer": "C",
+        "options": {
+            "A": "6\u00b0C",
+            "B": "7\u00b0C",
+            "C": "8\u00b0C",
+            "D": "9\u00b0C"
+        }
+    },
+    {
+        "question": "A car travels 240 km in 2 hours 30 minutes. What is its average speed in km/h?",
+        "answer": "D",
+        "options": {
+            "A": "90 km/h",
+            "B": "92 km/h",
+            "C": "94 km/h",
+            "D": "96 km/h"
+        }
+    },
+    {
+        "question": "Convert 2.5 miles to kilometres using the approximation 5 miles \u2248 8 km.",
+        "answer": "C",
+        "options": {
+            "A": "3.6 km",
+            "B": "3.8 km",
+            "C": "4.0 km",
+            "D": "4.2 km"
+        }
+    },
+    {
+        "question": "A triangle has an area of 72 cm\u00b2. Its base is twice its height. What is the height?",
+        "answer": "A",
+        "options": {
+            "A": "8 cm",
+            "B": "9 cm",
+            "C": "10 cm",
+            "D": "11 cm"
+        }
+    },
+    {
+        "question": "A cuboid has a volume of 0.0005 m\u00b3. What is its volume in cm\u00b3?",
+        "answer": "B",
+        "options": {
+            "A": "50 cm\u00b3",
+            "B": "500 cm\u00b3",
+            "C": "5000 cm\u00b3",
+            "D": "50000 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many millilitres are in 0.0125 litres?",
+        "answer": "B",
+        "options": {
+            "A": "1.25 mL",
+            "B": "12.5 mL",
+            "C": "125 mL",
+            "D": "1250 mL"
+        }
+    },
+    {
+        "question": "A square and a circle have the same perimeter (circumference). The square has side 7.85 cm. Approximately, what is the radius of the circle? (Use \u03c0 \u2248 3.14)",
+        "answer": "B",
+        "options": {
+            "A": "4 cm",
+            "B": "5 cm",
+            "C": "6 cm",
+            "D": "7 cm"
+        }
+    },
+    {
+        "question": "How many centimetres are in 2.75 metres?",
+        "answer": "B",
+        "options": {
+            "A": "27.5 cm",
+            "B": "275 cm",
+            "C": "2,750 cm",
+            "D": "0.275 cm"
+        }
+    },
+    {
+        "question": "A bottle holds 1.5 litres. How many millilitres is this?",
+        "answer": "C",
+        "options": {
+            "A": "15 mL",
+            "B": "150 mL",
+            "C": "1,500 mL",
+            "D": "15,000 mL"
+        }
+    },
+    {
+        "question": "Convert 3,250 grams to kilograms.",
+        "answer": "B",
+        "options": {
+            "A": "0.325 kg",
+            "B": "3.25 kg",
+            "C": "32.5 kg",
+            "D": "325 kg"
+        }
+    },
+    {
+        "question": "Which is the longest?",
+        "answer": "D",
+        "options": {
+            "A": "1.8 m",
+            "B": "185 cm",
+            "C": "1,790 mm",
+            "D": "0.019 km"
+        }
+    },
+    {
+        "question": "A pencil is 15.3 cm long. What is its length in millimetres?",
+        "answer": "C",
+        "options": {
+            "A": "1.53 mm",
+            "B": "15.3 mm",
+            "C": "153 mm",
+            "D": "1,530 mm"
+        }
+    },
+    {
+        "question": "How many minutes are in 2 hours and 45 minutes?",
+        "answer": "C",
+        "options": {
+            "A": "125 min",
+            "B": "145 min",
+            "C": "165 min",
+            "D": "185 min"
+        }
+    },
+    {
+        "question": "A packet of flour weighs 2.450 kg. How many grams is this?",
+        "answer": "C",
+        "options": {
+            "A": "24.5 g",
+            "B": "245 g",
+            "C": "2,450 g",
+            "D": "24,500 g"
+        }
+    },
+    {
+        "question": "Convert 750 mL to litres.",
+        "answer": "B",
+        "options": {
+            "A": "0.075 L",
+            "B": "0.75 L",
+            "C": "7.5 L",
+            "D": "75 L"
+        }
+    },
+    {
+        "question": "Which measurement is equal to 3.075 km?",
+        "answer": "A",
+        "options": {
+            "A": "3,075 m",
+            "B": "30,750 m",
+            "C": "307.5 m",
+            "D": "307,500 m"
+        }
+    },
+    {
+        "question": "A baby weighs 3,680 grams. What is this in kilograms (to 3 decimal places)?",
+        "answer": "C",
+        "options": {
+            "A": "3.068 kg",
+            "B": "3.608 kg",
+            "C": "3.680 kg",
+            "D": "36.800 kg"
+        }
+    },
+    {
+        "question": "How many seconds are in 4 minutes and 30 seconds?",
+        "answer": "C",
+        "options": {
+            "A": "210 s",
+            "B": "240 s",
+            "C": "270 s",
+            "D": "300 s"
+        }
+    },
+    {
+        "question": "A ribbon is 2.4 m long. Sarah cuts off 85 cm. How much is left (in cm)?",
+        "answer": "C",
+        "options": {
+            "A": "1.55 cm",
+            "B": "15.5 cm",
+            "C": "155 cm",
+            "D": "240 cm"
+        }
+    },
+    {
+        "question": "Which is the heaviest?",
+        "answer": "D",
+        "options": {
+            "A": "1.25 kg",
+            "B": "1,245 g",
+            "C": "1.249 kg",
+            "D": "1,250 g"
+        }
+    },
+    {
+        "question": "A container holds 0.875 L of juice. How many millilitres is this?",
+        "answer": "C",
+        "options": {
+            "A": "8.75 mL",
+            "B": "87.5 mL",
+            "C": "875 mL",
+            "D": "8,750 mL"
+        }
+    },
+    {
+        "question": "Convert 2.5 hours to minutes.",
+        "answer": "C",
+        "options": {
+            "A": "120 min",
+            "B": "130 min",
+            "C": "150 min",
+            "D": "250 min"
+        }
+    },
+    {
+        "question": "A rectangle has length 8 cm and width 5 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "13 cm",
+            "B": "26 cm",
+            "C": "40 cm",
+            "D": "80 cm"
+        }
+    },
+    {
+        "question": "Two shapes have the same area. Which statement is always true?",
+        "answer": "D",
+        "options": {
+            "A": "They have the same perimeter.",
+            "B": "They are the same shape.",
+            "C": "They have the same length and width.",
+            "D": "None of the above."
+        }
+    },
+    {
+        "question": "A square has side length 6 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "12 cm\u00b2",
+            "B": "24 cm\u00b2",
+            "C": "36 cm\u00b2",
+            "D": "48 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many millimetres are in 0.45 metres?",
+        "answer": "C",
+        "options": {
+            "A": "4.5 mm",
+            "B": "45 mm",
+            "C": "450 mm",
+            "D": "4,500 mm"
+        }
+    },
+    {
+        "question": "A jug contains 2.3 L of water. Tom pours out 450 mL. How much is left (in litres)?",
+        "answer": "B",
+        "options": {
+            "A": "1.75 L",
+            "B": "1.85 L",
+            "C": "2.0 L",
+            "D": "2.75 L"
+        }
+    },
+    {
+        "question": "Which is equal to 5,080 grams?",
+        "answer": "A",
+        "options": {
+            "A": "5.08 kg",
+            "B": "5.80 kg",
+            "C": "50.8 kg",
+            "D": "0.508 kg"
+        }
+    },
+    {
+        "question": "A film lasts 1 hour 52 minutes. How many minutes is this?",
+        "answer": "B",
+        "options": {
+            "A": "102 min",
+            "B": "112 min",
+            "C": "122 min",
+            "D": "152 min"
+        }
+    },
+    {
+        "question": "Approximately how many kilometres are in 5 miles?",
+        "answer": "C",
+        "options": {
+            "A": "3 km",
+            "B": "5 km",
+            "C": "8 km",
+            "D": "10 km"
+        }
+    },
+    {
+        "question": "A triangle has base 10 cm and height 6 cm. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "16 cm\u00b2",
+            "B": "30 cm\u00b2",
+            "C": "60 cm\u00b2",
+            "D": "120 cm\u00b2"
+        }
+    },
+    {
+        "question": "A car travels 30 miles. Approximately how many kilometres is this?",
+        "answer": "C",
+        "options": {
+            "A": "24 km",
+            "B": "30 km",
+            "C": "48 km",
+            "D": "60 km"
+        }
+    },
+    {
+        "question": "A parallelogram has base 8 cm and height 5 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "13 cm\u00b2",
+            "B": "26 cm\u00b2",
+            "C": "40 cm\u00b2",
+            "D": "80 cm\u00b2"
+        }
+    },
+    {
+        "question": "Two rectangles both have an area of 24 cm\u00b2. Rectangle A is 6 cm by 4 cm. Rectangle B is 8 cm by 3 cm. Which has the larger perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "Rectangle A",
+            "B": "Rectangle B",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "How many kilometres is 16 miles (using 5 miles \u2248 8 km)?",
+        "answer": "D",
+        "options": {
+            "A": "16 km",
+            "B": "20 km",
+            "C": "24 km",
+            "D": "25.6 km"
+        }
+    },
+    {
+        "question": "A triangle has area 35 cm\u00b2 and base 10 cm. What is its height?",
+        "answer": "C",
+        "options": {
+            "A": "3.5 cm",
+            "B": "5 cm",
+            "C": "7 cm",
+            "D": "10 cm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the distance from London to Oxford?",
+        "answer": "C",
+        "options": {
+            "A": "10 km",
+            "B": "30 km",
+            "C": "90 km",
+            "D": "500 km"
+        }
+    },
+    {
+        "question": "A parallelogram has area 48 cm\u00b2 and height 6 cm. What is its base?",
+        "answer": "C",
+        "options": {
+            "A": "4 cm",
+            "B": "6 cm",
+            "C": "8 cm",
+            "D": "12 cm"
+        }
+    },
+    {
+        "question": "A rectangle and a square both have perimeter 20 cm. The rectangle is 7 cm by 3 cm. What is the area of the square?",
+        "answer": "C",
+        "options": {
+            "A": "16 cm\u00b2",
+            "B": "21 cm\u00b2",
+            "C": "25 cm\u00b2",
+            "D": "30 cm\u00b2"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 24 km?",
+        "answer": "B",
+        "options": {
+            "A": "10 miles",
+            "B": "15 miles",
+            "C": "20 miles",
+            "D": "30 miles"
+        }
+    },
+    {
+        "question": "A right-angled triangle has legs 6 cm and 8 cm. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "14 cm\u00b2",
+            "B": "24 cm\u00b2",
+            "C": "28 cm\u00b2",
+            "D": "48 cm\u00b2"
+        }
+    },
+    {
+        "question": "A race is 10 km long. About how many miles is this?",
+        "answer": "B",
+        "options": {
+            "A": "5 miles",
+            "B": "6 miles",
+            "C": "8 miles",
+            "D": "10 miles"
+        }
+    },
+    {
+        "question": "A triangle has height 9 cm and area 27 cm\u00b2. What is its base?",
+        "answer": "B",
+        "options": {
+            "A": "3 cm",
+            "B": "6 cm",
+            "C": "9 cm",
+            "D": "12 cm"
+        }
+    },
+    {
+        "question": "Which pair of shapes can have the same area but different perimeters?",
+        "answer": "C",
+        "options": {
+            "A": "Two squares",
+            "B": "Two circles",
+            "C": "A square and a rectangle",
+            "D": "Two equilateral triangles"
+        }
+    },
+    {
+        "question": "A container holds 3.25 L. How many 250 mL cups can be filled?",
+        "answer": "C",
+        "options": {
+            "A": "10",
+            "B": "12",
+            "C": "13",
+            "D": "15"
+        }
+    },
+    {
+        "question": "A parallelogram and a rectangle have the same base and height. Which statement is true?",
+        "answer": "C",
+        "options": {
+            "A": "The parallelogram has a larger area.",
+            "B": "The rectangle has a larger area.",
+            "C": "They have the same area.",
+            "D": "It depends on the angles."
+        }
+    },
+    {
+        "question": "A hike is 12 km. Tom says it\u2019s about 7.5 miles. Is this sensible?",
+        "answer": "C",
+        "options": {
+            "A": "No, it\u2019s too short.",
+            "B": "No, it\u2019s too long.",
+            "C": "Yes, because 12 \u00f7 1.6 = 7.5.",
+            "D": "Yes, because 12 \u00d7 1.6 = 7.5."
+        }
+    },
+    {
+        "question": "A triangle has sides 5 cm, 12 cm, and 13 cm. It is right-angled. What is its area?",
+        "answer": "A",
+        "options": {
+            "A": "30 cm\u00b2",
+            "B": "32.5 cm\u00b2",
+            "C": "60 cm\u00b2",
+            "D": "78 cm\u00b2"
+        }
+    },
+    {
+        "question": "A bus journey is 40 km. Approximately how many miles is this?",
+        "answer": "B",
+        "options": {
+            "A": "20 miles",
+            "B": "25 miles",
+            "C": "40 miles",
+            "D": "64 miles"
+        }
+    },
+    {
+        "question": "A rectangle is 9 cm by 4 cm. A triangle has the same area. If the triangle\u2019s base is 6 cm, what is its height?",
+        "answer": "D",
+        "options": {
+            "A": "6 cm",
+            "B": "8 cm",
+            "C": "10 cm",
+            "D": "12 cm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the mass of a bag of sugar?",
+        "answer": "C",
+        "options": {
+            "A": "100 g",
+            "B": "500 g",
+            "C": "1 kg",
+            "D": "5 kg"
+        }
+    },
+    {
+        "question": "A cube has side length 4 cm. What is its volume?",
+        "answer": "C",
+        "options": {
+            "A": "16 cm\u00b3",
+            "B": "32 cm\u00b3",
+            "C": "64 cm\u00b3",
+            "D": "96 cm\u00b3"
+        }
+    },
+    {
+        "question": "A cuboid is 5 cm long, 3 cm wide, and 4 cm high. What is its volume?",
+        "answer": "C",
+        "options": {
+            "A": "12 cm\u00b3",
+            "B": "30 cm\u00b3",
+            "C": "60 cm\u00b3",
+            "D": "120 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many cubic millimetres are in 1 cm\u00b3?",
+        "answer": "C",
+        "options": {
+            "A": "10 mm\u00b3",
+            "B": "100 mm\u00b3",
+            "C": "1,000 mm\u00b3",
+            "D": "10,000 mm\u00b3"
+        }
+    },
+    {
+        "question": "A box is 10 cm \u00d7 8 cm \u00d7 5 cm. How many 1 cm\u00b3 cubes fit inside?",
+        "answer": "D",
+        "options": {
+            "A": "40",
+            "B": "80",
+            "C": "200",
+            "D": "400"
+        }
+    },
+    {
+        "question": "Which is the largest volume?",
+        "answer": "B",
+        "options": {
+            "A": "2,500 cm\u00b3",
+            "B": "0.002 m\u00b3",
+            "C": "2.4 L",
+            "D": "2,450 mL"
+        }
+    },
+    {
+        "question": "A cube has volume 125 cm\u00b3. What is the length of one side?",
+        "answer": "A",
+        "options": {
+            "A": "5 cm",
+            "B": "10 cm",
+            "C": "15 cm",
+            "D": "25 cm"
+        }
+    },
+    {
+        "question": "How many litres are in 2,500 cm\u00b3?",
+        "answer": "B",
+        "options": {
+            "A": "0.25 L",
+            "B": "2.5 L",
+            "C": "25 L",
+            "D": "250 L"
+        }
+    },
+    {
+        "question": "A water tank is 2 m long, 1 m wide, and 1.5 m high. What is its volume in m\u00b3?",
+        "answer": "B",
+        "options": {
+            "A": "2 m\u00b3",
+            "B": "3 m\u00b3",
+            "C": "4 m\u00b3",
+            "D": "4.5 m\u00b3"
+        }
+    },
+    {
+        "question": "A cuboid has volume 72 cm\u00b3, length 6 cm, and width 3 cm. What is its height?",
+        "answer": "B",
+        "options": {
+            "A": "3 cm",
+            "B": "4 cm",
+            "C": "6 cm",
+            "D": "12 cm"
+        }
+    },
+    {
+        "question": "Which is equal to 0.75 m\u00b3 in cm\u00b3?",
+        "answer": "D",
+        "options": {
+            "A": "75 cm\u00b3",
+            "B": "750 cm\u00b3",
+            "C": "75,000 cm\u00b3",
+            "D": "750,000 cm\u00b3"
+        }
+    },
+    {
+        "question": "A cube of side 10 cm is cut into smaller cubes of side 2 cm. How many small cubes are made?",
+        "answer": "D",
+        "options": {
+            "A": "25",
+            "B": "50",
+            "C": "100",
+            "D": "125"
+        }
+    },
+    {
+        "question": "A fish tank holds 48 L of water. What is its volume in cm\u00b3?",
+        "answer": "B",
+        "options": {
+            "A": "4,800 cm\u00b3",
+            "B": "48,000 cm\u00b3",
+            "C": "480,000 cm\u00b3",
+            "D": "4,800,000 cm\u00b3"
+        }
+    },
+    {
+        "question": "Which unit is most appropriate for the volume of a classroom?",
+        "answer": "C",
+        "options": {
+            "A": "mm\u00b3",
+            "B": "cm\u00b3",
+            "C": "m\u00b3",
+            "D": "km\u00b3"
+        }
+    },
+    {
+        "question": "A cuboid is 8 cm by 5 cm by 3 cm. What is the total surface area?",
+        "answer": "C",
+        "options": {
+            "A": "79 cm\u00b2",
+            "B": "120 cm\u00b2",
+            "C": "158 cm\u00b2",
+            "D": "240 cm\u00b2"
+        }
+    },
+    {
+        "question": "A cube has surface area 96 cm\u00b2. What is its volume?",
+        "answer": "B",
+        "options": {
+            "A": "32 cm\u00b3",
+            "B": "64 cm\u00b3",
+            "C": "96 cm\u00b3",
+            "D": "128 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many cm\u00b3 are in 3.2 L?",
+        "answer": "C",
+        "options": {
+            "A": "32 cm\u00b3",
+            "B": "320 cm\u00b3",
+            "C": "3,200 cm\u00b3",
+            "D": "32,000 cm\u00b3"
+        }
+    },
+    {
+        "question": "A rectangular prism has volume 100 cm\u00b3 and base area 20 cm\u00b2. What is its height?",
+        "answer": "B",
+        "options": {
+            "A": "4 cm",
+            "B": "5 cm",
+            "C": "10 cm",
+            "D": "20 cm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the volume of a matchbox?",
+        "answer": "B",
+        "options": {
+            "A": "10 cm\u00b3",
+            "B": "20 cm\u00b3",
+            "C": "50 cm\u00b3",
+            "D": "100 cm\u00b3"
+        }
+    },
+    {
+        "question": "A cube of side 3 cm is painted red on all faces, then cut into 1 cm\u00b3 cubes. How many small cubes have exactly 2 red faces?",
+        "answer": "C",
+        "options": {
+            "A": "6",
+            "B": "8",
+            "C": "12",
+            "D": "18"
+        }
+    },
+    {
+        "question": "A container is 15 cm long, 10 cm wide, and filled to a depth of 6 cm with water. What is the volume of water?",
+        "answer": "D",
+        "options": {
+            "A": "31 cm\u00b3",
+            "B": "300 cm\u00b3",
+            "C": "600 cm\u00b3",
+            "D": "900 cm\u00b3"
+        }
+    },
+    {
+        "question": "Which is equal to 500,000 mm\u00b3 in cm\u00b3?",
+        "answer": "C",
+        "options": {
+            "A": "5 cm\u00b3",
+            "B": "50 cm\u00b3",
+            "C": "500 cm\u00b3",
+            "D": "5,000 cm\u00b3"
+        }
+    },
+    {
+        "question": "A cuboid has dimensions 12 cm, 8 cm, and 5 cm. What is the length of its longest diagonal (approximately)?",
+        "answer": "C",
+        "options": {
+            "A": "13 cm",
+            "B": "15 cm",
+            "C": "17 cm",
+            "D": "19 cm"
+        }
+    },
+    {
+        "question": "A parcel weighs 3.075 kg. What is its mass in grams?",
+        "answer": "B",
+        "options": {
+            "A": "307.5 g",
+            "B": "3,075 g",
+            "C": "30,750 g",
+            "D": "307 g"
+        }
+    },
+    {
+        "question": "How many millilitres are in 2.405 litres?",
+        "answer": "C",
+        "options": {
+            "A": "240.5 mL",
+            "B": "2,045 mL",
+            "C": "2,405 mL",
+            "D": "24,050 mL"
+        }
+    },
+    {
+        "question": "Convert 4,875 metres to kilometres.",
+        "answer": "B",
+        "options": {
+            "A": "0.4875 km",
+            "B": "4.875 km",
+            "C": "48.75 km",
+            "D": "487.5 km"
+        }
+    },
+    {
+        "question": "A bottle contains 750 mL of juice. How many such bottles are needed to fill a 4.5 L container?",
+        "answer": "C",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+        }
+    },
+    {
+        "question": "Approximately how many kilometres is 25 miles? (Use 1 mile \u2248 1.6 km)",
+        "answer": "B",
+        "options": {
+            "A": "32 km",
+            "B": "40 km",
+            "C": "48 km",
+            "D": "50 km"
+        }
+    },
+    {
+        "question": "A rectangle has an area of 48 cm\u00b2 and a width of 6 cm. What is its perimeter?",
+        "answer": "C",
+        "options": {
+            "A": "20 cm",
+            "B": "24 cm",
+            "C": "28 cm",
+            "D": "32 cm"
+        }
+    },
+    {
+        "question": "Which of these shapes can have the same area as a 6 cm by 4 cm rectangle but a different perimeter?",
+        "answer": "C",
+        "options": {
+            "A": "Only a 8 cm by 3 cm rectangle",
+            "B": "Only a square with side 5 cm",
+            "C": "A triangle with base 12 cm and height 4 cm",
+            "D": "None of the above"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 14 cm and height 9 cm?",
+        "answer": "B",
+        "options": {
+            "A": "56 cm\u00b2",
+            "B": "63 cm\u00b2",
+            "C": "126 cm\u00b2",
+            "D": "140 cm\u00b2"
+        }
+    },
+    {
+        "question": "A parallelogram has an area of 96 cm\u00b2 and a base of 12 cm. What is its height?",
+        "answer": "B",
+        "options": {
+            "A": "6 cm",
+            "B": "8 cm",
+            "C": "10 cm",
+            "D": "12 cm"
+        }
+    },
+    {
+        "question": "A cuboid measures 8 cm by 5 cm by 3 cm. What is its volume in cm\u00b3?",
+        "answer": "D",
+        "options": {
+            "A": "90 cm\u00b3",
+            "B": "100 cm\u00b3",
+            "C": "110 cm\u00b3",
+            "D": "120 cm\u00b3"
+        }
+    },
+    {
+        "question": "A cube has a volume of 343 cm\u00b3. What is the length of one edge?",
+        "answer": "B",
+        "options": {
+            "A": "6 cm",
+            "B": "7 cm",
+            "C": "8 cm",
+            "D": "9 cm"
+        }
+    },
+    {
+        "question": "The temperature at 6 a.m. was \u20133\u00b0C. By noon, it rose to 11\u00b0C. What was the temperature change?",
+        "answer": "C",
+        "options": {
+            "A": "8\u00b0C",
+            "B": "11\u00b0C",
+            "C": "14\u00b0C",
+            "D": "\u201314\u00b0C"
+        }
+    },
+    {
+        "question": "A car travels 180 km in 2.5 hours. What is its average speed in km/h?",
+        "answer": "C",
+        "options": {
+            "A": "60 km/h",
+            "B": "70 km/h",
+            "C": "72 km/h",
+            "D": "80 km/h"
+        }
+    },
+    {
+        "question": "How many hours and minutes is 3.75 hours?",
+        "answer": "C",
+        "options": {
+            "A": "3 h 15 min",
+            "B": "3 h 30 min",
+            "C": "3 h 45 min",
+            "D": "3 h 75 min"
+        }
+    },
+    {
+        "question": "A jug holds 2.25 litres. How many 150 mL cups can it fill completely?",
+        "answer": "B",
+        "options": {
+            "A": "12",
+            "B": "15",
+            "C": "18",
+            "D": "20"
+        }
+    },
+    {
+        "question": "Convert 6.008 km to metres.",
+        "answer": "B",
+        "options": {
+            "A": "608 m",
+            "B": "6,008 m",
+            "C": "60,008 m",
+            "D": "600.8 m"
+        }
+    },
+    {
+        "question": "A rectangle and a square both have a perimeter of 24 cm. The rectangle is 8 cm long. Which has the greater area?",
+        "answer": "B",
+        "options": {
+            "A": "Rectangle",
+            "B": "Square",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "What is the area of a parallelogram with base 15 cm and height 6.4 cm?",
+        "answer": "C",
+        "options": {
+            "A": "86 cm\u00b2",
+            "B": "90 cm\u00b2",
+            "C": "96 cm\u00b2",
+            "D": "102 cm\u00b2"
+        }
+    },
+    {
+        "question": "A triangle has an area of 54 cm\u00b2 and a height of 9 cm. What is its base?",
+        "answer": "C",
+        "options": {
+            "A": "6 cm",
+            "B": "9 cm",
+            "C": "12 cm",
+            "D": "18 cm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of a classroom door?",
+        "answer": "B",
+        "options": {
+            "A": "1.8 m",
+            "B": "2.1 m",
+            "C": "3.5 m",
+            "D": "5.0 m"
+        }
+    },
+    {
+        "question": "A cuboid has a volume of 210 cm\u00b3. Its length is 7 cm and width is 5 cm. What is its height?",
+        "answer": "B",
+        "options": {
+            "A": "5 cm",
+            "B": "6 cm",
+            "C": "7 cm",
+            "D": "8 cm"
+        }
+    },
+    {
+        "question": "How many seconds are in 2 hours 15 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "7,200 s",
+            "B": "8,100 s",
+            "C": "8,400 s",
+            "D": "9,000 s"
+        }
+    },
+    {
+        "question": "A runner completes 10 km in 50 minutes. What is their average speed in km/h?",
+        "answer": "B",
+        "options": {
+            "A": "10 km/h",
+            "B": "12 km/h",
+            "C": "15 km/h",
+            "D": "20 km/h"
+        }
+    },
+    {
+        "question": "Convert 0.875 kg to grams.",
+        "answer": "C",
+        "options": {
+            "A": "8.75 g",
+            "B": "87.5 g",
+            "C": "875 g",
+            "D": "8,750 g"
+        }
+    },
+    {
+        "question": "Which of the following is equivalent to 3.04 m?",
+        "answer": "B",
+        "options": {
+            "A": "304 mm",
+            "B": "304 cm",
+            "C": "3,040 cm",
+            "D": "30.4 cm"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 48 km? (1 mile \u2248 1.6 km)",
+        "answer": "B",
+        "options": {
+            "A": "25 miles",
+            "B": "30 miles",
+            "C": "35 miles",
+            "D": "40 miles"
+        }
+    },
+    {
+        "question": "A square has an area of 64 cm\u00b2. A rectangle has the same perimeter but a length of 10 cm. What is the rectangle\u2019s area?",
+        "answer": "B",
+        "options": {
+            "A": "56 cm\u00b2",
+            "B": "60 cm\u00b2",
+            "C": "64 cm\u00b2",
+            "D": "70 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the volume of a cube with edge length 4.5 cm?",
+        "answer": "C",
+        "options": {
+            "A": "64 cm\u00b3",
+            "B": "81 cm\u00b3",
+            "C": "91.125 cm\u00b3",
+            "D": "108 cm\u00b3"
+        }
+    },
+    {
+        "question": "A bottle contains 1.75 L of water. How many 250 mL glasses can be filled completely?",
+        "answer": "B",
+        "options": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "9"
+        }
+    },
+    {
+        "question": "The temperature dropped from 5\u00b0C to \u20138\u00b0C overnight. By how many degrees did it fall?",
+        "answer": "D",
+        "options": {
+            "A": "3\u00b0C",
+            "B": "8\u00b0C",
+            "C": "12\u00b0C",
+            "D": "13\u00b0C"
+        }
+    },
+    {
+        "question": "A car travels at an average speed of 64 km/h. How far will it travel in 2 hours 15 minutes?",
+        "answer": "C",
+        "options": {
+            "A": "128 km",
+            "B": "136 km",
+            "C": "144 km",
+            "D": "160 km"
+        }
+    },
+    {
+        "question": "Convert 8,050 g to kilograms.",
+        "answer": "B",
+        "options": {
+            "A": "0.805 kg",
+            "B": "8.05 kg",
+            "C": "80.5 kg",
+            "D": "805 kg"
+        }
+    },
+    {
+        "question": "How many millimetres are in 0.065 m?",
+        "answer": "C",
+        "options": {
+            "A": "0.65 mm",
+            "B": "6.5 mm",
+            "C": "65 mm",
+            "D": "650 mm"
+        }
+    },
+    {
+        "question": "A triangle and a parallelogram share the same base (10 cm) and height (6 cm). What is the ratio of their areas?",
+        "answer": "B",
+        "options": {
+            "A": "1:1",
+            "B": "1:2",
+            "C": "2:1",
+            "D": "1:3"
+        }
+    },
+    {
+        "question": "A cuboid has dimensions 12 cm, 8 cm, and 4.5 cm. What is its volume?",
+        "answer": "C",
+        "options": {
+            "A": "360 cm\u00b3",
+            "B": "400 cm\u00b3",
+            "C": "432 cm\u00b3",
+            "D": "480 cm\u00b3"
+        }
+    },
+    {
+        "question": "Which is heavier: 1.25 kg or 1,245 g?",
+        "answer": "A",
+        "options": {
+            "A": "1.25 kg",
+            "B": "1,245 g",
+            "C": "They are equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "A rectangle has length 9.6 cm and width 5 cm. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "45 cm\u00b2",
+            "B": "48 cm\u00b2",
+            "C": "50.4 cm\u00b2",
+            "D": "54 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many litres are in 3,080 mL?",
+        "answer": "B",
+        "options": {
+            "A": "0.308 L",
+            "B": "3.08 L",
+            "C": "30.8 L",
+            "D": "308 L"
+        }
+    },
+    {
+        "question": "A parallelogram has area 105 cm\u00b2 and height 7.5 cm. What is its base?",
+        "answer": "B",
+        "options": {
+            "A": "12 cm",
+            "B": "14 cm",
+            "C": "15 cm",
+            "D": "18 cm"
+        }
+    },
+    {
+        "question": "A car travels 96 km in 1 hour 20 minutes. What is its average speed in km/h?",
+        "answer": "C",
+        "options": {
+            "A": "60 km/h",
+            "B": "64 km/h",
+            "C": "72 km/h",
+            "D": "80 km/h"
+        }
+    },
+    {
+        "question": "Convert 5.004 km to metres.",
+        "answer": "B",
+        "options": {
+            "A": "504 m",
+            "B": "5,004 m",
+            "C": "50,004 m",
+            "D": "500.4 m"
+        }
+    },
+    {
+        "question": "A triangle has sides 6 cm, 8 cm, and 10 cm. What is its area? (Hint: it's a right-angled triangle)",
+        "answer": "A",
+        "options": {
+            "A": "24 cm\u00b2",
+            "B": "30 cm\u00b2",
+            "C": "40 cm\u00b2",
+            "D": "48 cm\u00b2"
+        }
+    },
+    {
+        "question": "A cube has a surface area of 150 cm\u00b2. What is its volume?",
+        "answer": "B",
+        "options": {
+            "A": "100 cm\u00b3",
+            "B": "125 cm\u00b3",
+            "C": "150 cm\u00b3",
+            "D": "216 cm\u00b3"
+        }
+    },
+    {
+        "question": "Which is the most sensible estimate for the mass of a laptop?",
+        "answer": "B",
+        "options": {
+            "A": "150 g",
+            "B": "1.5 kg",
+            "C": "15 kg",
+            "D": "150 kg"
+        }
+    },
+    {
+        "question": "A train travels 270 km in 2 hours 15 minutes. What is its average speed?",
+        "answer": "C",
+        "options": {
+            "A": "100 km/h",
+            "B": "110 km/h",
+            "C": "120 km/h",
+            "D": "130 km/h"
+        }
+    },
+    {
+        "question": "How many centimetres are in 0.0125 km?",
+        "answer": "C",
+        "options": {
+            "A": "12.5 cm",
+            "B": "125 cm",
+            "C": "1,250 cm",
+            "D": "12,500 cm"
+        }
+    },
+    {
+        "question": "A container holds 3.6 L of water. It is poured equally into 8 bottles. How much is in each bottle in mL?",
+        "answer": "C",
+        "options": {
+            "A": "360 mL",
+            "B": "400 mL",
+            "C": "450 mL",
+            "D": "500 mL"
+        }
+    },
+    {
+        "question": "A rectangle has perimeter 30 cm and area 56 cm\u00b2. What are its dimensions?",
+        "answer": "B",
+        "options": {
+            "A": "6 cm and 9 cm",
+            "B": "7 cm and 8 cm",
+            "C": "5 cm and 10 cm",
+            "D": "4 cm and 11 cm"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 12.5 cm and height 8 cm?",
+        "answer": "B",
+        "options": {
+            "A": "40 cm\u00b2",
+            "B": "50 cm\u00b2",
+            "C": "60 cm\u00b2",
+            "D": "100 cm\u00b2"
+        }
+    },
+    {
+        "question": "A cuboid has volume 0.5 m\u00b3. What is this in cm\u00b3?",
+        "answer": "B",
+        "options": {
+            "A": "50,000 cm\u00b3",
+            "B": "500,000 cm\u00b3",
+            "C": "5,000,000 cm\u00b3",
+            "D": "50,000,000 cm\u00b3"
+        }
+    }
+]

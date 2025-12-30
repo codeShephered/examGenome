@@ -1,0 +1,942 @@
+["Question: What is 400,000 + 600,000?
+Status: Success
+
+Question: Calculate 876,543 – 200,000.
+Status: Success
+
+Question: Mentally find: 130,000 + 70,000.
+Status: Success
+
+Question: A warehouse has 567,890 boxes. It ships out 167,890 boxes. How many are left?
+Status: Success
+
+Question: Estimate 345,678 + 554,322 by rounding both numbers to the nearest 100,000.
+Status: Error
+Explanation: When rounding 345,678 to the nearest 100,000, it becomes 300,000. When rounding 554,322 to the nearest 100,000, it becomes 600,000. The sum of these rounded numbers is 300,000 + 600,000 = 900,000. The provided answer B for 900,000 is correct, but the selected answer C for 1,000,000 is incorrect.
+
+Question: Estimate 345,678 + 554,322 by rounding both numbers to the nearest 100,000.
+Status: Success
+
+Question: What is 1,000,000 – 345,678?
+Status: Success
+
+Question: Add 12,000 and 88,000.
+Status: Success
+
+Question: A charity raised £250,000 in donations and £150,000 in grants. What was the total income?
+Status: Success
+
+Question: Mentally calculate: 900,000 – 200,000.
+Status: Success
+
+Question: What is 23,456 + 12,345?
+Status: Success
+
+Question: Calculate 78,901 – 23,456.
+Status: Success
+
+Question: What is 100,000 – 45,678?
+Status: Success
+
+Question: Add 345,678 and 123,456.
+Status: Success
+
+Question: What is 500,000 – 123,456?
+Status: Success
+
+Question: Tom has £45,678 and spends £12,345. How much does he have left?
+Status: Success
+
+Question: Estimate 45,678 + 34,567 by rounding both numbers to the nearest 10,000.
+Status: Success
+
+Question: What is 12,000 + 8,500?
+Status: Success
+
+Question: A school has 23,456 books. They buy 10,789 more. How many books do they have now?
+Status: Success
+
+Question: What is 987,654 – 123,456?
+Status: Success
+
+Question: Mentally calculate: 50,000 – 7,000.
+Status: Success
+
+Question: Estimate 78,901 – 23,456 by rounding to the nearest 10,000.
+Status: Success
+
+Question: Add 100,234 and 200,345.
+Status: Success
+
+Question: What is 600,000 – 250,000?
+Status: Success
+
+Question: A factory made 123,456 toys in January and 234,567 in February. How many toys in total?
+Status: Success
+
+Question: What is 1,000,000 – 999,999?
+Status: Success
+
+Question: Mentally calculate: 15,600 + 4,400.
+Status: Success
+
+Question: Estimate the sum of 345,678 and 234,567 by rounding to the nearest 100,000.
+Status: Error
+Explanation: When rounding 345,678 to the nearest 100,000, it becomes 300,000. When rounding 234,567 to the nearest 100,000, it becomes 200,000. The sum of these rounded numbers is 300,000 + 200,000 = 500,000. The provided answer A for 500,000 is correct, but the selected answer B for 600,000 is incorrect.
+
+Question: Estimate the sum of 345,678 and 234,567 by rounding to the nearest 100,000.
+Status: Success
+
+Question: What is 876,543 – 100,000?
+Status: Success
+
+Question: Add 50,000 and 750,000.
+Status: Success
+
+Question: A town has a population of 456,789. Another town has 345,678. What is the total population?
+Status: Success
+
+Question: What is 123,456 – 23,456?
+Status: Success
+
+Question: Mentally calculate: 200,000 + 350,000.
+Status: Success
+
+Question: Estimate 987,654 – 456,789 by rounding to the nearest 100,000.
+Status: Success
+
+Question: What is 567,890 + 432,110?
+Status: Success
+
+Question: Subtract 50,000 from 500,000.
+Status: Success
+
+Question: A library had 234,567 books. They gave away 34,567. How many are left?
+Status: Success
+
+Question: What is 1,234,567 – 234,567?
+Status: Success
+
+Question: Mentally calculate: 75,000 + 25,000.
+Status: Success
+
+Question: Estimate 123,456 + 876,544 by rounding to the nearest 100,000.
+Status: Success
+
+Question: Add 99,999 and 1.
+Status: Success
+
+Question: What is 1,000,000 – 500,000?
+Status: Success
+
+Question: A company earned £567,890 in 2023 and £432,110 in 2024. What was their total earnings?
+Status: Success
+
+Question: What is 200,000 – 150,000?
+Status: Success
+
+Question: Mentally calculate: 120,500 – 20,500.
+Status: Success
+
+Question: Estimate 678,901 – 123,456 by rounding to the nearest 10,000.
+Status: Success
+
+Question: Add 300,000 and 700,000.
+Status: Success
+
+Question: What is 456,789 – 100,000?
+Status: Success
+
+Question: A stadium has 500,000 seats. 123,456 are occupied. How many are empty?
+Status: Success
+
+Question: What is 800,000 – 300,000?
+Status: Success
+
+Question: Mentally calculate: 45,000 + 55,000.
+Status: Success
+
+Question: Estimate 234,567 + 765,433 by rounding to the nearest 100,000.
+Status: Success
+
+Question: Add 12,345 and 87,655.
+Status: Success
+
+Question: What is 1,000,000 – 123,456?
+Status: Success
+
+Question: A farmer harvested 345,678 kg of wheat and 234,322 kg of barley. What is the total harvest?
+Status: Success
+
+Question: What is 700,000 – 250,000?
+Status: Success
+
+Question: Mentally calculate: 300,000 – 150,000.
+Status: Success
+
+Question: Estimate 567,890 – 234,567 by rounding to the nearest 10,000.
+Status: Success
+
+Question: Add 250,000 and 750,000.
+Status: Success
+
+Question: What is 900,000 – 400,000?
+Status: Success
+
+Question: A school raised £123,456 in one event and £234,544 in another. What was the total amount raised?
+Status: Success
+
+Question: What is 600,000 – 350,000?
+Status: Success
+
+Question: Mentally calculate: 60,000 + 40,000.
+Status: Success
+
+Question: Estimate 876,543 + 123,457 by rounding to the nearest 100,000.
+Status: Success
+
+Question: Add 111,111 and 222,222.
+Status: Success
+
+Question: What is 1,000,000 – 876,543?
+Status: Success
+
+Question: A city had 789,012 residents. 123,012 moved away. How many are left?
+Status: Success
+
+Question: What is 500,000 – 200,000?
+Status: Success
+
+Question: Mentally calculate: 90,000 – 40,000.
+Status: Success
+
+Question: Estimate 456,789 – 234,567 by rounding to the nearest 10,000.
+Status: Success
+
+Question: Add 400,000 and 600,000.
+Status: Success
+
+Question: What is 1,000,000 – 1?
+Status: Success
+
+Question: A train carries 345,678 passengers in the morning and 234,322 in the evening. How many in total?
+Status: Success
+
+Question: What is 800,000 – 550,000?
+Status: Success
+
+Question: Mentally calculate: 100,000 – 25,000.
+Status: Success
+
+Question: Estimate 345,678 + 456,789 by rounding to the nearest 100,000.
+Status: Success
+
+Question: Add 999,999 and 1.
+Status: Success
+
+Question: What is 700,000 – 300,000?
+Status: Success
+
+Question: A shop sold 123,456 items in January and 234,567 in February. How many more were sold in February?
+Status: Success
+
+Question: What is 1,000,000 – 500,001?
+Status: Success
+
+Question: Mentally calculate: 80,000 + 20,000.
+Status: Success
+
+Question: Estimate 789,012 – 345,678 by rounding to the nearest 10,000.
+Status: Success
+
+Question: Add 100,000 and 900,000.
+Status: Success
+
+Question: What is 600,000 – 400,000?
+Status: Success
+
+Question: A company's profit was £567,890 in 2023 and £123,456 in 2022. What was the total profit over two years?
+Status: Success
+
+Question: What is 900,000 – 600,000?
+Status: Success
+
+Question: Mentally calculate: 150,000 – 50,000.
+Status: Success
+
+Question: Estimate 234,567 – 123,456 by rounding to the nearest 10,000.
+Status: Success
+
+Question: Add 333,333 and 333,333.
+Status: Success
+
+Question: What is 1,000,000 – 666,666?
+Status: Success
+
+Question: A library lent out 456,789 books in a year and had 123,211 returned. How many were still out at year-end?
+Status: Success
+
+Question: What is 400,000 – 150,000?
+Status: Success
+
+Question: Mentally calculate: 70,000 + 30,000.
+Status: Success
+
+Question: Estimate 987,654 + 12,346 by rounding to the nearest 10,000.
+Status: Success
+
+Question: Add 200,000 and 800,000.
+Status: Success
+
+Question: What is 500,000 – 250,000?
+Status: Success
+
+Question: A farm produced 345,000 kg of potatoes and 255,000 kg of carrots. What was the total production?
+Status: Success
+
+Question: What is 300,000 – 100,000?
+Status: Success
+
+Question: Mentally calculate: 40,000 – 10,000.
+Status: Success
+", 'Question: Estimate 567,890 – 234,567 by rounding to the nearest 100,000.
+Status: Error
+Explanation: To estimate 567,890 – 234,567 by rounding to the nearest 100,000:
+1. Round 567,890 to the nearest 100,000: The digit in the ten thousands place is 6 (which is 5 or greater), so round up. 567,890 becomes 600,000.
+2. Round 234,567 to the nearest 100,000: The digit in the ten thousands place is 3 (which is less than 5), so round down. 234,567 becomes 200,000.
+3. Perform the subtraction: 600,000 – 200,000 = 400,000.
+The correct answer should be 400,000, which corresponds to option B. The provided answer is A (300,000).
+
+Question: Estimate 567,890 – 234,567 by rounding to the nearest 100,000.
+Status: Success
+
+Question: Add 50,000 and 950,000.
+Status: Success
+
+Question: What is 1,000,000 – 950,000?
+Status: Success
+
+Question: Calculate: 45,678 + 87,943
+Status: Success
+
+Question: Calculate: 902,345 – 287,618
+Status: Success
+
+Question: What is 125,000 + 378,400?
+Status: Success
+
+Question: Mentally calculate: 48,300 – 15,200
+Status: Success
+
+Question: Estimate 678,452 + 294,761 by rounding both numbers to the nearest 100,000.
+Status: Success
+
+Question: A factory made 245,630 toys in January and 318,975 in February. How many more were made in February?
+Status: Success
+
+Question: Calculate: 1,000,000 – 347,825
+Status: Success
+
+Question: Which calculation is set up correctly for 506,724 + 89,317?
+Status: Success
+
+Question: Mentally calculate: 92,000 – 38,000
+Status: Success
+
+Question: Estimate 824,561 – 396,827 by rounding to the nearest 10,000.
+Status: Success
+
+Question: A library has 142,367 books. They buy 28,954 more and donate 15,200 old ones. How many books do they have now?
+Status: Success
+
+Question: Calculate: 273,496 + 587,218
+Status: Success
+
+Question: What is 1,000,000 – 1?
+Status: Success
+
+Question: Mentally: 75,400 + 24,600
+Status: Success
+
+Question: Which estimate is best for 453,281 + 548,912?
+Status: Success
+
+Question: A school has 1,250 pupils. In Year 5 there are 128 pupils, and Year 6 has 135. The rest are in Years 1–4. How many are in Years 1–4?
+Status: Success
+
+Question: Calculate: 605,000 – 198,472
+Status: Success
+
+Question: In columnar addition, when adding the thousands column, you get 15. What do you write and carry?
+Status: Success
+
+Question: Mentally: 136,800 – 42,500
+Status: Success
+
+Question: Estimate 724,815 – 287,392 by rounding to the nearest 1,000.
+Status: Success
+
+Question: A train journey is 342 km. The first leg is 128 km, the second is 95 km. How long is the third leg?
+Status: Success
+
+Question: Calculate: 892,134 + 78,967
+Status: Success
+
+Question: What number added to 375,824 gives 1,000,000?
+Status: Success
+
+Question: Mentally: 520,000 + 480,000
+Status: Success
+
+Question: Which calculation gives the largest answer?
+Status: Success
+
+Question: A stadium holds 52,340 people. At a match, 18,765 are in the North Stand and 20,482 in the South. How many are in the East and West Stands combined?
+Status: Success
+
+Question: Calculate: 1,000,000 – 567,218
+Status: Success
+
+Question: In column subtraction, you need to subtract 7 from 2 in the tens column. What must you do?
+Status: Success
+
+Question: Mentally: 803,500 – 400,200
+Status: Success
+
+Question: Estimate 198,742 + 304,619 by rounding to the nearest 10,000.
+Status: Success
+
+Question: A farmer harvested 245,670 kg of wheat, 182,340 kg of barley, and sold 310,500 kg in total. How much does he have left?
+Status: Success
+
+Question: Calculate: 407,295 + 598,746
+Status: Success
+
+Question: What is 250,000 more than 675,321?
+Status: Success
+
+Question: Mentally: 1,000,000 – 250,000
+Status: Success
+
+Question: Which estimate is closest to the actual answer for 678,123 – 294,567?
+Status: Success
+
+Question: A delivery driver travels 247 km on Monday, 318 km on Tuesday, and 195 km on Wednesday. How many km in total?
+Status: Success
+
+Question: Calculate: 900,000 – 483,629
+Status: Success
+
+Question: Which error is most likely if a student writes 503,400 + 87,921 = 580,321?
+Status: Success
+
+Question: Mentally: 427,800 + 172,200
+Status: Success
+
+Question: Estimate 892,475 + 107,625 by rounding to the nearest 100,000.
+Status: Success
+
+Question: A museum had 245,670 visitors in Year 1. In Year 2, there were 38,425 more. In Year 3, there were 22,190 fewer than Year 2. How many in Year 3?
+Status: Success
+
+Question: Calculate: 367,842 – 198,576
+Status: Success
+
+Question: What is 150,000 less than 1,000,000?
+Status: Success
+
+Question: Mentally: 905,000 – 395,000
+Status: Success
+
+Question: A school raised £42,750 in a fair. They spent £18,340 on equipment and £9,675 on books. How much is left?
+Status: Success
+
+Question: Calculate: 753,214 + 246,789
+Status: Success
+
+Question: What is the missing number? ___ + 482,635 = 1,000,000
+Status: Success
+
+Question: Mentally: 618,400 – 200,400
+Status: Success
+
+Question: Estimate 499,999 + 500,001
+Status: Success
+
+Question: A builder needs 245,670 bricks. He has 87,250 red and 93,420 grey. How many more does he need?
+Status: Success
+
+Question: Calculate: 1,000,000 – 876,543
+Status: Success
+
+Question: If you make a mistake in the hundreds column during subtraction and forget to borrow, what kind of error will you get?
+Status: Success
+
+Question: Mentally: 300,000 + 699,999
+Status: Success
+
+Question: Which pair of numbers has a difference closest to 250,000?
+Status: Success
+
+Question: A concert sold 45,670 tickets on Day 1 and 58,325 on Day 2. Some people bought tickets for both days (12,480). How many *unique* people attended?
+Status: Success
+
+Question: Calculate: 502,000 – 148,736
+Status: Success
+
+Question: What is 75,000 more than 825,000?
+Status: Success
+
+Question: Mentally: 1,000,000 – 625,000
+Status: Success
+
+Question: Estimate 763,421 – 298,745 by rounding to the nearest 10,000.
+Status: Success
+
+Question: A company’s profit was £342,560 in Q1, a loss of £78,450 in Q2, and profit of £210,380 in Q3. What is total profit so far?
+Status: Success
+
+Question: Calculate: 843,217 + 156,784
+Status: Success
+
+Question: What number subtracted from 1,000,000 gives 294,835?
+Status: Success
+
+Question: Mentally: 560,000 + 440,000
+Status: Success
+
+Question: Which calculation requires borrowing in *every* column (except possibly units)?
+Status: Success
+
+Question: A library lent 124,560 books in January, 132,780 in February, and 118,430 in March. How many in total?
+Status: Success
+
+Question: Calculate: 724,506 – 389,647
+Status: Success
+
+Question: What is 200,000 + 300,000 + 500,000?
+Status: Success
+
+Question: Mentally: 845,200 – 300,200
+Status: Success
+
+Question: Estimate 624,781 + 275,319
+Status: Success
+
+Question: A charity received £245,670 in donations. They spent £87,250 on food and £58,420 on shelter. How much remains?
+Status: Success
+
+Question: Calculate: 1,000,000 – 123,456
+Status: Success
+
+Question: In column addition of 608,429 + 392,715, what is carried from the ten thousands column?
+Status: Success
+
+Question: Mentally: 720,000 – 280,000
+Status: Success
+
+Question: Which estimate is best for checking 482,635 + 517,365 = 1,000,000?
+Status: Success
+
+Question: A train has 3 carriages. Carriage 1 has 142 seats, Carriage 2 has 158, Carriage 3 has 135. 87 seats are empty. How many passengers are on board?
+Status: Success
+
+Question: Calculate: 950,000 – 487,126
+Status: Success
+
+Question: What is 125,000 × 8?
+Status: Success
+
+Question: Mentally: 1,000,000 – 750,000
+Status: Success
+
+Question: Estimate 398,427 + 502,574 by rounding to the nearest 1,000.
+Status: Success
+
+Question: A shop had 245,670 items in stock. They sold 87,250, received 42,380 new items, and returned 5,120 faulty ones. How many now?
+Status: Success
+
+Question: Calculate: 678,345 + 321,655
+Status: Success
+
+Question: What is the smallest number that when added to 876,543 gives over 1,000,000?
+Status: Success
+
+Question: Mentally: 405,600 + 594,400
+Status: Success
+
+Question: Which calculation would you estimate as 800,000 – 300,000 = 500,000?
+Status: Success
+
+Question: A farm has 245,670 chickens, 87,250 ducks, and 12,480 geese. 38,420 birds are sold. How many remain?
+Status: Success
+
+Question: Calculate: 1,000,000 – 999,999
+Status: Success
+
+Question: In subtraction, if the top digit is 0 and you need to borrow, what do you do?
+Status: Success
+
+Question: Mentally: 1,000,000 – 100,000
+Status: Success
+
+Question: Estimate 249,999 + 750,001
+Status: Success
+
+Question: A city’s population was 425,670 in 2020. It increased by 38,425 in 2021, then decreased by 12,190 in 2022. What was the 2022 population?
+Status: Success
+
+Question: Calculate: 567,890 + 432,110
+Status: Success
+
+Question: What is 1,000,000 – 500,000 – 250,000?
+Status: Success
+
+Question: Mentally: 630,000 – 180,000
+Status: Success
+
+Question: Which is the best estimate for 876,543 + 123,457?
+Status: Success
+
+Question: A book has 1,000 pages. Sam reads 245 pages on Day 1, 318 on Day 2, and 192 on Day 3. How many pages left?
+Status: Success
+
+Question: Calculate: 1,000,000 – 0
+Status: Success', 'Question: What is the largest 6-digit number plus the smallest 6-digit number?
+Status: Success
+
+Question: Mentally: 900,000 + 100,000
+Status: Success
+
+Question: Estimate 1,000,000 – 487,654
+Status: Success
+
+Question: A company’s revenue was £725,670. Costs were £382,450 and taxes £98,760. What was profit?
+Status: Success
+
+Question: Calculate: 456,789 + 321,456
+Status: Success
+
+Question: What is 987,654 – 123,789?
+Status: Success
+
+Question: Estimate the result of 567,890 + 432,109 by rounding both numbers to the nearest 10,000.
+Status: Success
+
+Question: A factory produced 234,567 toys in January and 345,678 in February. How many toys were produced in total?
+Status: Success
+
+Question: What is 1,000,000 – 789,456?
+Status: Success
+
+Question: Mentally calculate: 500,000 – 123,000.
+Status: Success
+
+Question: Which of these calculations requires borrowing in the ten thousands column?
+Status: Success
+
+Question: Estimate 876,543 – 298,765 by rounding to the nearest 100,000.
+Status: Success
+
+Question: A library has 654,321 books. They donate 234,567 to schools. How many remain?
+Status: Success
+
+Question: Calculate: 123,456 + 234,567 + 345,678
+Status: Success
+
+Question: What is the missing digit in the units place of the sum: 789,12∎ + 210,873 = 999,999?
+Status: Success
+
+Question: Mentally calculate: 456,789 – 400,000.
+Status: Success
+
+Question: Which sum is closest to 1,000,000?
+Status: Success
+
+Question: A train journey is 1,000 km. It has travelled 345,678 meters. How many meters remain?
+Status: Success
+
+Question: Calculate: 999,999 – 123,456
+Status: Success
+
+Question: In column addition, when adding 789,456 and 210,544, what is carried over from the thousands column to the ten thousands column?
+Status: Success
+
+Question: Estimate the difference: 765,432 – 234,567 by rounding to the nearest 10,000.
+Status: Success
+
+Question: A stadium has 876,543 seats. On Monday, 321,098 people attended; on Tuesday, 234,567 attended. How many more seats were unused on Monday than Tuesday?
+Status: Success
+
+Question: What is 500,000 + 499,999?
+Status: Success
+
+Question: Mentally find: 1,000,000 – 567,890.
+Status: Success
+
+Question: Which calculation gives the largest result?
+Status: Error
+Explanation: All options (A: 900,000 – 100,000 = 800,000; B: 500,000 + 300,000 = 800,000; C: 999,999 – 199,999 = 800,000; D: 600,000 + 200,000 = 800,000) result in exactly 800,000. Therefore, none of the calculations gives a uniquely "largest" result, making the question ambiguous. The provided answer \'C\' is not uniquely correct.
+
+Question: A company’s profit was £789,456 in 2023 and £123,789 in 2024. What was the total profit over two years?
+Status: Success
+
+Question: Subtract: 600,000 – 456,789
+Status: Success
+
+Question: Which of these requires two borrows in the first three columns (units, tens, hundreds)?
+Status: Success
+
+Question: Estimate: 444,444 + 555,555 by rounding to the nearest 100,000.
+Status: Success
+
+Question: A mountain is 1,000 meters tall. A climber has ascended 789,456 millimeters. How many millimeters remain?
+Status: Success
+
+Question: Calculate: 345,678 + 567,890
+Status: Success
+
+Question: What is the result of 123,000 + 45,678 – 67,890?
+Status: Success
+
+Question: Mentally: 800,000 – 345,000 = ?
+Status: Success
+
+Question: In the subtraction 1,000,000 – 567,890, which column requires the first borrow?
+Status: Success
+
+Question: Which total is exactly 1,000,000?
+Status: Success
+
+Question: A school has 567,890 sheets of paper. They use 123,456 in one week and 234,567 in the next. How many are left?
+Status: Success
+
+Question: Calculate: 999,999 – (100,000 + 200,000)
+Status: Success
+
+Question: What is 234,567 + 345,678 – 123,456?
+Status: Success
+
+Question: Mentally: 750,000 – 250,500 = ?
+Status: Success
+
+Question: Estimate the sum of 345,678 and 456,789 to the nearest 10,000.
+Status: Success
+
+Question: A car costs £25,678. A motorbike costs £12,345 less. What is the total cost of both?
+Status: Error
+Explanation: The car costs £25,678. The motorbike costs £12,345 less than the car, so the motorbike costs £25,678 - £12,345 = £13,333. The total cost of both is £25,678 (car) + £13,333 (motorbike) = £39,011. None of the provided options matches this correct total. The given answer \'A\' is £38,023.
+
+Question: What is the difference between 987,654 and 543,210?
+Status: Success
+
+Question: Add: 111,111 + 222,222 + 333,333
+Status: Success
+
+Question: Mentally: 600,000 + 250,000 – 150,000 = ?
+Status: Success
+
+Question: Which subtraction requires borrowing from the hundred thousands place?
+Status: Success
+
+Question: Estimate: 999,999 – 444,444 to the nearest 100,000.
+Status: Success
+
+Question: A delivery driver travels 123,456 meters on Monday, 234,567 on Tuesday, and 345,678 on Wednesday. Total distance?
+Status: Success
+
+Question: What is 1,000,000 – 111,111?
+Status: Success
+
+Question: Calculate: 500,000 – 123,456 + 654,321
+Status: Success
+
+Question: Mentally: 900,000 – 456,000 = ?
+Status: Success
+
+Question: In column addition of 456,789 and 543,210, what is the sum of the ten thousands digits including any carry?
+Status: Success
+
+Question: Which is the best estimate for 678,901 – 234,567?
+Status: Success
+
+Question: A museum had 876,543 visitors in 2023. In 2024, it had 123,456 fewer. How many in 2024?
+Status: Success
+
+Question: What is 345,678 + 654,321?
+Status: Success
+
+Question: Subtract: 500,000 – (100,000 + 150,000)
+Status: Success
+
+Question: Mentally: 1,000,000 – 250,000 – 250,000 = ?
+Status: Success
+
+Question: Which calculation has an answer between 500,000 and 600,000?
+Status: Success
+
+Question: Calculate: 123,456 + 789,012 – 345,678
+Status: Success
+
+Question: What is the missing number? 1,000,000 – ∎ = 678,901
+Status: Success
+
+Question: Mentally: 456,000 + 544,000 = ?
+Status: Success
+
+Question: In the addition 789,456 + 210,544, which column first produces a carry?
+Status: Success
+
+Question: Estimate the total cost of two items priced at £456,789 and £345,678 to the nearest £10,000.
+Status: Success
+
+Question: A water tank holds 1,000,000 liters. On day 1, 234,567 liters are used; on day 2, 345,678 liters. How much remains?
+Status: Success
+
+Question: What is 999,999 – 123,456 – 234,567?
+Status: Success
+
+Question: Add: 250,000 + 350,000 – 100,000
+Status: Success
+
+Question: Mentally: 876,543 – 700,000 = ?
+Status: Success
+
+Question: Which of these subtractions results in an answer ending in 001?
+Status: Success
+
+Question: Calculate: 600,000 + 234,567 – 123,456
+Status: Success
+
+Question: What is the sum of 111,111 and 888,888?
+Status: Success
+
+Question: Mentally: 555,555 + 444,444 = ?
+Status: Success
+
+Question: In the subtraction 500,000 – 123,456, how many columns require borrowing?
+Status: Success
+
+Question: Estimate: 234,567 + 345,678 + 456,789 to the nearest 100,000.
+Status: Success
+
+Question: A farm harvested 456,789 kg of wheat and 345,678 kg of barley. Total harvest?
+Status: Success
+
+Question: What is 1,000,000 – 987,654?
+Status: Success
+
+Question: Calculate: 789,012 – 345,678 + 234,567
+Status: Success
+
+Question: Mentally: 1,000,000 – 500,000 – 250,000 = ?
+Status: Success
+
+Question: Which addition requires a carry in every column?
+Status: Success
+
+Question: Estimate the difference between 987,654 and 123,456 to the nearest 10,000.
+Status: Success
+
+Question: A book has 1,000,000 words. Chapter 1 has 345,678 words; Chapter 2 has 234,567. How many in the rest?
+Status: Success
+
+Question: What is 456,789 + 543,210?
+Status: Success
+
+Question: Subtract: 1,000,000 – 200,000 – 300,000
+Status: Success
+
+Question: Mentally: 678,901 – 600,000 = ?
+Status: Success
+
+Question: In 999,999 – 123,456, which digit in the answer is in the ten thousands place?
+Status: Success
+
+Question: Which total is closest to 900,000?
+Status: Success
+
+Question: Calculate: 345,678 + 123,456 – 234,567
+Status: Success
+
+Question: What number added to 678,901 gives 1,000,000?
+Status: Success
+
+Question: Mentally: 800,000 + 199,999 = ?
+Status: Success
+
+Question: In the addition 999,999 + 1, how many carries occur?
+Status: Success
+
+Question: Estimate: 567,890 – 234,567 to the nearest 10,000.
+Status: Success
+
+Question: A city had 987,654 residents. 123,456 moved away, and 234,567 moved in. What is the new population?
+Status: Success
+
+Question: What is 234,567 + 345,678 + 456,789?
+Status: Success
+
+Question: Mentally: 1,000,000 – 111,111 – 222,222 = ?
+Status: Success
+
+Question: Which subtraction gives 444,444?
+Status: Success
+
+Question: Calculate: 500,000 – 123,456 + 234,567
+Status: Success
+
+Question: What is the sum of the largest and smallest 6-digit numbers?
+Status: Success
+
+Question: Mentally: 700,000 – 345,678 = ?
+Status: Success
+
+Question: In column subtraction of 1,000,000 – 567,890, what is the digit in the thousands place of the answer?
+Status: Success
+
+Question: Which pair of numbers adds to exactly 1,000,000?
+Status: Success
+
+Question: Calculate: 789,456 + 210,544
+Status: Success
+
+Question: What is 1,000,000 – 345,678?
+Status: Success', "Question: A museum had 876,543 visitors in January. In February, it had 123,789 fewer visitors. How many visited in February?
+Status: Success
+
+Question: Estimate the sum of 456,789 and 345,678 by rounding both numbers to the nearest 10,000.
+Status: Success
+
+Question: What is the result of 500,000 + 234,567 – 123,456?
+Status: Success
+
+Question: Mentally calculate: 900,000 – 256,000.
+Status: Success
+
+Question: In the column addition of 678,912 and 321,088, how many columns produce a carry?
+Status: Error
+Explanation:
+Let's perform the column addition:
+  678,912
++ 321,088
+----------
+1,000,000
+
+1.  Units column (2+8): Sum is 10. Write 0, carry 1 to the tens column. (Carry produced)
+2.  Tens column (1+8+1(carry)): Sum is 10. Write 0, carry 1 to the hundreds column. (Carry produced)
+3.  Hundreds column (9+0+1(carry)): Sum is 10. Write 0, carry 1 to the thousands column. (Carry produced)
+4.  Thousands column (8+1+1(carry)): Sum is 10. Write 0, carry 1 to the ten thousands column. (Carry produced)
+5.  Ten Thousands column (7+2+1(carry)): Sum is 10. Write 0, carry 1 to the hundred thousands column. (Carry produced)
+6.  Hundred Thousands column (6+3+1(carry)): Sum is 10. Write 0, carry 1 to the millions column. (Carry produced)
+
+All 6 columns (units, tens, hundreds, thousands, ten thousands, and hundred thousands) produce a carry. Therefore, the correct answer should be 6, not 4.
+
+Question: A factory produced 456,789 units in March and 345,678 in April. It sold 600,000 units. How many remain in stock?
+Status: Success
+
+Question: Which calculation gives the largest result?
+Status: Success
+
+Question: What is 123,456 + 234,567 + 345,678?
+Status: Success"]

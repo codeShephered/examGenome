@@ -2,8 +2,8 @@ import json
 import os
 
 # --- Configuration ---
-INPUT_FILE = '../../jsons/longDivFlashCard.json'
-OUTPUT_FILE = '../../jsons/longDivFlashCard_extracted_data.json' # Optional: name for saving the extracted data
+INPUT_FILE = '../../jsons/year456/src/y4Number_mulDiv.json'
+OUTPUT_FILE = '../../jsons/year456/src/y4Number_mulDiv_extracted_data.json' # Optional: name for saving the extracted data
 
 def extract_qa_data(input_filename):
     """
@@ -47,12 +47,14 @@ def extract_qa_data(input_filename):
         
         question = item.get('question')
         answer = item.get('answer')
+        options = item.get('options')#Added to extract option data
         
         # Only process if both key fields are present
         if question is not None and answer is not None:
             new_object = {
                 "question": question,
-                "answer": answer
+                "answer": answer,
+                "options": options#Added to extract option data
             }
             extracted_data.append(new_object)
         else:

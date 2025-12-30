@@ -5,8 +5,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # --- Configuration ---
-JSON_FILE = '../../jsons/longDivFlashCard_extracted_data.json'
-OUTPUT_FILE = 'longDivFlashCard_verification.txt'
+JSON_FILE = '../../jsons/year456/src/y4Geometry_Properties_of_Shapes_extracted_data.json'
+OUTPUT_FILE = '../../jsons/year456/verif/y4Geometry_Properties_of_Shapes_verification.txt'
+
 
 def generate_evaluation_prompt(filename):
     """
@@ -45,7 +46,7 @@ def generate_evaluation_prompt(filename):
     # This is the single, overarching prompt instruction.
     main_prompt_instruction = (
         f"--- EVALUATION INSTRUCTIONS ---\n\n"
-        f"If the answer for each object in the given json data structure\n"
+        f"If the answer for each object among the options in the given json data structure\n"
         f"'{data_structure_dump}'\n"
         f"is correct to the corresponding question in the Json object, "
         f"print the SUCCESS_TEMPLATE below. If the answer is incorrect, print the ERROR_TEMPLATE.\n\n"

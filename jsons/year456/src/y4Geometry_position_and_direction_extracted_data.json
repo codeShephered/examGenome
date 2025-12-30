@@ -1,0 +1,4012 @@
+[
+    {
+        "question": "What are the coordinates of the point shown? It is 3 units to the right and 4 units up from the origin.",
+        "answer": "A",
+        "options": {
+            "A": "(3, 4)",
+            "B": "(4, 3)",
+            "C": "(0, 7)",
+            "D": "(7, 0)"
+        }
+    },
+    {
+        "question": "A point has coordinates (5, 2). How many units is it to the right of the origin?",
+        "answer": "C",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "7"
+        }
+    },
+    {
+        "question": "A point has coordinates (1, 6). How many units is it above the origin?",
+        "answer": "C",
+        "options": {
+            "A": "1",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+        }
+    },
+    {
+        "question": "Which point is at (4, 1)?",
+        "answer": "A",
+        "options": {
+            "A": "4 units right, 1 unit up",
+            "B": "1 unit right, 4 units up",
+            "C": "4 units left, 1 unit down",
+            "D": "0 units right, 5 units up"
+        }
+    },
+    {
+        "question": "What are the coordinates of the origin?",
+        "answer": "A",
+        "options": {
+            "A": "(0, 0)",
+            "B": "(1, 1)",
+            "C": "(0, 1)",
+            "D": "(1, 0)"
+        }
+    },
+    {
+        "question": "A point moves 3 units right from (2, 5). What are its new coordinates?",
+        "answer": "B",
+        "options": {
+            "A": "(2, 8)",
+            "B": "(5, 5)",
+            "C": "(2, 2)",
+            "D": "(-1, 5)"
+        }
+    },
+    {
+        "question": "A point moves 2 units up from (4, 3). What are its new coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(4, 5)",
+            "B": "(6, 3)",
+            "C": "(4, 1)",
+            "D": "(2, 3)"
+        }
+    },
+    {
+        "question": "A point moves 1 unit left from (5, 4). What are its new coordinates?",
+        "answer": "B",
+        "options": {
+            "A": "(5, 3)",
+            "B": "(4, 4)",
+            "C": "(6, 4)",
+            "D": "(5, 5)"
+        }
+    },
+    {
+        "question": "A point moves 3 units down from (6, 7). What are its new coordinates?",
+        "answer": "C",
+        "options": {
+            "A": "(6, 10)",
+            "B": "(9, 7)",
+            "C": "(6, 4)",
+            "D": "(3, 7)"
+        }
+    },
+    {
+        "question": "Which coordinates describe a point 0 units right and 5 units up?",
+        "answer": "B",
+        "options": {
+            "A": "(5, 0)",
+            "B": "(0, 5)",
+            "C": "(5, 5)",
+            "D": "(1, 5)"
+        }
+    },
+    {
+        "question": "If you start at (3, 2) and move 4 units right, where do you end up?",
+        "answer": "B",
+        "options": {
+            "A": "(3, 6)",
+            "B": "(7, 2)",
+            "C": "(3, -2)",
+            "D": "(-1, 2)"
+        }
+    },
+    {
+        "question": "If you start at (1, 5) and move 3 units down, where do you end up?",
+        "answer": "A",
+        "options": {
+            "A": "(1, 2)",
+            "B": "(4, 5)",
+            "C": "(1, 8)",
+            "D": "(-2, 5)"
+        }
+    },
+    {
+        "question": "Which point is closest to the origin?",
+        "answer": "B",
+        "options": {
+            "A": "(5, 5)",
+            "B": "(1, 1)",
+            "C": "(3, 0)",
+            "D": "(0, 4)"
+        }
+    },
+    {
+        "question": "A square has vertices at (1,1), (1,3), (3,3), and (3,1). What is the length of one side?",
+        "answer": "B",
+        "options": {
+            "A": "1 unit",
+            "B": "2 units",
+            "C": "3 units",
+            "D": "4 units"
+        }
+    },
+    {
+        "question": "A rectangle has corners at (2,1), (2,4), (5,4), and (5,1). How long is the bottom side?",
+        "answer": "B",
+        "options": {
+            "A": "2 units",
+            "B": "3 units",
+            "C": "4 units",
+            "D": "5 units"
+        }
+    },
+    {
+        "question": "What are the coordinates of the point that is 7 units right and 0 units up?",
+        "answer": "B",
+        "options": {
+            "A": "(0, 7)",
+            "B": "(7, 0)",
+            "C": "(7, 7)",
+            "D": "(1, 7)"
+        }
+    },
+    {
+        "question": "A triangle has vertices at (1,1), (4,1), and (1,5). What type of triangle is it?",
+        "answer": "D",
+        "options": {
+            "A": "Equilateral",
+            "B": "Isosceles",
+            "C": "Scalene",
+            "D": "Right-angled"
+        }
+    },
+    {
+        "question": "Which movement takes you from (2, 2) to (2, 5)?",
+        "answer": "C",
+        "options": {
+            "A": "3 units right",
+            "B": "3 units left",
+            "C": "3 units up",
+            "D": "3 units down"
+        }
+    },
+    {
+        "question": "Which movement takes you from (6, 4) to (3, 4)?",
+        "answer": "B",
+        "options": {
+            "A": "3 units right",
+            "B": "3 units left",
+            "C": "3 units up",
+            "D": "3 units down"
+        }
+    },
+    {
+        "question": "A point is at (0, 3). Which axis is it on?",
+        "answer": "B",
+        "options": {
+            "A": "x-axis",
+            "B": "y-axis",
+            "C": "Both axes",
+            "D": "Neither axis"
+        }
+    },
+    {
+        "question": "A point is at (5, 0). Which axis is it on?",
+        "answer": "A",
+        "options": {
+            "A": "x-axis",
+            "B": "y-axis",
+            "C": "Both axes",
+            "D": "Neither axis"
+        }
+    },
+    {
+        "question": "What are the coordinates of the point halfway between (0,0) and (4,0)?",
+        "answer": "B",
+        "options": {
+            "A": "(0, 2)",
+            "B": "(2, 0)",
+            "C": "(4, 2)",
+            "D": "(2, 2)"
+        }
+    },
+    {
+        "question": "What are the coordinates of the point halfway between (0,0) and (0,6)?",
+        "answer": "A",
+        "options": {
+            "A": "(0, 3)",
+            "B": "(3, 0)",
+            "C": "(0, 6)",
+            "D": "(6, 0)"
+        }
+    },
+    {
+        "question": "A shape has points at (1,2), (1,4), (3,4), and (3,2). What shape is it?",
+        "answer": "B",
+        "options": {
+            "A": "Triangle",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Pentagon"
+        }
+    },
+    {
+        "question": "Which point is NOT in the first quadrant?",
+        "answer": "D",
+        "options": {
+            "A": "(2, 3)",
+            "B": "(0, 5)",
+            "C": "(4, 0)",
+            "D": "(-1, 2)"
+        }
+    },
+    {
+        "question": "A point starts at (3, 5). It moves 2 units left and 1 unit up. Where is it now?",
+        "answer": "A",
+        "options": {
+            "A": "(1, 6)",
+            "B": "(5, 6)",
+            "C": "(1, 4)",
+            "D": "(5, 4)"
+        }
+    },
+    {
+        "question": "A point starts at (4, 6). It moves 3 units down and 2 units right. Where is it now?",
+        "answer": "B",
+        "options": {
+            "A": "(1, 3)",
+            "B": "(6, 3)",
+            "C": "(1, 9)",
+            "D": "(6, 9)"
+        }
+    },
+    {
+        "question": "Which coordinates are written correctly?",
+        "answer": "C",
+        "options": {
+            "A": "3, 4",
+            "B": "(3 4)",
+            "C": "(3, 4)",
+            "D": "[3, 4]"
+        }
+    },
+    {
+        "question": "A square has vertices at (2,2), (2,5), (5,5), and one missing point. What are the coordinates of the missing point?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 2)",
+            "B": "(2, 3)",
+            "C": "(3, 2)",
+            "D": "(5, 3)"
+        }
+    },
+    {
+        "question": "A rectangle has vertices at (1,1), (1,4), (6,4), and one missing point. What are the coordinates of the missing point?",
+        "answer": "A",
+        "options": {
+            "A": "(6, 1)",
+            "B": "(4, 1)",
+            "C": "(1, 6)",
+            "D": "(4, 6)"
+        }
+    },
+    {
+        "question": "Which point is 4 units to the right of (1, 3)?",
+        "answer": "B",
+        "options": {
+            "A": "(1, 7)",
+            "B": "(5, 3)",
+            "C": "(1, -1)",
+            "D": "(-3, 3)"
+        }
+    },
+    {
+        "question": "Which point is 2 units below (5, 6)?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 4)",
+            "B": "(3, 6)",
+            "C": "(5, 8)",
+            "D": "(7, 6)"
+        }
+    },
+    {
+        "question": "What is the x-coordinate of (7, 9)?",
+        "answer": "A",
+        "options": {
+            "A": "7",
+            "B": "9",
+            "C": "16",
+            "D": "2"
+        }
+    },
+    {
+        "question": "What is the y-coordinate of (8, 2)?",
+        "answer": "B",
+        "options": {
+            "A": "8",
+            "B": "2",
+            "C": "10",
+            "D": "6"
+        }
+    },
+    {
+        "question": "A triangle has points at (0,0), (3,0), and (0,4). Which point is the right angle?",
+        "answer": "A",
+        "options": {
+            "A": "(0,0)",
+            "B": "(3,0)",
+            "C": "(0,4)",
+            "D": "None \u2014 it\u2019s not right-angled"
+        }
+    },
+    {
+        "question": "If you move from (2, 3) to (5, 3), how many units did you move?",
+        "answer": "B",
+        "options": {
+            "A": "2 units",
+            "B": "3 units",
+            "C": "5 units",
+            "D": "8 units"
+        }
+    },
+    {
+        "question": "If you move from (4, 7) to (4, 2), how many units did you move?",
+        "answer": "C",
+        "options": {
+            "A": "2 units",
+            "B": "4 units",
+            "C": "5 units",
+            "D": "7 units"
+        }
+    },
+    {
+        "question": "Which point is at the same height as (3, 5)?",
+        "answer": "B",
+        "options": {
+            "A": "(1, 3)",
+            "B": "(6, 5)",
+            "C": "(3, 2)",
+            "D": "(5, 1)"
+        }
+    },
+    {
+        "question": "Which point is in the same column as (4, 1)?",
+        "answer": "B",
+        "options": {
+            "A": "(1, 4)",
+            "B": "(4, 6)",
+            "C": "(6, 1)",
+            "D": "(1, 1)"
+        }
+    },
+    {
+        "question": "A shape has vertices at (2,3), (4,3), (4,5), and (2,5). What is its perimeter?",
+        "answer": "C",
+        "options": {
+            "A": "4 units",
+            "B": "6 units",
+            "C": "8 units",
+            "D": "10 units"
+        }
+    },
+    {
+        "question": "A rectangle has width 3 units and height 2 units. One corner is at (1,1). Which could be the opposite corner?",
+        "answer": "B",
+        "options": {
+            "A": "(3, 2)",
+            "B": "(4, 3)",
+            "C": "(2, 4)",
+            "D": "(1, 3)"
+        }
+    },
+    {
+        "question": "Which point is farthest right?",
+        "answer": "D",
+        "options": {
+            "A": "(2, 5)",
+            "B": "(4, 1)",
+            "C": "(3, 6)",
+            "D": "(5, 0)"
+        }
+    },
+    {
+        "question": "Which point is highest up?",
+        "answer": "C",
+        "options": {
+            "A": "(2, 5)",
+            "B": "(4, 1)",
+            "C": "(3, 6)",
+            "D": "(5, 0)"
+        }
+    },
+    {
+        "question": "A point moves from (0,0) to (3,4). How many units right and up did it move?",
+        "answer": "A",
+        "options": {
+            "A": "3 right, 4 up",
+            "B": "4 right, 3 up",
+            "C": "7 right",
+            "D": "7 up"
+        }
+    },
+    {
+        "question": "A point moves from (5,2) to (1,2). How many units did it move?",
+        "answer": "C",
+        "options": {
+            "A": "1 unit",
+            "B": "2 units",
+            "C": "4 units",
+            "D": "5 units"
+        }
+    },
+    {
+        "question": "A point moves from (3,6) to (3,1). How many units did it move?",
+        "answer": "C",
+        "options": {
+            "A": "1 unit",
+            "B": "3 units",
+            "C": "5 units",
+            "D": "6 units"
+        }
+    },
+    {
+        "question": "What are the coordinates two units to the left of (5, 3)?",
+        "answer": "A",
+        "options": {
+            "A": "(3, 3)",
+            "B": "(5, 1)",
+            "C": "(7, 3)",
+            "D": "(5, 5)"
+        }
+    },
+    {
+        "question": "What are the coordinates one unit down from (4, 5)?",
+        "answer": "C",
+        "options": {
+            "A": "(3, 5)",
+            "B": "(5, 5)",
+            "C": "(4, 4)",
+            "D": "(4, 6)"
+        }
+    },
+    {
+        "question": "A square has side 2 units. One corner is at (1,1). Which could be the next corner going right?",
+        "answer": "B",
+        "options": {
+            "A": "(1, 3)",
+            "B": "(3, 1)",
+            "C": "(2, 1)",
+            "D": "(1, 2)"
+        }
+    },
+    {
+        "question": "A shape has points at (0,0), (2,0), (2,2), and (0,2). What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "2 square units",
+            "B": "4 square units",
+            "C": "6 square units",
+            "D": "8 square units"
+        }
+    },
+    {
+        "question": "A rectangle has corners at (1,2), (1,5), (4,5), and (4,2). What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "6 square units",
+            "B": "8 square units",
+            "C": "9 square units",
+            "D": "12 square units"
+        }
+    },
+    {
+        "question": "Which movement is described by \u20184 units left and 2 units up\u2019 from (6, 1)?",
+        "answer": "A",
+        "options": {
+            "A": "(2, 3)",
+            "B": "(10, 3)",
+            "C": "(2, -1)",
+            "D": "(10, -1)"
+        }
+    },
+    {
+        "question": "Which movement is described by \u20183 units right and 5 units down\u2019 from (2, 8)?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 3)",
+            "B": "(-1, 3)",
+            "C": "(5, 13)",
+            "D": "(-1, 13)"
+        }
+    },
+    {
+        "question": "A triangle has vertices at (1,1), (4,1), and (2,3). What is the length of the base?",
+        "answer": "B",
+        "options": {
+            "A": "2 units",
+            "B": "3 units",
+            "C": "4 units",
+            "D": "5 units"
+        }
+    },
+    {
+        "question": "A point is at (3, 4). Which point is 2 units away to the right?",
+        "answer": "B",
+        "options": {
+            "A": "(3, 6)",
+            "B": "(5, 4)",
+            "C": "(1, 4)",
+            "D": "(3, 2)"
+        }
+    },
+    {
+        "question": "A point is at (5, 5). Which point is 3 units down?",
+        "answer": "C",
+        "options": {
+            "A": "(5, 8)",
+            "B": "(8, 5)",
+            "C": "(5, 2)",
+            "D": "(2, 5)"
+        }
+    },
+    {
+        "question": "Which point lies on the line x = 3?",
+        "answer": "B",
+        "options": {
+            "A": "(1, 3)",
+            "B": "(3, 5)",
+            "C": "(4, 3)",
+            "D": "(0, 3)"
+        }
+    },
+    {
+        "question": "Which point lies on the line y = 4?",
+        "answer": "C",
+        "options": {
+            "A": "(2, 3)",
+            "B": "(4, 2)",
+            "C": "(1, 4)",
+            "D": "(5, 1)"
+        }
+    },
+    {
+        "question": "A shape has points at (2,1), (5,1), (5,3), and (2,3). Which side is vertical?",
+        "answer": "B",
+        "options": {
+            "A": "From (2,1) to (5,1)",
+            "B": "From (5,1) to (5,3)",
+            "C": "From (5,3) to (2,3)",
+            "D": "From (2,3) to (2,1)"
+        }
+    },
+    {
+        "question": "A shape has points at (1,2), (4,2), (4,5), and (1,5). Which side is horizontal?",
+        "answer": "A",
+        "options": {
+            "A": "From (1,2) to (4,2)",
+            "B": "From (4,2) to (4,5)",
+            "C": "From (4,5) to (1,5)",
+            "D": "From (1,5) to (1,2)"
+        }
+    },
+    {
+        "question": "What is the missing coordinate in (4, __) if the point is 4 units up from (4, 0)?",
+        "answer": "C",
+        "options": {
+            "A": "0",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        }
+    },
+    {
+        "question": "What is the missing coordinate in (__, 3) if the point is 5 units right from (0, 3)?",
+        "answer": "C",
+        "options": {
+            "A": "0",
+            "B": "3",
+            "C": "5",
+            "D": "8"
+        }
+    },
+    {
+        "question": "A path goes from (1,1) \u2192 (1,4) \u2192 (3,4). How many units long is the path?",
+        "answer": "B",
+        "options": {
+            "A": "3 units",
+            "B": "5 units",
+            "C": "6 units",
+            "D": "7 units"
+        }
+    },
+    {
+        "question": "A path goes from (2,2) \u2192 (5,2) \u2192 (5,5) \u2192 (2,5). What shape does it make?",
+        "answer": "B",
+        "options": {
+            "A": "Triangle",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Pentagon"
+        }
+    },
+    {
+        "question": "Which point is 1 unit right and 1 unit up from (0,0)?",
+        "answer": "C",
+        "options": {
+            "A": "(0, 1)",
+            "B": "(1, 0)",
+            "C": "(1, 1)",
+            "D": "(2, 2)"
+        }
+    },
+    {
+        "question": "Which point is 2 units right and 3 units up from (1,1)?",
+        "answer": "C",
+        "options": {
+            "A": "(2, 3)",
+            "B": "(3, 2)",
+            "C": "(3, 4)",
+            "D": "(4, 3)"
+        }
+    },
+    {
+        "question": "A square has vertices at (0,0), (0,2), (2,2), and (2,0). What is the coordinate of the top-right corner?",
+        "answer": "D",
+        "options": {
+            "A": "(0, 0)",
+            "B": "(0, 2)",
+            "C": "(2, 0)",
+            "D": "(2, 2)"
+        }
+    },
+    {
+        "question": "A rectangle has vertices at (1,1), (1,3), (4,3), and (4,1). What is the coordinate of the bottom-left corner?",
+        "answer": "A",
+        "options": {
+            "A": "(1, 1)",
+            "B": "(1, 3)",
+            "C": "(4, 1)",
+            "D": "(4, 3)"
+        }
+    },
+    {
+        "question": "If (x, y) = (6, 2), what is x + y?",
+        "answer": "C",
+        "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "12"
+        }
+    },
+    {
+        "question": "If (x, y) = (3, 7), what is y \u2212 x?",
+        "answer": "A",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "10",
+            "D": "21"
+        }
+    },
+    {
+        "question": "A point moves from (3, 2) to (7, 5). How many units right and up?",
+        "answer": "B",
+        "options": {
+            "A": "3 right, 4 up",
+            "B": "4 right, 3 up",
+            "C": "5 right, 2 up",
+            "D": "2 right, 5 up"
+        }
+    },
+    {
+        "question": "A point moves from (5, 6) to (2, 3). How many units left and down?",
+        "answer": "C",
+        "options": {
+            "A": "2 left, 3 down",
+            "B": "3 left, 2 down",
+            "C": "3 left, 3 down",
+            "D": "2 left, 2 down"
+        }
+    },
+    {
+        "question": "Which shape has vertices at (1,1), (3,1), and (2,3)?",
+        "answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Triangle",
+            "D": "Pentagon"
+        }
+    },
+    {
+        "question": "Which shape has vertices at (0,0), (2,0), (2,1), (1,2), and (0,1)?",
+        "answer": "C",
+        "options": {
+            "A": "Triangle",
+            "B": "Quadrilateral",
+            "C": "Pentagon",
+            "D": "Hexagon"
+        }
+    },
+    {
+        "question": "A point is at (4, 5). To get to (4, 5), you move 4 right and 5 up from where?",
+        "answer": "A",
+        "options": {
+            "A": "(0, 0)",
+            "B": "(4, 0)",
+            "C": "(0, 5)",
+            "D": "(8, 10)"
+        }
+    },
+    {
+        "question": "To get to (6, 3), you move 2 right and 1 up from which point?",
+        "answer": "A",
+        "options": {
+            "A": "(4, 2)",
+            "B": "(8, 4)",
+            "C": "(6, 2)",
+            "D": "(4, 4)"
+        }
+    },
+    {
+        "question": "A shape has points at (1,1), (1,4), (3,4), and (3,1). Which point is the top-left?",
+        "answer": "B",
+        "options": {
+            "A": "(1, 1)",
+            "B": "(1, 4)",
+            "C": "(3, 1)",
+            "D": "(3, 4)"
+        }
+    },
+    {
+        "question": "A shape has points at (2,2), (5,2), (5,4), and (2,4). Which point is the bottom-right?",
+        "answer": "B",
+        "options": {
+            "A": "(2, 2)",
+            "B": "(5, 2)",
+            "C": "(5, 4)",
+            "D": "(2, 4)"
+        }
+    },
+    {
+        "question": "What is the coordinate of the point directly above (3, 2) at the same x?",
+        "answer": "C",
+        "options": {
+            "A": "(2, 2)",
+            "B": "(4, 2)",
+            "C": "(3, 3)",
+            "D": "(3, 1)"
+        }
+    },
+    {
+        "question": "What is the coordinate of the point directly to the right of (2, 5) at the same y?",
+        "answer": "D",
+        "options": {
+            "A": "(1, 5)",
+            "B": "(2, 4)",
+            "C": "(2, 6)",
+            "D": "(3, 5)"
+        }
+    },
+    {
+        "question": "A rectangle has width 4 and height 3. Bottom-left corner at (1,1). What are the other three corners?",
+        "answer": "C",
+        "options": {
+            "A": "(1,4), (5,4), (5,1)",
+            "B": "(1,3), (4,3), (4,1)",
+            "C": "(5,1), (5,4), (1,4)",
+            "D": "(4,1), (4,4), (1,4)"
+        }
+    },
+    {
+        "question": "A square has side 3. Bottom-left at (2,2). What is the top-right corner?",
+        "answer": "C",
+        "options": {
+            "A": "(2, 5)",
+            "B": "(5, 2)",
+            "C": "(5, 5)",
+            "D": "(2, 2)"
+        }
+    },
+    {
+        "question": "Which point is closest to (3,3)?",
+        "answer": "B",
+        "options": {
+            "A": "(1, 1)",
+            "B": "(2, 3)",
+            "C": "(5, 5)",
+            "D": "(3, 6)"
+        }
+    },
+    {
+        "question": "Which point is farthest from (0,0)?",
+        "answer": "B",
+        "options": {
+            "A": "(1, 1)",
+            "B": "(4, 3)",
+            "C": "(3, 2)",
+            "D": "(2, 2)"
+        }
+    },
+    {
+        "question": "A point moves 0 units right and 4 units up from (3, 1). Where is it?",
+        "answer": "B",
+        "options": {
+            "A": "(3, 1)",
+            "B": "(3, 5)",
+            "C": "(7, 1)",
+            "D": "(0, 4)"
+        }
+    },
+    {
+        "question": "A point moves 5 units right and 0 units up from (0, 2). Where is it?",
+        "answer": "C",
+        "options": {
+            "A": "(0, 2)",
+            "B": "(0, 7)",
+            "C": "(5, 2)",
+            "D": "(2, 5)"
+        }
+    },
+    {
+        "question": "Which translation takes (2, 3) to (5, 1)?",
+        "answer": "B",
+        "options": {
+            "A": "3 right, 2 up",
+            "B": "3 right, 2 down",
+            "C": "3 left, 2 up",
+            "D": "3 left, 2 down"
+        }
+    },
+    {
+        "question": "Which translation takes (4, 5) to (1, 7)?",
+        "answer": "A",
+        "options": {
+            "A": "3 left, 2 up",
+            "B": "3 right, 2 down",
+            "C": "3 left, 2 down",
+            "D": "3 right, 2 up"
+        }
+    },
+    {
+        "question": "A shape has vertices at (1,3), (3,3), (3,5), and (1,5). What is its height?",
+        "answer": "B",
+        "options": {
+            "A": "1 unit",
+            "B": "2 units",
+            "C": "3 units",
+            "D": "4 units"
+        }
+    },
+    {
+        "question": "A shape has vertices at (2,1), (5,1), (5,4), and (2,4). What is its width?",
+        "answer": "B",
+        "options": {
+            "A": "2 units",
+            "B": "3 units",
+            "C": "4 units",
+            "D": "5 units"
+        }
+    },
+    {
+        "question": "What are the coordinates of the centre of a square with corners at (1,1), (1,3), (3,3), and (3,1)?",
+        "answer": "B",
+        "options": {
+            "A": "(1, 1)",
+            "B": "(2, 2)",
+            "C": "(3, 3)",
+            "D": "(1, 3)"
+        }
+    },
+    {
+        "question": "A point is midway between (0,2) and (4,2). What are its coordinates?",
+        "answer": "B",
+        "options": {
+            "A": "(0, 2)",
+            "B": "(2, 2)",
+            "C": "(4, 2)",
+            "D": "(2, 0)"
+        }
+    },
+    {
+        "question": "A point is midway between (1,1) and (1,5). What are its coordinates?",
+        "answer": "B",
+        "options": {
+            "A": "(1, 1)",
+            "B": "(1, 3)",
+            "C": "(1, 5)",
+            "D": "(3, 1)"
+        }
+    },
+    {
+        "question": "Which point completes a square with (0,0), (0,2), and (2,0)?",
+        "answer": "A",
+        "options": {
+            "A": "(2, 2)",
+            "B": "(0, 1)",
+            "C": "(1, 0)",
+            "D": "(1, 1)"
+        }
+    },
+    {
+        "question": "Which point completes a rectangle with (1,1), (1,4), and (5,1)?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 4)",
+            "B": "(4, 1)",
+            "C": "(1, 5)",
+            "D": "(4, 5)"
+        }
+    },
+    {
+        "question": "A triangle has base from (2,3) to (6,3). The third point is (4,5). What is the height?",
+        "answer": "B",
+        "options": {
+            "A": "1 unit",
+            "B": "2 units",
+            "C": "3 units",
+            "D": "4 units"
+        }
+    },
+    {
+        "question": "A square has side 1 unit. One corner at (3,4). Which could be an adjacent corner?",
+        "answer": "A",
+        "options": {
+            "A": "(3, 5)",
+            "B": "(4, 5)",
+            "C": "(2, 3)",
+            "D": "(5, 4)"
+        }
+    },
+    {
+        "question": "A point moves from (1,2) to (4,6). How many units right and up?",
+        "answer": "A",
+        "options": {
+            "A": "3 right, 4 up",
+            "B": "4 right, 3 up",
+            "C": "5 right, 8 up",
+            "D": "2 right, 3 up"
+        }
+    },
+    {
+        "question": "Which movement is the same as \u20182 right and 3 up\u2019?",
+        "answer": "A",
+        "options": {
+            "A": "3 up and 2 right",
+            "B": "2 up and 3 right",
+            "C": "5 right",
+            "D": "5 up"
+        }
+    },
+    {
+        "question": "A shape has points at (0,1), (2,1), (2,3), and (0,3). What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        }
+    },
+    {
+        "question": "A rectangle has width 5 and height 2. Area = ?",
+        "answer": "B",
+        "options": {
+            "A": "7",
+            "B": "10",
+            "C": "12",
+            "D": "15"
+        }
+    },
+    {
+        "question": "A point is at (x, y). If x = 4 and y = x + 1, what are the coordinates?",
+        "answer": "C",
+        "options": {
+            "A": "(4, 3)",
+            "B": "(4, 4)",
+            "C": "(4, 5)",
+            "D": "(5, 4)"
+        }
+    },
+    {
+        "question": "A point is at (x, y). If y = 3 and x = y \u2212 2, what are the coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(1, 3)",
+            "B": "(3, 1)",
+            "C": "(5, 3)",
+            "D": "(3, 5)"
+        }
+    },
+    {
+        "question": "Which point is 3 units away from (2,2) horizontally?",
+        "answer": "B",
+        "options": {
+            "A": "(2, 5)",
+            "B": "(5, 2)",
+            "C": "(2, -1)",
+            "D": "(-1, 2)"
+        }
+    },
+    {
+        "question": "Which point is 2 units away from (4,3) vertically?",
+        "answer": "A",
+        "options": {
+            "A": "(4, 5)",
+            "B": "(6, 3)",
+            "C": "(2, 3)",
+            "D": "(4, 1)"
+        }
+    },
+    {
+        "question": "A path: Start (0,0) \u2192 2 right \u2192 3 up \u2192 1 left. Where do you end?",
+        "answer": "A",
+        "options": {
+            "A": "(1, 3)",
+            "B": "(2, 3)",
+            "C": "(1, 2)",
+            "D": "(3, 3)"
+        }
+    },
+    {
+        "question": "A path: Start (1,1) \u2192 3 up \u2192 2 right \u2192 1 down. Where do you end?",
+        "answer": "A",
+        "options": {
+            "A": "(3, 3)",
+            "B": "(2, 3)",
+            "C": "(3, 2)",
+            "D": "(1, 3)"
+        }
+    },
+    {
+        "question": "Which shape has all vertices with x = 2?",
+        "answer": "B",
+        "options": {
+            "A": "Horizontal line",
+            "B": "Vertical line",
+            "C": "Square",
+            "D": "Triangle"
+        }
+    },
+    {
+        "question": "Which shape has all vertices with y = 5?",
+        "answer": "A",
+        "options": {
+            "A": "Horizontal line",
+            "B": "Vertical line",
+            "C": "Square",
+            "D": "Triangle"
+        }
+    },
+    {
+        "question": "A rectangle has corners at (2,3) and (5,7). What is its width?",
+        "answer": "B",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        }
+    },
+    {
+        "question": "A rectangle has corners at (1,2) and (4,6). What is its height?",
+        "answer": "C",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        }
+    },
+    {
+        "question": "A point moves from (3, 4) to (7, 1). What is the change in x?",
+        "answer": "B",
+        "options": {
+            "A": "+3",
+            "B": "+4",
+            "C": "\u22123",
+            "D": "\u22124"
+        }
+    },
+    {
+        "question": "A point moves from (6, 5) to (2, 8). What is the change in y?",
+        "answer": "A",
+        "options": {
+            "A": "+3",
+            "B": "\u22123",
+            "C": "+4",
+            "D": "\u22124"
+        }
+    },
+    {
+        "question": "Which point is at (x, y) where x = 3 \u00d7 2 and y = 4 + 1?",
+        "answer": "B",
+        "options": {
+            "A": "(5, 5)",
+            "B": "(6, 5)",
+            "C": "(3, 6)",
+            "D": "(2, 4)"
+        }
+    },
+    {
+        "question": "Which point is at (x, y) where x = 10 \u00f7 2 and y = 9 \u2212 3?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 6)",
+            "B": "(2, 6)",
+            "C": "(5, 3)",
+            "D": "(10, 9)"
+        }
+    },
+    {
+        "question": "A shape has vertices at (1,1), (4,1), (4,2), and (1,2). What is it?",
+        "answer": "B",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Triangle",
+            "D": "Trapezium"
+        }
+    },
+    {
+        "question": "A shape has vertices at (2,3), (5,3), (5,6), and (2,6). What is its perimeter?",
+        "answer": "C",
+        "options": {
+            "A": "6",
+            "B": "9",
+            "C": "12",
+            "D": "15"
+        }
+    },
+    {
+        "question": "A point is translated 4 units right. Its x-coordinate increases by:",
+        "answer": "C",
+        "options": {
+            "A": "0",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        }
+    },
+    {
+        "question": "A point is translated 5 units down. Its y-coordinate decreases by:",
+        "answer": "C",
+        "options": {
+            "A": "0",
+            "B": "3",
+            "C": "5",
+            "D": "10"
+        }
+    },
+    {
+        "question": "Which point could be the top vertex of an isosceles triangle with base from (1,1) to (5,1)?",
+        "answer": "C",
+        "options": {
+            "A": "(1, 3)",
+            "B": "(5, 3)",
+            "C": "(3, 3)",
+            "D": "(0, 1)"
+        }
+    },
+    {
+        "question": "A square has perimeter 8 units. One corner at (1,1). What is the next corner to the right?",
+        "answer": "B",
+        "options": {
+            "A": "(1, 3)",
+            "B": "(3, 1)",
+            "C": "(2, 1)",
+            "D": "(1, 2)"
+        }
+    },
+    {
+        "question": "A rectangle has area 6 square units and width 2 units. What is its height?",
+        "answer": "B",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "6"
+        }
+    },
+    {
+        "question": "A rectangle has area 12 and height 3. What is its width?",
+        "answer": "B",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "6",
+            "D": "9"
+        }
+    },
+    {
+        "question": "If (x, y) = (a + 1, b \u2212 2) and a = 3, b = 5, what are the coordinates?",
+        "answer": "B",
+        "options": {
+            "A": "(2, 7)",
+            "B": "(4, 3)",
+            "C": "(3, 5)",
+            "D": "(5, 2)"
+        }
+    },
+    {
+        "question": "A point moves from (x, y) to (x + 2, y \u2212 3). What translation is this?",
+        "answer": "D",
+        "options": {
+            "A": "2 left, 3 up",
+            "B": "2 right, 3 up",
+            "C": "2 left, 3 down",
+            "D": "2 right, 3 down"
+        }
+    },
+    {
+        "question": "Which point is at the same distance from the x-axis as (3, 4)?",
+        "answer": "D",
+        "options": {
+            "A": "(3, -4)",
+            "B": "(4, 3)",
+            "C": "(3, 4)",
+            "D": "(0, 4)"
+        }
+    },
+    {
+        "question": "Which point is at the same distance from the y-axis as (5, 2)?",
+        "answer": "C",
+        "options": {
+            "A": "(-5, 2)",
+            "B": "(2, 5)",
+            "C": "(5, 0)",
+            "D": "(3, 2)"
+        }
+    },
+    {
+        "question": "A shape has points at (0,0), (3,0), (3,2), and (0,2). Which side is 2 units long?",
+        "answer": "C",
+        "options": {
+            "A": "Bottom",
+            "B": "Top",
+            "C": "Left",
+            "D": "Right"
+        }
+    },
+    {
+        "question": "A shape has points at (1,1), (4,1), (4,3), and (1,3). Which side is 3 units long?",
+        "answer": "A",
+        "options": {
+            "A": "Bottom",
+            "B": "Top",
+            "C": "Left",
+            "D": "Right"
+        }
+    },
+    {
+        "question": "A point is at (5, 2). How many units right and up is it from the origin (0,0)?",
+        "answer": "A",
+        "options": {
+            "A": "5 right, 2 up",
+            "B": "2 right, 5 up",
+            "C": "5 left, 2 down",
+            "D": "2 left, 5 up"
+        }
+    },
+    {
+        "question": "Which point is at (3, 4)?",
+        "answer": "B",
+        "options": {
+            "A": "3 units up, 4 units right",
+            "B": "3 units right, 4 units up",
+            "C": "4 units left, 3 units down",
+            "D": "7 units from the origin diagonally"
+        }
+    },
+    {
+        "question": "A triangle has vertices at (1,1), (4,1), and (1,4). What type of triangle is it?",
+        "answer": "D",
+        "options": {
+            "A": "Equilateral",
+            "B": "Isosceles",
+            "C": "Scalene",
+            "D": "Right-angled"
+        }
+    },
+    {
+        "question": "Start at (2, 3). Move 2 units right and 1 unit up. Where do you end?",
+        "answer": "B",
+        "options": {
+            "A": "(3, 5)",
+            "B": "(4, 4)",
+            "C": "(0, 2)",
+            "D": "(4, 3)"
+        }
+    },
+    {
+        "question": "Which coordinates describe a point that is 6 units right and 1 unit up from the origin?",
+        "answer": "C",
+        "options": {
+            "A": "(1, 6)",
+            "B": "(6, 0)",
+            "C": "(6, 1)",
+            "D": "(5, 1)"
+        }
+    },
+    {
+        "question": "A rectangle has three vertices at (2,1), (2,4), and (5,4). What are the coordinates of the fourth vertex?",
+        "answer": "A",
+        "options": {
+            "A": "(5,1)",
+            "B": "(1,5)",
+            "C": "(4,2)",
+            "D": "(5,5)"
+        }
+    },
+    {
+        "question": "From (4, 5), a translation moves 3 units left and 2 units down. What are the new coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(1, 3)",
+            "B": "(7, 3)",
+            "C": "(1, 7)",
+            "D": "(7, 7)"
+        }
+    },
+    {
+        "question": "Which point is NOT on the same horizontal line as (3, 2)?",
+        "answer": "C",
+        "options": {
+            "A": "(1, 2)",
+            "B": "(5, 2)",
+            "C": "(3, 4)",
+            "D": "(0, 2)"
+        }
+    },
+    {
+        "question": "A shape has vertices at (1,2), (3,2), (3,4), and (1,4). What shape is it?",
+        "answer": "C",
+        "options": {
+            "A": "Triangle",
+            "B": "Rhombus",
+            "C": "Rectangle",
+            "D": "Trapezium"
+        }
+    },
+    {
+        "question": "Starting at (0,0), you move to (6,0), then to (6,3). What translation gets you from (0,0) to (6,3) directly?",
+        "answer": "A",
+        "options": {
+            "A": "6 right, 3 up",
+            "B": "6 up, 3 right",
+            "C": "9 units diagonally",
+            "D": "3 right, 6 up"
+        }
+    },
+    {
+        "question": "Which pair of points are 4 units apart vertically?",
+        "answer": "A",
+        "options": {
+            "A": "(2,1) and (2,5)",
+            "B": "(1,2) and (5,2)",
+            "C": "(3,3) and (7,3)",
+            "D": "(4,0) and (0,4)"
+        }
+    },
+    {
+        "question": "A point moves from (3,4) to (5,1). How was it translated?",
+        "answer": "C",
+        "options": {
+            "A": "2 right, 3 up",
+            "B": "2 left, 3 down",
+            "C": "2 right, 3 down",
+            "D": "3 right, 2 down"
+        }
+    },
+    {
+        "question": "Which coordinates could be a vertex of a square with other vertices at (0,0), (0,2), and (2,0)?",
+        "answer": "A",
+        "options": {
+            "A": "(2,2)",
+            "B": "(1,1)",
+            "C": "(2,1)",
+            "D": "(1,2)"
+        }
+    },
+    {
+        "question": "A shape is drawn by plotting (1,1), (4,1), (4,3), and (1,3), then joining them in order. What is the perimeter?",
+        "answer": "C",
+        "options": {
+            "A": "6 units",
+            "B": "8 units",
+            "C": "10 units",
+            "D": "12 units"
+        }
+    },
+    {
+        "question": "Which point lies on the line joining (1,1) and (1,5)?",
+        "answer": "B",
+        "options": {
+            "A": "(2,3)",
+            "B": "(1,3)",
+            "C": "(3,1)",
+            "D": "(0,0)"
+        }
+    },
+    {
+        "question": "After a translation of 4 units right and 1 unit down, a point ends at (7,2). Where did it start?",
+        "answer": "A",
+        "options": {
+            "A": "(3,3)",
+            "B": "(11,1)",
+            "C": "(3,1)",
+            "D": "(11,3)"
+        }
+    },
+    {
+        "question": "A triangle has vertices at (2,2), (5,2), and (2,6). What is the length of the longest side?",
+        "answer": "C",
+        "options": {
+            "A": "3 units",
+            "B": "4 units",
+            "C": "5 units",
+            "D": "6 units"
+        }
+    },
+    {
+        "question": "Which is true about all points with y-coordinate 4?",
+        "answer": "C",
+        "options": {
+            "A": "They lie on a vertical line.",
+            "B": "They are all 4 units from the origin.",
+            "C": "They lie on a horizontal line.",
+            "D": "They form a square with the origin."
+        }
+    },
+    {
+        "question": "A point at (6,3) is translated to (2,5). Describe the movement.",
+        "answer": "A",
+        "options": {
+            "A": "4 left, 2 up",
+            "B": "4 right, 2 down",
+            "C": "2 left, 4 up",
+            "D": "2 right, 4 down"
+        }
+    },
+    {
+        "question": "Plot the points (1,1), (3,1), (4,3), and (2,3). What shape do they form?",
+        "answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Parallelogram",
+            "D": "Trapezium"
+        }
+    },
+    {
+        "question": "Which point is exactly halfway between (2,2) and (6,6)?",
+        "answer": "B",
+        "options": {
+            "A": "(3,3)",
+            "B": "(4,4)",
+            "C": "(5,5)",
+            "D": "(2,6)"
+        }
+    },
+    {
+        "question": "A shape has a vertex at (3,5). After moving 1 unit left and 3 units down, where is the new vertex?",
+        "answer": "A",
+        "options": {
+            "A": "(2,2)",
+            "B": "(4,2)",
+            "C": "(2,8)",
+            "D": "(4,8)"
+        }
+    },
+    {
+        "question": "Which coordinates complete a rectangle with (1,2), (1,5), and (4,2)?",
+        "answer": "A",
+        "options": {
+            "A": "(4,5)",
+            "B": "(5,4)",
+            "C": "(2,1)",
+            "D": "(5,1)"
+        }
+    },
+    {
+        "question": "A point starts at (0,3). It moves 5 right, then 2 up. Where is it now?",
+        "answer": "A",
+        "options": {
+            "A": "(5,5)",
+            "B": "(2,8)",
+            "C": "(5,1)",
+            "D": "(3,5)"
+        }
+    },
+    {
+        "question": "The points (2,1), (5,1), and (5,4) are three corners of a square. What is the fourth?",
+        "answer": "A",
+        "options": {
+            "A": "(2,4)",
+            "B": "(1,2)",
+            "C": "(4,5)",
+            "D": "(1,5)"
+        }
+    },
+    {
+        "question": "Which translation takes (1,4) to (4,2)?",
+        "answer": "C",
+        "options": {
+            "A": "3 right, 2 up",
+            "B": "3 left, 2 down",
+            "C": "3 right, 2 down",
+            "D": "2 right, 3 down"
+        }
+    },
+    {
+        "question": "A line goes through (0,2) and (5,2). Which point also lies on this line?",
+        "answer": "C",
+        "options": {
+            "A": "(2,0)",
+            "B": "(2,5)",
+            "C": "(3,2)",
+            "D": "(0,5)"
+        }
+    },
+    {
+        "question": "What are the coordinates of the point 3 units right and 5 units up from (1,1)?",
+        "answer": "B",
+        "options": {
+            "A": "(3,5)",
+            "B": "(4,6)",
+            "C": "(2,4)",
+            "D": "(5,3)"
+        }
+    },
+    {
+        "question": "A shape is made by joining (1,3), (4,3), (5,1), and (2,1). What is it?",
+        "answer": "A",
+        "options": {
+            "A": "Parallelogram",
+            "B": "Rhombus",
+            "C": "Trapezium",
+            "D": "Kite"
+        }
+    },
+    {
+        "question": "From (3,6), move 4 units left and 3 units up. Where are you?",
+        "answer": "A",
+        "options": {
+            "A": "(\u22121,9)",
+            "B": "(7,3)",
+            "C": "(\u22121,3)",
+            "D": "(7,9)"
+        }
+    },
+    {
+        "question": "Which set of points forms a right-angled triangle?",
+        "answer": "A",
+        "options": {
+            "A": "(1,1), (1,4), (5,4)",
+            "B": "(2,2), (4,3), (6,2)",
+            "C": "(0,0), (2,1), (1,3)",
+            "D": "(3,1), (5,2), (4,4)"
+        }
+    },
+    {
+        "question": "A point at (4,7) is moved 2 units down and 5 units left. What are the new coordinates?",
+        "answer": "C",
+        "options": {
+            "A": "(2,2)",
+            "B": "(9,5)",
+            "C": "(\u22121,5)",
+            "D": "(\u22121,9)"
+        }
+    },
+    {
+        "question": "A rectangle has width 4 and height 3. One corner is at (1,1). Which could be the opposite corner?",
+        "answer": "B",
+        "options": {
+            "A": "(4,3)",
+            "B": "(5,4)",
+            "C": "(1,4)",
+            "D": "(5,1)"
+        }
+    },
+    {
+        "question": "Which point is farthest from the origin (0,0)?",
+        "answer": "A",
+        "options": {
+            "A": "(3,4)",
+            "B": "(5,1)",
+            "C": "(2,5)",
+            "D": "(6,0)"
+        }
+    },
+    {
+        "question": "Which point is farthest from the origin (0,0)?",
+        "answer": "D",
+        "options": {
+            "A": "(3,4)",
+            "B": "(5,1)",
+            "C": "(2,5)",
+            "D": "(6,0)"
+        }
+    },
+    {
+        "question": "A square has side length 3. One vertex is at (2,2). Which could be another vertex?",
+        "answer": "A",
+        "options": {
+            "A": "(2,5)",
+            "B": "(3,3)",
+            "C": "(4,4)",
+            "D": "(5,3)"
+        }
+    },
+    {
+        "question": "Translate point (7,3) by 4 left and 1 up. New position?",
+        "answer": "A",
+        "options": {
+            "A": "(3,4)",
+            "B": "(11,2)",
+            "C": "(3,2)",
+            "D": "(11,4)"
+        }
+    },
+    {
+        "question": "A triangle has vertices at (1,3), (4,3), and (2,6). What is the base length if the base is horizontal?",
+        "answer": "B",
+        "options": {
+            "A": "2 units",
+            "B": "3 units",
+            "C": "4 units",
+            "D": "5 units"
+        }
+    },
+    {
+        "question": "Which two points are 5 units apart in a straight line (horizontal or vertical only)?",
+        "answer": "B",
+        "options": {
+            "A": "(1,1) and (6,2)",
+            "B": "(3,2) and (3,7)",
+            "C": "(0,0) and (3,4)",
+            "D": "(4,5) and (7,5)"
+        }
+    },
+    {
+        "question": "What is the y-coordinate of a point that is 4 units right and 6 units up from (0,0)?",
+        "answer": "C",
+        "options": {
+            "A": "0",
+            "B": "4",
+            "C": "6",
+            "D": "10"
+        }
+    },
+    {
+        "question": "A shape has points at (2,2), (5,2), (6,4), and (3,4). Which translation moves (2,2) to (3,4)?",
+        "answer": "A",
+        "options": {
+            "A": "1 right, 2 up",
+            "B": "1 left, 2 down",
+            "C": "2 right, 1 up",
+            "D": "3 right, 2 up"
+        }
+    },
+    {
+        "question": "Which point is NOT a vertex of the rectangle with corners at (1,1), (1,4), (5,4), and (5,1)?",
+        "answer": "B",
+        "options": {
+            "A": "(1,1)",
+            "B": "(4,5)",
+            "C": "(5,1)",
+            "D": "(1,4)"
+        }
+    },
+    {
+        "question": "Start at (3,2). Move to (3,5), then to (1,5). What single translation would go directly from start to end?",
+        "answer": "A",
+        "options": {
+            "A": "2 left, 3 up",
+            "B": "2 right, 3 down",
+            "C": "3 up, 2 left",
+            "D": "5 units diagonally"
+        }
+    },
+    {
+        "question": "A point is at (x, y). After moving 2 right and 3 down, it is at (6,1). What was (x, y)?",
+        "answer": "A",
+        "options": {
+            "A": "(4,4)",
+            "B": "(8,\u22122)",
+            "C": "(4,\u22122)",
+            "D": "(8,4)"
+        }
+    },
+    {
+        "question": "Which of these is a possible set of vertices for a square?",
+        "answer": "A",
+        "options": {
+            "A": "(0,0), (0,2), (2,0), (2,2)",
+            "B": "(1,1), (1,3), (3,2), (3,0)",
+            "C": "(2,1), (4,1), (5,3), (3,3)",
+            "D": "(0,1), (2,1), (2,4), (0,4)"
+        }
+    },
+    {
+        "question": "The point (4,3) is reflected over the vertical line x=2. Where is the image?",
+        "answer": "A",
+        "options": {
+            "A": "(0,3)",
+            "B": "(2,3)",
+            "C": "(4,1)",
+            "D": "(6,3)"
+        }
+    },
+    {
+        "question": "A path goes from (1,1) \u2192 (1,4) \u2192 (5,4) \u2192 (5,1). What shape does it enclose?",
+        "answer": "C",
+        "options": {
+            "A": "Triangle",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Trapezium"
+        }
+    },
+    {
+        "question": "Which translation moves every point of a shape 3 units right and 2 units down?",
+        "answer": "A",
+        "options": {
+            "A": "(x, y) \u2192 (x+3, y\u22122)",
+            "B": "(x, y) \u2192 (x\u22123, y+2)",
+            "C": "(x, y) \u2192 (x+2, y\u22123)",
+            "D": "(x, y) \u2192 (x\u22122, y+3)"
+        }
+    },
+    {
+        "question": "A point P is at (5,2). A point Q is at (2,6). How far apart are they horizontally?",
+        "answer": "A",
+        "options": {
+            "A": "3 units",
+            "B": "4 units",
+            "C": "5 units",
+            "D": "7 units"
+        }
+    },
+    {
+        "question": "Plot (1,2), (4,5), (7,2). What type of triangle is formed?",
+        "answer": "B",
+        "options": {
+            "A": "Equilateral",
+            "B": "Isosceles",
+            "C": "Scalene",
+            "D": "Right-angled"
+        }
+    },
+    {
+        "question": "A rectangle has vertices at (0,1), (a,1), (a,4), and (0,4). If its area is 12, what is a?",
+        "answer": "B",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        }
+    },
+    {
+        "question": "From (2,5), which move leads to (5,3)?",
+        "answer": "C",
+        "options": {
+            "A": "3 right, 2 up",
+            "B": "3 left, 2 down",
+            "C": "3 right, 2 down",
+            "D": "2 right, 3 down"
+        }
+    },
+    {
+        "question": "Which point lies on the same vertical line as (4,7)?",
+        "answer": "B",
+        "options": {
+            "A": "(7,4)",
+            "B": "(4,0)",
+            "C": "(0,7)",
+            "D": "(5,7)"
+        }
+    },
+    {
+        "question": "A shape is translated so that (1,3) moves to (4,1). Where does (2,5) go?",
+        "answer": "A",
+        "options": {
+            "A": "(5,3)",
+            "B": "(\u22121,7)",
+            "C": "(3,2)",
+            "D": "(6,0)"
+        }
+    },
+    {
+        "question": "The points (0,0), (3,0), (1.5,3) form a triangle. What type is it?",
+        "answer": "B",
+        "options": {
+            "A": "Scalene",
+            "B": "Isosceles",
+            "C": "Equilateral",
+            "D": "Right-angled"
+        }
+    },
+    {
+        "question": "A point is moved from (x, y) to (x\u22122, y+4). How was it translated?",
+        "answer": "A",
+        "options": {
+            "A": "2 left, 4 up",
+            "B": "2 right, 4 down",
+            "C": "4 left, 2 up",
+            "D": "4 right, 2 down"
+        }
+    },
+    {
+        "question": "Which coordinates are 3 units right and 2 units down from (4,5)?",
+        "answer": "B",
+        "options": {
+            "A": "(1,7)",
+            "B": "(7,3)",
+            "C": "(1,3)",
+            "D": "(7,7)"
+        }
+    },
+    {
+        "question": "A square has vertices at (2,1), (5,1), and (5,4). What is the fourth vertex?",
+        "answer": "A",
+        "options": {
+            "A": "(2,4)",
+            "B": "(1,2)",
+            "C": "(4,5)",
+            "D": "(3,3)"
+        }
+    },
+    {
+        "question": "Which statement is true about the point (0,5)?",
+        "answer": "C",
+        "options": {
+            "A": "It is on the x-axis.",
+            "B": "It is 5 units right of the origin.",
+            "C": "It is on the y-axis.",
+            "D": "It has x-coordinate 5."
+        }
+    },
+    {
+        "question": "A rectangle is drawn with corners at (1,2), (1,6), (4,6), and (4,2). What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "8",
+            "B": "10",
+            "C": "12",
+            "D": "16"
+        }
+    },
+    {
+        "question": "Which point is closest to (3,3)?",
+        "answer": "A",
+        "options": {
+            "A": "(1,4)",
+            "B": "(5,2)",
+            "C": "(2,1)",
+            "D": "(6,3)"
+        }
+    },
+    {
+        "question": "Which point is closest to (4,4)?",
+        "answer": "A",
+        "options": {
+            "A": "(2,3)",
+            "B": "(5,6)",
+            "C": "(7,4)",
+            "D": "(4,0)"
+        }
+    },
+    {
+        "question": "Which point is closest to (5,2)?",
+        "answer": "A",
+        "options": {
+            "A": "(4,3)",
+            "B": "(6,5)",
+            "C": "(8,2)",
+            "D": "(5,6)"
+        }
+    },
+    {
+        "question": "A point moves from (3,1) to (6,4). Which describes the move?",
+        "answer": "A",
+        "options": {
+            "A": "3 right, 3 up",
+            "B": "3 left, 3 down",
+            "C": "4 right, 6 up",
+            "D": "1 right, 3 up"
+        }
+    },
+    {
+        "question": "Which set of points forms a horizontal line segment?",
+        "answer": "A",
+        "options": {
+            "A": "(2,3) and (5,3)",
+            "B": "(3,2) and (3,5)",
+            "C": "(1,1) and (2,3)",
+            "D": "(4,0) and (0,4)"
+        }
+    },
+    {
+        "question": "A shape has a vertex at (6,2). After a translation of 3 left and 4 up, where is it?",
+        "answer": "A",
+        "options": {
+            "A": "(3,6)",
+            "B": "(9,6)",
+            "C": "(3,\u22122)",
+            "D": "(9,\u22122)"
+        }
+    },
+    {
+        "question": "The points (1,2), (4,2), and (2.5,5) form a triangle. What is special about it?",
+        "answer": "B",
+        "options": {
+            "A": "Right-angled",
+            "B": "Isosceles",
+            "C": "Equilateral",
+            "D": "Scalene"
+        }
+    },
+    {
+        "question": "Which coordinates are 5 units right and 0 units up/down from (2,7)?",
+        "answer": "B",
+        "options": {
+            "A": "(2,12)",
+            "B": "(7,7)",
+            "C": "(\u22123,7)",
+            "D": "(2,2)"
+        }
+    },
+    {
+        "question": "A parallelogram has vertices at (0,0), (3,0), (4,2), and one missing. What is the missing vertex?",
+        "answer": "A",
+        "options": {
+            "A": "(1,2)",
+            "B": "(2,1)",
+            "C": "(7,2)",
+            "D": "(3,2)"
+        }
+    },
+    {
+        "question": "Starting at (1,1), a translation of 2 right and 3 up, then 1 left and 1 down, ends where?",
+        "answer": "A",
+        "options": {
+            "A": "(2,3)",
+            "B": "(3,4)",
+            "C": "(1,2)",
+            "D": "(4,5)"
+        }
+    },
+    {
+        "question": "Which point is at the same height (y) as (5,3) and same horizontal position (x) as (2,7)?",
+        "answer": "B",
+        "options": {
+            "A": "(5,7)",
+            "B": "(2,3)",
+            "C": "(3,5)",
+            "D": "(7,2)"
+        }
+    },
+    {
+        "question": "A rectangle has vertices at (a,2), (a,5), (7,5), and (7,2). If the width is 4, what is a?",
+        "answer": "A",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "11"
+        }
+    },
+    {
+        "question": "Which translation would move (2,4) to a point with x=5 and y=1?",
+        "answer": "A",
+        "options": {
+            "A": "3 right, 3 down",
+            "B": "3 left, 3 up",
+            "C": "1 right, 3 down",
+            "D": "3 right, 1 down"
+        }
+    },
+    {
+        "question": "Plot (0,0), (4,0), (4,3), (0,3). What is the distance from (0,0) to (4,3)?",
+        "answer": "A",
+        "options": {
+            "A": "5 units",
+            "B": "6 units",
+            "C": "7 units",
+            "D": "12 units"
+        }
+    },
+    {
+        "question": "A point at (x, y) moves to (x+1, y\u22122). If it ends at (4,3), where did it start?",
+        "answer": "A",
+        "options": {
+            "A": "(3,5)",
+            "B": "(5,1)",
+            "C": "(3,1)",
+            "D": "(5,5)"
+        }
+    },
+    {
+        "question": "Which two points have the same x-coordinate?",
+        "answer": "B",
+        "options": {
+            "A": "(3,1) and (5,1)",
+            "B": "(2,4) and (2,7)",
+            "C": "(1,3) and (4,6)",
+            "D": "(0,5) and (5,0)"
+        }
+    },
+    {
+        "question": "A triangle has vertices at (1,1), (4,2), and (1,5). What is the length of the vertical side?",
+        "answer": "C",
+        "options": {
+            "A": "2 units",
+            "B": "3 units",
+            "C": "4 units",
+            "D": "5 units"
+        }
+    },
+    {
+        "question": "After translating a shape, the point (3,4) moves to (0,6). Where does (5,1) move?",
+        "answer": "A",
+        "options": {
+            "A": "(2,3)",
+            "B": "(8,\u22121)",
+            "C": "(2,\u22121)",
+            "D": "(8,3)"
+        }
+    },
+    {
+        "question": "Which point lies inside the rectangle with corners (1,1), (1,4), (5,4), (5,1)?",
+        "answer": "B",
+        "options": {
+            "A": "(0,2)",
+            "B": "(3,2)",
+            "C": "(6,3)",
+            "D": "(3,5)"
+        }
+    },
+    {
+        "question": "A square has side 2. One vertex is (3,3). Which could be the vertex diagonally opposite?",
+        "answer": "A",
+        "options": {
+            "A": "(5,5)",
+            "B": "(3,5)",
+            "C": "(5,3)",
+            "D": "(1,1)"
+        }
+    },
+    {
+        "question": "A point is at (4,6). It moves left until x=1, then down until y=2. Where is it?",
+        "answer": "C",
+        "options": {
+            "A": "(1,6)",
+            "B": "(4,2)",
+            "C": "(1,2)",
+            "D": "(5,8)"
+        }
+    },
+    {
+        "question": "Which describes the translation from (2,5) to (5,2)?",
+        "answer": "A",
+        "options": {
+            "A": "3 right, 3 down",
+            "B": "3 left, 3 up",
+            "C": "7 units diagonally",
+            "D": "0 units (same point)"
+        }
+    },
+    {
+        "question": "A shape has vertices at (1,3), (3,5), (5,3), and (3,1). What shape is it?",
+        "answer": "A",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What are the coordinates of the point 4 units up from (3,2)?",
+        "answer": "A",
+        "options": {
+            "A": "(3,6)",
+            "B": "(7,2)",
+            "C": "(\u22121,2)",
+            "D": "(3,\u22122)"
+        }
+    },
+    {
+        "question": "A rectangle has length 6 and width 2. If one corner is (1,3), which could be an adjacent corner?",
+        "answer": "A",
+        "options": {
+            "A": "(7,3)",
+            "B": "(1,9)",
+            "C": "(3,5)",
+            "D": "(7,5)"
+        }
+    },
+    {
+        "question": "From (5,1), move 3 units up and 2 units left. Where are you?",
+        "answer": "A",
+        "options": {
+            "A": "(2,4)",
+            "B": "(7,4)",
+            "C": "(3,\u22122)",
+            "D": "(7,\u22122)"
+        }
+    },
+    {
+        "question": "From (5,1), move 3 units up and 2 units left. Where are you?",
+        "answer": "A",
+        "options": {
+            "A": "(3,4)",
+            "B": "(7,4)",
+            "C": "(2,3)",
+            "D": "(7,\u22122)"
+        }
+    },
+    {
+        "question": "Which point is a vertex of the triangle with vertices (2,1), (6,1), and (4,4)?",
+        "answer": "A",
+        "options": {
+            "A": "(2,1)",
+            "B": "(3,2)",
+            "C": "(5,3)",
+            "D": "(4,1)"
+        }
+    },
+    {
+        "question": "A point moves from (1,2) to (4,6). How many units right and up?",
+        "answer": "A",
+        "options": {
+            "A": "3 right, 4 up",
+            "B": "4 right, 3 up",
+            "C": "5 right, 8 up",
+            "D": "2 right, 3 up"
+        }
+    },
+    {
+        "question": "Which set of points forms a vertical line?",
+        "answer": "A",
+        "options": {
+            "A": "(2,1), (2,3), (2,5)",
+            "B": "(1,2), (3,2), (5,2)",
+            "C": "(1,1), (2,2), (3,3)",
+            "D": "(0,3), (3,0), (6,\u22123)"
+        }
+    },
+    {
+        "question": "A square has area 9. One vertex is (1,1). Which could be another vertex?",
+        "answer": "A",
+        "options": {
+            "A": "(1,4)",
+            "B": "(2,2)",
+            "C": "(3,1)",
+            "D": "(4,4)"
+        }
+    },
+    {
+        "question": "Translate (6,2) by 4 units left and 5 units up. New coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(2,7)",
+            "B": "(10,7)",
+            "C": "(2,\u22123)",
+            "D": "(10,\u22123)"
+        }
+    },
+    {
+        "question": "A rectangle has opposite vertices at (1,2) and (5,6). What are the other two vertices?",
+        "answer": "A",
+        "options": {
+            "A": "(1,6) and (5,2)",
+            "B": "(2,1) and (6,5)",
+            "C": "(3,4) and (3,4)",
+            "D": "(1,5) and (5,1)"
+        }
+    },
+    {
+        "question": "Which point is 5 units from (0,0) in a straight horizontal line?",
+        "answer": "B",
+        "options": {
+            "A": "(0,5)",
+            "B": "(5,0)",
+            "C": "(3,4)",
+            "D": "(\u22125,0)"
+        }
+    },
+    {
+        "question": "A triangle has points at (3,1), (3,5), and (7,1). What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "6",
+            "B": "8",
+            "C": "10",
+            "D": "12"
+        }
+    },
+    {
+        "question": "If (x, y) \u2192 (x\u22121, y+3) is a translation, where does (4,2) go?",
+        "answer": "A",
+        "options": {
+            "A": "(3,5)",
+            "B": "(5,\u22121)",
+            "C": "(3,\u22121)",
+            "D": "(5,5)"
+        }
+    },
+    {
+        "question": "Which point completes a parallelogram with (0,0), (2,0), and (3,2)?",
+        "answer": "A",
+        "options": {
+            "A": "(1,2)",
+            "B": "(5,2)",
+            "C": "(2,3)",
+            "D": "(0,2)"
+        }
+    },
+    {
+        "question": "A point is at (5,3). It moves to (2,7). Describe the translation.",
+        "answer": "A",
+        "options": {
+            "A": "3 left, 4 up",
+            "B": "3 right, 4 down",
+            "C": "4 left, 3 up",
+            "D": "7 units diagonally"
+        }
+    },
+    {
+        "question": "Which two points are on the same horizontal line?",
+        "answer": "A",
+        "options": {
+            "A": "(1,3) and (4,3)",
+            "B": "(2,1) and (2,5)",
+            "C": "(0,0) and (3,4)",
+            "D": "(5,2) and (3,5)"
+        }
+    },
+    {
+        "question": "A shape has vertices at (2,2), (5,2), (6,4), and (3,4). What is the vector from (2,2) to (5,2)?",
+        "answer": "A",
+        "options": {
+            "A": "3 right, 0 up",
+            "B": "0 right, 2 up",
+            "C": "1 right, 2 up",
+            "D": "3 right, 2 up"
+        }
+    },
+    {
+        "question": "After a translation, (1,4) becomes (4,1). What happens to (0,0)?",
+        "answer": "A",
+        "options": {
+            "A": "(3,\u22123)",
+            "B": "(\u22123,3)",
+            "C": "(4,1)",
+            "D": "(1,4)"
+        }
+    },
+    {
+        "question": "Which point is NOT on the rectangle with vertices (2,1), (2,4), (6,4), (6,1)?",
+        "answer": "D",
+        "options": {
+            "A": "(4,2)",
+            "B": "(2,2)",
+            "C": "(6,3)",
+            "D": "(7,1)"
+        }
+    },
+    {
+        "question": "A point moves 6 units right and 2 units down to (8,3). Where did it start?",
+        "answer": "A",
+        "options": {
+            "A": "(2,5)",
+            "B": "(14,1)",
+            "C": "(2,1)",
+            "D": "(14,5)"
+        }
+    },
+    {
+        "question": "Which coordinates describe a point 7 units from the origin along the x-axis?",
+        "answer": "B",
+        "options": {
+            "A": "(0,7)",
+            "B": "(7,0)",
+            "C": "(7,7)",
+            "D": "(1,6)"
+        }
+    },
+    {
+        "question": "A triangle has vertices at (1,2), (4,6), and (7,2). What type is it?",
+        "answer": "B",
+        "options": {
+            "A": "Scalene",
+            "B": "Isosceles",
+            "C": "Equilateral",
+            "D": "Right-angled"
+        }
+    },
+    {
+        "question": "What is the x-coordinate of the point 3 units left and 4 units up from (5,1)?",
+        "answer": "A",
+        "options": {
+            "A": "2",
+            "B": "5",
+            "C": "8",
+            "D": "1"
+        }
+    },
+    {
+        "question": "A square has vertices at (0,0), (0,3), (3,0), and one missing. What is it?",
+        "answer": "A",
+        "options": {
+            "A": "(3,3)",
+            "B": "(1.5,1.5)",
+            "C": "(0,6)",
+            "D": "(6,0)"
+        }
+    },
+    {
+        "question": "Which translation moves (2,3) to (5,0)?",
+        "answer": "A",
+        "options": {
+            "A": "3 right, 3 down",
+            "B": "3 left, 3 up",
+            "C": "5 right, 0 down",
+            "D": "0 right, 3 down"
+        }
+    },
+    {
+        "question": "A rectangle is 5 units wide and 3 units tall. Bottom-left corner is (1,2). What are the coordinates of the top-right corner?",
+        "answer": "A",
+        "options": {
+            "A": "(6,5)",
+            "B": "(4,5)",
+            "C": "(6,2)",
+            "D": "(1,5)"
+        }
+    },
+    {
+        "question": "Which point is the reflection of (4,3) over the line y=1?",
+        "answer": "A",
+        "options": {
+            "A": "(4,\u22121)",
+            "B": "(2,3)",
+            "C": "(4,1)",
+            "D": "(6,3)"
+        }
+    },
+    {
+        "question": "A path: start (2,2) \u2192 3 right \u2192 2 up \u2192 1 left. Where do you end?",
+        "answer": "A",
+        "options": {
+            "A": "(4,4)",
+            "B": "(5,4)",
+            "C": "(1,4)",
+            "D": "(4,0)"
+        }
+    },
+    {
+        "question": "Which set of points forms a right angle at (3,2)?",
+        "answer": "A",
+        "options": {
+            "A": "(3,2), (3,5), (6,2)",
+            "B": "(3,2), (5,4), (1,0)",
+            "C": "(3,2), (4,3), (5,4)",
+            "D": "(3,2), (0,2), (3,0)"
+        }
+    },
+    {
+        "question": "Which set of points forms a right angle at (2,3)?",
+        "answer": "A",
+        "options": {
+            "A": "(2,3), (2,6), (5,3)",
+            "B": "(2,3), (4,5), (0,1)",
+            "C": "(2,3), (3,4), (4,5)",
+            "D": "(2,3), (1,3), (2,1)"
+        }
+    },
+    {
+        "question": "A point at (6,4) is translated by (\u22122, +3). Where is it?",
+        "answer": "A",
+        "options": {
+            "A": "(4,7)",
+            "B": "(8,1)",
+            "C": "(4,1)",
+            "D": "(8,7)"
+        }
+    },
+    {
+        "question": "Which point lies on the line segment between (1,1) and (5,1)?",
+        "answer": "A",
+        "options": {
+            "A": "(3,1)",
+            "B": "(1,3)",
+            "C": "(5,5)",
+            "D": "(0,1)"
+        }
+    },
+    {
+        "question": "A rhombus has vertices at (2,2), (5,2), (6,4), and (3,4). What is the length of each side?",
+        "answer": "C",
+        "options": {
+            "A": "2 units",
+            "B": "3 units",
+            "C": "\u221a5 units",
+            "D": "\u221a13 units"
+        }
+    },
+    {
+        "question": "A rhombus has vertices at (1,1), (3,1), (4,3), and (2,3). What is the horizontal distance between (1,1) and (3,1)?",
+        "answer": "B",
+        "options": {
+            "A": "1 unit",
+            "B": "2 units",
+            "C": "3 units",
+            "D": "4 units"
+        }
+    },
+    {
+        "question": "Which is true about the point (7,0)?",
+        "answer": "C",
+        "options": {
+            "A": "It is on the y-axis.",
+            "B": "It is 7 units up from the origin.",
+            "C": "It is on the x-axis.",
+            "D": "Its y-coordinate is 7."
+        }
+    },
+    {
+        "question": "A shape is moved 4 units right and 1 unit down. The point (2,5) moves to:",
+        "answer": "A",
+        "options": {
+            "A": "(6,4)",
+            "B": "(\u22122,6)",
+            "C": "(6,6)",
+            "D": "(\u22122,4)"
+        }
+    },
+    {
+        "question": "A triangle has base from (2,3) to (8,3) and height 4. What could be the third vertex?",
+        "answer": "D",
+        "options": {
+            "A": "(5,7)",
+            "B": "(2,7)",
+            "C": "(8,\u22121)",
+            "D": "All of the above"
+        }
+    },
+    {
+        "question": "Which point is closest to the origin?",
+        "answer": "A",
+        "options": {
+            "A": "(1,2)",
+            "B": "(2,1)",
+            "C": "(0,2)",
+            "D": "(3,0)"
+        }
+    },
+    {
+        "question": "Which point is closest to the origin?",
+        "answer": "D",
+        "options": {
+            "A": "(1,2)",
+            "B": "(2,1)",
+            "C": "(0,2)",
+            "D": "(1,1)"
+        }
+    },
+    {
+        "question": "A rectangle has vertices at (1,1), (4,1), (4,3), and (1,3). What is the coordinate of the centre?",
+        "answer": "A",
+        "options": {
+            "A": "(2.5,2)",
+            "B": "(3,2)",
+            "C": "(2,3)",
+            "D": "(5,4)"
+        }
+    },
+    {
+        "question": "A point moves from (3,4) to (0,1). What is the translation?",
+        "answer": "A",
+        "options": {
+            "A": "3 left, 3 down",
+            "B": "3 right, 3 up",
+            "C": "4 left, 1 down",
+            "D": "1 left, 4 down"
+        }
+    },
+    {
+        "question": "Which coordinates are 2 units left and 5 units up from (6,1)?",
+        "answer": "A",
+        "options": {
+            "A": "(4,6)",
+            "B": "(8,6)",
+            "C": "(4,\u22124)",
+            "D": "(8,\u22124)"
+        }
+    },
+    {
+        "question": "A square has side 4. If bottom-left is (1,2), what is top-right?",
+        "answer": "A",
+        "options": {
+            "A": "(5,6)",
+            "B": "(4,5)",
+            "C": "(1,6)",
+            "D": "(5,2)"
+        }
+    },
+    {
+        "question": "Which point lies on the y-axis?",
+        "answer": "B",
+        "options": {
+            "A": "(3,0)",
+            "B": "(0,5)",
+            "C": "(2,2)",
+            "D": "(\u22121,3)"
+        }
+    },
+    {
+        "question": "A translation moves every point (x, y) to (x+2, y\u22121). Where does (3,4) go?",
+        "answer": "A",
+        "options": {
+            "A": "(5,3)",
+            "B": "(1,5)",
+            "C": "(5,5)",
+            "D": "(1,3)"
+        }
+    },
+    {
+        "question": "Point P is at (3, 4). After a translation of 2 units right and 3 units down, where is the new point?",
+        "answer": "B",
+        "options": {
+            "A": "(1, 1)",
+            "B": "(5, 1)",
+            "C": "(5, 7)",
+            "D": "(1, 7)"
+        }
+    },
+    {
+        "question": "A triangle has vertices at (1, 2), (4, 2), and (1, 5). Which type of triangle is it?",
+        "answer": "C",
+        "options": {
+            "A": "Equilateral",
+            "B": "Isosceles",
+            "C": "Right-angled",
+            "D": "Scalene"
+        }
+    },
+    {
+        "question": "Which point is 4 units to the left and 1 unit up from (7, 3)?",
+        "answer": "A",
+        "options": {
+            "A": "(3, 4)",
+            "B": "(11, 4)",
+            "C": "(3, 2)",
+            "D": "(11, 2)"
+        }
+    },
+    {
+        "question": "Points A(2,1), B(5,1), C(5,4), and D(2,4) are plotted and joined in order. What shape is formed?",
+        "answer": "C",
+        "options": {
+            "A": "Rhombus",
+            "B": "Trapezium",
+            "C": "Rectangle",
+            "D": "Parallelogram (not rectangle)"
+        }
+    },
+    {
+        "question": "A square has three vertices at (1,1), (1,4), and (4,4). What are the coordinates of the fourth vertex?",
+        "answer": "A",
+        "options": {
+            "A": "(4, 1)",
+            "B": "(0, 1)",
+            "C": "(4, 0)",
+            "D": "(1, 0)"
+        }
+    },
+    {
+        "question": "From (6, 2), a shape is translated 5 units left and 4 units up. Which coordinate pair could NOT be a vertex of the new shape if (6,2) was a vertex of the original?",
+        "answer": "C",
+        "options": {
+            "A": "(1, 6)",
+            "B": "(2, 5)",
+            "C": "(1, 2)",
+            "D": "(0, 7)"
+        }
+    },
+    {
+        "question": "Which statement is FALSE about the point (5, 3)?",
+        "answer": "D",
+        "options": {
+            "A": "It is 5 units to the right of the y-axis.",
+            "B": "It is 3 units above the x-axis.",
+            "C": "Moving 2 units left and 2 units up leads to (3, 5).",
+            "D": "It lies on the same horizontal line as (3, 5)."
+        }
+    },
+    {
+        "question": "A shape is translated so that point (2, 6) moves to (7, 3). What translation was applied?",
+        "answer": "C",
+        "options": {
+            "A": "5 right, 3 up",
+            "B": "5 left, 3 down",
+            "C": "5 right, 3 down",
+            "D": "5 left, 3 up"
+        }
+    },
+    {
+        "question": "Three vertices of a rectangle are at (2, 1), (2, 5), and (6, 5). What is the sum of the x- and y-coordinates of the fourth vertex?",
+        "answer": "B",
+        "options": {
+            "A": "7",
+            "B": "9",
+            "C": "10",
+            "D": "11"
+        }
+    },
+    {
+        "question": "Three vertices of a rectangle are at (1, 2), (1, 5), and (4, 2). What is the sum of the x- and y-coordinates of the fourth vertex?",
+        "answer": "B",
+        "options": {
+            "A": "6",
+            "B": "9",
+            "C": "7",
+            "D": "8"
+        }
+    },
+    {
+        "question": "A point starts at (4, 7). It moves 3 units left, then 2 units down, then 5 units right. Where does it end?",
+        "answer": "A",
+        "options": {
+            "A": "(6, 5)",
+            "B": "(2, 5)",
+            "C": "(6, 9)",
+            "D": "(9, 5)"
+        }
+    },
+    {
+        "question": "Which pair of points are NOT the same distance from the origin (0,0)?",
+        "answer": "D",
+        "options": {
+            "A": "(3, 4) and (4, 3)",
+            "B": "(5, 0) and (0, 5)",
+            "C": "(2, 6) and (6, 2)",
+            "D": "(1, 7) and (3, 5)"
+        }
+    },
+    {
+        "question": "A shape has vertices at (2,3), (5,3), (5,6), and (2,6). After a translation of 1 unit left and 2 units up, what are the new coordinates of the top-right vertex?",
+        "answer": "A",
+        "options": {
+            "A": "(4, 8)",
+            "B": "(6, 8)",
+            "C": "(4, 4)",
+            "D": "(6, 4)"
+        }
+    },
+    {
+        "question": "Point X is at (a, b). After moving 4 units right and 3 units down, it lands at (9, 2). What are a and b?",
+        "answer": "A",
+        "options": {
+            "A": "a = 5, b = 5",
+            "B": "a = 13, b = 5",
+            "C": "a = 5, b = \u22121",
+            "D": "a = 13, b = \u22121"
+        }
+    },
+    {
+        "question": "Which translation moves the point (3, 8) to the same location as translating (6, 5) by 2 left and 4 up?",
+        "answer": "B",
+        "options": {
+            "A": "5 right, 3 down",
+            "B": "1 left, 1 up",
+            "C": "5 left, 3 up",
+            "D": "1 right, 1 down"
+        }
+    },
+    {
+        "question": "Which translation moves the point (3, 8) to the same location as translating (4, 5) by 2 units left and 4 units up?",
+        "answer": "B",
+        "options": {
+            "A": "1 right, 3 down",
+            "B": "1 left, 1 up",
+            "C": "2 left, 1 up",
+            "D": "1 right, 1 up"
+        }
+    },
+    {
+        "question": "A pentagon has vertices at (1,1), (3,1), (4,3), (2,5), and (0,3). Which vertex is highest (greatest y-coordinate)?",
+        "answer": "D",
+        "options": {
+            "A": "(1,1)",
+            "B": "(3,1)",
+            "C": "(4,3)",
+            "D": "(2,5)"
+        }
+    },
+    {
+        "question": "Starting from (5, 4), a robot moves: up 3, right 2, down 5, left 1. Where does it end?",
+        "answer": "A",
+        "options": {
+            "A": "(6, 2)",
+            "B": "(7, 2)",
+            "C": "(6, \u22122)",
+            "D": "(4, 2)"
+        }
+    },
+    {
+        "question": "Which set of points forms a right-angled triangle with the right angle at (3, 3)?",
+        "answer": "A",
+        "options": {
+            "A": "(3,3), (6,3), (3,7)",
+            "B": "(3,3), (5,5), (1,1)",
+            "C": "(3,3), (4,4), (2,4)",
+            "D": "(3,3), (3,6), (6,6)"
+        }
+    },
+    {
+        "question": "A shape is translated so that (2, 2) \u2192 (5, 6). Which point moves to (8, 9)?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 5)",
+            "B": "(11, 13)",
+            "C": "(3, 4)",
+            "D": "(6, 7)"
+        }
+    },
+    {
+        "question": "Points (1,4), (4,4), (4,1), and (1,1) form a square. If only the y-coordinates are doubled, what shape is formed?",
+        "answer": "B",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram (not rectangle)"
+        }
+    },
+    {
+        "question": "Which point is equidistant from (2, 1) and (6, 1) AND lies on the line y = 4?",
+        "answer": "A",
+        "options": {
+            "A": "(4, 4)",
+            "B": "(2, 4)",
+            "C": "(6, 4)",
+            "D": "(4, 1)"
+        }
+    },
+    {
+        "question": "A triangle has vertices at (0, 0), (0, 5), and (x, 0). Its area is 15 square units. What is x?",
+        "answer": "C",
+        "options": {
+            "A": "3",
+            "B": "5",
+            "C": "6",
+            "D": "10"
+        }
+    },
+    {
+        "question": "After a translation, point (3, 7) becomes (1, 4). What are the new coordinates of (5, 9) under the same translation?",
+        "answer": "A",
+        "options": {
+            "A": "(3, 6)",
+            "B": "(7, 12)",
+            "C": "(3, 12)",
+            "D": "(7, 6)"
+        }
+    },
+    {
+        "question": "Four points are: A(1,3), B(4,3), C(5,6), D(2,6). When joined A\u2192B\u2192C\u2192D\u2192A, what shape is formed?",
+        "answer": "D",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram (not rectangle)"
+        }
+    },
+    {
+        "question": "Which movement from (4, 5) results in a point with x-coordinate equal to y-coordinate?",
+        "answer": "B",
+        "options": {
+            "A": "2 right, 1 down",
+            "B": "1 left, 2 down",
+            "C": "3 left, 2 up",
+            "D": "2 right, 3 up"
+        }
+    },
+    {
+        "question": "A rectangle has vertices at (2, 1), (2, 4), (x, 4), and (x, 1). The perimeter is 14 units. What is x?",
+        "answer": "B",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+        }
+    },
+    {
+        "question": "A rectangle has vertices at (2, 1), (2, 4), (x, 4), and (x, 1). The perimeter is 12 units. What is x?",
+        "answer": "B",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+        }
+    },
+    {
+        "question": "Point P is at (6, 2). It is reflected over the line x = 4. Where is the image?",
+        "answer": "A",
+        "options": {
+            "A": "(2, 2)",
+            "B": "(4, 2)",
+            "C": "(6, 6)",
+            "D": "(8, 2)"
+        }
+    },
+    {
+        "question": "Which sequence of moves from (3, 5) ends closest to the origin?",
+        "answer": "D",
+        "options": {
+            "A": "2 left, 3 down",
+            "B": "4 left, 1 down",
+            "C": "1 right, 4 down",
+            "D": "3 left, 2 down"
+        }
+    },
+    {
+        "question": "Which sequence of moves from (3, 5) ends closest to the origin, staying in the first quadrant?",
+        "answer": "D",
+        "options": {
+            "A": "1 left, 3 down \u2192 (2, 2)",
+            "B": "2 left, 2 down \u2192 (1, 3)",
+            "C": "3 left, 1 down \u2192 (0, 4)",
+            "D": "2 left, 3 down \u2192 (1, 2)"
+        }
+    },
+    {
+        "question": "A line segment joins (1, 2) and (7, 8). Which point lies exactly halfway?",
+        "answer": "B",
+        "options": {
+            "A": "(3, 4)",
+            "B": "(4, 5)",
+            "C": "(5, 6)",
+            "D": "(6, 7)"
+        }
+    },
+    {
+        "question": "A shape is translated so that (1, 1) moves to (4, 5). Which point moves to (7, 8)?",
+        "answer": "B",
+        "options": {
+            "A": "(2, 3)",
+            "B": "(4, 4)",
+            "C": "(3, 3)",
+            "D": "(5, 5)"
+        }
+    },
+    {
+        "question": "Which set of points, when joined in order, forms a parallelogram but NOT a rectangle?",
+        "answer": "A",
+        "options": {
+            "A": "(1,2), (4,2), (5,5), (2,5)",
+            "B": "(2,1), (5,1), (5,4), (2,4)",
+            "C": "(1,1), (3,3), (1,5), (\u22121,3)",
+            "D": "(0,2), (3,2), (4,5), (1,5)"
+        }
+    },
+    {
+        "question": "Revised D for clarity: Which set of points, when joined in order, forms a parallelogram but NOT a rectangle?",
+        "answer": "A",
+        "options": {
+            "A": "(1,2), (4,2), (5,5), (2,5)",
+            "B": "(2,1), (5,1), (5,4), (2,4)",
+            "C": "(1,1), (4,1), (3,4), (0,4)",
+            "D": "(1,3), (4,3), (4,6), (1,6)"
+        }
+    },
+    {
+        "question": "Starting at (5, 3), move to (2, 7). What single translation describes this?",
+        "answer": "A",
+        "options": {
+            "A": "3 left, 4 up",
+            "B": "3 right, 4 down",
+            "C": "7 left, 10 up",
+            "D": "2 right, 7 up"
+        }
+    },
+    {
+        "question": "A square has side length 4 units. One vertex is at (2, 3), and the square extends right and up. What are the coordinates of the opposite vertex (diagonally across)?",
+        "answer": "C",
+        "options": {
+            "A": "(6, 3)",
+            "B": "(2, 7)",
+            "C": "(6, 7)",
+            "D": "(4, 5)"
+        }
+    },
+    {
+        "question": "Point M is at (x, y). After a translation of 3 units right and 2 units down, it is at (8, 4). What is the value of x + y?",
+        "answer": "C",
+        "options": {
+            "A": "9",
+            "B": "10",
+            "C": "11",
+            "D": "12"
+        }
+    },
+    {
+        "question": "Which two points are exactly 5 units apart?",
+        "answer": "C",
+        "options": {
+            "A": "(1,1) and (4,5)",
+            "B": "(2,3) and (5,7)",
+            "C": "(0,0) and (3,4)",
+            "D": "(3,2) and (6,5)"
+        }
+    },
+    {
+        "question": "Revised: Which two points are exactly 5 units apart?",
+        "answer": "C",
+        "options": {
+            "A": "(1, 2) and (4, 5)",
+            "B": "(2, 3) and (6, 7)",
+            "C": "(0, 0) and (3, 4)",
+            "D": "(5, 1) and (5, 5)"
+        }
+    },
+    {
+        "question": "A triangle has vertices at (2, 2), (5, 2), and (x, 5). Its area is 9 square units. What is x?",
+        "answer": "C",
+        "options": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "9"
+        }
+    },
+    {
+        "question": "A triangle has vertices at (1, 1), (7, 1), and (x, 5). Its area is 12 square units. What is x?",
+        "answer": "D",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "Any x \u2014 area is always 12"
+        }
+    },
+    {
+        "question": "After translating a shape, (3, 4) \u2192 (6, 1). Which point was originally at (9, \u22122)?",
+        "answer": "B",
+        "options": {
+            "A": "(6, 1)",
+            "B": "(12, \u22125)",
+            "C": "(6, \u22125)",
+            "D": "(12, 1)"
+        }
+    },
+    {
+        "question": "After translating a shape, (2, 5) \u2192 (6, 2). Which point moves to (9, 4)?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 7)",
+            "B": "(13, 1)",
+            "C": "(5, 1)",
+            "D": "(13, 7)"
+        }
+    },
+    {
+        "question": "Points A(1,1), B(4,2), C(3,5), D(0,4) are joined in order. What is the length of side AB?",
+        "answer": "B",
+        "options": {
+            "A": "\u221a5",
+            "B": "\u221a10",
+            "C": "3",
+            "D": "\u221a13"
+        }
+    },
+    {
+        "question": "A rectangle has one vertex at (2, 3) and the opposite vertex at (7, 8). What is the perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "18",
+            "B": "20",
+            "C": "22",
+            "D": "24"
+        }
+    },
+    {
+        "question": "Which point is 5 units from (3, 1) and 5 units from (3, 9)?",
+        "answer": "D",
+        "options": {
+            "A": "(3, 5)",
+            "B": "(\u22121, 5)",
+            "C": "(7, 5)",
+            "D": "Both B and C"
+        }
+    },
+    {
+        "question": "Which point is 5 units from (0, 1) and 5 units from (6, 1)?",
+        "answer": "D",
+        "options": {
+            "A": "(3, 5)",
+            "B": "(3, \u22123)",
+            "C": "(0, 6)",
+            "D": "Both A and B"
+        }
+    },
+    {
+        "question": "Which point in the first quadrant is 5 units from (0, 1) and 5 units from (6, 1)?",
+        "answer": "A",
+        "options": {
+            "A": "(3, 5)",
+            "B": "(3, \u22123)",
+            "C": "(6, 6)",
+            "D": "(0, 6)"
+        }
+    },
+    {
+        "question": "A shape is moved 4 units right, then 3 units up, then 4 units left. What single translation is equivalent?",
+        "answer": "A",
+        "options": {
+            "A": "3 units up",
+            "B": "3 units down",
+            "C": "8 units right, 3 up",
+            "D": "No movement"
+        }
+    },
+    {
+        "question": "Which polygon has vertices at (1,2), (3,5), (5,5), (7,2), and (4,0)?",
+        "answer": "A",
+        "options": {
+            "A": "Pentagon",
+            "B": "Quadrilateral",
+            "C": "Hexagon",
+            "D": "Triangle"
+        }
+    },
+    {
+        "question": "Point P is at (5, 6). After a translation, it is at (2, 9). What translation was applied?",
+        "answer": "A",
+        "options": {
+            "A": "3 left, 3 up",
+            "B": "3 right, 3 down",
+            "C": "7 left, 15 up",
+            "D": "3 left, 3 down"
+        }
+    },
+    {
+        "question": "Three vertices of a parallelogram are (1, 2), (4, 2), and (2, 5). What are the coordinates of the fourth vertex?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 5)",
+            "B": "(\u22121, 5)",
+            "C": "(3, 5)",
+            "D": "(5, \u22121)"
+        }
+    },
+    {
+        "question": "Consecutive vertices of a parallelogram are (1, 2), (4, 2), and (2, 5). What are the coordinates of the fourth vertex?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 5)",
+            "B": "(\u22121, 5)",
+            "C": "(3, 5)",
+            "D": "(0, 3)"
+        }
+    },
+    {
+        "question": "Consecutive vertices of a parallelogram are (2, 1), (5, 1), and (3, 4). What are the coordinates of the fourth vertex in the first quadrant?",
+        "answer": "B",
+        "options": {
+            "A": "(0, 4)",
+            "B": "(6, 4)",
+            "C": "(4, 4)",
+            "D": "(1, 4)"
+        }
+    },
+    {
+        "question": "Consecutive vertices of a parallelogram are (2, 1), (5, 1), and (3, 4). What are the coordinates of the fourth vertex?",
+        "answer": "A",
+        "options": {
+            "A": "(0, 4)",
+            "B": "(6, 4)",
+            "C": "(1, 4)",
+            "D": "(4, 1)"
+        }
+    },
+    {
+        "question": "A point moves from (4, 3) to (7, 8). Then it moves the same distance and direction again. Where does it end?",
+        "answer": "A",
+        "options": {
+            "A": "(10, 13)",
+            "B": "(11, 11)",
+            "C": "(10, 11)",
+            "D": "(11, 13)"
+        }
+    },
+    {
+        "question": "Which point is NOT a vertex of the rectangle with opposite corners at (1, 2) and (5, 6)?",
+        "answer": "C",
+        "options": {
+            "A": "(1, 6)",
+            "B": "(5, 2)",
+            "C": "(3, 4)",
+            "D": "(1, 2)"
+        }
+    },
+    {
+        "question": "A shape is translated 2 units left and 4 units up. Which point moves from the x-axis to the line y = 5?",
+        "answer": "A",
+        "options": {
+            "A": "(3, 1)",
+            "B": "(5, 1)",
+            "C": "(4, 1)",
+            "D": "(6, 1)"
+        }
+    },
+    {
+        "question": "A shape is translated 2 units left and 4 units up. Which point moves to (1, 4)?",
+        "answer": "A",
+        "options": {
+            "A": "(3, 0)",
+            "B": "(\u22121, 0)",
+            "C": "(3, 8)",
+            "D": "(1, 0)"
+        }
+    },
+    {
+        "question": "The points (2, 3), (5, 3), and (2, 7) are three vertices of a rectangle. What is the area?",
+        "answer": "B",
+        "options": {
+            "A": "9",
+            "B": "12",
+            "C": "15",
+            "D": "16"
+        }
+    },
+    {
+        "question": "Which translation maps triangle with vertices (1,1), (2,3), (4,2) onto triangle (4,0), (5,2), (7,1)?",
+        "answer": "A",
+        "options": {
+            "A": "3 right, 1 down",
+            "B": "3 left, 1 up",
+            "C": "5 right, 3 down",
+            "D": "1 right, 2 down"
+        }
+    },
+    {
+        "question": "A robot starts at (0, 0). It moves: right 4, up 3, left 1, down 2, right 2, up 1. Where is it?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 2)",
+            "B": "(6, 2)",
+            "C": "(5, 3)",
+            "D": "(6, 3)"
+        }
+    },
+    {
+        "question": "Which point is farthest from (3, 3)?",
+        "answer": "D",
+        "options": {
+            "A": "(6, 3)",
+            "B": "(3, 7)",
+            "C": "(0, 0)",
+            "D": "(7, 7)"
+        }
+    },
+    {
+        "question": "A square has vertices at (1, 2), (4, 2), (4, 5), and (1, 5). After a translation of 2 left and 3 up, what are the new coordinates of the bottom-left vertex?",
+        "answer": "A",
+        "options": {
+            "A": "(\u22121, 5)",
+            "B": "(2, 5)",
+            "C": "(\u22121, \u22121)",
+            "D": "(3, 5)"
+        }
+    },
+    {
+        "question": "Points (1, 4), (4, 1), and (7, 4) form an isosceles triangle. What is the length of the equal sides?",
+        "answer": "B",
+        "options": {
+            "A": "3",
+            "B": "\u221a18",
+            "C": "6",
+            "D": "\u221a9"
+        }
+    },
+    {
+        "question": "Which movement from (5, 6) results in a point where the x-coordinate is twice the y-coordinate?",
+        "answer": "D",
+        "options": {
+            "A": "1 left, 2 down",
+            "B": "3 left, 1 down",
+            "C": "2 right, 3 down",
+            "D": "4 left, 2 down"
+        }
+    },
+    {
+        "question": "Which movement from (5, 6) results in a point where the x-coordinate is twice the y-coordinate?",
+        "answer": "A",
+        "options": {
+            "A": "1 left, 4 down",
+            "B": "2 left, 3 down",
+            "C": "3 right, 1 up",
+            "D": "0, 5 down"
+        }
+    },
+    {
+        "question": "A line passes through (2, 1) and (5, 7). Which point also lies on this line?",
+        "answer": "D",
+        "options": {
+            "A": "(3, 3)",
+            "B": "(4, 5)",
+            "C": "(1, \u22121)",
+            "D": "All of the above"
+        }
+    },
+    {
+        "question": "The perimeter of a rectangle is 20 units. One vertex is at (1, 1), and it extends right and up. Which could be the opposite vertex?",
+        "answer": "B",
+        "options": {
+            "A": "(5, 4)",
+            "B": "(6, 3)",
+            "C": "(4, 5)",
+            "D": "(3, 6)"
+        }
+    },
+    {
+        "question": "The perimeter of a rectangle is 20 units. One vertex is at (1, 1), and it extends right and up. Which could be the opposite vertex?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 7)",
+            "B": "(6, 5)",
+            "C": "(4, 6)",
+            "D": "(3, 8)"
+        }
+    },
+    {
+        "question": "Point R is at (a, b). After moving 5 units right and 2 units down, it is at (9, 3). What is the value of 2a + b?",
+        "answer": "D",
+        "options": {
+            "A": "12",
+            "B": "13",
+            "C": "14",
+            "D": "15"
+        }
+    },
+    {
+        "question": "Point R is at (a, b). After moving 5 units right and 2 units down, it is at (9, 3). What is the value of 2a + b?",
+        "answer": "B",
+        "options": {
+            "A": "12",
+            "B": "13",
+            "C": "14",
+            "D": "15"
+        }
+    },
+    {
+        "question": "Which set of instructions moves a point from (3, 4) to (1, 7)?",
+        "answer": "A",
+        "options": {
+            "A": "2 left, 3 up",
+            "B": "2 right, 3 down",
+            "C": "4 left, 11 up",
+            "D": "1 left, 3 up"
+        }
+    },
+    {
+        "question": "A triangle has vertices at (0, 0), (6, 0), and (3, y). Its area is 18. What is y?",
+        "answer": "C",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "6",
+            "D": "9"
+        }
+    },
+    {
+        "question": "A shape is translated so that (4, 2) moves to (1, 6). Which point moves to (3, 8)?",
+        "answer": "A",
+        "options": {
+            "A": "(6, 4)",
+            "B": "(0, 4)",
+            "C": "(6, 12)",
+            "D": "(2, 4)"
+        }
+    },
+    {
+        "question": "Points A(2,3), B(5,3), C(6,6), and D(3,6) are joined in order. What is true about quadrilateral ABCD?",
+        "answer": "D",
+        "options": {
+            "A": "It is a square.",
+            "B": "It is a rectangle but not a square.",
+            "C": "It is a rhombus but not a rectangle.",
+            "D": "It is a parallelogram but not a rhombus or rectangle."
+        }
+    },
+    {
+        "question": "Which point is exactly halfway between (1, 2) and (7, 8)?",
+        "answer": "B",
+        "options": {
+            "A": "(3, 4)",
+            "B": "(4, 5)",
+            "C": "(5, 6)",
+            "D": "(6, 7)"
+        }
+    },
+    {
+        "question": "A pentagon has vertices at (0,2), (2,0), (4,0), (6,2), and (3,5). Which side is vertical?",
+        "answer": "D",
+        "options": {
+            "A": "From (0,2) to (2,0)",
+            "B": "From (2,0) to (4,0)",
+            "C": "From (4,0) to (6,2)",
+            "D": "None of the sides are vertical."
+        }
+    },
+    {
+        "question": "Starting at (5, 7), a point moves 3 units left, then 4 units down, then 2 units right, then 1 unit up. Where is it now?",
+        "answer": "A",
+        "options": {
+            "A": "(4, 4)",
+            "B": "(6, 4)",
+            "C": "(4, 6)",
+            "D": "(3, 3)"
+        }
+    },
+    {
+        "question": "Three vertices of a square are (2, 1), (5, 1), and (2, 4). What is the area of the square?",
+        "answer": "B",
+        "options": {
+            "A": "6",
+            "B": "9",
+            "C": "12",
+            "D": "16"
+        }
+    },
+    {
+        "question": "Which translation moves the point (3, 5) to the same image as moving (1, 2) by 4 right and 5 up?",
+        "answer": "A",
+        "options": {
+            "A": "2 right, 3 up",
+            "B": "6 right, 8 up",
+            "C": "2 left, 3 down",
+            "D": "6 left, 8 down"
+        }
+    },
+    {
+        "question": "Which translation moves the point (3, 5) to the same image as moving (1, 3) by 4 right and 3 up?",
+        "answer": "A",
+        "options": {
+            "A": "2 right, 3 up",
+            "B": "4 right, 5 up",
+            "C": "2 left, 1 down",
+            "D": "6 right, 8 up"
+        }
+    },
+    {
+        "question": "Which translation moves the point (3, 5) to the same image as moving (1, 5) by 4 units right and 3 units up?",
+        "answer": "A",
+        "options": {
+            "A": "2 right, 3 up",
+            "B": "4 right, 3 up",
+            "C": "2 left, 3 down",
+            "D": "6 right, 8 up"
+        }
+    },
+    {
+        "question": "A rectangle has vertices at (x, 2), (x, 6), (7, 6), and (7, 2). Its area is 20 square units. What is x?",
+        "answer": "B",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        }
+    },
+    {
+        "question": "Point P is at (6, 1). After a reflection over the line y = 3, where is its image?",
+        "answer": "A",
+        "options": {
+            "A": "(6, 5)",
+            "B": "(0, 1)",
+            "C": "(3, 1)",
+            "D": "(6, \u22121)"
+        }
+    },
+    {
+        "question": "Which set of points forms a right-angled triangle with legs parallel to the axes?",
+        "answer": "D",
+        "options": {
+            "A": "(2,3), (5,3), (5,7)",
+            "B": "(1,1), (4,5), (7,1)",
+            "C": "(0,2), (3,4), (6,2)",
+            "D": "(2,2), (2,5), (5,2)"
+        }
+    },
+    {
+        "question": "Revised A: Which set of points forms a right-angled triangle with legs parallel to the axes?",
+        "answer": "D",
+        "options": {
+            "A": "(2, 3), (5, 4), (5, 7)",
+            "B": "(1, 1), (4, 5), (7, 1)",
+            "C": "(0, 2), (3, 4), (6, 2)",
+            "D": "(2, 2), (2, 5), (5, 2)"
+        }
+    },
+    {
+        "question": "A shape is moved 5 units right, then 2 units down, then 3 units left, then 4 units up. What single translation is equivalent?",
+        "answer": "A",
+        "options": {
+            "A": "2 right, 2 up",
+            "B": "8 right, 6 up",
+            "C": "2 left, 2 down",
+            "D": "2 right, 2 down"
+        }
+    },
+    {
+        "question": "The points (1, 1), (4, 3), and (1, 5) form a triangle. What type is it?",
+        "answer": "B",
+        "options": {
+            "A": "Equilateral",
+            "B": "Isosceles",
+            "C": "Right-angled",
+            "D": "Scalene"
+        }
+    },
+    {
+        "question": "Which point lies on the line segment joining (2, 1) and (8, 7)?",
+        "answer": "D",
+        "options": {
+            "A": "(4, 3)",
+            "B": "(5, 4)",
+            "C": "(6, 5)",
+            "D": "All of the above"
+        }
+    },
+    {
+        "question": "A square has one vertex at (3, 2) and side length 4 units. It extends left and up. What are the coordinates of the top-left vertex?",
+        "answer": "C",
+        "options": {
+            "A": "(\u22121, 2)",
+            "B": "(3, 6)",
+            "C": "(\u22121, 6)",
+            "D": "(7, 6)"
+        }
+    },
+    {
+        "question": "After a translation, the point (x, y) becomes (x+3, y\u22122). Which point moves to (7, 5)?",
+        "answer": "A",
+        "options": {
+            "A": "(4, 7)",
+            "B": "(10, 3)",
+            "C": "(4, 3)",
+            "D": "(10, 7)"
+        }
+    },
+    {
+        "question": "A robot starts at (2, 3). It follows: up 2, right 4, down 3, left 1, up 1. Where is it?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 3)",
+            "B": "(6, 3)",
+            "C": "(5, 4)",
+            "D": "(6, 4)"
+        }
+    },
+    {
+        "question": "Which two points are closest to each other?",
+        "answer": "B",
+        "options": {
+            "A": "(1,1) and (4,5)",
+            "B": "(2,3) and (5,4)",
+            "C": "(0,5) and (3,5)",
+            "D": "(3,2) and (3,6)"
+        }
+    },
+    {
+        "question": "Which two points are closest to each other?",
+        "answer": "B",
+        "options": {
+            "A": "(1, 1) and (4, 5)",
+            "B": "(2, 3) and (3, 4)",
+            "C": "(0, 5) and (3, 5)",
+            "D": "(3, 2) and (3, 6)"
+        }
+    },
+    {
+        "question": "A triangle has vertices at (1, 2), (5, 2), and (3, 6). What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "6",
+            "B": "8",
+            "C": "10",
+            "D": "12"
+        }
+    },
+    {
+        "question": "Which movement from (6, 8) results in a point on the line y = x?",
+        "answer": "C",
+        "options": {
+            "A": "2 left, 0",
+            "B": "0, 2 down",
+            "C": "2 left, 2 down",
+            "D": "1 left, 3 down"
+        }
+    },
+    {
+        "question": "Which movement from (6, 8) results in a point on the line y = x?",
+        "answer": "B",
+        "options": {
+            "A": "2 left, 0",
+            "B": "0, 2 down",
+            "C": "2 left, 2 down",
+            "D": "1 left, 3 down"
+        }
+    },
+    {
+        "question": "Revised D: Which movement from (6, 8) results in a point on the line y = x?",
+        "answer": "B",
+        "options": {
+            "A": "2 left, 0",
+            "B": "0, 2 down",
+            "C": "2 left, 2 down",
+            "D": "1 left, 2 down"
+        }
+    },
+    {
+        "question": "A rectangle has vertices at (2, 3), (2, 7), (x, 7), and (x, 3). The distance from (2,3) to (x,7) is 5 units. What is x?",
+        "answer": "C",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        }
+    },
+    {
+        "question": "Point M is at (a, b). After moving 1 unit right and 3 units up, it is at (5, 9). What is the value of a\u00b2 + b?",
+        "answer": "C",
+        "options": {
+            "A": "17",
+            "B": "18",
+            "C": "19",
+            "D": "20"
+        }
+    },
+    {
+        "question": "Point M is at (a, b). After moving 1 unit right and 3 units up, it is at (5, 6). What is the value of a\u00b2 + b?",
+        "answer": "C",
+        "options": {
+            "A": "17",
+            "B": "18",
+            "C": "19",
+            "D": "20"
+        }
+    },
+    {
+        "question": "Which polygon is formed by joining (1,1), (3,1), (4,3), (3,5), (1,5), and (0,3) in order?",
+        "answer": "B",
+        "options": {
+            "A": "Pentagon",
+            "B": "Hexagon",
+            "C": "Heptagon",
+            "D": "Octagon"
+        }
+    },
+    {
+        "question": "A translation moves (2, 4) to (6, 1). What are the new coordinates of (0, 7) under the same translation?",
+        "answer": "A",
+        "options": {
+            "A": "(4, 4)",
+            "B": "(\u22124, 10)",
+            "C": "(4, 10)",
+            "D": "(8, \u22122)"
+        }
+    },
+    {
+        "question": "The points (3, 2), (6, 2), and (4.5, 5) form a triangle. What type is it?",
+        "answer": "B",
+        "options": {
+            "A": "Equilateral",
+            "B": "Isosceles",
+            "C": "Right-angled",
+            "D": "Scalene"
+        }
+    },
+    {
+        "question": "Which point is 3 units to the right and 2 units down from the midpoint of (2, 6) and (8, 2)?",
+        "answer": "B",
+        "options": {
+            "A": "(6, 2)",
+            "B": "(7, 3)",
+            "C": "(8, 4)",
+            "D": "(9, 1)"
+        }
+    },
+    {
+        "question": "Which point is 2 units to the right and 1 unit down from the midpoint of (2, 6) and (8, 2)?",
+        "answer": "B",
+        "options": {
+            "A": "(6, 2)",
+            "B": "(7, 3)",
+            "C": "(8, 4)",
+            "D": "(9, 1)"
+        }
+    },
+    {
+        "question": "A square has area 25 cm\u00b2. One vertex is at (1, 3), and it extends right and up. What are the coordinates of the top-right vertex?",
+        "answer": "B",
+        "options": {
+            "A": "(5, 7)",
+            "B": "(6, 8)",
+            "C": "(5, 8)",
+            "D": "(6, 7)"
+        }
+    },
+    {
+        "question": "Which translation, when applied twice, moves (2, 3) to (8, 9)?",
+        "answer": "A",
+        "options": {
+            "A": "3 right, 3 up",
+            "B": "6 right, 6 up",
+            "C": "4 right, 4 up",
+            "D": "2 right, 2 up"
+        }
+    },
+    {
+        "question": "Points (1, 1), (5, 1), (5, 4), and (1, 4) form a rectangle. If each x-coordinate is increased by 2 and each y-coordinate is decreased by 1, what is the new area?",
+        "answer": "B",
+        "options": {
+            "A": "9",
+            "B": "12",
+            "C": "15",
+            "D": "16"
+        }
+    },
+    {
+        "question": "A shape is translated so that its centroid (average of vertices) moves from (3, 4) to (6, 2). Which point moves from (5, 7) to?",
+        "answer": "A",
+        "options": {
+            "A": "(8, 5)",
+            "B": "(2, 9)",
+            "C": "(8, 9)",
+            "D": "(2, 5)"
+        }
+    },
+    {
+        "question": "Which point satisfies: x-coordinate is 3 more than y-coordinate, and it is 5 units from (6, 2)?",
+        "answer": "D",
+        "options": {
+            "A": "(3, 0)",
+            "B": "(6, 3)",
+            "C": "(7, 4)",
+            "D": "(4, 1)"
+        }
+    },
+    {
+        "question": "Which point in the first quadrant satisfies: x-coordinate is 3 more than y-coordinate, and it is 5 units from (6, 2)?",
+        "answer": "B",
+        "options": {
+            "A": "(2, \u22121)",
+            "B": "(9, 6)",
+            "C": "(3, 0)",
+            "D": "(6, 3)"
+        }
+    },
+    {
+        "question": "A triangle has vertices at (0, 0), (a, 0), and (0, b). Its area is 18 and perimeter is 24. What is a + b?",
+        "answer": "A",
+        "options": {
+            "A": "12",
+            "B": "14",
+            "C": "16",
+            "D": "18"
+        }
+    },
+    {
+        "question": "A right-angled triangle has vertices at (0, 0), (a, 0), and (0, a). Its area is 18. What is a + a?",
+        "answer": "A",
+        "options": {
+            "A": "12",
+            "B": "14",
+            "C": "16",
+            "D": "18"
+        }
+    },
+    {
+        "question": "Point P is at (4, 5). After a translation of 3 units left and 2 units up, it is at Q. What are the coordinates of Q?",
+        "answer": "A",
+        "options": {
+            "A": "(1, 7)",
+            "B": "(7, 3)",
+            "C": "(1, 3)",
+            "D": "(7, 7)"
+        }
+    },
+    {
+        "question": "A rectangle has vertices at (1, 2), (1, 6), (x, 6), and (x, 2). The diagonal from (1,2) to (x,6) is 5 units long. What is x?",
+        "answer": "B",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        }
+    },
+    {
+        "question": "Which set of instructions moves a point from (7, 9) to (4, 5)?",
+        "answer": "A",
+        "options": {
+            "A": "3 left, 4 down",
+            "B": "3 right, 4 up",
+            "C": "11 left, 14 down",
+            "D": "4 left, 3 down"
+        }
+    },
+    {
+        "question": "Three vertices of a square are (3, 1), (6, 1), and (3, 4). What is the perimeter of the square?",
+        "answer": "B",
+        "options": {
+            "A": "9",
+            "B": "12",
+            "C": "15",
+            "D": "18"
+        }
+    },
+    {
+        "question": "A shape is translated so that (2, 7) moves to (5, 3). Which point moves to (8, 0)?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 4)",
+            "B": "(11, \u22124)",
+            "C": "(5, \u22124)",
+            "D": "(11, 4)"
+        }
+    },
+    {
+        "question": "Points A(2,3), B(5,6), C(2,9), and D(\u22121,6) form a quadrilateral. What type is it?",
+        "answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram (not rhombus)"
+        }
+    },
+    {
+        "question": "Points A(3,2), B(6,5), C(3,8), and D(0,5) are plotted. Though D is on the axis, which shape do they form?",
+        "answer": "A",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Kite"
+        }
+    },
+    {
+        "question": "A robot starts at (1, 1). It moves: right 5, up 2, left 3, down 1, right 2, up 3. Where is it?",
+        "answer": "C",
+        "options": {
+            "A": "(5, 5)",
+            "B": "(6, 5)",
+            "C": "(5, 6)",
+            "D": "(6, 6)"
+        }
+    },
+    {
+        "question": "A robot starts at (1, 1). It moves: right 5, up 2, left 3, down 1, right 2, up 4. Where is it?",
+        "answer": "C",
+        "options": {
+            "A": "(5, 5)",
+            "B": "(6, 5)",
+            "C": "(5, 6)",
+            "D": "(6, 6)"
+        }
+    },
+    {
+        "question": "Which point is equidistant from (2, 3) and (6, 3) and lies on the line y = 7?",
+        "answer": "A",
+        "options": {
+            "A": "(4, 7)",
+            "B": "(2, 7)",
+            "C": "(6, 7)",
+            "D": "(0, 7)"
+        }
+    },
+    {
+        "question": "A triangle has vertices at (1, 1), (7, 1), and (4, y). Its area is 15. What is y?",
+        "answer": "C",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+        }
+    },
+    {
+        "question": "After a translation, the point (x, y) becomes (x\u22122, y+5). Which point moves to (3, 9)?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 4)",
+            "B": "(1, 14)",
+            "C": "(5, 14)",
+            "D": "(1, 4)"
+        }
+    },
+    {
+        "question": "Which movement from (5, 7) results in a point where the y-coordinate is three times the x-coordinate?",
+        "answer": "B",
+        "options": {
+            "A": "1 left, 1 down",
+            "B": "2 left, 4 down",
+            "C": "3 left, 6 down",
+            "D": "4 left, 8 down"
+        }
+    },
+    {
+        "question": "Which movement from (5, 7) results in a point where the y-coordinate is three times the x-coordinate?",
+        "answer": "D",
+        "options": {
+            "A": "1 left, 1 down",
+            "B": "2 left, 1 down",
+            "C": "3 left, 2 down",
+            "D": "4 left, 4 down"
+        }
+    },
+    {
+        "question": "A square has vertices at (2, 3), (5, 3), (5, 6), and (2, 6). After a translation of 1 unit right and 2 units down, what is the sum of the x-coordinates of all four vertices?",
+        "answer": "C",
+        "options": {
+            "A": "24",
+            "B": "26",
+            "C": "28",
+            "D": "30"
+        }
+    },
+    {
+        "question": "A square has vertices at (2, 3), (5, 3), (5, 6), and (2, 6). After a translation of 1 unit right and 2 units down, what is the sum of all x- and y-coordinates of the four vertices?",
+        "answer": "C",
+        "options": {
+            "A": "24",
+            "B": "26",
+            "C": "28",
+            "D": "30"
+        }
+    },
+    {
+        "question": "Which two points have the same x-coordinate and are 4 units apart vertically?",
+        "answer": "B",
+        "options": {
+            "A": "(3, 2) and (7, 2)",
+            "B": "(5, 1) and (5, 5)",
+            "C": "(2, 4) and (6, 4)",
+            "D": "(1, 3) and (4, 7)"
+        }
+    },
+    {
+        "question": "A shape is moved 6 units left, then 3 units up, then 2 units right, then 1 unit down. What single translation is equivalent?",
+        "answer": "A",
+        "options": {
+            "A": "4 left, 2 up",
+            "B": "8 left, 4 up",
+            "C": "4 right, 2 down",
+            "D": "4 left, 4 up"
+        }
+    },
+    {
+        "question": "The points (0, 4), (3, 0), (6, 4), and (3, 8) form a quadrilateral. What is its perimeter?",
+        "answer": "D",
+        "options": {
+            "A": "20",
+            "B": "24",
+            "C": "4\u221a13",
+            "D": "8\u221a13"
+        }
+    },
+    {
+        "question": "The points (0, 4), (3, 0), (6, 4), and (3, 8) form a quadrilateral. What is its perimeter?",
+        "answer": "A",
+        "options": {
+            "A": "20",
+            "B": "24",
+            "C": "4\u221a13",
+            "D": "8\u221a13"
+        }
+    },
+    {
+        "question": "Point R is at (a, b). After moving 4 units left and 1 unit up, it is at (2, 6). What is the value of a \u2212 b?",
+        "answer": "A",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        }
+    },
+    {
+        "question": "A pentagon has vertices at (1,1), (3,1), (4,3), (2,5), and (0,3). What is the length of the side from (2,5) to (0,3)?",
+        "answer": "A",
+        "options": {
+            "A": "\u221a8",
+            "B": "\u221a10",
+            "C": "\u221a13",
+            "D": "4"
+        }
+    },
+    {
+        "question": "Which translation maps the triangle with vertices (1,2), (3,5), (5,2) onto the triangle with vertices (4,0), (6,3), (8,0)?",
+        "answer": "A",
+        "options": {
+            "A": "3 right, 2 down",
+            "B": "3 left, 2 up",
+            "C": "5 right, 3 down",
+            "D": "2 right, 3 down"
+        }
+    },
+    {
+        "question": "A rectangle has area 24 and perimeter 20. One vertex is at (1, 1), and it extends right and up. What are the coordinates of the opposite vertex?",
+        "answer": "C",
+        "options": {
+            "A": "(4, 7)",
+            "B": "(5, 5)",
+            "C": "(7, 4)",
+            "D": "(3, 9)"
+        }
+    },
+    {
+        "question": "A rectangle has area 18 and perimeter 18. One vertex is at (1, 1), and it extends right and up. What are the coordinates of the opposite vertex?",
+        "answer": "C",
+        "options": {
+            "A": "(4, 7)",
+            "B": "(5, 5)",
+            "C": "(7, 4)",
+            "D": "(3, 9)"
+        }
+    },
+    {
+        "question": "Which point is farthest from the origin among those in the first quadrant with integer coordinates and x + y = 7?",
+        "answer": "A",
+        "options": {
+            "A": "(1, 6)",
+            "B": "(2, 5)",
+            "C": "(3, 4)",
+            "D": "(0, 7)"
+        }
+    },
+    {
+        "question": "Which point is farthest from the origin among those with integer coordinates, x \u2265 0, y \u2265 0, and x + y = 7?",
+        "answer": "D",
+        "options": {
+            "A": "(1, 6)",
+            "B": "(2, 5)",
+            "C": "(3, 4)",
+            "D": "(0, 7)"
+        }
+    },
+    {
+        "question": "A line segment joins (1, 3) and (7, 9). Which point divides it in the ratio 1:2 (closer to (1,3))?",
+        "answer": "A",
+        "options": {
+            "A": "(3, 5)",
+            "B": "(4, 6)",
+            "C": "(5, 7)",
+            "D": "(2, 4)"
+        }
+    }
+]

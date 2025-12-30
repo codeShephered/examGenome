@@ -80,8 +80,8 @@
     "details": "36 ÷ 9 = 4, then 4 × 2 = 8."
   },
   {
-    "question": "A salary is $1,200. If 1/3 is spent on rent, how much is spent on rent?",
-    "answer": "$400",
+    "question": "A salary is £1,200. If 1/3 is spent on rent, how much is spent on rent?",
+    "answer": "£400",
     "details": "1,200 ÷ 3 = 400."
   },
   {
@@ -270,9 +270,9 @@
     "details": "64 ÷ 8 = 8, then 8 × 5 = 40."
   },
   {
-    "question": "A school trip costs $180. If parents pay 2/3 of it, how much do they pay?",
-    "answer": "$120",
-    "details": "180 ÷ 3 = 60, then 60 × 2 = $120."
+    "question": "A school trip costs £180. If parents pay 2/3 of it, how much do they pay?",
+    "answer": "£120",
+    "details": "180 ÷ 3 = 60, then 60 × 2 = £120."
   },
   {
     "question": "What is 3/9 of 54?",
@@ -310,9 +310,9 @@
     "details": "Simplify 6/8 to 3/4. 32 ÷ 4 = 8, then 8 × 3 = 24."
   },
   {
-    "question": "A toy costs $40. If you have saved 3/5 of the amount, how much have you saved?",
-    "answer": "$24",
-    "details": "40 ÷ 5 = 8, then 8 × 3 = $24."
+    "question": "A toy costs £40. If you have saved 3/5 of the amount, how much have you saved?",
+    "answer": "£24",
+    "details": "40 ÷ 5 = 8, then 8 × 3 = £24."
   },
   {
     "question": "What is 1/3 of 27?",
@@ -510,13 +510,43 @@
     "details": "Simplify 50/100 to 1/2. 250 ÷ 2 = 125."
   },
   {
-    "question": "A pizza costs $24. If you pay 3/8 of the cost, how much do you pay?",
-    "answer": "$9",
-    "details": "24 ÷ 8 = 3, then 3 × 3 = $9."
+    "question": "A pizza costs £24. If you pay 3/8 of the cost, how much do you pay?",
+    "answer": "£9",
+    "details": "24 ÷ 8 = 3, then 3 × 3 = £9."
   },
   {
     "question": "What is 60/120 of 300?",
     "answer": "150",
     "details": "Simplify 60/120 to 1/2. 300 ÷ 2 = 150."
+  },
+  {
+    "question": "A class has 30 students. If 2/5 of the students walk to school, how many students walk to school?",
+    "answer": "12 students",
+    "details": "To find 2/5 of 30, first find the value of one fifth (1/5): 30 % 5 = 6. Then, multiply that value by the numerator (2): 6 * 2 = 12. Therefore, 12 students walk to school."
+  },
+  {
+    "question": "A recipe requires 3/4 of a kilogram of flour. If the full amount of flour available is 800 grams, how many grams of flour are needed for the recipe?",
+    "answer": "600 grams",
+    "details": "The quantity is 800 grams. To find 3/4 of 800: 1. Divide by the denominator (4): 800 % 4 = 200. (One quarter is 200g). 2. Multiply by the numerator (3): 200 * 3 = 600. 600 grams of flour are needed."
+  },
+  {
+    "question": "A shop sold 5/6 of its 42 video games on a Saturday. How many video games were sold?",
+    "answer": "35 video games",
+    "details": "To find 5/6 of 42: 1. Divide the whole quantity by the denominator (6): 42 % 6 = 7. (One sixth is 7 games). 2. Multiply by the numerator (5): 7 * 5 = 35. 35 video games were sold."
+  },
+  {
+    "question": "If 1/3 of a 9-meter roll of ribbon is used to wrap presents, how many meters of ribbon are left?",
+    "answer": "6 meters",
+    "details": "1. Calculate the amount used: 1/3 of 9 meters is 9 % 3 = 3 meters. 2. Calculate the amount left by subtracting the used amount from the total: 9  meters - 3  meters = 6  meters. Alternatively, the fraction left is 2/3, and 2/3 of 9 is 3 * 2 = 6 meters."
+  },
+  {
+    "question": "An hour has 60 minutes. If a student spends 7/10 of an hour completing their homework, how many minutes did they spend on the homework?",
+    "answer": "42 minutes",
+    "details": "To find 7/10 of 60: 1. Divide the whole quantity by the denominator (10): 60 % 10 = 6. (One tenth is 6 minutes). 2. Multiply by the numerator (7): 6 * 7 = 42. The student spent 42 minutes on homework."
+  },
+  {
+    "question": "A bag contains 24 marbles. 2/3 of the marbles are blue, and the rest are green. How many green marbles are in the bag?",
+    "answer": "8 green marbles",
+    "details": "1. Determine the fraction of green marbles: If 2/3 are blue, then the rest (3/3 - 2/3) must be 1/3 green. 2. Calculate 1/3 of 24: 24 % 3 = 8. There are 8 green marbles in the bag."
   }
 ]

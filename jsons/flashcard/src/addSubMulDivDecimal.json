@@ -80,14 +80,14 @@
     "details": "2.4 ÷ 0.6 = (2.4 × 10) ÷ (0.6 × 10) = 24 ÷ 6 = 4."
   },
   {
-    "question": "What is $3.25 + $2.75?",
-    "answer": "$6.00",
-    "details": "Add cents: 25 + 75 = 100 cents = $1.00. Add dollars: 3 + 2 + 1 = $6.00."
+    "question": "What is £3.25 + £2.75?",
+    "answer": "£6.00",
+    "details": "Add cents: 25 + 75 = 100 cents = £1.00. Add dollars: 3 + 2 + 1 = £6.00."
   },
   {
-    "question": "What is $10.00 − $4.35?",
-    "answer": "$5.65",
-    "details": "Subtract cents: 0 − 35 → borrow → 100 − 35 = 65 cents. Dollars: 9 − 4 = $5. Result: $5.65."
+    "question": "What is £10.00 − £4.35?",
+    "answer": "£5.65",
+    "details": "Subtract cents: 0 − 35 → borrow → 100 − 35 = 65 cents. Dollars: 9 − 4 = £5. Result: £5.65."
   },
   {
     "question": "What is 0.25 × 4?",
@@ -260,14 +260,14 @@
     "details": "Multiply numerator and denominator by 100: 144 ÷ 12 = 12."
   },
   {
-    "question": "What is $12.50 + $7.75?",
-    "answer": "$20.25",
-    "details": "Dollars: 12 + 7 = 19. Cents: 50 + 75 = 125 cents = $1.25. Total: 19 + 1.25 = $20.25."
+    "question": "What is £12.50 + £7.75?",
+    "answer": "£20.25",
+    "details": "Dollars: 12 + 7 = 19. Cents: 50 + 75 = 125 cents = £1.25. Total: 19 + 1.25 = £20.25."
   },
   {
-    "question": "What is $20.00 − $13.65?",
-    "answer": "$6.35",
-    "details": "Borrow as needed: cents 00−65 → 100−65=35; dollars 19−13=6. Result: $6.35."
+    "question": "What is £20.00 − £13.65?",
+    "answer": "£6.35",
+    "details": "Borrow as needed: cents 00−65 → 100−65=35; dollars 19−13=6. Result: £6.35."
   },
   {
     "question": "What is 0.2 × 0.5?",
@@ -380,14 +380,14 @@
     "details": "3.6 ÷ 1.2 = (3.6 × 10) ÷ (1.2 × 10) = 36 ÷ 12 = 3."
   },
   {
-    "question": "What is $5.99 + $4.01?",
-    "answer": "$10.00",
-    "details": "Cents: 99 + 01 = 100 cents = $1.00. Dollars: 5 + 4 + 1 = $10.00."
+    "question": "What is £5.99 + £4.01?",
+    "answer": "£10.00",
+    "details": "Cents: 99 + 01 = 100 cents = £1.00. Dollars: 5 + 4 + 1 = £10.00."
   },
   {
-    "question": "What is $15.50 − $7.25?",
-    "answer": "$8.25",
-    "details": "Cents: 50 − 25 = 25. Dollars: 15 − 7 = 8. Result: $8.25."
+    "question": "What is £15.50 − £7.25?",
+    "answer": "£8.25",
+    "details": "Cents: 50 − 25 = 25. Dollars: 15 − 7 = 8. Result: £8.25."
   },
   {
     "question": "What is 0.4 × 0.25?",
@@ -518,5 +518,55 @@
     "question": "What is 0.81 ÷ 0.09?",
     "answer": "9",
     "details": "Multiply numerator and denominator by 100: 81 ÷ 9 = 9."
-  }
+  },
+    {
+      "question": "What is 3.25 + 4.6?",
+      "answer": "7.85",
+      "details": "To add decimals, align the decimal points and add as with whole numbers. Write 3.25 + 4.60 (adding a zero to make place values match). Units: 3 + 4 = 7. Tenths: 2 + 6 = 8. Hundredths: 5 + 0 = 5. So, 3.25 + 4.6 = 7.85."
+    },
+    {
+      "question": "Subtract 2.75 from 5.0.",
+      "answer": "2.25",
+      "details": "Write 5.00 − 2.75 to align decimals. Hundredths: 0 − 5 → borrow → 10 − 5 = 5. Tenths: 0 becomes 9 (after borrow), 9 − 7 = 2. Units: 5 becomes 4, 4 − 2 = 2. Result: 2.25."
+    },
+    {
+      "question": "Multiply 0.6 by 0.4.",
+      "answer": "0.24",
+      "details": "Multiply as whole numbers: 6 × 4 = 24. Count total decimal places: 0.6 has 1, 0.4 has 1 → total 2 decimal places. So, place decimal two places from right: 0.24."
+    },
+    {
+      "question": "A pencil costs £1.25 and an eraser costs £0.75. What is the total cost?",
+      "answer": "2.00",
+      "details": "Add £1.25 + £0.75. Hundredths: 5 + 5 = 10 → write 0, carry 1. Tenths: 2 + 7 = 9, plus 1 = 10 → write 0, carry 1. Units: 1 + 0 = 1, plus 1 = 2. Total: £2.00."
+    },
+    {
+      "question": "Divide 4.8 by 2.",
+      "answer": "2.4",
+      "details": "Divide as whole numbers: 48 ÷ 2 = 24. Since 4.8 has one decimal place, the answer also has one decimal place: 2.4. Alternatively, think: half of 4.8 is 2.4."
+    },
+    {
+      "question": "What is 7.3 − 2.85?",
+      "answer": "4.45",
+      "details": "Write 7.30 − 2.85. Hundredths: 0 − 5 → borrow → 10 − 5 = 5. Tenths: 3 becomes 2 → 2 − 8 → borrow → 12 − 8 = 4. Units: 7 becomes 6, 6 − 2 = 4. Answer: 4.45."
+    },
+    {
+      "question": "Multiply 3.5 by 2.",
+      "answer": "7.0",
+      "details": "Multiply 35 × 2 = 70. Since 3.5 has one decimal place, the product has one decimal place: 7.0 (which is the same as 7, but written as 7.0 to show decimal understanding)."
+    },
+    {
+      "question": "A rope is 6.4 meters long. It is cut into 4 equal pieces. How long is each piece?",
+      "answer": "1.6",
+      "details": "Divide total length by number of pieces: 6.4 ÷ 4. 64 ÷ 4 = 16. Since 6.4 has one decimal place, answer is 1.6 meters."
+    },
+    {
+      "question": "Add 0.9 + 0.09 + 0.009.",
+      "answer": "0.999",
+      "details": "Align decimals: 0.900 + 0.090 + 0.009. Thousandths: 0 + 0 + 9 = 9. Hundredths: 0 + 9 + 0 = 9. Tenths: 9 + 0 + 0 = 9. Result: 0.999."
+    },
+    {
+      "question": "Divide 5.25 by 5.",
+      "answer": "1.05",
+      "details": "Divide 525 ÷ 5 = 105. Since 5.25 has two decimal places, the answer has two decimal places: 1.05. Alternatively: 5 ÷ 5 = 1, 0.25 ÷ 5 = 0.05, so total 1.05."
+    }
 ]

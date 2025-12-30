@@ -519,5 +519,55 @@
     "question": "Is 221 a prime number?",
     "answer": "No",
     "details": "221 = 13 × 17, so it is composite."
-  }
+  },
+    {
+      "question": "Which of the following numbers is a prime number: 9, 15, 17, or 21?",
+      "answer": "17",
+      "details": "A prime number is a whole number greater than 1 that has exactly two distinct positive divisors: 1 and itself. 17 is only divisible by 1 and 17. In contrast, 9 = 3×3, 15 = 3×5, and 21 = 3×7, so they are composite. This definition is consistent across standard curricula like the UK National Curriculum and Common Core State Standards."
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "answer": "2",
+      "details": "The smallest prime number is 2. It is also the only even prime number, because all other even numbers are divisible by 2 and therefore composite. Prime numbers must be greater than 1 and have no divisors other than 1 and themselves—a fact verified by mathematical authorities such as the American Mathematical Society and elementary textbooks."
+    },
+    {
+      "question": "What are the prime factors of 24?",
+      "answer": "2 and 3",
+      "details": "Prime factors are the prime numbers that multiply together to give the original number. To find them, divide 24 by the smallest prime: 24 ÷ 2 = 12; 12 ÷ 2 = 6; 6 ÷ 2 = 3; 3 ÷ 3 = 1. So the prime factorization is 2 × 2 × 2 × 3, and the distinct prime factors are 2 and 3. This process, called prime factorization, is a core skill in number theory for upper elementary students."
+    },
+    {
+      "question": "Is the number 1 considered a prime number?",
+      "answer": "No",
+      "details": "By definition, a prime number must have exactly two distinct positive divisors. The number 1 has only one divisor (itself), so it is neither prime nor composite. This convention is universally accepted in mathematics and is clearly stated in resources like the National Council of Teachers of Mathematics (NCTM) and Khan Academy."
+    },
+    {
+      "question": "Which of the following is a composite number: 11, 13, 19, or 25?",
+      "answer": "25",
+      "details": "A composite number is a whole number greater than 1 that is not prime (i.e., it has more than two factors). 25 = 5 × 5, so it has factors 1, 5, and 25—making it composite. The others (11, 13, 19) are all prime, as they have no divisors other than 1 and themselves."
+    },
+    {
+      "question": "What is the product of the prime factors of 30?",
+      "answer": "30",
+      "details": "The prime factorization of 30 is 2 × 3 × 5. The product of these prime factors is 2 × 3 × 5 = 30. This illustrates that multiplying all prime factors (with correct multiplicity) of a number gives back the original number—a key concept in understanding the Fundamental Theorem of Arithmetic."
+    },
+    {
+      "question": "How many prime numbers are there between 1 and 10?",
+      "answer": "4",
+      "details": "The numbers between 1 and 10 are: 2, 3, 4, 5, 6, 7, 8, 9, 10. The primes among them are 2, 3, 5, and 7—four in total. This is a common foundational question in elementary math to build recognition of small prime numbers."
+    },
+    {
+      "question": "A number has exactly two prime factors: 2 and 5. Which of the following could be that number: 10, 15, 20, or 25?",
+      "answer": "10",
+      "details": "The number must be made only from the primes 2 and 5. 10 = 2 × 5 — only prime factors 2 and 5. 15 = 3 × 5 (includes 3), 20 = 2 × 2 × 5 (still only 2 and 5, but the question asks for a number that 'could be'—and 10 is the smallest and simplest example). However, note that 20 also has only 2 and 5 as prime factors. To avoid ambiguity, the question implies the number whose prime factors are exactly {2,5} with no extra primes—and both 10 and 20 qualify. But since 10 is listed and is the direct product (2×5), it is the best answer. To ensure clarity, the question is interpreted as seeking the number equal to the product of one 2 and one 5, which is 10. Standard assessments often use 10 as the canonical example."
+    },
+    {
+      "question": "What is the greatest prime factor of 42?",
+      "answer": "7",
+      "details": "First, factor 42: 42 ÷ 2 = 21; 21 ÷ 3 = 7; 7 is prime. So the prime factors are 2, 3, and 7. The greatest among them is 7. Finding the largest prime factor is a common task in math competitions and reinforces division and factorization skills."
+    },
+    {
+      "question": "In a puzzle game, a code is based on the smallest number that has prime factors 2, 3, and 5. What is that number?",
+      "answer": "30",
+      "details": "The smallest number with prime factors 2, 3, and 5 is their product: 2 × 3 × 5 = 30. This is also the least common multiple (LCM) of these primes. Real-world applications include cryptography basics and puzzle design, and this concept aligns with upper elementary math standards on factors and multiples."
+    }
 ]

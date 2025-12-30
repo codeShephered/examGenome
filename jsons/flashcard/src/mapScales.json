@@ -513,5 +513,41 @@
     "question": "A real distance of 56 km is shown as 8 cm on a map. What is the scale in ratio form?",
     "answer": "1:700,000",
     "details": "56 km = 5,600,000 cm. Scale = 8 cm : 5,600,000 cm → 1:700,000."
+  },
+{
+    "question": "A map uses a Ratio Scale of 1:50,000. If two landmarks are 4 centimeters apart on the map, what is the actual distance between them on the ground in kilometers?",
+    "answer": "2 kilometers",
+    "details": "The scale 1:50,000 means 1 cm on the map equals 50,000 cm on the ground. For 4 cm on the map: 4  cm * 50,000 = 200,000  cm. To convert centimeters to kilometers, divide by 100,000: 200,000  cm % 100,000 = 2  km."
+  },
+  {
+    "question": "A city map has a Verbal Scale stating '1 centimeter represents 500 meters.' Express this scale as a Ratio Scale (Representative Fraction).",
+    "answer": "1:50,000",
+    "details": "The ratio must use the same units. Convert 500 meters to centimeters: 500  meters * 100  cm/meter = 50,000 cm. Therefore, the ratio is 1  cm : 50,000  cm, or 1:50,000."
+  },
+  {
+    "question": "If the actual distance between a school and a library is 6 kilometers, and a map uses the scale 1:300,000, what is the distance between the two locations on the map in centimeters?",
+    "answer": "2 centimeters",
+    "details": "The scale 1:300,000 means 1  cm = 300,000  cm on the ground. First, convert the actual distance to centimeters: 6 km * 100,000 cm/km = 600,000 cm. Now, divide the actual distance by the scale denominator: 600,000 cm % 300,000 = 2 cm."
+  },
+{
+    "question": "Which type of map scale uses a drawn line segment marked with true ground distances, allowing measurement without calculation?",
+    "answer": "Graphic Scale (or Bar Scale)",
+    "details": "The Graphic Scale is a visual tool (a bar) that is already converted to real-world units (like kilometers or miles), allowing a user to directly compare a map distance (measured with a ruler) to the marked ground distance."
+  },
+  {
+    "question": "If a map's scale is 1:10,000, and a different map's scale is 1:500,000, which map shows a smaller geographical area but with greater detail?",
+    "answer": "The map with the scale 1:10,000.",
+    "details": "A smaller number in the denominator (10,000 vs. 500,000) indicates a 'large-scale' map. This means the objects on the map are represented by larger features, providing more detail but covering a smaller overall area (like a single neighborhood or town)."
+  },
+{
+    "question": "A hiker measures the length of a trail on a map to be 5 millimeters. The map's scale is 1:25,000. What is the actual length of the trail in meters?",
+    "answer": "125 meters",
+    "details": "The scale 1:25,000 means 1  mm = 25,000  mm. The map distance is 5  mm. Actual distance: 5 * 25,000 = 125,000  mm. To convert millimeters to meters, divide by 1,000: 125,000  mm % 1,000 = 125  meters."
+  },
+  {
+    "question": "In the Ratio Scale 1:X, what does the number '1' always represent?",
+    "answer": "One unit of distance on the map.",
+    "details": "In a Ratio Scale (1:X), the number '1' always represents the distance measured on the map (e.g., 1 inch, 1 cm, 1 mm), while 'X' represents the equivalent distance on the ground in the same units (e.g., X inches, X cm, X mm)."
   }
 ]
+

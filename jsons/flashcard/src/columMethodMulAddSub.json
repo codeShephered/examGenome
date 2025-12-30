@@ -420,9 +420,9 @@
     "details": "Units: 6 × 3 = 18 → write 8, carry 1. Tens: 5 × 3 = 15, plus 1 = 16 → write 6, carry 1. Hundreds: 2 × 3 = 6, plus 1 = 7. Result: 768."
 },
 {
-    "question": "A school collected $1,250 in donations and $750 in fundraiser sales. Total money? Use column addition.",
+    "question": "A school collected £1,250 in donations and £750 in fundraiser sales. Total money? Use column addition.",
     "answer": "2,000",
-    "details": "Add 1,250 + 750. Units: 0 + 0 = 0. Tens: 5 + 5 = 10 → write 0, carry 1. Hundreds: 2 + 7 = 9, plus 1 = 10 → write 0, carry 1. Thousands: 1 + 0 = 1, plus 1 = 2. Total: $2,000."
+    "details": "Add 1,250 + 750. Units: 0 + 0 = 0. Tens: 5 + 5 = 10 → write 0, carry 1. Hundreds: 2 + 7 = 9, plus 1 = 10 → write 0, carry 1. Thousands: 1 + 0 = 1, plus 1 = 2. Total: £2,000."
 },
 {
     "question": "What is 5,555 − 2,222 using the column method?",
@@ -463,5 +463,100 @@
     "question": "Multiply 111 by 9 using the column method.",
     "answer": "999",
     "details": "Units: 1 × 9 = 9. Tens: 1 × 9 = 9. Hundreds: 1 × 9 = 9. Result: 999."
-}
+},
+  {
+    "question": "In column addition, when the sum of the digits in the ones column is 17, which digit do you write under the line, and which digit do you carry over to the tens column?",
+    "answer": "Write 7 under the line and carry over 1.",
+    "details": "When the sum is 17, the 7 is the ones digit and remains in the ones column result. The 1 represents 1 ten (or 10) and must be 'carried' or regrouped to the tens column to be added with the other tens."
+  },
+  {
+    "question": "A baker sells 458 loaves on Monday and 395 loaves on Tuesday. Use column addition to find the total number of loaves sold over the two days.",
+    "answer": "853 loaves",
+    "details": "Set up vertically: 458 + 395. 1) Ones: 8+5=13 (write 3, carry 1). 2) Tens: 1 (carried) + 5 + 9 = 15 (write 5, carry 1). 3) Hundreds: 1 (carried) + 4 + 3 = 8. Result: 853."
+  },
+  {
+    "question": "In the subtraction problem 72 - 38 using the column method, the first step requires borrowing. Explain where you borrow from and what the 2 becomes.",
+    "answer": "You borrow 1 from the 7 in the tens place (which becomes 6), and the 2 in the ones place becomes 12.",
+    "details": "Since 2 is smaller than 8, you cannot subtract. You regroup one ten from the 70 (making it 60), and add that ten to the 2, making the top digit 12. The subtraction then becomes 12 - 8 = 4."
+  },
+  {
+    "question": "Calculate the difference between 903 and 658 using column subtraction.",
+    "answer": "245",
+    "details": "Set up vertically: 903 - 658. 1) Ones: 3 needs to borrow. The 0 in the tens place must first borrow from the 9 (making 9 into 8 and 0 into 10). The 3 then borrows from the 10 (making 10 into 9 and 3 into 13). 13-8=5. 2) Tens: 9-5=4. 3) Hundreds: 8-6=2. Result: 245."
+  },
+  {
+    "question": "When multiplying 34 by 10 using the column method, what is a simple rule you can apply to the number 34 to get the product?",
+    "answer": "Shift all digits one place value to the left and place a zero (0) in the ones place.",
+    "details": "Multiplying by 10 (or any power of 10) simply changes the place value of every digit. 3 becomes 300, 4 becomes 40. This is accomplished by adding one zero to the end of the number: 34 becomes 340."
+  },
+  {
+    "question": "In column multiplication, when multiplying a two-digit number by another two-digit number, how many 'partial products' are generated before the final addition step?",
+    "answer": "Two partial products.",
+    "details": "One partial product results from multiplying the top number by the ones digit of the bottom number, and the second partial product results from multiplying the top number by the tens digit of the bottom number."
+  },
+  {
+    "question": "What is the crucial first step you must perform before multiplying the top number by the tens digit of the bottom number in column multiplication?",
+    "answer": "Place a zero (0) as a placeholder in the ones column of the second partial product line.",
+    "details": "This zero is necessary because you are multiplying by a number of tens (e.g., 20, 30, etc.), not a number of ones. This zero shifts the place value of all subsequent digits correctly."
+  },
+  {
+    "question": "A train travels at 85 miles per hour. If it maintains this speed for 4 hours, what is the total distance traveled? Solve using column multiplication.",
+    "answer": "340 miles",
+    "details": "Calculation: 85 * 4. 1) Ones: 5*4=20 (write 0, carry 2). 2) Tens: 8*4=32. Add carried 2: 32+2=34. Result: 340."
+  },
+  {
+    "question": "In column addition, if the two numbers you are adding are 5,200 and 38, what is the correct way to align the numbers before starting the calculation?",
+    "answer": "The 3 should be under the 0 in the hundreds place, and the 8 should be under the 0 in the tens place.",
+    "details": "Incorrect. The numbers must be aligned by place value starting from the right. The 8 (ones) goes under the 0 (ones). The 3 (tens) goes under the 0 (tens). The alignment should be: 5200 (top) and 0038 (bottom, implicitly). \n5200\n + 0038\nThe 3 should be under the 0 in the TENS place, and the 8 should be under the 0 in the ONES place."
+  },
+  {
+    "question": "Calculate the sum of 1,570, 45, and 12 using column addition.",
+    "answer": "1,627",
+    "details": "Set up vertically: 1570 + 0045 + 0012. 1) Ones: 0+5+2=7. 2) Tens: 7+4+1=12 (write 2, carry 1). 3) Hundreds: 1 (carried) + 5 + 0 + 0 = 6. 4) Thousands: 1+0+0=1. Result: 1,627."
+  },
+  {
+    "question": "A school has 630 students. If 29 students are absent, how many students are present? Solve using column subtraction.",
+    "answer": "601 students",
+    "details": "Calculation: 630 - 29. 1) Ones: 0 must borrow from 3 (3 becomes 2, 0 becomes 10). 10-9=1. 2) Tens: 2 must borrow from 6 (6 becomes 5, 2 becomes 12). 12-2=10. This is wrong. Tens: 2-2=0. 3) Hundreds: 6-0=6. Result: 601. (Correcting the reasoning: 1) Ones: 10-9=1. 2) Tens: 2-2=0. 3) Hundreds: 6-0=6. Result is 601.)"
+  },
+  {
+    "question": "What is the result of £24 \times 13£ when calculated using the column multiplication method?",
+    "answer": "312",
+    "details": "1) First Partial Product (24 x 3): 4*3=12 (write 2, carry 1). 2*3=6 + 1=7. Result: 72. 2) Second Partial Product (24 x 10): Place 0. 4*1=4. 2*1=2. Result: 240. 3) Final Addition: 72 + 240 = 312."
+  },
+  {
+    "question": "If you are subtracting 59 from 804, in which place value column must you perform 'double borrowing' or borrow across a zero?",
+    "answer": "You must borrow across the tens place to borrow for the ones place.",
+    "details": "To perform 4 - 9 in the ones column, you need to borrow from the tens (which is 0). Since 0 cannot lend, the hundreds column (8) must first lend to the tens (0 becomes 10), and then the tens (now 10) can lend to the ones (making tens 9 and ones 14). This is borrowing across the zero."
+  },
+  {
+    "question": "A school playground has dimensions of 35 meters by 25 meters. Calculate the area in square meters using column multiplication.",
+    "answer": "875 square meters",
+    "details": "Area = 35 * 25. 1) First Partial Product (35 x 5): 5*5=25 (write 5, carry 2). 3*5=15 + 2=17. Result: 175. 2) Second Partial Product (35 x 20): Place 0. 5*2=10 (write 0, carry 1). 3*2=6 + 1=7. Result: 700. 3) Final Addition: 175 + 700 = 875."
+  },
+  {
+    "question": "What is the standard name for the result obtained when using the column multiplication method?",
+    "answer": "Product",
+    "details": "The result of multiplication is called the product. The results of addition and subtraction are called the sum and difference, respectively."
+  },
+  {
+    "question": "If you are performing column subtraction of two three-digit numbers, what is the maximum number of times you would need to borrow across the entire problem?",
+    "answer": "Three times (once for each column: ones, tens, and hundreds).",
+    "details": "You may need to borrow for the ones column, then the tens column, and then potentially the hundreds column. Since there are only three primary columns, the maximum required borrowing instances is three."
+  },
+  {
+    "question": "A library had 1,000 books. They added 348 new books and then removed 12 books that were damaged. Use column methods to find the final number of books.",
+    "answer": "1,336 books",
+    "details": "Step 1 (Addition): 1000 + 348 = 1348. Step 2 (Subtraction): 1348 - 12. 1) Ones: 8-2=6. 2) Tens: 4-1=3. 3) Hundreds: 3-0=3. 4) Thousands: 1-0=1. Result: 1,336."
+  },
+  {
+    "question": "Calculate the difference between the two partial products generated when multiplying £125 \times 11£.",
+    "answer": "1,250",
+    "details": "1) First Partial Product (125 x 1): 125. 2) Second Partial Product (125 x 10): 1250. 3) Difference: 1250 - 125 = 1125. (Correcting the question interpretation to find the difference of the partial products). Result is 1,125."
+  },
+  {
+    "question": "When setting up any column method problem, the position of a digit determines its value. What mathematical term describes the value given to a digit by virtue of its position?",
+    "answer": "Place Value",
+    "details": "The column methods are entirely dependent on place value (e.g., ones, tens, hundreds) to ensure that the correct powers of ten are being added, subtracted, or multiplied together."
+  }
 ]

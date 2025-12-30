@@ -1,0 +1,3656 @@
+[
+{
+"question": "Which fraction is equivalent to 2/5?",
+"options": {
+"A": "3/10",
+"B": "4/10",
+"C": "5/10",
+"D": "6/10"},
+"answer": "B",
+"details": "2/5 = 4/10 because multiplying numerator and denominator by 2 gives 4/10.",
+"difficulty": "easy"
+},
+{
+"question": "What is 3/8 + 2/8?",
+"options": {
+"A": "4/8",
+"B": "5/8",
+"C": "6/8",
+"D": "7/8"},
+"answer": "B",
+"details": "When denominators are the same, add numerators: 3 + 2 = 5, so 5/8.",
+"difficulty": "easy"
+},
+{
+"question": "Which is larger: 3/4 or 7/10?",
+"options": {
+"A": "3/4",
+"B": "7/10",
+"C": "They are equal",
+"D": "Not enough information"},
+"answer": "A",
+"details": "3/4 = 0.75, 7/10 = 0.7, so 3/4 > 7/10.",
+"difficulty": "easy"
+},
+{
+"question": "Write 0.25 as a fraction.",
+"options": {
+"A": "1/10",
+"B": "1/4",
+"C": "1/5",
+"D": "25/10"},
+"answer": "B",
+"details": "0.25 = 25/100 = 1/4 when simplified.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1 3/4 as an improper fraction?",
+"options": {
+"A": "5/4",
+"B": "6/4",
+"C": "7/4",
+"D": "8/4"},
+"answer": "C",
+"details": "1 3/4 = (1 × 4 + 3)/4 = 7/4.",
+"difficulty": "easy"
+},
+{
+"question": "Round 3.67 to the nearest whole number.",
+"options": {
+"A": "3",
+"B": "4",
+"C": "3.6",
+"D": "3.7"},
+"answer": "B",
+"details": "The tenths digit is 6 (≥5), so round up: 3.67 → 4.",
+"difficulty": "easy"
+},
+{
+"question": "What is 20% as a decimal?",
+"options": {
+"A": "0.02",
+"B": "0.2",
+"C": "2.0",
+"D": "20.0"},
+"answer": "B",
+"details": "20% = 20/100 = 0.2.",
+"difficulty": "easy"
+},
+{
+"question": "Which decimal is equal to 3/5?",
+"options": {
+"A": "0.3",
+"B": "0.5",
+"C": "0.6",
+"D": "0.8"},
+"answer": "C",
+"details": "3 ÷ 5 = 0.6, so 3/5 = 0.6.",
+"difficulty": "easy"
+},
+{
+"question": "What is 0.45 as a percentage?",
+"options": {
+"A": "4.5%",
+"B": "45%",
+"C": "450%",
+"D": "0.45%"},
+"answer": "B",
+"details": "0.45 = 45/100 = 45%.",
+"difficulty": "easy"
+},
+{
+"question": "Add: 1.2 + 0.8",
+"options": {
+"A": "1.0",
+"B": "1.8",
+"C": "2.0",
+"D": "2.2"},
+"answer": "C",
+"details": "1.2 + 0.8 = 2.0 (they are complements of 2).",
+"difficulty": "easy"
+},
+{
+"question": "Which fraction is equivalent to 6/10?",
+"options": {
+"A": "3/4",
+"B": "2/5",
+"C": "3/5",
+"D": "4/5"},
+"answer": "C",
+"details": "6/10 simplifies to 3/5 by dividing numerator and denominator by 2.",
+"difficulty": "easy"
+},
+{
+"question": "What is 5/6 – 2/6?",
+"options": {
+"A": "2/6",
+"B": "3/6",
+"C": "4/6",
+"D": "7/6"},
+"answer": "B",
+"details": "Same denominator: 5 – 2 = 3, so 3/6 (which simplifies to 1/2).",
+"difficulty": "easy"
+},
+{
+"question": "Write 7/100 as a decimal.",
+"options": {
+"A": "0.007",
+"B": "0.07",
+"C": "0.7",
+"D": "7.0"},
+"answer": "B",
+"details": "7/100 = 0.07 (hundredths place).",
+"difficulty": "easy"
+},
+{
+"question": "What is 9/5 as a mixed number?",
+"options": {
+"A": "1 2/5",
+"B": "1 3/5",
+"C": "1 4/5",
+"D": "2 1/5"},
+"answer": "C",
+"details": "9 ÷ 5 = 1 remainder 4, so 1 4/5.",
+"difficulty": "easy"
+},
+{
+"question": "Round 5.32 to 1 decimal place.",
+"options": {
+"A": "5.2",
+"B": "5.3",
+"C": "5.4",
+"D": "5"},
+"answer": "B",
+"details": "Hundredths digit is 2 (<5), so keep tenths digit: 5.32 → 5.3.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1/4 as a percentage?",
+"options": {
+"A": "10%",
+"B": "20%",
+"C": "25%",
+"D": "50%"},
+"answer": "C",
+"details": "1/4 = 25/100 = 25%.",
+"difficulty": "easy"
+},
+{
+"question": "Which is smaller: 0.125 or 0.2?",
+"options": {
+"A": "0.125",
+"B": "0.2",
+"C": "They are equal",
+"D": "Not enough information"},
+"answer": "A",
+"details": "0.125 = 125/1000, 0.2 = 200/1000, so 0.125 < 0.2.",
+"difficulty": "easy"
+},
+{
+"question": "Subtract: 2.5 – 1.3",
+"options": {
+"A": "1.1",
+"B": "1.2",
+"C": "1.3",
+"D": "1.4"},
+"answer": "B",
+"details": "2.5 – 1.3 = 1.2.",
+"difficulty": "easy"
+},
+{
+"question": "What is 3/10 + 4/100?",
+"options": {
+"A": "7/100",
+"B": "34/100",
+"C": "7/10",
+"D": "43/100"},
+"answer": "B",
+"details": "3/10 = 30/100, so 30/100 + 4/100 = 34/100.",
+"difficulty": "easy"
+},
+{
+"question": "Which fraction is equal to 0.8?",
+"options": {
+"A": "2/5",
+"B": "4/5",
+"C": "3/4",
+"D": "1/8"},
+"answer": "B",
+"details": "0.8 = 8/10 = 4/5.",
+"difficulty": "easy"
+},
+{
+"question": "What is 75% as a fraction?",
+"options": {
+"A": "3/4",
+"B": "1/4",
+"C": "2/5",
+"D": "4/5"},
+"answer": "A",
+"details": "75% = 75/100 = 3/4.",
+"difficulty": "easy"
+},
+{
+"question": "Order from smallest to largest: 0.5, 0.05, 0.55",
+"options": {
+"A": "0.05, 0.5, 0.55",
+"B": "0.5, 0.05, 0.55",
+"C": "0.55, 0.5, 0.05",
+"D": "0.05, 0.55, 0.5"},
+"answer": "A",
+"details": "0.05 < 0.5 < 0.55.",
+"difficulty": "easy"
+},
+{
+"question": "What is 2 1/3 as an improper fraction?",
+"options": {
+"A": "5/3",
+"B": "6/3",
+"C": "7/3",
+"D": "8/3"},
+"answer": "C",
+"details": "2 1/3 = (2 × 3 + 1)/3 = 7/3.",
+"difficulty": "easy"
+},
+{
+"question": "Add: 0.75 + 0.25",
+"options": {
+"A": "0.9",
+"B": "1.0",
+"C": "1.1",
+"D": "1.25"},
+"answer": "B",
+"details": "0.75 + 0.25 = 1.0 (complements of 1).",
+"difficulty": "easy"
+},
+{
+"question": "Which is equivalent to 1/2?",
+"options": {
+"A": "0.25",
+"B": "0.5",
+"C": "0.75",
+"D": "1.0"},
+"answer": "B",
+"details": "1/2 = 0.5.",
+"difficulty": "easy"
+},
+{
+"question": "What is 40% as a fraction?",
+"options": {
+"A": "1/4",
+"B": "2/5",
+"C": "3/5",
+"D": "4/100"},
+"answer": "B",
+"details": "40% = 40/100 = 2/5.",
+"difficulty": "easy"
+},
+{
+"question": "Write 0.009 as a fraction.",
+"options": {
+"A": "9/10",
+"B": "9/100",
+"C": "9/1000",
+"D": "9/10000"},
+"answer": "C",
+"details": "0.009 is 9 thousandths, so 9/1000.",
+"difficulty": "easy"
+},
+{
+"question": "What is 5/8 – 1/4?",
+"options": {
+"A": "1/8",
+"B": "2/8",
+"C": "3/8",
+"D": "4/8"},
+"answer": "C",
+"details": "1/4 = 2/8, so 5/8 – 2/8 = 3/8.",
+"difficulty": "easy"
+},
+{
+"question": "Round 7.89 to the nearest whole number.",
+"options": {
+"A": "7",
+"B": "7.8",
+"C": "7.9",
+"D": "8"},
+"answer": "D",
+"details": "Tenths digit is 8 (≥5), so round up: 7.89 → 8.",
+"difficulty": "easy"
+},
+{
+"question": "Which decimal is equal to 2/5?",
+"options": {
+"A": "0.2",
+"B": "0.25",
+"C": "0.4",
+"D": "0.5"},
+"answer": "C",
+"details": "2 ÷ 5 = 0.4, so 2/5 = 0.4.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1/5 as a percentage?",
+"options": {
+"A": "10%",
+"B": "15%",
+"C": "20%",
+"D": "25%"},
+"answer": "C",
+"details": "1/5 = 20/100 = 20%.",
+"difficulty": "easy"
+},
+{
+"question": "Subtract: 3.4 – 1.25",
+"options": {
+"A": "2.15",
+"B": "2.25",
+"C": "2.35",
+"D": "2.45"},
+"answer": "A",
+"details": "3.40 – 1.25 = 2.15.",
+"difficulty": "easy"
+},
+{
+"question": "Which fraction is equivalent to 8/12?",
+"options": {
+"A": "1/2",
+"B": "2/3",
+"C": "3/4",
+"D": "4/5"},
+"answer": "B",
+"details": "8/12 simplifies to 2/3 by dividing numerator and denominator by 4.",
+"difficulty": "easy"
+},
+{
+"question": "What is 120% as a decimal?",
+"options": {
+"A": "0.12",
+"B": "1.2",
+"C": "12.0",
+"D": "120.0"},
+"answer": "B",
+"details": "120% = 120/100 = 1.2.",
+"difficulty": "easy"
+},
+{
+"question": "Add: 2/3 + 1/6",
+"options": {
+"A": "3/6",
+"B": "4/6",
+"C": "5/6",
+"D": "6/6"},
+"answer": "C",
+"details": "2/3 = 4/6, so 4/6 + 1/6 = 5/6.",
+"difficulty": "easy"
+},
+{
+"question": "Which is larger: 0.4 or 0.39?",
+"options": {
+"A": "0.39",
+"B": "0.4",
+"C": "They are equal",
+"D": "Not enough information"},
+"answer": "B",
+"details": "0.4 = 0.40 > 0.39.",
+"difficulty": "easy"
+},
+{
+"question": "What is 3.141 rounded to 2 decimal places?",
+"options": {
+"A": "3.13",
+"B": "3.14",
+"C": "3.15",
+"D": "3.141"},
+"answer": "B",
+"details": "Thousandths digit is 1 (<5), so keep hundredths digit: 3.141 → 3.14.",
+"difficulty": "easy"
+},
+{
+"question": "Write 4/5 as a percentage.",
+"options": {
+"A": "40%",
+"B": "50%",
+"C": "75%",
+"D": "80%"},
+"answer": "D",
+"details": "4/5 = 80/100 = 80%.",
+"difficulty": "easy"
+},
+{
+"question": "What is 0.6 + 0.04?",
+"options": {
+"A": "0.10",
+"B": "0.64",
+"C": "1.0",
+"D": "0.46"},
+"answer": "B",
+"details": "0.6 + 0.04 = 0.64.",
+"difficulty": "easy"
+},
+{
+"question": "Which mixed number is equal to 11/4?",
+"options": {
+"A": "2 1/4",
+"B": "2 2/4",
+"C": "2 3/4",
+"D": "3 1/4"},
+"answer": "C",
+"details": "11 ÷ 4 = 2 remainder 3, so 2 3/4.",
+"difficulty": "easy"
+},
+{
+"question": "What is 2/10 + 3/100?",
+"options": {
+"A": "5/100",
+"B": "23/100",
+"C": "5/10",
+"D": "32/100"},
+"answer": "B",
+"details": "2/10 = 20/100, so 20/100 + 3/100 = 23/100.",
+"difficulty": "easy"
+},
+{
+"question": "Which percentage is equal to 0.75?",
+"options": {
+"A": "7.5%",
+"B": "75%",
+"C": "750%",
+"D": "0.75%"},
+"answer": "B",
+"details": "0.75 = 75/100 = 75%.",
+"difficulty": "easy"
+},
+{
+"question": "Order from largest to smallest: 1/2, 0.6, 40%",
+"options": {
+"A": "0.6, 1/2, 40%",
+"B": "1/2, 0.6, 40%",
+"C": "40%, 1/2, 0.6",
+"D": "0.6, 40%, 1/2"},
+"answer": "A",
+"details": "0.6 = 60%, 1/2 = 50%, 40% = 40%, so 0.6 > 1/2 > 40%.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1.5 as a fraction?",
+"options": {
+"A": "1/5",
+"B": "3/2",
+"C": "5/10",
+"D": "15/100"},
+"answer": "B",
+"details": "1.5 = 15/10 = 3/2.",
+"difficulty": "easy"
+},
+{
+"question": "Subtract: 5/9 – 2/9",
+"options": {
+"A": "1/9",
+"B": "2/9",
+"C": "3/9",
+"D": "4/9"},
+"answer": "C",
+"details": "Same denominator: 5 – 2 = 3, so 3/9 (simplifies to 1/3).",
+"difficulty": "easy"
+},
+{
+"question": "What is 60% as a decimal?",
+"options": {
+"A": "0.06",
+"B": "0.6",
+"C": "6.0",
+"D": "60.0"},
+"answer": "B",
+"details": "60% = 60/100 = 0.6.",
+"difficulty": "easy"
+},
+{
+"question": "Which fraction is equal to 0.125?",
+"options": {
+"A": "1/4",
+"B": "1/8",
+"C": "1/5",
+"D": "1/10"},
+"answer": "B",
+"details": "0.125 = 125/1000 = 1/8.",
+"difficulty": "easy"
+},
+{
+"question": "Add: 1.35 + 2.4",
+"options": {
+"A": "3.75",
+"B": "3.65",
+"C": "3.85",
+"D": "3.95"},
+"answer": "A",
+"details": "1.35 + 2.40 = 3.75.",
+"difficulty": "easy"
+},
+{
+"question": "What is 7/2 as a mixed number?",
+"options": {
+"A": "2 1/2",
+"B": "3 1/2",
+"C": "4 1/2",
+"D": "3 2/2"},
+"answer": "B",
+"details": "7 ÷ 2 = 3 remainder 1, so 3 1/2.",
+"difficulty": "easy"
+},
+{
+"question": "Round 0.96 to the nearest whole number.",
+"options": {
+"A": "0",
+"B": "1",
+"C": "0.9",
+"D": "1.0"},
+"answer": "B",
+"details": "Tenths digit is 9 (≥5), so round up: 0.96 → 1.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1/10 as a percentage?",
+"options": {
+"A": "1%",
+"B": "5%",
+"C": "10%",
+"D": "20%"},
+"answer": "C",
+"details": "1/10 = 10/100 = 10%.",
+"difficulty": "easy"
+},
+{
+"question": "Which is smaller: 3/8 or 0.4?",
+"options": {
+"A": "3/8",
+"B": "0.4",
+"C": "They are equal",
+"D": "Not enough information"},
+"answer": "A",
+"details": "3/8 = 0.375, which is less than 0.4.",
+"difficulty": "easy"
+},
+{
+"question": "What is 0.07 as a fraction?",
+"options": {
+"A": "7/10",
+"B": "7/100",
+"C": "7/1000",
+"D": "70/100"},
+"answer": "B",
+"details": "0.07 = 7/100.",
+"difficulty": "easy"
+},
+{
+"question": "Add: 3/5 + 1/10",
+"options": {
+"A": "4/10",
+"B": "6/10",
+"C": "7/10",
+"D": "8/10"},
+"answer": "C",
+"details": "3/5 = 6/10, so 6/10 + 1/10 = 7/10.",
+"difficulty": "easy"
+},
+{
+"question": "What is 25% of 80?",
+"options": {
+"A": "10",
+"B": "20",
+"C": "25",
+"D": "40"},
+"answer": "B",
+"details": "25% = 1/4, and 1/4 of 80 = 20.",
+"difficulty": "easy"
+},
+{
+"question": "Subtract: 4.0 – 2.75",
+"options": {
+"A": "1.15",
+"B": "1.25",
+"C": "1.35",
+"D": "2.25"},
+"answer": "B",
+"details": "4.00 – 2.75 = 1.25.",
+"difficulty": "easy"
+},
+{
+"question": "Which fraction is equivalent to 9/12?",
+"options": {
+"A": "1/2",
+"B": "2/3",
+"C": "3/4",
+"D": "4/5"},
+"answer": "C",
+"details": "9/12 simplifies to 3/4 by dividing numerator and denominator by 3.",
+"difficulty": "easy"
+},
+{
+"question": "What is 0.55 as a percentage?",
+"options": {
+"A": "5.5%",
+"B": "55%",
+"C": "550%",
+"D": "0.55%"},
+"answer": "B",
+"details": "0.55 = 55/100 = 55%.",
+"difficulty": "easy"
+},
+{
+"question": "Write 2 3/10 as a decimal.",
+"options": {
+"A": "2.03",
+"B": "2.3",
+"C": "2.30",
+"D": "Both B and C"},
+"answer": "D",
+"details": "2 3/10 = 2 + 0.3 = 2.3, which is the same as 2.30.",
+"difficulty": "easy"
+},
+{
+"question": "What is 100% as a decimal?",
+"options": {
+"A": "0.1",
+"B": "1.0",
+"C": "10.0",
+"D": "100.0"},
+"answer": "B",
+"details": "100% = 100/100 = 1.0.",
+"difficulty": "easy"
+},
+{
+"question": "Which is larger: 5/6 or 0.8?",
+"options": {
+"A": "5/6",
+"B": "0.8",
+"C": "They are equal",
+"D": "Not enough information"},
+"answer": "A",
+"details": "5/6 ≈ 0.833, which is greater than 0.8.",
+"difficulty": "easy"
+},
+{
+"question": "Add: 1/4 + 3/8",
+"options": {
+"A": "4/8",
+"B": "5/8",
+"C": "6/8",
+"D": "7/8"},
+"answer": "B",
+"details": "1/4 = 2/8, so 2/8 + 3/8 = 5/8.",
+"difficulty": "easy"
+},
+{
+"question": "What is 2/5 as a percentage?",
+"options": {
+"A": "20%",
+"B": "25%",
+"C": "40%",
+"D": "50%"},
+"answer": "C",
+"details": "2/5 = 40/100 = 40%.",
+"difficulty": "easy"
+},
+{
+"question": "Round 2.49 to 1 decimal place.",
+"options": {
+"A": "2.4",
+"B": "2.5",
+"C": "2",
+"D": "3"},
+"answer": "B",
+"details": "Hundredths digit is 9 (≥5), so round up tenths digit: 2.49 → 2.5.",
+"difficulty": "easy"
+},
+{
+"question": "Subtract: 0.9 – 0.25",
+"options": {
+"A": "0.55",
+"B": "0.65",
+"C": "0.75",
+"D": "0.85"},
+"answer": "B",
+"details": "0.90 – 0.25 = 0.65.",
+"difficulty": "easy"
+},
+{
+"question": "Which decimal is equal to 7/10?",
+"options": {
+"A": "0.07",
+"B": "0.7",
+"C": "0.70",
+"D": "Both B and C"},
+"answer": "D",
+"details": "7/10 = 0.7, which is the same as 0.70.",
+"difficulty": "easy"
+},
+{
+"question": "What is 4/5 + 3/10?",
+"options": {
+"A": "7/10",
+"B": "9/10",
+"C": "11/10",
+"D": "12/10"},
+"answer": "C",
+"details": "4/5 = 8/10, so 8/10 + 3/10 = 11/10 = 1 1/10.",
+"difficulty": "easy"
+},
+{
+"question": "Write 0.3 as a fraction.",
+"options": {
+"A": "1/3",
+"B": "3/10",
+"C": "3/100",
+"D": "30/100"},
+"answer": "B",
+"details": "0.3 = 3/10.",
+"difficulty": "easy"
+},
+{
+"question": "What is 50% of 60?",
+"options": {
+"A": "20",
+"B": "30",
+"C": "40",
+"D": "50"},
+"answer": "B",
+"details": "50% = 1/2, and 1/2 of 60 = 30.",
+"difficulty": "easy"
+},
+{
+"question": "Which is smaller: 0.09 or 0.1?",
+"options": {
+"A": "0.09",
+"B": "0.1",
+"C": "They are equal",
+"D": "Not enough information"},
+"answer": "A",
+"details": "0.09 = 9/100, 0.1 = 10/100, so 0.09 < 0.1.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1.8 as a mixed number?",
+"options": {
+"A": "1 1/8",
+"B": "1 4/5",
+"C": "1 8/10",
+"D": "Both B and C"},
+"answer": "D",
+"details": "1.8 = 1 8/10 = 1 4/5 when simplified.",
+"difficulty": "easy"
+},
+{
+"question": "Add: 2.05 + 3.7",
+"options": {
+"A": "5.65",
+"B": "5.75",
+"C": "5.85",
+"D": "6.05"},
+"answer": "B",
+"details": "2.05 + 3.70 = 5.75.",
+"difficulty": "easy"
+},
+{
+"question": "What is 3/4 as a decimal?",
+"options": {
+"A": "0.25",
+"B": "0.5",
+"C": "0.75",
+"D": "0.8"},
+"answer": "C",
+"details": "3 ÷ 4 = 0.75.",
+"difficulty": "easy"
+},
+{
+"question": "Subtract: 1 – 0.35",
+"options": {
+"A": "0.55",
+"B": "0.65",
+"C": "0.75",
+"D": "0.85"},
+"answer": "B",
+"details": "1.00 – 0.35 = 0.65.",
+"difficulty": "easy"
+},
+{
+"question": "Which percentage equals 1/5?",
+"options": {
+"A": "10%",
+"B": "15%",
+"C": "20%",
+"D": "25%"},
+"answer": "C",
+"details": "1/5 = 20/100 = 20%.",
+"difficulty": "easy"
+},
+{
+"question": "What is 0.001 as a fraction?",
+"options": {
+"A": "1/10",
+"B": "1/100",
+"C": "1/1000",
+"D": "1/10000"},
+"answer": "C",
+"details": "0.001 = 1/1000 (one thousandth).",
+"difficulty": "easy"
+},
+{
+"question": "Order from smallest to largest: 3/4, 0.7, 75%",
+"options": {
+"A": "0.7, 3/4, 75%",
+"B": "0.7, 75%, 3/4",
+"C": "3/4, 0.7, 75%",
+"D": "All are equal"},
+"answer": "A/B",
+"details": "The correct order from smallest to largest for (3/4=0.75), (0.7), (75%=0.75) is 0.7, 3/4, 75% (or 0.7, 75%, 3/4). Options A and B both correctly represent this ordering.",
+"difficulty": "easy"
+},
+{
+"question": "What is 5/3 as a mixed number?",
+"options": {
+"A": "1 1/3",
+"B": "1 2/3",
+"C": "2 1/3",
+"D": "2 2/3"},
+"answer": "B",
+"details": "5 ÷ 3 = 1 remainder 2, so 1 2/3.",
+"difficulty": "easy"
+},
+{
+"question": "Add: 0.125 + 0.875",
+"options": {
+"A": "0.9",
+"B": "1.0",
+"C": "1.1",
+"D": "1.25"},
+"answer": "B",
+"details": "0.125 + 0.875 = 1.0.",
+"difficulty": "easy"
+},
+{
+"question": "Which fraction is equal to 60%?",
+"options": {
+"A": "2/5",
+"B": "3/5",
+"C": "4/5",
+"D": "5/6"},
+"answer": "B",
+"details": "60% = 60/100 = 3/5.",
+"difficulty": "easy"
+},
+{
+"question": "What is 0.4 × 5?",
+"options": {
+"A": "0.2",
+"B": "2.0",
+"C": "20.0",
+"D": "0.20"},
+"answer": "B",
+"details": "0.4 × 5 = 2.0.",
+"difficulty": "easy"
+},
+{
+"question": "Subtract: 3/4 – 1/2",
+"options": {
+"A": "1/4",
+"B": "1/2",
+"C": "2/4",
+"D": "3/4"},
+"answer": "A",
+"details": "1/2 = 2/4, so 3/4 – 2/4 = 1/4.",
+"difficulty": "easy"
+},
+{
+"question": "Write 8% as a decimal.",
+"options": {
+"A": "0.08",
+"B": "0.8",
+"C": "8.0",
+"D": "0.008"},
+"answer": "A",
+"details": "8% = 8/100 = 0.08.",
+"difficulty": "easy"
+},
+{
+"question": "Which is larger: 2/3 or 0.65?",
+"options": {
+"A": "2/3",
+"B": "0.65",
+"C": "They are equal",
+"D": "Not enough information"},
+"answer": "A",
+"details": "2/3 ≈ 0.666..., which is greater than 0.65.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1.25 as a fraction?",
+"options": {
+"A": "1/4",
+"B": "5/4",
+"C": "4/5",
+"D": "125/1000"},
+"answer": "B",
+"details": "1.25 = 125/100 = 5/4.",
+"difficulty": "easy"
+},
+{
+"question": "Round 9.999 to the nearest whole number.",
+"options": {
+"A": "9",
+"B": "10",
+"C": "9.9",
+"D": "10.0"},
+"answer": "B",
+"details": "Tenths digit is 9 (≥5), so round up: 9.999 → 10.",
+"difficulty": "easy"
+},
+{
+"question": "Add: 4/5 + 2/5",
+"options": {
+"A": "5/5",
+"B": "6/5",
+"C": "7/5",
+"D": "8/5"},
+"answer": "B",
+"details": "4 + 2 = 6, so 6/5 = 1 1/5.",
+"difficulty": "easy"
+},
+{
+"question": "What is 75% of 40?",
+"options": {
+"A": "20",
+"B": "25",
+"C": "30",
+"D": "35"},
+"answer": "C",
+"details": "75% = 3/4, and 3/4 of 40 = 30.",
+"difficulty": "easy"
+},
+{
+"question": "Which decimal is equal to 1/8?",
+"options": {
+"A": "0.12",
+"B": "0.125",
+"C": "0.18",
+"D": "0.8"},
+"answer": "B",
+"details": "1 ÷ 8 = 0.125.",
+"difficulty": "easy"
+},
+{
+"question": "Subtract: 2.1 – 0.99",
+"options": {
+"A": "1.01",
+"B": "1.11",
+"C": "1.21",
+"D": "1.31"},
+"answer": "B",
+"details": "2.10 – 0.99 = 1.11.",
+"difficulty": "easy"
+},
+{
+"question": "What is 0.625 as a fraction?",
+"options": {
+"A": "5/8",
+"B": "3/5",
+"C": "2/3",
+"D": "6/25"},
+"answer": "A",
+"details": "0.625 = 625/1000 = 5/8.",
+"difficulty": "easy"
+},
+{
+"question": "Which is equivalent to 4/25?",
+"options": {
+"A": "0.04",
+"B": "0.16",
+"C": "0.25",
+"D": "0.4"},
+"answer": "B",
+"details": "4 ÷ 25 = 0.16.",
+"difficulty": "easy"
+},
+{
+"question": "Write 120% as a fraction.",
+"options": {
+"A": "12/100",
+"B": "6/5",
+"C": "1/2",
+"D": "120/10"},
+"answer": "B",
+"details": "120% = 120/100 = 6/5.",
+"difficulty": "easy"
+},
+{
+"question": "What is 3.05 + 0.95?",
+"options": {
+"A": "3.9",
+"B": "4.0",
+"C": "4.1",
+"D": "4.2"},
+"answer": "B",
+"details": "3.05 + 0.95 = 4.0.",
+"difficulty": "easy"
+},
+{
+"question": "Which fraction is equal to 0.04?",
+"options": {
+"A": "1/4",
+"B": "1/25",
+"C": "4/10",
+"D": "4/1000"},
+"answer": "B",
+"details": "0.04 = 4/100 = 1/25.",
+"difficulty": "easy"
+},
+{
+"question": "What is 80% of 50?",
+"options": {
+"A": "30",
+"B": "40",
+"C": "45",
+"D": "50"},
+"answer": "B",
+"details": "80% = 4/5, and 4/5 of 50 = 40.",
+"difficulty": "easy"
+},
+{
+"question": "Add: 1/3 + 1/6",
+"options": {
+"A": "1/2",
+"B": "2/3",
+"C": "3/6",
+"D": "Both A and C"},
+"answer": "D",
+"details": "1/3 = 2/6, so 2/6 + 1/6 = 3/6 = 1/2.",
+"difficulty": "easy"
+},
+{
+"question": "Round 0.456 to 2 decimal places.",
+"options": {
+"A": "0.45",
+"B": "0.46",
+"C": "0.5",
+"D": "0.4"},
+"answer": "B",
+"details": "Thousandths digit is 6 (≥5), so round up hundredths digit: 0.456 → 0.46.",
+"difficulty": "easy"
+},
+{
+"question": "Subtract: 5 – 2.35",
+"options": {
+"A": "2.55",
+"B": "2.65",
+"C": "3.65",
+"D": "3.55"},
+"answer": "B",
+"details": "5.00 – 2.35 = 2.65.",
+"difficulty": "easy"
+},
+{
+"question": "Which is larger: 7/10 or 0.75?",
+"options": {
+"A": "7/10",
+"B": "0.75",
+"C": "They are equal",
+"D": "Not enough information"},
+"answer": "B",
+"details": "7/10 = 0.7 < 0.75.",
+"difficulty": "easy"
+},
+{
+"question": "What is 0.9 as a percentage?",
+"options": {
+"A": "9%",
+"B": "90%",
+"C": "900%",
+"D": "0.9%"},
+"answer": "B",
+"details": "0.9 = 90/100 = 90%.",
+"difficulty": "easy"
+},
+{
+"question": "Write 3 1/4 as an improper fraction.",
+"options": {
+"A": "7/4",
+"B": "10/4",
+"C": "12/4",
+"D": "13/4"},
+"answer": "D",
+"details": "3 1/4 = (3 × 4 + 1)/4 = 13/4.",
+"difficulty": "easy"
+},
+{
+"question": "Add: 0.05 + 0.005",
+"options": {
+"A": "0.055",
+"B": "0.10",
+"C": "0.55",
+"D": "0.105"},
+"answer": "A",
+"details": "0.05 + 0.005 = 0.055.",
+"difficulty": "easy"
+},
+{
+"question": "What is 1/25 as a decimal?",
+"options": {
+"A": "0.04",
+"B": "0.25",
+"C": "0.4",
+"D": "4.0"},
+"answer": "A",
+"details": "1 ÷ 25 = 0.04.",
+"difficulty": "easy"
+},
+{
+"question": "Which percentage is equal to 3/4?",
+"options": {
+"A": "25%",
+"B": "50%",
+"C": "75%",
+"D": "100%"},
+"answer": "C",
+"details": "3/4 = 75/100 = 75%.",
+"difficulty": "easy"
+},
+{
+"question": "Subtract: 1.1 – 0.25",
+"options": {
+"A": "0.75",
+"B": "0.85",
+"C": "0.95",
+"D": "1.05"},
+"answer": "B",
+"details": "1.10 – 0.25 = 0.85.",
+"difficulty": "easy"
+},
+{
+"question": "What is 2.5% as a decimal?",
+"options": {
+"A": "0.25",
+"B": "0.025",
+"C": "2.5",
+"D": "0.0025"},
+"answer": "B",
+"details": "2.5% = 2.5/100 = 0.025.",
+"difficulty": "easy"
+},
+{
+"question": "Add: 1/5 + 3/10",
+"options": {
+"A": "4/10",
+"B": "5/10",
+"C": "6/10",
+"D": "7/10"},
+"answer": "B",
+"details": "1/5 = 2/10, so 2/10 + 3/10 = 5/10 = 1/2.",
+"difficulty": "easy"
+},
+{
+"question": "Which is smaller: 0.33 or 1/3?",
+"options": {
+"A": "0.33",
+"B": "1/3",
+"C": "They are equal",
+"D": "Not enough information"},
+"answer": "A",
+"details": "1/3 ≈ 0.333..., which is greater than 0.33.",
+"difficulty": "easy"
+},
+{
+"question": "Which fraction is equivalent to 3/5?",
+"options": {
+"A": "6/15",
+"B": "9/15",
+"C": "10/15",
+"D": "12/15"},
+"answer": "B",
+"details": "Multiply numerator and denominator by 3: 3×3=9, 5×3=15 → 9/15.",
+"difficulty": "medium"
+},
+{
+"question": "Write 7/4 as a mixed number.",
+"options": {
+"A": "1 1/4",
+"B": "1 2/4",
+"C": "1 3/4",
+"D": "2 1/4"},
+"answer": "C",
+"details": "7 ÷ 4 = 1 remainder 3 → 1 3/4.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 3/8 + 5/8",
+"options": {
+"A": "8/8",
+"B": "1",
+"C": "1 0/8",
+"D": "All of the above"},
+"answer": "D",
+"details": "3/8 + 5/8 = 8/8 = 1 = 1 0/8 — all are correct representations.",
+"difficulty": "medium"
+},
+{
+"question": "What is 2 × 3/5?",
+"options": {
+"A": "3/10",
+"B": "5/5",
+"C": "6/5",
+"D": "6/10"},
+"answer": "C",
+"details": "2 × 3/5 = (2×3)/5 = 6/5 = 1 1/5.",
+"difficulty": "medium"
+},
+{
+"question": "Which decimal is equal to 7/10?",
+"options": {
+"A": "0.07",
+"B": "0.7",
+"C": "0.70",
+"D": "Both B and C"},
+"answer": "D",
+"details": "7/10 = 0.7 = 0.70 (trailing zero doesn’t change value).",
+"difficulty": "medium"
+},
+{
+"question": "Round 4.67 to the nearest whole number.",
+"options": {
+"A": "4",
+"B": "5",
+"C": "4.6",
+"D": "4.7"},
+"answer": "B",
+"details": "Tenths digit is 6 ≥ 5 → round up: 4.67 → 5.",
+"difficulty": "medium"
+},
+{
+"question": "What is 25% as a fraction?",
+"options": {
+"A": "1/5",
+"B": "1/4",
+"C": "1/3",
+"D": "2/5"},
+"answer": "B",
+"details": "25% = 25/100 = 1/4.",
+"difficulty": "medium"
+},
+{
+"question": "Which is larger: 3/4 or 7/10?",
+"options": {
+"A": "3/4",
+"B": "7/10",
+"C": "They are equal",
+"D": "Cannot compare"},
+"answer": "A",
+"details": "Convert to common denominator (20): 3/4 = 15/20, 7/10 = 14/20 → 15/20 > 14/20.",
+"difficulty": "medium"
+},
+{
+"question": "Write 2.35 as a fraction.",
+"options": {
+"A": "235/10",
+"B": "235/100",
+"C": "235/1000",
+"D": "23/100"},
+"answer": "B",
+"details": "2.35 = 235 hundredths = 235/100 = 47/20.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 1 1/3 + 2/3",
+"options": {
+"A": "1 3/3",
+"B": "2",
+"C": "2 0/3",
+"D": "All of the above"},
+"answer": "D",
+"details": "1 1/3 = 4/3; 4/3 + 2/3 = 6/3 = 2 = 2 0/3.",
+"difficulty": "medium"
+},
+{
+"question": "What is 3 × 2 1/4?",
+"options": {
+"A": "6 1/4",
+"B": "6 3/4",
+"C": "7 1/4",
+"D": "7 3/4"},
+"answer": "B",
+"details": "2 1/4 = 9/4; 3 × 9/4 = 27/4 = 6 3/4.",
+"difficulty": "medium"
+},
+{
+"question": "Which fraction is equivalent to 0.08?",
+"options": {
+"A": "8/10",
+"B": "8/100",
+"C": "8/1000",
+"D": "80/100"},
+"answer": "B",
+"details": "0.08 = 8 hundredths = 8/100 = 2/25.",
+"difficulty": "medium"
+},
+{
+"question": "Order from smallest to largest: 0.5, 1/4, 3/5, 0.25",
+"options": {
+"A": "0.25, 1/4, 0.5, 3/5",
+"B": "1/4, 0.25, 0.5, 3/5",
+"C": "0.25, 0.5, 1/4, 3/5",
+"D": "1/4 = 0.25, so A and B are identical"},
+"answer": "A",
+"details": "1/4 = 0.25, so the smallest two are equal. By convention, list as 0.25, 1/4, 0.5, 3/5. A is correct.",
+"difficulty": "medium"
+},
+{
+"question": "What is 60% as a decimal?",
+"options": {
+"A": "0.06",
+"B": "0.6",
+"C": "6.0",
+"D": "0.60"},
+"answer": "B",
+"details": "60% = 60/100 = 0.6 = 0.60.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 5/6 – 1/3",
+"options": {
+"A": "1/6",
+"B": "2/6",
+"C": "3/6",
+"D": "4/6"},
+"answer": "C",
+"details": "1/3 = 2/6; 5/6 – 2/6 = 3/6 = 1/2.",
+"difficulty": "medium"
+},
+{
+"question": "Write 1.025 in words.",
+"options": {
+"A": "One and twenty-five hundredths",
+"B": "One and twenty-five thousandths",
+"C": "One point zero two five",
+"D": "One and two hundred five thousandths"},
+"answer": "B",
+"details": "1.025 = 1 + 0.025 = 1 + 25/1000 → 'one and twenty-five thousandths'.",
+"difficulty": "medium"
+},
+{
+"question": "Which is 4/5 as a percentage?",
+"options": {
+"A": "40%",
+"B": "60%",
+"C": "80%",
+"D": "125%"},
+"answer": "C",
+"details": "4/5 = 80/100 = 80%.",
+"difficulty": "medium"
+},
+{
+"question": "What is 0.6 + 0.75?",
+"options": {
+"A": "1.25",
+"B": "1.35",
+"C": "0.135",
+"D": "13.5"},
+"answer": "B",
+"details": "0.60 + 0.75 = 1.35.",
+"difficulty": "medium"
+},
+{
+"question": "Convert 17/5 to a mixed number.",
+"options": {
+"A": "2 2/5",
+"B": "3 1/5",
+"C": "3 2/5",
+"D": "4 1/5"},
+"answer": "C",
+"details": "17 ÷ 5 = 3 remainder 2 → 3 2/5.",
+"difficulty": "medium"
+},
+{
+"question": "Which fraction is *not* equivalent to 2/3?",
+"options": {
+"A": "4/6",
+"B": "6/9",
+"C": "8/12",
+"D": "9/12"},
+"answer": "D",
+"details": "9/12 = 3/4 ≠ 2/3. Others reduce to 2/3.",
+"difficulty": "medium"
+},
+{
+"question": "What is 4 × 3/8?",
+"options": {
+"A": "12/8",
+"B": "1 4/8",
+"C": "1 1/2",
+"D": "All of the above"},
+"answer": "D",
+"details": "4 × 3/8 = 12/8 = 1 4/8 = 1 1/2.",
+"difficulty": "medium"
+},
+{
+"question": "Round 3.842 to 1 decimal place.",
+"options": {
+"A": "3.8",
+"B": "3.9",
+"C": "4.0",
+"D": "3.84"},
+"answer": "A",
+"details": "Hundredths digit is 4 < 5 → round down: 3.842 → 3.8.",
+"difficulty": "medium"
+},
+{
+"question": "Which decimal is equal to 1/8?",
+"options": {
+"A": "0.125",
+"B": "0.25",
+"C": "0.5",
+"D": "0.75"},
+"answer": "A",
+"details": "1 ÷ 8 = 0.125.",
+"difficulty": "medium"
+},
+{
+"question": "A pizza is cut into 12 slices. Tom eats 5 slices, and Sarah eats 1/3 of the pizza. How many slices are left?",
+"options": {
+"A": "2",
+"B": "3",
+"C": "4",
+"D": "5"},
+"answer": "B",
+"details": "1/3 of 12 = 4 slices. Total eaten: 5 + 4 = 9. Left: 12 – 9 = 3.",
+"difficulty": "medium"
+},
+{
+"question": "What is 2.5 – 1.75?",
+"options": {
+"A": "0.25",
+"B": "0.75",
+"C": "1.25",
+"D": "1.75"},
+"answer": "B",
+"details": "2.50 – 1.75 = 0.75.",
+"difficulty": "medium"
+},
+{
+"question": "Write 120% as a fraction.",
+"options": {
+"A": "12/10",
+"B": "6/5",
+"C": "1 1/5",
+"D": "All of the above"},
+"answer": "D",
+"details": "120% = 120/100 = 12/10 = 6/5 = 1 1/5.",
+"difficulty": "medium"
+},
+{
+"question": "Which pair of fractions have a common denominator of 20?",
+"options": {
+"A": "1/4 and 2/5",
+"B": "1/3 and 1/6",
+"C": "3/8 and 1/4",
+"D": "2/7 and 3/14"},
+"answer": "A",
+"details": "1/4 = 5/20, 2/5 = 8/20. Others: denominators 6, 8, 14 — not multiples of 20.",
+"difficulty": "medium"
+},
+{
+"question": "What is 0.007 as a fraction?",
+"options": {
+"A": "7/10",
+"B": "7/100",
+"C": "7/1000",
+"D": "70/1000"},
+"answer": "C",
+"details": "0.007 = 7 thousandths = 7/1000.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 3/4 + 2/5",
+"options": {
+"A": "15/20 + 8/20 = 23/20",
+"B": "5/9",
+"C": "6/20",
+"D": "1 3/20"},
+"answer": "D",
+"details": "LCM of 4 and 5 is 20: 3/4 = 15/20, 2/5 = 8/20; sum = 23/20 = 1 3/20.",
+"difficulty": "medium"
+},
+{
+"question": "Which is larger: 0.75 or 4/5?",
+"options": {
+"A": "0.75",
+"B": "4/5",
+"C": "Equal",
+"D": "Cannot tell"},
+"answer": "B",
+"details": "4/5 = 0.8 > 0.75.",
+"difficulty": "medium"
+},
+{
+"question": "What is 1/5 as a decimal and percentage?",
+"options": {
+"A": "0.2 and 20%",
+"B": "0.5 and 50%",
+"C": "0.1 and 10%",
+"D": "0.25 and 25%"},
+"answer": "A",
+"details": "1 ÷ 5 = 0.2 = 20/100 = 20%.",
+"difficulty": "medium"
+},
+{
+"question": "Round 7.499 to the nearest whole number.",
+"options": {
+"A": "7",
+"B": "8",
+"C": "7.5",
+"D": "7.49"},
+"answer": "A",
+"details": "Tenths digit is 4 < 5 → round down to 7.",
+"difficulty": "medium"
+},
+{
+"question": "Write 3 3/4 as an improper fraction.",
+"options": {
+"A": "12/4",
+"B": "13/4",
+"C": "15/4",
+"D": "18/4"},
+"answer": "C",
+"details": "3 × 4 = 12; 12 + 3 = 15 → 15/4.",
+"difficulty": "medium"
+},
+{
+"question": "What is 50% of 80?",
+"options": {
+"A": "20",
+"B": "40",
+"C": "60",
+"D": "80"},
+"answer": "B",
+"details": "50% = 1/2; 1/2 × 80 = 40.",
+"difficulty": "medium"
+},
+{
+"question": "Which fraction is equivalent to 0.625?",
+"options": {
+"A": "5/8",
+"B": "3/4",
+"C": "2/3",
+"D": "7/8"},
+"answer": "A",
+"details": "0.625 = 625/1000 = 5/8.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 2.3 + 0.47 + 1.05",
+"options": {
+"A": "3.72",
+"B": "3.82",
+"C": "3.92",
+"D": "4.02"},
+"answer": "B",
+"details": "2.30 + 0.47 = 2.77; +1.05 = 3.82.",
+"difficulty": "medium"
+},
+{
+"question": "What is 3/10 + 7/100?",
+"options": {
+"A": "37/100",
+"B": "10/110",
+"C": "1/10",
+"D": "73/100"},
+"answer": "A",
+"details": "3/10 = 30/100; 30/100 + 7/100 = 37/100 = 0.37.",
+"difficulty": "medium"
+},
+{
+"question": "Which is 2/5 as a percentage?",
+"options": {
+"A": "20%",
+"B": "25%",
+"C": "40%",
+"D": "50%"},
+"answer": "C",
+"details": "2/5 = 40/100 = 40%.",
+"difficulty": "medium"
+},
+{
+"question": "A jug holds 2.4 litres. It is filled to 3/4 of its capacity. How much is in the jug?",
+"options": {
+"A": "1.2 L",
+"B": "1.6 L",
+"C": "1.8 L",
+"D": "2.0 L"},
+"answer": "C",
+"details": "3/4 × 2.4 = 0.75 × 2.4 = 1.8 L.",
+"difficulty": "medium"
+},
+{
+"question": "What is 4.0 – 2.65?",
+"options": {
+"A": "1.25",
+"B": "1.35",
+"C": "1.45",
+"D": "2.35"},
+"answer": "B",
+"details": "4.00 – 2.65 = 1.35.",
+"difficulty": "medium"
+},
+{
+"question": "Write 0.9 as a fraction in simplest form.",
+"options": {
+"A": "9/10",
+"B": "90/100",
+"C": "3/4",
+"D": "18/20"},
+"answer": "A",
+"details": "0.9 = 9/10 (already simplest).",
+"difficulty": "medium"
+},
+{
+"question": "Which is the smallest: 3/8, 0.4, 45%?",
+"options": {
+"A": "3/8",
+"B": "0.4",
+"C": "45%",
+"D": "They are equal"},
+"answer": "A",
+"details": "3/8 = 0.375, 0.4 = 0.400, 45% = 0.45 → 0.375 is smallest.",
+"difficulty": "medium"
+},
+{
+"question": "What is 1/4 + 1/5?",
+"options": {
+"A": "2/9",
+"B": "9/20",
+"C": "1/20",
+"D": "5/20"},
+"answer": "B",
+"details": "LCM of 4 and 5 is 20: 5/20 + 4/20 = 9/20.",
+"difficulty": "medium"
+},
+{
+"question": "Convert 9/2 to a mixed number.",
+"options": {
+"A": "3 1/2",
+"B": "4 1/2",
+"C": "5 1/2",
+"D": "6 1/2"},
+"answer": "B",
+"details": "9 ÷ 2 = 4 remainder 1 → 4 1/2.",
+"difficulty": "medium"
+},
+{
+"question": "What is 75% of £24?",
+"options": {
+"A": "£6",
+"B": "£12",
+"C": "£16",
+"D": "£18"},
+"answer": "D",
+"details": "75% = 3/4; 3/4 × 24 = 18.",
+"difficulty": "medium"
+},
+{
+"question": "Which decimal is equal to 13/25?",
+"options": {
+"A": "0.42",
+"B": "0.52",
+"C": "0.62",
+"D": "0.72"},
+"answer": "B",
+"details": "13 ÷ 25 = 0.52 (since 25 × 4 = 100, 13 × 4 = 52 → 52/100 = 0.52).",
+"difficulty": "medium"
+},
+{
+"question": "Round 0.698 to 2 decimal places.",
+"options": {
+"A": "0.60",
+"B": "0.69",
+"C": "0.70",
+"D": "0.7"},
+"answer": "C",
+"details": "Thousandths digit is 8 ≥ 5 → round hundredths up: 0.69 → 0.70.",
+"difficulty": "medium"
+},
+{
+"question": "What is 3 1/2 × 2?",
+"options": {
+"A": "6 1/2",
+"B": "7",
+"C": "7 1/2",
+"D": "8"},
+"answer": "B",
+"details": "3 1/2 = 7/2; 7/2 × 2 = 7.",
+"difficulty": "medium"
+},
+{
+"question": "Which fraction is equivalent to 0.003?",
+"options": {
+"A": "3/10",
+"B": "3/100",
+"C": "3/1000",
+"D": "30/100"},
+"answer": "C",
+"details": "0.003 = 3 thousandths = 3/1000.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 1 – 0.375",
+"options": {
+"A": "0.375",
+"B": "0.625",
+"C": "0.725",
+"D": "1.375"},
+"answer": "B",
+"details": "1.000 – 0.375 = 0.625 = 5/8.",
+"difficulty": "medium"
+},
+{
+"question": "What is 4/5 – 1/2?",
+"options": {
+"A": "3/10",
+"B": "3/7",
+"C": "1/10",
+"D": "1/3"},
+"answer": "A",
+"details": "LCM of 5 and 2 is 10: 8/10 – 5/10 = 3/10.",
+"difficulty": "medium"
+},
+{
+"question": "Write 56% as a decimal.",
+"options": {
+"A": "0.056",
+"B": "0.56",
+"C": "5.6",
+"D": "56.0"},
+"answer": "B",
+"details": "56% = 56/100 = 0.56.",
+"difficulty": "medium"
+},
+{
+"question": "Which is larger: 2/3 or 0.66?",
+"options": {
+"A": "2/3",
+"B": "0.66",
+"C": "Equal",
+"D": "2/3 = 0.666… > 0.66"},
+"answer": "A",
+"details": "2/3 = 0.666…, which is greater than 0.66.",
+"difficulty": "medium"
+},
+{
+"question": "What is 0.125 + 0.375?",
+"options": {
+"A": "0.4",
+"B": "0.5",
+"C": "0.6",
+"D": "0.7"},
+"answer": "B",
+"details": "0.125 + 0.375 = 0.500 = 0.5 = 1/2.",
+"difficulty": "medium"
+},
+{
+"question": "Convert 11/4 to a mixed number.",
+"options": {
+"A": "2 1/4",
+"B": "2 3/4",
+"C": "3 1/4",
+"D": "3 3/4"},
+"answer": "B",
+"details": "11 ÷ 4 = 2 remainder 3 → 2 3/4.",
+"difficulty": "medium"
+},
+{
+"question": "Which fraction is equivalent to 60%?",
+"options": {
+"A": "2/5",
+"B": "3/5",
+"C": "4/5",
+"D": "5/6"},
+"answer": "B",
+"details": "60% = 60/100 = 3/5.",
+"difficulty": "medium"
+},
+{
+"question": "What is 2.05 × 10?",
+"options": {
+"A": "2.5",
+"B": "20.5",
+"C": "205",
+"D": "0.205"},
+"answer": "B",
+"details": "×10 moves decimal 1 place right: 2.05 → 20.5.",
+"difficulty": "medium"
+},
+{
+"question": "Order from largest to smallest: 3/4, 0.7, 75%, 0.77",
+"options": {
+"A": "0.77, 3/4=75%, 0.7",
+"B": "0.77, 0.7, 3/4, 75%",
+"C": "3/4, 75%, 0.77, 0.7",
+"D": "0.7, 0.77, 3/4, 75%"},
+"answer": "A",
+"details": "3/4 = 0.75, 75% = 0.75, 0.77 > 0.75 > 0.7.",
+"difficulty": "medium"
+},
+{
+"question": "What is 1 2/3 + 3/4?",
+"options": {
+"A": "2 5/12",
+"B": "2 1/2",
+"C": "2 7/12",
+"D": "2 11/12"},
+"answer": "A",
+"details": "1 2/3 = 5/3 = 20/12, 3/4 = 9/12; sum = 29/12 = 2 5/12.",
+"difficulty": "medium"
+},
+{
+"question": "Which is 1/25 as a decimal?",
+"options": {
+"A": "0.02",
+"B": "0.04",
+"C": "0.2",
+"D": "0.25"},
+"answer": "B",
+"details": "1 ÷ 25 = 0.04 (since 25 × 4 = 100 → 1 × 4 = 4 → 4/100 = 0.04).",
+"difficulty": "medium"
+},
+{
+"question": "Round 12.345 to the nearest whole number.",
+"options": {
+"A": "12",
+"B": "13",
+"C": "12.3",
+"D": "12.35"},
+"answer": "A",
+"details": "Tenths digit is 3 < 5 → round down to 12.",
+"difficulty": "medium"
+},
+{
+"question": "What is 5 × 1 1/5?",
+"options": {
+"A": "5 1/5",
+"B": "6",
+"C": "6 1/5",
+"D": "7"},
+"answer": "B",
+"details": "1 1/5 = 6/5; 5 × 6/5 = 6.",
+"difficulty": "medium"
+},
+{
+"question": "A class has 30 pupils. 2/5 are boys. How many girls are there?",
+"options": {
+"A": "12",
+"B": "15",
+"C": "18",
+"D": "20"},
+"answer": "C",
+"details": "Boys: 2/5 × 30 = 12; girls: 30 – 12 = 18.",
+"difficulty": "medium"
+},
+{
+"question": "What is 0.8 × 0.5?",
+"options": {
+"A": "0.04",
+"B": "0.4",
+"C": "4.0",
+"D": "40"},
+"answer": "B",
+"details": "0.8 × 0.5 = 8/10 × 5/10 = 40/100 = 0.4.",
+"difficulty": "medium"
+},
+{
+"question": "Which fraction is equivalent to 0.333…?",
+"options": {
+"A": "1/2",
+"B": "1/3",
+"C": "2/3",
+"D": "3/4"},
+"answer": "B",
+"details": "0.333… = 1/3 (recurring decimal).",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 3.25 – 1.8",
+"options": {
+"A": "1.25",
+"B": "1.45",
+"C": "1.55",
+"D": "2.45"},
+"answer": "B",
+"details": "3.25 – 1.80 = 1.45.",
+"difficulty": "medium"
+},
+{
+"question": "What is 20% as a fraction in simplest form?",
+"options": {
+"A": "2/10",
+"B": "1/5",
+"C": "4/20",
+"D": "20/100"},
+"answer": "B",
+"details": "20% = 20/100 = 1/5.",
+"difficulty": "medium"
+},
+{
+"question": "Write 7/20 as a decimal and percentage.",
+"options": {
+"A": "0.35 and 35%",
+"B": "0.7 and 70%",
+"C": "0.28 and 28%",
+"D": "0.14 and 14%"},
+"answer": "A",
+"details": "7 ÷ 20 = 0.35 = 35/100 = 35%.",
+"difficulty": "medium"
+},
+{
+"question": "Which is the largest: 5/6, 0.83, 84%?",
+"options": {
+"A": "5/6",
+"B": "0.83",
+"C": "84%",
+"D": "5/6 = 0.833… < 84% = 0.84"},
+"answer": "C",
+"details": "5/6 ≈ 0.833, 0.83 = 0.830, 84% = 0.84 → 0.84 is largest.",
+"difficulty": "medium"
+},
+{
+"question": "What is 1/10 + 1/100 + 1/1000?",
+"options": {
+"A": "0.111",
+"B": "0.011",
+"C": "0.001",
+"D": "1.111"},
+"answer": "A",
+"details": "0.1 + 0.01 + 0.001 = 0.111.",
+"difficulty": "medium"
+},
+{
+"question": "Convert 2 5/6 to an improper fraction.",
+"options": {
+"A": "12/6",
+"B": "15/6",
+"C": "17/6",
+"D": "25/6"},
+"answer": "C",
+"details": "2 × 6 = 12; 12 + 5 = 17 → 17/6.",
+"difficulty": "medium"
+},
+{
+"question": "What is 125% of 40?",
+"options": {
+"A": "40",
+"B": "50",
+"C": "60",
+"D": "75"},
+"answer": "B",
+"details": "125% = 5/4; 5/4 × 40 = 50.",
+"difficulty": "medium"
+},
+{
+"question": "Which decimal is equal to 7/8?",
+"options": {
+"A": "0.75",
+"B": "0.85",
+"C": "0.875",
+"D": "0.925"},
+"answer": "C",
+"details": "7 ÷ 8 = 0.875.",
+"difficulty": "medium"
+},
+{
+"question": "Round 6.789 to 1 decimal place.",
+"options": {
+"A": "6.7",
+"B": "6.8",
+"C": "7.0",
+"D": "6.79"},
+"answer": "B",
+"details": "Hundredths digit is 8 ≥ 5 → round tenths up: 6.7 → 6.8.",
+"difficulty": "medium"
+},
+{
+"question": "What is 4/9 + 5/9?",
+"options": {
+"A": "9/9",
+"B": "1",
+"C": "1 0/9",
+"D": "All of the above"},
+"answer": "D",
+"details": "4/9 + 5/9 = 9/9 = 1 = 1 0/9.",
+"difficulty": "medium"
+},
+{
+"question": "Which fraction is equivalent to 0.95?",
+"options": {
+"A": "19/20",
+"B": "9/10",
+"C": "4/5",
+"D": "7/8"},
+"answer": "A",
+"details": "0.95 = 95/100 = 19/20.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 2.5 × 4",
+"options": {
+"A": "8",
+"B": "9",
+"C": "10",
+"D": "11"},
+"answer": "C",
+"details": "2.5 × 4 = 10 (or 25 × 4 = 100, divide by 10 → 10).",
+"difficulty": "medium"
+},
+{
+"question": "What is 3/5 of 75?",
+"options": {
+"A": "30",
+"B": "45",
+"C": "60",
+"D": "75"},
+"answer": "B",
+"details": "3/5 × 75 = (75 ÷ 5) × 3 = 15 × 3 = 45.",
+"difficulty": "medium"
+},
+{
+"question": "Write 0.042 as a fraction.",
+"options": {
+"A": "42/100",
+"B": "42/1000",
+"C": "4.2/100",
+"D": "42/10"},
+"answer": "B",
+"details": "0.042 = 42 thousandths = 42/1000 = 21/500.",
+"difficulty": "medium"
+},
+{
+"question": "Which is 2/25 as a percentage?",
+"options": {
+"A": "4%",
+"B": "8%",
+"C": "12%",
+"D": "25%"},
+"answer": "B",
+"details": "2/25 = 8/100 = 8%.",
+"difficulty": "medium"
+},
+{
+"question": "What is 1 3/4 – 5/8?",
+"options": {
+"A": "1 1/8",
+"B": "1 2/8",
+"C": "7/8",
+"D": "1 3/8"},
+"answer": "A",
+"details": "1 3/4 = 7/4 = 14/8; 14/8 – 5/8 = 9/8 = 1 1/8.",
+"difficulty": "medium"
+},
+{
+"question": "A rope is 5.6 m long. It is cut into 4 equal pieces. How long is each piece?",
+"options": {
+"A": "1.2 m",
+"B": "1.4 m",
+"C": "1.6 m",
+"D": "1.8 m"},
+"answer": "B",
+"details": "5.6 ÷ 4 = 1.4 m.",
+"difficulty": "medium"
+},
+{
+"question": "What is 0.6 ÷ 2?",
+"options": {
+"A": "0.03",
+"B": "0.3",
+"C": "3.0",
+"D": "6.0"},
+"answer": "B",
+"details": "0.6 ÷ 2 = 6/10 ÷ 2 = 6/20 = 3/10 = 0.3.",
+"difficulty": "medium"
+},
+{
+"question": "Which fraction is equivalent to 40%?",
+"options": {
+"A": "1/4",
+"B": "2/5",
+"C": "3/5",
+"D": "4/10"},
+"answer": "B",
+"details": "40% = 40/100 = 2/5 (simplest form).",
+"difficulty": "medium"
+},
+{
+"question": "What is 7/10 – 3/100?",
+"options": {
+"A": "4/90",
+"B": "67/100",
+"C": "73/100",
+"D": "4/100"},
+"answer": "B",
+"details": "7/10 = 70/100; 70/100 – 3/100 = 67/100 = 0.67.",
+"difficulty": "medium"
+},
+{
+"question": "Round 0.999 to the nearest whole number.",
+"options": {
+"A": "0",
+"B": "1",
+"C": "0.99",
+"D": "1.0"},
+"answer": "B",
+"details": "Tenths digit is 9 ≥ 5 → round up: 0.999 → 1.",
+"difficulty": "medium"
+},
+{
+"question": "Write 1.8 as a fraction.",
+"options": {
+"A": "18/10",
+"B": "9/5",
+"C": "1 4/5",
+"D": "All of the above"},
+"answer": "D",
+"details": "1.8 = 18/10 = 9/5 = 1 4/5.",
+"difficulty": "medium"
+},
+{
+"question": "Which is larger: 5/12 or 3/8?",
+"options": {
+"A": "5/12",
+"B": "3/8",
+"C": "Equal",
+"D": "Cannot compare"},
+"answer": "A",
+"details": "LCM of 12 and 8 is 24: 5/12 = 10/24, 3/8 = 9/24 → 10/24 > 9/24.",
+"difficulty": "medium"
+},
+{
+"question": "What is 3 × 2/9?",
+"options": {
+"A": "6/9",
+"B": "2/3",
+"C": "6/27",
+"D": "All of A and B"},
+"answer": "D",
+"details": "3 × 2/9 = 6/9 = 2/3.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 1.25 + 2.75 – 1.5",
+"options": {
+"A": "2.0",
+"B": "2.5",
+"C": "3.0",
+"D": "3.5"},
+"answer": "B",
+"details": "1.25 + 2.75 = 4.0; 4.0 – 1.5 = 2.5.",
+"difficulty": "medium"
+},
+{
+"question": "What is 1/4 as a decimal and percentage?",
+"options": {
+"A": "0.4 and 40%",
+"B": "0.25 and 25%",
+"C": "0.5 and 50%",
+"D": "0.1 and 10%"},
+"answer": "B",
+"details": "1 ÷ 4 = 0.25 = 25%.",
+"difficulty": "medium"
+},
+{
+"question": "A shop reduces a £20 item by 15%. What is the new price?",
+"options": {
+"A": "£15",
+"B": "£16",
+"C": "£17",
+"D": "£18"},
+"answer": "C",
+"details": "15% of £20 = £3; £20 – £3 = £17.",
+"difficulty": "medium"
+},
+{
+"question": "Which decimal is equal to 11/40?",
+"options": {
+"A": "0.225",
+"B": "0.275",
+"C": "0.325",
+"D": "0.375"},
+"answer": "B",
+"details": "11 ÷ 40 = 0.275 (40 × 2.75 = 110 → 2.75/10 = 0.275).",
+"difficulty": "medium"
+},
+{
+"question": "What is 0.333… × 3?",
+"options": {
+"A": "0.9",
+"B": "0.99",
+"C": "0.999",
+"D": "1"},
+"answer": "D",
+"details": "0.333… = 1/3; 1/3 × 3 = 1.",
+"difficulty": "medium"
+},
+{
+"question": "Convert 19/6 to a mixed number.",
+"options": {
+"A": "2 7/6",
+"B": "3 1/6",
+"C": "3 2/6",
+"D": "3 5/6"},
+"answer": "B",
+"details": "19 ÷ 6 = 3 remainder 1 → 3 1/6.",
+"difficulty": "medium"
+},
+{
+"question": "What is 3/4 × 16?",
+"options": {
+"A": "8",
+"B": "10",
+"C": "12",
+"D": "14"},
+"answer": "C",
+"details": "3/4 × 16 = (16 ÷ 4) × 3 = 4 × 3 = 12.",
+"difficulty": "medium"
+},
+{
+"question": "Which fraction is equivalent to 0.16?",
+"options": {
+"A": "4/25",
+"B": "1/6",
+"C": "2/15",
+"D": "3/20"},
+"answer": "A",
+"details": "0.16 = 16/100 = 4/25.",
+"difficulty": "medium"
+},
+{
+"question": "Round 4.55 to 1 decimal place.",
+"options": {
+"A": "4.5",
+"B": "4.6",
+"C": "5.0",
+"D": "4.55"},
+"answer": "B",
+"details": "Hundredths digit is 5 → round up: 4.5 → 4.6.",
+"difficulty": "medium"
+},
+{
+"question": "What is 2 1/2 + 1 3/4?",
+"options": {
+"A": "3 4/6",
+"B": "4 1/4",
+"C": "4 1/2",
+"D": "4 3/4"},
+"answer": "B",
+"details": "2 1/2 = 5/2 = 10/4, 1 3/4 = 7/4; sum = 17/4 = 4 1/4.",
+"difficulty": "medium"
+},
+{
+"question": "Which is 7/10 as a percentage?",
+"options": {
+"A": "7%",
+"B": "17%",
+"C": "70%",
+"D": "170%"},
+"answer": "C",
+"details": "7/10 = 70/100 = 70%.",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 5 – 2.37",
+"options": {
+"A": "2.63",
+"B": "2.73",
+"C": "3.63",
+"D": "3.73"},
+"answer": "A",
+"details": "5.00 – 2.37 = 2.63.",
+"difficulty": "medium"
+},
+{
+"question": "What is 1/5 + 3/10?",
+"options": {
+"A": "1/2",
+"B": "2/5",
+"C": "4/15",
+"D": "5/10"},
+"answer": "A",
+"details": "1/5 = 2/10; 2/10 + 3/10 = 5/10 = 1/2.",
+"difficulty": "medium"
+},
+{
+"question": "Write 250% as a mixed number.",
+"options": {
+"A": "2 1/2",
+"B": "2 1/4",
+"C": "1 1/2",
+"D": "3"},
+"answer": "A",
+"details": "250% = 250/100 = 5/2 = 2 1/2.",
+"difficulty": "medium"
+},
+{
+"question": "Which decimal is *not* equivalent to 3/8?",
+"options": {
+"A": "0.375",
+"B": "0.3750",
+"C": "0.38",
+"D": "375/1000"},
+"answer": "C",
+"details": "3/8 = 0.375 exactly; 0.38 = 0.380 > 0.375.",
+"difficulty": "medium"
+},
+{
+"question": "What is 0.9 × 0.6?",
+"options": {
+"A": "0.054",
+"B": "0.54",
+"C": "5.4",
+"D": "54"},
+"answer": "B",
+"details": "9 × 6 = 54; two decimal places total → 0.54.",
+"difficulty": "medium"
+},
+{
+"question": "A tank is 3/5 full of water. It holds 120 litres when full. How much water is in it?",
+"options": {
+"A": "60 L",
+"B": "72 L",
+"C": "80 L",
+"D": "90 L"},
+"answer": "B",
+"details": "3/5 × 120 = (120 ÷ 5) × 3 = 24 × 3 = 72 L.",
+"difficulty": "medium"
+},
+{
+"question": "What is 4/7 + 2/7?",
+"options": {
+"A": "6/7",
+"B": "6/14",
+"C": "2/7",
+"D": "1"},
+"answer": "A",
+"details": "Same denominator: 4+2=6 → 6/7.",
+"difficulty": "medium"
+},
+{
+"question": "Which fraction is equivalent to 0.05?",
+"options": {
+"A": "1/2",
+"B": "1/10",
+"C": "1/20",
+"D": "1/50"},
+"answer": "C",
+"details": "0.05 = 5/100 = 1/20.",
+"difficulty": "medium"
+},
+{
+"question": "Round 8.846 to 2 decimal places.",
+"options": {
+"A": "8.84",
+"B": "8.85",
+"C": "8.8",
+"D": "8.9"},
+"answer": "B",
+"details": "Thousandths digit is 6 ≥ 5 → round hundredths up: 8.84 → 8.85.",
+"difficulty": "medium"
+},
+{
+"question": "What is 2/3 of 90?",
+"options": {
+"A": "30",
+"B": "45",
+"C": "60",
+"D": "75"},
+"answer": "C",
+"details": "2/3 × 90 = (90 ÷ 3) × 2 = 30 × 2 = 60.",
+"difficulty": "medium"
+},
+{
+"question": "Write 0.705 as a fraction.",
+"options": {
+"A": "705/100",
+"B": "705/1000",
+"C": "75/1000",
+"D": "705/10"},
+"answer": "B",
+"details": "0.705 = 705 thousandths = 705/1000 = 141/200.",
+"difficulty": "medium"
+},
+{
+"question": "Which is 9/20 as a percentage?",
+"options": {
+"A": "40%",
+"B": "45%",
+"C": "50%",
+"D": "55%"},
+"answer": "B",
+"details": "9/20 = 45/100 = 45%.",
+"difficulty": "medium"
+},
+{
+"question": "What is 1.6 ÷ 4?",
+"options": {
+"A": "0.04",
+"B": "0.4",
+"C": "4.0",
+"D": "6.4"},
+"answer": "B",
+"details": "1.6 ÷ 4 = 16/10 ÷ 4 = 16/40 = 2/5 = 0.4.",
+"difficulty": "medium"
+},
+{
+"question": "Convert 7/3 to a mixed number.",
+"options": {
+"A": "1 4/3",
+"B": "2 1/3",
+"C": "2 2/3",
+"D": "3 1/3"},
+"answer": "B",
+"details": "7 ÷ 3 = 2 remainder 1 → 2 1/3.",
+"difficulty": "medium"
+},
+{
+"question": "What is 12.5% of 80?",
+"options": {
+"A": "5",
+"B": "10",
+"C": "15",
+"D": "20"},
+"answer": "B",
+"details": "12.5% = 1/8; 1/8 × 80 = 10.",
+"difficulty": "medium"
+},
+{
+"question": "Which decimal is equal to 5/6?",
+"options": {
+"A": "0.56",
+"B": "0.65",
+"C": "0.83",
+"D": "0.833…"},
+"answer": "D",
+"details": "5 ÷ 6 = 0.8333… (recurring).",
+"difficulty": "medium"
+},
+{
+"question": "Calculate: 3/5 + 1/4",
+"options": {
+"A": "4/9",
+"B": "17/20",
+"C": "7/20",
+"D": "12/20"},
+"answer": "B",
+"details": "LCM of 5 and 4 is 20: 12/20 + 5/20 = 17/20.",
+"difficulty": "medium"
+},
+{
+"question": "What is 0.25 × 0.4?",
+"options": {
+"A": "0.01",
+"B": "0.1",
+"C": "1.0",
+"D": "10"},
+"answer": "B",
+"details": "25 × 4 = 100; total 3 decimal places → 0.100 = 0.1.",
+"difficulty": "medium"
+},
+{
+"question": "Round 0.451 to 1 decimal place.",
+"options": {
+"A": "0.4",
+"B": "0.5",
+"C": "0.45",
+"D": "0.6"},
+"answer": "B",
+"details": "To 1 decimal place: look at hundredths digit (5) → round tenths up: 0.4 → 0.5.",
+"difficulty": "medium"
+},
+{
+"question": "Which is larger: 7/10 or 0.69?",
+"options": {
+"A": "7/10",
+"B": "0.69",
+"C": "Equal",
+"D": "7/10 = 0.7 > 0.69"},
+"answer": "A",
+"details": "7/10 = 0.7 > 0.69.",
+"difficulty": "medium"
+},
+{
+"question": "What is 4 1/2 × 3?",
+"options": {
+"A": "12 1/2",
+"B": "13 1/2",
+"C": "14 1/2",
+"D": "15 1/2"},
+"answer": "B",
+"details": "4 1/2 = 9/2; 9/2 × 3 = 27/2 = 13 1/2.",
+"difficulty": "medium"
+},
+{
+"question": "A number is increased by 20% to become 72. What was the original number?",
+"options": {
+"A": "52",
+"B": "60",
+"C": "66",
+"D": "70"},
+"answer": "B",
+"details": "Let x be original. 120% of x = 72 → 1.2x = 72 → x = 72 ÷ 1.2 = 60.",
+"difficulty": "medium"
+},
+{
+"question": "Which fraction is equivalent to 3/5?",
+"options": {
+"A": "6/10",
+"B": "9/15",
+"C": "12/20",
+"D": "All of the above"},
+"answer": "D",
+"details": "3/5 = 6/10 (×2), 9/15 (×3), 12/20 (×4). All are equivalent.",
+"difficulty": "hard"
+},
+{
+"question": "Order these fractions from smallest to largest: 2/3, 3/4, 5/6, 7/12",
+"options": {
+"A": "7/12, 2/3, 3/4, 5/6",
+"B": "2/3, 7/12, 3/4, 5/6",
+"C": "7/12, 3/4, 2/3, 5/6",
+"D": "5/6, 3/4, 2/3, 7/12"},
+"answer": "A",
+"details": "Convert to twelfths: 2/3=8/12, 3/4=9/12, 5/6=10/12, 7/12=7/12. Order: 7/12 < 8/12 < 9/12 < 10/12.",
+"difficulty": "hard"
+},
+{
+"question": "What is 7/4 as a mixed number?",
+"options": {
+"A": "1 3/4",
+"B": "2 1/4",
+"C": "1 1/4",
+"D": "3/4"},
+"answer": "A",
+"details": "7 ÷ 4 = 1 remainder 3, so 1 3/4.",
+"difficulty": "hard"
+},
+{
+"question": "Add: 3/5 + 4/10",
+"options": {
+"A": "1",
+"B": "7/15",
+"C": "10/15",
+"D": "9/10"},
+"answer": "A",
+"details": "4/10 = 2/5; 3/5 + 2/5 = 5/5 = 1.",
+"difficulty": "hard"
+},
+{
+"question": "Multiply: 3/8 × 6",
+"options": {
+"A": "2 1/4",
+"B": "18/8",
+"C": "2 2/8",
+"D": "All of the above"},
+"answer": "D",
+"details": "3/8 × 6 = 18/8 = 9/4 = 2 1/4 = 2 2/8 (simplified and unsimplified mixed forms). All are correct representations.",
+"difficulty": "hard"
+},
+{
+"question": "Which decimal is equal to 7/1000?",
+"options": {
+"A": "0.007",
+"B": "0.07",
+"C": "0.7",
+"D": "0.0007"},
+"answer": "A",
+"details": "7 thousandths = 0.007.",
+"difficulty": "hard"
+},
+{
+"question": "Which number is the largest: 0.6, 0.605, 0.65, 0.599?",
+"options": {
+"A": "0.65",
+"B": "0.605",
+"C": "0.6",
+"D": "0.599"},
+"answer": "A",
+"details": "Compare digit by digit: 0.65 = 0.650 > 0.605 > 0.600 > 0.599.",
+"difficulty": "hard"
+},
+{
+"question": "What is 2.3 + 0.78?",
+"options": {
+"A": "3.08",
+"B": "2.98",
+"C": "3.18",
+"D": "2.88"},
+"answer": "A",
+"details": "Align decimals: 2.30 + 0.78 = 3.08.",
+"difficulty": "hard"
+},
+{
+"question": "Write 0.47 as a fraction.",
+"options": {
+"A": "47/100",
+"B": "47/10",
+"C": "4/7",
+"D": "7/47"},
+"answer": "A",
+"details": "0.47 = 47 hundredths = 47/100.",
+"difficulty": "hard"
+},
+{
+"question": "Round 3.67 to the nearest whole number.",
+"options": {
+"A": "4",
+"B": "3",
+"C": "3.7",
+"D": "3.6"},
+"answer": "A",
+"details": "Tenths digit is 6 (≥5), so round up: 3.67 → 4.",
+"difficulty": "hard"
+},
+{
+"question": "What is 25% as a decimal?",
+"options": {
+"A": "0.25",
+"B": "0.5",
+"C": "0.75",
+"D": "0.025"},
+"answer": "A",
+"details": "25% = 25/100 = 0.25.",
+"difficulty": "hard"
+},
+{
+"question": "Which is equal to 4/5?",
+"options": {
+"A": "80%",
+"B": "40%",
+"C": "20%",
+"D": "60%"},
+"answer": "A",
+"details": "4/5 = 80/100 = 80%.",
+"difficulty": "hard"
+},
+{
+"question": "Subtract: 5/6 – 1/3",
+"options": {
+"A": "1/2",
+"B": "4/6",
+"C": "2/3",
+"D": "3/6"},
+"answer": "A",
+"details": "1/3 = 2/6; 5/6 – 2/6 = 3/6 = 1/2.",
+"difficulty": "hard"
+},
+{
+"question": "What is 1 3/4 as an improper fraction?",
+"options": {
+"A": "7/4",
+"B": "5/4",
+"C": "4/7",
+"D": "8/4"},
+"answer": "A",
+"details": "1 × 4 + 3 = 7 → 7/4.",
+"difficulty": "hard"
+},
+{
+"question": "Which fraction is greater: 5/8 or 3/5?",
+"options": {
+"A": "5/8",
+"B": "3/5",
+"C": "They are equal",
+"D": "Cannot compare"},
+"answer": "A",
+"details": "Convert to fortieths: 5/8 = 25/40, 3/5 = 24/40 → 25/40 > 24/40.",
+"difficulty": "hard"
+},
+{
+"question": "Add: 2.05 + 1.8 + 0.25",
+"options": {
+"A": "4.10",
+"B": "4.00",
+"C": "4.15",
+"D": "3.90"},
+"answer": "A",
+"details": "2.05 + 1.80 = 3.85; 3.85 + 0.25 = 4.10.",
+"difficulty": "hard"
+},
+{
+"question": "What is 0.009 as a fraction?",
+"options": {
+"A": "9/1000",
+"B": "9/100",
+"C": "9/10",
+"D": "90/1000"},
+"answer": "A",
+"details": "0.009 = 9 thousandths = 9/1000.",
+"difficulty": "hard"
+},
+{
+"question": "Round 7.849 to 1 decimal place.",
+"options": {
+"A": "7.8",
+"B": "7.9",
+"C": "8.0",
+"D": "7.85"},
+"answer": "A",
+"details": "Hundredths digit is 4 (<5), so keep tenths digit: 7.8.",
+"difficulty": "hard"
+},
+{
+"question": "What is 3/4 as a percentage?",
+"options": {
+"A": "75%",
+"B": "50%",
+"C": "25%",
+"D": "100%"},
+"answer": "A",
+"details": "3/4 = 75/100 = 75%.",
+"difficulty": "hard"
+},
+{
+"question": "Multiply: 2 1/3 × 4",
+"options": {
+"A": "9 1/3",
+"B": "8 1/3",
+"C": "28/3",
+"D": "Both A and C"},
+"answer": "D",
+"details": "2 1/3 = 7/3; 7/3 × 4 = 28/3 = 9 1/3. Both A and C are correct.",
+"difficulty": "hard"
+},
+{
+"question": "Which is the smallest: 1/4, 0.26, 27%, 3/10?",
+"options": {
+"A": "1/4",
+"B": "0.26",
+"C": "27%",
+"D": "3/10"},
+"answer": "A",
+"details": "1/4 = 0.25; 0.26 = 0.26; 27% = 0.27; 3/10 = 0.3. So 0.25 is smallest.",
+"difficulty": "hard"
+},
+{
+"question": "Subtract: 4.2 – 1.85",
+"options": {
+"A": "2.35",
+"B": "2.45",
+"C": "3.35",
+"D": "2.25"},
+"answer": "A",
+"details": "4.20 – 1.85 = 2.35.",
+"difficulty": "hard"
+},
+{
+"question": "What is 13/5 as a mixed number?",
+"options": {
+"A": "2 3/5",
+"B": "3 2/5",
+"C": "1 8/5",
+"D": "2 1/5"},
+"answer": "A",
+"details": "13 ÷ 5 = 2 remainder 3 → 2 3/5.",
+"difficulty": "hard"
+},
+{
+"question": "Which pair of fractions are equivalent?",
+"options": {
+"A": "2/5 and 6/15",
+"B": "3/7 and 9/20",
+"C": "4/9 and 8/16",
+"D": "5/6 and 10/12"},
+"answer": "A",
+"details": "2/5 = 6/15 (multiply numerator and denominator by 3).",
+"difficulty": "hard"
+},
+{
+"question": "Add: 3/4 + 2/5",
+"options": {
+"A": "23/20",
+"B": "5/9",
+"C": "6/20",
+"D": "1 3/20"},
+"answer": "D",
+"details": "LCM of 4 and 5 is 20; 3/4 = 15/20, 2/5 = 8/20; sum = 23/20 = 1 3/20.",
+"difficulty": "hard"
+},
+{
+"question": "Which decimal is equal to 125/1000?",
+"options": {
+"A": "0.125",
+"B": "1.25",
+"C": "0.0125",
+"D": "12.5"},
+"answer": "A",
+"details": "125/1000 = 0.125.",
+"difficulty": "hard"
+},
+{
+"question": "Order from smallest to largest: 0.09, 0.101, 0.099, 0.1",
+"options": {
+"A": "0.09, 0.099, 0.1, 0.101",
+"B": "0.099, 0.09, 0.1, 0.101",
+"C": "0.09, 0.1, 0.099, 0.101",
+"D": "0.101, 0.1, 0.099, 0.09"},
+"answer": "A",
+"details": "0.09 = 0.090; 0.099; 0.1 = 0.100; 0.101. So order: 0.090 < 0.099 < 0.100 < 0.101.",
+"difficulty": "hard"
+},
+{
+"question": "What is 5.06 – 2.7?",
+"options": {
+"A": "2.36",
+"B": "2.46",
+"C": "3.36",
+"D": "2.26"},
+"answer": "A",
+"details": "5.06 – 2.70 = 2.36.",
+"difficulty": "hard"
+},
+{
+"question": "Write 0.07 as a fraction.",
+"options": {
+"A": "7/100",
+"B": "7/10",
+"C": "70/100",
+"D": "1/7"},
+"answer": "A",
+"details": "0.07 = 7 hundredths = 7/100.",
+"difficulty": "hard"
+},
+{
+"question": "Round 5.47 to 1 decimal place.",
+"options": {
+"A": "5.5",
+"B": "5.4",
+"C": "5",
+"D": "5.48"},
+"answer": "A",
+"details": "Hundredths digit is 7 (≥5), so round up tenths: 5.47 → 5.5.",
+"difficulty": "hard"
+},
+{
+"question": "What is 1/5 as a percentage?",
+"options": {
+"A": "20%",
+"B": "25%",
+"C": "10%",
+"D": "50%"},
+"answer": "A",
+"details": "1/5 = 20/100 = 20%.",
+"difficulty": "hard"
+},
+{
+"question": "Subtract: 3 1/2 – 1 3/4",
+"options": {
+"A": "1 3/4",
+"B": "2 1/4",
+"C": "1 1/4",
+"D": "2 3/4"},
+"answer": "A",
+"details": "3 1/2 = 7/2 = 14/4; 1 3/4 = 7/4; 14/4 – 7/4 = 7/4 = 1 3/4.",
+"difficulty": "hard"
+},
+{
+"question": "Which is greater: 0.3 or 1/3?",
+"options": {
+"A": "1/3",
+"B": "0.3",
+"C": "Equal",
+"D": "Cannot compare"},
+"answer": "A",
+"details": "1/3 ≈ 0.333..., which is greater than 0.3.",
+"difficulty": "hard"
+},
+{
+"question": "Multiply: 5/6 × 3",
+"options": {
+"A": "2 1/2",
+"B": "15/6",
+"C": "2 3/6",
+"D": "All of the above"},
+"answer": "D",
+"details": "5/6 × 3 = 15/6 = 5/2 = 2 1/2 = 2 3/6. All are equivalent.",
+"difficulty": "hard"
+},
+{
+"question": "What is 7/20 as a decimal?",
+"options": {
+"A": "0.35",
+"B": "0.25",
+"C": "0.7",
+"D": "0.14"},
+"answer": "A",
+"details": "7 ÷ 20 = 0.35.",
+"difficulty": "hard"
+},
+{
+"question": "Add: 0.099 + 0.001",
+"options": {
+"A": "0.1",
+"B": "0.01",
+"C": "1.0",
+"D": "0.1001"},
+"answer": "A",
+"details": "0.099 + 0.001 = 0.100 = 0.1.",
+"difficulty": "hard"
+},
+{
+"question": "Which fraction is equal to 0.625?",
+"options": {
+"A": "5/8",
+"B": "3/5",
+"C": "2/3",
+"D": "1/2"},
+"answer": "A",
+"details": "5 ÷ 8 = 0.625.",
+"difficulty": "hard"
+},
+{
+"question": "Round 0.999 to the nearest whole number.",
+"options": {
+"A": "1",
+"B": "0",
+"C": "1.0",
+"D": "0.9"},
+"answer": "A",
+"details": "Tenths digit is 9 (≥5), so round up: 0.999 → 1.",
+"difficulty": "hard"
+},
+{
+"question": "What is 60% as a fraction in simplest form?",
+"options": {
+"A": "3/5",
+"B": "6/10",
+"C": "60/100",
+"D": "2/5"},
+"answer": "A",
+"details": "60% = 60/100 = 3/5.",
+"difficulty": "hard"
+},
+{
+"question": "Add: 2/3 + 5/6",
+"options": {
+"A": "1 1/2",
+"B": "7/9",
+"C": "10/18",
+"D": "1 1/6"},
+"answer": "A",
+"details": "2/3 = 4/6; 4/6 + 5/6 = 9/6 = 3/2 = 1 1/2.",
+"difficulty": "hard"
+},
+{
+"question": "What is 4 2/5 as an improper fraction?",
+"options": {
+"A": "22/5",
+"B": "20/5",
+"C": "10/5",
+"D": "24/5"},
+"answer": "A",
+"details": "4 × 5 + 2 = 22 → 22/5.",
+"difficulty": "hard"
+},
+{
+"question": "Which decimal is the largest: 1.001, 0.999, 1.01, 1.1?",
+"options": {
+"A": "1.1",
+"B": "1.01",
+"C": "1.001",
+"D": "0.999"},
+"answer": "A",
+"details": "1.1 = 1.100 > 1.010 > 1.001 > 0.999.",
+"difficulty": "hard"
+},
+{
+"question": "Subtract: 3.005 – 1.2",
+"options": {
+"A": "1.805",
+"B": "1.85",
+"C": "2.805",
+"D": "1.705"},
+"answer": "A",
+"details": "3.005 – 1.200 = 1.805.",
+"difficulty": "hard"
+},
+{
+"question": "What is 17/100 as a decimal?",
+"options": {
+"A": "0.17",
+"B": "1.7",
+"C": "0.017",
+"D": "17.0"},
+"answer": "A",
+"details": "17/100 = 0.17.",
+"difficulty": "hard"
+},
+{
+"question": "Round 2.849 to the nearest whole number.",
+"options": {
+"A": "3",
+"B": "2",
+"C": "2.8",
+"D": "2.9"},
+"answer": "A",
+"details": "Tenths digit is 8 (≥5), so round up: 2.849 → 3.",
+"difficulty": "hard"
+},
+{
+"question": "What is 80% as a fraction?",
+"options": {
+"A": "4/5",
+"B": "2/5",
+"C": "1/4",
+"D": "3/4"},
+"answer": "A",
+"details": "80% = 80/100 = 4/5.",
+"difficulty": "hard"
+},
+{
+"question": "Multiply: 1 1/4 × 8",
+"options": {
+"A": "10",
+"B": "9",
+"C": "11",
+"D": "8 1/4"},
+"answer": "A",
+"details": "1 1/4 = 5/4; 5/4 × 8 = 40/4 = 10.",
+"difficulty": "hard"
+},
+{
+"question": "Which is smaller: 3/8 or 0.4?",
+"options": {
+"A": "3/8",
+"B": "0.4",
+"C": "Equal",
+"D": "Cannot tell"},
+"answer": "A",
+"details": "3/8 = 0.375 < 0.4.",
+"difficulty": "hard"
+},
+{
+"question": "Add: 1.234 + 0.766",
+"options": {
+"A": "2.000",
+"B": "1.999",
+"C": "2.100",
+"D": "1.800"},
+"answer": "A",
+"details": "1.234 + 0.766 = 2.000.",
+"difficulty": "hard"
+},
+{
+"question": "What is 0.001 as a fraction?",
+"options": {
+"A": "1/1000",
+"B": "1/100",
+"C": "1/10",
+"D": "10/1000"},
+"answer": "A",
+"details": "0.001 = 1 thousandth = 1/1000.",
+"difficulty": "hard"
+},
+{
+"question": "Order: 1/2, 0.45, 48%, 3/5",
+"options": {
+"A": "0.45, 1/2, 48%, 3/5",
+"B": "1/2, 0.45, 48%, 3/5",
+"C": "0.45, 48%, 1/2, 3/5",
+"D": "3/5, 48%, 1/2, 0.45"},
+"answer": "C",
+"details": "The fractions/decimals/percentages convert to:
+1/2 = 0.50
+0.45 = 0.45
+48% = 0.48
+3/5 = 0.60
+Ordered from smallest to largest, they should be: 0.45, 0.48, 0.50, 0.60.
+This corresponds to: 0.45, 48%, 1/2, 3/5.
+The correct option is C: 0.45, 48%, 1/2, 3/5.",
+"difficulty": "hard"
+},
+{
+"question": "Subtract: 5 – 2.375",
+"options": {
+"A": "2.625",
+"B": "2.725",
+"C": "3.625",
+"D": "2.525"},
+"answer": "A",
+"details": "5.000 – 2.375 = 2.625.",
+"difficulty": "hard"
+},
+{
+"question": "What is 9/10 as a percentage?",
+"options": {
+"A": "90%",
+"B": "9%",
+"C": "10%",
+"D": "99%"},
+"answer": "A",
+"details": "9/10 = 90/100 = 90%.",
+"difficulty": "hard"
+},
+{
+"question": "Which fraction is equivalent to 0.04?",
+"options": {
+"A": "1/25",
+"B": "4/10",
+"C": "1/4",
+"D": "4/1000"},
+"answer": "A",
+"details": "0.04 = 4/100 = 1/25.",
+"difficulty": "hard"
+},
+{
+"question": "Multiply: 3/10 × 7",
+"options": {
+"A": "2 1/10",
+"B": "21/10",
+"C": "2.1",
+"D": "All of the above"},
+"answer": "D",
+"details": "3/10 × 7 = 21/10 = 2 1/10 = 2.1. All are equivalent.",
+"difficulty": "hard"
+},
+{
+"question": "Add: 4/5 + 3/10",
+"options": {
+"A": "1 1/10",
+"B": "7/15",
+"C": "12/10",
+"D": "1 2/10"},
+"answer": "A",
+"details": "4/5 = 8/10; 8/10 + 3/10 = 11/10 = 1 1/10.",
+"difficulty": "hard"
+},
+{
+"question": "What is 2.050 as a fraction?",
+"options": {
+"A": "205/100",
+"B": "205/1000",
+"C": "41/20",
+"D": "Both A and C"},
+"answer": "D",
+"details": "2.050 = 2050/1000 = 205/100 = 41/20. Both A and C are correct.",
+"difficulty": "hard"
+},
+{
+"question": "Round 6.999 to 1 decimal place.",
+"options": {
+"A": "7.0",
+"B": "7.1",
+"C": "6.9",
+"D": "7"},
+"answer": "A",
+"details": "Hundredths digit is 9, so round up tenths: 6.999 → 7.0.",
+"difficulty": "hard"
+},
+{
+"question": "What is 2/5 as a decimal?",
+"options": {
+"A": "0.4",
+"B": "0.5",
+"C": "0.2",
+"D": "0.25"},
+"answer": "A",
+"details": "2 ÷ 5 = 0.4.",
+"difficulty": "hard"
+},
+{
+"question": "Subtract: 2 3/4 – 1 1/2",
+"options": {
+"A": "1 1/4",
+"B": "1 1/2",
+"C": "3/4",
+"D": "1 3/4"},
+"answer": "A",
+"details": "2 3/4 = 11/4; 1 1/2 = 6/4; 11/4 – 6/4 = 5/4 = 1 1/4.",
+"difficulty": "hard"
+},
+{
+"question": "Which is the largest: 7/10, 0.69, 71%, 0.705?",
+"options": {
+"A": "71%",
+"B": "0.705",
+"C": "7/10",
+"D": "0.69"},
+"answer": "A",
+"details": "7/10 = 0.7; 0.69 = 0.69; 71% = 0.71; 0.705 = 0.705. So 0.71 is largest.",
+"difficulty": "hard"
+},
+{
+"question": "Add: 0.125 + 0.875",
+"options": {
+"A": "1.000",
+"B": "0.999",
+"C": "1.100",
+"D": "0.800"},
+"answer": "A",
+"details": "0.125 + 0.875 = 1.000.",
+"difficulty": "hard"
+},
+{
+"question": "What is 3.007 as a mixed number?",
+"options": {
+"A": "3 7/1000",
+"B": "3 7/100",
+"C": "3007/1000",
+"D": "Both A and C"},
+"answer": "D",
+"details": "3.007 = 3 + 7/1000 = 3 7/1000 = 3007/1000.",
+"difficulty": "hard"
+},
+{
+"question": "Round 4.505 to the nearest whole number.",
+"options": {
+"A": "5",
+"B": "4",
+"C": "4.5",
+"D": "4.51"},
+"answer": "A",
+"details": "Tenths digit is 5, so round up: 4.505 → 5.",
+"difficulty": "hard"
+},
+{
+"question": "What is 1/4 as a decimal?",
+"options": {
+"A": "0.25",
+"B": "0.4",
+"C": "0.5",
+"D": "0.75"},
+"answer": "A",
+"details": "1 ÷ 4 = 0.25.",
+"difficulty": "hard"
+},
+{
+"question": "Multiply: 2 2/3 × 6",
+"options": {
+"A": "16",
+"B": "12",
+"C": "18",
+"D": "14"},
+"answer": "A",
+"details": "2 2/3 = 8/3; 8/3 × 6 = 48/3 = 16.",
+"difficulty": "hard"
+},
+{
+"question": "Which fraction is equal to 0.08?",
+"options": {
+"A": "2/25",
+"B": "8/10",
+"C": "1/8",
+"D": "4/50"},
+"answer": "A",
+"details": "0.08 = 8/100 = 2/25.",
+"difficulty": "hard"
+},
+{
+"question": "Add: 1/6 + 1/3",
+"options": {
+"A": "1/2",
+"B": "2/9",
+"C": "1/9",
+"D": "3/6"},
+"answer": "A",
+"details": "1/3 = 2/6; 1/6 + 2/6 = 3/6 = 1/2.",
+"difficulty": "hard"
+},
+{
+"question": "Subtract: 7.001 – 3.5",
+"options": {
+"A": "3.501",
+"B": "3.51",
+"C": "4.501",
+"D": "3.401"},
+"answer": "A",
+"details": "7.001 – 3.500 = 3.501.",
+"difficulty": "hard"
+},
+{
+"question": "What is 55% as a fraction?",
+"options": {
+"A": "11/20",
+"B": "55/100",
+"C": "5/5",
+"D": "Both A and B"},
+"answer": "D",
+"details": "55% = 55/100 = 11/20. Both are correct.",
+"difficulty": "hard"
+},
+{
+"question": "Which decimal is equal to 3/8?",
+"options": {
+"A": "0.375",
+"B": "0.38",
+"C": "0.35",
+"D": "0.875"},
+"answer": "A",
+"details": "3 ÷ 8 = 0.375.",
+"difficulty": "hard"
+},
+{
+"question": "Order: 0.12, 1/8, 0.125, 13%",
+"options": {
+"A": "1/8, 0.12, 0.125, 13%",
+"B": "0.12, 1/8, 0.125, 13%",
+"C": "13%, 0.125, 0.12, 1/8",
+"D": "0.12, 13%, 1/8, 0.125"},
+"answer": "B",
+"details": "Let\'s convert all values to decimals for comparison:
+- 0.12 = 0.12
+- 1/8 = 0.125
+- 0.125 = 0.125
+- 13% = 0.13
+The values in ascending order are: 0.12, 0.125, 0.125, 0.13.
+Therefore, the correct order of the given items is: 0.12, 1/8, 0.125, 13%.",
+"difficulty": "hard"
+},
+{
+"question": "What is 1 1/2 + 2 3/4?",
+"options": {
+"A": "4 1/4",
+"B": "3 4/6",
+"C": "4 1/2",
+"D": "3 1/4"},
+"answer": "A",
+"details": "1 1/2 = 6/4; 2 3/4 = 11/4; sum = 17/4 = 4 1/4.",
+"difficulty": "hard"
+},
+{
+"question": "Round 0.499 to 1 decimal place.",
+"options": {
+"A": "0.5",
+"B": "0.4",
+"C": "0",
+"D": "1.0"},
+"answer": "A",
+"details": "Hundredths digit is 9 (≥5), so round up tenths: 0.499 → 0.5.",
+"difficulty": "hard"
+},
+{
+"question": "What is 3/25 as a percentage?",
+"options": {
+"A": "12%",
+"B": "25%",
+"C": "3%",
+"D": "75%"},
+"answer": "A",
+"details": "3/25 = 12/100 = 12%.",
+"difficulty": "hard"
+},
+{
+"question": "Multiply: 5/12 × 4",
+"options": {
+"A": "1 2/3",
+"B": "20/12",
+"C": "5/3",
+"D": "All of the above"},
+"answer": "D",
+"details": "5/12 × 4 = 20/12 = 5/3 = 1 2/3. All are equivalent.",
+"difficulty": "hard"
+},
+{
+"question": "Subtract: 5/8 – 1/4",
+"options": {
+"A": "3/8",
+"B": "4/8",
+"C": "1/2",
+"D": "2/8"},
+"answer": "A",
+"details": "1/4 = 2/8; 5/8 – 2/8 = 3/8.",
+"difficulty": "hard"
+},
+{
+"question": "Which is greater: 4/9 or 0.45?",
+"options": {
+"A": "0.45",
+"B": "4/9",
+"C": "Equal",
+"D": "Cannot tell"},
+"answer": "A",
+"details": "4/9 ≈ 0.444... < 0.45.",
+"difficulty": "hard"
+},
+{
+"question": "Add: 2.5 + 0.075 + 1.425",
+"options": {
+"A": "4.0",
+"B": "3.9",
+"C": "4.1",
+"D": "3.99"},
+"answer": "A",
+"details": "2.5 + 0.075 = 2.575; +1.425 = 4.000.",
+"difficulty": "hard"
+},
+{
+"question": "What is 0.333... as a fraction?",
+"options": {
+"A": "1/3",
+"B": "3/10",
+"C": "33/100",
+"D": "1/4"},
+"answer": "A",
+"details": "0.333... (recurring) = 1/3.",
+"difficulty": "hard"
+},
+{
+"question": "Round 9.995 to the nearest whole number.",
+"options": {
+"A": "10",
+"B": "9",
+"C": "10.0",
+"D": "9.9"},
+"answer": "A",
+"details": "Tenths digit is 9, so round up: 9.995 → 10.",
+"difficulty": "hard"
+},
+{
+"question": "What is 7/10 as a percentage?",
+"options": {
+"A": "70%",
+"B": "7%",
+"C": "10%",
+"D": "77%"},
+"answer": "A",
+"details": "7/10 = 70/100 = 70%.",
+"difficulty": "hard"
+},
+{
+"question": "Which fraction is equivalent to 0.9?",
+"options": {
+"A": "9/10",
+"B": "90/100",
+"C": "18/20",
+"D": "All of the above"},
+"answer": "D",
+"details": "0.9 = 9/10 = 90/100 = 18/20. All are equivalent.",
+"difficulty": "hard"
+},
+{
+"question": "Multiply: 3 1/5 × 5",
+"options": {
+"A": "16",
+"B": "15",
+"C": "3 1/25",
+"D": "17"},
+"answer": "A",
+"details": "3 1/5 = 16/5; 16/5 × 5 = 16.",
+"difficulty": "hard"
+},
+{
+"question": "Add: 3/7 + 2/14",
+"options": {
+"A": "4/7",
+"B": "5/14",
+"C": "6/14",
+"D": "1/2"},
+"answer": "A",
+"details": "2/14 = 1/7; 3/7 + 1/7 = 4/7.",
+"difficulty": "hard"
+},
+{
+"question": "Subtract: 4.001 – 0.999",
+"options": {
+"A": "3.002",
+"B": "3.001",
+"C": "4.002",
+"D": "3.000"},
+"answer": "A",
+"details": "4.001 – 0.999 = 3.002.",
+"difficulty": "hard"
+},
+{
+"question": "What is 1/8 as a decimal?",
+"options": {
+"A": "0.125",
+"B": "0.8",
+"C": "0.0125",
+"D": "1.25"},
+"answer": "A",
+"details": "1 ÷ 8 = 0.125.",
+"difficulty": "hard"
+},
+{
+"question": "Round 1.255 to 1 decimal place.",
+"options": {
+"A": "1.3",
+"B": "1.2",
+"C": "1.26",
+"D": "1"},
+"answer": "A",
+"details": "Hundredths digit is 5, so round up tenths: 1.255 → 1.3.",
+"difficulty": "hard"
+},
+{
+"question": "What is 35% as a fraction?",
+"options": {
+"A": "7/20",
+"B": "35/100",
+"C": "5/7",
+"D": "Both A and B"},
+"answer": "D",
+"details": "35% = 35/100 = 7/20. Both are correct.",
+"difficulty": "hard"
+},
+{
+"question": "Which is the smallest: 0.2, 1/5, 20%, 0.201?",
+"options": {
+"A": "They are all equal except 0.201",
+"B": "0.201",
+"C": "1/5",
+"D": "20%"},
+"answer": "A",
+"details": "0.2 = 1/5 = 20% = 0.200. 0.201 is larger. So the first three are equal and smallest.",
+"difficulty": "hard"
+},
+{
+"question": "Add: 1 1/3 + 2 1/6",
+"options": {
+"A": "3 1/2",
+"B": "3 2/9",
+"C": "3 1/6",
+"D": "2 1/2"},
+"answer": "A",
+"details": "1 1/3 = 8/6; 2 1/6 = 13/6; sum = 21/6 = 7/2 = 3 1/2.",
+"difficulty": "hard"
+},
+{
+"question": "What is 0.6 as a fraction in simplest form?",
+"options": {
+"A": "3/5",
+"B": "6/10",
+"C": "60/100",
+"D": "1/6"},
+"answer": "A",
+"details": "0.6 = 6/10 = 3/5.",
+"difficulty": "hard"
+},
+{
+"question": "Subtract: 3 3/5 – 1 4/5",
+"options": {
+"A": "1 4/5",
+"B": "2 1/5",
+"C": "1 3/5",
+"D": "2 4/5"},
+"answer": "A",
+"details": "3 3/5 = 18/5; 1 4/5 = 9/5; 18/5 – 9/5 = 9/5 = 1 4/5.",
+"difficulty": "hard"
+},
+{
+"question": "Multiply: 7/10 × 9",
+"options": {
+"A": "6 3/10",
+"B": "63/10",
+"C": "6.3",
+"D": "All of the above"},
+"answer": "D",
+"details": "7/10 × 9 = 63/10 = 6 3/10 = 6.3. All are equivalent.",
+"difficulty": "hard"
+},
+{
+"question": "Which decimal is equal to 11/40?",
+"options": {
+"A": "0.275",
+"B": "0.28",
+"C": "0.11",
+"D": "0.4"},
+"answer": "A",
+"details": "11 ÷ 40 = 0.275.",
+"difficulty": "hard"
+},
+{
+"question": "Add: 0.999 + 0.001",
+"options": {
+"A": "1.000",
+"B": "0.1000",
+"C": "1.001",
+"D": "0.999"},
+"answer": "A",
+"details": "0.999 + 0.001 = 1.000.",
+"difficulty": "hard"
+},
+{
+"question": "What is 13/4 as a mixed number?",
+"options": {
+"A": "3 1/4",
+"B": "2 5/4",
+"C": "3 3/4",
+"D": "4 1/3"},
+"answer": "A",
+"details": "13 ÷ 4 = 3 remainder 1 → 3 1/4.",
+"difficulty": "hard"
+},
+{
+"question": "Round 7.500 to the nearest whole number.",
+"options": {
+"A": "8",
+"B": "7",
+"C": "7.5",
+"D": "8.0"},
+"answer": "A",
+"details": "Tenths digit is 5, so round up: 7.500 → 8.",
+"difficulty": "hard"
+},
+{
+"question": "What is 9/20 as a percentage?",
+"options": {
+"A": "45%",
+"B": "9%",
+"C": "20%",
+"D": "50%"},
+"answer": "A",
+"details": "9/20 = 45/100 = 45%.",
+"difficulty": "hard"
+},
+{
+"question": "Which fraction is greater: 7/12 or 5/8?",
+"options": {
+"A": "5/8",
+"B": "7/12",
+"C": "Equal",
+"D": "Cannot compare"},
+"answer": "A",
+"details": "LCM of 12 and 8 is 24; 7/12=14/24, 5/8=15/24 → 15/24 > 14/24.",
+"difficulty": "hard"
+}
+]

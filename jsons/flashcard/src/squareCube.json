@@ -543,5 +543,30 @@
     "question": "What is the cube root of 1?",
     "answer": "1",
     "details": "1 × 1 × 1 = 1, so ∛1 = 1."
-  }
+  },
+    {
+      "question": "What is the square of 9?",
+      "answer": "81",
+      "details": "A square number is the result of multiplying a number by itself. So, the square of 9 is 9 × 9 = 81. This is also written as 9². Square numbers are commonly used in geometry, for example, to find the area of a square with side length 9 units."
+    },
+    {
+      "question": "What is the cube of 4?",
+      "answer": "64",
+      "details": "A cube number is found by multiplying a number by itself three times. The cube of 4 is 4 × 4 × 4 = 64, or 4³. Cube numbers relate to volume—for instance, a cube with side length 4 cm has a volume of 64 cubic centimeters."
+    },
+    {
+      "question": "Which of the following is both a square number and a cube number: 16, 27, 64, or 81?",
+      "answer": "64",
+      "details": "A number that is both a square and a cube must be a sixth power (since the least common multiple of 2 and 3 is 6). Let's check: 16 = 4² (square) but not a cube; 27 = 3³ (cube) but not a square; 81 = 9² = 3⁴ (square, not a cube); 64 = 8² = 4³ = 2⁶—so it is both a square (8×8) and a cube (4×4×4). Thus, 64 is correct."
+    },
+    {
+      "question": "A square garden has an area of 144 square meters. What is the length of one side?",
+      "answer": "12",
+      "details": "The area of a square is the side length squared. To find the side length, take the square root of the area. Since 12 × 12 = 144, the square root of 144 is 12. Therefore, each side of the garden is 12 meters long."
+    },
+    {
+      "question": "Which number comes next in the sequence of cube numbers: 1, 8, 27, 64, ___?",
+      "answer": "125",
+      "details": "Cube numbers are formed by raising whole numbers to the power of 3: 1³ = 1, 2³ = 8, 3³ = 27, 4³ = 64, so the next is 5³ = 5 × 5 × 5 = 125. This pattern is used in number sequences and helps in understanding exponential growth in mathematics."
+    }
 ]

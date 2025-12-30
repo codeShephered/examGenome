@@ -327,10 +327,10 @@
   {
     "question": "In money, what place value does the digit just left of the decimal represent?",
     "answer": "Ones",
-    "details": "In $12.34, the '2' is in the ones place (dollars), and '1' is in the tens place."
+    "details": "In £12.34, the '2' is in the ones place (dollars), and '1' is in the tens place."
   },
   {
-    "question": "In $45.60, what is the place value of the 4?",
+    "question": "In £45.60, what is the place value of the 4?",
     "answer": "40",
     "details": "The 4 is in the tens place of dollars: 4 × 10 = 40 dollars."
   },
@@ -530,8 +530,58 @@
     "details": "For example, a population of 123,000 means 123 thousand people, where '123' is in the thousands place and above."
   },
   {
-    "question": "If a car costs $25,600, what does the digit 6 represent?",
+    "question": "If a car costs £25,600, what does the digit 6 represent?",
     "answer": "600 dollars",
-    "details": "The 6 is in the hundreds place: 6 × 100 = $600."
-  }
+    "details": "The 6 is in the hundreds place: 6 × 100 = £600."
+  },
+    {
+      "question": "In the number 5,327, what is the place value of the digit 3?",
+      "answer": "300",
+      "details": "In the number 5,327, the digits from right to left represent ones, tens, hundreds, and thousands. The digit 3 is in the hundreds place, so its place value is 3 × 100 = 300. Understanding place value is fundamental in the base-10 number system, which is used worldwide and taught from early elementary grades."
+    },
+    {
+      "question": "What is the value of the digit 8 in the number 18,462?",
+      "answer": "8,000",
+      "details": "In 18,462, the digits represent (from left to right): ten-thousands, thousands, hundreds, tens, and ones. The digit 8 is in the thousands place, so its value is 8 × 1,000 = 8,000. Place value helps students read, write, and compare large numbers accurately."
+    },
+    {
+      "question": "Which digit is in the tens place in the number 704?",
+      "answer": "0",
+      "details": "In 704, the places are: hundreds (7), tens (0), and ones (4). Even though there are zero tens, the digit in the tens place is still 0. This reinforces that zero holds a place and affects the value of other digits—a key concept in the base-10 system."
+    },
+    {
+      "question": "Write the number that has 6 in the thousands place, 2 in the hundreds place, 0 in the tens place, and 5 in the ones place.",
+      "answer": "6,205",
+      "details": "Using place value: thousands = 6, hundreds = 2, tens = 0, ones = 5. So the number is 6,205. This type of question tests the ability to construct numbers from given place values, a common skill in standardized assessments like NAEP or Key Stage 2 SATs."
+    },
+    {
+      "question": "In the decimal number 42.68, what is the place value of the digit 6?",
+      "answer": "0.6",
+      "details": "In decimal numbers, the first digit after the decimal point is the tenths place. In 42.68, the 6 is in the tenths place, so its value is 6 × 0.1 = 0.6. Understanding decimal place value is essential for working with money, measurements, and data."
+    },
+    {
+      "question": "What is the place value of the digit 9 in the number 3.095?",
+      "answer": "0.09",
+      "details": "In 3.095, the places after the decimal are: tenths (0), hundredths (9), thousandths (5). The digit 9 is in the hundredths place, so its value is 9 × 0.01 = 0.09. This builds foundational knowledge for comparing and rounding decimals."
+    },
+    {
+      "question": "A student says, 'In the number 507, the 0 means there is nothing, so we can ignore it.' Is this correct?",
+      "answer": "No",
+      "details": "The 0 in 507 is in the tens place and acts as a placeholder. It shows that there are zero tens, which distinguishes 507 from 57 or 570. Without the 0, the number’s value would change. This misconception is commonly addressed in elementary math education to reinforce the importance of zero in place value."
+    },
+    {
+      "question": "Which number has a 4 with a place value of 400?",
+      "answer": "2,468",
+      "details": "We need a number where the digit 4 is in the hundreds place (since 4 × 100 = 400). In 2,468, the digits are: thousands (2), hundreds (4), tens (6), ones (8). So the 4 represents 400. Other options like 4,268 (4,000) or 246 (40) would not satisfy the condition."
+    },
+    {
+      "question": "What is the sum of the place values of the two 3s in the number 3,230?",
+      "answer": "3,030",
+      "details": "In 3,230: the first 3 is in the thousands place (3 × 1,000 = 3,000), and the second 3 is in the tens place (3 × 10 = 30). Sum = 3,000 + 30 = 3,030. This question tests understanding that the same digit can have different values depending on its position."
+    },
+    {
+      "question": "The distance to a town is written as 10,508 meters. What is the place value of the digit 5?",
+      "answer": "500",
+      "details": "In 10,508, the places are: ten-thousands (1), thousands (0), hundreds (5), tens (0), ones (8). The digit 5 is in the hundreds place, so its place value is 5 × 100 = 500 meters. Real-world contexts like distance measurement help students connect place value to practical applications."
+    }
 ]

@@ -1,0 +1,3112 @@
+[
+    {
+        "question": "What is 1,234 + 567?",
+        "answer": "B",
+        "options": {
+            "A": "1,701",
+            "B": "1,801",
+            "C": "1,811",
+            "D": "1,901"
+        }
+    },
+    {
+        "question": "What is 2,000 - 456?",
+        "answer": "B",
+        "options": {
+            "A": "1,454",
+            "B": "1,544",
+            "C": "1,554",
+            "D": "1,644"
+        }
+    },
+    {
+        "question": "Liam has 1,250 stickers. He gives 375 to his friend. How many stickers does he have left?",
+        "answer": "B",
+        "options": {
+            "A": "775",
+            "B": "875",
+            "C": "975",
+            "D": "1,125"
+        }
+    },
+    {
+        "question": "Which calculation checks that 500 - 230 = 270 is correct?",
+        "answer": "A",
+        "options": {
+            "A": "270 + 230 = 500",
+            "B": "500 + 230 = 730",
+            "C": "270 - 230 = 40",
+            "D": "500 - 270 = 230"
+        }
+    },
+    {
+        "question": "Estimate the answer to 4,123 + 2,876 by rounding to the nearest 1,000.",
+        "answer": "B",
+        "options": {
+            "A": "6,000",
+            "B": "7,000",
+            "C": "8,000",
+            "D": "9,000"
+        }
+    },
+    {
+        "question": "What is 3,456 + 2,789?",
+        "answer": "B",
+        "options": {
+            "A": "6,145",
+            "B": "6,245",
+            "C": "6,345",
+            "D": "6,445"
+        }
+    },
+    {
+        "question": "What is 5,000 - 1,234?",
+        "answer": "B",
+        "options": {
+            "A": "3,666",
+            "B": "3,766",
+            "C": "3,866",
+            "D": "3,966"
+        }
+    },
+    {
+        "question": "A shop has 2,500 apples. They sell 1,678. How many apples are left?",
+        "answer": "B",
+        "options": {
+            "A": "722",
+            "B": "822",
+            "C": "922",
+            "D": "1,022"
+        }
+    },
+    {
+        "question": "Which calculation checks that 1,500 + 2,400 = 3,900 is correct?",
+        "answer": "A",
+        "options": {
+            "A": "3,900 - 2,400 = 1,500",
+            "B": "1,500 - 2,400 = -900",
+            "C": "3,900 + 2,400 = 6,300",
+            "D": "2,400 - 1,500 = 900"
+        }
+    },
+    {
+        "question": "Estimate 6,789 - 3,210 by rounding to the nearest 1,000.",
+        "answer": "B",
+        "options": {
+            "A": "3,000",
+            "B": "4,000",
+            "C": "5,000",
+            "D": "6,000"
+        }
+    },
+    {
+        "question": "What is 999 + 1,001?",
+        "answer": "B",
+        "options": {
+            "A": "1,999",
+            "B": "2,000",
+            "C": "2,001",
+            "D": "2,010"
+        }
+    },
+    {
+        "question": "What is 4,500 - 2,250?",
+        "answer": "C",
+        "options": {
+            "A": "2,150",
+            "B": "2,200",
+            "C": "2,250",
+            "D": "2,350"
+        }
+    },
+    {
+        "question": "Mia reads 345 pages on Monday and 278 pages on Tuesday. How many pages did she read in total?",
+        "answer": "B",
+        "options": {
+            "A": "613",
+            "B": "623",
+            "C": "633",
+            "D": "643"
+        }
+    },
+    {
+        "question": "If 8,000 - 3,456 = 4,544, which addition checks this?",
+        "answer": "A",
+        "options": {
+            "A": "4,544 + 3,456 = 8,000",
+            "B": "8,000 + 3,456 = 11,456",
+            "C": "8,000 - 4,544 = 3,456",
+            "D": "3,456 + 4,544 = 8,000"
+        }
+    },
+    {
+        "question": "Estimate 1,499 + 2,501 by rounding to the nearest 1,000.",
+        "answer": "B",
+        "options": {
+            "A": "3,000",
+            "B": "4,000",
+            "C": "5,000",
+            "D": "6,000"
+        }
+    },
+    {
+        "question": "What is 2,345 + 1,655?",
+        "answer": "B",
+        "options": {
+            "A": "3,900",
+            "B": "4,000",
+            "C": "4,100",
+            "D": "4,200"
+        }
+    },
+    {
+        "question": "What is 3,000 - 1,234?",
+        "answer": "B",
+        "options": {
+            "A": "1,666",
+            "B": "1,766",
+            "C": "1,866",
+            "D": "1,966"
+        }
+    },
+    {
+        "question": "A school has 1,234 boys and 1,321 girls. How many pupils are there in total?",
+        "answer": "B",
+        "options": {
+            "A": "2,455",
+            "B": "2,555",
+            "C": "2,655",
+            "D": "2,755"
+        }
+    },
+    {
+        "question": "Which is the best estimate for 7,890 - 4,321?",
+        "answer": "B",
+        "options": {
+            "A": "3,000",
+            "B": "4,000",
+            "C": "5,000",
+            "D": "6,000"
+        }
+    },
+    {
+        "question": "What is 5,555 + 4,445?",
+        "answer": "C",
+        "options": {
+            "A": "9,000",
+            "B": "9,900",
+            "C": "10,000",
+            "D": "10,100"
+        }
+    },
+    {
+        "question": "What is 123 + 456?",
+        "answer": "A",
+        "options": {
+            "A": "579",
+            "B": "569",
+            "C": "589",
+            "D": "599"
+        }
+    },
+    {
+        "question": "What is 500 - 234?",
+        "answer": "A",
+        "options": {
+            "A": "266",
+            "B": "276",
+            "C": "256",
+            "D": "246"
+        }
+    },
+    {
+        "question": "A toy costs \u00a3125. Sam has \u00a3200. How much change will he get?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a365",
+            "B": "\u00a375",
+            "C": "\u00a385",
+            "D": "\u00a395"
+        }
+    },
+    {
+        "question": "Which number sentence checks that 300 - 150 = 150 is correct?",
+        "answer": "A",
+        "options": {
+            "A": "150 + 150 = 300",
+            "B": "300 + 150 = 450",
+            "C": "150 - 150 = 0",
+            "D": "300 - 150 = 150"
+        }
+    },
+    {
+        "question": "Estimate 450 + 320 by rounding to the nearest 100.",
+        "answer": "B",
+        "options": {
+            "A": "700",
+            "B": "800",
+            "C": "600",
+            "D": "900"
+        }
+    },
+    {
+        "question": "What is 678 + 210?",
+        "answer": "A",
+        "options": {
+            "A": "888",
+            "B": "878",
+            "C": "898",
+            "D": "988"
+        }
+    },
+    {
+        "question": "What is 700 - 389?",
+        "answer": "A",
+        "options": {
+            "A": "311",
+            "B": "321",
+            "C": "301",
+            "D": "291"
+        }
+    },
+    {
+        "question": "Lily has 150 stickers. She buys 250 more. How many stickers does she have now?",
+        "answer": "B",
+        "options": {
+            "A": "300",
+            "B": "400",
+            "C": "350",
+            "D": "450"
+        }
+    },
+    {
+        "question": "If 400 + 300 = 700, which subtraction checks this?",
+        "answer": "A",
+        "options": {
+            "A": "700 - 300 = 400",
+            "B": "700 + 300 = 1000",
+            "C": "400 - 300 = 100",
+            "D": "300 - 400 = -100"
+        }
+    },
+    {
+        "question": "Estimate 600 - 250 by rounding to the nearest 100.",
+        "answer": "A",
+        "options": {
+            "A": "300",
+            "B": "350",
+            "C": "400",
+            "D": "250"
+        }
+    },
+    {
+        "question": "What is 345 + 453?",
+        "answer": "A",
+        "options": {
+            "A": "798",
+            "B": "788",
+            "C": "898",
+            "D": "888"
+        }
+    },
+    {
+        "question": "What is 900 - 456?",
+        "answer": "A",
+        "options": {
+            "A": "444",
+            "B": "454",
+            "C": "434",
+            "D": "464"
+        }
+    },
+    {
+        "question": "A book has 200 pages. Tom reads 75 pages on Monday and 50 pages on Tuesday. How many pages are left?",
+        "answer": "A",
+        "options": {
+            "A": "75",
+            "B": "125",
+            "C": "150",
+            "D": "25"
+        }
+    },
+    {
+        "question": "Which is the best estimate for 500 + 499?",
+        "answer": "B",
+        "options": {
+            "A": "900",
+            "B": "1000",
+            "C": "1100",
+            "D": "800"
+        }
+    },
+    {
+        "question": "What is 111 + 222?",
+        "answer": "A",
+        "options": {
+            "A": "333",
+            "B": "444",
+            "C": "555",
+            "D": "666"
+        }
+    },
+    {
+        "question": "What is 800 - 123?",
+        "answer": "A",
+        "options": {
+            "A": "677",
+            "B": "687",
+            "C": "667",
+            "D": "697"
+        }
+    },
+    {
+        "question": "A box contains 300 pencils. 120 are red, and the rest are blue. How many blue pencils are there?",
+        "answer": "A",
+        "options": {
+            "A": "180",
+            "B": "170",
+            "C": "190",
+            "D": "160"
+        }
+    },
+    {
+        "question": "If 1000 - 400 = 600, which addition checks this?",
+        "answer": "A",
+        "options": {
+            "A": "600 + 400 = 1000",
+            "B": "1000 + 400 = 1400",
+            "C": "1000 - 600 = 400",
+            "D": "400 + 600 = 1000"
+        }
+    },
+    {
+        "question": "Estimate 750 + 250 by rounding to the nearest 100.",
+        "answer": "C",
+        "options": {
+            "A": "900",
+            "B": "1000",
+            "C": "1100",
+            "D": "800"
+        }
+    },
+    {
+        "question": "What is 999 + 1?",
+        "answer": "A",
+        "options": {
+            "A": "1000",
+            "B": "999",
+            "C": "1001",
+            "D": "998"
+        }
+    },
+    {
+        "question": "What is 600 - 99?",
+        "answer": "A",
+        "options": {
+            "A": "501",
+            "B": "511",
+            "C": "499",
+            "D": "509"
+        }
+    },
+    {
+        "question": "A school has 500 students. 250 are boys. How many are girls?",
+        "answer": "A",
+        "options": {
+            "A": "250",
+            "B": "300",
+            "C": "200",
+            "D": "350"
+        }
+    },
+    {
+        "question": "Which calculation checks that 200 + 300 = 500 is correct?",
+        "answer": "A",
+        "options": {
+            "A": "500 - 300 = 200",
+            "B": "500 + 200 = 700",
+            "C": "300 - 200 = 100",
+            "D": "200 - 300 = -100"
+        }
+    },
+    {
+        "question": "Estimate 300 - 199 by rounding to the nearest 100.",
+        "answer": "A",
+        "options": {
+            "A": "100",
+            "B": "200",
+            "C": "0",
+            "D": "300"
+        }
+    },
+    {
+        "question": "What is 456 + 300?",
+        "answer": "A",
+        "options": {
+            "A": "756",
+            "B": "746",
+            "C": "766",
+            "D": "856"
+        }
+    },
+    {
+        "question": "What is 500 - 0?",
+        "answer": "A",
+        "options": {
+            "A": "500",
+            "B": "0",
+            "C": "499",
+            "D": "501"
+        }
+    },
+    {
+        "question": "Amy has \u00a350. She spends \u00a325 on a book and \u00a310 on a pen. How much money has she left?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a315",
+            "B": "\u00a325",
+            "C": "\u00a335",
+            "D": "\u00a345"
+        }
+    },
+    {
+        "question": "If 800 - 200 = 600, which addition checks this?",
+        "answer": "A",
+        "options": {
+            "A": "600 + 200 = 800",
+            "B": "800 + 200 = 1000",
+            "C": "800 - 600 = 200",
+            "D": "200 + 600 = 800"
+        }
+    },
+    {
+        "question": "Estimate 250 + 250 by rounding to the nearest 100.",
+        "answer": "B",
+        "options": {
+            "A": "400",
+            "B": "500",
+            "C": "600",
+            "D": "300"
+        }
+    },
+    {
+        "question": "What is 200 + 300?",
+        "answer": "A",
+        "options": {
+            "A": "500",
+            "B": "600",
+            "C": "400",
+            "D": "700"
+        }
+    },
+    {
+        "question": "What is 400 - 100?",
+        "answer": "A",
+        "options": {
+            "A": "300",
+            "B": "200",
+            "C": "400",
+            "D": "500"
+        }
+    },
+    {
+        "question": "A pizza is cut into 8 slices. Tom eats 3 slices, and Jane eats 2 slices. How many slices are left?",
+        "answer": "A",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        }
+    },
+    {
+        "question": "Which is the best estimate for 100 + 101?",
+        "answer": "A",
+        "options": {
+            "A": "200",
+            "B": "210",
+            "C": "190",
+            "D": "220"
+        }
+    },
+    {
+        "question": "What is 100 + 900?",
+        "answer": "A",
+        "options": {
+            "A": "1000",
+            "B": "900",
+            "C": "800",
+            "D": "1100"
+        }
+    },
+    {
+        "question": "What is 1000 - 900?",
+        "answer": "A",
+        "options": {
+            "A": "100",
+            "B": "200",
+            "C": "0",
+            "D": "50"
+        }
+    },
+    {
+        "question": "A bag has 100 marbles. 40 are green, and 30 are red. How many are not green or red?",
+        "answer": "A",
+        "options": {
+            "A": "30",
+            "B": "40",
+            "C": "50",
+            "D": "60"
+        }
+    },
+    {
+        "question": "If 500 + 500 = 1000, which subtraction checks this?",
+        "answer": "A",
+        "options": {
+            "A": "1000 - 500 = 500",
+            "B": "1000 + 500 = 1500",
+            "C": "500 - 500 = 0",
+            "D": "500 + 1000 = 1500"
+        }
+    },
+    {
+        "question": "Estimate 99 + 101 by rounding to the nearest 100.",
+        "answer": "A",
+        "options": {
+            "A": "200",
+            "B": "100",
+            "C": "300",
+            "D": "0"
+        }
+    },
+    {
+        "question": "What is 876 + 100?",
+        "answer": "A",
+        "options": {
+            "A": "976",
+            "B": "876",
+            "C": "776",
+            "D": "1076"
+        }
+    },
+    {
+        "question": "What is 700 - 600?",
+        "answer": "A",
+        "options": {
+            "A": "100",
+            "B": "200",
+            "C": "0",
+            "D": "50"
+        }
+    },
+    {
+        "question": "A parking lot has 20 cars. 5 cars leave. How many are left?",
+        "answer": "B",
+        "options": {
+            "A": "20",
+            "B": "15",
+            "C": "25",
+            "D": "30"
+        }
+    },
+    {
+        "question": "A parking lot has 20 cars. 5 cars leave. How many are left?",
+        "answer": "A",
+        "options": {
+            "A": "15",
+            "B": "25",
+            "C": "10",
+            "D": "30"
+        }
+    },
+    {
+        "question": "Which is the best estimate for 50 - 49?",
+        "answer": "B",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "10",
+            "D": "50"
+        }
+    },
+    {
+        "question": "What is 0 + 500?",
+        "answer": "A",
+        "options": {
+            "A": "500",
+            "B": "0",
+            "C": "499",
+            "D": "501"
+        }
+    },
+    {
+        "question": "What is 300 - 300?",
+        "answer": "A",
+        "options": {
+            "A": "0",
+            "B": "300",
+            "C": "600",
+            "D": "1"
+        }
+    },
+    {
+        "question": "A shop sells 100 apples in the morning and 200 in the afternoon. How many apples were sold in total?",
+        "answer": "A",
+        "options": {
+            "A": "300",
+            "B": "200",
+            "C": "100",
+            "D": "400"
+        }
+    },
+    {
+        "question": "If 600 - 100 = 500, which addition checks this?",
+        "answer": "A",
+        "options": {
+            "A": "500 + 100 = 600",
+            "B": "600 + 100 = 700",
+            "C": "600 - 500 = 100",
+            "D": "100 + 500 = 600"
+        }
+    },
+    {
+        "question": "Estimate 400 + 600 by rounding to the nearest 100.",
+        "answer": "A",
+        "options": {
+            "A": "1000",
+            "B": "900",
+            "C": "1100",
+            "D": "800"
+        }
+    },
+    {
+        "question": "What is 123 + 0?",
+        "answer": "A",
+        "options": {
+            "A": "123",
+            "B": "0",
+            "C": "124",
+            "D": "122"
+        }
+    },
+    {
+        "question": "What is 250 - 250?",
+        "answer": "A",
+        "options": {
+            "A": "0",
+            "B": "250",
+            "C": "500",
+            "D": "1"
+        }
+    },
+    {
+        "question": "A library has 500 books. They buy 300 more. How many books are there now?",
+        "answer": "A",
+        "options": {
+            "A": "800",
+            "B": "700",
+            "C": "600",
+            "D": "900"
+        }
+    },
+    {
+        "question": "Which calculation checks that 700 + 200 = 900 is correct?",
+        "answer": "A",
+        "options": {
+            "A": "900 - 200 = 700",
+            "B": "900 + 200 = 1100",
+            "C": "700 - 200 = 500",
+            "D": "200 - 700 = -500"
+        }
+    },
+    {
+        "question": "Estimate 700 - 300 by rounding to the nearest 100.",
+        "answer": "A",
+        "options": {
+            "A": "400",
+            "B": "300",
+            "C": "500",
+            "D": "200"
+        }
+    },
+    {
+        "question": "What is 99 + 1?",
+        "answer": "A",
+        "options": {
+            "A": "100",
+            "B": "99",
+            "C": "101",
+            "D": "98"
+        }
+    },
+    {
+        "question": "What is 400 - 1?",
+        "answer": "A",
+        "options": {
+            "A": "399",
+            "B": "401",
+            "C": "400",
+            "D": "398"
+        }
+    },
+    {
+        "question": "A farmer has 100 cows. He buys 50 more. How many cows does he have now?",
+        "answer": "A",
+        "options": {
+            "A": "150",
+            "B": "50",
+            "C": "200",
+            "D": "100"
+        }
+    },
+    {
+        "question": "If 800 + 100 = 900, which subtraction checks this?",
+        "answer": "A",
+        "options": {
+            "A": "900 - 100 = 800",
+            "B": "900 + 100 = 1000",
+            "C": "800 - 100 = 700",
+            "D": "100 - 800 = -700"
+        }
+    },
+    {
+        "question": "Estimate 200 + 800 by rounding to the nearest 100.",
+        "answer": "A",
+        "options": {
+            "A": "1000",
+            "B": "900",
+            "C": "1100",
+            "D": "800"
+        }
+    },
+    {
+        "question": "What is 555 + 445?",
+        "answer": "A",
+        "options": {
+            "A": "1000",
+            "B": "900",
+            "C": "1100",
+            "D": "990"
+        }
+    },
+    {
+        "question": "What is 1000 - 1?",
+        "answer": "A",
+        "options": {
+            "A": "999",
+            "B": "1001",
+            "C": "1000",
+            "D": "998"
+        }
+    },
+    {
+        "question": "A classroom has 30 students. 10 are absent. How many are present?",
+        "answer": "A",
+        "options": {
+            "A": "20",
+            "B": "40",
+            "C": "10",
+            "D": "30"
+        }
+    },
+    {
+        "question": "Which is the best estimate for 999 + 1?",
+        "answer": "A",
+        "options": {
+            "A": "1000",
+            "B": "999",
+            "C": "1001",
+            "D": "2000"
+        }
+    },
+    {
+        "question": "What is 200 + 800?",
+        "answer": "A",
+        "options": {
+            "A": "1000",
+            "B": "900",
+            "C": "1100",
+            "D": "800"
+        }
+    },
+    {
+        "question": "What is 600 - 400?",
+        "answer": "A",
+        "options": {
+            "A": "200",
+            "B": "300",
+            "C": "100",
+            "D": "400"
+        }
+    },
+    {
+        "question": "A tree has 500 leaves. In autumn, 300 fall off. How many leaves are left?",
+        "answer": "A",
+        "options": {
+            "A": "200",
+            "B": "300",
+            "C": "100",
+            "D": "400"
+        }
+    },
+    {
+        "question": "If 300 - 100 = 200, which addition checks this?",
+        "answer": "A",
+        "options": {
+            "A": "200 + 100 = 300",
+            "B": "300 + 100 = 400",
+            "C": "300 - 200 = 100",
+            "D": "100 + 200 = 300"
+        }
+    },
+    {
+        "question": "Estimate 150 + 250 by rounding to the nearest 100.",
+        "answer": "C",
+        "options": {
+            "A": "400",
+            "B": "300",
+            "C": "500",
+            "D": "200"
+        }
+    },
+    {
+        "question": "What is 777 + 223?",
+        "answer": "A",
+        "options": {
+            "A": "1000",
+            "B": "900",
+            "C": "1100",
+            "D": "990"
+        }
+    },
+    {
+        "question": "What is 500 - 250?",
+        "answer": "A",
+        "options": {
+            "A": "250",
+            "B": "350",
+            "C": "150",
+            "D": "450"
+        }
+    },
+    {
+        "question": "A baker makes 200 cakes in the morning and 300 in the afternoon. How many cakes does he make in total?",
+        "answer": "A",
+        "options": {
+            "A": "500",
+            "B": "400",
+            "C": "600",
+            "D": "300"
+        }
+    },
+    {
+        "question": "Which calculation checks that 400 - 100 = 300 is correct?",
+        "answer": "A",
+        "options": {
+            "A": "300 + 100 = 400",
+            "B": "400 + 100 = 500",
+            "C": "400 - 300 = 100",
+            "D": "100 + 300 = 400"
+        }
+    },
+    {
+        "question": "Estimate 800 - 200 by rounding to the nearest 100.",
+        "answer": "A",
+        "options": {
+            "A": "600",
+            "B": "500",
+            "C": "700",
+            "D": "400"
+        }
+    },
+    {
+        "question": "What is 666 + 334?",
+        "answer": "A",
+        "options": {
+            "A": "1000",
+            "B": "900",
+            "C": "1100",
+            "D": "990"
+        }
+    },
+    {
+        "question": "What is 900 - 100?",
+        "answer": "A",
+        "options": {
+            "A": "800",
+            "B": "700",
+            "C": "900",
+            "D": "1000"
+        }
+    },
+    {
+        "question": "A fisherman catches 150 fish on Monday and 250 on Tuesday. How many fish did he catch in total?",
+        "answer": "A",
+        "options": {
+            "A": "400",
+            "B": "300",
+            "C": "500",
+            "D": "350"
+        }
+    },
+    {
+        "question": "If 900 - 400 = 500, which addition checks this?",
+        "answer": "A",
+        "options": {
+            "A": "500 + 400 = 900",
+            "B": "900 + 400 = 1300",
+            "C": "900 - 500 = 400",
+            "D": "400 + 500 = 900"
+        }
+    },
+    {
+        "question": "Estimate 350 + 450 by rounding to the nearest 100.",
+        "answer": "C",
+        "options": {
+            "A": "800",
+            "B": "700",
+            "C": "900",
+            "D": "600"
+        }
+    },
+    {
+        "question": "What is 888 + 112?",
+        "answer": "A",
+        "options": {
+            "A": "1000",
+            "B": "900",
+            "C": "1100",
+            "D": "990"
+        }
+    },
+    {
+        "question": "What is 700 - 300?",
+        "answer": "A",
+        "options": {
+            "A": "400",
+            "B": "300",
+            "C": "500",
+            "D": "200"
+        }
+    },
+    {
+        "question": "A school has 600 students. 200 are in Year 4. How many are not in Year 4?",
+        "answer": "A",
+        "options": {
+            "A": "400",
+            "B": "300",
+            "C": "500",
+            "D": "200"
+        }
+    },
+    {
+        "question": "Which is the best estimate for 499 + 1?",
+        "answer": "A",
+        "options": {
+            "A": "500",
+            "B": "499",
+            "C": "501",
+            "D": "600"
+        }
+    },
+    {
+        "question": "What is 100 + 200 + 300?",
+        "answer": "A",
+        "options": {
+            "A": "600",
+            "B": "500",
+            "C": "700",
+            "D": "400"
+        }
+    },
+    {
+        "question": "What is 1000 - 500 - 200?",
+        "answer": "A",
+        "options": {
+            "A": "300",
+            "B": "400",
+            "C": "200",
+            "D": "100"
+        }
+    },
+    {
+        "question": "A shop has 1000 items. They sell 400 on Monday and 300 on Tuesday. How many are left?",
+        "answer": "A",
+        "options": {
+            "A": "300",
+            "B": "400",
+            "C": "200",
+            "D": "100"
+        }
+    },
+    {
+        "question": "If 500 + 200 + 300 = 1000, which subtraction checks the first two?",
+        "answer": "A",
+        "options": {
+            "A": "1000 - 300 = 700, then 700 - 200 = 500",
+            "B": "1000 - 500 = 500",
+            "C": "200 + 300 = 500",
+            "D": "500 + 300 = 800"
+        }
+    },
+    {
+        "question": "Estimate 199 + 201 by rounding to the nearest 100.",
+        "answer": "A",
+        "options": {
+            "A": "400",
+            "B": "300",
+            "C": "500",
+            "D": "200"
+        }
+    },
+    {
+        "question": "What is 999 - 999?",
+        "answer": "A",
+        "options": {
+            "A": "0",
+            "B": "999",
+            "C": "1",
+            "D": "1998"
+        }
+    },
+    {
+        "question": "What is 0 + 0?",
+        "answer": "A",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "00",
+            "D": "10"
+        }
+    },
+    {
+        "question": "A box has 50 chocolates. Tom eats 20, and Jane eats 15. How many are left?",
+        "answer": "A",
+        "options": {
+            "A": "15",
+            "B": "25",
+            "C": "35",
+            "D": "5"
+        }
+    },
+    {
+        "question": "Which calculation checks that 600 - 200 = 400 is correct?",
+        "answer": "A",
+        "options": {
+            "A": "400 + 200 = 600",
+            "B": "600 + 200 = 800",
+            "C": "600 - 400 = 200",
+            "D": "200 + 400 = 600"
+        }
+    },
+    {
+        "question": "Estimate 299 + 301 by rounding to the nearest 100.",
+        "answer": "A",
+        "options": {
+            "A": "600",
+            "B": "500",
+            "C": "700",
+            "D": "400"
+        }
+    },
+    {
+        "question": "What is 2,345 + 1,234?",
+        "answer": "A",
+        "options": {
+            "A": "3,579",
+            "B": "3,479",
+            "C": "3,569",
+            "D": "3,679"
+        }
+    },
+    {
+        "question": "Calculate 4,000 \u2212 1,567.",
+        "answer": "C",
+        "options": {
+            "A": "2,533",
+            "B": "2,443",
+            "C": "2,433",
+            "D": "2,543"
+        }
+    },
+    {
+        "question": "Which addition fact checks that 3,200 \u2212 945 = 2,255 is correct?",
+        "answer": "A",
+        "options": {
+            "A": "2,255 + 945",
+            "B": "3,200 + 945",
+            "C": "2,255 \u2212 945",
+            "D": "3,200 + 2,255"
+        }
+    },
+    {
+        "question": "Estimate 2,876 + 1,423 by rounding to the nearest hundred.",
+        "answer": "B",
+        "options": {
+            "A": "4,200",
+            "B": "4,300",
+            "C": "4,400",
+            "D": "4,100"
+        }
+    },
+    {
+        "question": "A school has 1,250 pupils. In the morning, 876 pupils attend. How many are absent?",
+        "answer": "A",
+        "options": {
+            "A": "374",
+            "B": "474",
+            "C": "384",
+            "D": "274"
+        }
+    },
+    {
+        "question": "What is 3,102 + 899?",
+        "answer": "A",
+        "options": {
+            "A": "4,001",
+            "B": "3,991",
+            "C": "4,101",
+            "D": "3,891"
+        }
+    },
+    {
+        "question": "Subtract 2,045 from 5,000.",
+        "answer": "A",
+        "options": {
+            "A": "2,955",
+            "B": "2,855",
+            "C": "3,055",
+            "D": "2,945"
+        }
+    },
+    {
+        "question": "Which calculation gives the same answer as 4,500 \u2212 1,200?",
+        "answer": "A",
+        "options": {
+            "A": "1,200 + 3,300",
+            "B": "4,500 + 1,200",
+            "C": "3,300 \u2212 1,200",
+            "D": "4,500 \u2212 3,300"
+        }
+    },
+    {
+        "question": "Estimate the difference between 5,621 and 2,387 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "3,200",
+            "B": "3,300",
+            "C": "3,100",
+            "D": "3,400"
+        }
+    },
+    {
+        "question": "Emma has \u00a31,500. She spends \u00a3685 on a tablet and \u00a3240 on a case. How much does she have left?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a3575",
+            "B": "\u00a3675",
+            "C": "\u00a3565",
+            "D": "\u00a3625"
+        }
+    },
+    {
+        "question": "Add 1,876 and 2,345.",
+        "answer": "A",
+        "options": {
+            "A": "4,221",
+            "B": "4,121",
+            "C": "4,321",
+            "D": "4,211"
+        }
+    },
+    {
+        "question": "What is 6,000 \u2212 2,189?",
+        "answer": "A",
+        "options": {
+            "A": "3,811",
+            "B": "3,911",
+            "C": "3,711",
+            "D": "3,821"
+        }
+    },
+    {
+        "question": "If 4,200 \u2212 X = 1,950, what is X?",
+        "answer": "A",
+        "options": {
+            "A": "2,250",
+            "B": "2,350",
+            "C": "2,150",
+            "D": "2,050"
+        }
+    },
+    {
+        "question": "Round 3,458 and 1,726 to the nearest hundred and add them.",
+        "answer": "A",
+        "options": {
+            "A": "5,200",
+            "B": "5,100",
+            "C": "5,300",
+            "D": "5,150"
+        }
+    },
+    {
+        "question": "A library had 2,400 books. They gave 875 to another school and bought 320 new ones. How many books do they have now?",
+        "answer": "A",
+        "options": {
+            "A": "1,845",
+            "B": "1,745",
+            "C": "1,945",
+            "D": "1,865"
+        }
+    },
+    {
+        "question": "What is 1,023 + 2,977?",
+        "answer": "A",
+        "options": {
+            "A": "4,000",
+            "B": "3,990",
+            "C": "4,100",
+            "D": "3,890"
+        }
+    },
+    {
+        "question": "Subtract 1,234 from 4,321.",
+        "answer": "A",
+        "options": {
+            "A": "3,087",
+            "B": "3,187",
+            "C": "3,097",
+            "D": "2,987"
+        }
+    },
+    {
+        "question": "Which equation checks that 2,500 + 1,340 = 3,840 is correct?",
+        "answer": "A",
+        "options": {
+            "A": "3,840 \u2212 1,340 = 2,500",
+            "B": "3,840 + 1,340 = 2,500",
+            "C": "2,500 \u2212 1,340 = 3,840",
+            "D": "1,340 \u2212 2,500 = 3,840"
+        }
+    },
+    {
+        "question": "Estimate 4,102 \u2212 1,876 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "2,200",
+            "B": "2,300",
+            "C": "2,100",
+            "D": "2,400"
+        }
+    },
+    {
+        "question": "A farmer harvested 3,250 kg of potatoes. He sold 1,480 kg and then harvested another 920 kg. How many kilograms does he have now?",
+        "answer": "A",
+        "options": {
+            "A": "2,690",
+            "B": "2,790",
+            "C": "2,590",
+            "D": "2,680"
+        }
+    },
+    {
+        "question": "What is 2,000 + 1,999?",
+        "answer": "A",
+        "options": {
+            "A": "3,999",
+            "B": "4,000",
+            "C": "3,899",
+            "D": "4,099"
+        }
+    },
+    {
+        "question": "Calculate 5,000 \u2212 3,045.",
+        "answer": "A",
+        "options": {
+            "A": "1,955",
+            "B": "2,055",
+            "C": "1,855",
+            "D": "1,945"
+        }
+    },
+    {
+        "question": "If A + 1,250 = 3,000, what is A?",
+        "answer": "A",
+        "options": {
+            "A": "1,750",
+            "B": "1,850",
+            "C": "1,650",
+            "D": "1,700"
+        }
+    },
+    {
+        "question": "Round 2,387 and 1,654 to the nearest hundred and find their sum.",
+        "answer": "A",
+        "options": {
+            "A": "4,100",
+            "B": "4,000",
+            "C": "4,200",
+            "D": "3,900"
+        }
+    },
+    {
+        "question": "A train had 1,200 passengers. At the first stop, 345 got off and 180 got on. How many passengers are on the train now?",
+        "answer": "A",
+        "options": {
+            "A": "1,035",
+            "B": "1,135",
+            "C": "1,045",
+            "D": "955"
+        }
+    },
+    {
+        "question": "What is 3,456 + 1,234?",
+        "answer": "A",
+        "options": {
+            "A": "4,690",
+            "B": "4,590",
+            "C": "4,790",
+            "D": "4,680"
+        }
+    },
+    {
+        "question": "Calculate 6,000 \u2212 2,345.",
+        "answer": "A",
+        "options": {
+            "A": "3,655",
+            "B": "3,555",
+            "C": "3,755",
+            "D": "3,645"
+        }
+    },
+    {
+        "question": "Which shows the correct inverse check for 4,100 \u2212 2,050 = 2,050?",
+        "answer": "A",
+        "options": {
+            "A": "2,050 + 2,050 = 4,100",
+            "B": "4,100 + 2,050 = 2,050",
+            "C": "2,050 \u2212 2,050 = 4,100",
+            "D": "4,100 \u2212 2,050 = 2,050"
+        }
+    },
+    {
+        "question": "Estimate 5,218 + 1,789 by rounding each number to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "7,000",
+            "B": "7,100",
+            "C": "6,900",
+            "D": "7,200"
+        }
+    },
+    {
+        "question": "A shop sold 2,150 items on Monday and 1,875 on Tuesday. How many items were sold in total?",
+        "answer": "A",
+        "options": {
+            "A": "4,025",
+            "B": "3,925",
+            "C": "4,125",
+            "D": "3,825"
+        }
+    },
+    {
+        "question": "What is 2,098 + 1,902?",
+        "answer": "A",
+        "options": {
+            "A": "4,000",
+            "B": "3,900",
+            "C": "4,100",
+            "D": "3,990"
+        }
+    },
+    {
+        "question": "Subtract 1,456 from 3,000.",
+        "answer": "A",
+        "options": {
+            "A": "1,544",
+            "B": "1,444",
+            "C": "1,644",
+            "D": "1,554"
+        }
+    },
+    {
+        "question": "If 3,600 \u2212 X = 1,250, what is X?",
+        "answer": "A",
+        "options": {
+            "A": "2,350",
+            "B": "2,250",
+            "C": "2,450",
+            "D": "2,150"
+        }
+    },
+    {
+        "question": "Round 4,567 and 2,345 to the nearest hundred and subtract the smaller from the larger.",
+        "answer": "A",
+        "options": {
+            "A": "2,300",
+            "B": "2,200",
+            "C": "2,400",
+            "D": "2,100"
+        }
+    },
+    {
+        "question": "Liam had \u00a32,400. He paid \u00a3950 for rent and \u00a3325 for bills. How much does he have left?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a31,125",
+            "B": "\u00a31,225",
+            "C": "\u00a31,025",
+            "D": "\u00a31,175"
+        }
+    },
+    {
+        "question": "Add 1,378 and 2,622.",
+        "answer": "A",
+        "options": {
+            "A": "4,000",
+            "B": "3,900",
+            "C": "4,100",
+            "D": "3,990"
+        }
+    },
+    {
+        "question": "What is 5,123 \u2212 2,098?",
+        "answer": "A",
+        "options": {
+            "A": "3,025",
+            "B": "3,125",
+            "C": "2,925",
+            "D": "3,035"
+        }
+    },
+    {
+        "question": "Which equation verifies that 1,800 + 2,400 = 4,200?",
+        "answer": "A",
+        "options": {
+            "A": "4,200 \u2212 2,400 = 1,800",
+            "B": "4,200 + 1,800 = 2,400",
+            "C": "2,400 \u2212 1,800 = 4,200",
+            "D": "1,800 \u2212 2,400 = 4,200"
+        }
+    },
+    {
+        "question": "Estimate 6,032 \u2212 3,478 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "2,500",
+            "B": "2,600",
+            "C": "2,400",
+            "D": "2,700"
+        }
+    },
+    {
+        "question": "A factory made 3,500 toys. They shipped 1,230 on Monday and 980 on Tuesday. How many are left?",
+        "answer": "A",
+        "options": {
+            "A": "1,290",
+            "B": "1,390",
+            "C": "1,190",
+            "D": "1,280"
+        }
+    },
+    {
+        "question": "What is 4,001 + 1,999?",
+        "answer": "A",
+        "options": {
+            "A": "6,000",
+            "B": "5,999",
+            "C": "6,001",
+            "D": "5,900"
+        }
+    },
+    {
+        "question": "Calculate 7,000 \u2212 4,567.",
+        "answer": "A",
+        "options": {
+            "A": "2,433",
+            "B": "2,533",
+            "C": "2,443",
+            "D": "2,333"
+        }
+    },
+    {
+        "question": "If Y + 2,100 = 5,000, what is Y?",
+        "answer": "A",
+        "options": {
+            "A": "2,900",
+            "B": "3,100",
+            "C": "2,800",
+            "D": "3,000"
+        }
+    },
+    {
+        "question": "Round 3,245 and 1,876 to the nearest hundred and add them.",
+        "answer": "A",
+        "options": {
+            "A": "5,100",
+            "B": "5,200",
+            "C": "5,000",
+            "D": "5,300"
+        }
+    },
+    {
+        "question": "A school collected 2,800 cans for recycling. They collected 950 in Week 1 and 1,050 in Week 2. How many were collected in Week 3?",
+        "answer": "A",
+        "options": {
+            "A": "800",
+            "B": "900",
+            "C": "700",
+            "D": "850"
+        }
+    },
+    {
+        "question": "What is 1,567 + 2,433?",
+        "answer": "A",
+        "options": {
+            "A": "4,000",
+            "B": "3,900",
+            "C": "4,100",
+            "D": "3,890"
+        }
+    },
+    {
+        "question": "Subtract 2,345 from 5,432.",
+        "answer": "A",
+        "options": {
+            "A": "3,087",
+            "B": "3,187",
+            "C": "3,097",
+            "D": "2,987"
+        }
+    },
+    {
+        "question": "Which calculation checks 3,750 \u2212 1,250 = 2,500?",
+        "answer": "A",
+        "options": {
+            "A": "2,500 + 1,250",
+            "B": "3,750 + 1,250",
+            "C": "2,500 \u2212 1,250",
+            "D": "3,750 + 2,500"
+        }
+    },
+    {
+        "question": "Estimate the sum of 2,891 and 3,109 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "6,000",
+            "B": "6,100",
+            "C": "5,900",
+            "D": "6,200"
+        }
+    },
+    {
+        "question": "A zoo had 1,800 visitors on Saturday. On Sunday, 235 fewer visitors came. How many visited in total over the weekend?",
+        "answer": "A",
+        "options": {
+            "A": "3,365",
+            "B": "3,265",
+            "C": "3,465",
+            "D": "3,165"
+        }
+    },
+    {
+        "question": "What is 2,789 + 1,345?",
+        "answer": "A",
+        "options": {
+            "A": "4,134",
+            "B": "4,034",
+            "C": "4,234",
+            "D": "4,144"
+        }
+    },
+    {
+        "question": "Calculate 5,000 \u2212 1,876.",
+        "answer": "A",
+        "options": {
+            "A": "3,124",
+            "B": "3,224",
+            "C": "3,134",
+            "D": "3,024"
+        }
+    },
+    {
+        "question": "Which shows a correct inverse check for 3,200 + 1,450 = 4,650?",
+        "answer": "A",
+        "options": {
+            "A": "4,650 \u2212 1,450 = 3,200",
+            "B": "4,650 + 1,450 = 3,200",
+            "C": "3,200 \u2212 1,450 = 4,650",
+            "D": "1,450 \u2212 3,200 = 4,650"
+        }
+    },
+    {
+        "question": "Estimate 4,782 \u2212 2,341 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "2,500",
+            "B": "2,400",
+            "C": "2,600",
+            "D": "2,300"
+        }
+    },
+    {
+        "question": "A bookshop had 3,200 books. They sold 1,456 on Monday and received 875 new books on Tuesday. How many books do they have now?",
+        "answer": "A",
+        "options": {
+            "A": "2,619",
+            "B": "2,519",
+            "C": "2,719",
+            "D": "2,629"
+        }
+    },
+    {
+        "question": "What is 1,234 + 2,766?",
+        "answer": "A",
+        "options": {
+            "A": "4,000",
+            "B": "3,900",
+            "C": "4,100",
+            "D": "3,990"
+        }
+    },
+    {
+        "question": "Subtract 2,098 from 4,000.",
+        "answer": "A",
+        "options": {
+            "A": "1,902",
+            "B": "1,802",
+            "C": "2,002",
+            "D": "1,912"
+        }
+    },
+    {
+        "question": "If 5,000 \u2212 X = 2,345, what is X?",
+        "answer": "A",
+        "options": {
+            "A": "2,655",
+            "B": "2,555",
+            "C": "2,755",
+            "D": "2,645"
+        }
+    },
+    {
+        "question": "Round 3,678 and 1,432 to the nearest hundred and find their sum.",
+        "answer": "A",
+        "options": {
+            "A": "5,100",
+            "B": "5,200",
+            "C": "5,000",
+            "D": "5,300"
+        }
+    },
+    {
+        "question": "A concert had 2,500 tickets. On day one, 1,230 were sold. On day two, 675 more were sold. How many tickets remain?",
+        "answer": "A",
+        "options": {
+            "A": "595",
+            "B": "695",
+            "C": "495",
+            "D": "585"
+        }
+    },
+    {
+        "question": "What is 3,001 + 1,999?",
+        "answer": "A",
+        "options": {
+            "A": "5,000",
+            "B": "4,999",
+            "C": "5,001",
+            "D": "4,900"
+        }
+    },
+    {
+        "question": "Calculate 6,000 \u2212 3,456.",
+        "answer": "A",
+        "options": {
+            "A": "2,544",
+            "B": "2,644",
+            "C": "2,444",
+            "D": "2,554"
+        }
+    },
+    {
+        "question": "Which equation verifies 2,800 \u2212 1,300 = 1,500?",
+        "answer": "A",
+        "options": {
+            "A": "1,500 + 1,300 = 2,800",
+            "B": "2,800 + 1,300 = 1,500",
+            "C": "1,500 \u2212 1,300 = 2,800",
+            "D": "2,800 \u2212 1,500 = 1,300"
+        }
+    },
+    {
+        "question": "Estimate 5,432 + 2,567 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "8,000",
+            "B": "8,100",
+            "C": "7,900",
+            "D": "7,800"
+        }
+    },
+    {
+        "question": "A bakery made 1,800 cakes. They sold 945 on Monday and 560 on Tuesday. How many are left?",
+        "answer": "A",
+        "options": {
+            "A": "295",
+            "B": "395",
+            "C": "195",
+            "D": "285"
+        }
+    },
+    {
+        "question": "Add 2,123 and 1,877.",
+        "answer": "A",
+        "options": {
+            "A": "4,000",
+            "B": "3,900",
+            "C": "4,100",
+            "D": "3,990"
+        }
+    },
+    {
+        "question": "What is 4,567 \u2212 2,345?",
+        "answer": "A",
+        "options": {
+            "A": "2,222",
+            "B": "2,322",
+            "C": "2,122",
+            "D": "2,232"
+        }
+    },
+    {
+        "question": "If Z + 1,850 = 4,000, what is Z?",
+        "answer": "A",
+        "options": {
+            "A": "2,150",
+            "B": "2,250",
+            "C": "2,050",
+            "D": "2,100"
+        }
+    },
+    {
+        "question": "Round 2,987 and 3,012 to the nearest hundred and add them.",
+        "answer": "A",
+        "options": {
+            "A": "6,000",
+            "B": "6,100",
+            "C": "5,900",
+            "D": "6,200"
+        }
+    },
+    {
+        "question": "A school has 2,400 students. In Year 4, there are 325 students. In Year 5, there are 290. How many students are in other years?",
+        "answer": "A",
+        "options": {
+            "A": "1,785",
+            "B": "1,885",
+            "C": "1,685",
+            "D": "1,775"
+        }
+    },
+    {
+        "question": "What is 1,999 + 2,001?",
+        "answer": "A",
+        "options": {
+            "A": "4,000",
+            "B": "3,999",
+            "C": "4,001",
+            "D": "4,100"
+        }
+    },
+    {
+        "question": "Subtract 1,789 from 3,500.",
+        "answer": "A",
+        "options": {
+            "A": "1,711",
+            "B": "1,811",
+            "C": "1,611",
+            "D": "1,721"
+        }
+    },
+    {
+        "question": "Which calculation checks that 5,100 \u2212 2,700 = 2,400?",
+        "answer": "A",
+        "options": {
+            "A": "2,400 + 2,700",
+            "B": "5,100 + 2,700",
+            "C": "2,400 \u2212 2,700",
+            "D": "5,100 + 2,400"
+        }
+    },
+    {
+        "question": "Estimate the difference between 6,234 and 3,789 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "2,400",
+            "B": "2,500",
+            "C": "2,300",
+            "D": "2,600"
+        }
+    },
+    {
+        "question": "A farmer harvested 4,200 kg of wheat. He sold 1,650 kg in Week 1 and 980 kg in Week 2. How much is left?",
+        "answer": "A",
+        "options": {
+            "A": "1,570",
+            "B": "1,670",
+            "C": "1,470",
+            "D": "1,580"
+        }
+    },
+    {
+        "question": "What is 3,210 + 1,489?",
+        "answer": "A",
+        "options": {
+            "A": "4,699",
+            "B": "4,599",
+            "C": "4,799",
+            "D": "4,689"
+        }
+    },
+    {
+        "question": "Calculate 7,000 \u2212 2,876.",
+        "answer": "A",
+        "options": {
+            "A": "4,124",
+            "B": "4,224",
+            "C": "4,134",
+            "D": "4,024"
+        }
+    },
+    {
+        "question": "Which equation correctly checks 4,300 \u2212 1,900 = 2,400?",
+        "answer": "A",
+        "options": {
+            "A": "2,400 + 1,900 = 4,300",
+            "B": "4,300 + 1,900 = 2,400",
+            "C": "2,400 \u2212 1,900 = 4,300",
+            "D": "4,300 \u2212 2,400 = 1,800"
+        }
+    },
+    {
+        "question": "Estimate 3,578 + 2,421 by rounding each number to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "6,000",
+            "B": "6,100",
+            "C": "5,900",
+            "D": "5,800"
+        }
+    },
+    {
+        "question": "A library had 2,800 books. They lent out 1,234 and then returned 456. How many books are in the library now?",
+        "answer": "A",
+        "options": {
+            "A": "2,022",
+            "B": "2,122",
+            "C": "1,922",
+            "D": "2,032"
+        }
+    },
+    {
+        "question": "What is 2,345 + 1,655?",
+        "answer": "A",
+        "options": {
+            "A": "4,000",
+            "B": "3,900",
+            "C": "4,100",
+            "D": "3,990"
+        }
+    },
+    {
+        "question": "Subtract 1,567 from 4,000.",
+        "answer": "A",
+        "options": {
+            "A": "2,433",
+            "B": "2,533",
+            "C": "2,443",
+            "D": "2,333"
+        }
+    },
+    {
+        "question": "If 6,000 \u2212 X = 3,250, what is X?",
+        "answer": "A",
+        "options": {
+            "A": "2,750",
+            "B": "2,850",
+            "C": "2,650",
+            "D": "2,700"
+        }
+    },
+    {
+        "question": "Round 4,321 and 1,879 to the nearest hundred and subtract the smaller from the larger.",
+        "answer": "A",
+        "options": {
+            "A": "2,400",
+            "B": "2,500",
+            "C": "2,300",
+            "D": "2,600"
+        }
+    },
+    {
+        "question": "A sports club has 3,200 members. 1,450 are adults and 975 are teens. How many are children?",
+        "answer": "A",
+        "options": {
+            "A": "775",
+            "B": "875",
+            "C": "675",
+            "D": "785"
+        }
+    },
+    {
+        "question": "What is 2,001 + 2,999?",
+        "answer": "A",
+        "options": {
+            "A": "5,000",
+            "B": "4,999",
+            "C": "5,001",
+            "D": "5,100"
+        }
+    },
+    {
+        "question": "Calculate 5,500 \u2212 2,678.",
+        "answer": "A",
+        "options": {
+            "A": "2,822",
+            "B": "2,922",
+            "C": "2,722",
+            "D": "2,832"
+        }
+    },
+    {
+        "question": "Which shows the inverse operation for 2,500 + 1,700 = 4,200?",
+        "answer": "A",
+        "options": {
+            "A": "4,200 \u2212 1,700 = 2,500",
+            "B": "4,200 + 1,700 = 2,500",
+            "C": "2,500 \u2212 1,700 = 4,200",
+            "D": "1,700 \u2212 2,500 = 4,200"
+        }
+    },
+    {
+        "question": "Estimate 7,123 \u2212 4,876 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "2,200",
+            "B": "2,300",
+            "C": "2,100",
+            "D": "2,400"
+        }
+    },
+    {
+        "question": "A delivery driver traveled 1,250 km on Monday and 980 km on Tuesday. His weekly target is 3,000 km. How many kilometers does he still need to drive?",
+        "answer": "A",
+        "options": {
+            "A": "770",
+            "B": "870",
+            "C": "670",
+            "D": "780"
+        }
+    },
+    {
+        "question": "Add 1,456 and 2,544.",
+        "answer": "A",
+        "options": {
+            "A": "4,000",
+            "B": "3,900",
+            "C": "4,100",
+            "D": "3,990"
+        }
+    },
+    {
+        "question": "What is 5,678 \u2212 3,210?",
+        "answer": "A",
+        "options": {
+            "A": "2,468",
+            "B": "2,568",
+            "C": "2,368",
+            "D": "2,478"
+        }
+    },
+    {
+        "question": "If Y + 2,250 = 5,000, what is Y?",
+        "answer": "A",
+        "options": {
+            "A": "2,750",
+            "B": "2,850",
+            "C": "2,650",
+            "D": "2,700"
+        }
+    },
+    {
+        "question": "Round 5,432 and 2,568 to the nearest hundred and add them.",
+        "answer": "A",
+        "options": {
+            "A": "8,000",
+            "B": "8,100",
+            "C": "7,900",
+            "D": "8,200"
+        }
+    },
+    {
+        "question": "A school collected \u00a33,500 for charity. They spent \u00a31,250 on supplies and \u00a3980 on transport. How much is left?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a31,270",
+            "B": "\u00a31,370",
+            "C": "\u00a31,170",
+            "D": "\u00a31,280"
+        }
+    },
+    {
+        "question": "What is 3,000 + 1,000?",
+        "answer": "A",
+        "options": {
+            "A": "4,000",
+            "B": "3,900",
+            "C": "4,100",
+            "D": "5,000"
+        }
+    },
+    {
+        "question": "Subtract 2,345 from 6,000.",
+        "answer": "A",
+        "options": {
+            "A": "3,655",
+            "B": "3,755",
+            "C": "3,555",
+            "D": "3,645"
+        }
+    },
+    {
+        "question": "Which calculation verifies 3,900 \u2212 1,400 = 2,500?",
+        "answer": "A",
+        "options": {
+            "A": "2,500 + 1,400",
+            "B": "3,900 + 1,400",
+            "C": "2,500 \u2212 1,400",
+            "D": "3,900 + 2,500"
+        }
+    },
+    {
+        "question": "Estimate the sum of 2,789 and 3,211 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "6,000",
+            "B": "6,100",
+            "C": "5,900",
+            "D": "6,200"
+        }
+    },
+    {
+        "question": "A toy store had 2,600 toys. They sold 845 on Saturday and 755 on Sunday. How many toys are left?",
+        "answer": "A",
+        "options": {
+            "A": "1,000",
+            "B": "1,100",
+            "C": "900",
+            "D": "1,050"
+        }
+    },
+    {
+        "question": "What is the result of adding 4,876 and 3,989 using the column method?",
+        "answer": "A",
+        "options": {
+            "A": "8,865",
+            "B": "8,765",
+            "C": "8,855",
+            "D": "8,965"
+        }
+    },
+    {
+        "question": "Subtract 2,999 from 7,000 using the column method.",
+        "answer": "A",
+        "options": {
+            "A": "4,001",
+            "B": "4,001",
+            "C": "3,999",
+            "D": "4,101"
+        }
+    },
+    {
+        "question": "After subtracting 1,847 from a number, the result is 3,256. What was the original number?",
+        "answer": "A",
+        "options": {
+            "A": "5,103",
+            "B": "4,103",
+            "C": "5,003",
+            "D": "5,203"
+        }
+    },
+    {
+        "question": "Estimate the sum of 5,872 and 3,429 by rounding each number to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "9,300",
+            "B": "9,400",
+            "C": "9,200",
+            "D": "9,500"
+        }
+    },
+    {
+        "question": "A factory produced 6,250 widgets in Week 1. In Week 2, it produced 1,345 fewer. How many were produced in total over the two weeks?",
+        "answer": "A",
+        "options": {
+            "A": "11,155",
+            "B": "10,155",
+            "C": "11,255",
+            "D": "10,955"
+        }
+    },
+    {
+        "question": "Add 5,093 and 2,868 using the column method.",
+        "answer": "A",
+        "options": {
+            "A": "7,961",
+            "B": "7,861",
+            "C": "8,061",
+            "D": "7,971"
+        }
+    },
+    {
+        "question": "What is 9,000 \u2212 4,567?",
+        "answer": "A",
+        "options": {
+            "A": "4,433",
+            "B": "4,533",
+            "C": "4,443",
+            "D": "4,333"
+        }
+    },
+    {
+        "question": "If 6,300 \u2212 X = 2,785, what is X?",
+        "answer": "A",
+        "options": {
+            "A": "3,515",
+            "B": "3,615",
+            "C": "3,415",
+            "D": "3,525"
+        }
+    },
+    {
+        "question": "Which calculation best estimates 7,214 \u2212 3,876 by rounding to the nearest hundred?",
+        "answer": "A",
+        "options": {
+            "A": "3,300",
+            "B": "3,400",
+            "C": "3,200",
+            "D": "3,500"
+        }
+    },
+    {
+        "question": "A school raised \u00a38,500 for a trip. They spent \u00a33,275 on transport and \u00a32,189 on accommodation. How much money is left?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a33,036",
+            "B": "\u00a33,136",
+            "C": "\u00a32,936",
+            "D": "\u00a33,046"
+        }
+    },
+    {
+        "question": "Add 4,999 and 3,002.",
+        "answer": "A",
+        "options": {
+            "A": "8,001",
+            "B": "7,999",
+            "C": "8,002",
+            "D": "8,101"
+        }
+    },
+    {
+        "question": "Subtract 3,456 from 8,001.",
+        "answer": "A",
+        "options": {
+            "A": "4,545",
+            "B": "4,645",
+            "C": "4,445",
+            "D": "4,555"
+        }
+    },
+    {
+        "question": "Which equation verifies that 5,600 \u2212 2,950 = 2,650?",
+        "answer": "A",
+        "options": {
+            "A": "2,650 + 2,950 = 5,600",
+            "B": "5,600 + 2,950 = 2,650",
+            "C": "2,650 \u2212 2,950 = 5,600",
+            "D": "5,600 \u2212 2,650 = 2,850"
+        }
+    },
+    {
+        "question": "Estimate 8,432 + 1,789 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "10,200",
+            "B": "10,300",
+            "C": "10,100",
+            "D": "10,400"
+        }
+    },
+    {
+        "question": "A farmer harvested 5,200 kg of potatoes. He sold 2,345 kg, then harvested another 1,876 kg. How many kilograms does he have now?",
+        "answer": "A",
+        "options": {
+            "A": "4,731",
+            "B": "4,831",
+            "C": "4,631",
+            "D": "4,741"
+        }
+    },
+    {
+        "question": "What is 6,003 + 2,998?",
+        "answer": "A",
+        "options": {
+            "A": "9,001",
+            "B": "8,999",
+            "C": "9,002",
+            "D": "9,101"
+        }
+    },
+    {
+        "question": "Calculate 10,000 \u2212 6,789.",
+        "answer": "A",
+        "options": {
+            "A": "3,211",
+            "B": "3,311",
+            "C": "3,221",
+            "D": "3,111"
+        }
+    },
+    {
+        "question": "If Z + 3,456 = 7,000, what is Z?",
+        "answer": "A",
+        "options": {
+            "A": "3,544",
+            "B": "3,644",
+            "C": "3,444",
+            "D": "3,554"
+        }
+    },
+    {
+        "question": "Round 6,782 and 2,439 to the nearest hundred and find their difference.",
+        "answer": "A",
+        "options": {
+            "A": "4,400",
+            "B": "4,300",
+            "C": "4,500",
+            "D": "4,200"
+        }
+    },
+    {
+        "question": "A library had 9,500 books. They removed 2,876 old books and added 1,234 new ones. How many books are there now?",
+        "answer": "A",
+        "options": {
+            "A": "7,858",
+            "B": "7,958",
+            "C": "7,758",
+            "D": "7,868"
+        }
+    },
+    {
+        "question": "Add 3,999 and 4,002.",
+        "answer": "A",
+        "options": {
+            "A": "8,001",
+            "B": "7,999",
+            "C": "8,002",
+            "D": "8,101"
+        }
+    },
+    {
+        "question": "What is 7,102 \u2212 3,458?",
+        "answer": "A",
+        "options": {
+            "A": "3,644",
+            "B": "3,744",
+            "C": "3,544",
+            "D": "3,654"
+        }
+    },
+    {
+        "question": "Which shows the correct inverse check for 8,200 \u2212 3,650 = 4,550?",
+        "answer": "A",
+        "options": {
+            "A": "4,550 + 3,650 = 8,200",
+            "B": "8,200 + 3,650 = 4,550",
+            "C": "4,550 \u2212 3,650 = 8,200",
+            "D": "3,650 \u2212 4,550 = 8,200"
+        }
+    },
+    {
+        "question": "Estimate 9,123 \u2212 4,876 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "4,200",
+            "B": "4,300",
+            "C": "4,100",
+            "D": "4,400"
+        }
+    },
+    {
+        "question": "A train journey is 5,000 km. On Day 1, it travels 2,345 km. On Day 2, it travels 1,876 km. How many kilometers remain?",
+        "answer": "A",
+        "options": {
+            "A": "779",
+            "B": "879",
+            "C": "679",
+            "D": "789"
+        }
+    },
+    {
+        "question": "What is 5,999 + 2,876?",
+        "answer": "A",
+        "options": {
+            "A": "8,875",
+            "B": "8,775",
+            "C": "8,975",
+            "D": "8,885"
+        }
+    },
+    {
+        "question": "Subtract 4,567 from 9,000.",
+        "answer": "A",
+        "options": {
+            "A": "4,433",
+            "B": "4,533",
+            "C": "4,443",
+            "D": "4,333"
+        }
+    },
+    {
+        "question": "After adding 2,345 to a number, the total is 7,890. What was the original number?",
+        "answer": "A",
+        "options": {
+            "A": "5,545",
+            "B": "5,645",
+            "C": "5,445",
+            "D": "5,555"
+        }
+    },
+    {
+        "question": "Estimate 6,782 + 2,439 by rounding each number to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "9,200",
+            "B": "9,300",
+            "C": "9,100",
+            "D": "9,400"
+        }
+    },
+    {
+        "question": "A company had a profit of \u00a39,200 in January. In February, it lost \u00a31,875. What was the total profit over the two months?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a37,325",
+            "B": "\u00a37,425",
+            "C": "\u00a37,225",
+            "D": "\u00a37,335"
+        }
+    },
+    {
+        "question": "Add 4,093 and 3,868 using the column method.",
+        "answer": "A",
+        "options": {
+            "A": "7,961",
+            "B": "7,861",
+            "C": "8,061",
+            "D": "7,971"
+        }
+    },
+    {
+        "question": "What is 8,000 \u2212 5,678?",
+        "answer": "A",
+        "options": {
+            "A": "2,322",
+            "B": "2,422",
+            "C": "2,332",
+            "D": "2,222"
+        }
+    },
+    {
+        "question": "If 7,500 \u2212 X = 3,892, what is X?",
+        "answer": "A",
+        "options": {
+            "A": "3,608",
+            "B": "3,708",
+            "C": "3,508",
+            "D": "3,618"
+        }
+    },
+    {
+        "question": "Which calculation best estimates 8,214 \u2212 4,876 by rounding to the nearest hundred?",
+        "answer": "A",
+        "options": {
+            "A": "3,300",
+            "B": "3,400",
+            "C": "3,200",
+            "D": "3,500"
+        }
+    },
+    {
+        "question": "A charity collected \u00a312,000. They spent \u00a34,567 on food and \u00a32,891 on shelter. How much is left?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a34,542",
+            "B": "\u00a34,642",
+            "C": "\u00a34,442",
+            "D": "\u00a34,552"
+        }
+    },
+    {
+        "question": "Add 5,999 and 2,002.",
+        "answer": "A",
+        "options": {
+            "A": "8,001",
+            "B": "7,999",
+            "C": "8,002",
+            "D": "8,101"
+        }
+    },
+    {
+        "question": "Subtract 2,999 from 8,001.",
+        "answer": "A",
+        "options": {
+            "A": "5,002",
+            "B": "5,102",
+            "C": "4,902",
+            "D": "5,012"
+        }
+    },
+    {
+        "question": "Which equation verifies that 9,300 \u2212 4,750 = 4,550?",
+        "answer": "A",
+        "options": {
+            "A": "4,550 + 4,750 = 9,300",
+            "B": "9,300 + 4,750 = 4,550",
+            "C": "4,550 \u2212 4,750 = 9,300",
+            "D": "9,300 \u2212 4,550 = 4,650"
+        }
+    },
+    {
+        "question": "Estimate 7,432 + 2,789 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "10,200",
+            "B": "10,300",
+            "C": "10,100",
+            "D": "10,400"
+        }
+    },
+    {
+        "question": "A delivery van starts with 8,500 packages. It drops off 3,245, then picks up 1,876. How many packages are on the van now?",
+        "answer": "A",
+        "options": {
+            "A": "7,131",
+            "B": "7,231",
+            "C": "7,031",
+            "D": "7,141"
+        }
+    },
+    {
+        "question": "What is 7,003 + 1,998?",
+        "answer": "A",
+        "options": {
+            "A": "9,001",
+            "B": "8,999",
+            "C": "9,002",
+            "D": "9,101"
+        }
+    },
+    {
+        "question": "Calculate 10,000 \u2212 7,654.",
+        "answer": "A",
+        "options": {
+            "A": "2,346",
+            "B": "2,446",
+            "C": "2,356",
+            "D": "2,246"
+        }
+    },
+    {
+        "question": "If Y + 4,567 = 8,000, what is Y?",
+        "answer": "A",
+        "options": {
+            "A": "3,433",
+            "B": "3,533",
+            "C": "3,443",
+            "D": "3,333"
+        }
+    },
+    {
+        "question": "Round 7,681 and 3,429 to the nearest hundred and find their difference.",
+        "answer": "A",
+        "options": {
+            "A": "4,300",
+            "B": "4,200",
+            "C": "4,400",
+            "D": "4,100"
+        }
+    },
+    {
+        "question": "A school has 10,000 books. They donate 2,876 to a library and receive 1,234 new books. How many books are there now?",
+        "answer": "A",
+        "options": {
+            "A": "8,358",
+            "B": "8,458",
+            "C": "8,258",
+            "D": "8,368"
+        }
+    },
+    {
+        "question": "Add 2,999 and 5,002.",
+        "answer": "A",
+        "options": {
+            "A": "8,001",
+            "B": "7,999",
+            "C": "8,002",
+            "D": "8,101"
+        }
+    },
+    {
+        "question": "What is 8,203 \u2212 4,567?",
+        "answer": "A",
+        "options": {
+            "A": "3,636",
+            "B": "3,736",
+            "C": "3,536",
+            "D": "3,646"
+        }
+    },
+    {
+        "question": "Which shows the correct inverse check for 7,400 \u2212 3,850 = 3,550?",
+        "answer": "A",
+        "options": {
+            "A": "3,550 + 3,850 = 7,400",
+            "B": "7,400 + 3,850 = 3,550",
+            "C": "3,550 \u2212 3,850 = 7,400",
+            "D": "3,850 \u2212 3,550 = 7,400"
+        }
+    },
+    {
+        "question": "Estimate 8,123 \u2212 5,876 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "2,200",
+            "B": "2,300",
+            "C": "2,100",
+            "D": "2,400"
+        }
+    },
+    {
+        "question": "A hiker plans to walk 6,000 km. She walks 2,567 km in the first month and 1,989 km in the second. How many kilometers remain?",
+        "answer": "A",
+        "options": {
+            "A": "1,444",
+            "B": "1,544",
+            "C": "1,344",
+            "D": "1,454"
+        }
+    },
+    {
+        "question": "What is 6,879 + 2,998?",
+        "answer": "A",
+        "options": {
+            "A": "9,877",
+            "B": "9,777",
+            "C": "9,977",
+            "D": "9,887"
+        }
+    },
+    {
+        "question": "Subtract 5,678 from 9,000.",
+        "answer": "A",
+        "options": {
+            "A": "3,322",
+            "B": "3,422",
+            "C": "3,332",
+            "D": "3,222"
+        }
+    },
+    {
+        "question": "After subtracting 3,210 from a number, the result is 4,999. What was the original number?",
+        "answer": "A",
+        "options": {
+            "A": "8,209",
+            "B": "8,109",
+            "C": "8,309",
+            "D": "8,219"
+        }
+    },
+    {
+        "question": "Estimate 7,682 + 3,429 by rounding each number to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "11,100",
+            "B": "11,200",
+            "C": "11,000",
+            "D": "11,300"
+        }
+    },
+    {
+        "question": "A business earned \u00a311,500 in March and spent \u00a34,876 in April. What is the net amount after April?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a36,624",
+            "B": "\u00a36,724",
+            "C": "\u00a36,524",
+            "D": "\u00a36,634"
+        }
+    },
+    {
+        "question": "Add 5,093 and 3,868.",
+        "answer": "A",
+        "options": {
+            "A": "8,961",
+            "B": "8,861",
+            "C": "9,061",
+            "D": "8,971"
+        }
+    },
+    {
+        "question": "What is 9,000 \u2212 6,789?",
+        "answer": "A",
+        "options": {
+            "A": "2,211",
+            "B": "2,311",
+            "C": "2,221",
+            "D": "2,111"
+        }
+    },
+    {
+        "question": "If 8,400 \u2212 X = 4,785, what is X?",
+        "answer": "A",
+        "options": {
+            "A": "3,615",
+            "B": "3,715",
+            "C": "3,515",
+            "D": "3,625"
+        }
+    },
+    {
+        "question": "Which calculation best estimates 9,214 \u2212 5,876 by rounding to the nearest hundred?",
+        "answer": "A",
+        "options": {
+            "A": "3,300",
+            "B": "3,400",
+            "C": "3,200",
+            "D": "3,500"
+        }
+    },
+    {
+        "question": "A museum raised \u00a315,000 for renovations. They spent \u00a36,543 on materials and \u00a33,892 on labor. How much is left?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a34,565",
+            "B": "\u00a34,665",
+            "C": "\u00a34,465",
+            "D": "\u00a34,575"
+        }
+    },
+    {
+        "question": "Add 6,999 and 2,002.",
+        "answer": "A",
+        "options": {
+            "A": "9,001",
+            "B": "8,999",
+            "C": "9,002",
+            "D": "9,101"
+        }
+    },
+    {
+        "question": "Subtract 3,999 from 9,002.",
+        "answer": "A",
+        "options": {
+            "A": "5,003",
+            "B": "5,103",
+            "C": "4,903",
+            "D": "5,013"
+        }
+    },
+    {
+        "question": "Which equation verifies that 8,500 \u2212 4,950 = 3,550?",
+        "answer": "A",
+        "options": {
+            "A": "3,550 + 4,950 = 8,500",
+            "B": "8,500 + 4,950 = 3,550",
+            "C": "3,550 \u2212 4,950 = 8,500",
+            "D": "8,500 \u2212 3,550 = 4,850"
+        }
+    },
+    {
+        "question": "Estimate 8,432 + 2,789 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "11,200",
+            "B": "11,300",
+            "C": "11,100",
+            "D": "11,400"
+        }
+    },
+    {
+        "question": "A warehouse has 12,000 boxes. It ships out 4,321 and receives 2,456 new boxes. How many boxes are there now?",
+        "answer": "A",
+        "options": {
+            "A": "10,135",
+            "B": "10,235",
+            "C": "10,035",
+            "D": "10,145"
+        }
+    },
+    {
+        "question": "What is 8,003 + 1,998?",
+        "answer": "A",
+        "options": {
+            "A": "10,001",
+            "B": "9,999",
+            "C": "10,002",
+            "D": "10,101"
+        }
+    },
+    {
+        "question": "Calculate 10,000 \u2212 8,765.",
+        "answer": "A",
+        "options": {
+            "A": "1,235",
+            "B": "1,335",
+            "C": "1,245",
+            "D": "1,135"
+        }
+    },
+    {
+        "question": "If Z + 5,678 = 9,000, what is Z?",
+        "answer": "A",
+        "options": {
+            "A": "3,322",
+            "B": "3,422",
+            "C": "3,332",
+            "D": "3,222"
+        }
+    },
+    {
+        "question": "Round 8,681 and 4,429 to the nearest hundred and find their difference.",
+        "answer": "A",
+        "options": {
+            "A": "4,300",
+            "B": "4,200",
+            "C": "4,400",
+            "D": "4,100"
+        }
+    },
+    {
+        "question": "A city library had 15,000 books. It gave away 3,876 and bought 2,234 new ones. How many books are there now?",
+        "answer": "A",
+        "options": {
+            "A": "13,358",
+            "B": "13,458",
+            "C": "13,258",
+            "D": "13,368"
+        }
+    },
+    {
+        "question": "Add 3,999 and 6,002.",
+        "answer": "A",
+        "options": {
+            "A": "10,001",
+            "B": "9,999",
+            "C": "10,002",
+            "D": "10,101"
+        }
+    },
+    {
+        "question": "What is 9,203 \u2212 5,678?",
+        "answer": "A",
+        "options": {
+            "A": "3,525",
+            "B": "3,625",
+            "C": "3,425",
+            "D": "3,535"
+        }
+    },
+    {
+        "question": "Which shows the correct inverse check for 9,600 \u2212 5,050 = 4,550?",
+        "answer": "A",
+        "options": {
+            "A": "4,550 + 5,050 = 9,600",
+            "B": "9,600 + 5,050 = 4,550",
+            "C": "4,550 \u2212 5,050 = 9,600",
+            "D": "5,050 \u2212 4,550 = 9,600"
+        }
+    },
+    {
+        "question": "Estimate 9,123 \u2212 6,876 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "2,200",
+            "B": "2,300",
+            "C": "2,100",
+            "D": "2,400"
+        }
+    },
+    {
+        "question": "A cyclist plans to ride 8,000 km. He rides 3,456 km in the first leg and 2,989 km in the second. How many kilometers remain?",
+        "answer": "A",
+        "options": {
+            "A": "1,555",
+            "B": "1,655",
+            "C": "1,455",
+            "D": "1,565"
+        }
+    },
+    {
+        "question": "What is 7,989 + 1,876?",
+        "answer": "A",
+        "options": {
+            "A": "9,865",
+            "B": "9,765",
+            "C": "9,965",
+            "D": "9,875"
+        }
+    },
+    {
+        "question": "Subtract 6,789 from 10,000.",
+        "answer": "A",
+        "options": {
+            "A": "3,211",
+            "B": "3,311",
+            "C": "3,221",
+            "D": "3,111"
+        }
+    },
+    {
+        "question": "After adding 4,321 to a number, the total is 9,999. What was the original number?",
+        "answer": "A",
+        "options": {
+            "A": "5,678",
+            "B": "5,778",
+            "C": "5,578",
+            "D": "5,688"
+        }
+    },
+    {
+        "question": "Estimate 8,765 + 2,432 by rounding each number to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "11,200",
+            "B": "11,300",
+            "C": "11,100",
+            "D": "11,400"
+        }
+    },
+    {
+        "question": "A school raised \u00a313,200 for a new playground. They spent \u00a35,678 on equipment and \u00a32,891 on installation. How much is left?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a34,631",
+            "B": "\u00a34,731",
+            "C": "\u00a34,531",
+            "D": "\u00a34,641"
+        }
+    },
+    {
+        "question": "Add 6,093 and 2,868.",
+        "answer": "A",
+        "options": {
+            "A": "8,961",
+            "B": "8,861",
+            "C": "9,061",
+            "D": "8,971"
+        }
+    },
+    {
+        "question": "What is 9,500 \u2212 5,678?",
+        "answer": "A",
+        "options": {
+            "A": "3,822",
+            "B": "3,922",
+            "C": "3,722",
+            "D": "3,832"
+        }
+    },
+    {
+        "question": "If 9,200 \u2212 X = 5,432, what is X?",
+        "answer": "A",
+        "options": {
+            "A": "3,768",
+            "B": "3,868",
+            "C": "3,668",
+            "D": "3,778"
+        }
+    },
+    {
+        "question": "Which calculation best estimates 9,876 \u2212 6,543 by rounding to the nearest hundred?",
+        "answer": "A",
+        "options": {
+            "A": "3,400",
+            "B": "3,500",
+            "C": "3,300",
+            "D": "3,600"
+        }
+    },
+    {
+        "question": "A charity had \u00a320,000. They gave \u00a37,891 to a food bank and \u00a35,678 to a shelter. How much remains?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a36,431",
+            "B": "\u00a36,531",
+            "C": "\u00a36,331",
+            "D": "\u00a36,441"
+        }
+    },
+    {
+        "question": "Add 7,999 and 2,002.",
+        "answer": "A",
+        "options": {
+            "A": "10,001",
+            "B": "9,999",
+            "C": "10,002",
+            "D": "10,101"
+        }
+    },
+    {
+        "question": "Subtract 4,999 from 10,001.",
+        "answer": "A",
+        "options": {
+            "A": "5,002",
+            "B": "5,102",
+            "C": "4,902",
+            "D": "5,012"
+        }
+    },
+    {
+        "question": "Which equation verifies that 10,000 \u2212 6,450 = 3,550?",
+        "answer": "A",
+        "options": {
+            "A": "3,550 + 6,450 = 10,000",
+            "B": "10,000 + 6,450 = 3,550",
+            "C": "3,550 \u2212 6,450 = 10,000",
+            "D": "10,000 \u2212 3,550 = 6,350"
+        }
+    },
+    {
+        "question": "Estimate 9,432 + 3,789 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "13,200",
+            "B": "13,300",
+            "C": "13,100",
+            "D": "13,400"
+        }
+    },
+    {
+        "question": "A farm harvested 14,000 kg of wheat. It sold 5,432 kg and then harvested another 3,210 kg. How much wheat is there now?",
+        "answer": "A",
+        "options": {
+            "A": "11,778",
+            "B": "11,878",
+            "C": "11,678",
+            "D": "11,788"
+        }
+    },
+    {
+        "question": "What is 9,003 + 1,998?",
+        "answer": "A",
+        "options": {
+            "A": "11,001",
+            "B": "10,999",
+            "C": "11,002",
+            "D": "11,101"
+        }
+    },
+    {
+        "question": "Calculate 11,000 \u2212 7,654.",
+        "answer": "A",
+        "options": {
+            "A": "3,346",
+            "B": "3,446",
+            "C": "3,356",
+            "D": "3,246"
+        }
+    },
+    {
+        "question": "If Y + 6,789 = 10,000, what is Y?",
+        "answer": "A",
+        "options": {
+            "A": "3,211",
+            "B": "3,311",
+            "C": "3,221",
+            "D": "3,111"
+        }
+    },
+    {
+        "question": "Round 9,681 and 5,429 to the nearest hundred and find their difference.",
+        "answer": "A",
+        "options": {
+            "A": "4,300",
+            "B": "4,200",
+            "C": "4,400",
+            "D": "4,100"
+        }
+    },
+    {
+        "question": "A company had 18,000 units in stock. It sold 6,789 and received 4,321 new units. How many units are in stock now?",
+        "answer": "A",
+        "options": {
+            "A": "15,532",
+            "B": "15,632",
+            "C": "15,432",
+            "D": "15,542"
+        }
+    },
+    {
+        "question": "Add 4,999 and 7,002.",
+        "answer": "A",
+        "options": {
+            "A": "12,001",
+            "B": "11,999",
+            "C": "12,002",
+            "D": "12,101"
+        }
+    },
+    {
+        "question": "What is 10,203 \u2212 6,789?",
+        "answer": "A",
+        "options": {
+            "A": "3,414",
+            "B": "3,514",
+            "C": "3,314",
+            "D": "3,424"
+        }
+    },
+    {
+        "question": "Which shows the correct inverse check for 11,200 \u2212 7,650 = 3,550?",
+        "answer": "A",
+        "options": {
+            "A": "3,550 + 7,650 = 11,200",
+            "B": "11,200 + 7,650 = 3,550",
+            "C": "3,550 \u2212 7,650 = 11,200",
+            "D": "7,650 \u2212 3,550 = 11,200"
+        }
+    },
+    {
+        "question": "Estimate 10,123 \u2212 7,876 by rounding to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "2,200",
+            "B": "2,300",
+            "C": "2,100",
+            "D": "2,400"
+        }
+    },
+    {
+        "question": "A marathon runner plans to run 12,000 km in a year. She runs 5,678 km in the first half and 4,321 km in the second half. How many kilometers remain?",
+        "answer": "A",
+        "options": {
+            "A": "2,001",
+            "B": "2,101",
+            "C": "1,901",
+            "D": "2,011"
+        }
+    }
+]

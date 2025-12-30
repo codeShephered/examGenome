@@ -473,5 +473,105 @@
     "question": "If the ratio of length to width of a room is 5:4 and the perimeter is 36 meters, what is the length?",
     "answer": "10 meters",
     "details": "Let length = 5x, width = 4x. Perimeter = 2(5x + 4x) = 18x = 36 → x = 2. Length = 5 × 2 = 10 m."
-  }
+  },
+    {
+      "question": "In a bag of marbles, there are 8 red marbles and 12 blue marbles. What is the ratio of red marbles to blue marbles in its simplest form?",
+      "answer": "2:3",
+      "details": "The ratio of red to blue marbles is 8:12. To simplify, divide both numbers by their greatest common divisor, which is 4. 8 ÷ 4 = 2 and 12 ÷ 4 = 3, so the simplified ratio is 2:3. Simplifying ratios is a core skill taught in elementary mathematics (e.g., Common Core Grade 6) and helps compare quantities clearly."
+    },
+    {
+      "question": "A recipe calls for flour and sugar in the ratio 5:2. If 15 cups of flour are used, how many cups of sugar are needed?",
+      "answer": "6",
+      "details": "The ratio 5:2 means for every 5 parts of flour, there are 2 parts of sugar. If 15 cups of flour are used, that’s 15 ÷ 5 = 3 times the original amount. So sugar needed = 2 × 3 = 6 cups. This applies ratio scaling, a practical skill used in cooking and other real-life contexts."
+    },
+    {
+      "question": "There are 18 boys and 12 girls in a class. What is the ratio of girls to the total number of students?",
+      "answer": "2:5",
+      "details": "Total students = 18 + 12 = 30. The ratio of girls to total students is 12:30. Simplify by dividing both by 6: 12 ÷ 6 = 2, 30 ÷ 6 = 5. So the ratio is 2:5. This type of part-to-whole ratio is common in data interpretation and aligns with national math standards."
+    },
+    {
+      "question": "Which of the following is equivalent to the ratio 3:4?",
+      "answer": "9:12",
+      "details": "To find an equivalent ratio, multiply or divide both terms by the same non-zero number. 3:4 multiplied by 3 gives 9:12. Other options like 6:7 or 3:5 are not equivalent. Understanding equivalent ratios is foundational for solving proportion problems and is verified in standard textbooks like NCERT Class 6 Mathematics."
+    },
+    {
+      "question": "The ages of two siblings are in the ratio 3:5. If the younger sibling is 9 years old, how old is the older sibling?",
+      "answer": "15",
+      "details": "The ratio 3:5 means the younger sibling’s age corresponds to 3 parts. If 3 parts = 9 years, then 1 part = 9 ÷ 3 = 3 years. The older sibling is 5 parts: 5 × 3 = 15 years old. This demonstrates how ratios represent relative sizes and is a common question type in competitive exams for grades 5–7."
+    },
+    {
+      "question": "A mixture contains oil and vinegar in the ratio 7:3. If the total volume of the mixture is 50 mL, how much oil is there?",
+      "answer": "35",
+      "details": "The total parts in the ratio = 7 + 3 = 10 parts. Oil is 7 out of 10 parts. So oil = (7/10) × 50 = 35 mL. This uses part-to-whole reasoning with ratios, a key skill in solving mixture problems in both math and science."
+    },
+    {
+      "question": "What is the ratio of 20 minutes to 1 hour, expressed in simplest form?",
+      "answer": "1:3",
+      "details": "First, convert both quantities to the same unit. 1 hour = 60 minutes. So the ratio is 20:60. Simplify by dividing both by 20: 20 ÷ 20 = 1, 60 ÷ 20 = 3. The simplest form is 1:3. Converting units before forming ratios is an essential step emphasized in curricula like the UK National Curriculum."
+    },
+    {
+      "question": "If the ratio of apples to oranges in a basket is 4:5 and there are 36 fruits in total, how many apples are there?",
+      "answer": "16",
+      "details": "Total parts = 4 + 5 = 9. Apples represent 4 out of 9 parts. So number of apples = (4/9) × 36 = 16. This question tests understanding of ratios in part-to-whole contexts and is solvable using basic division and multiplication, suitable for students aged 11 or under."
+    },
+    {
+      "question": "Which statement correctly describes a ratio?",
+      "answer": "A ratio compares two or more quantities of the same kind.",
+      "details": "A ratio is a comparison of quantities measured in the same units (e.g., number of boys to girls, cups of flour to sugar). It does not involve different kinds of measurements (like meters to seconds) without conversion. This definition is consistent across authoritative sources like the National Council of Teachers of Mathematics (NCTM) and Khan Academy."
+    },
+    {
+      "question": "A school band has 24 flutes and 18 trumpets. What is the ratio of trumpets to flutes in simplest form?",
+      "answer": "3:4",
+      "details": "The ratio of trumpets to flutes is 18:24. Find the greatest common divisor of 18 and 24, which is 6. Divide both numbers by 6: 18 ÷ 6 = 3, 24 ÷ 6 = 4. So the simplified ratio is 3:4. This reinforces the skill of simplifying ratios using division, a standard topic in elementary mathematics."
+    },
+    {
+      "question": "A fruit basket contains 10 apples and 15 oranges. What is the ratio of apples to oranges in its simplest form?",
+      "answer": "2:3",
+      "details": "The initial ratio of apples to oranges is 10:15. To simplify, divide both numbers by their greatest common divisor, which is 5. 10 ÷ 5 = 2 and 15 ÷ 5 = 3. So the simplified ratio is 2:3. Simplifying ratios helps make comparisons clearer and is a standard skill in elementary mathematics (e.g., Common Core Grade 6)."
+    },
+    {
+      "question": "The ratio of milk to water in a mixture is 4:1. If there are 20 liters of milk, how many liters of water are in the mixture?",
+      "answer": "5",
+      "details": "The ratio 4:1 means for every 4 parts of milk, there is 1 part of water. If 4 parts = 20 liters, then 1 part = 20 ÷ 4 = 5 liters. So the amount of water is 5 liters. This type of question models real-life mixtures (e.g., in cooking or chemistry) and tests understanding of equivalent ratios."
+    },
+    {
+      "question": "In a classroom, the ratio of boys to girls is 5:6. If there are 30 girls, how many boys are there?",
+      "answer": "25",
+      "details": "The ratio 5:6 means 6 parts represent girls. If 6 parts = 30 girls, then 1 part = 30 ÷ 6 = 5. Boys are 5 parts: 5 × 5 = 25. This uses part-to-part ratio reasoning and is commonly found in school assessments and competitive exams for upper elementary students."
+    },
+    {
+      "question": "Which of the following is the simplest form of the ratio 24:36?",
+      "answer": "2:3",
+      "details": "To simplify 24:36, divide both numbers by their greatest common divisor, which is 12. 24 ÷ 12 = 2 and 36 ÷ 12 = 3. So the simplest form is 2:3. This reinforces the skill of reducing ratios using division—a foundational concept in number sense."
+    },
+    {
+      "question": "A map uses a scale where 2 cm represents 5 km. What is the ratio of map distance to actual distance in centimeters per kilometer?",
+      "answer": "2:500,000",
+      "details": "First, convert 5 km to centimeters: 1 km = 100,000 cm, so 5 km = 500,000 cm. The map shows 2 cm for 500,000 cm in real life. So the ratio of map distance to actual distance is 2:500,000. This connects ratios to map scales—a practical application in geography and math. (Note: For age 11, this uses unit conversion but keeps numbers manageable with clear steps.)"
+    },
+    {
+      "question": "The ratio of red tiles to blue tiles in a pattern is 3:7. If there are 50 tiles in total, how many are red?",
+      "answer": "15",
+      "details": "Total parts in the ratio = 3 + 7 = 10. Red tiles make up 3 out of 10 parts. So number of red tiles = (3/10) × 50 = 15. This tests part-to-whole ratio understanding and is solvable using basic multiplication and division appropriate for children aged 11 or under."
+    },
+    {
+      "question": "What is the ratio of 30 seconds to 2 minutes, expressed in simplest form?",
+      "answer": "1:4",
+      "details": "Convert both to the same unit: 2 minutes = 120 seconds. The ratio is 30:120. Simplify by dividing both by 30: 30 ÷ 30 = 1, 120 ÷ 30 = 4. So the simplest form is 1:4. Unit conversion before simplifying ratios is a key step taught in elementary measurement units."
+    },
+    {
+      "question": "If the ratio of sugar to flour in a recipe is 1:4, how much flour is needed for 3 cups of sugar?",
+      "answer": "12",
+      "details": "The ratio 1:4 means 1 part sugar to 4 parts flour. If sugar is 3 cups (i.e., 3 parts), then flour = 4 × 3 = 12 cups. This real-world cooking context helps students see how ratios maintain consistency in recipes, a common application in daily life."
+    },
+    {
+      "question": "Which statement correctly defines a ratio?",
+      "answer": "A ratio shows the relative sizes of two or more values.",
+      "details": "A ratio is a comparison of quantities, often expressed as a:b or a/b, indicating how much of one thing there is compared to another. It does not give absolute amounts but shows proportion. This definition aligns with sources like the UK National Curriculum and Khan Academy, and is appropriate for elementary learners."
+    },
+    {
+      "question": "A bag contains green and yellow candies in the ratio 2:5. If there are 21 candies in total, how many are yellow?",
+      "answer": "15",
+      "details": "Total parts = 2 + 5 = 7. Yellow candies represent 5 out of 7 parts. So yellow candies = (5/7) × 21 = 15. This question combines ratio understanding with whole-number division and multiplication, and is typical of word problems in standardized tests for grades 5–6."
+    }
 ]

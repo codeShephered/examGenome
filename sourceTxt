@@ -19,6 +19,16 @@ Generate 110 unambiguous, unbiased, and verifiable questions about 'Column metho
 
         Ensure that the options are plausible, and avoid trivial or obviously incorrect answers. Include real-world context where relevant, and ensure that all questions are diverse, covering different aspects of 'Column method multiplication, addition & subtraction' in Mathematics. Provide questions that are contextualized and solvable using the arithmetic and reasoning skills of children aged 11 or less. Create the output in JSON format.
 ################################################################################################
+###prompt Year:
+turn this content  ``
+
+<Content on respective topic from https://www.gov.uk/government/publications/national-curriculum-in-england-mathematics-programmes-of-study/national-curriculum-in-england-mathematics-programmes-of-study#year-4-programme-of-study>
+
+``  into a prompt so that AI chat agents gives concise, clear, unmistakingly MCQ's in the topic '<Topic_Name>>'
+################################################################################################
+
+
+
 #Python Scripts:
 1) gemini.py => Template
 2) gemini-2.py => converts raw json data to extracted_data.json for gemini-1.py for verification
@@ -41,4 +51,4 @@ Generate 110 unambiguous, unbiased, and verifiable questions about 'Column metho
 19) etlPythonEnh3.py => PDF question generation script with topic classification + 4 max question per topic + examgenie watermark
 20) etlPythonEnh_first_sample_paper.py => PDF question generation script with topic classification + 4 max question per topic + examgenome watermark + strategy
 21) etlPythonEnh_topic_sample_paper.py => PDF question generation script with topic classification + 4 max question per topic + examgenome watermark + strategy + current script used to generate PDF files
-18) 
+18) fileRename.pl => To rename the generated flashcard pdf's

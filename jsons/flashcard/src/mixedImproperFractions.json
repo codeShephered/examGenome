@@ -493,5 +493,75 @@
     "question": "Is 2 0/5 a valid mixed number?",
     "answer": "Yes, but it's equal to 2",
     "details": "The fractional part is 0, so it simplifies to the whole number 2. It is technically a mixed number but usually written as just 2."
-  }
-]
+  },
+    {
+      "question": "Which of the following is an example of a proper fraction?",
+      "answer": "3/5",
+      "details": "A proper fraction is one where the numerator (top number) is less than the denominator (bottom number). In 3/5, 3 < 5, so it is proper. Examples like 7/4 or 5/5 are not proper because the numerator is greater than or equal to the denominator. This definition is standard in elementary mathematics textbooks such as those published by NCERT or Common Core."
+    },
+    {
+      "question": "Convert the mixed number 2 3/4 to an improper fraction.",
+      "answer": "11/4",
+      "details": "To convert a mixed number to an improper fraction: multiply the whole number by the denominator (2 × 4 = 8), then add the numerator (8 + 3 = 11). The result becomes the new numerator over the original denominator: 11/4. This method is taught universally in primary math curricula."
+    },
+    {
+      "question": "What type of fraction is 9/9?",
+      "answer": "Improper fraction",
+      "details": "An improper fraction is defined as a fraction where the numerator is greater than or equal to the denominator. Since 9 = 9, 9/9 is an improper fraction. It is also equal to 1, but its classification as a fraction type is still improper. This is consistent with definitions from sources like Khan Academy and Math is Fun."
+    },
+    {
+      "question": "Convert the improper fraction 17/5 to a mixed number.",
+      "answer": "3 2/5",
+      "details": "Divide 17 by 5: 5 goes into 17 three times (5 × 3 = 15) with a remainder of 2. So the mixed number is 3 (whole number) and 2/5 (remainder over original denominator). This division-based conversion is a standard skill in grades 4–6."
+    },
+    {
+      "question": "Which of the following is a mixed number?",
+      "answer": "4 1/3",
+      "details": "A mixed number consists of a whole number and a proper fraction. '4 1/3' has a whole part (4) and a fractional part (1/3, which is proper). Other options like '7/2' (improper fraction) or '0.5' (decimal) do not qualify. This distinction is fundamental in early fraction learning."
+    },
+    {
+      "question": "A recipe calls for 2 1/2 cups of flour. How many cups is this as an improper fraction?",
+      "answer": "5/2",
+      "details": "Convert 2 1/2 to an improper fraction: multiply 2 (whole number) by 2 (denominator) = 4, then add 1 (numerator) = 5. So the improper fraction is 5/2. Real-world contexts like cooking often require such conversions for measuring ingredients accurately."
+    },
+    {
+      "question": "Which fraction is equivalent to the mixed number 1 4/7?",
+      "answer": "11/7",
+      "details": "To convert 1 4/7: multiply 1 × 7 = 7, add 4 = 11. So the improper fraction is 11/7. This checks understanding of equivalence between mixed and improper forms, a key concept in fraction arithmetic."
+    },
+    {
+      "question": "If you have 23/6 of a pizza, how many whole pizzas and what fraction of another pizza do you have?",
+      "answer": "3 5/6",
+      "details": "Divide 23 by 6: 6 × 3 = 18, remainder = 23 − 18 = 5. So you have 3 whole pizzas and 5/6 of another, written as the mixed number 3 5/6. This models a real-life scenario where fractional parts represent leftover portions."
+    },
+    {
+      "question": "Which statement is always true about an improper fraction?",
+      "answer": "Its value is greater than or equal to 1.",
+      "details": "By definition, an improper fraction has a numerator ≥ denominator, so its value is ≥ 1 (e.g., 5/5 = 1, 7/3 ≈ 2.33). Proper fractions are < 1. This conceptual understanding helps students compare and order fractions."
+    },
+    {
+      "question": "Convert 3 7/8 to an improper fraction.",
+      "answer": "31/8",
+      "details": "Multiply the whole number (3) by the denominator (8): 3 × 8 = 24. Add the numerator (7): 24 + 7 = 31. So the improper fraction is 31/8. This reinforces the standard conversion algorithm without simplification, as 31 and 8 share no common factors."
+    },
+    {
+      "question": "A ribbon is 19/4 meters long. How long is it in mixed number form?",
+      "answer": "4 3/4",
+      "details": "Divide 19 by 4: 4 × 4 = 16, remainder = 3. So 19/4 = 4 3/4 meters. This type of problem appears in measurement contexts, helping students connect fractions to real-world units like length."
+    },
+    {
+      "question": "Which of the following fractions is NOT improper?",
+      "answer": "5/8",
+      "details": "An improper fraction has numerator ≥ denominator. In 5/8, 5 < 8, so it is a proper fraction, not improper. The other options (e.g., 8/5, 10/10, 12/7) all have numerator ≥ denominator. This tests recognition of fraction types."
+    },
+    {
+      "question": "What is the mixed number equivalent of 36/7?",
+      "answer": "5 1/7",
+      "details": "Divide 36 by 7: 7 × 5 = 35, remainder = 1. So 36/7 = 5 1/7. Students must perform division with remainder to convert, a core arithmetic skill aligned with grade 5 standards."
+    },
+    {
+      "question": "Liam ran 2 3/5 miles on Monday and 13/5 miles on Tuesday. Did he run the same distance both days?",
+      "answer": "Yes",
+      "details": "Convert 2 3/5 to an improper fraction: (2 × 5) + 3 = 13, so 13/5. Since Tuesday’s distance is also 13/5, the distances are equal. This question applies conversion skills to compare real-world quantities."
+    }
+  ]

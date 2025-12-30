@@ -478,5 +478,75 @@
     "question": "Daily water intake (cups): 6, 8, 5, 9, 7. What is the range?",
     "answer": "4",
     "details": "Highest = 9, lowest = 5. Range = 9 – 5 = 4 cups."
-  }
+  },
+    {
+      "question": "The marks of five students in a quiz are: 12, 15, 10, 14, and 13. What is the mean of these marks?",
+      "answer": "12.8",
+      "details": "The mean (or average) is calculated by adding all the numbers together and then dividing by how many numbers there are. Here, sum = 12 + 15 + 10 + 14 + 13 = 64. There are 5 numbers, so mean = 64 ÷ 5 = 12.8. This is a standard arithmetic mean calculation taught in elementary statistics."
+    },
+    {
+      "question": "A set of numbers is: 3, 7, 7, 9, 10. What is the mode of this data set?",
+      "answer": "7",
+      "details": "The mode is the number that appears most frequently in a data set. In this case, the number 7 appears twice, while all other numbers appear only once. Therefore, the mode is 7. A data set can have one mode (unimodal), more than one (bimodal or multimodal), or no mode if all values are unique."
+    },
+    {
+      "question": "The ages of six children are: 5, 8, 6, 9, 7, and 8. What is the median age?",
+      "answer": "7.5",
+      "details": "To find the median, first arrange the numbers in order: 5, 6, 7, 8, 8, 9. Since there is an even number of values (6), the median is the average of the two middle numbers: the 3rd (7) and 4th (8). So, median = (7 + 8) ÷ 2 = 7.5. The median represents the middle value and is less affected by extreme values than the mean."
+    },
+    {
+      "question": "In a list of temperatures (in °C) recorded over five days: 22, 25, 21, 24, and 28, what is the range?",
+      "answer": "7",
+      "details": "The range is the difference between the highest and lowest values in a data set. Here, the highest temperature is 28°C and the lowest is 21°C. So, range = 28 − 21 = 7. Range gives a simple measure of spread or variability in the data."
+    },
+    {
+      "question": "If the mean of four numbers is 10, and three of the numbers are 8, 10, and 12, what is the fourth number?",
+      "answer": "10",
+      "details": "If the mean of four numbers is 10, their total sum must be 4 × 10 = 40. The sum of the three known numbers is 8 + 10 + 12 = 30. Therefore, the fourth number = 40 − 30 = 10. This uses the reverse application of the mean formula: total = mean × count."
+    },
+    {
+      "question": "A shoe store recorded the following shoe sizes sold in one day: 5, 6, 6, 7, 7, 7, 8, 8, 9. Which measure of central tendency would best represent the most commonly sold size?",
+      "answer": "Mode",
+      "details": "The mode is the value that occurs most frequently. In business contexts like retail, the mode is often the most useful measure for identifying popular items. Here, size 7 appears three times—more than any other—so the mode best represents the most commonly sold shoe size."
+    },
+    {
+      "question": "Which of the following data sets has a median equal to its mean? (A) 2, 4, 6 (B) 1, 2, 10 (C) 3, 3, 9 (D) 5, 5, 7",
+      "answer": "2, 4, 6",
+      "details": "For option (A): Mean = (2+4+6)/3 = 4; Median (middle value) = 4. So mean = median. In (B): mean = 13/3 ≈ 4.33, median = 2. In (C): mean = 15/3 = 5, median = 3. In (D): mean = 17/3 ≈ 5.67, median = 5. Only (A) satisfies the condition. Symmetric data sets often have equal mean and median."
+    },
+    {
+      "question": "The test scores of seven students are: 85, 90, 78, 92, 88, 85, and 80. What is the mode of this data?",
+      "answer": "85",
+      "details": "List the scores: 78, 80, 85, 85, 88, 90, 92. The number 85 appears twice; all others appear once. Hence, the mode is 85. Mode is especially useful when identifying repeated outcomes in categorical or discrete numerical data."
+    },
+    {
+      "question": "A basketball player scored the following points in five games: 10, 15, 20, 25, and 30. What is the range of his scores?",
+      "answer": "20",
+      "details": "Range = highest value − lowest value = 30 − 10 = 20. The range shows the spread of performance—here, the player’s scoring varied by 20 points across games. It’s a quick way to assess variability, though it ignores all values except the extremes."
+    },
+    {
+      "question": "The weights (in kg) of four parcels are 5, 7, 7, and 11. What is the median weight?",
+      "answer": "7",
+      "details": "Arrange in order: 5, 7, 7, 11. With an even number of data points (4), the median is the average of the 2nd and 3rd values: (7 + 7) ÷ 2 = 7. Because both middle values are the same, the median equals 7. This illustrates that repeated values affect the median calculation as normal data points."
+    },
+    {
+      "question": "If the range of a data set is 15 and the smallest value is 20, what is the largest value?",
+      "answer": "35",
+      "details": "Range = largest value − smallest value. So, 15 = largest − 20 → largest = 15 + 20 = 35. This is a direct application of the range formula and is commonly tested in word problems involving data interpretation."
+    },
+    {
+      "question": "Five friends have ages 9, 10, 10, 11, and 15. If the oldest friend leaves, what is the new mean age of the remaining four friends?",
+      "answer": "10",
+      "details": "Original group without the 15-year-old: 9, 10, 10, 11. Sum = 9 + 10 + 10 + 11 = 40. Number of friends = 4. Mean = 40 ÷ 4 = 10. This question tests understanding of how removing data affects the mean, a common real-world scenario in data analysis."
+    },
+    {
+      "question": "Which measure of central tendency is always the middle value when data is ordered from least to greatest?",
+      "answer": "Median",
+      "details": "By definition, the median is the middle number in an ordered data set. If there is an odd number of observations, it’s the central one; if even, it’s the average of the two central numbers. This distinguishes it from the mean (average) and mode (most frequent), and is a core concept in descriptive statistics."
+    },
+    {
+      "question": "A data set has the values: 4, 6, 8, 10. What is the range of this data set?",
+      "answer": "6",
+      "details": "Range = maximum value − minimum value = 10 − 4 = 6. This is a straightforward application of the range formula with evenly spaced numbers, often used in introductory lessons to illustrate data spread without outliers."
+    }
 ]

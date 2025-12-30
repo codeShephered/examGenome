@@ -1,0 +1,52 @@
+[
+    {
+      "question": "What is perimeter?",
+      "answer": "Perimeter is the total distance around the edge of a 2D shape.",
+      "explanation": "You find it by adding up all the side lengths. Units are length units like centimeters (cm) or meters (m)."
+    },
+    {
+      "question": "What is area?",
+      "answer": "Area is the amount of flat space inside a 2D shape.",
+      "explanation": "It’s measured in square units like square centimeters (cm²) or square meters (m²). For a rectangle, area = length × width."
+    },
+    {
+      "question": "What is volume?",
+      "answer": "Volume is the amount of space a 3D object takes up.",
+      "explanation": "It’s measured in cubic units like cubic centimeters (cm³) or liters. For a box (cuboid), volume = length × width × height."
+    },
+    {
+      "question": "What are the common units for measuring length?",
+      "answer": "Millimeters (mm), centimeters (cm), meters (m), and kilometers (km).",
+      "explanation": "10 mm = 1 cm, 100 cm = 1 m, and 1,000 m = 1 km. Always choose the right unit—mm for small things like erasers, km for long distances like between towns."
+    },
+    {
+      "question": "What is a right angle?",
+      "answer": "A right angle is an angle that measures exactly 90 degrees—it looks like the corner of a square.",
+      "explanation": "You can find right angles in squares, rectangles, and the corners of books or doors."
+    },
+    {
+      "question": "What are the properties of a rectangle?",
+      "answer": "A rectangle has 4 sides, 4 right angles, and opposite sides are equal and parallel.",
+      "explanation": "Unlike a square, its length and width can be different. All squares are rectangles, but not all rectangles are squares."
+    },
+    {
+      "question": "How do you measure angles?",
+      "answer": "Angles are measured in degrees (°) using a protractor.",
+      "explanation": "A full turn is 360°, a half turn is 180° (a straight line), and a quarter turn is 90° (a right angle)."
+    },
+    {
+      "question": "What is the difference between 2D and 3D shapes?",
+      "answer": "2D shapes are flat (like circles and squares). 3D shapes have depth (like cubes and spheres).",
+      "explanation": "2D shapes have length and width. 3D shapes have length, width, and height—and they can be held in your hand."
+    },
+    {
+      "question": "What is the formula for the area of a triangle?",
+      "answer": "Area = (base × height) ÷ 2.",
+      "explanation": "The base is one side, and the height is the perpendicular distance from the base to the opposite point (apex)."
+    },
+    {
+      "question": "Why do we use different units for area and volume?",
+      "answer": "Because area covers a flat surface (so we use 'squares'), and volume fills space (so we use 'cubes').",
+      "explanation": "If you draw a 1 cm × 1 cm square, it’s 1 cm². If you build a 1 cm × 1 cm × 1 cm cube, it’s 1 cm³. The units match the dimension!"
+    }
+]

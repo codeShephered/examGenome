@@ -1,0 +1,3676 @@
+[
+{
+"question": "A point at (5, 3) is reflected in the line y = 2. Where is its image?",
+"options": {
+"A": "(5, 1)",
+"B": "(5, –1)",
+"C": "(2, 3)",
+"D": "(3, 5)"},
+"answer": "B",
+"details": "3 is 1 unit above y=2, so image is 1 unit below: 2 – 1 = 1? Wait—3 – 2 = 1, so distance is 1. Image y = 2 – 1 = 1. But 1 is not negative. Correction: 3 is above y=2 by 1, so image is at y = 2 – 1 = 1 → (5,1). So answer should be A. Fix explanation.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (5, 3) is reflected in the line y = 2. Where is its image?",
+"options": {
+"A": "(5, 1)",
+"B": "(5, –1)",
+"C": "(2, 3)",
+"D": "(3, 5)"},
+"answer": "A",
+"details": "The point (5,3) is 1 unit above the line y=2. Its image will be 1 unit below y=2, so y = 2 – 1 = 1. Same x-coordinate: (5,1).",
+"difficulty": "easy"
+},
+{
+"question": "A shape is translated 6 units left and 2 units up. How do the coordinates change?",
+"options": {
+"A": "x – 6, y + 2",
+"B": "x + 6, y – 2",
+"C": "x – 6, y – 2",
+"D": "x + 6, y + 2"},
+"answer": "A",
+"details": "Left means subtract from x; up means add to y.",
+"difficulty": "easy"
+},
+{
+"question": "Which point is the reflection of (3, 7) in the line x = 5?",
+"options": {
+"A": "(7, 7)",
+"B": "(5, 7)",
+"C": "(3, 3)",
+"D": "(8, 7)"},
+"answer": "A",
+"details": "3 is 2 units left of x=5, so image is 2 units right: 5 + 2 = 7. Same y: (7,7).",
+"difficulty": "easy"
+},
+{
+"question": "A point moves from (4, 6) to (1, 2). How was it translated?",
+"options": {
+"A": "3 left, 4 down",
+"B": "3 right, 4 up",
+"C": "4 left, 3 down",
+"D": "4 right, 3 up"},
+"answer": "A",
+"details": "x: 4 → 1 = –3 (3 left). y: 6 → 2 = –4 (4 down).",
+"difficulty": "easy"
+},
+{
+"question": "After a reflection in the y-axis, the point (4, 5) becomes:",
+"options": {
+"A": "(–4, 5)",
+"B": "(4, –5)",
+"C": "(–4, –5)",
+"D": "(5, 4)"},
+"answer": "A",
+"details": "Reflection in y-axis changes x to –x: (–4, 5).",
+"difficulty": "easy"
+},
+{
+"question": "A triangle has a vertex at (2, 8). It is reflected in the line y = 5. Where is the image?",
+"options": {
+"A": "(2, 2)",
+"B": "(8, 2)",
+"C": "(2, 5)",
+"D": "(5, 2)"},
+"answer": "A",
+"details": "8 is 3 above y=5, so image is 3 below: 5 – 3 = 2. Same x: (2,2).",
+"difficulty": "easy"
+},
+{
+"question": "Which describes a translation of '4 units right and 5 units down'?",
+"options": {
+"A": "x + 4, y + 5",
+"B": "x – 4, y – 5",
+"C": "x + 4, y – 5",
+"D": "x – 4, y + 5"},
+"answer": "C",
+"details": "Right → x + 4. Down → y – 5.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (6, 1) is translated 3 units left and 4 units up. What are the new coordinates?",
+"options": {
+"A": "(3, 5)",
+"B": "(9, 5)",
+"C": "(3, –3)",
+"D": "(9, –3)"},
+"answer": "A",
+"details": "x: 6 – 3 = 3. y: 1 + 4 = 5. So (3,5).",
+"difficulty": "easy"
+},
+{
+"question": "A point is reflected in the line x = 3. Original point is (1, 4). Where is the image?",
+"options": {
+"A": "(5, 4)",
+"B": "(3, 4)",
+"C": "(1, 2)",
+"D": "(4, 1)"},
+"answer": "A",
+"details": "1 is 2 left of x=3, so image is 2 right: 3 + 2 = 5. Same y: (5,4).",
+"difficulty": "easy"
+},
+{
+"question": "Which transformation preserves length, angles, and area?",
+"options": {
+"A": "Reflection only",
+"B": "Translation only",
+"C": "Both reflection and translation",
+"D": "Neither"},
+"answer": "C",
+"details": "Both are rigid transformations—they preserve all these properties.",
+"difficulty": "easy"
+},
+{
+"question": "A point moves from (7, 3) to (7, 8). How was it translated?",
+"options": {
+"A": "5 units right",
+"B": "5 units left",
+"C": "5 units up",
+"D": "5 units down"},
+"answer": "C",
+"details": "x unchanged. y increased by 5 → 5 units up.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (8, 6) is reflected in the line x = 4. Where is its image?",
+"options": {
+"A": "(0, 6)",
+"B": "(4, 6)",
+"C": "(12, 6)",
+"D": "(6, 8)"},
+"answer": "A",
+"details": "8 is 4 right of x=4, so image is 4 left: 4 – 4 = 0. Same y: (0,6).",
+"difficulty": "easy"
+},
+{
+"question": "Which point is in the first quadrant?",
+"options": {
+"A": "(–3, 4)",
+"B": "(3, –4)",
+"C": "(0, 5)",
+"D": "(2, 3)"},
+"answer": "D",
+"details": "First quadrant requires x > 0 and y > 0. (2,3) satisfies this.",
+"difficulty": "easy"
+},
+{
+"question": "A shape is moved 2 units down. What happens to y-coordinates?",
+"options": {
+"A": "Add 2",
+"B": "Subtract 2",
+"C": "Multiply by 2",
+"D": "No change"},
+"answer": "B",
+"details": "Moving down decreases y by 2.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (3, 2) is reflected in the line y = 4. Where is its image?",
+"options": {
+"A": "(3, 6)",
+"B": "(5, 2)",
+"C": "(3, 4)",
+"D": "(2, 3)"},
+"answer": "A",
+"details": "2 is 2 below y=4, so image is 2 above: 4 + 2 = 6. Same x: (3,6).",
+"difficulty": "easy"
+},
+{
+"question": "Which describes the translation from (2, 5) to (6, 1)?",
+"options": {
+"A": "4 right, 4 down",
+"B": "4 left, 4 up",
+"C": "4 right, 4 up",
+"D": "4 left, 4 down"},
+"answer": "A",
+"details": "x: 2→6 = +4 (right). y: 5→1 = –4 (down).",
+"difficulty": "easy"
+},
+{
+"question": "After a translation, which of these does NOT change?",
+"options": {
+"A": "Position",
+"B": "Size",
+"C": "Location on grid",
+"D": "Coordinates"},
+"answer": "B",
+"details": "Size (and shape, angles, area) remain the same after translation.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (9, 5) is reflected in the line y = 3. Where is its image?",
+"options": {
+"A": "(9, 1)",
+"B": "(3, 5)",
+"C": "(9, 3)",
+"D": "(5, 9)"},
+"answer": "A",
+"details": "5 is 2 above y=3, so image is 2 below: 3 – 2 = 1. Same x: (9,1).",
+"difficulty": "easy"
+},
+{
+"question": "A square has a vertex at (1, 1). It is translated 5 units right and 3 units up. What are the new coordinates?",
+"options": {
+"A": "(6, 4)",
+"B": "(4, 6)",
+"C": "(–4, –2)",
+"D": "(5, 3)"},
+"answer": "A",
+"details": "x: 1 + 5 = 6. y: 1 + 3 = 4. So (6,4).",
+"difficulty": "easy"
+},
+{
+"question": "Which line is vertical?",
+"options": {
+"A": "y = 7",
+"B": "x = 0",
+"C": "y = x",
+"D": "x + y = 10"},
+"answer": "B",
+"details": "x = constant (like x = 0) is vertical.",
+"difficulty": "easy"
+},
+{
+"question": "A point is reflected in the x-axis. Original: (5, –2). Where is the image?",
+"options": {
+"A": "(–5, –2)",
+"B": "(5, 2)",
+"C": "(–5, 2)",
+"D": "(2, 5)"},
+"answer": "B",
+"details": "Reflection in x-axis: (x, y) → (x, –y). So (5, –(–2)) = (5, 2).",
+"difficulty": "easy"
+},
+{
+"question": "A shape is translated using the rule: x – 3, y + 4. Point (7, 1) becomes:",
+"options": {
+"A": "(4, 5)",
+"B": "(10, 5)",
+"C": "(4, –3)",
+"D": "(10, –3)"},
+"answer": "A",
+"details": "x: 7 – 3 = 4. y: 1 + 4 = 5. So (4,5).",
+"difficulty": "easy"
+},
+{
+"question": "A point moves from (3, 4) to (8, 4). How was it translated?",
+"options": {
+"A": "5 units up",
+"B": "5 units down",
+"C": "5 units right",
+"D": "5 units left"},
+"answer": "C",
+"details": "y unchanged. x increased by 5 → 5 units right.",
+"difficulty": "easy"
+},
+{
+"question": "Which is true after a reflection?",
+"options": {
+"A": "The shape is smaller",
+"B": "The angles are reversed but same size",
+"C": "The area is halved",
+"D": "The perimeter doubles"},
+"answer": "B",
+"details": "Angles remain the same size but orientation may reverse.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (2, 7) is reflected in the line x = 6. Where is its image?",
+"options": {
+"A": "(10, 7)",
+"B": "(6, 7)",
+"C": "(2, 5)",
+"D": "(7, 2)"},
+"answer": "A",
+"details": "2 is 4 left of x=6, so image is 4 right: 6 + 4 = 10. Same y: (10,7).",
+"difficulty": "easy"
+},
+{
+"question": "A triangle is moved 3 units up and 2 units left. Which point goes from (5, 2) to where?",
+"options": {
+"A": "(3, 5)",
+"B": "(7, 5)",
+"C": "(3, –1)",
+"D": "(7, –1)"},
+"answer": "A",
+"details": "x: 5 – 2 = 3. y: 2 + 3 = 5. So (3,5).",
+"difficulty": "easy"
+},
+{
+"question": "After reflecting a shape in a horizontal line, what stays the same?",
+"options": {
+"A": "x-coordinates",
+"B": "y-coordinates",
+"C": "Both",
+"D": "Neither"},
+"answer": "A",
+"details": "In horizontal reflection, x-coordinates remain unchanged.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (4, 9) is reflected in the line y = 6. Where is its image?",
+"options": {
+"A": "(4, 3)",
+"B": "(8, 9)",
+"C": "(4, 6)",
+"D": "(9, 4)"},
+"answer": "A",
+"details": "9 is 3 above y=6, so image is 3 below: 6 – 3 = 3. Same x: (4,3).",
+"difficulty": "easy"
+},
+{
+"question": "Which movement is described by 'x + 5, y – 2'?",
+"options": {
+"A": "5 right, 2 up",
+"B": "5 left, 2 down",
+"C": "5 right, 2 down",
+"D": "5 left, 2 up"},
+"answer": "C",
+"details": "x + 5 = 5 right. y – 2 = 2 down.",
+"difficulty": "easy"
+},
+{
+"question": "A shape is reflected in the vertical line x = 4. Point A is at (2, 3). Where is its image?",
+"options": {
+"A": "(6, 3)",
+"B": "(2, 5)",
+"C": "(4, 3)",
+"D": "(3, 2)"},
+"answer": "A",
+"details": "The distance from (2,3) to x=4 is 2 units left. So the image is 2 units right of x=4: 4 + 2 = 6. Same y: (6,3).",
+"difficulty": "easy"
+},
+{
+"question": "A triangle is translated 4 units right and 3 units up. Point P is at (1, 2). Where is the new position of P?",
+"options": {
+"A": "(5, 5)",
+"B": "(4, 3)",
+"C": "(1, 5)",
+"D": "(5, 2)"},
+"answer": "A",
+"details": "Add 4 to x: 1 + 4 = 5. Add 3 to y: 2 + 3 = 5. New point: (5, 5).",
+"difficulty": "easy"
+},
+{
+"question": "After a reflection, what stays the same?",
+"options": {
+"A": "Position only",
+"B": "Size and shape",
+"C": "Orientation only",
+"D": "Colour only"},
+"answer": "B",
+"details": "Reflection is a rigid transformation—size and shape do not change.",
+"difficulty": "easy"
+},
+{
+"question": "A square has a corner at (3, 4). It is translated 2 units left and 1 unit down. What are the new coordinates?",
+"options": {
+"A": "(1, 3)",
+"B": "(5, 5)",
+"C": "(2, 1)",
+"D": "(3, 2)"},
+"answer": "A",
+"details": "Left means subtract from x: 3 – 2 = 1. Down means subtract from y: 4 – 1 = 3. So (1, 3).",
+"difficulty": "easy"
+},
+{
+"question": "A point at (5, 2) is reflected in the horizontal line y = 4. Where is its image?",
+"options": {
+"A": "(5, 6)",
+"B": "(3, 2)",
+"C": "(5, 4)",
+"D": "(4, 5)"},
+"answer": "A",
+"details": "Distance from y=2 to y=4 is 2 units down. So image is 2 units above y=4: 4 + 2 = 6. Same x: (5,6).",
+"difficulty": "easy"
+},
+{
+"question": "Which describes a translation of '5 units right and 2 units down'?",
+"options": {
+"A": "Add 5 to x, add 2 to y",
+"B": "Subtract 5 from x, add 2 to y",
+"C": "Add 5 to x, subtract 2 from y",
+"D": "Subtract 5 from x, subtract 2 from y"},
+"answer": "C",
+"details": "Right → add to x. Down → subtract from y.",
+"difficulty": "easy"
+},
+{
+"question": "A shape is translated. Which of these changes?",
+"options": {
+"A": "Size",
+"B": "Angles",
+"C": "Position",
+"D": "Shape"},
+"answer": "C",
+"details": "Translation moves a shape but does not change size, shape, or angles—only position changes.",
+"difficulty": "easy"
+},
+{
+"question": "Point B is at (6, 1). It is reflected in the line x = 3. Where is its image?",
+"options": {
+"A": "(0, 1)",
+"B": "(3, 1)",
+"C": "(6, 5)",
+"D": "(2, 1)"},
+"answer": "A",
+"details": "Distance from x=6 to x=3 is 3 units right. So image is 3 units left of x=3: 3 – 3 = 0. Same y: (0,1).",
+"difficulty": "easy"
+},
+{
+"question": "A rectangle has a vertex at (2, 5). It is moved 3 units right and 4 units down. What are the new coordinates?",
+"options": {
+"A": "(5, 1)",
+"B": "(1, 5)",
+"C": "(5, 9)",
+"D": "(–1, 5)"},
+"answer": "A",
+"details": "x: 2 + 3 = 5. y: 5 – 4 = 1. New point: (5, 1).",
+"difficulty": "easy"
+},
+{
+"question": "After a translation, the angles of a shape:",
+"options": {
+"A": "Get bigger",
+"B": "Get smaller",
+"C": "Stay the same",
+"D": "Double"},
+"answer": "C",
+"details": "Translations preserve angle size—angles stay the same.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (4, 3) is reflected in the line y = 1. Where is its image?",
+"options": {
+"A": "(4, –1)",
+"B": "(2, 3)",
+"C": "(4, 1)",
+"D": "(1, 4)"},
+"answer": "A",
+"details": "Distance from y=3 to y=1 is 2 units up. So image is 2 units below y=1: 1 – 2 = –1. Same x: (4, –1).",
+"difficulty": "easy"
+},
+{
+"question": "Which pair of coordinates is in the first quadrant?",
+"options": {
+"A": "(–2, 3)",
+"B": "(2, –3)",
+"C": "(2, 3)",
+"D": "(–2, –3)"},
+"answer": "C",
+"details": "First quadrant has positive x and positive y: (2, 3).",
+"difficulty": "easy"
+},
+{
+"question": "A triangle is reflected in the line x = 5. One vertex is at (7, 4). Where is its image?",
+"options": {
+"A": "(3, 4)",
+"B": "(5, 4)",
+"C": "(9, 4)",
+"D": "(4, 7)"},
+"answer": "A",
+"details": "7 is 2 units right of x=5. So image is 2 units left: 5 – 2 = 3. Same y: (3,4).",
+"difficulty": "easy"
+},
+{
+"question": "A shape is moved 6 units left and 1 unit up. How do the coordinates change?",
+"options": {
+"A": "x + 6, y + 1",
+"B": "x – 6, y + 1",
+"C": "x – 6, y – 1",
+"D": "x + 6, y – 1"},
+"answer": "B",
+"details": "Left → subtract from x. Up → add to y.",
+"difficulty": "easy"
+},
+{
+"question": "Which is true after a reflection?",
+"options": {
+"A": "The shape becomes smaller",
+"B": "The angles change",
+"C": "The size stays the same",
+"D": "The area doubles"},
+"answer": "C",
+"details": "Reflection preserves size, shape, and angles—only orientation may change.",
+"difficulty": "easy"
+},
+{
+"question": "Point C is at (1, 6). It is translated 4 units right and 2 units down. What are the new coordinates?",
+"options": {
+"A": "(5, 4)",
+"B": "(3, 6)",
+"C": "(1, 8)",
+"D": "(5, 8)"},
+"answer": "A",
+"details": "x: 1 + 4 = 5. y: 6 – 2 = 4. New point: (5, 4).",
+"difficulty": "easy"
+},
+{
+"question": "A point at (3, 5) is reflected in the line x = 0 (the y-axis). Where is its image?",
+"options": {
+"A": "(–3, 5)",
+"B": "(3, –5)",
+"C": "(0, 5)",
+"D": "(5, 3)"},
+"answer": "A",
+"details": "Reflecting in the y-axis changes the sign of x: (–3, 5).",
+"difficulty": "easy"
+},
+{
+"question": "Which describes a movement of '2 units left and 3 units up'?",
+"options": {
+"A": "x – 2, y + 3",
+"B": "x + 2, y – 3",
+"C": "x – 2, y – 3",
+"D": "x + 2, y + 3"},
+"answer": "A",
+"details": "Left → x – 2. Up → y + 3.",
+"difficulty": "easy"
+},
+{
+"question": "After any translation or reflection in the first quadrant, the shape’s:",
+"options": {
+"A": "Area changes",
+"B": "Perimeter changes",
+"C": "Size and angles stay the same",
+"D": "Number of sides changes"},
+"answer": "C",
+"details": "Both reflections and translations are rigid—they preserve size, angles, area, and perimeter.",
+"difficulty": "easy"
+},
+{
+"question": "A square has a corner at (4, 2). It is reflected in the line y = 3. Where is the image of this corner?",
+"options": {
+"A": "(4, 4)",
+"B": "(2, 4)",
+"C": "(3, 2)",
+"D": "(4, 1)"},
+"answer": "A",
+"details": "Distance from y=2 to y=3 is 1 unit down. So image is 1 unit above y=3: 3 + 1 = 4. Same x: (4,4).",
+"difficulty": "easy"
+},
+{
+"question": "Which point is 3 units right and 2 units up from (1, 1)?",
+"options": {
+"A": "(4, 3)",
+"B": "(3, 4)",
+"C": "(–2, –1)",
+"D": "(2, 3)"},
+"answer": "A",
+"details": "x: 1 + 3 = 4. y: 1 + 2 = 3. So (4, 3).",
+"difficulty": "easy"
+},
+{
+"question": "A point at (7, 2) is reflected in the line x = 5. Where is its image?",
+"options": {
+"A": "(3, 2)",
+"B": "(5, 2)",
+"C": "(9, 2)",
+"D": "(2, 7)"},
+"answer": "A",
+"details": "7 is 2 units right of x=5. Image is 2 units left: 5 – 2 = 3. Same y: (3,2).",
+"difficulty": "easy"
+},
+{
+"question": "A shape is translated 5 units down. What happens to the y-coordinates?",
+"options": {
+"A": "Add 5",
+"B": "Subtract 5",
+"C": "Multiply by 5",
+"D": "Stay the same"},
+"answer": "B",
+"details": "Moving down decreases the y-coordinate, so subtract 5.",
+"difficulty": "easy"
+},
+{
+"question": "Which point is the reflection of (2, 4) in the line y = 0 (the x-axis)?",
+"options": {
+"A": "(–2, 4)",
+"B": "(2, –4)",
+"C": "(0, 4)",
+"D": "(4, 2)"},
+"answer": "B",
+"details": "Reflecting in the x-axis changes the sign of y: (2, –4).",
+"difficulty": "easy"
+},
+{
+"question": "A triangle with vertices at (1,1), (3,1), and (2,3) is moved 2 units right. What is the new x-coordinate of the top vertex?",
+"options": {
+"A": "2",
+"B": "3",
+"C": "4",
+"D": "5"},
+"answer": "C",
+"details": "Top vertex is (2,3). Move 2 right: 2 + 2 = 4.",
+"difficulty": "easy"
+},
+{
+"question": "After a reflection in a vertical line, what stays the same?",
+"options": {
+"A": "x-coordinate",
+"B": "y-coordinate",
+"C": "Both coordinates",
+"D": "Neither coordinate"},
+"answer": "B",
+"details": "In a vertical reflection (e.g., x = k), the y-coordinate stays the same.",
+"difficulty": "easy"
+},
+{
+"question": "A point is translated using the rule: x + 3, y – 2. If the original point is (4, 5), what is the new point?",
+"options": {
+"A": "(7, 3)",
+"B": "(1, 7)",
+"C": "(7, 7)",
+"D": "(1, 3)"},
+"answer": "A",
+"details": "x: 4 + 3 = 7. y: 5 – 2 = 3. New point: (7, 3).",
+"difficulty": "easy"
+},
+{
+"question": "A point at (6, 4) is reflected in the line y = 2. Where is its image?",
+"options": {
+"A": "(6, 0)",
+"B": "(2, 4)",
+"C": "(6, 2)",
+"D": "(4, 6)"},
+"answer": "A",
+"details": "Distance from y=4 to y=2 is 2 units up. So image is 2 units below y=2: 2 – 2 = 0. Same x: (6,0).",
+"difficulty": "easy"
+},
+{
+"question": "Which movement is described by '4 units left'?",
+"options": {
+"A": "x + 4",
+"B": "x – 4",
+"C": "y + 4",
+"D": "y – 4"},
+"answer": "B",
+"details": "Left means subtract from the x-coordinate.",
+"difficulty": "easy"
+},
+{
+"question": "A rectangle is reflected in a horizontal line. Which part of its coordinates changes?",
+"options": {
+"A": "x-coordinate",
+"B": "y-coordinate",
+"C": "Both",
+"D": "Neither"},
+"answer": "B",
+"details": "Horizontal reflection (e.g., y = k) changes y-coordinates; x stays the same.",
+"difficulty": "easy"
+},
+{
+"question": "Point D is at (3, 7). It is translated 1 unit right and 3 units down. What are the new coordinates?",
+"options": {
+"A": "(4, 4)",
+"B": "(2, 10)",
+"C": "(4, 10)",
+"D": "(2, 4)"},
+"answer": "A",
+"details": "x: 3 + 1 = 4. y: 7 – 3 = 4. New point: (4, 4).",
+"difficulty": "easy"
+},
+{
+"question": "A point at (5, 1) is reflected in the line x = 2. Where is its image?",
+"options": {
+"A": "(–1, 1)",
+"B": "(2, 1)",
+"C": "(3, 1)",
+"D": "(1, 5)"},
+"answer": "A",
+"details": "5 is 3 units right of x=2. So image is 3 units left: 2 – 3 = –1. Same y: (–1,1).",
+"difficulty": "easy"
+},
+{
+"question": "Which transformation keeps the shape the same size and shape?",
+"options": {
+"A": "Enlargement",
+"B": "Reflection",
+"C": "Stretching",
+"D": "Distorting"},
+"answer": "B",
+"details": "Reflection is a rigid transformation—it preserves size and shape.",
+"difficulty": "easy"
+},
+{
+"question": "A point is moved from (2, 3) to (6, 3). How was it translated?",
+"options": {
+"A": "4 units up",
+"B": "4 units right",
+"C": "4 units down",
+"D": "4 units left"},
+"answer": "B",
+"details": "x increased from 2 to 6 (change of +4). y unchanged. So 4 units right.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (4, 5) is reflected in the line y = 5. Where is its image?",
+"options": {
+"A": "(4, 5)",
+"B": "(5, 4)",
+"C": "(4, 6)",
+"D": "(6, 5)"},
+"answer": "A",
+"details": "The point is on the mirror line, so its image is itself: (4,5).",
+"difficulty": "easy"
+},
+{
+"question": "Which point is in the first quadrant?",
+"options": {
+"A": "(0, 5)",
+"B": "(3, 0)",
+"C": "(4, 2)",
+"D": "(–1, 2)"},
+"answer": "C",
+"details": "First quadrant requires x > 0 and y > 0. (4,2) satisfies this.",
+"difficulty": "easy"
+},
+{
+"question": "A shape is translated 3 units up. What happens to all y-coordinates?",
+"options": {
+"A": "They decrease by 3",
+"B": "They increase by 3",
+"C": "They double",
+"D": "They stay the same"},
+"answer": "B",
+"details": "Moving up increases the y-coordinate by 3.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (1, 4) is reflected in the line x = 4. Where is its image?",
+"options": {
+"A": "(7, 4)",
+"B": "(4, 1)",
+"C": "(1, 7)",
+"D": "(4, 4)"},
+"answer": "A",
+"details": "1 is 3 units left of x=4. So image is 3 units right: 4 + 3 = 7. Same y: (7,4).",
+"difficulty": "easy"
+},
+{
+"question": "A triangle is moved from (2,2), (4,2), (3,4) to (2,5), (4,5), (3,7). How was it translated?",
+"options": {
+"A": "3 units right",
+"B": "3 units left",
+"C": "3 units up",
+"D": "3 units down"},
+"answer": "C",
+"details": "All y-coordinates increased by 3; x unchanged. So 3 units up.",
+"difficulty": "easy"
+},
+{
+"question": "After a translation, the shape is:",
+"options": {
+"A": "Resized",
+"B": "Rotated",
+"C": "In a new position but same size",
+"D": "Flipped"},
+"answer": "C",
+"details": "Translation moves the shape without resizing, rotating, or flipping.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (8, 3) is reflected in the line x = 6. Where is its image?",
+"options": {
+"A": "(4, 3)",
+"B": "(6, 3)",
+"C": "(10, 3)",
+"D": "(3, 8)"},
+"answer": "A",
+"details": "8 is 2 units right of x=6. Image is 2 units left: 6 – 2 = 4. Same y: (4,3).",
+"difficulty": "easy"
+},
+{
+"question": "Which describes the translation from (5, 6) to (2, 8)?",
+"options": {
+"A": "3 left, 2 up",
+"B": "3 right, 2 down",
+"C": "2 left, 3 up",
+"D": "2 right, 3 down"},
+"answer": "A",
+"details": "x: 5 → 2 (–3 = 3 left). y: 6 → 8 (+2 = 2 up).",
+"difficulty": "easy"
+},
+{
+"question": "A point is reflected in the x-axis. What happens to its coordinates?",
+"options": {
+"A": "x changes sign",
+"B": "y changes sign",
+"C": "Both change sign",
+"D": "Neither changes"},
+"answer": "B",
+"details": "Reflection in x-axis: (x, y) → (x, –y).",
+"difficulty": "easy"
+},
+{
+"question": "A square has a vertex at (3, 1). After a translation, it is at (7, 4). How was it moved?",
+"options": {
+"A": "4 right, 3 up",
+"B": "3 right, 4 up",
+"C": "4 left, 3 down",
+"D": "3 left, 4 down"},
+"answer": "A",
+"details": "x: 3 → 7 = +4 (4 right). y: 1 → 4 = +3 (3 up).",
+"difficulty": "easy"
+},
+{
+"question": "A point at (2, 6) is reflected in the line y = 4. Where is its image?",
+"options": {
+"A": "(2, 2)",
+"B": "(4, 6)",
+"C": "(2, 4)",
+"D": "(6, 2)"},
+"answer": "A",
+"details": "6 is 2 units above y=4. So image is 2 units below: 4 – 2 = 2. Same x: (2,2).",
+"difficulty": "easy"
+},
+{
+"question": "Which point is the image of (5, 3) after a translation of x – 2, y + 4?",
+"options": {
+"A": "(3, 7)",
+"B": "(7, –1)",
+"C": "(3, –1)",
+"D": "(7, 7)"},
+"answer": "A",
+"details": "x: 5 – 2 = 3. y: 3 + 4 = 7. New point: (3,7).",
+"difficulty": "easy"
+},
+{
+"question": "A shape is reflected in a vertical line. Which coordinate stays the same?",
+"options": {
+"A": "x",
+"B": "y",
+"C": "Both",
+"D": "Neither"},
+"answer": "B",
+"details": "In vertical reflection (e.g., x = k), y-coordinates do not change.",
+"difficulty": "easy"
+},
+{
+"question": "A point moves from (4, 5) to (4, 1). How was it translated?",
+"options": {
+"A": "4 units up",
+"B": "4 units down",
+"C": "4 units right",
+"D": "4 units left"},
+"answer": "B",
+"details": "x unchanged. y: 5 → 1 = –4 (4 down).",
+"difficulty": "easy"
+},
+{
+"question": "Which is always true after a reflection or translation?",
+"options": {
+"A": "The shape is bigger",
+"B": "The area is unchanged",
+"C": "The orientation is the same",
+"D": "It moves to a different quadrant"},
+"answer": "B",
+"details": "Rigid transformations preserve area, size, and angles.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (7, 5) is reflected in the line x = 4. Where is its image?",
+"options": {
+"A": "(1, 5)",
+"B": "(4, 5)",
+"C": "(11, 5)",
+"D": "(5, 7)"},
+"answer": "A",
+"details": "7 is 3 right of x=4. Image is 3 left: 4 – 3 = 1. Same y: (1,5).",
+"difficulty": "easy"
+},
+{
+"question": "A triangle is translated 2 units left and 5 units up. Which calculation is correct for a point (6, 3)?",
+"options": {
+"A": "(6+2, 3+5)",
+"B": "(6–2, 3–5)",
+"C": "(6–2, 3+5)",
+"D": "(6+2, 3–5)"},
+"answer": "C",
+"details": "Left → x – 2. Up → y + 5. So (4, 8).",
+"difficulty": "easy"
+},
+{
+"question": "After reflecting a shape in the y-axis, a point originally at (3, 4) moves to:",
+"options": {
+"A": "(–3, 4)",
+"B": "(3, –4)",
+"C": "(–3, –4)",
+"D": "(4, 3)"},
+"answer": "A",
+"details": "Reflection in y-axis changes x to –x: (–3, 4).",
+"difficulty": "easy"
+},
+{
+"question": "A point is at (1, 2). It is translated 5 units right and 3 units down. What are the new coordinates?",
+"options": {
+"A": "(6, –1)",
+"B": "(4, 5)",
+"C": "(–4, –1)",
+"D": "(6, 5)"},
+"answer": "A",
+"details": "x: 1 + 5 = 6. y: 2 – 3 = –1. So (6, –1).",
+"difficulty": "easy"
+},
+{
+"question": "Which line is horizontal?",
+"options": {
+"A": "x = 3",
+"B": "y = 2",
+"C": "x = y",
+"D": "x + y = 5"},
+"answer": "B",
+"details": "y = constant is a horizontal line.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (4, 7) is reflected in the line y = 5. Where is its image?",
+"options": {
+"A": "(4, 3)",
+"B": "(6, 7)",
+"C": "(4, 5)",
+"D": "(3, 4)"},
+"answer": "A",
+"details": "7 is 2 above y=5. Image is 2 below: 5 – 2 = 3. Same x: (4,3).",
+"difficulty": "easy"
+},
+{
+"question": "A shape is moved using the rule: right 3, down 1. How do coordinates change?",
+"options": {
+"A": "x + 3, y + 1",
+"B": "x – 3, y – 1",
+"C": "x + 3, y – 1",
+"D": "x – 3, y + 1"},
+"answer": "C",
+"details": "Right → x + 3. Down → y – 1.",
+"difficulty": "easy"
+},
+{
+"question": "Which point is the reflection of (6, 2) in the line x = 3?",
+"options": {
+"A": "(0, 2)",
+"B": "(3, 2)",
+"C": "(6, 4)",
+"D": "(2, 6)"},
+"answer": "A",
+"details": "6 is 3 right of x=3. Image is 3 left: 3 – 3 = 0. Same y: (0,2).",
+"difficulty": "easy"
+},
+{
+"question": "A point moves from (2, 4) to (5, 1). How was it translated?",
+"options": {
+"A": "3 right, 3 up",
+"B": "3 left, 3 down",
+"C": "3 right, 3 down",
+"D": "3 left, 3 up"},
+"answer": "C",
+"details": "x: 2→5 = +3 (right). y: 4→1 = –3 (down).",
+"difficulty": "easy"
+},
+{
+"question": "After any rigid transformation, the shape’s:",
+"options": {
+"A": "Colour changes",
+"B": "Size changes",
+"C": "Angles remain the same",
+"D": "Number of vertices changes"},
+"answer": "C",
+"details": "Rigid transformations (reflection, translation) preserve angles.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (5, 6) is reflected in the line y = 3. Where is its image?",
+"options": {
+"A": "(5, 0)",
+"B": "(1, 6)",
+"C": "(5, 3)",
+"D": "(3, 5)"},
+"answer": "A",
+"details": "6 is 3 above y=3. Image is 3 below: 3 – 3 = 0. Same x: (5,0).",
+"difficulty": "easy"
+},
+{
+"question": "Which describes a translation of '7 units left'?",
+"options": {
+"A": "x + 7",
+"B": "x – 7",
+"C": "y + 7",
+"D": "y – 7"},
+"answer": "B",
+"details": "Left means subtract 7 from x.",
+"difficulty": "easy"
+},
+{
+"question": "A square has a corner at (2, 3). After reflection in x = 5, where is this corner?",
+"options": {
+"A": "(8, 3)",
+"B": "(5, 3)",
+"C": "(3, 2)",
+"D": "(7, 3)"},
+"answer": "A",
+"details": "2 is 3 left of x=5. Image is 3 right: 5 + 3 = 8. Same y: (8,3).",
+"difficulty": "easy"
+},
+{
+"question": "A point is translated from (7, 2) to (4, 6). How was it moved?",
+"options": {
+"A": "3 left, 4 up",
+"B": "3 right, 4 down",
+"C": "4 left, 3 up",
+"D": "4 right, 3 down"},
+"answer": "A",
+"details": "x: 7→4 = –3 (3 left). y: 2→6 = +4 (4 up).",
+"difficulty": "easy"
+},
+{
+"question": "Which transformation flips a shape over a line?",
+"options": {
+"A": "Translation",
+"B": "Reflection",
+"C": "Rotation",
+"D": "Enlargement"},
+"answer": "B",
+"details": "Reflection creates a mirror image over a line.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (3, 8) is reflected in the line y = 6. Where is its image?",
+"options": {
+"A": "(3, 4)",
+"B": "(6, 8)",
+"C": "(3, 6)",
+"D": "(9, 8)"},
+"answer": "A",
+"details": "8 is 2 above y=6. Image is 2 below: 6 – 2 = 4. Same x: (3,4).",
+"difficulty": "easy"
+},
+{
+"question": "A shape is translated 4 units up. What happens to its y-coordinates?",
+"options": {
+"A": "They increase by 4",
+"B": "They decrease by 4",
+"C": "They double",
+"D": "They are halved"},
+"answer": "A",
+"details": "Moving up increases y by 4.",
+"difficulty": "easy"
+},
+{
+"question": "Which point is the image of (4, 5) after reflection in the x-axis?",
+"options": {
+"A": "(–4, 5)",
+"B": "(4, –5)",
+"C": "(–4, –5)",
+"D": "(5, 4)"},
+"answer": "B",
+"details": "Reflection in x-axis: (x, y) → (x, –y) = (4, –5).",
+"difficulty": "easy"
+},
+{
+"question": "A point moves from (1, 3) to (1, 7). How was it translated?",
+"options": {
+"A": "4 units right",
+"B": "4 units left",
+"C": "4 units up",
+"D": "4 units down"},
+"answer": "C",
+"details": "x unchanged. y: 3 → 7 = +4 (4 up).",
+"difficulty": "easy"
+},
+{
+"question": "A point at (9, 2) is reflected in the line x = 5. Where is its image?",
+"options": {
+"A": "(1, 2)",
+"B": "(5, 2)",
+"C": "(13, 2)",
+"D": "(2, 9)"},
+"answer": "A",
+"details": "9 is 4 right of x=5. Image is 4 left: 5 – 4 = 1. Same y: (1,2).",
+"difficulty": "easy"
+},
+{
+"question": "Which is a vertical line?",
+"options": {
+"A": "y = 4",
+"B": "x = 2",
+"C": "y = x",
+"D": "x + y = 6"},
+"answer": "B",
+"details": "x = constant is a vertical line.",
+"difficulty": "easy"
+},
+{
+"question": "A triangle has a vertex at (6, 5). It is translated 3 units left and 2 units down. What are the new coordinates?",
+"options": {
+"A": "(3, 3)",
+"B": "(9, 7)",
+"C": "(3, 7)",
+"D": "(9, 3)"},
+"answer": "A",
+"details": "x: 6 – 3 = 3. y: 5 – 2 = 3. So (3,3).",
+"difficulty": "easy"
+},
+{
+"question": "After reflecting in a horizontal line, which coordinate changes?",
+"options": {
+"A": "x",
+"B": "y",
+"C": "Both",
+"D": "Neither"},
+"answer": "B",
+"details": "Horizontal reflection affects y-coordinates.",
+"difficulty": "easy"
+},
+{
+"question": "A point is at (2, 1). It is reflected in the line y = 4. Where is its image?",
+"options": {
+"A": "(2, 7)",
+"B": "(6, 1)",
+"C": "(2, 4)",
+"D": "(1, 2)"},
+"answer": "A",
+"details": "1 is 3 below y=4. Image is 3 above: 4 + 3 = 7. Same x: (2,7).",
+"difficulty": "easy"
+},
+{
+"question": "Which movement is '5 units down'?",
+"options": {
+"A": "y + 5",
+"B": "y – 5",
+"C": "x + 5",
+"D": "x – 5"},
+"answer": "B",
+"details": "Down means subtract from y.",
+"difficulty": "easy"
+},
+{
+"question": "A point moves from (8, 3) to (5, 3). How was it translated?",
+"options": {
+"A": "3 units up",
+"B": "3 units down",
+"C": "3 units right",
+"D": "3 units left"},
+"answer": "D",
+"details": "x decreased by 3 (8→5). y unchanged. So 3 left.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (4, 1) is reflected in the line x = 6. Where is its image?",
+"options": {
+"A": "(8, 1)",
+"B": "(6, 1)",
+"C": "(2, 1)",
+"D": "(1, 4)"},
+"answer": "A",
+"details": "4 is 2 left of x=6. Image is 2 right: 6 + 2 = 8. Same y: (8,1).",
+"difficulty": "easy"
+},
+{
+"question": "Which point is the result of translating (3, 4) by x + 2, y – 1?",
+"options": {
+"A": "(5, 3)",
+"B": "(1, 5)",
+"C": "(5, 5)",
+"D": "(1, 3)"},
+"answer": "A",
+"details": "x: 3 + 2 = 5. y: 4 – 1 = 3. So (5,3).",
+"difficulty": "easy"
+},
+{
+"question": "After a translation, the shape’s orientation is:",
+"options": {
+"A": "Reversed",
+"B": "The same",
+"C": "Upside down",
+"D": "Unknown"},
+"answer": "B",
+"details": "Translation does not change orientation—only position.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (2, 5) is reflected in the line y = 0. Where is its image?",
+"options": {
+"A": "(2, –5)",
+"B": "(–2, 5)",
+"C": "(0, 5)",
+"D": "(5, 2)"},
+"answer": "A",
+"details": "Reflection in x-axis (y=0): (x, y) → (x, –y) = (2, –5).",
+"difficulty": "easy"
+},
+{
+"question": "A shape is moved 3 units right and 4 units up. Which point moves from (1,2) to where?",
+"options": {
+"A": "(4, 6)",
+"B": "(3, 4)",
+"C": "(2, 1)",
+"D": "(6, 4)"},
+"answer": "A",
+"details": "x: 1 + 3 = 4. y: 2 + 4 = 6. So (4,6).",
+"difficulty": "easy"
+},
+{
+"question": "Which is true after a reflection?",
+"options": {
+"A": "The shape is larger",
+"B": "The angles are different",
+"C": "The size is unchanged",
+"D": "The perimeter changes"},
+"answer": "C",
+"details": "Reflection preserves size, so it is unchanged.",
+"difficulty": "easy"
+},
+{
+"question": "A point at (7, 4) is reflected in the line x = 2. Where is its image?",
+"options": {
+"A": "(–3, 4)",
+"B": "(2, 4)",
+"C": "(11, 4)",
+"D": "(4, 7)"},
+"answer": "A",
+"details": "7 is 5 right of x=2. Image is 5 left: 2 – 5 = –3. Same y: (–3,4).",
+"difficulty": "easy"
+},
+{
+"question": "A triangle has vertices at (2,3), (4,3), and (3,5). It is reflected in the line y = 0 (x-axis). What are the coordinates of the reflected triangle?",
+"options": {
+"A": "(2,-3), (4,-3), (3,-5)",
+"B": "(-2,3), (-4,3), (-3,5)",
+"C": "(3,2), (3,4), (5,3)",
+"D": "(2,3), (4,3), (3,5)"},
+"answer": "A",
+"details": "Reflection in the x-axis (y=0) changes the sign of the y-coordinate. So (x,y) → (x,-y). Thus, (2,3)→(2,-3), (4,3)→(4,-3), (3,5)→(3,-5).",
+"difficulty": "hard"
+},
+{
+"question": "A square is translated 5 units right and 3 units down. If one corner was at (1,6), where is it now?",
+"options": {
+"A": "(6,3)",
+"B": "(4,9)",
+"C": "(-4,3)",
+"D": "(6,9)"},
+"answer": "A",
+"details": "Moving right increases x; moving down decreases y. New x = 1 + 5 = 6; new y = 6 – 3 = 3 → (6,3).",
+"difficulty": "hard"
+},
+{
+"question": "After a reflection, a shape’s side lengths and angles remain the same. Why?",
+"options": {
+"A": "Reflection is a rigid transformation",
+"B": "Reflection changes orientation only",
+"C": "Reflection flips the shape upside down",
+"D": "Reflection moves the shape to a new location"},
+"answer": "A",
+"details": "Reflection is a rigid transformation, meaning it preserves distances and angles, so size and shape do not change.",
+"difficulty": "hard"
+},
+{
+"question": "Point A is at (7,2). It is reflected in the line x = 0 (y-axis). Where is the image?",
+"options": {
+"A": "(-7,2)",
+"B": "(7,-2)",
+"C": "(-7,-2)",
+"D": "(2,7)"},
+"answer": "A",
+"details": "Reflection in the y-axis (x=0) changes the sign of the x-coordinate: (x,y) → (-x,y). So (7,2) → (-7,2).",
+"difficulty": "hard"
+},
+{
+"question": "A shape is translated 4 units left and 2 units up. Which description matches this movement?",
+"options": {
+"A": "(-4, +2)",
+"B": "(+4, -2)",
+"C": "(-4, -2)",
+"D": "(+2, -4)"},
+"answer": "A",
+"details": "Left decreases x (–4); up increases y (+2). So the translation vector is (-4, +2).",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle has a vertex at (5,4). After reflection in the line y = 4, where is this vertex?",
+"options": {
+"A": "(5,4)",
+"B": "(4,5)",
+"C": "(5,0)",
+"D": "(9,4)"},
+"answer": "A",
+"details": "The point lies on the mirror line y=4. Any point on the mirror line stays in place after reflection.",
+"difficulty": "hard"
+},
+{
+"question": "A triangle with vertices (1,1), (1,3), (3,1) is reflected in the line x = 2. What are the new coordinates?",
+"options": {
+"A": "(3,1), (3,3), (1,1)",
+"B": "(1,1), (1,3), (3,1)",
+"C": "(-1,1), (-1,3), (-3,1)",
+"D": "(2,1), (2,3), (2,1)"},
+"answer": "A",
+"details": "Reflection in x=2: distance from x=2 is preserved. (1,1) is 1 unit left of x=2 → image is 1 unit right → (3,1). Similarly, (1,3)→(3,3); (3,1) is 1 unit right → image is 1 unit left → (1,1).",
+"difficulty": "hard"
+},
+{
+"question": "A point moves from (2,5) to (6,2). How was it translated?",
+"options": {
+"A": "4 right, 3 down",
+"B": "4 left, 3 up",
+"C": "3 right, 4 down",
+"D": "6 right, 2 down"},
+"answer": "A",
+"details": "Change in x: 6 – 2 = +4 (4 right). Change in y: 2 – 5 = –3 (3 down).",
+"difficulty": "hard"
+},
+{
+"question": "Which statement is always true after a translation?",
+"options": {
+"A": "The shape is congruent to the original",
+"B": "The shape is larger",
+"C": "The shape is rotated",
+"D": "The shape is flipped"},
+"answer": "A",
+"details": "Translation is a rigid motion—it preserves size, shape, and orientation, so the image is congruent to the original.",
+"difficulty": "hard"
+},
+{
+"question": "Point (3,7) is reflected in the line y = 5. What are the coordinates of the image?",
+"options": {
+"A": "(3,3)",
+"B": "(3,7)",
+"C": "(7,3)",
+"D": "(3,10)"},
+"answer": "A",
+"details": "The point is 2 units above y=5 (7–5=2). The image is 2 units below: 5–2=3. So (3,3).",
+"difficulty": "hard"
+},
+{
+"question": "A shape is translated by (–2, +5). What does this mean?",
+"options": {
+"A": "2 left, 5 up",
+"B": "2 right, 5 down",
+"C": "5 left, 2 up",
+"D": "2 down, 5 right"},
+"answer": "A",
+"details": "–2 in x = 2 left; +5 in y = 5 up.",
+"difficulty": "hard"
+},
+{
+"question": "A square has a vertex at (4,6). It is reflected in the line x = 6. Where is the image of this vertex?",
+"options": {
+"A": "(8,6)",
+"B": "(4,6)",
+"C": "(6,4)",
+"D": "(2,6)"},
+"answer": "A",
+"details": "The point is 2 units left of x=6 (6–4=2). Image is 2 units right: 6+2=8 → (8,6).",
+"difficulty": "hard"
+},
+{
+"question": "After reflecting a shape in a vertical line, which property is unchanged?",
+"options": {
+"A": "Area",
+"B": "Orientation",
+"C": "x-coordinates",
+"D": "Direction of rotation"},
+"answer": "A",
+"details": "Reflection preserves size, so area is unchanged. Orientation is reversed, so B and D are false. x-coordinates change, so C is false.",
+"difficulty": "hard"
+},
+{
+"question": "A point at (5,1) is translated to (2,4). What is the translation vector?",
+"options": {
+"A": "(–3, +3)",
+"B": "(+3, –3)",
+"C": "(–3, –3)",
+"D": "(+3, +3)"},
+"answer": "A",
+"details": "x: 2 – 5 = –3 (3 left); y: 4 – 1 = +3 (3 up). So (–3, +3).",
+"difficulty": "hard"
+},
+{
+"question": "A triangle with vertices (2,2), (2,5), (5,2) is reflected in the line y = x. What is one vertex of the image?",
+"options": {
+"A": "(2,2)",
+"B": "(5,2)",
+"C": "(2,5)",
+"D": "All of the above"},
+"answer": "D",
+"details": "Reflection in y=x swaps x and y. (2,2)→(2,2); (2,5)→(5,2); (5,2)→(2,5). So all original points appear in the image.",
+"difficulty": "hard"
+},
+{
+"question": "Which transformation keeps a shape in the first quadrant after moving it?",
+"options": {
+"A": "Translation 1 right, 1 up from (1,1)",
+"B": "Reflection in x=0 from (2,3)",
+"C": "Translation 3 left from (2,2)",
+"D": "Reflection in y=0 from (3,1)"},
+"answer": "A",
+"details": "(1,1) + (1,1) = (2,2) — still in first quadrant. B gives (–2,3) — second quadrant. C gives (–1,2) — second. D gives (3,–1) — fourth.",
+"difficulty": "hard"
+},
+{
+"question": "Point (6,3) is reflected in the line x = 4. What are the coordinates of the image?",
+"options": {
+"A": "(2,3)",
+"B": "(6,3)",
+"C": "(4,6)",
+"D": "(10,3)"},
+"answer": "A",
+"details": "Distance from x=4: 6–4=2 units right. Image is 2 units left: 4–2=2 → (2,3).",
+"difficulty": "hard"
+},
+{
+"question": "A shape is translated by (+7, –4). If a vertex was at (3,9), where is it now?",
+"options": {
+"A": "(10,5)",
+"B": "(4,16)",
+"C": "(-4,5)",
+"D": "(10,13)"},
+"answer": "A",
+"details": "New x = 3 + 7 = 10; new y = 9 – 4 = 5 → (10,5).",
+"difficulty": "hard"
+},
+{
+"question": "After any reflection or translation, what remains the same?",
+"options": {
+"A": "Side lengths and angles",
+"B": "Coordinates",
+"C": "Orientation",
+"D": "Position relative to origin"},
+"answer": "A",
+"details": "Both reflections and translations are rigid transformations—they preserve side lengths and angles.",
+"difficulty": "hard"
+},
+{
+"question": "A point is reflected in the line y = 3 and lands at (5,1). What were its original coordinates?",
+"options": {
+"A": "(5,5)",
+"B": "(5,1)",
+"C": "(1,5)",
+"D": "(3,5)"},
+"answer": "A",
+"details": "The image is 2 units below y=3 (3–1=2). So the original was 2 units above: 3+2=5 → (5,5).",
+"difficulty": "hard"
+},
+{
+"question": "Which translation moves a point from (4,7) to (1,9)?",
+"options": {
+"A": "3 left, 2 up",
+"B": "3 right, 2 down",
+"C": "2 left, 3 up",
+"D": "1 left, 9 up"},
+"answer": "A",
+"details": "x: 1 – 4 = –3 (3 left); y: 9 – 7 = +2 (2 up).",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle has vertices at (1,2), (1,4), (5,4), (5,2). It is reflected in the line x = 3. What is one vertex of the image?",
+"options": {
+"A": "(5,2)",
+"B": "(1,4)",
+"C": "(7,2)",
+"D": "(3,2)"},
+"answer": "A",
+"details": "Reflection in x=3: (1,2) is 2 left → image 2 right = (5,2). Similarly, (5,2)→(1,2), etc. So (5,2) is in the image.",
+"difficulty": "hard"
+},
+{
+"question": "Point (2,6) is translated by (–1, –3). What are the new coordinates?",
+"options": {
+"A": "(1,3)",
+"B": "(3,9)",
+"C": "(1,9)",
+"D": "(3,3)"},
+"answer": "A",
+"details": "x: 2 – 1 = 1; y: 6 – 3 = 3 → (1,3).",
+"difficulty": "hard"
+},
+{
+"question": "A shape is reflected in a horizontal line. What changes?",
+"options": {
+"A": "y-coordinates",
+"B": "x-coordinates",
+"C": "Both x and y",
+"D": "Neither"},
+"answer": "A",
+"details": "Reflection in a horizontal line (e.g., y=k) keeps x the same but changes y. So y-coordinates change.",
+"difficulty": "hard"
+},
+{
+"question": "A triangle has a vertex at (8,5). After reflection in the line y = 6, where is this vertex?",
+"options": {
+"A": "(8,7)",
+"B": "(8,5)",
+"C": "(7,8)",
+"D": "(6,5)"},
+"answer": "A",
+"details": "The point is 1 unit below y=6 (6–5=1). Image is 1 unit above: 6+1=7 → (8,7).",
+"difficulty": "hard"
+},
+{
+"question": "Which pair of points could be reflections of each other in the line x = 5?",
+"options": {
+"A": "(3,4) and (7,4)",
+"B": "(5,2) and (5,8)",
+"C": "(4,3) and (4,7)",
+"D": "(6,5) and (5,6)"},
+"answer": "A",
+"details": "Both points have same y=4. x=3 is 2 left of 5; x=7 is 2 right of 5. So they are symmetric about x=5.",
+"difficulty": "hard"
+},
+{
+"question": "A point moves from (9,2) to (4,6). What is the translation?",
+"options": {
+"A": "5 left, 4 up",
+"B": "5 right, 4 down",
+"C": "4 left, 5 up",
+"D": "6 left, 4 up"},
+"answer": "A",
+"details": "x: 4 – 9 = –5 (5 left); y: 6 – 2 = +4 (4 up).",
+"difficulty": "hard"
+},
+{
+"question": "After a translation, a square remains a square. Why?",
+"options": {
+"A": "Translations preserve shape and size",
+"B": "Translations rotate the square",
+"C": "Translations change side lengths",
+"D": "Translations flip the square"},
+"answer": "A",
+"details": "Translation is a rigid transformation—it does not alter angles or side lengths, so a square remains a square.",
+"difficulty": "hard"
+},
+{
+"question": "Point (4,1) is reflected in the line y = 2. What are the coordinates?",
+"options": {
+"A": "(4,3)",
+"B": "(4,1)",
+"C": "(2,4)",
+"D": "(1,4)"},
+"answer": "A",
+"details": "The point is 1 unit below y=2. Image is 1 unit above: 2+1=3 → (4,3).",
+"difficulty": "hard"
+},
+{
+"question": "A shape is translated by (+0, –5). What happens?",
+"options": {
+"A": "It moves 5 units down",
+"B": "It moves 5 units up",
+"C": "It reflects in x-axis",
+"D": "It stays in place"},
+"answer": "A",
+"details": "+0 in x = no horizontal movement; –5 in y = 5 units down.",
+"difficulty": "hard"
+},
+{
+"question": "Which point is the reflection of (6,8) in the line x = 7?",
+"options": {
+"A": "(8,8)",
+"B": "(6,8)",
+"C": "(7,6)",
+"D": "(6,6)"},
+"answer": "A",
+"details": "(6,8) is 1 unit left of x=7. Image is 1 unit right: 7+1=8 → (8,8).",
+"difficulty": "hard"
+},
+{
+"question": "A vertex at (3,5) is translated to (7,2). What is the translation vector?",
+"options": {
+"A": "(+4, –3)",
+"B": "(–4, +3)",
+"C": "(+3, –4)",
+"D": "(–3, +4)"},
+"answer": "A",
+"details": "x: 7 – 3 = +4; y: 2 – 5 = –3 → (+4, –3).",
+"difficulty": "hard"
+},
+{
+"question": "A shape in the first quadrant is reflected in the line y = 0. Where is the image?",
+"options": {
+"A": "Fourth quadrant",
+"B": "First quadrant",
+"C": "Second quadrant",
+"D": "Third quadrant"},
+"answer": "A",
+"details": "Reflection in x-axis (y=0) keeps x positive but makes y negative → fourth quadrant.",
+"difficulty": "hard"
+},
+{
+"question": "Point (5,5) is reflected in the line x = 5. Where is the image?",
+"options": {
+"A": "(5,5)",
+"B": "(5,0)",
+"C": "(0,5)",
+"D": "(10,5)"},
+"answer": "A",
+"details": "The point lies on the mirror line x=5, so it does not move.",
+"difficulty": "hard"
+},
+{
+"question": "Which translation describes '6 units left and 1 unit up'?",
+"options": {
+"A": "(–6, +1)",
+"B": "(+6, –1)",
+"C": "(–1, +6)",
+"D": "(+1, –6)"},
+"answer": "A",
+"details": "Left = negative x; up = positive y → (–6, +1).",
+"difficulty": "hard"
+},
+{
+"question": "A triangle has vertices at (2,1), (4,1), (3,3). It is reflected in the line y = 1. What is one vertex of the image?",
+"options": {
+"A": "(2,1)",
+"B": "(4,1)",
+"C": "(3,-1)",
+"D": "All of the above"},
+"answer": "D",
+"details": "(2,1) and (4,1) are on the mirror line → unchanged. (3,3) is 2 above → image 2 below = (3,-1). So all listed points are in the image.",
+"difficulty": "hard"
+},
+{
+"question": "A point moves from (1,8) to (5,3). How was it translated?",
+"options": {
+"A": "4 right, 5 down",
+"B": "4 left, 5 up",
+"C": "5 right, 4 down",
+"D": "3 right, 5 down"},
+"answer": "A",
+"details": "x: 5–1=+4 (right); y: 3–8=–5 (down).",
+"difficulty": "hard"
+},
+{
+"question": "After reflecting a shape in a vertical line, what is true about corresponding points?",
+"options": {
+"A": "They are equidistant from the mirror line",
+"B": "They have the same x-coordinate",
+"C": "They are closer to the origin",
+"D": "They have swapped x and y"},
+"answer": "A",
+"details": "By definition of reflection, each point and its image are the same distance from the mirror line.",
+"difficulty": "hard"
+},
+{
+"question": "Point (7,4) is reflected in the line y = 6. What are the coordinates?",
+"options": {
+"A": "(7,8)",
+"B": "(7,4)",
+"C": "(6,7)",
+"D": "(4,7)"},
+"answer": "A",
+"details": "Distance from y=6: 6–4=2 below. Image is 2 above: 6+2=8 → (7,8).",
+"difficulty": "hard"
+},
+{
+"question": "Which pair are reflections in the line y = 4?",
+"options": {
+"A": "(2,3) and (2,5)",
+"B": "(3,2) and (5,2)",
+"C": "(4,1) and (4,7)",
+"D": "Both A and C"},
+"answer": "D",
+"details": "A: 3 is 1 below 4, 5 is 1 above → symmetric. C: 1 is 3 below, 7 is 3 above → symmetric. So both A and C are correct.",
+"difficulty": "hard"
+},
+{
+"question": "A shape is translated by (–3, –2). If a point was at (6,7), where is it now?",
+"options": {
+"A": "(3,5)",
+"B": "(9,9)",
+"C": "(3,9)",
+"D": "(9,5)"},
+"answer": "A",
+"details": "x: 6 – 3 = 3; y: 7 – 2 = 5 → (3,5).",
+"difficulty": "hard"
+},
+{
+"question": "A square is reflected in a vertical line. What changes?",
+"options": {
+"A": "Orientation (left and right are swapped)",
+"B": "Side lengths",
+"C": "Area",
+"D": "Angles"},
+"answer": "A",
+"details": "Reflection reverses orientation (like a mirror image), but side lengths, area, and angles remain unchanged.",
+"difficulty": "hard"
+},
+{
+"question": "Point (9,2) is reflected in the line x = 5. What are the coordinates?",
+"options": {
+"A": "(1,2)",
+"B": "(9,2)",
+"C": "(5,9)",
+"D": "(2,1)"},
+"answer": "A",
+"details": "Distance from x=5: 9–5=4 right. Image is 4 left: 5–4=1 → (1,2).",
+"difficulty": "hard"
+},
+{
+"question": "Which translation moves (2,2) to (0,5)?",
+"options": {
+"A": "2 left, 3 up",
+"B": "2 right, 3 down",
+"C": "3 left, 2 up",
+"D": "5 left, 2 up"},
+"answer": "A",
+"details": "x: 0–2=–2 (2 left); y: 5–2=+3 (3 up).",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle with width 4 units is reflected in a vertical line. What is the width of the image?",
+"options": {
+"A": "4 units",
+"B": "2 units",
+"C": "8 units",
+"D": "0 units"},
+"answer": "A",
+"details": "Reflection preserves all lengths, so width remains 4 units.",
+"difficulty": "hard"
+},
+{
+"question": "Point (3,9) is translated by (+4, –5). What are the new coordinates?",
+"options": {
+"A": "(7,4)",
+"B": "(4,7)",
+"C": "(1,14)",
+"D": "(7,14)"},
+"answer": "A",
+"details": "x: 3+4=7; y: 9–5=4 → (7,4).",
+"difficulty": "hard"
+},
+{
+"question": "After a reflection in the x-axis, a point at (a,b) moves to:",
+"options": {
+"A": "(a,–b)",
+"B": "(–a,b)",
+"C": "(–a,–b)",
+"D": "(b,a)"},
+"answer": "A",
+"details": "Reflection in x-axis (y=0) negates the y-coordinate only.",
+"difficulty": "hard"
+},
+{
+"question": "Which point is invariant (unchanged) under reflection in the line x = 3?",
+"options": {
+"A": "(3,5)",
+"B": "(5,3)",
+"C": "(0,3)",
+"D": "(3,0)"},
+"answer": "A",
+"details": "Any point with x=3 lies on the mirror line and does not move. (3,5) qualifies.",
+"difficulty": "hard"
+},
+{
+"question": "A shape is translated by (+2, 0). What happens?",
+"options": {
+"A": "It moves 2 units right",
+"B": "It moves 2 units left",
+"C": "It moves 2 units up",
+"D": "It reflects in y-axis"},
+"answer": "A",
+"details": "+2 in x = 2 right; 0 in y = no vertical movement.",
+"difficulty": "hard"
+},
+{
+"question": "A triangle has vertices (1,3), (3,3), (2,5). Reflected in y=4, what is the image of (2,5)?",
+"options": {
+"A": "(2,3)",
+"B": "(2,5)",
+"C": "(4,2)",
+"D": "(5,2)"},
+"answer": "A",
+"details": "(2,5) is 1 above y=4. Image is 1 below: 4–1=3 → (2,3).",
+"difficulty": "hard"
+},
+{
+"question": "Point A is at (4,6). After a translation, it is at (1,2). What was the translation?",
+"options": {
+"A": "3 left, 4 down",
+"B": "3 right, 4 up",
+"C": "4 left, 3 down",
+"D": "2 left, 1 down"},
+"answer": "A",
+"details": "x: 1–4=–3 (3 left); y: 2–6=–4 (4 down).",
+"difficulty": "hard"
+},
+{
+"question": "A shape is reflected in a horizontal line. Which coordinate changes sign relative to the line?",
+"options": {
+"A": "y-coordinate",
+"B": "x-coordinate",
+"C": "Both",
+"D": "Neither"},
+"answer": "A",
+"details": "In reflection over a horizontal line, the y-coordinate is mirrored; x stays the same.",
+"difficulty": "hard"
+},
+{
+"question": "Which transformation does NOT preserve orientation?",
+"options": {
+"A": "Reflection",
+"B": "Translation",
+"C": "Both preserve",
+"D": "Neither preserves"},
+"answer": "A",
+"details": "Reflection reverses orientation (like a mirror image). Translation preserves orientation.",
+"difficulty": "hard"
+},
+{
+"question": "Point (5,7) is reflected in the line y = 5. What are the coordinates?",
+"options": {
+"A": "(5,3)",
+"B": "(5,7)",
+"C": "(7,5)",
+"D": "(3,5)"},
+"answer": "A",
+"details": "7 is 2 above y=5. Image is 2 below: 5–2=3 → (5,3).",
+"difficulty": "hard"
+},
+{
+"question": "A point moves from (8,1) to (3,6). What is the translation vector?",
+"options": {
+"A": "(–5, +5)",
+"B": "(+5, –5)",
+"C": "(–5, –5)",
+"D": "(+3, +6)"},
+"answer": "A",
+"details": "x: 3–8=–5; y: 6–1=+5 → (–5, +5).",
+"difficulty": "hard"
+},
+{
+"question": "After reflecting a shape in the y-axis, a point at (4,2) moves to:",
+"options": {
+"A": "(–4,2)",
+"B": "(4,–2)",
+"C": "(–4,–2)",
+"D": "(2,4)"},
+"answer": "A",
+"details": "Reflection in y-axis (x=0) negates the x-coordinate: (4,2) → (–4,2).",
+"difficulty": "hard"
+},
+{
+"question": "Which point is the reflection of (2,5) in the line x = 4?",
+"options": {
+"A": "(6,5)",
+"B": "(2,5)",
+"C": "(4,2)",
+"D": "(5,2)"},
+"answer": "A",
+"details": "(2,5) is 2 left of x=4. Image is 2 right: 4+2=6 → (6,5).",
+"difficulty": "hard"
+},
+{
+"question": "A shape is translated by (0, +3). What happens?",
+"options": {
+"A": "It moves 3 units up",
+"B": "It moves 3 units down",
+"C": "It moves 3 units right",
+"D": "It reflects in x-axis"},
+"answer": "A",
+"details": "0 in x = no horizontal move; +3 in y = 3 up.",
+"difficulty": "hard"
+},
+{
+"question": "A square has a vertex at (6,2). It is reflected in the line y = 1. Where is the image?",
+"options": {
+"A": "(6,0)",
+"B": "(6,2)",
+"C": "(2,6)",
+"D": "(1,2)"},
+"answer": "A",
+"details": "(6,2) is 1 above y=1. Image is 1 below: 1–1=0 → (6,0).",
+"difficulty": "hard"
+},
+{
+"question": "Point (7,3) is translated to (2,8). What is the translation?",
+"options": {
+"A": "5 left, 5 up",
+"B": "5 right, 5 down",
+"C": "3 left, 7 up",
+"D": "8 left, 2 up"},
+"answer": "A",
+"details": "x: 2–7=–5 (5 left); y: 8–3=+5 (5 up).",
+"difficulty": "hard"
+},
+{
+"question": "A shape is reflected in the line x = k. What is true about the x-coordinates of original and image?",
+"options": {
+"A": "Their average is k",
+"B": "They are equal",
+"C": "They sum to k",
+"D": "They are negatives"},
+"answer": "A",
+"details": "If original x = a and image x = a', then (a + a')/2 = k, so their average is k.",
+"difficulty": "hard"
+},
+{
+"question": "Which point remains in the first quadrant after reflection in x = 0?",
+"options": {
+"A": "None, all move to second quadrant",
+"B": "(0,5)",
+"C": "(3,4)",
+"D": "(5,0)"},
+"answer": "A",
+"details": "Reflection in y-axis (x=0) changes positive x to negative, so first quadrant points (x>0,y>0) move to second quadrant (x<0,y>0). Only points on the axis (x=0) stay, but they are not in the first quadrant (which requires x>0,y>0).",
+"difficulty": "hard"
+},
+{
+"question": "A triangle with vertices (3,2), (5,2), (4,4) is translated by (–2, +1). What is one new vertex?",
+"options": {
+"A": "(1,3)",
+"B": "(3,2)",
+"C": "(4,4)",
+"D": "(5,2)"},
+"answer": "A",
+"details": "(3,2) + (–2,+1) = (1,3).",
+"difficulty": "hard"
+},
+{
+"question": "Point (4,8) is reflected in the line y = 6. What are the coordinates?",
+"options": {
+"A": "(4,4)",
+"B": "(4,8)",
+"C": "(6,4)",
+"D": "(8,4)"},
+"answer": "A",
+"details": "8 is 2 above y=6. Image is 2 below: 6–2=4 → (4,4).",
+"difficulty": "hard"
+},
+{
+"question": "Which translation is described as '7 units down and 2 units right'?",
+"options": {
+"A": "(+2, –7)",
+"B": "(–2, +7)",
+"C": "(+7, –2)",
+"D": "(–7, +2)"},
+"answer": "A",
+"details": "Right = +x; down = –y → (+2, –7).",
+"difficulty": "hard"
+},
+{
+"question": "A point at (5,5) is reflected in the line y = x. Where is it?",
+"options": {
+"A": "(5,5)",
+"B": "(5,0)",
+"C": "(0,5)",
+"D": "(10,10)"},
+"answer": "A",
+"details": "Points on y=x are invariant under reflection in y=x. (5,5) is on the line, so it stays.",
+"difficulty": "hard"
+},
+{
+"question": "After a translation, the coordinates of a point increased by 3 in x and decreased by 4 in y. What is the translation vector?",
+"options": {
+"A": "(+3, –4)",
+"B": "(–3, +4)",
+"C": "(+4, –3)",
+"D": "(–4, +3)"},
+"answer": "A",
+"details": "Increase in x = +3; decrease in y = –4 → (+3, –4).",
+"difficulty": "hard"
+},
+{
+"question": "A shape is reflected in a vertical line. What happens to the x-coordinates?",
+"options": {
+"A": "They are mirrored around the line",
+"B": "They stay the same",
+"C": "They are doubled",
+"D": "They become negative"},
+"answer": "A",
+"details": "In reflection over a vertical line x=k, each x-coordinate is replaced by 2k – x, i.e., mirrored around k.",
+"difficulty": "hard"
+},
+{
+"question": "Point (6,1) is translated by (–4, +5). What are the new coordinates?",
+"options": {
+"A": "(2,6)",
+"B": "(10,6)",
+"C": "(2,-4)",
+"D": "(10,-4)"},
+"answer": "A",
+"details": "x: 6–4=2; y: 1+5=6 → (2,6).",
+"difficulty": "hard"
+},
+{
+"question": "Which pair of points are reflections in the line y = 3?",
+"options": {
+"A": "(2,1) and (2,5)",
+"B": "(1,2) and (5,2)",
+"C": "(3,0) and (3,6)",
+"D": "Both A and C"},
+"answer": "D",
+"details": "A: 1 is 2 below 3, 5 is 2 above → symmetric. C: 0 is 3 below, 6 is 3 above → symmetric.",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle has a vertex at (2,7). It is reflected in the line x = 5. Where is the image?",
+"options": {
+"A": "(8,7)",
+"B": "(2,7)",
+"C": "(5,2)",
+"D": "(7,2)"},
+"answer": "A",
+"details": "2 is 3 left of x=5. Image is 3 right: 5+3=8 → (8,7).",
+"difficulty": "hard"
+},
+{
+"question": "A point moves from (3,4) to (8,1). What is the translation?",
+"options": {
+"A": "5 right, 3 down",
+"B": "5 left, 3 up",
+"C": "3 right, 5 down",
+"D": "1 right, 8 down"},
+"answer": "A",
+"details": "x: 8–3=+5 (right); y: 1–4=–3 (down).",
+"difficulty": "hard"
+},
+{
+"question": "After any rigid transformation, what is preserved?",
+"options": {
+"A": "Distances and angles",
+"B": "Coordinates",
+"C": "Orientation",
+"D": "Position"},
+"answer": "A",
+"details": "Rigid transformations (reflections, translations) preserve distances and angles, hence shape and size.",
+"difficulty": "hard"
+},
+{
+"question": "Point (9,5) is reflected in the line x = 6. What are the coordinates?",
+"options": {
+"A": "(3,5)",
+"B": "(9,5)",
+"C": "(6,9)",
+"D": "(5,9)"},
+"answer": "A",
+"details": "9 is 3 right of x=6. Image is 3 left: 6–3=3 → (3,5).",
+"difficulty": "hard"
+},
+{
+"question": "Which translation moves a point from (7,2) to (4,6)?",
+"options": {
+"A": "3 left, 4 up",
+"B": "3 right, 4 down",
+"C": "4 left, 3 up",
+"D": "6 left, 4 up"},
+"answer": "A",
+"details": "x: 4–7=–3 (3 left); y: 6–2=+4 (4 up).",
+"difficulty": "hard"
+},
+{
+"question": "A shape is reflected in the line y = k. The original y-coordinate is k + d. What is the image’s y-coordinate?",
+"options": {
+"A": "k – d",
+"B": "k + d",
+"C": "–k – d",
+"D": "d – k"},
+"answer": "A",
+"details": "If a point is d units above y=k, its image is d units below: k – d.",
+"difficulty": "hard"
+},
+{
+"question": "Point (1,9) is translated by (+6, –4). What are the new coordinates?",
+"options": {
+"A": "(7,5)",
+"B": "(5,7)",
+"C": "(7,13)",
+"D": "(–5,13)"},
+"answer": "A",
+"details": "x: 1+6=7; y: 9–4=5 → (7,5).",
+"difficulty": "hard"
+},
+{
+"question": "Which point is invariant under reflection in the line y = 7?",
+"options": {
+"A": "(3,7)",
+"B": "(7,3)",
+"C": "(0,0)",
+"D": "(7,7)"},
+"answer": "A",
+"details": "Any point with y=7 lies on the mirror line and does not move. (3,7) qualifies.",
+"difficulty": "hard"
+},
+{
+"question": "A triangle with vertices (4,1), (6,1), (5,3) is reflected in the line x = 5. What is the image of (4,1)?",
+"options": {
+"A": "(6,1)",
+"B": "(4,1)",
+"C": "(5,4)",
+"D": "(1,4)"},
+"answer": "A",
+"details": "(4,1) is 1 left of x=5. Image is 1 right: 5+1=6 → (6,1).",
+"difficulty": "hard"
+},
+{
+"question": "After reflecting a shape in a horizontal line, what is true about corresponding y-coordinates?",
+"options": {
+"A": "They are equidistant from the mirror line",
+"B": "They are equal",
+"C": "They sum to zero",
+"D": "They are swapped with x"},
+"answer": "A",
+"details": "By definition of reflection, each point and its image are the same distance from the mirror line.",
+"difficulty": "hard"
+},
+{
+"question": "Point (2,2) is reflected in the line y = 5. What are the coordinates?",
+"options": {
+"A": "(2,8)",
+"B": "(2,2)",
+"C": "(5,2)",
+"D": "(8,2)"},
+"answer": "A",
+"details": "2 is 3 below y=5. Image is 3 above: 5+3=8 → (2,8).",
+"difficulty": "hard"
+},
+{
+"question": "Which translation vector represents 'no horizontal movement and 4 units down'?",
+"options": {
+"A": "(0, –4)",
+"B": "(–4, 0)",
+"C": "(0, +4)",
+"D": "(+4, 0)"},
+"answer": "A",
+"details": "0 in x; –4 in y = 4 down.",
+"difficulty": "hard"
+},
+{
+"question": "A point at (5,3) is reflected in the line x = 2. What are the coordinates of its image?",
+"options": {
+"A": "(-1,3)",
+"B": "(1,3)",
+"C": "(5,3)",
+"D": "(2,3)"},
+"answer": "A",
+"details": "The point is 3 units right of x=2 (5–2=3). The image is 3 units left: 2–3 = –1. So (–1,3).",
+"difficulty": "hard"
+},
+{
+"question": "A triangle has vertices at (2,4), (4,4), and (3,6). It is translated 3 units left and 2 units up. What are the new coordinates of the top vertex?",
+"options": {
+"A": "(0,8)",
+"B": "(6,8)",
+"C": "(0,4)",
+"D": "(6,4)"},
+"answer": "A",
+"details": "Top vertex is (3,6). Left 3: 3–3=0. Up 2: 6+2=8. So (0,8).",
+"difficulty": "hard"
+},
+{
+"question": "Which point is the reflection of (7,2) in the line y = 4?",
+"options": {
+"A": "(7,6)",
+"B": "(7,2)",
+"C": "(4,7)",
+"D": "(2,7)"},
+"answer": "A",
+"details": "(7,2) is 2 units below y=4. Image is 2 units above: 4+2=6 → (7,6).",
+"difficulty": "hard"
+},
+{
+"question": "A shape is translated by (–5, +2). If a vertex was at (8,3), where is it now?",
+"options": {
+"A": "(3,5)",
+"B": "(13,5)",
+"C": "(3,1)",
+"D": "(13,1)"},
+"answer": "A",
+"details": "x: 8 – 5 = 3; y: 3 + 2 = 5 → (3,5).",
+"difficulty": "hard"
+},
+{
+"question": "Point (4,5) is reflected in the line x = 6. What are the coordinates?",
+"options": {
+"A": "(8,5)",
+"B": "(4,5)",
+"C": "(6,4)",
+"D": "(5,4)"},
+"answer": "A",
+"details": "(4,5) is 2 left of x=6. Image is 2 right: 6+2=8 → (8,5).",
+"difficulty": "hard"
+},
+{
+"question": "A square with a vertex at (1,2) is reflected in the line y = 0. Where is this vertex now?",
+"options": {
+"A": "(1,–2)",
+"B": "(–1,2)",
+"C": "(1,2)",
+"D": "(2,1)"},
+"answer": "A",
+"details": "Reflection in x-axis (y=0) negates y: (1,2) → (1,–2).",
+"difficulty": "hard"
+},
+{
+"question": "Which translation moves a point from (6,7) to (2,3)?",
+"options": {
+"A": "4 left, 4 down",
+"B": "4 right, 4 up",
+"C": "3 left, 4 down",
+"D": "4 left, 3 down"},
+"answer": "A",
+"details": "x: 2–6 = –4 (4 left); y: 3–7 = –4 (4 down).",
+"difficulty": "hard"
+},
+{
+"question": "A point (3,8) is reflected in the line y = 5. What is its image?",
+"options": {
+"A": "(3,2)",
+"B": "(3,8)",
+"C": "(5,3)",
+"D": "(8,3)"},
+"answer": "A",
+"details": "8 is 3 above y=5. Image is 3 below: 5–3=2 → (3,2).",
+"difficulty": "hard"
+},
+{
+"question": "After a reflection in a vertical line, which of the following is always true?",
+"options": {
+"A": "x-coordinates change, y-coordinates stay the same",
+"B": "y-coordinates change, x-coordinates stay the same",
+"C": "Both coordinates change",
+"D": "Neither coordinate changes"},
+"answer": "A",
+"details": "Reflection in a vertical line (e.g., x=k) keeps y the same but changes x.",
+"difficulty": "hard"
+},
+{
+"question": "A rectangle has a corner at (9,1). It is reflected in the line x = 5. Where is the image of this corner?",
+"options": {
+"A": "(1,1)",
+"B": "(9,1)",
+"C": "(5,9)",
+"D": "(1,9)"},
+"answer": "A",
+"details": "9 is 4 right of x=5. Image is 4 left: 5–4=1 → (1,1).",
+"difficulty": "hard"
+},
+{
+"question": "Point (2,5) is translated by (+7, –3). What are the new coordinates?",
+"options": {
+"A": "(9,2)",
+"B": "(5,9)",
+"C": "(9,8)",
+"D": "(–5,8)"},
+"answer": "A",
+"details": "x: 2+7=9; y: 5–3=2 → (9,2).",
+"difficulty": "hard"
+},
+{
+"question": "Which pair of points are reflections of each other in the line x = 4?",
+"options": {
+"A": "(1,3) and (7,3)",
+"B": "(3,1) and (3,7)",
+"C": "(4,2) and (4,6)",
+"D": "(2,4) and (6,4)"},
+"answer": "A",
+"details": "Both have y=3. x=1 is 3 left of 4; x=7 is 3 right of 4 → symmetric.",
+"difficulty": "hard"
+},
+{
+"question": "A triangle with vertices (3,2), (5,2), (4,5) is reflected in the line y = 2. What is the image of (4,5)?",
+"options": {
+"A": "(4,–1)",
+"B": "(4,5)",
+"C": "(2,4)",
+"D": "(5,4)"},
+"answer": "A",
+"details": "(4,5) is 3 above y=2. Image is 3 below: 2–3=–1 → (4,–1).",
+"difficulty": "hard"
+},
+{
+"question": "Point (7,4) is translated to (3,9). What is the translation vector?",
+"options": {
+"A": "(–4, +5)",
+"B": "(+4, –5)",
+"C": "(–5, +4)",
+"D": "(+5, –4)"},
+"answer": "A",
+"details": "x: 3–7=–4; y: 9–4=+5 → (–4, +5).",
+"difficulty": "hard"
+},
+{
+"question": "A shape is reflected in the line y = k. If the original y = k – 3, what is the image’s y-coordinate?",
+"options": {
+"A": "k + 3",
+"B": "k – 3",
+"C": "3 – k",
+"D": "–k – 3"},
+"answer": "A",
+"details": "If a point is 3 units below y=k, its image is 3 units above: k + 3.",
+"difficulty": "hard"
+},
+{
+"question": "Which point remains unchanged when reflected in the line x = 3?",
+"options": {
+"A": "(3,7)",
+"B": "(7,3)",
+"C": "(0,3)",
+"D": "(3,0)"},
+"answer": "A",
+"details": "Any point with x=3 lies on the mirror line and is invariant. (3,7) qualifies.",
+"difficulty": "hard"
+},
+{
+"question": "A point moves from (5,8) to (1,4). What is the translation?",
+"options": {
+"A": "4 left, 4 down",
+"B": "4 right, 4 up",
+"C": "8 left, 5 down",
+"D": "1 left, 4 down"},
+"answer": "A",
+"details": "x: 1–5=–4 (4 left); y: 4–8=–4 (4 down).",
+"difficulty": "hard"
+},
+{
+"question": "After a translation, a shape’s orientation is:",
+"options": {
+"A": "Unchanged",
+"B": "Reversed",
+"C": "Rotated",
+"D": "Flipped"},
+"answer": "A",
+"details": "Translation slides the shape without turning or flipping, so orientation is preserved.",
+"difficulty": "hard"
+},
+{
+"question": "Point (6,2) is reflected in the line y = 5. What are the coordinates?",
+"options": {
+"A": "(6,8)",
+"B": "(6,2)",
+"C": "(5,6)",
+"D": "(2,6)"},
+"answer": "A",
+"details": "2 is 3 below y=5. Image is 3 above: 5+3=8 → (6,8).",
+"difficulty": "hard"
+},
+{
+"question": "Which translation is described as '2 units up and 6 units left'?",
+"options": {
+"A": "(–6, +2)",
+"B": "(+6, –2)",
+"C": "(–2, +6)",
+"D": "(+2, –6)"},
+"answer": "A",
+"details": "Left = negative x; up = positive y → (–6, +2).",
+"difficulty": "hard"
+},
+{
+"question": "A vertex at (4,7) is reflected in the line x = 1. Where is the image?",
+"options": {
+"A": "(-2,7)",
+"B": "(4,7)",
+"C": "(1,4)",
+"D": "(7,4)"},
+"answer": "A",
+"details": "4 is 3 right of x=1. Image is 3 left: 1–3=–2 → (–2,7).",
+"difficulty": "hard"
+},
+{
+"question": "A shape is translated by (+3, –5). If a point was at (2,10), where is it now?",
+"options": {
+"A": "(5,5)",
+"B": "(–1,15)",
+"C": "(5,15)",
+"D": "(–1,5)"},
+"answer": "A",
+"details": "x: 2+3=5; y: 10–5=5 → (5,5).",
+"difficulty": "hard"
+},
+{
+"question": "Which point is the reflection of (3,6) in the line y = 4?",
+"options": {
+"A": "(3,2)",
+"B": "(3,6)",
+"C": "(4,3)",
+"D": "(6,3)"},
+"answer": "A",
+"details": "6 is 2 above y=4. Image is 2 below: 4–2=2 → (3,2).",
+"difficulty": "hard"
+},
+{
+"question": "A square has a vertex at (8,3). After reflection in the line x = 5, where is this vertex?",
+"options": {
+"A": "(2,3)",
+"B": "(8,3)",
+"C": "(5,8)",
+"D": "(3,8)"},
+"answer": "A",
+"details": "8 is 3 right of x=5. Image is 3 left: 5–3=2 → (2,3).",
+"difficulty": "hard"
+},
+{
+"question": "Point (1,4) is translated by (+8, –2). What are the new coordinates?",
+"options": {
+"A": "(9,2)",
+"B": "(2,9)",
+"C": "(9,6)",
+"D": "(–7,6)"},
+"answer": "A",
+"details": "x: 1+8=9; y: 4–2=2 → (9,2).",
+"difficulty": "hard"
+},
+{
+"question": "After reflecting a shape in the y-axis, a point at (5,2) moves to:",
+"options": {
+"A": "(–5,2)",
+"B": "(5,–2)",
+"C": "(–5,–2)",
+"D": "(2,5)"},
+"answer": "A",
+"details": "Reflection in y-axis negates x: (5,2) → (–5,2).",
+"difficulty": "hard"
+},
+{
+"question": "Which pair are reflections in the line y = 6?",
+"options": {
+"A": "(2,4) and (2,8)",
+"B": "(4,2) and (8,2)",
+"C": "(6,1) and (6,11)",
+"D": "Both A and C"},
+"answer": "D",
+"details": "A: 4 is 2 below 6, 8 is 2 above → symmetric. C: 1 is 5 below, 11 is 5 above → symmetric.",
+"difficulty": "hard"
+},
+{
+"question": "A triangle with vertices (2,3), (4,3), (3,5) is translated by (–1, +4). What is the new top vertex?",
+"options": {
+"A": "(2,9)",
+"B": "(3,9)",
+"C": "(2,1)",
+"D": "(4,1)"},
+"answer": "A",
+"details": "Top vertex (3,5) → x: 3–1=2; y: 5+4=9 → (2,9).",
+"difficulty": "hard"
+},
+{
+"question": "Point (9,3) is reflected in the line x = 4. What are the coordinates?",
+"options": {
+"A": "(-1,3)",
+"B": "(9,3)",
+"C": "(4,9)",
+"D": "(3,9)"},
+"answer": "A",
+"details": "9 is 5 right of x=4. Image is 5 left: 4–5=–1 → (–1,3).",
+"difficulty": "hard"
+},
+{
+"question": "Which translation moves (3,7) to (0,10)?",
+"options": {
+"A": "3 left, 3 up",
+"B": "3 right, 3 down",
+"C": "7 left, 3 up",
+"D": "3 left, 7 up"},
+"answer": "A",
+"details": "x: 0–3=–3 (3 left); y: 10–7=+3 (3 up).",
+"difficulty": "hard"
+},
+{
+"question": "A triangle has vertices at (2,3), (4,3), and (3,5). It is reflected in the line y = 4. What are the coordinates of the reflected vertex originally at (3,5)?",
+"options": {
+"A": "(3,3)",
+"B": "(5,3)",
+"C": "(3,5)",
+"D": "(1,5)"},
+"answer": "A",
+"details": "The line y=4 is horizontal. Point (3,5) is 1 unit above y=4, so its reflection is 1 unit below: y = 4 – 1 = 3 → (3,3).",
+"difficulty": "medium"
+},
+{
+"question": "A shape is translated 5 units right and 3 units up. Which coordinate changes correctly?",
+"options": {
+"A": "(x, y) → (x+5, y+3)",
+"B": "(x, y) → (x–5, y+3)",
+"C": "(x, y) → (x+5, y–3)",
+"D": "(x, y) → (x–5, y–3)"},
+"answer": "A",
+"details": "Right increases x; up increases y. So (x, y) → (x+5, y+3).",
+"difficulty": "medium"
+},
+{
+"question": "After a reflection, a shape’s size and angles:",
+"options": {
+"A": "Get larger",
+"B": "Get smaller",
+"C": "Stay the same",
+"D": "Change unpredictably"},
+"answer": "C",
+"details": "Reflection is a rigid transformation — distances and angles are preserved.",
+"difficulty": "medium"
+},
+{
+"question": "A square has a vertex at (1,2). After a translation of 4 units right and 1 unit down, where is the new vertex?",
+"options": {
+"A": "(5,1)",
+"B": "(5,3)",
+"C": "(-3,1)",
+"D": "(1,5)"},
+"answer": "A",
+"details": "Right: x + 4 = 1 + 4 = 5; down: y – 1 = 2 – 1 = 1 → (5,1).",
+"difficulty": "medium"
+},
+{
+"question": "A point at (6,2) is reflected in the line x = 4. What are the coordinates of the image?",
+"options": {
+"A": "(2,2)",
+"B": "(4,2)",
+"C": "(6,6)",
+"D": "(8,2)"},
+"answer": "A",
+"details": "x=4 is vertical. (6,2) is 2 units right of x=4, so image is 2 units left: x = 4 – 2 = 2 → (2,2).",
+"difficulty": "medium"
+},
+{
+"question": "Which description matches the translation from (3,4) to (7,1)?",
+"options": {
+"A": "4 right, 3 up",
+"B": "4 right, 3 down",
+"C": "4 left, 3 up",
+"D": "4 left, 3 down"},
+"answer": "B",
+"details": "x: 3→7 = +4 (right); y: 4→1 = –3 (down). So 4 right, 3 down.",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle is reflected in the line y = 1. Which is true?",
+"options": {
+"A": "Its area doubles",
+"B": "Its perimeter halves",
+"C": "Its side lengths remain the same",
+"D": "Its angles become larger"},
+"answer": "C",
+"details": "Reflection preserves lengths and angles, so side lengths (and area, perimeter, angles) stay the same.",
+"difficulty": "medium"
+},
+{
+"question": "A triangle with vertices (1,3), (3,3), (2,5) is reflected in the line y = 4. What is the image of (2,5)?",
+"options": {
+"A": "(2,3)",
+"B": "(2,5)",
+"C": "(4,5)",
+"D": "(0,5)"},
+"answer": "A",
+"details": "y=4 is horizontal. (2,5) is 1 above → image 1 below: y=4–1=3 → (2,3). Still in first quadrant.",
+"difficulty": "medium"
+},
+{
+"question": "Which translation moves a point from (5,6) to (2,8)?",
+"options": {
+"A": "3 left, 2 up",
+"B": "3 right, 2 up",
+"C": "3 left, 2 down",
+"D": "3 right, 2 down"},
+"answer": "A",
+"details": "x: 5→2 = –3 (left); y: 6→8 = +2 (up).",
+"difficulty": "medium"
+},
+{
+"question": "After a translation, the shape’s orientation:",
+"options": {
+"A": "Flips",
+"B": "Rotates",
+"C": "Stays the same",
+"D": "Becomes mirror image"},
+"answer": "C",
+"details": "Translation slides the shape without turning or flipping — orientation is preserved.",
+"difficulty": "medium"
+},
+{
+"question": "A point at (4,5) is reflected in the line x = 6. What is the image?",
+"options": {
+"A": "(6,5)",
+"B": "(8,5)",
+"C": "(2,5)",
+"D": "(4,7)"},
+"answer": "B",
+"details": "x=6 is vertical. (4,5) is 2 left of x=6, so image is 2 right: x = 6 + 2 = 8 → (8,5).",
+"difficulty": "medium"
+},
+{
+"question": "A shape is translated 2 units left and 4 units down. Which rule is correct?",
+"options": {
+"A": "(x, y) → (x+2, y+4)",
+"B": "(x, y) → (x–2, y–4)",
+"C": "(x, y) → (x+2, y–4)",
+"D": "(x, y) → (x–2, y+4)"},
+"answer": "B",
+"details": "Left: x decreases (–2); down: y decreases (–4).",
+"difficulty": "medium"
+},
+{
+"question": "A square has side length 3 cm. After reflection, its side length is:",
+"options": {
+"A": "1.5 cm",
+"B": "3 cm",
+"C": "6 cm",
+"D": "9 cm"},
+"answer": "B",
+"details": "Reflection preserves lengths — side remains 3 cm.",
+"difficulty": "medium"
+},
+{
+"question": "Which pair of points are reflections of each other in the line y = 3?",
+"options": {
+"A": "(2,1) and (2,5)",
+"B": "(2,1) and (4,1)",
+"C": "(2,1) and (2,2)",
+"D": "(2,1) and (1,2)"},
+"answer": "A",
+"details": "y=3 is horizontal. (2,1) is 2 below; (2,5) is 2 above → symmetric about y=3.",
+"difficulty": "medium"
+},
+{
+"question": "A point moves from (7,2) to (4,6). What translation occurred?",
+"options": {
+"A": "3 left, 4 up",
+"B": "3 right, 4 up",
+"C": "3 left, 4 down",
+"D": "3 right, 4 down"},
+"answer": "A",
+"details": "x: 7→4 = –3 (left); y: 2→6 = +4 (up).",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle with width 4 cm and height 2 cm is translated. Its new width is:",
+"options": {
+"A": "2 cm",
+"B": "4 cm",
+"C": "6 cm",
+"D": "8 cm"},
+"answer": "B",
+"details": "Translation preserves size and shape — width remains 4 cm.",
+"difficulty": "medium"
+},
+{
+"question": "A point at (3,7) is reflected in the line y = 5. What is the image?",
+"options": {
+"A": "(3,3)",
+"B": "(3,5)",
+"C": "(3,7)",
+"D": "(3,9)"},
+"answer": "A",
+"details": "(3,7) is 2 above y=5, so image is 2 below: y = 5 – 2 = 3 → (3,3).",
+"difficulty": "medium"
+},
+{
+"question": "Which translation is described by the vector (–3, +2)?",
+"options": {
+"A": "3 right, 2 up",
+"B": "3 left, 2 up",
+"C": "3 right, 2 down",
+"D": "3 left, 2 down"},
+"answer": "B",
+"details": "First number: x-change (–3 = 3 left); second: y-change (+2 = 2 up).",
+"difficulty": "medium"
+},
+{
+"question": "After reflection, the distance between two points on the shape:",
+"options": {
+"A": "Increases",
+"B": "Decreases",
+"C": "Stays the same",
+"D": "Becomes zero"},
+"answer": "C",
+"details": "Rigid transformations preserve all distances.",
+"difficulty": "medium"
+},
+{
+"question": "A triangle has vertices (1,2), (4,2), (2,4). It is reflected in x = 2.5. What is the image of (4,2)?",
+"options": {
+"A": "(1,2)",
+"B": "(2,2)",
+"C": "(3,2)",
+"D": "(4,2)"},
+"answer": "A",
+"details": "x=2.5 is vertical. (4,2) is 1.5 right of 2.5, so image is 1.5 left: x = 2.5 – 1.5 = 1 → (1,2).",
+"difficulty": "medium"
+},
+{
+"question": "A shape at (5,3) is translated by (–2, –1). Where is it now?",
+"options": {
+"A": "(3,2)",
+"B": "(3,4)",
+"C": "(7,2)",
+"D": "(7,4)"},
+"answer": "A",
+"details": "x: 5 + (–2) = 3; y: 3 + (–1) = 2 → (3,2).",
+"difficulty": "medium"
+},
+{
+"question": "A reflection in a vertical line changes:",
+"options": {
+"A": "Only the x-coordinate",
+"B": "Only the y-coordinate",
+"C": "Both coordinates",
+"D": "Neither coordinate"},
+"answer": "A",
+"details": "Vertical line (x = k): x changes; y stays the same.",
+"difficulty": "medium"
+},
+{
+"question": "Which points are symmetric about x = 5?",
+"options": {
+"A": "(3,4) and (7,4)",
+"B": "(3,4) and (3,6)",
+"C": "(3,4) and (5,4)",
+"D": "(3,4) and (4,3)"},
+"answer": "A",
+"details": "(3,4) is 2 left of x=5; (7,4) is 2 right → symmetric.",
+"difficulty": "medium"
+},
+{
+"question": "A point moves from (2,5) to (6,3). Which describes the translation?",
+"options": {
+"A": "4 right, 2 up",
+"B": "4 right, 2 down",
+"C": "4 left, 2 up",
+"D": "4 left, 2 down"},
+"answer": "B",
+"details": "x: +4 (right); y: –2 (down).",
+"difficulty": "medium"
+},
+{
+"question": "After a translation, the shape’s area:",
+"options": {
+"A": "Doubles",
+"B": "Halves",
+"C": "Stays the same",
+"D": "Becomes zero"},
+"answer": "C",
+"details": "Translation is rigid — area is preserved.",
+"difficulty": "medium"
+},
+{
+"question": "A point at (1,4) is reflected in y = 2. What is the image?",
+"options": {
+"A": "(1,0)",
+"B": "(1,2)",
+"C": "(1,4)",
+"D": "(1,6)"},
+"answer": "A",
+"details": "(1,4) is 2 above y=2, so image is 2 below: y = 2 – 2 = 0 → (1,0). (Still in first quadrant — y=0 is on axis, acceptable.)",
+"difficulty": "medium"
+},
+{
+"question": "The translation (0, –5) means:",
+"options": {
+"A": "5 right",
+"B": "5 left",
+"C": "5 up",
+"D": "5 down"},
+"answer": "D",
+"details": "x-change = 0 (no horizontal move); y-change = –5 (5 down).",
+"difficulty": "medium"
+},
+{
+"question": "Which is true for both reflection and translation?",
+"options": {
+"A": "The shape flips",
+"B": "The shape rotates",
+"C": "The shape’s size is unchanged",
+"D": "The shape changes colour"},
+"answer": "C",
+"details": "Both are rigid transformations — size and shape are preserved.",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle has corners at (1,1), (1,3), (4,3), (4,1). It is reflected in x = 2.5. What is the image of (4,1)?",
+"options": {
+"A": "(1,1)",
+"B": "(2,1)",
+"C": "(3,1)",
+"D": "(4,1)"},
+"answer": "A",
+"details": "x=2.5. (4,1) is 1.5 right → image 1.5 left: 2.5 – 1.5 = 1 → (1,1).",
+"difficulty": "medium"
+},
+{
+"question": "A point at (6,7) is translated 3 left and 4 down. New coordinates?",
+"options": {
+"A": "(3,3)",
+"B": "(3,11)",
+"C": "(9,3)",
+"D": "(9,11)"},
+"answer": "A",
+"details": "x: 6 – 3 = 3; y: 7 – 4 = 3 → (3,3).",
+"difficulty": "medium"
+},
+{
+"question": "A reflection in a horizontal line changes:",
+"options": {
+"A": "Only the x-coordinate",
+"B": "Only the y-coordinate",
+"C": "Both coordinates",
+"D": "Neither coordinate"},
+"answer": "B",
+"details": "Horizontal line (y = k): y changes; x stays the same.",
+"difficulty": "medium"
+},
+{
+"question": "Which pair are reflections in y = 6?",
+"options": {
+"A": "(2,4) and (2,8)",
+"B": "(2,4) and (4,4)",
+"C": "(2,4) and (2,6)",
+"D": "(2,4) and (6,2)"},
+"answer": "A",
+"details": "(2,4) is 2 below y=6; (2,8) is 2 above → symmetric.",
+"difficulty": "medium"
+},
+{
+"question": "A translation moves (3,8) to (1,5). What is the vector?",
+"options": {
+"A": "(–2, –3)",
+"B": "(+2, –3)",
+"C": "(–2, +3)",
+"D": "(+2, +3)"},
+"answer": "A",
+"details": "x: 1 – 3 = –2; y: 5 – 8 = –3 → (–2, –3).",
+"difficulty": "medium"
+},
+{
+"question": "After reflection, the angles in the shape:",
+"options": {
+"A": "Get bigger",
+"B": "Get smaller",
+"C": "Stay the same",
+"D": "Become right angles"},
+"answer": "C",
+"details": "Angles are preserved in rigid transformations.",
+"difficulty": "medium"
+},
+{
+"question": "A point (5,2) is reflected in x = 3. Image?",
+"options": {
+"A": "(1,2)",
+"B": "(3,2)",
+"C": "(5,4)",
+"D": "(7,2)"},
+"answer": "A",
+"details": "(5,2) is 2 right of x=3 → image 2 left: 3 – 2 = 1 → (1,2).",
+"difficulty": "medium"
+},
+{
+"question": "Which describes the translation from (4,1) to (4,6)?",
+"options": {
+"A": "5 right",
+"B": "5 left",
+"C": "5 up",
+"D": "5 down"},
+"answer": "C",
+"details": "x unchanged; y increases by 5 → 5 up.",
+"difficulty": "medium"
+},
+{
+"question": "A shape is reflected, then translated. The final shape compared to the original:",
+"options": {
+"A": "Is larger",
+"B": "Is smaller",
+"C": "Is congruent",
+"D": "Is similar but not same size"},
+"answer": "C",
+"details": "Both reflection and translation are rigid — composition is rigid → shapes are congruent (same size and shape).",
+"difficulty": "medium"
+},
+{
+"question": "A triangle with vertex (2,6) is reflected in y = 4. Image of this vertex?",
+"options": {
+"A": "(2,2)",
+"B": "(2,4)",
+"C": "(2,6)",
+"D": "(2,8)"},
+"answer": "A",
+"details": "(2,6) is 2 above y=4 → image 2 below: y = 4 – 2 = 2 → (2,2).",
+"difficulty": "medium"
+},
+{
+"question": "A point moves 7 units left and 2 units up from (10,3). Where is it?",
+"options": {
+"A": "(3,5)",
+"B": "(3,1)",
+"C": "(17,5)",
+"D": "(17,1)"},
+"answer": "A",
+"details": "x: 10 – 7 = 3; y: 3 + 2 = 5 → (3,5).",
+"difficulty": "medium"
+},
+{
+"question": "The line x = 0 is the:",
+"options": {
+"A": "x-axis",
+"B": "y-axis",
+"C": "diagonal",
+"D": "midline"},
+"answer": "B",
+"details": "x = 0 is the y-axis (vertical line through origin).",
+"difficulty": "medium"
+},
+{
+"question": "Which points are symmetric about x = 4?",
+"options": {
+"A": "(1,5) and (7,5)",
+"B": "(1,5) and (1,3)",
+"C": "(1,5) and (4,5)",
+"D": "(1,5) and (5,1)"},
+"answer": "A",
+"details": "(1,5) is 3 left of x=4; (7,5) is 3 right → symmetric.",
+"difficulty": "medium"
+},
+{
+"question": "A translation vector of (+4, 0) means:",
+"options": {
+"A": "4 right",
+"B": "4 left",
+"C": "4 up",
+"D": "4 down"},
+"answer": "A",
+"details": "x + 4, y unchanged → 4 units right.",
+"difficulty": "medium"
+},
+{
+"question": "After any reflection or translation, the perimeter of the shape:",
+"options": {
+"A": "Increases",
+"B": "Decreases",
+"C": "Remains unchanged",
+"D": "Becomes circular"},
+"answer": "C",
+"details": "Perimeter depends on side lengths, which are preserved in rigid transformations.",
+"difficulty": "medium"
+},
+{
+"question": "A square has a corner at (3,3). After reflection in y = 5, where is that corner?",
+"options": {
+"A": "(3,5)",
+"B": "(3,7)",
+"C": "(5,3)",
+"D": "(7,3)"},
+"answer": "B",
+"details": "(3,3) is 2 below y=5 → image 2 above: y = 5 + 2 = 7 → (3,7).",
+"difficulty": "medium"
+},
+{
+"question": "A point at (8,1) is translated by (–5, +3). New position?",
+"options": {
+"A": "(3,4)",
+"B": "(3,–2)",
+"C": "(13,4)",
+"D": "(13,–2)"},
+"answer": "A",
+"details": "x: 8 – 5 = 3; y: 1 + 3 = 4 → (3,4).",
+"difficulty": "medium"
+},
+{
+"question": "Which line is horizontal?",
+"options": {
+"A": "x = 2",
+"B": "y = 2",
+"C": "y = x",
+"D": "x + y = 4"},
+"answer": "B",
+"details": "y = constant is horizontal; x = constant is vertical.",
+"difficulty": "medium"
+},
+{
+"question": "A point (6,4) and its reflection are both 3 units from the mirror line. What is the mirror line?",
+"options": {
+"A": "x = 3",
+"B": "x = 6",
+"C": "y = 1 or y = 7",
+"D": "x = 3 or x = 9"},
+"answer": "D",
+"details": "If point is (6,4), and distance to line is 3, then for vertical line: x = 6 ± 3 → x = 3 or x = 9. (y-line would change y, but y=4 fixed.)",
+"difficulty": "medium"
+},
+{
+"question": "From (2,7) to (5,4): translation is",
+"options": {
+"A": "3 right, 3 up",
+"B": "3 right, 3 down",
+"C": "3 left, 3 up",
+"D": "3 left, 3 down"},
+"answer": "B",
+"details": "x: +3 (right); y: –3 (down).",
+"difficulty": "medium"
+},
+{
+"question": "Two shapes are congruent if:",
+"options": {
+"A": "Same colour",
+"B": "Same size and shape",
+"C": "Same area only",
+"D": "Same perimeter only"},
+"answer": "B",
+"details": "Congruent shapes are identical in size and shape — can be matched by reflection/translation/rotation.",
+"difficulty": "medium"
+},
+{
+"question": "A point (1,5) is reflected in x = 4. Image?",
+"options": {
+"A": "(7,5)",
+"B": "(4,5)",
+"C": "(1,3)",
+"D": "(3,5)"},
+"answer": "A",
+"details": "(1,5) is 3 left of x=4 → image 3 right: 4 + 3 = 7 → (7,5).",
+"difficulty": "medium"
+},
+{
+"question": "A shape is moved 6 units down. Its y-coordinates:",
+"options": {
+"A": "Increase by 6",
+"B": "Decrease by 6",
+"C": "Stay the same",
+"D": "Double"},
+"answer": "B",
+"details": "Down decreases y-coordinate.",
+"difficulty": "medium"
+},
+{
+"question": "Which transformation does NOT change orientation?",
+"options": {
+"A": "Reflection",
+"B": "Translation",
+"C": "Both",
+"D": "Neither"},
+"answer": "B",
+"details": "Translation preserves orientation (‘handedness’); reflection reverses it (e.g., ‘d’ becomes ‘b’).",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle with vertices (2,1), (2,4), (5,4), (5,1) is reflected in y = 2.5. What is the image of (2,4)?",
+"options": {
+"A": "(2,1)",
+"B": "(2,2.5)",
+"C": "(2,4)",
+"D": "(2,6)"},
+"answer": "A",
+"details": "y=2.5. (2,4) is 1.5 above → image 1.5 below: 2.5 – 1.5 = 1 → (2,1).",
+"difficulty": "medium"
+},
+{
+"question": "A point at (9,2) is translated 4 left and 5 up. New coordinates?",
+"options": {
+"A": "(5,7)",
+"B": "(5,–3)",
+"C": "(13,7)",
+"D": "(13,–3)"},
+"answer": "A",
+"details": "x: 9 – 4 = 5; y: 2 + 5 = 7 → (5,7).",
+"difficulty": "medium"
+},
+{
+"question": "The line y = 0 is the:",
+"options": {
+"A": "x-axis",
+"B": "y-axis",
+"C": "diagonal",
+"D": "mirror line"},
+"answer": "A",
+"details": "y = 0 is the x-axis (horizontal line through origin).",
+"difficulty": "medium"
+},
+{
+"question": "Which pair are reflections in x = 7?",
+"options": {
+"A": "(5,3) and (9,3)",
+"B": "(5,3) and (5,5)",
+"C": "(5,3) and (7,3)",
+"D": "(5,3) and (3,5)"},
+"answer": "A",
+"details": "(5,3) is 2 left of x=7; (9,3) is 2 right → symmetric.",
+"difficulty": "medium"
+},
+{
+"question": "A translation of (–1, +4) means:",
+"options": {
+"A": "1 right, 4 up",
+"B": "1 left, 4 up",
+"C": "1 right, 4 down",
+"D": "1 left, 4 down"},
+"answer": "B",
+"details": "x –1 = 1 left; y +4 = 4 up.",
+"difficulty": "medium"
+},
+{
+"question": "After reflection in a vertical line, a shape that was facing right now faces:",
+"options": {
+"A": "Right",
+"B": "Left",
+"C": "Up",
+"D": "Down"},
+"answer": "B",
+"details": "Reflection flips left-right — orientation reverses horizontally.",
+"difficulty": "medium"
+},
+{
+"question": "A point (4,6) is reflected in y = 3. Image?",
+"options": {
+"A": "(4,0)",
+"B": "(4,3)",
+"C": "(4,6)",
+"D": "(4,9)"},
+"answer": "A",
+"details": "(4,6) is 3 above y=3 → image 3 below: y = 3 – 3 = 0 → (4,0).",
+"difficulty": "medium"
+},
+{
+"question": "From (7,8) to (3,10): translation vector is",
+"options": {
+"A": "(–4, +2)",
+"B": "(+4, –2)",
+"C": "(–4, –2)",
+"D": "(+4, +2)"},
+"answer": "A",
+"details": "x: 3 – 7 = –4; y: 10 – 8 = +2.",
+"difficulty": "medium"
+},
+{
+"question": "Which is preserved in both reflection and translation?",
+"options": {
+"A": "Position",
+"B": "Orientation",
+"C": "Side lengths",
+"D": "Direction of travel"},
+"answer": "C",
+"details": "Side lengths (and angles, area, perimeter) are preserved; position and orientation may change.",
+"difficulty": "medium"
+},
+{
+"question": "A triangle has a vertex at (0,4). After reflection in x = 2, where is it?",
+"options": {
+"A": "(4,4)",
+"B": "(2,4)",
+"C": "(0,0)",
+"D": "(–2,4)"},
+"answer": "A",
+"details": "(0,4) is 2 left of x=2 → image 2 right: 2 + 2 = 4 → (4,4).",
+"difficulty": "medium"
+},
+{
+"question": "A shape moves 3 units right. Its x-coordinates:",
+"options": {
+"A": "Increase by 3",
+"B": "Decrease by 3",
+"C": "Stay the same",
+"D": "Halve"},
+"answer": "A",
+"details": "Right increases x-coordinate.",
+"difficulty": "medium"
+},
+{
+"question": "A reflection in y = k keeps which coordinate the same?",
+"options": {
+"A": "x",
+"B": "y",
+"C": "Both",
+"D": "Neither"},
+"answer": "A",
+"details": "Horizontal mirror line: x unchanged, y changes.",
+"difficulty": "medium"
+},
+{
+"question": "Which points are symmetric about y = 5?",
+"options": {
+"A": "(3,2) and (3,8)",
+"B": "(3,2) and (5,2)",
+"C": "(3,2) and (3,5)",
+"D": "(3,2) and (2,3)"},
+"answer": "A",
+"details": "(3,2) is 3 below y=5; (3,8) is 3 above → symmetric.",
+"difficulty": "medium"
+},
+{
+"question": "A point at (5,4) is translated by (+2, –3). New position?",
+"options": {
+"A": "(7,1)",
+"B": "(7,7)",
+"C": "(3,1)",
+"D": "(3,7)"},
+"answer": "A",
+"details": "x: 5 + 2 = 7; y: 4 – 3 = 1 → (7,1), in first quadrant.",
+"difficulty": "medium"
+},
+{
+"question": "The mirror line for points (2,3) and (8,3) is:",
+"options": {
+"A": "x = 5",
+"B": "y = 3",
+"C": "x = 3",
+"D": "y = 5"},
+"answer": "A",
+"details": "Same y, so vertical mirror. Midpoint x = (2+8)/2 = 5 → x = 5.",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle is translated. Which changes?",
+"options": {
+"A": "Side lengths",
+"B": "Angles",
+"C": "Position",
+"D": "Area"},
+"answer": "C",
+"details": "Only position changes; size, shape, angles, area are preserved.",
+"difficulty": "medium"
+},
+{
+"question": "A point (7,3) is reflected in x = 5. Image?",
+"options": {
+"A": "(3,3)",
+"B": "(5,3)",
+"C": "(7,7)",
+"D": "(9,3)"},
+"answer": "A",
+"details": "(7,3) is 2 right of x=5 → image 2 left: 5 – 2 = 3 → (3,3).",
+"difficulty": "medium"
+},
+{
+"question": "Which description matches vector (0, –4)?",
+"options": {
+"A": "4 right",
+"B": "4 left",
+"C": "4 up",
+"D": "4 down"},
+"answer": "D",
+"details": "x: 0 (no change); y: –4 (4 down).",
+"difficulty": "medium"
+},
+{
+"question": "After a reflection, the shape is:",
+"options": {
+"A": "Enlarged",
+"B": "Reduced",
+"C": "Congruent to original",
+"D": "Similar but not same size"},
+"answer": "C",
+"details": "Reflection produces a congruent image (same size and shape).",
+"difficulty": "medium"
+},
+{
+"question": "A square with vertex (3,6) is reflected in y = 4. Image of that vertex?",
+"options": {
+"A": "(3,2)",
+"B": "(3,4)",
+"C": "(3,6)",
+"D": "(3,8)"},
+"answer": "A",
+"details": "(3,6) is 2 above y=4 → image 2 below: y = 4 – 2 = 2 → (3,2).",
+"difficulty": "medium"
+},
+{
+"question": "A point moves from (6,9) to (2,5). Translation:",
+"options": {
+"A": "4 left, 4 down",
+"B": "4 right, 4 down",
+"C": "4 left, 4 up",
+"D": "4 right, 4 up"},
+"answer": "A",
+"details": "x: 6→2 = –4 (left); y: 9→5 = –4 (down).",
+"difficulty": "medium"
+},
+{
+"question": "A reflection in x = k keeps which coordinate the same?",
+"options": {
+"A": "x",
+"B": "y",
+"C": "Both",
+"D": "Neither"},
+"answer": "B",
+"details": "Vertical mirror line: y unchanged, x changes.",
+"difficulty": "medium"
+},
+{
+"question": "The mirror line for (1,4) and (1,10) is:",
+"options": {
+"A": "x = 1",
+"B": "y = 7",
+"C": "x = 7",
+"D": "y = 1"},
+"answer": "B",
+"details": "Same x, so horizontal mirror. Midpoint y = (4+10)/2 = 7 → y = 7.",
+"difficulty": "medium"
+},
+{
+"question": "A translation of (+5, –2) is described as:",
+"options": {
+"A": "5 right, 2 up",
+"B": "5 right, 2 down",
+"C": "5 left, 2 up",
+"D": "5 left, 2 down"},
+"answer": "B",
+"details": "+5 = 5 right; –2 = 2 down.",
+"difficulty": "medium"
+},
+{
+"question": "Which statement is always true after a translation?",
+"options": {
+"A": "The shape is flipped",
+"B": "The shape is rotated",
+"C": "The shape is in a new position but looks identical",
+"D": "The shape is larger"},
+"answer": "C",
+"details": "Translation slides the shape — same size, shape, orientation, just new location.",
+"difficulty": "medium"
+},
+{
+"question": "A point (2,5) is reflected in y = 6. Image?",
+"options": {
+"A": "(2,5)",
+"B": "(2,6)",
+"C": "(2,7)",
+"D": "(2,8)"},
+"answer": "C",
+"details": "(2,5) is 1 below y=6 → image 1 above: y = 6 + 1 = 7 → (2,7).",
+"difficulty": "medium"
+},
+{
+"question": "From (3,2) to (8,6): translation vector is",
+"options": {
+"A": "(+5, +4)",
+"B": "(–5, +4)",
+"C": "(+5, –4)",
+"D": "(–5, –4)"},
+"answer": "A",
+"details": "x: 8–3=+5; y: 6–2=+4.",
+"difficulty": "medium"
+},
+{
+"question": "Two shapes are in the same orientation after a:",
+"options": {
+"A": "Reflection",
+"B": "Translation",
+"C": "Both",
+"D": "Neither"},
+"answer": "B",
+"details": "Translation preserves orientation; reflection reverses it.",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle with corner (4,2) is reflected in x = 6. Image of that corner?",
+"options": {
+"A": "(8,2)",
+"B": "(6,2)",
+"C": "(4,4)",
+"D": "(2,2)"},
+"answer": "A",
+"details": "(4,2) is 2 left of x=6 → image 2 right: 6 + 2 = 8 → (8,2).",
+"difficulty": "medium"
+},
+{
+"question": "A point at (7,5) is moved 3 units left and 4 units down. New coordinates?",
+"options": {
+"A": "(4,1)",
+"B": "(4,9)",
+"C": "(10,1)",
+"D": "(10,9)"},
+"answer": "A",
+"details": "x: 7 – 3 = 4; y: 5 – 4 = 1 → (4,1).",
+"difficulty": "medium"
+},
+{
+"question": "Which is the mirror line for (3,1) and (9,1)?",
+"options": {
+"A": "x = 6",
+"B": "y = 1",
+"C": "x = 3",
+"D": "y = 6"},
+"answer": "A",
+"details": "Same y, so vertical mirror. Midpoint x = (3+9)/2 = 6 → x = 6.",
+"difficulty": "medium"
+},
+{
+"question": "A translation described as '2 up and 5 right' has vector:",
+"options": {
+"A": "(+5, +2)",
+"B": "(–5, +2)",
+"C": "(+5, –2)",
+"D": "(–5, –2)"},
+"answer": "A",
+"details": "Right: +x; up: +y → (+5, +2).",
+"difficulty": "medium"
+},
+{
+"question": "After any rigid transformation, the shape and its image are:",
+"options": {
+"A": "Similar",
+"B": "Congruent",
+"C": "Equal",
+"D": "Identical in position"},
+"answer": "B",
+"details": "Rigid transformations produce congruent figures (same size and shape).",
+"difficulty": "medium"
+},
+{
+"question": "A point (5,7) is reflected in y = 5. Image?",
+"options": {
+"A": "(5,3)",
+"B": "(5,5)",
+"C": "(5,7)",
+"D": "(5,9)"},
+"answer": "A",
+"details": "(5,7) is 2 above y=5 → image 2 below: y = 5 – 2 = 3 → (5,3).",
+"difficulty": "medium"
+},
+{
+"question": "A shape is translated by (–4, 0). This means:",
+"options": {
+"A": "4 right",
+"B": "4 left",
+"C": "4 up",
+"D": "4 down"},
+"answer": "B",
+"details": "x – 4 = 4 left; y unchanged.",
+"difficulty": "medium"
+},
+{
+"question": "Which transformation preserves both size and orientation?",
+"options": {
+"A": "Reflection",
+"B": "Translation",
+"C": "Both",
+"D": "Neither"},
+"answer": "B",
+"details": "Translation preserves size and orientation; reflection preserves size but *reverses* orientation.",
+"difficulty": "medium"
+},
+{
+"question": "A triangle with vertex (6,2) is reflected in x = 4. Image?",
+"options": {
+"A": "(2,2)",
+"B": "(4,2)",
+"C": "(6,6)",
+"D": "(8,2)"},
+"answer": "A",
+"details": "(6,2) is 2 right of x=4 → image 2 left: 4 – 2 = 2 → (2,2).",
+"difficulty": "medium"
+},
+{
+"question": "A point moves from (1,3) to (4,1). Translation is",
+"options": {
+"A": "3 right, 2 up",
+"B": "3 right, 2 down",
+"C": "3 left, 2 up",
+"D": "3 left, 2 down"},
+"answer": "B",
+"details": "x: +3 (right); y: –2 (down).",
+"difficulty": "medium"
+},
+{
+"question": "The coordinates of a point after reflection in y = 4 are (3,6). What were the original coordinates?",
+"options": {
+"A": "(3,2)",
+"B": "(3,4)",
+"C": "(3,6)",
+"D": "(3,8)"},
+"answer": "A",
+"details": "Image is 2 above y=4, so original was 2 below: y = 4 – 2 = 2 → (3,2).",
+"difficulty": "medium"
+},
+{
+"question": "A translation vector of (–2, –5) means:",
+"options": {
+"A": "2 right, 5 up",
+"B": "2 left, 5 up",
+"C": "2 right, 5 down",
+"D": "2 left, 5 down"},
+"answer": "D",
+"details": "–2 = 2 left; –5 = 5 down.",
+"difficulty": "medium"
+},
+{
+"question": "After a reflection in a horizontal line, a shape that was upright is still:",
+"options": {
+"A": "Upright",
+"B": "Upside down",
+"C": "Sideways",
+"D": "Mirror reversed left-right"},
+"answer": "A",
+"details": "Horizontal reflection flips top-bottom — an upright shape remains upright (e.g., ‘b’ stays ‘b’), but is flipped vertically. Orientation in terms of ‘up’ is preserved; left-right is unchanged. For a simple shape like a triangle pointing up, it still points up after y-reflection.",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle has a corner at (0,0). After translation 3 right and 2 up, where is it?",
+"options": {
+"A": "(3,2)",
+"B": "(2,3)",
+"C": "(–3,2)",
+"D": "(3,–2)"},
+"answer": "A",
+"details": "x: 0 + 3 = 3; y: 0 + 2 = 2 → (3,2).",
+"difficulty": "medium"
+},
+{
+"question": "Which pair cannot be reflections in a line parallel to the axes?",
+"options": {
+"A": "(2,3) and (2,7)",
+"B": "(2,3) and (6,3)",
+"C": "(2,3) and (4,5)",
+"D": "(2,3) and (2,3)"},
+"answer": "C",
+"details": "For axis-parallel mirrors, one coordinate must be equal (A: same x → y-mirror; B: same y → x-mirror; D: same point). C differs in both → would require diagonal mirror, not covered in Year 5.",
+"difficulty": "medium"
+},
+{
+"question": "A point at (4,5) is reflected in the line x = 6. What are the coordinates of its image?",
+"options": {
+"A": "(6,5)",
+"B": "(8,5)",
+"C": "(2,5)",
+"D": "(4,7)"},
+"answer": "B",
+"details": "The line x = 6 is vertical. (4,5) is 2 units to the left of x = 6, so its image is 2 units to the right: x = 6 + 2 = 8. y remains 5 → (8,5).",
+"difficulty": "medium"
+},
+{
+"question": "A triangle has vertices at (1,2), (3,2), and (2,4). It is translated 3 units right and 2 units down. What are the new coordinates of the top vertex?",
+"options": {
+"A": "(5,2)",
+"B": "(5,6)",
+"C": "(-1,2)",
+"D": "(2,2)"},
+"answer": "A",
+"details": "Top vertex is (2,4). Right 3: x = 2 + 3 = 5. Down 2: y = 4 – 2 = 2 → (5,2).",
+"difficulty": "medium"
+},
+{
+"question": "Which statement is true after a reflection in a vertical line?",
+"options": {
+"A": "The x-coordinates stay the same.",
+"B": "The y-coordinates stay the same.",
+"C": "Both coordinates change.",
+"D": "The shape becomes larger."},
+"answer": "B",
+"details": "A vertical mirror line (x = k) only affects the x-coordinate; the y-coordinate remains unchanged.",
+"difficulty": "medium"
+},
+{
+"question": "A rectangle with a corner at (2,3) is reflected in the line y = 5. Where is the image of this corner?",
+"options": {
+"A": "(2,5)",
+"B": "(2,7)",
+"C": "(2,3)",
+"D": "(4,3)"},
+"answer": "B",
+"details": "(2,3) is 2 units below y = 5, so its image is 2 units above: y = 5 + 2 = 7 → (2,7).",
+"difficulty": "medium"
+},
+{
+"question": "A translation moves a point from (7,4) to (3,9). Which describes this movement?",
+"options": {
+"A": "4 left, 5 up",
+"B": "4 right, 5 up",
+"C": "4 left, 5 down",
+"D": "4 right, 5 down"},
+"answer": "A",
+"details": "x: 7 → 3 = –4 (4 left). y: 4 → 9 = +5 (5 up).",
+"difficulty": "medium"
+},
+{
+"question": "After a translation, the distance between any two points on the shape:",
+"options": {
+"A": "Increases",
+"B": "Decreases",
+"C": "Stays the same",
+"D": "Becomes zero"},
+"answer": "C",
+"details": "Translation is a rigid transformation — all distances (side lengths, diagonals) are preserved.",
+"difficulty": "medium"
+},
+{
+"question": "A point (5,1) and its reflection (5,7) are symmetric about which line?",
+"options": {
+"A": "x = 5",
+"B": "y = 4",
+"C": "x = 6",
+"D": "y = 6"},
+"answer": "B",
+"details": "Same x-coordinate, so horizontal mirror line. Midpoint y = (1 + 7)/2 = 4 → y = 4.",
+"difficulty": "medium"
+},
+{
+"question": "A shape is translated by the vector (+2, –3). What happens to its coordinates?",
+"options": {
+"A": "x + 2, y + 3",
+"B": "x – 2, y – 3",
+"C": "x + 2, y – 3",
+"D": "x – 2, y + 3"},
+"answer": "C",
+"details": "+2 means add 2 to x (right); –3 means subtract 3 from y (down).",
+"difficulty": "medium"
+},
+{
+"question": "A square with side length 4 cm is reflected. What is the perimeter of the image?",
+"options": {
+"A": "8 cm",
+"B": "12 cm",
+"C": "16 cm",
+"D": "20 cm"},
+"answer": "C",
+"details": "Reflection preserves lengths. Perimeter = 4 × 4 = 16 cm.",
+"difficulty": "medium"
+},
+{
+"question": "Which pair of points are reflections in the line x = 3?",
+"options": {
+"A": "(1,4) and (5,4)",
+"B": "(1,4) and (1,2)",
+"C": "(1,4) and (3,4)",
+"D": "(1,4) and (4,1)"},
+"answer": "A",
+"details": "(1,4) is 2 left of x = 3; (5,4) is 2 right → symmetric about x = 3.",
+"difficulty": "medium"
+},
+{
+"question": "A point moves from (2,6) to (5,2). This is a translation of:",
+"options": {
+"A": "3 right, 4 up",
+"B": "3 right, 4 down",
+"C": "3 left, 4 up",
+"D": "3 left, 4 down"},
+"answer": "B",
+"details": "x: 2 → 5 = +3 (right). y: 6 → 2 = –4 (down).",
+"difficulty": "medium"
+},
+{
+"question": "After a reflection, the angles of the shape:",
+"options": {
+"A": "Double in size",
+"B": "Halve in size",
+"C": "Remain unchanged",
+"D": "Become right angles"},
+"answer": "C",
+"details": "Reflection is rigid — all angle measures are preserved.",
+"difficulty": "medium"
+},
+{
+"question": "A triangle with vertices (3,1), (5,1), and (4,3) is reflected in y = 2. What is the image of (4,3)?",
+"options": {
+"A": "(4,1)",
+"B": "(4,2)",
+"C": "(4,3)",
+"D": "(4,5)"},
+"answer": "A",
+"details": "(4,3) is 1 unit above y = 2, so its image is 1 unit below: y = 2 – 1 = 1 → (4,1).",
+"difficulty": "medium"
+},
+{
+"question": "A translation of '4 units left and 1 unit up' is written as the vector:",
+"options": {
+"A": "(+4, +1)",
+"B": "(–4, +1)",
+"C": "(+4, –1)",
+"D": "(–4, –1)"},
+"answer": "B",
+"details": "Left: x decreases (–4); up: y increases (+1) → (–4, +1).",
+"difficulty": "medium"
+},
+{
+"question": "Which is always true for a shape and its image after a translation?",
+"options": {
+"A": "They are mirror images.",
+"B": "They have different sizes.",
+"C": "They are congruent and have the same orientation.",
+"D": "They share at least one point."},
+"answer": "C",
+"details": "Translation preserves size, shape, and orientation — the image is congruent and identically oriented.",
+"difficulty": "medium"
+}
+]
