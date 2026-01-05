@@ -51,4 +51,11 @@ turn this content  ``
 19) etlPythonEnh3.py => PDF question generation script with topic classification + 4 max question per topic + examgenie watermark
 20) etlPythonEnh_first_sample_paper.py => PDF question generation script with topic classification + 4 max question per topic + examgenome watermark + strategy
 21) etlPythonEnh_topic_sample_paper.py => PDF question generation script with topic classification + 4 max question per topic + examgenome watermark + strategy + current script used to generate PDF files
-18) fileRename.pl => To rename the generated flashcard pdf's
+22) fileRename.pl => To rename the generated flashcard pdf's
+23) flashCardGenerator.py => To generate flashcards
+24) gemini.py => Gemini API template
+25) gemini-2.py => To genrate 'Extracted_data' from source json for testing the generated jsons
+26) gemini-1.py => To generate 'verification' text from 'extracted_data' for testing the genrated jsons
+27) gemini_year456.py => To generate 'verification' text from 'extracted_data' for testing the genrated jsons for year456 questionnaire
+28) cheatSheets.py => To generate cheat sheets
+29) yearSheets.py => To generate Year456 question
