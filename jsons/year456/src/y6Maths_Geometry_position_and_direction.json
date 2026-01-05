@@ -8,7 +8,8 @@
 "D": "(–3, 2)"},
 "answer": "A",
 "details": "x: –3 + 5 = 2; y: 4 – 2 = 2 → (2, 2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point lies in Quadrant II?",
@@ -19,7 +20,8 @@
 "D": "(–1, –4)"},
 "answer": "B",
 "details": "Quadrant II has negative x and positive y.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–2, –3), (–2, 1), and (3, 1). What is the fourth vertex?",
@@ -30,7 +32,8 @@
 "D": "(3, 0)"},
 "answer": "A",
 "details": "The missing corner shares x with (3,1) and y with (–2,–3) → (3, –3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the reflection of (6, 2) in the y-axis?",
@@ -41,7 +44,8 @@
 "D": "(2, 6)"},
 "answer": "A",
 "details": "Reflecting in the y-axis changes the sign of the x-coordinate only.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Point (–4, –1) is translated 3 units right and 5 units up. What are the new coordinates?",
@@ -52,7 +56,8 @@
 "D": "(–4, 4)"},
 "answer": "A",
 "details": "x: –4 + 3 = –1; y: –1 + 5 = 4 → (–1, 4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A square has vertices at (0, 1), (0, 4), and (3, 4). What is the fourth vertex?",
@@ -63,7 +68,8 @@
 "D": "(0, –2)"},
 "answer": "A",
 "details": "To complete the square, the missing point is (3, 1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which transformation changes (x, y) to (x, –y)?",
@@ -74,7 +80,8 @@
 "D": "Rotation 90°"},
 "answer": "A",
 "details": "Reflection in the x-axis flips the y-coordinate sign.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of a point directly above (–5, –2) by 6 units?",
@@ -85,7 +92,8 @@
 "D": "(–11, –2)"},
 "answer": "A",
 "details": "Up increases y: –2 + 6 = 4 → (–5, 4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (2, 0), (0, 3), and (–2, 0). What is the fourth vertex?",
@@ -96,7 +104,8 @@
 "D": "(0, 6)"},
 "answer": "A",
 "details": "The shape is symmetric about the x-axis, so the missing point is (0, –3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is the image of (–1, 3) after a translation of (0, –4)?",
@@ -107,7 +116,8 @@
 "D": "(–5, 3)"},
 "answer": "A",
 "details": "x unchanged; y: 3 – 4 = –1 → (–1, –1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the reflection of (–7, 0) in the y-axis?",
@@ -118,7 +128,8 @@
 "D": "(0, 7)"},
 "answer": "A",
 "details": "Reflecting a point on the x-axis over the y-axis changes only the x sign.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (1, –2), (4, –2), and (3, 0). What is the fourth vertex?",
@@ -129,7 +140,8 @@
 "D": "(1, 0)"},
 "answer": "A",
 "details": "From (1,–2) to (4,–2) is +3 in x. So from (3,0), go –3 → (0,0).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Point (2, –3) is reflected in the x-axis. What are its new coordinates?",
@@ -140,7 +152,8 @@
 "D": "(3, –2)"},
 "answer": "B",
 "details": "x stays 2; y becomes +3 → (2, 3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is equidistant from the x-axis and y-axis?",
@@ -151,7 +164,8 @@
 "D": "(6, 0)"},
 "answer": "B",
 "details": "Distance to x-axis = |y|; to y-axis = |x|. Only (–5,5) has |x| = |y| = 5.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A triangle has a vertex at (0, –4). It is translated 5 units left. What are the new coordinates?",
@@ -162,7 +176,8 @@
 "D": "(0, –9)"},
 "answer": "A",
 "details": "Left decreases x: 0 – 5 = –5 → (–5, –4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of the point halfway between (–2, 4) and (4, –2)?",
@@ -173,7 +188,8 @@
 "D": "(0, 0)"},
 "answer": "A",
 "details": "Midpoint: ((–2+4)/2, (4+–2)/2) = (2/2, 2/2) = (1, 1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is not in Quadrant IV?",
@@ -184,7 +200,8 @@
 "D": "(1, –4)"},
 "answer": "C",
 "details": "Quadrant IV has positive x, negative y. (–2, –3) is in Quadrant III.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–1, 0), (–1, 3), and (2, 3). What is the fourth vertex?",
@@ -195,7 +212,8 @@
 "D": "(5, 3)"},
 "answer": "A",
 "details": "Complete the rectangle: (2, 0).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the reflection of (3, –5) in the y-axis?",
@@ -206,7 +224,8 @@
 "D": "(5, –3)"},
 "answer": "A",
 "details": "y-axis reflection: x becomes –3 → (–3, –5).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Point (–2, 1) is translated by (6, –3). What are the new coordinates?",
@@ -217,7 +236,8 @@
 "D": "(–2, –2)"},
 "answer": "A",
 "details": "x: –2 + 6 = 4; y: 1 – 3 = –2 → (4, –2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A square has vertices at (–3, –1), (–3, 2), and (0, 2). What is the fourth vertex?",
@@ -228,7 +248,8 @@
 "D": "(–3, –4)"},
 "answer": "A",
 "details": "Complete the square: (0, –1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point lies on the x-axis?",
@@ -239,7 +260,8 @@
 "D": "(1, 1)"},
 "answer": "B",
 "details": "On the x-axis, y = 0.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of a point 4 units left of (1, –3)?",
@@ -250,7 +272,8 @@
 "D": "(1, –7)"},
 "answer": "A",
 "details": "Left: 1 – 4 = –3 → (–3, –3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (0, 0), (4, 0), and (2, 3). What is the fourth vertex?",
@@ -261,7 +284,8 @@
 "D": "(–2, 3)"},
 "answer": "A",
 "details": "Symmetry about the x-axis gives (2, –3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the reflection of (0, –8) in the x-axis?",
@@ -272,7 +296,8 @@
 "D": "(–8, 0)"},
 "answer": "A",
 "details": "x-axis reflection: y changes sign → (0, 8).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Point (3, 0) is translated 2 units up and 4 units left. What are the new coordinates?",
@@ -283,7 +308,8 @@
 "D": "(3, 2)"},
 "answer": "A",
 "details": "x: 3 – 4 = –1; y: 0 + 2 = 2 → (–1, 2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which transformation is described by (x, y) → (x + 3, y – 2)?",
@@ -294,7 +320,8 @@
 "D": "Dilation"},
 "answer": "A",
 "details": "Adding to coordinates describes a translation.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–3, 2), (0, 2), and (–1, 4). What is the fourth vertex?",
@@ -305,7 +332,8 @@
 "D": "(0, 0)"},
 "answer": "A",
 "details": "From (–3,2) to (0,2) is +3 in x. So from (–1,4), go –3 → (–4,4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of a point 3 units below (–2, 1)?",
@@ -316,7 +344,8 @@
 "D": "(–5, 1)"},
 "answer": "A",
 "details": "Down: 1 – 3 = –2 → (–2, –2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is the reflection of (5, –2) in the x-axis?",
@@ -327,7 +356,8 @@
 "D": "(2, –5)"},
 "answer": "B",
 "details": "x unchanged; y becomes +2 → (5, 2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of the point plotted at 3 units right and 2 units up from the origin?",
@@ -338,7 +368,8 @@
 "D": "(3, -2)"},
 "answer": "B",
 "details": "Moving right is positive x; up is positive y. So (3, 2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which quadrant is the point (-4, 5) in?",
@@ -349,7 +380,8 @@
 "D": "Quadrant IV"},
 "answer": "B",
 "details": "Quadrant II has negative x and positive y.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of the origin?",
@@ -360,7 +392,8 @@
 "D": "(1, 0)"},
 "answer": "C",
 "details": "The origin is where the x- and y-axes cross: (0, 0).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point at (2, -3) is translated 4 units left. What are its new coordinates?",
@@ -371,7 +404,8 @@
 "D": "(2, -7)"},
 "answer": "A",
 "details": "Moving left decreases x: 2 – 4 = -2. y stays -3.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is in Quadrant IV?",
@@ -382,7 +416,8 @@
 "D": "(3, -4)"},
 "answer": "D",
 "details": "Quadrant IV has positive x and negative y.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of a point 5 units left and 1 unit down from the origin?",
@@ -393,7 +428,8 @@
 "D": "(5, 1)"},
 "answer": "A",
 "details": "Left = negative x; down = negative y → (-5, -1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A triangle has a vertex at (1, 2). It is translated 3 units up. What are the new coordinates of this vertex?",
@@ -404,7 +440,8 @@
 "D": "(-2, 2)"},
 "answer": "A",
 "details": "Up increases y: 2 + 3 = 5 → (1, 5).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the reflection of the point (4, 3) in the x-axis?",
@@ -415,7 +452,8 @@
 "D": "(3, 4)"},
 "answer": "B",
 "details": "Reflecting in the x-axis changes the sign of the y-coordinate: (4, -3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the reflection of the point (-2, 5) in the y-axis?",
@@ -426,7 +464,8 @@
 "D": "(-5, -2)"},
 "answer": "A",
 "details": "Reflecting in the y-axis changes the sign of the x-coordinate: (2, 5).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which quadrant has both x and y negative?",
@@ -437,7 +476,8 @@
 "D": "Quadrant IV"},
 "answer": "C",
 "details": "Quadrant III: x < 0, y < 0.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A square has three vertices at (0, 0), (0, 2), and (2, 2). What are the coordinates of the fourth vertex?",
@@ -448,7 +488,8 @@
 "D": "(2, 4)"},
 "answer": "A",
 "details": "The missing corner to complete the square is at (2, 0).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Point A is at (-3, -1). It is translated 5 units right. What are the new coordinates?",
@@ -459,7 +500,8 @@
 "D": "(-3, -6)"},
 "answer": "A",
 "details": "Right increases x: -3 + 5 = 2 → (2, -1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of a point directly below (4, 0) by 3 units?",
@@ -470,7 +512,8 @@
 "D": "(7, 0)"},
 "answer": "B",
 "details": "Down decreases y: 0 – 3 = -3 → (4, -3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is the reflection of (0, -4) in the x-axis?",
@@ -481,7 +524,8 @@
 "D": "(-4, 0)"},
 "answer": "A",
 "details": "Reflecting in x-axis: y changes sign → (0, 4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (1, 1), (1, 3), (4, 3). What is the fourth vertex?",
@@ -492,7 +536,8 @@
 "D": "(4, 4)"},
 "answer": "A",
 "details": "Opposite corners must align: missing point is (4, 1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point lies on the y-axis?",
@@ -503,7 +548,8 @@
 "D": "(-1, 3)"},
 "answer": "B",
 "details": "On the y-axis, x = 0. So (0, 5).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point at (-2, 4) is translated 3 units down. What are its new coordinates?",
@@ -514,7 +560,8 @@
 "D": "(-5, 4)"},
 "answer": "A",
 "details": "Down decreases y: 4 – 3 = 1 → (-2, 1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the reflection of (–5, –2) in the y-axis?",
@@ -525,7 +572,8 @@
 "D": "(–2, –5)"},
 "answer": "A",
 "details": "Reflect in y-axis: change sign of x → (5, –2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is in Quadrant I?",
@@ -536,7 +584,8 @@
 "D": "(-3, -1)"},
 "answer": "C",
 "details": "Quadrant I has positive x and positive y.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (0, 0), (2, 0), and (3, 2). What is the fourth vertex?",
@@ -547,7 +596,8 @@
 "D": "(0, 2)"},
 "answer": "A",
 "details": "In a parallelogram, opposite sides are equal and parallel. From (0,0) to (2,0) is +2 in x. So from (3,2), go –2 in x → (1,2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of a point 6 units left of (1, 3)?",
@@ -558,7 +608,8 @@
 "D": "(1, 9)"},
 "answer": "A",
 "details": "Left: 1 – 6 = –5 → (-5, 3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is the reflection of (3, -1) in the x-axis?",
@@ -569,7 +620,8 @@
 "D": "(1, -3)"},
 "answer": "B",
 "details": "Reflect in x-axis: y changes sign → (3, 1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (0, 0), (2, 0), and (1, 2). What is the fourth vertex?",
@@ -580,7 +632,8 @@
 "D": "(-1, 2)"},
 "answer": "A",
 "details": "A rhombus is symmetrical. The missing point is directly below the top vertex: (1, -2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Point (–1, –3) is translated 4 units up and 2 units right. What are the new coordinates?",
@@ -591,7 +644,8 @@
 "D": "(1, –7)"},
 "answer": "A",
 "details": "x: –1 + 2 = 1; y: –3 + 4 = 1 → (1, 1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point lies on the x-axis?",
@@ -602,7 +656,8 @@
 "D": "(0, –1)"},
 "answer": "B",
 "details": "On the x-axis, y = 0. So (5, 0).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the reflection of (0, 7) in the y-axis?",
@@ -613,7 +668,8 @@
 "D": "(–7, 0)"},
 "answer": "C",
 "details": "It’s on the y-axis, so reflection is the same point: (0, 7).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A square has vertices at (–1, –1), (–1, 1), and (1, 1). What is the fourth vertex?",
@@ -624,7 +680,8 @@
 "D": "(–3, –1)"},
 "answer": "A",
 "details": "Completing the square: (1, –1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which transformation moves every point of a shape the same distance in the same direction?",
@@ -635,7 +692,8 @@
 "D": "Dilation"},
 "answer": "C",
 "details": "Translation slides a shape without turning or flipping it.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point at (5, –2) is reflected in the y-axis. What are the new coordinates?",
@@ -646,7 +704,8 @@
 "D": "(2, –5)"},
 "answer": "A",
 "details": "Reflect in y-axis: x changes sign → (–5, –2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of the point halfway between (0, 0) and (4, 6)?",
@@ -657,7 +716,8 @@
 "D": "(1, 2)"},
 "answer": "A",
 "details": "Midpoint: average the coordinates → ((0+4)/2, (0+6)/2) = (2, 3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (1, 1), (3, 1), and (2, 3). It is translated 2 units left. What is the new coordinate of (2, 3)?",
@@ -668,7 +728,8 @@
 "D": "(2, 5)"},
 "answer": "A",
 "details": "Left: 2 – 2 = 0 → (0, 3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is the reflection of (–4, 0) in the y-axis?",
@@ -679,7 +740,8 @@
 "D": "(0, 4)"},
 "answer": "A",
 "details": "Reflect in y-axis: x changes sign → (4, 0).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–2, 1), (–2, 4), and (3, 4). What is the fourth vertex?",
@@ -690,7 +752,8 @@
 "D": "(3, –1)"},
 "answer": "A",
 "details": "Missing corner: same x as (3,4), same y as (–2,1) → (3,1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of a point 3 units above (–1, –2)?",
@@ -701,7 +764,8 @@
 "D": "(–4, –2)"},
 "answer": "A",
 "details": "Up: –2 + 3 = 1 → (–1, 1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Point (2, –5) is translated 3 units right and 4 units up. What are the new coordinates?",
@@ -712,7 +776,8 @@
 "D": "(5, –9)"},
 "answer": "A",
 "details": "x: 2 + 3 = 5; y: –5 + 4 = –1 → (5, –1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the reflection of (6, –3) in the x-axis?",
@@ -723,7 +788,8 @@
 "D": "(3, –6)"},
 "answer": "B",
 "details": "x-axis reflection: y changes sign → (6, 3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is in Quadrant III?",
@@ -734,7 +800,8 @@
 "D": "(2, 3)"},
 "answer": "C",
 "details": "Quadrant III: both coordinates negative.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A square has vertices at (0, 0), (0, –2), and (–2, –2). What is the fourth vertex?",
@@ -745,7 +812,8 @@
 "D": "(–2, –4)"},
 "answer": "A",
 "details": "Completing the square: (–2, 0).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of a point 4 units right of (–3, 2)?",
@@ -756,7 +824,8 @@
 "D": "(–3, –2)"},
 "answer": "A",
 "details": "Right: –3 + 4 = 1 → (1, 2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which transformation flips a shape over a line?",
@@ -767,7 +836,8 @@
 "D": "Scaling"},
 "answer": "B",
 "details": "Reflection creates a mirror image over a line (e.g., x- or y-axis).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point at (–1, 4) is reflected in the x-axis. What are its new coordinates?",
@@ -778,7 +848,8 @@
 "D": "(4, –1)"},
 "answer": "B",
 "details": "x-axis reflection: y becomes –4 → (–1, –4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (1, 1), (4, 1), and (3, 3). What is the fourth vertex?",
@@ -789,7 +860,8 @@
 "D": "(4, 3)"},
 "answer": "A",
 "details": "From (1,1) to (4,1) is +3 in x. So from (3,3), go –3 in x → (0,3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of the point 5 units below (2, 1)?",
@@ -800,7 +872,8 @@
 "D": "(–3, 1)"},
 "answer": "A",
 "details": "Down: 1 – 5 = –4 → (2, –4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is equidistant from both axes?",
@@ -811,7 +884,8 @@
 "D": "(6, 0)"},
 "answer": "B",
 "details": "Distance to y-axis = |x|; to x-axis = |y|. Only (–4, 4) has |x| = |y| = 4.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (0, 0), (2, 0), and (1, –2). What is the fourth vertex?",
@@ -822,7 +896,8 @@
 "D": "(–1, –2)"},
 "answer": "A",
 "details": "Symmetry about the x-axis: reflect (1, –2) → (1, 2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Point (3, –1) is translated 5 units left and 2 units down. What are the new coordinates?",
@@ -833,7 +908,8 @@
 "D": "(–2, 1)"},
 "answer": "A",
 "details": "x: 3 – 5 = –2; y: –1 – 2 = –3 → (–2, –3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the reflection of (–2, –5) in the x-axis?",
@@ -844,7 +920,8 @@
 "D": "(–5, –2)"},
 "answer": "B",
 "details": "x stays –2; y becomes 5 → (–2, 5).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is not in any quadrant?",
@@ -855,7 +932,8 @@
 "D": "(5, –1)"},
 "answer": "A",
 "details": "The origin (0,0) is on the axes, not in any quadrant.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–1, –2), (–1, 1), and (2, 1). What is the fourth vertex?",
@@ -866,7 +944,8 @@
 "D": "(–1, –1)"},
 "answer": "A",
 "details": "Complete the rectangle: (2, –2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of a point 7 units left of (3, –2)?",
@@ -877,7 +956,8 @@
 "D": "(3, –9)"},
 "answer": "A",
 "details": "Left: 3 – 7 = –4 → (–4, –2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A triangle has a vertex at (–4, 2). It is translated 6 units right. What are the new coordinates?",
@@ -888,7 +968,8 @@
 "D": "(–4, –4)"},
 "answer": "A",
 "details": "Right: –4 + 6 = 2 → (2, 2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the reflection of (0, –6) in the x-axis?",
@@ -899,7 +980,8 @@
 "D": "(–6, 0)"},
 "answer": "A",
 "details": "x-axis reflection: y changes sign → (0, 6).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which of the following points is farthest from the origin?",
@@ -910,7 +992,8 @@
 "D": "(–1, –1)"},
 "answer": "B",
 "details": "All are distance √2 or 2 from origin. (2,0) and (0,2) are distance 2 — tie. But (2,0) is listed, so acceptable. (Note: in easy level, approximate comparison is fine.)",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A square has vertices at (1, –1), (1, –3), and (3, –3). What is the fourth vertex?",
@@ -921,7 +1004,8 @@
 "D": "(1, –5)"},
 "answer": "A",
 "details": "Complete the square: (3, –1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Point (–3, 0) is translated 4 units up. What are the new coordinates?",
@@ -932,7 +1016,8 @@
 "D": "(–7, 0)"},
 "answer": "A",
 "details": "Up: 0 + 4 = 4 → (–3, 4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the reflection of (5, 0) in the y-axis?",
@@ -943,7 +1028,8 @@
 "D": "(0, –5)"},
 "answer": "A",
 "details": "y-axis reflection: x changes sign → (–5, 0).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–2, 1), (1, 1), and (0, 3). What is the fourth vertex?",
@@ -954,7 +1040,8 @@
 "D": "(1, –1)"},
 "answer": "A",
 "details": "From (–2,1) to (1,1) is +3 in x. So from (0,3), go –3 in x → (–3,3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is the image of (2, 3) after a translation of (–4, 0)?",
@@ -965,7 +1052,8 @@
 "D": "(2, 7)"},
 "answer": "A",
 "details": "x: 2 + (–4) = –2; y unchanged → (–2, 3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of a point 2 units down from (–5, 4)?",
@@ -976,7 +1064,8 @@
 "D": "(–7, 4)"},
 "answer": "A",
 "details": "Down: 4 – 2 = 2 → (–5, 2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (0, –1), (3, –1), and (3, 2). What is the fourth vertex?",
@@ -987,7 +1076,8 @@
 "D": "(3, –4)"},
 "answer": "A",
 "details": "Missing corner: (0, 2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the reflection of (–3, 4) in the x-axis?",
@@ -998,7 +1088,8 @@
 "D": "(4, –3)"},
 "answer": "B",
 "details": "x unchanged; y becomes –4 → (–3, –4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Point (1, –2) is translated by (–3, 5). What are the new coordinates?",
@@ -1009,7 +1100,8 @@
 "D": "(1, 3)"},
 "answer": "A",
 "details": "x: 1 + (–3) = –2; y: –2 + 5 = 3 → (–2, 3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is in the same quadrant as (–2, –5)?",
@@ -1020,7 +1112,8 @@
 "D": "(2, 3)"},
 "answer": "C",
 "details": "Both x and y negative → Quadrant III.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of the point 3 units right and 4 units down from (–2, 5)?",
@@ -1031,7 +1124,8 @@
 "D": "(–2, 1)"},
 "answer": "A",
 "details": "x: –2 + 3 = 1; y: 5 – 4 = 1 → (1, 1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which transformation is used when a shape is slid without turning or flipping?",
@@ -1042,7 +1136,8 @@
 "D": "Enlargement"},
 "answer": "C",
 "details": "Translation moves every point the same way.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A square has vertices at (–2, –2), (–2, 0), and (0, 0). What is the fourth vertex?",
@@ -1053,7 +1148,8 @@
 "D": "(–2, 2)"},
 "answer": "A",
 "details": "Complete the square: (0, –2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the reflection of (4, –1) in the y-axis?",
@@ -1064,7 +1160,8 @@
 "D": "(1, –4)"},
 "answer": "A",
 "details": "y-axis reflection: x becomes –4 → (–4, –1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Point (0, 3) is translated 5 units left. What are the new coordinates?",
@@ -1075,7 +1172,8 @@
 "D": "(0, –2)"},
 "answer": "A",
 "details": "Left: 0 – 5 = –5 → (–5, 3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (2, –1), (5, –1), and (4, 1). What is the fourth vertex?",
@@ -1086,7 +1184,8 @@
 "D": "(2, 1)"},
 "answer": "A",
 "details": "From (2,–1) to (5,–1) is +3 in x. So from (4,1), go –3 → (1,1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is the reflection of (–1, –1) in the x-axis?",
@@ -1097,7 +1196,8 @@
 "D": "(–1, –1)"},
 "answer": "B",
 "details": "x unchanged; y becomes +1 → (–1, 1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of a point 6 units above (–3, –4)?",
@@ -1108,7 +1208,8 @@
 "D": "(–9, –4)"},
 "answer": "A",
 "details": "Up: –4 + 6 = 2 → (–3, 2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (1, 2), (1, 5), and (4, 5). What is the fourth vertex?",
@@ -1119,7 +1220,8 @@
 "D": "(4, 8)"},
 "answer": "A",
 "details": "Complete the rectangle: (4, 2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Point (–2, 3) is translated by (4, –5). What are the new coordinates?",
@@ -1130,7 +1232,8 @@
 "D": "(–2, –2)"},
 "answer": "A",
 "details": "x: –2 + 4 = 2; y: 3 + (–5) = –2 → (2, –2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the reflection of (0, 0) in the y-axis?",
@@ -1141,7 +1244,8 @@
 "D": "(0, –1)"},
 "answer": "A",
 "details": "The origin reflects to itself.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is not on either axis?",
@@ -1152,7 +1256,8 @@
 "D": "(0, 0)"},
 "answer": "C",
 "details": "Both coordinates non-zero → not on an axis.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A square has vertices at (2, 1), (2, 4), and (5, 4). What is the fourth vertex?",
@@ -1163,7 +1268,8 @@
 "D": "(2, –2)"},
 "answer": "A",
 "details": "Complete the square: (5, 1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of the point 4 units left and 3 units up from (1, –2)?",
@@ -1174,7 +1280,8 @@
 "D": "(1, 1)"},
 "answer": "A",
 "details": "x: 1 – 4 = –3; y: –2 + 3 = 1 → (–3, 1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which transformation changes (x, y) to (–x, y)?",
@@ -1185,7 +1292,8 @@
 "D": "Rotation"},
 "answer": "B",
 "details": "Reflection in y-axis negates x.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (–1, 0), (0, 2), and (1, 0). What is the fourth vertex?",
@@ -1196,7 +1304,8 @@
 "D": "(–1, 2)"},
 "answer": "A",
 "details": "Symmetry about x-axis: (0, –2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Point (3, 3) is reflected in the x-axis. What are the new coordinates?",
@@ -1207,7 +1316,8 @@
 "D": "(0, 0)"},
 "answer": "B",
 "details": "x unchanged; y becomes –3 → (3, –3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is closest to the origin?",
@@ -1218,7 +1328,8 @@
 "D": "(–1, 1)"},
 "answer": "D",
 "details": "Distance of (–1,1) is √2 ≈ 1.4, which is smallest.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–1, –1), (2, –1), and (1, 1). What is the fourth vertex?",
@@ -1229,7 +1340,8 @@
 "D": "(–1, 1)"},
 "answer": "A",
 "details": "From (–1,–1) to (2,–1) is +3 in x. From (1,1), go –3 → (–2,1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Point A is at (–3, 4). It is translated 5 units right and 2 units down. What are the new coordinates?",
@@ -1240,7 +1352,8 @@
 "D": "(–8, 2)"},
 "answer": "A",
 "details": "Moving right increases the x-coordinate: –3 + 5 = 2. Moving down decreases the y-coordinate: 4 – 2 = 2. So new coordinates are (2, 2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (1, 2), (4, 2), and (1, 5). What is the area of the triangle?",
@@ -1251,7 +1364,8 @@
 "D": "9 square units"},
 "answer": "B",
 "details": "Base = |4 – 1| = 3, height = |5 – 2| = 3. Area = ½ × base × height = ½ × 3 × 3 = 4.5.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point P(–2, –5) is reflected in the x-axis. What are the coordinates of the image?",
@@ -1262,7 +1376,8 @@
 "D": "(–5, –2)"},
 "answer": "B",
 "details": "Reflection in the x-axis changes the sign of the y-coordinate only. So (–2, –5) → (–2, 5).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A square has three vertices at (0, 0), (0, 3), and (3, 3). What are the coordinates of the fourth vertex?",
@@ -1273,7 +1388,8 @@
 "D": "(3, –3)"},
 "answer": "A",
 "details": "The missing vertex must complete the square. From (0,0) to (0,3) is vertical, (0,3) to (3,3) is horizontal, so the last side goes down to (3,0).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point lies in the third quadrant?",
@@ -1284,7 +1400,8 @@
 "D": "(1, 3)"},
 "answer": "C",
 "details": "The third quadrant has both x and y negative. Only (–2, –4) satisfies this.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A shape is translated by the vector (–4, 3). If a vertex was at (5, –1), where is it now?",
@@ -1295,7 +1412,8 @@
 "D": "(9, 2)"},
 "answer": "A",
 "details": "Add the vector: x = 5 + (–4) = 1, y = –1 + 3 = 2. So (1, 2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point Q(6, –3) is reflected in the y-axis. What are the coordinates of the image?",
@@ -1306,7 +1424,8 @@
 "D": "(3, –6)"},
 "answer": "A",
 "details": "Reflection in the y-axis changes the sign of the x-coordinate only. So (6, –3) → (–6, –3).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–1, 2), (2, 2), and (3, –1). What are the coordinates of the fourth vertex?",
@@ -1317,7 +1436,8 @@
 "D": "(–2, –1)"},
 "answer": "A",
 "details": "In a parallelogram, opposite sides are equal and parallel. The vector from (–1,2) to (2,2) is (3,0). Apply this to (3,–1): (3–3, –1+0) = (0,–1).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What are the coordinates of the midpoint of the line segment joining (–4, 6) and (2, –2)?",
@@ -1328,7 +1448,8 @@
 "D": "(–1, 4)"},
 "answer": "A",
 "details": "Midpoint = ((x₁+x₂)/2, (y₁+y₂)/2) = ((–4+2)/2, (6 + (–2))/2) = (–2/2, 4/2) = (–1, 2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–2, 1), (3, 1), and (3, –4). What is the fourth vertex?",
@@ -1339,7 +1460,8 @@
 "D": "(–3, –4)"},
 "answer": "A",
 "details": "Opposite corners must align. From (–2,1) to (3,1) is horizontal, (3,1) to (3,–4) is vertical, so the missing point is (–2, –4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point R(a, b) is translated 3 units left and 4 units up. What are the new coordinates?",
@@ -1350,7 +1472,8 @@
 "D": "(a – 4, b + 3)"},
 "answer": "B",
 "details": "Left decreases x: a – 3. Up increases y: b + 4. So (a – 3, b + 4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which transformation maps (–3, 2) to (3, 2)?",
@@ -1361,7 +1484,8 @@
 "D": "Both B and C"},
 "answer": "D",
 "details": "Reflection in y-axis: (–3,2) → (3,2). Translation right 6: –3 + 6 = 3, so (3,2). Both work.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (0, 0), (4, 0), and (2, 3). What is the fourth vertex?",
@@ -1372,7 +1496,8 @@
 "D": "(2, 0)"},
 "answer": "A",
 "details": "In a rhombus, diagonals bisect each other. Midpoint of (0,0) and (4,0) is (2,0). So the other diagonal must also have midpoint (2,0). If one end is (2,3), the other is (2, –3).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the distance between (–1, –1) and (2, 3)?",
@@ -1383,7 +1508,8 @@
 "D": "7 units"},
 "answer": "B",
 "details": "Use distance formula: √[(2 – (–1))² + (3 – (–1))²] = √[3² + 4²] = √[9 + 16] = √25 = 5.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A triangle with vertices at (–2, 1), (1, 1), and (–2, 4) is translated so that (–2, 1) moves to (0, –1). Where does (1, 1) move to?",
@@ -1394,7 +1520,8 @@
 "D": "(1, –1)"},
 "answer": "A",
 "details": "Translation vector: from (–2,1) to (0,–1) is (+2, –2). Apply to (1,1): (1+2, 1–2) = (3, –1).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is equidistant from (0, 3) and (0, –3)?",
@@ -1405,7 +1532,8 @@
 "D": "All of the above"},
 "answer": "D",
 "details": "All points on the x-axis are equidistant from (0,3) and (0,–3) because they lie on the perpendicular bisector (the x-axis). So (4,0), (0,0), and (–2,0) all work.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A square has vertices at (1, 1), (1, 4), and (4, 1). What is the fourth vertex?",
@@ -1416,7 +1544,8 @@
 "D": "(2, 2)"},
 "answer": "A",
 "details": "The missing vertex must be opposite (1,1). From (1,1) to (1,4) and (4,1), the fourth corner is (4,4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point S(–5, 2) is translated by (x, y) → (x + 7, y – 5). What are the new coordinates?",
@@ -1427,7 +1556,8 @@
 "D": "(–12, 7)"},
 "answer": "A",
 "details": "x = –5 + 7 = 2, y = 2 – 5 = –3. So (2, –3).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A shape is reflected in the y-axis. Which coordinate changes sign?",
@@ -1438,7 +1568,8 @@
 "D": "Neither"},
 "answer": "A",
 "details": "Reflection in the y-axis changes the sign of the x-coordinate only.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–3, –1), (0, –1), and (1, 2). What is the fourth vertex?",
@@ -1449,7 +1580,8 @@
 "D": "(2, –1)"},
 "answer": "A",
 "details": "Vector from (–3,–1) to (0,–1) is (3,0). Apply to (1,2): (1–3, 2+0) = (–2,2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What are the coordinates of the point that is 3 units left and 4 units down from (–1, 2)?",
@@ -1460,7 +1592,8 @@
 "D": "(–4, 6)"},
 "answer": "B",
 "details": "Left: –1 – 3 = –4. Down: 2 – 4 = –2. So (–4, –2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which transformation changes (a, b) to (–a, b)?",
@@ -1471,7 +1604,8 @@
 "D": "Rotation"},
 "answer": "B",
 "details": "Changing x to –x is reflection in the y-axis.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (2, –3), (2, 1), and (–1, 1). What is the fourth vertex?",
@@ -1482,7 +1616,8 @@
 "D": "(–1, 3)"},
 "answer": "A",
 "details": "The missing point must share x with (–1,1) and y with (2,–3), so (–1, –3).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point T(3, –4) is reflected in the x-axis, then translated 2 units left. What are the final coordinates?",
@@ -1493,7 +1628,8 @@
 "D": "(–1, 4)"},
 "answer": "A",
 "details": "Reflect in x-axis: (3, –4) → (3, 4). Translate left 2: (3–2, 4) = (1, 4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is in the second quadrant?",
@@ -1504,7 +1640,8 @@
 "D": "(2, 5)"},
 "answer": "A",
 "details": "Second quadrant: x negative, y positive. (–5, 3) fits.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (–2, –1), (1, –1), and (–2, 2). What is its perimeter?",
@@ -1515,7 +1652,8 @@
 "D": "12"},
 "answer": "B",
 "details": "Sides: horizontal = 3, vertical = 3, hypotenuse = √[(3)² + (3)²] = √18 = 3√2. Perimeter = 3 + 3 + 3√2 = 6 + 3√2.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A point (x, y) is translated to (x – 4, y + 1), then reflected in the x-axis. What are the final coordinates?",
@@ -1526,7 +1664,8 @@
 "D": "(–x + 4, y + 1)"},
 "answer": "A",
 "details": "After translation: (x – 4, y + 1). Reflect in x-axis: (x – 4, –(y + 1)) = (x – 4, –y – 1).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the area of a rectangle with vertices at (–2, –1), (3, –1), (3, 2), and (–2, 2)?",
@@ -1537,7 +1676,8 @@
 "D": "18 square units"},
 "answer": "C",
 "details": "Width = 3 – (–2) = 5, height = 2 – (–1) = 3. Area = 5 × 3 = 15.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point U(–4, 6) is reflected in the y-axis, then in the x-axis. What are the final coordinates?",
@@ -1548,7 +1688,8 @@
 "D": "(–6, 4)"},
 "answer": "A",
 "details": "Reflect in y-axis: (–4,6) → (4,6). Reflect in x-axis: (4,6) → (4,–6).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (1, 0), (4, 0), and (2.5, 2). What is the fourth vertex?",
@@ -1559,7 +1700,8 @@
 "D": "(2.5, 0)"},
 "answer": "A",
 "details": "Diagonals bisect each other. Midpoint of (1,0) and (4,0) is (2.5,0). So the other diagonal must be vertical through (2.5,0). If one end is (2.5,2), the other is (2.5,–2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is the image of (–3, 2) after a translation of (5, –4)?",
@@ -1570,7 +1712,8 @@
 "D": "(–8, 6)"},
 "answer": "A",
 "details": "x = –3 + 5 = 2, y = 2 + (–4) = –2. So (2, –2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–2, 3), (1, 3), and (0, 0). What is the fourth vertex?",
@@ -1581,7 +1724,8 @@
 "D": "(2, 0)"},
 "answer": "A",
 "details": "Vector from (–2,3) to (1,3) is (3,0). Apply to (0,0): (0–3, 0+0) = (–3,0).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the length of the diagonal of a square with vertices at (1,1), (1,4), (4,4), and (4,1)?",
@@ -1592,7 +1736,8 @@
 "D": "9 units"},
 "answer": "B",
 "details": "Side = 3. Diagonal = side × √2 = 3√2.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point V(a, b) is reflected in the x-axis. What are the coordinates of the image?",
@@ -1603,7 +1748,8 @@
 "D": "(b, a)"},
 "answer": "B",
 "details": "Reflection in the x-axis changes the sign of the y-coordinate only: (a, –b).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (0, 0), (0, 6), and (8, 0). What is the area?",
@@ -1614,7 +1760,8 @@
 "D": "48 square units"},
 "answer": "B",
 "details": "Base = 8, height = 6. Area = ½ × 8 × 6 = 24.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which transformation maps (2, –5) to (2, 5)?",
@@ -1625,7 +1772,8 @@
 "D": "Both A and C"},
 "answer": "D",
 "details": "Reflection in x-axis: (2,–5) → (2,5). Translation up 10: (2,–5+10) = (2,5). Both work.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–3, –2), (1, –2), and (1, 3). What is the fourth vertex?",
@@ -1636,7 +1784,8 @@
 "D": "(–1, 3)"},
 "answer": "A",
 "details": "The missing vertex shares x with (–3,–2) and y with (1,3), so (–3, 3).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point W(–1, –4) is translated 6 units right and 3 units up, then reflected in the y-axis. What are the final coordinates?",
@@ -1647,7 +1796,8 @@
 "D": "(5, 1)"},
 "answer": "A",
 "details": "Translate: (–1+6, –4+3) = (5, –1). Reflect in y-axis: (–5, –1).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is closest to the origin?",
@@ -1658,7 +1808,8 @@
 "D": "(–4, –3)"},
 "answer": "A",
 "details": "Distances: A = √(9+16)=5, B=5, C=5, D=√(16+9)=5. All are 5 units away. But the question says 'closest'—all equal. However, if recalculate: all are exactly 5. So tied. But since only one answer, and all same, any could be chosen. But typically, (–3,4) is listed first. However, this is ambiguous. To fix: change one point. Assume D is (–4,–4): distance √32≈5.66. Then A, B, C are 5. Still tie. So better: use (–2,3): √13≈3.6. But given options, all are 5. So the question is flawed. But in context, all are equidistant, so any is correct. But since A is first, and the problem likely expects A, we'll keep. Alternatively, the intended answer is A.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A square has vertices at (–2, 1), (1, 4), and (4, 1). What is the fourth vertex?",
@@ -1669,7 +1820,8 @@
 "D": "(4, 4)"},
 "answer": "A",
 "details": "Midpoint of diagonal from (–2,1) to (4,1) is (1,1), but that’s not right. Better: the diagonals of a square bisect each other. Midpoint of (–2,1) and (4,1) is (1,1). Midpoint of (1,4) and (x,y) must also be (1,1). So (1+x)/2=1 → x=1; (4+y)/2=1 → y=–2. So (1,–2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the vector that translates (3, –2) to (–1, 4)?",
@@ -1680,7 +1832,8 @@
 "D": "(–2, –2)"},
 "answer": "A",
 "details": "Change in x: –1 – 3 = –4. Change in y: 4 – (–2) = 6. So vector (–4, 6).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A shape is reflected in the x-axis. Which statement is true?",
@@ -1691,7 +1844,8 @@
 "D": "Coordinates remain the same"},
 "answer": "B",
 "details": "Reflection in the x-axis changes the sign of the y-coordinate only.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (2, –1), (5, –1), and (6, 2). What is the fourth vertex?",
@@ -1702,7 +1856,8 @@
 "D": "(7, –1)"},
 "answer": "A",
 "details": "Vector from (2,–1) to (5,–1) is (3,0). Apply to (6,2): (6–3, 2+0) = (3,2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point X(–3, –2) is reflected in the y-axis, then translated 4 units down. What are the final coordinates?",
@@ -1713,7 +1868,8 @@
 "D": "(–3, 2)"},
 "answer": "A",
 "details": "Reflect in y-axis: (–3,–2) → (3,–2). Translate down 4: (3, –2 – 4) = (3, –6).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is on the line y = x?",
@@ -1724,7 +1880,8 @@
 "D": "(5, –5)"},
 "answer": "C",
 "details": "On y = x, x and y are equal. Only (4,4) satisfies this.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has length 6 units and width 4 units. If one vertex is at (–1, –2) and it extends right and up, what is the opposite vertex?",
@@ -1735,7 +1892,8 @@
 "D": "(4, 2)"},
 "answer": "A",
 "details": "From (–1,–2), move right 6: x = –1 + 6 = 5. Move up 4: y = –2 + 4 = 2. So (5,2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the area of a triangle with vertices at (0, 0), (6, 0), and (3, 4)?",
@@ -1746,7 +1904,8 @@
 "D": "24 square units"},
 "answer": "B",
 "details": "Base = 6, height = 4. Area = ½ × 6 × 4 = 12.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point Y(a, b) is reflected in the y-axis, then in the x-axis. What are the final coordinates?",
@@ -1757,7 +1916,8 @@
 "D": "(b, a)"},
 "answer": "A",
 "details": "Reflect in y-axis: (–a, b). Then in x-axis: (–a, –b).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (0, 0), (5, 0), and (2.5, 3). What is the fourth vertex?",
@@ -1768,7 +1928,8 @@
 "D": "(2.5, 0)"},
 "answer": "A",
 "details": "Diagonals bisect at (2.5, 0). So if one vertex is (2.5,3), the opposite is (2.5,–3).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which transformation is equivalent to reflecting in the x-axis then the y-axis?",
@@ -1779,7 +1940,8 @@
 "D": "Reflection in the line y = x"},
 "answer": "B",
 "details": "(x,y) → (x,–y) → (–x,–y), which is the same as rotation 180° about the origin.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A square has vertices at (–1, –1), (–1, 2), and (2, –1). What is the fourth vertex?",
@@ -1790,7 +1952,8 @@
 "D": "(2, –2)"},
 "answer": "A",
 "details": "The missing vertex must be at (2, 2) to complete the square.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the distance from (–3, 4) to the x-axis?",
@@ -1801,7 +1964,8 @@
 "D": "7 units"},
 "answer": "B",
 "details": "Distance to x-axis is the absolute value of the y-coordinate: |4| = 4.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point Z(2, –3) is translated by (–5, 4), then reflected in the x-axis. What are the final coordinates?",
@@ -1812,7 +1976,8 @@
 "D": "(7, 1)"},
 "answer": "A",
 "details": "Translate: (2–5, –3+4) = (–3, 1). Reflect in x-axis: (–3, –1).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is in the fourth quadrant?",
@@ -1823,7 +1988,8 @@
 "D": "(2, 3)"},
 "answer": "B",
 "details": "Fourth quadrant: x positive, y negative. (3, –5) fits.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–4, 1), (–1, 1), and (0, 4). What is the fourth vertex?",
@@ -1834,7 +2000,8 @@
 "D": "(1, 1)"},
 "answer": "A",
 "details": "Vector from (–4,1) to (–1,1) is (3,0). Apply to (0,4): (0–3, 4+0) = (–3,4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the perimeter of a square with vertices at (1, 1), (1, 5), (5, 5), and (5, 1)?",
@@ -1845,7 +2012,8 @@
 "D": "25 units"},
 "answer": "B",
 "details": "Side length = 4. Perimeter = 4 × 4 = 16.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A point (x, y) is reflected in the y-axis, then translated by (2, –3). What are the final coordinates?",
@@ -1856,7 +2024,8 @@
 "D": "(–x + 2, –y – 3)"},
 "answer": "A",
 "details": "Reflect in y-axis: (–x, y). Translate: (–x + 2, y – 3).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–2, –3), (4, –3), and (4, 1). What is the area?",
@@ -1867,7 +2036,8 @@
 "D": "30 square units"},
 "answer": "C",
 "details": "Width = 4 – (–2) = 6, height = 1 – (–3) = 4. Area = 6 × 4 = 24.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point A(–5, 2) is reflected in the x-axis, then in the y-axis. What are the final coordinates?",
@@ -1878,7 +2048,8 @@
 "D": "(–2, 5)"},
 "answer": "A",
 "details": "x-axis: (–5,2) → (–5,–2). y-axis: (–5,–2) → (5,–2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is the image of (3, –4) after reflection in the line y = 0?",
@@ -1889,7 +2060,8 @@
 "D": "(4, –3)"},
 "answer": "B",
 "details": "The line y = 0 is the x-axis. Reflection in x-axis changes y-sign: (3,4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (–1, 0), (2, 0), and (0, 3). What is its area?",
@@ -1900,7 +2072,8 @@
 "D": "5 square units"},
 "answer": "C",
 "details": "Base = 3, height = 3. Area = ½ × 3 × 3 = 4.5.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (–2, 0), (2, 0), and (0, 3). What is the fourth vertex?",
@@ -1911,7 +2084,8 @@
 "D": "(4, 0)"},
 "answer": "A",
 "details": "Diagonals bisect at (0,0). So if one vertex is (0,3), the opposite is (0,–3).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the vector that maps (–2, 5) to (3, –1)?",
@@ -1922,7 +2096,8 @@
 "D": "(–1, –4)"},
 "answer": "A",
 "details": "x: 3 – (–2) = 5, y: –1 – 5 = –6. So (5, –6).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point B(4, –3) is translated 5 units left and 2 units up. What are the new coordinates?",
@@ -1933,7 +2108,8 @@
 "D": "(9, –5)"},
 "answer": "A",
 "details": "x = 4 – 5 = –1, y = –3 + 2 = –1. So (–1, –1).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which transformation changes (x, y) to (x, –y)?",
@@ -1944,7 +2120,8 @@
 "D": "Translation"},
 "answer": "A",
 "details": "This is the rule for reflection in the x-axis.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A square has vertices at (0, 0), (0, 4), and (4, 0). What is the fourth vertex?",
@@ -1955,7 +2132,8 @@
 "D": "(2, 2)"},
 "answer": "A",
 "details": "The missing vertex is (4, 4) to complete the square.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the area of a parallelogram with vertices at (–1, –2), (2, –2), (3, 1), and (0, 1)?",
@@ -1966,7 +2144,8 @@
 "D": "12 square units"},
 "answer": "C",
 "details": "Base = 3, height = 3 (vertical distance between y=–2 and y=1). Area = 3 × 3 = 9.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point C(–3, 1) is reflected in the y-axis, then translated 4 units right and 2 units down. What are the final coordinates?",
@@ -1977,7 +2156,8 @@
 "D": "(1, 3)"},
 "answer": "A",
 "details": "Reflect in y-axis: (3, 1). Translate: (3+4, 1–2) = (7, –1).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (1, –2), (1, 3), and (–4, 3). What is the fourth vertex?",
@@ -1988,7 +2168,8 @@
 "D": "(–1, –2)"},
 "answer": "A",
 "details": "The missing vertex shares x with (–4,3) and y with (1,–2), so (–4, –2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the length of the line segment from (–2, –3) to (4, 5)?",
@@ -1999,7 +2180,8 @@
 "D": "14 units"},
 "answer": "B",
 "details": "Δx = 6, Δy = 8. Distance = √(36 + 64) = √100 = 10.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point D(a, b) is translated by (3, –2), then reflected in the y-axis. What are the final coordinates?",
@@ -2010,7 +2192,8 @@
 "D": "(–a – 3, –b + 2)"},
 "answer": "A",
 "details": "Translate: (a+3, b–2). Reflect in y-axis: (–(a+3), b–2) = (–a–3, b–2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–3, –2), (0, –2), and (1, 1). What is the fourth vertex?",
@@ -2021,7 +2204,8 @@
 "D": "(2, –2)"},
 "answer": "A",
 "details": "Vector from (–3,–2) to (0,–2) is (3,0). Apply to (1,1): (1–3, 1+0) = (–2,1).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is the image of (–4, 5) after a translation of (6, –8)?",
@@ -2032,7 +2216,8 @@
 "D": "(–10, 13)"},
 "answer": "A",
 "details": "x = –4 + 6 = 2, y = 5 + (–8) = –3. So (2, –3).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A square has side length 5 units. If one vertex is at (–2, 1) and it extends right and up, what is the opposite vertex?",
@@ -2043,7 +2228,8 @@
 "D": "(2, 6)"},
 "answer": "A",
 "details": "Move right 5: x = –2 + 5 = 3. Move up 5: y = 1 + 5 = 6. So (3,6).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point E(5, –1) is reflected in the x-axis, then translated 3 units left. What are the final coordinates?",
@@ -2054,7 +2240,8 @@
 "D": "(8, –1)"},
 "answer": "A",
 "details": "Reflect: (5,1). Translate left 3: (2,1).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the area of a triangle with vertices at (–2, –1), (4, –1), and (1, 3)?",
@@ -2065,7 +2252,8 @@
 "D": "16 square units"},
 "answer": "B",
 "details": "Base = 6, height = 4. Area = ½ × 6 × 4 = 12.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which transformation is the inverse of reflecting in the y-axis?",
@@ -2076,7 +2264,8 @@
 "D": "Translating by (0,0)"},
 "answer": "B",
 "details": "Reflecting twice in the same axis returns the point to its original position, so the inverse is the same transformation.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (–1, 0), (3, 0), and (1, 2). What is the fourth vertex?",
@@ -2087,7 +2276,8 @@
 "D": "(1, 0)"},
 "answer": "A",
 "details": "Midpoint of (–1,0) and (3,0) is (1,0). So the other diagonal is vertical through (1,0). If one end is (1,2), the other is (1,–2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point F(–2, 4) is translated by (5, –6), then reflected in the x-axis. What are the final coordinates?",
@@ -2098,7 +2288,8 @@
 "D": "(–7, –2)"},
 "answer": "A",
 "details": "Translate: (–2+5, 4–6) = (3, –2). Reflect in x-axis: (3, 2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the distance from (5, –3) to the y-axis?",
@@ -2109,7 +2300,8 @@
 "D": "√34 units"},
 "answer": "B",
 "details": "Distance to y-axis is |x| = |5| = 5.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–3, –1), (2, –1), and (2, 4). What is the fourth vertex?",
@@ -2120,7 +2312,8 @@
 "D": "(–2, 4)"},
 "answer": "A",
 "details": "The missing vertex is (–3, 4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is the image of (0, –5) after reflection in the x-axis?",
@@ -2131,7 +2324,8 @@
 "D": "(–5, 0)"},
 "answer": "A",
 "details": "Reflection in x-axis: (0, –5) → (0, 5).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (1, 2), (4, 2), and (5, 5). What is the fourth vertex?",
@@ -2142,7 +2336,8 @@
 "D": "(6, 2)"},
 "answer": "A",
 "details": "Vector from (1,2) to (4,2) is (3,0). Apply to (5,5): (5–3, 5+0) = (2,5).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the perimeter of a rectangle with vertices at (–2, –3), (4, –3), (4, 1), and (–2, 1)?",
@@ -2153,7 +2348,8 @@
 "D": "24 units"},
 "answer": "C",
 "details": "Width = 6, height = 4. Perimeter = 2(6 + 4) = 20.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point G(a, b) is reflected in the x-axis, then in the y-axis. What single transformation is this equivalent to?",
@@ -2164,7 +2360,8 @@
 "D": "Rotation 90° clockwise"},
 "answer": "A",
 "details": "(a,b) → (a,–b) → (–a,–b), which is rotation 180° about the origin.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A square has vertices at (–3, –2), (–3, 1), and (0, –2). What is the fourth vertex?",
@@ -2175,7 +2372,8 @@
 "D": "(3, –2)"},
 "answer": "A",
 "details": "The missing vertex is (0, 1).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the area of a rhombus with vertices at (0, 0), (4, 0), (2, 3), and (2, –3)?",
@@ -2186,7 +2384,8 @@
 "D": "24 square units"},
 "answer": "B",
 "details": "Diagonals are 4 and 6. Area = ½ × d1 × d2 = ½ × 4 × 6 = 12.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point H(3, –2) is reflected in the y-axis, then translated 5 units up. What are the final coordinates?",
@@ -2197,7 +2396,8 @@
 "D": "(3, –7)"},
 "answer": "A",
 "details": "Reflect: (–3, –2). Translate up 5: (–3, 3).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is in the first quadrant?",
@@ -2208,7 +2408,8 @@
 "D": "(3, 4)"},
 "answer": "D",
 "details": "First quadrant: both x and y positive. (3,4) fits.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (0, 0), (0, 5), and (12, 0). What is the length of the hypotenuse?",
@@ -2219,7 +2420,8 @@
 "D": "17 units"},
 "answer": "B",
 "details": "Hypotenuse = √(5² + 12²) = √(25 + 144) = √169 = 13.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point A(–4, 3) is translated by the vector (6, –5). What are the new coordinates?",
@@ -2230,7 +2432,8 @@
 "D": "(–10, 8)"},
 "answer": "A",
 "details": "Add the vector: x = –4 + 6 = 2, y = 3 + (–5) = –2. So (2, –2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–1, –2), (3, –2), and (3, 4). What is the fourth vertex?",
@@ -2241,7 +2444,8 @@
 "D": "(–3, 4)"},
 "answer": "A",
 "details": "The missing vertex shares x with (–1,–2) and y with (3,4), so (–1, 4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point B(5, –2) is reflected in the x-axis, then in the y-axis. What are the final coordinates?",
@@ -2252,7 +2456,8 @@
 "D": "(2, –5)"},
 "answer": "A",
 "details": "Reflect in x-axis: (5, 2). Reflect in y-axis: (–5, 2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A square has three vertices at (2, 1), (2, 5), and (6, 1). What is the fourth vertex?",
@@ -2263,7 +2468,8 @@
 "D": "(10, 5)"},
 "answer": "A",
 "details": "The missing vertex is (6, 5) to complete the square.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point lies on the line x = –3?",
@@ -2274,7 +2480,8 @@
 "D": "(4, –3)"},
 "answer": "A",
 "details": "All points on x = –3 have x-coordinate –3. Only (–3,4) satisfies this.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–2, 1), (1, 1), and (2, 4). What is the fourth vertex?",
@@ -2285,7 +2492,8 @@
 "D": "(3, 1)"},
 "answer": "A",
 "details": "Vector from (–2,1) to (1,1) is (3,0). Apply to (2,4): (2–3, 4+0) = (–1,4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point C(a, b) is translated 4 units right and 3 units down. What are the new coordinates?",
@@ -2296,7 +2504,8 @@
 "D": "(a – 3, b + 4)"},
 "answer": "A",
 "details": "Right increases x: a + 4. Down decreases y: b – 3.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the area of a triangle with vertices at (–3, 0), (1, 0), and (–1, 4)?",
@@ -2307,7 +2516,8 @@
 "D": "12 square units"},
 "answer": "B",
 "details": "Base = 4, height = 4. Area = ½ × 4 × 4 = 8.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point D(–2, –5) is reflected in the y-axis. What are the coordinates of the image?",
@@ -2318,7 +2528,8 @@
 "D": "(–5, –2)"},
 "answer": "A",
 "details": "Reflection in y-axis changes x-sign: (2, –5).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (0, 0), (6, 0), and (3, 4). What is the fourth vertex?",
@@ -2329,7 +2540,8 @@
 "D": "(3, 0)"},
 "answer": "A",
 "details": "Diagonals bisect at (3,0). So if one vertex is (3,4), the opposite is (3,–4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which transformation maps (–1, 3) to (1, 3)?",
@@ -2340,7 +2552,8 @@
 "D": "Both B and C"},
 "answer": "D",
 "details": "Reflection in y-axis: (–1,3) → (1,3). Translation right 2: (–1+2,3) = (1,3). Both work.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point E(3, –4) is translated by (–5, 6), then reflected in the x-axis. What are the final coordinates?",
@@ -2351,7 +2564,8 @@
 "D": "(8, 2)"},
 "answer": "A",
 "details": "Translate: (3–5, –4+6) = (–2, 2). Reflect in x-axis: (–2, –2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the distance between (–1, –2) and (2, 2)?",
@@ -2362,7 +2576,8 @@
 "D": "7 units"},
 "answer": "B",
 "details": "Δx = 3, Δy = 4. Distance = √(9 + 16) = √25 = 5.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (0, 1), (0, –3), and (5, –3). What is the fourth vertex?",
@@ -2373,7 +2588,8 @@
 "D": "(–5, –3)"},
 "answer": "A",
 "details": "The missing vertex is (5, 1).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point F(–3, 2) is reflected in the x-axis, then translated 4 units right. What are the final coordinates?",
@@ -2384,7 +2600,8 @@
 "D": "(–7, 2)"},
 "answer": "A",
 "details": "Reflect: (–3, –2). Translate right 4: (1, –2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is the image of (4, –1) after reflection in the line y = 0?",
@@ -2395,7 +2612,8 @@
 "D": "(–1, 4)"},
 "answer": "B",
 "details": "Line y = 0 is the x-axis. Reflection changes y-sign: (4, 1).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (1, –2), (4, –2), and (5, 1). What is the fourth vertex?",
@@ -2406,7 +2624,8 @@
 "D": "(6, –2)"},
 "answer": "A",
 "details": "Vector from (1,–2) to (4,–2) is (3,0). Apply to (5,1): (5–3, 1+0) = (2,1).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the vector that maps (2, –3) to (–1, 4)?",
@@ -2417,7 +2636,8 @@
 "D": "(–1, –1)"},
 "answer": "A",
 "details": "x: –1 – 2 = –3, y: 4 – (–3) = 7. So (–3, 7).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point G(a, b) is reflected in the y-axis, then translated by (–2, 3). What are the final coordinates?",
@@ -2428,7 +2648,8 @@
 "D": "(–a – 2, –b + 3)"},
 "answer": "A",
 "details": "Reflect: (–a, b). Translate: (–a – 2, b + 3).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A square has vertices at (–2, –1), (1, –1), and (–2, 2). What is the fourth vertex?",
@@ -2439,7 +2660,8 @@
 "D": "(4, –1)"},
 "answer": "A",
 "details": "The missing vertex is (1, 2) to complete the square.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A point is at (–3, 5). It is translated by the vector (4, –7). What are its new coordinates?",
@@ -2450,7 +2672,8 @@
 "D": "(–7, 12)"},
 "answer": "A",
 "details": "Add the vector: x = –3 + 4 = 1; y = 5 + (–7) = –2. So (1, –2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (1, 2), (4, 2), and (2, 5). It is reflected in the x-axis. What are the coordinates of the image of (2, 5)?",
@@ -2461,7 +2684,8 @@
 "D": "(5, 2)"},
 "answer": "B",
 "details": "Reflection in x-axis keeps x the same and negates y: (2, –5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has three vertices at (–1, –2), (2, –2), and (2, 1). What are the coordinates of the fourth vertex?",
@@ -2472,7 +2696,8 @@
 "D": "(–4, –2)"},
 "answer": "A",
 "details": "In a square, opposite sides are equal and parallel. The missing point must align vertically with (–1, –2) and horizontally with (2, 1), so (–1, 1).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is farthest from the origin?",
@@ -2483,7 +2708,8 @@
 "D": "(–1, 5)"},
 "answer": "C",
 "details": "Use approximate distance: A ≈ 5, B = 5, C = 6, D ≈ √26 ≈ 5.1. So (0, –6) is farthest.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (0, 0), (5, 0), and (3, 4). What are the coordinates of the fourth vertex?",
@@ -2494,7 +2720,8 @@
 "D": "(3, –4)"},
 "answer": "A",
 "details": "In a parallelogram, diagonals bisect each other, or opposite sides are equal. From (0,0) to (5,0) is +5 in x. So from (3,4), subtract 5 → (–2, 4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Point A is at (a, b). It is translated 3 units left and 2 units up. What are its new coordinates?",
@@ -2505,7 +2732,8 @@
 "D": "(a – 2, b + 3)"},
 "answer": "B",
 "details": "Left decreases x (a – 3); up increases y (b + 2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–2, 1), (3, 1), and (3, –4). What is the fourth vertex?",
@@ -2516,7 +2744,8 @@
 "D": "(3, 6)"},
 "answer": "A",
 "details": "The missing vertex shares x with (–2,1) and y with (3,–4) → (–2, –4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "The point (–4, –3) is reflected in the y-axis and then in the x-axis. What are the final coordinates?",
@@ -2527,7 +2756,8 @@
 "D": "(–4, –3)"},
 "answer": "A",
 "details": "First reflect in y-axis: (4, –3). Then in x-axis: (4, 3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (1, 0), (0, 2), and (–1, 0). What is the fourth vertex?",
@@ -2538,7 +2768,8 @@
 "D": "(0, 4)"},
 "answer": "A",
 "details": "A rhombus is symmetric about both axes here. The missing point is the reflection of (0,2) over the x-axis: (0, –2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point lies on the line y = –x?",
@@ -2549,7 +2780,8 @@
 "D": "(0, 5)"},
 "answer": "B",
 "details": "For y = –x, the y-coordinate is the negative of x. (–3, 3): 3 = –(–3) → true.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle with vertices (2, 3), (5, 3), and (4, 6) is translated by (–3, –2). What is the new coordinate of (4, 6)?",
@@ -2560,7 +2792,8 @@
 "D": "(–1, 6)"},
 "answer": "A",
 "details": "Subtract 3 from x: 4 – 3 = 1; subtract 2 from y: 6 – 2 = 4 → (1, 4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has vertices at (–2, –1), (1, –1), and (–2, 2). What is the fourth vertex?",
@@ -2571,7 +2804,8 @@
 "D": "(1, –4)"},
 "answer": "A",
 "details": "The square has horizontal and vertical sides. The missing corner is (1, 2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Point P is at (–5, 2). After a translation, it is at (–1, –3). What was the translation vector?",
@@ -2582,7 +2816,8 @@
 "D": "(–6, 1)"},
 "answer": "A",
 "details": "Change in x: –1 – (–5) = 4; change in y: –3 – 2 = –5. So vector = (4, –5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A shape is reflected in the x-axis. Which statement is always true?",
@@ -2593,7 +2828,8 @@
 "D": "The shape moves to a different quadrant"},
 "answer": "B",
 "details": "Reflection in the x-axis keeps x the same and negates y.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–1, 3), (2, 3), and (4, 0). What is the fourth vertex?",
@@ -2604,7 +2840,8 @@
 "D": "(2, 0)"},
 "answer": "A",
 "details": "From (–1,3) to (2,3) is +3 in x. So from (4,0), subtract 3 → (1,0).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is the image of (a, b) after reflection in the y-axis?",
@@ -2615,7 +2852,8 @@
 "D": "(b, a)"},
 "answer": "A",
 "details": "Reflection in y-axis negates x only.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (1, –2), (1, 3), and (–3, 3). What is the fourth vertex?",
@@ -2626,7 +2864,8 @@
 "D": "(1, 8)"},
 "answer": "A",
 "details": "The missing point shares x with (–3,3) and y with (1,–2) → (–3, –2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point at (3, –4) is translated by (x, y) → (x – 5, y + 6). What are its new coordinates?",
@@ -2637,7 +2876,8 @@
 "D": "(3, 2)"},
 "answer": "A",
 "details": "x: 3 – 5 = –2; y: –4 + 6 = 2 → (–2, 2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which set of points forms a square?",
@@ -2648,7 +2888,8 @@
 "D": "Both A and C"},
 "answer": "D",
 "details": "Both A and C are squares with sides parallel to axes and equal side lengths.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle with vertices (–2, 1), (0, 4), and (3, 1) is reflected in the x-axis. What is the image of (0, 4)?",
@@ -2659,7 +2900,8 @@
 "D": "(–4, 0)"},
 "answer": "A",
 "details": "Reflect in x-axis: (0, –4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (2, 1), (5, 1), and (3.5, 4). What is the fourth vertex?",
@@ -2670,7 +2912,8 @@
 "D": "(7, 4)"},
 "answer": "A",
 "details": "The diagonals of a rhombus bisect each other. Midpoint of (2,1) and (5,1) is (3.5,1). So the fourth point must be (3.5, –2) to make (3.5,1) the midpoint with (3.5,4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Point A (4, –3) is translated to point B (–1, 2). What is the translation vector?",
@@ -2681,7 +2924,8 @@
 "D": "(–3, 1)"},
 "answer": "A",
 "details": "x: –1 – 4 = –5; y: 2 – (–3) = 5 → (–5, 5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has vertices at (–1, –1), (2, –1), and (–1, 2). What is the length of one side?",
@@ -2692,7 +2936,8 @@
 "D": "√18 units"},
 "answer": "B",
 "details": "Distance between (–1,–1) and (2,–1) is |2 – (–1)| = 3 units.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is the reflection of (–2, 5) in the line y = 0?",
@@ -2703,7 +2948,8 @@
 "D": "(2, –5)"},
 "answer": "B",
 "details": "The line y = 0 is the x-axis. Reflection gives (–2, –5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–2, –1), (1, –1), and (0, 2). What is the fourth vertex?",
@@ -2714,7 +2960,8 @@
 "D": "(2, –4)"},
 "answer": "A",
 "details": "From (–2,–1) to (1,–1) is +3 in x. So from (0,2), subtract 3 → (–3,2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point (x, y) is reflected in the y-axis and then translated 2 units down. What are the final coordinates?",
@@ -2725,7 +2972,8 @@
 "D": "(x, y – 2)"},
 "answer": "A",
 "details": "Reflect in y-axis: (–x, y). Then down 2: (–x, y – 2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–3, –2), (2, –2), and (2, 1). What is the perimeter?",
@@ -2736,7 +2984,8 @@
 "D": "24 units"},
 "answer": "B",
 "details": "Width = 2 – (–3) = 5; height = 1 – (–2) = 3. Perimeter = 2(5 + 3) = 16.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point lies in the same quadrant as (–4, –7) after being reflected in the x-axis?",
@@ -2747,7 +2996,8 @@
 "D": "(0, 0)"},
 "answer": "A",
 "details": "Reflecting (–4, –7) in x-axis gives (–4, 7), which is in Quadrant II.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (0, 0), (4, 0), and (2, 3). It is translated so that (0, 0) moves to (–2, 1). Where does (2, 3) move to?",
@@ -2758,7 +3008,8 @@
 "D": "(2, 2)"},
 "answer": "A",
 "details": "Translation vector = (–2, 1). Apply to (2,3): (2–2, 3+1) = (0,4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square is centred at the origin and has vertices at (3, 3), (–3, 3), (–3, –3). What is the fourth vertex?",
@@ -2769,7 +3020,8 @@
 "D": "(–6, –6)"},
 "answer": "A",
 "details": "The missing vertex to complete the square is (3, –3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point (a, b) is reflected in the x-axis and then in the y-axis. What are the final coordinates?",
@@ -2780,7 +3032,8 @@
 "D": "(a, –b)"},
 "answer": "A",
 "details": "First: (a, –b); then: (–a, –b).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (0, 0), (4, 0), and (2, –3). What is the fourth vertex?",
@@ -2791,7 +3044,8 @@
 "D": "(2, –6)"},
 "answer": "A",
 "details": "Symmetric about the x-axis: reflect (2, –3) → (2, 3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which transformation takes (3, –2) to (–3, –2)?",
@@ -2802,7 +3056,8 @@
 "D": "Both B and C"},
 "answer": "D",
 "details": "Reflecting in y-axis gives (–3, –2). Translating left by 6 also: 3–6=–3.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (1, 1), (1, 4), and (5, 4). What is the area?",
@@ -2813,7 +3068,8 @@
 "D": "20 units²"},
 "answer": "B",
 "details": "Width = 5–1 = 4; height = 4–1 = 3; area = 4×3 = 12.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point is at (–2, 5). After a translation, it is at (3, –1). What is the change in y?",
@@ -2824,7 +3080,8 @@
 "D": "4"},
 "answer": "A",
 "details": "Change in y = new y – original y = –1 – 5 = –6.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–4, 2), (–1, 2), and (0, 5). What is the fourth vertex?",
@@ -2835,7 +3092,8 @@
 "D": "(1, 2)"},
 "answer": "A",
 "details": "From (–4,2) to (–1,2) is +3 in x. So from (0,5), subtract 3 → (–3,5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle with vertices (–1, 0), (2, 0), and (0, 4) is reflected in the y-axis. What is the image of (2, 0)?",
@@ -2846,7 +3104,8 @@
 "D": "(0, 4)"},
 "answer": "A",
 "details": "Reflect in y-axis: x changes sign → (–2, 0).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is equidistant from (0, 0) and (4, 0)?",
@@ -2857,7 +3116,8 @@
 "D": "(–2, 0)"},
 "answer": "A",
 "details": "The midpoint (2,0) is equidistant to both.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has side length 5 units and one vertex at (1, 1), with sides parallel to the axes. Which could be another vertex?",
@@ -2868,7 +3128,8 @@
 "D": "All of the above"},
 "answer": "D",
 "details": "All are 5 units away in x or y direction: (1,6) is up, (6,6) is diagonal (not adjacent), but (6,1) would be right. However, (6,6) is a valid opposite vertex. So all are possible vertices of the square.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point (x, y) is translated by (–2, 3) and then reflected in the x-axis. What are the final coordinates?",
@@ -2879,7 +3140,8 @@
 "D": "(x – 2, –(y + 3))"},
 "answer": "D",
 "details": "After translation: (x–2, y+3). After x-axis reflection: (x–2, –(y+3)).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–2, –1), (3, –1), and (–2, 2). What is the length of its diagonal?",
@@ -2890,7 +3152,8 @@
 "D": "6 units"},
 "answer": "A",
 "details": "Diagonal from (–2,–1) to (3,2): Δx=5, Δy=3 → √(25+9)=√34.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "After reflecting a shape in the y-axis, a point that was in Quadrant III is now in which quadrant?",
@@ -2901,7 +3164,8 @@
 "D": "Quadrant IV"},
 "answer": "D",
 "details": "Quadrant III has (–x, –y). Reflect in y-axis: (x, –y) → Quadrant IV.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (1, 1), (4, 1), and (2, 4). What is the fourth vertex?",
@@ -2912,7 +3176,8 @@
 "D": "(2, –2)"},
 "answer": "A",
 "details": "From (1,1) to (4,1) is +3 in x. So from (2,4), subtract 3 → (–1,4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point is translated by (a, b) and moves from (2, –3) to (–1, 4). What is a + b?",
@@ -2923,7 +3188,8 @@
 "D": "–10"},
 "answer": "A",
 "details": "a = –1 – 2 = –3; b = 4 – (–3) = 7; a + b = –3 + 7 = 4.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (–1, 0), (0, 2), (1, 0), and (0, –2). What is its area?",
@@ -2934,7 +3200,8 @@
 "D": "2 units²"},
 "answer": "A",
 "details": "Diagonals: horizontal = 2, vertical = 4. Area = ½ × d1 × d2 = ½ × 2 × 4 = 4.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is the image of (–3, 4) after a reflection in the y-axis followed by a translation of (0, –5)?",
@@ -2945,7 +3212,8 @@
 "D": "(–3, 9)"},
 "answer": "A",
 "details": "Reflect in y-axis: (3, 4). Translate down 5: (3, –1).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has vertices at (2, 3), (5, 3), and (5, 6). What is the coordinate of the centre of the square?",
@@ -2956,7 +3224,8 @@
 "D": "(5, 3)"},
 "answer": "A",
 "details": "Centre is midpoint of diagonal: from (2,3) to (5,6) → ((2+5)/2, (3+6)/2) = (3.5, 4.5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point (x, y) is reflected in the x-axis, then in the y-axis. The final point is (4, –5). What was the original point?",
@@ -2967,7 +3236,8 @@
 "D": "(5, –4)"},
 "answer": "A",
 "details": "Reverse the reflections: reflect (4,–5) in y-axis → (–4,–5); then in x-axis → (–4,5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (–2, 1), (1, 1), and (–0.5, 4). It is translated by (3, –2). What are the coordinates of the image of (–0.5, 4)?",
@@ -2978,7 +3248,8 @@
 "D": "(–0.5, 2)"},
 "answer": "A",
 "details": "Add 3 to x: –0.5 + 3 = 2.5; subtract 2 from y: 4 – 2 = 2 → (2.5, 2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–1, –3), (4, –3), and (4, 2). What is the fourth vertex?",
@@ -2989,7 +3260,8 @@
 "D": "(4, –8)"},
 "answer": "A",
 "details": "The missing vertex shares x with (–1,–3) and y with (4,2) → (–1, 2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Point A is at (5, –2). It is reflected in the y-axis and then translated 4 units up. What are the final coordinates?",
@@ -3000,7 +3272,8 @@
 "D": "(–5, 6)"},
 "answer": "A",
 "details": "Reflect in y-axis: (–5, –2). Then up 4: (–5, 2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (0, –2), (3, –2), and (2, 1). What is the fourth vertex?",
@@ -3011,7 +3284,8 @@
 "D": "(2, –5)"},
 "answer": "A",
 "details": "From (0,–2) to (3,–2) is +3 in x. So from (2,1), subtract 3 → (–1,1).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has vertices at (–3, 0), (0, 0), and (–3, 3). What is the length of its diagonal?",
@@ -3022,7 +3296,8 @@
 "D": "√9 units"},
 "answer": "B",
 "details": "Side = 3. Diagonal = 3√2 = √18.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point (a, b) is translated by (–1, 4) and then reflected in the x-axis. What are the final coordinates?",
@@ -3033,7 +3308,8 @@
 "D": "(a – 1, –(b + 4))"},
 "answer": "D",
 "details": "After translation: (a–1, b+4). After x-axis reflection: (a–1, –(b+4)).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (1, 1), (4, 1), and (2.5, 3.6). What is the fourth vertex?",
@@ -3044,7 +3320,8 @@
 "D": "(5.5, 3.6)"},
 "answer": "A",
 "details": "Diagonals bisect each other. Midpoint of (1,1) and (4,1) is (2.5,1). So fourth vertex is (2.5, 1 – 2.6) = (2.5, –1.6).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is the image of (x, y) after a reflection in the x-axis followed by a translation of (5, 0)?",
@@ -3055,7 +3332,8 @@
 "D": "(x, –y + 5)"},
 "answer": "B",
 "details": "Reflect in x-axis: (x, –y). Translate right 5: (x+5, –y).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–2, 1), (3, 1), and (–2, –2). What is its area?",
@@ -3066,7 +3344,8 @@
 "D": "9 units²"},
 "answer": "A",
 "details": "Width = 3 – (–2) = 5; height = 1 – (–2) = 3; area = 5 × 3 = 15.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle with vertices (0, 0), (0, 4), and (3, 0) is reflected in the y-axis. What is the image of (3, 0)?",
@@ -3077,7 +3356,8 @@
 "D": "(0, 4)"},
 "answer": "A",
 "details": "Reflect in y-axis: x changes sign → (–3, 0).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point moves from (–4, 3) to (1, –2) by translation. What is the translation vector?",
@@ -3088,7 +3368,8 @@
 "D": "(–3, 1)"},
 "answer": "A",
 "details": "Δx = 1 – (–4) = 5; Δy = –2 – 3 = –5 → (5, –5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has vertices at (1, –1), (4, –1), and (1, 2). What is the fourth vertex?",
@@ -3099,7 +3380,8 @@
 "D": "(4, –4)"},
 "answer": "A",
 "details": "Complete the square with horizontal/vertical sides: (4, 2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "After reflecting a shape in the x-axis, a point that was in Quadrant II is now in which quadrant?",
@@ -3110,7 +3392,8 @@
 "D": "Quadrant IV"},
 "answer": "C",
 "details": "Quadrant II: (–, +). Reflect in x-axis: (–, –) → Quadrant III.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–3, 1), (0, 1), and (–1, 4). What is the fourth vertex?",
@@ -3121,7 +3404,8 @@
 "D": "(1, 1)"},
 "answer": "A",
 "details": "From (–3,1) to (0,1) is +3 in x. So from (–1,4), subtract 3 → (–4,4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point (2, –5) is reflected in the x-axis and then in the y-axis. What are the final coordinates?",
@@ -3132,7 +3416,8 @@
 "D": "(5, –2)"},
 "answer": "A",
 "details": "First: (2, 5); then: (–2, 5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (0, 0), (0, 3), and (5, 3). What is the distance between (0, 0) and the opposite vertex?",
@@ -3143,7 +3428,8 @@
 "D": "√13 units"},
 "answer": "A",
 "details": "Opposite vertex is (5,0)? No, it's (5,0) is not given. Given (0,0), (0,3), (5,3) → fourth is (5,0). Diagonal from (0,0) to (5,3): √(25+9)=√34.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which transformation changes (x, y) to (–x, –y)?",
@@ -3154,7 +3440,8 @@
 "D": "Translation"},
 "answer": "C",
 "details": "This is a 180° rotation about the origin (also equivalent to two reflections).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (–2, 0), (0, 3), (2, 0), and (0, –3). What is its perimeter?",
@@ -3165,7 +3452,8 @@
 "D": "6 units"},
 "answer": "C",
 "details": "One side from (–2,0) to (0,3): √(4+9)=√13. Perimeter = 4√13.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point is at (a, b). It is translated by (3, –2) and then reflected in the y-axis. What are the final coordinates?",
@@ -3176,7 +3464,8 @@
 "D": "(a + 3, –b + 2)"},
 "answer": "C",
 "details": "After translation: (a+3, b–2). After y-axis reflection: (–(a+3), b–2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has vertices at (–1, –2), (2, –2), and (–1, 1). What is the area?",
@@ -3187,7 +3476,8 @@
 "D": "3 units²"},
 "answer": "B",
 "details": "Side length = 2 – (–1) = 3. Area = 3² = 9.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (1, 2), (4, 2), and (2.5, 5). It is reflected in the x-axis. What is the image of the third vertex?",
@@ -3198,7 +3488,8 @@
 "D": "(5, 2.5)"},
 "answer": "A",
 "details": "Reflect in x-axis: y becomes –5 → (2.5, –5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point moves from (3, –1) to (–2, 4). What is the change in x?",
@@ -3209,7 +3500,8 @@
 "D": "3"},
 "answer": "A",
 "details": "Δx = –2 – 3 = –5.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (1, –1), (4, –1), and (3, 2). What is the fourth vertex?",
@@ -3220,7 +3512,8 @@
 "D": "(1, 2)"},
 "answer": "A",
 "details": "From (1,–1) to (4,–1) is +3 in x. So from (3,2), subtract 3 → (0,2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is invariant (unchanged) under reflection in the x-axis?",
@@ -3231,7 +3524,8 @@
 "D": "(5, –1)"},
 "answer": "A",
 "details": "Points on the x-axis (y=0) do not move when reflected in x-axis.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–3, –1), (2, –1), and (2, 3). What is the perimeter?",
@@ -3242,7 +3536,8 @@
 "D": "14 units"},
 "answer": "A",
 "details": "Width = 2 – (–3) = 5; height = 3 – (–1) = 4; perimeter = 2(5+4) = 18.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point (–1, 4) is translated by (a, b) to (2, –1). What is b?",
@@ -3253,7 +3548,8 @@
 "D": "–3"},
 "answer": "A",
 "details": "b = new y – original y = –1 – 4 = –5.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has vertices at (0, 0), (0, 4), and (4, 4). What are the coordinates of the centre?",
@@ -3264,7 +3560,8 @@
 "D": "(2, 4)"},
 "answer": "A",
 "details": "Centre = midpoint of diagonal from (0,0) to (4,4) = (2,2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (0, 0), (5, 0), and (2.5, 4). What is the fourth vertex?",
@@ -3275,7 +3572,8 @@
 "D": "(7.5, 4)"},
 "answer": "A",
 "details": "Symmetric about x-axis: (2.5, –4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point (x, y) is reflected in the y-axis, then translated by (–2, 3). What are the final coordinates?",
@@ -3286,7 +3584,8 @@
 "D": "(x + 2, y – 3)"},
 "answer": "A",
 "details": "Reflect: (–x, y). Translate: (–x – 2, y + 3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–2, 3), (1, 3), and (0, 6). What is the fourth vertex?",
@@ -3297,7 +3596,8 @@
 "D": "(2, 0)"},
 "answer": "A",
 "details": "From (–2,3) to (1,3) is +3 in x. From (0,6), subtract 3 → (–3,6).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle with vertices (–1, –1), (2, –1), and (0.5, 2) is reflected in the x-axis. What is the image of (0.5, 2)?",
@@ -3308,7 +3608,8 @@
 "D": "(2, 0.5)"},
 "answer": "A",
 "details": "Reflect in x-axis: (0.5, –2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point is at (4, –3). It is translated by (–6, 5). What are its new coordinates?",
@@ -3319,7 +3620,8 @@
 "D": "(4, 2)"},
 "answer": "A",
 "details": "x: 4 – 6 = –2; y: –3 + 5 = 2 → (–2, 2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (1, –2), (1, 3), and (–4, 3). What is the length of the diagonal?",
@@ -3330,7 +3632,8 @@
 "D": "√34 units"},
 "answer": "A",
 "details": "Diagonal from (1,–2) to (–4,3): Δx=5, Δy=5 → √(25+25)=√50.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point lies on the line x = –2?",
@@ -3341,7 +3644,8 @@
 "D": "(–5, 0)"},
 "answer": "A",
 "details": "All points on x = –2 have x-coordinate –2.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has side length 4 and one vertex at (–1, 2), with sides parallel to the axes. Which is a possible adjacent vertex?",
@@ -3352,7 +3656,8 @@
 "D": "All of the above"},
 "answer": "D",
 "details": "All are 4 units away in one direction: up, right, or down.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point (3, –4) is reflected in the y-axis and then translated 2 units down. What are the final coordinates?",
@@ -3363,7 +3668,8 @@
 "D": "(5, –4)"},
 "answer": "A",
 "details": "Reflect: (–3, –4). Down 2: (–3, –6).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (0, 0), (4, 0), and (1, 3). What is the fourth vertex?",
@@ -3374,7 +3680,8 @@
 "D": "(1, –3)"},
 "answer": "A",
 "details": "From (0,0) to (4,0) is +4 in x. From (1,3), subtract 4 → (–3,3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point moves from (–2, 5) to (3, –1). What is the total distance moved horizontally and vertically?",
@@ -3385,7 +3692,8 @@
 "D": "1 unit"},
 "answer": "A",
 "details": "Horizontal: |3 – (–2)| = 5; vertical: |–1 – 5| = 6; total = 11.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (–1, 0), (0, 2), (1, 0), and (0, –2). What is the length of its longer diagonal?",
@@ -3396,7 +3704,8 @@
 "D": "6 units"},
 "answer": "B",
 "details": "Vertical diagonal from (0,2) to (0,–2) = 4 units.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (2, 1), (5, 1), and (3.5, 4). It is translated so that (2, 1) moves to (0, 0). Where does (3.5, 4) move to?",
@@ -3407,7 +3716,8 @@
 "D": "(–1.5, –3)"},
 "answer": "A",
 "details": "Translation vector = (–2, –1). Apply to (3.5,4): (1.5, 3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is the image of (a, b) after a translation of (2, –3) followed by a reflection in the x-axis?",
@@ -3418,7 +3728,8 @@
 "D": "(a + 2, 3 – b)"},
 "answer": "D",
 "details": "After translation: (a+2, b–3). After x-axis reflection: (a+2, –(b–3)) = (a+2, 3–b).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–1, –2), (3, –2), and (–1, 1). What is the area?",
@@ -3429,7 +3740,8 @@
 "D": "6 units²"},
 "answer": "A",
 "details": "Width = 3 – (–1) = 4; height = 1 – (–2) = 3; area = 12.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point (–3, 2) is reflected in the x-axis and then in the y-axis. What are the final coordinates?",
@@ -3440,7 +3752,8 @@
 "D": "(–2, 3)"},
 "answer": "A",
 "details": "First: (–3, –2); then: (3, –2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–1, –2), (2, –2), and (1, 1). What is the fourth vertex?",
@@ -3451,7 +3764,8 @@
 "D": "(1, –5)"},
 "answer": "A",
 "details": "From (–1,–2) to (2,–2) is +3 in x. From (1,1), subtract 3 → (–2,1).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has vertices at (2, –1), (5, –1), and (2, 2). What is the coordinate of the missing vertex?",
@@ -3462,7 +3776,8 @@
 "D": "(5, –4)"},
 "answer": "A",
 "details": "Complete the square: (5, 2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point is translated by (–4, 3) and moves to (1, –2). What were its original coordinates?",
@@ -3473,7 +3788,8 @@
 "D": "(3, –1)"},
 "answer": "A",
 "details": "Original x = 1 – (–4) = 5; y = –2 – 3 = –5 → (5, –5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is equidistant from (1, 1) and (1, 5)?",
@@ -3484,7 +3800,8 @@
 "D": "(1, 0)"},
 "answer": "A",
 "details": "Midpoint is (1, 3), which is equidistant.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (0, 0), (3, 0), and (1.5, 2.6). What is the fourth vertex?",
@@ -3495,7 +3812,8 @@
 "D": "(1.5, 5.2)"},
 "answer": "A",
 "details": "Symmetry about x-axis: (1.5, –2.6).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point (x, y) is reflected in the x-axis and then translated by (–1, 4). What are the final coordinates?",
@@ -3506,7 +3824,8 @@
 "D": "(–x, y – 4)"},
 "answer": "A",
 "details": "Reflect: (x, –y). Translate: (x–1, –y+4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (0, –1), (4, –1), and (0, 2). What is the perimeter?",
@@ -3517,7 +3836,8 @@
 "D": "8 units"},
 "answer": "A",
 "details": "Width = 4; height = 3; perimeter = 2(4+3) = 14.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle with vertices (–2, 0), (1, 0), and (–0.5, 3) is reflected in the y-axis. What is the image of (–0.5, 3)?",
@@ -3528,7 +3848,8 @@
 "D": "(3, –0.5)"},
 "answer": "A",
 "details": "Reflect in y-axis: x changes sign → (0.5, 3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point moves from (2, –3) to (–1, 2). What is the translation vector?",
@@ -3539,7 +3860,8 @@
 "D": "(–1, 1)"},
 "answer": "A",
 "details": "Δx = –1 – 2 = –3; Δy = 2 – (–3) = 5.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has vertices at (–2, –2), (1, –2), and (–2, 1). What is the length of its diagonal?",
@@ -3550,7 +3872,8 @@
 "D": "9 units"},
 "answer": "B",
 "details": "Side = 3; diagonal = 3√2 = √18.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–2, 1), (1, 1), and (0, 4). What is the fourth vertex?",
@@ -3561,7 +3884,8 @@
 "D": "(2, –2)"},
 "answer": "A",
 "details": "From (–2,1) to (1,1) is +3 in x. From (0,4), subtract 3 → (–3,4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point (4, –1) is reflected in the y-axis and then translated 3 units up. What are the final coordinates?",
@@ -3572,7 +3896,8 @@
 "D": "(1, –1)"},
 "answer": "A",
 "details": "Reflect: (–4, –1). Up 3: (–4, 2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (0, 0), (4, 0), (2, 3), and (2, –3). What is its area?",
@@ -3583,7 +3908,8 @@
 "D": "24 units²"},
 "answer": "A",
 "details": "Diagonals: 4 and 6. Area = ½ × 4 × 6 = 12.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point (a, b) is reflected in the y-axis, then in the x-axis. The final point is (5, –3). What is a?",
@@ -3594,7 +3920,8 @@
 "D": "–3"},
 "answer": "A",
 "details": "Final = (–a, –b) = (5, –3) → –a = 5 → a = –5.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–1, 0), (2, 0), and (–1, 4). What is the fourth vertex?",
@@ -3605,7 +3932,8 @@
 "D": "(2, –4)"},
 "answer": "A",
 "details": "Complete the rectangle: (2, 4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (0, 0), (3, 0), and (1.5, 4). It is translated by (–2, 1). What is the new coordinate of (1.5, 4)?",
@@ -3616,7 +3944,8 @@
 "D": "(1.5, 5)"},
 "answer": "A",
 "details": "x: 1.5 – 2 = –0.5; y: 4 + 1 = 5.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is invariant under reflection in the y-axis?",
@@ -3627,7 +3956,8 @@
 "D": "(5, –2)"},
 "answer": "A",
 "details": "Points on the y-axis (x=0) do not move when reflected in y-axis.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has vertices at (1, 1), (1, 5), and (5, 5). What is the area?",
@@ -3638,7 +3968,8 @@
 "D": "10 units²"},
 "answer": "A",
 "details": "Side = 4; area = 16.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point (–2, 3) is translated by (5, –4). What are its new coordinates?",
@@ -3649,7 +3980,8 @@
 "D": "(–2, –1)"},
 "answer": "A",
 "details": "x: –2 + 5 = 3; y: 3 – 4 = –1.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (0, –1), (3, –1), and (2, 2). What is the fourth vertex?",
@@ -3660,7 +3992,8 @@
 "D": "(2, –4)"},
 "answer": "A",
 "details": "From (0,–1) to (3,–1) is +3 in x. From (2,2), subtract 3 → (–1,2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point is at (x, y). After a reflection in the x-axis and a translation of (0, 5), it is at (3, 2). What is y?",
@@ -3671,7 +4004,8 @@
 "D": "–7"},
 "answer": "A",
 "details": "After reflection: (x, –y). After translation: (x, –y + 5) = (3, 2). So –y + 5 = 2 → y = 3.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (–2, 0), (0, 4), (2, 0), and (0, –4). What is the length of one side?",
@@ -3682,7 +4016,8 @@
 "D": "√8 units"},
 "answer": "A",
 "details": "From (–2,0) to (0,4): √(4+16) = √20.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (–2, –1), (3, –1), and (3, 2). What is the distance between (–2, –1) and (3, 2)?",
@@ -3693,7 +4028,8 @@
 "D": "3 units"},
 "answer": "A",
 "details": "Δx = 5, Δy = 3 → √(25+9) = √34.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point (1, –2) is reflected in the y-axis and then in the x-axis. What are the final coordinates?",
@@ -3704,7 +4040,8 @@
 "D": "(2, –1)"},
 "answer": "A",
 "details": "First: (–1, –2); then: (–1, 2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has vertices at (0, 0), (0, 3), and (3, 3). What is the coordinate of the centre?",
@@ -3715,7 +4052,8 @@
 "D": "(1.5, 3)"},
 "answer": "A",
 "details": "Centre = midpoint of (0,0) and (3,3) = (1.5, 1.5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (–1, 2), (2, 2), and (1, 5). What is the fourth vertex?",
@@ -3726,7 +4064,8 @@
 "D": "(1, –1)"},
 "answer": "A",
 "details": "From (–1,2) to (2,2) is +3 in x. From (1,5), subtract 3 → (–2,5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point moves from (–3, 4) to (2, –1). What is the total horizontal movement?",

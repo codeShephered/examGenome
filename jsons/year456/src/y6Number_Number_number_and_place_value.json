@@ -8,7 +8,8 @@
 "D": "7,000,000"},
 "answer": "B",
 "details": "In 3,742,105, the digit 7 is in the hundred thousands place. So its value is 7 × 100,000 = 700,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is the smallest?",
@@ -19,7 +20,8 @@
 "D": "2,345,876"},
 "answer": "A",
 "details": "All numbers start the same up to the thousands place. At the hundreds place, all are 6. At the tens place, A has 7, B has 6, C has 8, D has 7. Wait—actually, compare correctly: A = 2,345,678; B = 2,345,768 (larger due to 7 in hundreds vs 6); C = 2,345,687 (687 > 678); D = 2,345,876 (876 > 678). So A is smallest.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 4,567,892 to the nearest 10,000.",
@@ -30,7 +32,8 @@
 "D": "4,600,000"},
 "answer": "B",
 "details": "To round to the nearest 10,000, look at the thousands digit (7). Since 7 ≥ 5, round up the ten-thousands digit (6 becomes 7). So 4,567,892 → 4,570,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the temperature if it rises from –3°C to 5°C? By how many degrees did it rise?",
@@ -41,7 +44,8 @@
 "D": "3°C"},
 "answer": "C",
 "details": "From –3°C to 0°C is 3 degrees. From 0°C to 5°C is 5 degrees. Total rise = 3 + 5 = 8°C.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is 2,000,000 + 300,000 + 40,000 + 5,000 + 600 + 70 + 8 written in standard form?",
@@ -52,7 +56,8 @@
 "D": "23,456,78"},
 "answer": "A",
 "details": "Add each place: 2,000,000 + 300,000 = 2,300,000; +40,000 = 2,340,000; +5,000 = 2,345,000; +600 = 2,345,600; +70 = 2,345,670; +8 = 2,345,678.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 9,421,376 to the nearest 100,000.",
@@ -63,7 +68,8 @@
 "D": "9,421,000"},
 "answer": "A",
 "details": "Look at the ten-thousands digit (2). Since 2 < 5, keep the hundred-thousands digit (4) the same and replace the rest with zeros: 9,400,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the difference between –6 and 4?",
@@ -74,7 +80,8 @@
 "D": "–2"},
 "answer": "B",
 "details": "To find the difference, subtract: 4 – (–6) = 4 + 6 = 10.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which digit is in the millions place in 8,204,156?",
@@ -85,7 +92,8 @@
 "D": "4"},
 "answer": "A",
 "details": "In 8,204,156, the places from right: units, tens, hundreds, thousands, ten thousands, hundred thousands, millions. The leftmost digit is 8 in the millions place.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is the largest?",
@@ -96,7 +104,8 @@
 "D": "5,600,132"},
 "answer": "B",
 "details": "Compare digit by digit from left. First six digits of A, C, D are 5,600,1x. B has 5,601,xxx, so at the thousands place, B has 1 vs 0 in others → B is largest.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 7,892,456 to the nearest 1,000,000.",
@@ -107,7 +116,8 @@
 "D": "7,890,000"},
 "answer": "C",
 "details": "Look at the hundred-thousands digit (8). Since 8 ≥ 5, round the millions digit (7) up to 8 → 8,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If the temperature drops from 2°C to –5°C, by how many degrees did it fall?",
@@ -118,7 +128,8 @@
 "D": "2°C"},
 "answer": "B",
 "details": "From 2°C to 0°C is a drop of 2°C. From 0°C to –5°C is a drop of 5°C. Total = 2 + 5 = 7°C.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the value of the digit 9 in 6,093,214?",
@@ -129,7 +140,8 @@
 "D": "900"},
 "answer": "A",
 "details": "The digit 9 is in the ten-thousands place. So 9 × 10,000 = 90,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is one million more than 3,456,789?",
@@ -140,7 +152,8 @@
 "D": "3,456,790"},
 "answer": "B",
 "details": "Add 1,000,000 to 3,456,789 → 3,456,789 + 1,000,000 = 4,456,789.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 1,234,567 to the nearest 100.",
@@ -151,7 +164,8 @@
 "D": "1,234,570"},
 "answer": "B",
 "details": "Look at the tens digit (6). Since 6 ≥ 5, round the hundreds digit (5) up to 6 → 1,234,600.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is 3 less than –2?",
@@ -162,7 +176,8 @@
 "D": "5"},
 "answer": "A",
 "details": "–2 – 3 = –5.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "How do you write ‘five million two hundred thirty-four thousand six hundred seventy-eight’ in numerals?",
@@ -173,7 +188,8 @@
 "D": "5,23,4678"},
 "answer": "A",
 "details": "Break it down: five million = 5,000,000; two hundred thirty-four thousand = 234,000; six hundred seventy-eight = 678 → 5,234,678.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 8,765,432 to the nearest 10.",
@@ -184,7 +200,8 @@
 "D": "8,765,000"},
 "answer": "A",
 "details": "Look at the units digit (2). Since 2 < 5, keep the tens digit (3) and change units to 0 → 8,765,430.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What number is halfway between –4 and 6?",
@@ -195,7 +212,8 @@
 "D": "–1"},
 "answer": "B",
 "details": "Add the two numbers and divide by 2: (–4 + 6) ÷ 2 = 2 ÷ 2 = 1.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "In the number 9,087,654, what place is the digit 8 in?",
@@ -206,7 +224,8 @@
 "D": "millions"},
 "answer": "B",
 "details": "From right: units (4), tens (5), hundreds (6), thousands (7), ten thousands (8), hundred thousands (0), millions (9). So 8 is in ten thousands place.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is ten thousand less than 2,345,678?",
@@ -217,7 +236,8 @@
 "D": "2,345,578"},
 "answer": "A",
 "details": "Subtract 10,000: 2,345,678 – 10,000 = 2,335,678.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 5,555,555 to the nearest 1,000.",
@@ -228,7 +248,8 @@
 "D": "5,555,600"},
 "answer": "B",
 "details": "Look at the hundreds digit (5). Since it’s 5, round up the thousands digit (5 → 6) → 5,556,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If a bank account shows –£20, what does this mean?",
@@ -239,7 +260,8 @@
 "D": "You deposited £20."},
 "answer": "B",
 "details": "A negative balance means you owe money to the bank.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is 3,000,000 + 50,000 + 700 + 20 + 9?",
@@ -250,7 +272,8 @@
 "D": "3,507,029"},
 "answer": "A",
 "details": "Add: 3,000,000 + 50,000 = 3,050,000; +700 = 3,050,700; +20 = 3,050,720; +9 = 3,050,729.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 6,789,123 to the nearest 100,000.",
@@ -261,7 +284,8 @@
 "D": "6,789,000"},
 "answer": "B",
 "details": "Hundred-thousands digit is 7; ten-thousands digit is 8 ≥ 5 → round up → 6,800,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the difference between –10 and –3?",
@@ -272,7 +296,8 @@
 "D": "–13"},
 "answer": "A",
 "details": "–3 – (–10) = –3 + 10 = 7.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 9,999,999 to the nearest 1,000,000.",
@@ -283,7 +308,8 @@
 "D": "9,990,000"},
 "answer": "B",
 "details": "Hundred-thousands digit is 9 ≥ 5, so round 9 million up → 10,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is 5 more than –8?",
@@ -294,7 +320,8 @@
 "D": "13"},
 "answer": "B",
 "details": "–8 + 5 = –3.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which digit represents ten thousands in 4,123,567?",
@@ -305,7 +332,8 @@
 "D": "5"},
 "answer": "A",
 "details": "From right: units (7), tens (6), hundreds (5), thousands (3), ten thousands (2), hundred thousands (1), millions (4). So 2 is in ten thousands place.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Order these numbers from smallest to largest: 3,040,000; 3,004,000; 3,400,000; 3,044,000.",
@@ -316,7 +344,8 @@
 "D": "3,004,000; 3,400,000; 3,044,000; 3,040,000"},
 "answer": "A",
 "details": "Compare: 3,004,000 < 3,040,000 < 3,044,000 < 3,400,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 2,468,135 to the nearest 10,000.",
@@ -327,7 +356,8 @@
 "D": "2,500,000"},
 "answer": "B",
 "details": "Thousands digit is 8 ≥ 5 → round ten-thousands digit (6) up to 7 → 2,470,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If the temperature was –7°C at night and 3°C in the afternoon, what was the change?",
@@ -338,7 +368,8 @@
 "D": "–4°C"},
 "answer": "B",
 "details": "Change = 3 – (–7) = 10°C.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the value of the digit 5 in 5,678,901?",
@@ -349,7 +380,8 @@
 "D": "5,000"},
 "answer": "A",
 "details": "5 is in the millions place → 5 × 1,000,000 = 5,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is one hundred thousand more than 7,654,321?",
@@ -360,7 +392,8 @@
 "D": "7,655,321"},
 "answer": "A",
 "details": "Add 100,000: 7,654,321 + 100,000 = 7,754,321.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 1,999,999 to the nearest 100,000.",
@@ -371,7 +404,8 @@
 "D": "1,999,000"},
 "answer": "B",
 "details": "Hundred-thousands digit is 9; ten-thousands digit is 9 ≥ 5 → round up → 2,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What number is 4 less than –1?",
@@ -382,7 +416,8 @@
 "D": "–3"},
 "answer": "A",
 "details": "–1 – 4 = –5.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "How is 8,008,008 written in words?",
@@ -393,7 +428,8 @@
 "D": "Eight million eight thousand eighty"},
 "answer": "A",
 "details": "8,008,008 = 8,000,000 + 8,000 + 8 → eight million eight thousand eight.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 3,141,592 to the nearest 1,000.",
@@ -404,7 +440,8 @@
 "D": "3,140,000"},
 "answer": "B",
 "details": "Hundreds digit is 5 → round up thousands digit (1 → 2) → 3,142,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the difference between –9 and 2?",
@@ -415,7 +452,8 @@
 "D": "–7"},
 "answer": "B",
 "details": "2 – (–9) = 2 + 9 = 11.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number has a 6 in the hundred thousands place?",
@@ -426,7 +464,8 @@
 "D": "4,657,890"},
 "answer": "D",
 "details": "In D: 4 (millions), 6 (hundred thousands), 5 (ten thousands)... so 6 is in the correct place.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which is greater: 6,009,999 or 6,010,000?",
@@ -437,7 +476,8 @@
 "D": "Cannot compare"},
 "answer": "B",
 "details": "6,010,000 – 6,009,999 = 1 → so 6,010,000 is greater.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 4,321,098 to the nearest 10.",
@@ -448,7 +488,8 @@
 "D": "4,320,000"},
 "answer": "B",
 "details": "Units digit is 8 ≥ 5 → round tens digit (9 → 10, so carry over) → 4,321,100.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If you go from floor –2 to floor 5 in a lift, how many floors did you pass?",
@@ -459,7 +500,8 @@
 "D": "8"},
 "answer": "C",
 "details": "From –2 to 0 = 2 floors; 0 to 5 = 5 floors; total = 7 floors.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the place value of the digit 3 in 7,302,405?",
@@ -470,7 +512,8 @@
 "D": "3,000"},
 "answer": "A",
 "details": "3 is in the hundred thousands place → 3 × 100,000 = 300,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 9,876,543 to the nearest 100.",
@@ -481,7 +524,8 @@
 "D": "9,876,540"},
 "answer": "A",
 "details": "Tens digit is 4 < 5 → keep hundreds digit and zero out tens/units → 9,876,500.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is ten million?",
@@ -492,7 +536,8 @@
 "D": "1,000,000,000"},
 "answer": "B",
 "details": "Ten million = 10 × 1,000,000 = 10,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is –6 + 9?",
@@ -503,7 +548,8 @@
 "D": "15"},
 "answer": "B",
 "details": "–6 + 9 = 3.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is 4 million + 70 thousand + 8?",
@@ -514,7 +560,8 @@
 "D": "47,000,008"},
 "answer": "A",
 "details": "4,000,000 + 70,000 = 4,070,000 + 8 = 4,070,008.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 5,123,456 to the nearest 1,000,000.",
@@ -525,7 +572,8 @@
 "D": "5,120,000"},
 "answer": "A",
 "details": "Hundred-thousands digit is 1 < 5 → round down → 5,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "The temperature at midnight was –4°C. By noon it rose to 7°C. What was the temperature change?",
@@ -536,7 +584,8 @@
 "D": "–3°C"},
 "answer": "B",
 "details": "7 – (–4) = 11°C.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is the correct standard form of ‘six million fifty thousand two hundred three’?",
@@ -547,7 +596,8 @@
 "D": "6,052,003"},
 "answer": "A",
 "details": "Six million = 6,000,000; fifty thousand = 50,000; two hundred three = 203 → 6,050,203.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 7,654,321 to the nearest 10,000.",
@@ -558,7 +608,8 @@
 "D": "7,655,000"},
 "answer": "A",
 "details": "Thousands digit is 4 < 5 → keep ten-thousands digit (5) → 7,650,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the smallest 7-digit number?",
@@ -569,7 +620,8 @@
 "D": "10,000,000"},
 "answer": "A",
 "details": "The smallest 7-digit number is 1 followed by six zeros: 1,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If a submarine is at –150 meters and rises 70 meters, what is its new depth?",
@@ -580,7 +632,8 @@
 "D": "220 m"},
 "answer": "A",
 "details": "–150 + 70 = –80 meters.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which digit is in the ten millions place in 12,345,678?",
@@ -591,7 +644,8 @@
 "D": "4"},
 "answer": "A",
 "details": "12,345,678 has 8 digits: ten millions = first digit = 1.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 8,234,567 to the nearest 100,000.",
@@ -602,7 +656,8 @@
 "D": "8,240,000"},
 "answer": "A",
 "details": "Ten-thousands digit is 3 < 5 → round down → 8,200,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is 0 – 9?",
@@ -613,7 +668,8 @@
 "D": "–0"},
 "answer": "B",
 "details": "0 – 9 = –9.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is 100,000 less than 9,000,000?",
@@ -624,7 +680,8 @@
 "D": "9,010,000"},
 "answer": "A",
 "details": "9,000,000 – 100,000 = 8,900,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 2,999,995 to the nearest 10.",
@@ -635,7 +692,8 @@
 "D": "3,000,010"},
 "answer": "B",
 "details": "Units digit is 5 → round tens up. 99 becomes 100 → cascading carry → 3,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What number is halfway between –6 and 4?",
@@ -646,7 +704,8 @@
 "D": "–2"},
 "answer": "A",
 "details": "(–6 + 4) ÷ 2 = (–2) ÷ 2 = –1.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is two million three hundred four thousand fifty-six?",
@@ -657,7 +716,8 @@
 "D": "23,040,56"},
 "answer": "A",
 "details": "2,000,000 + 304,000 + 56 = 2,304,056.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 6,450,000 to the nearest 1,000,000.",
@@ -668,7 +728,8 @@
 "D": "6,400,000"},
 "answer": "A",
 "details": "Hundred-thousands digit is 4 < 5 → round down → 6,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If you deposit £50 into an account with –£20, what is the new balance?",
@@ -679,7 +740,8 @@
 "D": "–£30"},
 "answer": "A",
 "details": "–20 + 50 = £30.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the value of the digit 2 in 1,234,567?",
@@ -690,7 +752,8 @@
 "D": "2,000"},
 "answer": "A",
 "details": "2 is in the hundred thousands place → 2 × 100,000 = 200,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which is the largest number?",
@@ -701,7 +764,8 @@
 "D": "9,000,099"},
 "answer": "B",
 "details": "B = 9,001,000 > all others which are under 9,001,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 3,500,000 to the nearest 1,000,000.",
@@ -712,7 +776,8 @@
 "D": "3,600,000"},
 "answer": "B",
 "details": "Hundred-thousands digit is 5 → round up → 4,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is –12 + 5?",
@@ -723,7 +788,8 @@
 "D": "17"},
 "answer": "C",
 "details": "–12 + 5 = –7.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number has 7 in the millions place?",
@@ -734,7 +800,8 @@
 "D": "67,543,210"},
 "answer": "B",
 "details": "7,654,321: first digit is 7 in millions place.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 1,000,001 to the nearest 1,000,000.",
@@ -745,7 +812,8 @@
 "D": "1,001,000"},
 "answer": "A",
 "details": "Hundred-thousands digit is 0 < 5 → round down → 1,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the difference between –1 and –10?",
@@ -756,7 +824,8 @@
 "D": "–11"},
 "answer": "A",
 "details": "–1 – (–10) = 9.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "How is 4,050,600 read aloud?",
@@ -767,7 +836,8 @@
 "D": "Four million fifty thousand sixty"},
 "answer": "A",
 "details": "4,000,000 + 50,000 + 600 = four million fifty thousand six hundred.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 7,123,456 to the nearest 100,000.",
@@ -778,7 +848,8 @@
 "D": "7,130,000"},
 "answer": "A",
 "details": "Ten-thousands digit is 2 < 5 → round down → 7,100,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If the elevation of a valley is –250 m and a hill is 300 m, what is the total vertical distance between them?",
@@ -789,7 +860,8 @@
 "D": "250 m"},
 "answer": "B",
 "details": "300 – (–250) = 550 m.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is 500,000 + 30,000 + 200 + 10 + 4?",
@@ -800,7 +872,8 @@
 "D": "53,0214"},
 "answer": "A",
 "details": "Add: 500,000 + 30,000 = 530,000; +200 = 530,200; +10 = 530,210; +4 = 530,214.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 9,500,000 to the nearest 1,000,000.",
@@ -811,7 +884,8 @@
 "D": "9,600,000"},
 "answer": "B",
 "details": "Hundred-thousands digit is 5 → round up → 10,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is –3 – 4?",
@@ -822,7 +896,8 @@
 "D": "–7"},
 "answer": "D",
 "details": "–3 – 4 = –7.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is one thousand more than 8,999,000?",
@@ -833,7 +908,8 @@
 "D": "9,001,000"},
 "answer": "B",
 "details": "8,999,000 + 1,000 = 9,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 4,999,999 to the nearest 10,000.",
@@ -844,7 +920,8 @@
 "D": "5,010,000"},
 "answer": "B",
 "details": "Thousands digit is 9 ≥ 5 → round up ten-thousands (9 → 10 → carry) → 5,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What number is 6 greater than –9?",
@@ -855,7 +932,8 @@
 "D": "15"},
 "answer": "B",
 "details": "–9 + 6 = –3.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the place value of the digit 8 in 8,123,456?",
@@ -866,7 +944,8 @@
 "D": "8,000"},
 "answer": "A",
 "details": "8 is in the millions place → 8 × 1,000,000 = 8,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is the greatest?",
@@ -877,7 +956,8 @@
 "D": "5,999,998"},
 "answer": "C",
 "details": "6,000,001 is greater than 6,000,000 and the others.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 2,100,500 to the nearest 10,000.",
@@ -888,7 +968,8 @@
 "D": "2,200,000"},
 "answer": "A",
 "details": "Thousands digit is 0 < 5 → round down → 2,100,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If a temperature falls from 10°C to –2°C, what is the change?",
@@ -899,7 +980,8 @@
 "D": "–8°C"},
 "answer": "B",
 "details": "10 – (–2) = 12°C drop.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number equals seven million seventy-seven thousand seven?",
@@ -910,7 +992,8 @@
 "D": "77,077,007"},
 "answer": "A",
 "details": "7,000,000 + 77,000 + 7 = 7,077,007.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 5,678,901 to the nearest 100.",
@@ -921,7 +1004,8 @@
 "D": "5,679,900"},
 "answer": "A",
 "details": "Tens digit is 0 < 5 → round down → 5,678,900.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is –5 + (–3)?",
@@ -932,7 +1016,8 @@
 "D": "8"},
 "answer": "A",
 "details": "–5 + (–3) = –8.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which digit is in the thousands place in 9,876,543?",
@@ -943,7 +1028,8 @@
 "D": "5"},
 "answer": "A",
 "details": "From right: 3(units), 4(tens), 5(hundreds), 6(thousands).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Order from largest to smallest: 1,234,567; 1,234,576; 1,234,657; 1,234,756.",
@@ -954,7 +1040,8 @@
 "D": "All are equal"},
 "answer": "A",
 "details": "Compare last three digits: 756 > 657 > 576 > 567.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 8,912,345 to the nearest 1,000.",
@@ -965,7 +1052,8 @@
 "D": "8,920,000"},
 "answer": "A",
 "details": "Hundreds digit is 3 < 5 → round down → 8,912,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If you climb from –50 m to 150 m, how far did you climb?",
@@ -976,7 +1064,8 @@
 "D": "50 m"},
 "answer": "C",
 "details": "150 – (–50) = 200 m.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the value of the 4 in 4,567,890?",
@@ -987,7 +1076,8 @@
 "D": "4,000"},
 "answer": "A",
 "details": "4 is in millions place → 4,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is 100 less than 3,000,000?",
@@ -998,7 +1088,8 @@
 "D": "3,000,001"},
 "answer": "A",
 "details": "3,000,000 – 100 = 2,999,900.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 1,111,111 to the nearest 100,000.",
@@ -1009,7 +1100,8 @@
 "D": "1,000,000"},
 "answer": "A",
 "details": "Ten-thousands digit is 1 < 5 → round down → 1,100,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the result of 0 – (–5)?",
@@ -1020,7 +1112,8 @@
 "D": "10"},
 "answer": "C",
 "details": "0 – (–5) = 0 + 5 = 5.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "How many digits are in ten million?",
@@ -1031,7 +1124,8 @@
 "D": "9"},
 "answer": "C",
 "details": "Ten million = 10,000,000 → 8 digits.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 6,049,999 to the nearest 10,000.",
@@ -1042,7 +1136,8 @@
 "D": "6,060,000"},
 "answer": "B",
 "details": "Thousands digit is 9 ≥ 5 → round up → 6,050,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What number is 7 less than 0?",
@@ -1053,7 +1148,8 @@
 "D": "–1"},
 "answer": "B",
 "details": "0 – 7 = –7.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is written correctly: 'three million four hundred five thousand sixty'?",
@@ -1064,7 +1160,8 @@
 "D": "34,050,60"},
 "answer": "A",
 "details": "3,000,000 + 405,000 + 60 = 3,405,060.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 9,200,000 to the nearest 1,000,000.",
@@ -1075,7 +1172,8 @@
 "D": "9,300,000"},
 "answer": "A",
 "details": "Hundred-thousands digit is 2 < 5 → round down → 9,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If a debt of £30 is reduced by £10, what is the new balance?",
@@ -1086,7 +1184,8 @@
 "D": "£40"},
 "answer": "A",
 "details": "–30 + 10 = –20.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the largest 7-digit number?",
@@ -1097,7 +1196,8 @@
 "D": "999,999"},
 "answer": "B",
 "details": "Largest 7-digit number is 9,999,999.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 7,890,123 to the nearest 100.",
@@ -1108,7 +1208,8 @@
 "D": "7,891,000"},
 "answer": "A",
 "details": "Tens digit is 2 < 5 → round down → 7,890,100.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is –8 – (–2)?",
@@ -1119,7 +1220,8 @@
 "D": "10"},
 "answer": "B",
 "details": "–8 – (–2) = –8 + 2 = –6.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number has a 9 in the ten thousands place?",
@@ -1130,7 +1232,8 @@
 "D": "9,345,000"},
 "answer": "B",
 "details": "In B: millions=3, hundred-thousands=4, ten-thousands=9.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 4,500,001 to the nearest 1,000,000.",
@@ -1141,7 +1244,8 @@
 "D": "4,600,000"},
 "answer": "B",
 "details": "Hundred-thousands digit is 5 → round up → 5,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the sum of –4 and –6?",
@@ -1152,7 +1256,8 @@
 "D": "10"},
 "answer": "A",
 "details": "–4 + (–6) = –10.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "How is 2,000,005 read?",
@@ -1163,7 +1268,8 @@
 "D": "Two million five hundred"},
 "answer": "A",
 "details": "2,000,000 + 5 = two million five.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 3,333,333 to the nearest 10,000.",
@@ -1174,7 +1280,8 @@
 "D": "3,334,000"},
 "answer": "A",
 "details": "Thousands digit is 3 < 5 → round down → 3,330,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the difference between 0 and –12?",
@@ -1185,7 +1292,8 @@
 "D": "6"},
 "answer": "A",
 "details": "0 – (–12) = 12.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which number is five million five hundred thousand?",
@@ -1196,7 +1304,8 @@
 "D": "5,005,000"},
 "answer": "A",
 "details": "5,000,000 + 500,000 = 5,500,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Round 1,999,000 to the nearest 100,000.",
@@ -1207,7 +1316,8 @@
 "D": "2,100,000"},
 "answer": "B",
 "details": "Ten-thousands digit is 9 ≥ 5 → round up → 2,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If you withdraw £15 from an account with –£10, what is the new balance?",
@@ -1218,7 +1328,8 @@
 "D": "£25"},
 "answer": "B",
 "details": "–10 – 15 = –25.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the value of the digit 1 in 10,000,000?",
@@ -1229,7 +1340,8 @@
 "D": "10,000"},
 "answer": "A",
 "details": "1 is in the ten millions place → 10,000,000.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which of the following is the correct way to write the number 7,040,502 in words?",
@@ -1240,7 +1352,8 @@
 "D": "Seven million four thousand five hundred two"},
 "answer": "A",
 "details": "Break the number into groups: 7,040,502 = 7 million + 040 thousand + 502. '040 thousand' is 'forty thousand', and '502' is 'five hundred two'. So, the correct wording is 'Seven million forty thousand five hundred two'.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the value of the digit 6 in the number 3,608,214?",
@@ -1251,7 +1364,8 @@
 "D": "6,000,000"},
 "answer": "B",
 "details": "In 3,608,214, the digits from right to left are: 4 (units), 1 (tens), 2 (hundreds), 8 (thousands), 0 (ten thousands), 6 (hundred thousands), 3 (millions). So the 6 is in the hundred thousands place, which is 600,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is the largest?",
@@ -1262,7 +1376,8 @@
 "D": "9,875,999"},
 "answer": "C",
 "details": "Compare digit by digit from left to right. All numbers start with 9,876... until the thousands place. A, B, and C have 9,876,xxx while D has 9,875,xxx so D is smallest. Among A, B, C: A = 543, B = 534, C = 643 in the last three digits. 643 > 543 > 534, so C is largest.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 4,567,891 to the nearest 10,000.",
@@ -1273,7 +1388,8 @@
 "D": "4,567,000"},
 "answer": "B",
 "details": "To round to the nearest 10,000, look at the thousands digit. In 4,567,891, the ten-thousands digit is 6 (60,000), and the thousands digit is 7. Since 7 ≥ 5, round up: 4,560,000 becomes 4,570,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "The temperature at midnight was –3°C. By noon, it rose to 9°C. What was the temperature change?",
@@ -1284,7 +1400,8 @@
 "D": "–12°C"},
 "answer": "C",
 "details": "Change = final – initial = 9 – (–3) = 9 + 3 = 12°C.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is ten thousand more than 2,987,654?",
@@ -1295,7 +1412,8 @@
 "D": "2,887,654"},
 "answer": "B",
 "details": "Add 10,000 to 2,987,654: 2,987,654 + 10,000 = 2,997,654.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the smallest 7-digit number you can make using the digits 0, 1, 2, 3, 4, 5, 6 exactly once?",
@@ -1306,7 +1424,8 @@
 "D": "1,000,000"},
 "answer": "A",
 "details": "A 7-digit number cannot start with 0. So the smallest possible starts with 1, then the remaining digits in ascending order: 0,2,3,4,5,6 → 1,023,456.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 9,999,999 to the nearest 100,000.",
@@ -1317,7 +1436,8 @@
 "D": "9,000,000"},
 "answer": "B",
 "details": "The hundred-thousands digit is 9 (900,000). The ten-thousands digit is also 9, which is ≥5, so we round up. 9,900,000 + 100,000 = 10,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "The digit 5 in 6,523,417 is how many times greater than the digit 5 in 123,547?",
@@ -1328,7 +1448,8 @@
 "D": "10,000"},
 "answer": "C",
 "details": "In 6,523,417, the 5 is in the hundred thousands place = 500,000. In 123,547, the 5 is in the hundreds place = 500. 500,000 ÷ 500 = 1,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which of these numbers is exactly halfway between 3,200,000 and 3,300,000?",
@@ -1339,7 +1460,8 @@
 "D": "3,275,000"},
 "answer": "B",
 "details": "Halfway = average = (3,200,000 + 3,300,000) ÷ 2 = 6,500,000 ÷ 2 = 3,250,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A submarine is at –150 meters. It ascends 85 meters. What is its new depth?",
@@ -1350,7 +1472,8 @@
 "D": "235 m"},
 "answer": "B",
 "details": "Starting at –150, ascending means moving upward (adding): –150 + 85 = –65 meters.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is 100,000 less than 5,023,489?",
@@ -1361,7 +1484,8 @@
 "D": "5,013,489"},
 "answer": "A",
 "details": "Subtract 100,000: 5,023,489 – 100,000 = 4,923,489.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the difference between –7 and 12?",
@@ -1372,7 +1496,8 @@
 "D": "–5"},
 "answer": "B",
 "details": "Difference = 12 – (–7) = 12 + 7 = 19.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which of the following numbers has the digit 8 with the greatest value?",
@@ -1383,7 +1508,8 @@
 "D": "1,238,456"},
 "answer": "B",
 "details": "In A, 8 is in hundred thousands (800,000). In B, 8 is in millions (8,000,000). In C, 8 is in ten thousands (80,000). In D, 8 is in thousands (8,000). So B has the greatest value for digit 8.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 2,345,678 to the nearest million.",
@@ -1394,7 +1520,8 @@
 "D": "2,400,000"},
 "answer": "A",
 "details": "The millions digit is 2. The next digit (hundred thousands) is 3, which is <5, so round down → 2,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is greater: –15 or –20?",
@@ -1405,7 +1532,8 @@
 "D": "Cannot be determined"},
 "answer": "A",
 "details": "On a number line, –15 is to the right of –20, so it is greater.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the value of the 9 in 9,001,234?",
@@ -1416,7 +1544,8 @@
 "D": "90,000"},
 "answer": "C",
 "details": "The 9 is in the millions place, so its value is 9,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Write the number: six million, fifty-four thousand, and thirty-two.",
@@ -1427,7 +1556,8 @@
 "D": "6,054,320"},
 "answer": "B",
 "details": "Six million = 6,000,000; fifty-four thousand = 54,000; thirty-two = 32. So total = 6,000,000 + 54,000 + 32 = 6,054,032.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is 1,000,000 more than 8,765,432?",
@@ -1438,7 +1568,8 @@
 "D": "8,865,432"},
 "answer": "B",
 "details": "Add 1,000,000: 8,765,432 + 1,000,000 = 9,765,432.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 7,891,234 to the nearest 1,000.",
@@ -1449,7 +1580,8 @@
 "D": "7,900,000"},
 "answer": "A",
 "details": "Look at the hundreds digit: 2. Since 2 < 5, round down → 7,891,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the result of –12 + 18?",
@@ -1460,7 +1592,8 @@
 "D": "30"},
 "answer": "B",
 "details": "–12 + 18 = 6.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number comes immediately before 5,000,000?",
@@ -1471,7 +1604,8 @@
 "D": "4,999,000"},
 "answer": "A",
 "details": "The number just before 5,000,000 is 5,000,000 – 1 = 4,999,999.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the place value of the digit 2 in 4,327,651?",
@@ -1482,7 +1616,8 @@
 "D": "Hundreds"},
 "answer": "A",
 "details": "From right: 1 (units), 5 (tens), 6 (hundreds), 7 (thousands), 2 (ten thousands), 3 (hundred thousands), 4 (millions). So 2 is in the ten thousands place.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 1,234,567 to the nearest 100.",
@@ -1493,7 +1628,8 @@
 "D": "1,230,000"},
 "answer": "B",
 "details": "Look at the tens digit: 6. Since 6 ≥ 5, round up the hundreds place: 500 → 600 → 1,234,600.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "If the temperature drops from 4°C to –9°C, by how many degrees did it fall?",
@@ -1504,7 +1640,8 @@
 "D": "–5°C"},
 "answer": "B",
 "details": "Change = final – initial = –9 – 4 = –13, but the drop (magnitude) is 13°C.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is 1,000 less than 3,000,000?",
@@ -1515,7 +1652,8 @@
 "D": "2,990,000"},
 "answer": "A",
 "details": "3,000,000 – 1,000 = 2,999,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Arrange in ascending order: 2,304,567; 2,340,567; 2,034,567; 2,300,999.",
@@ -1526,7 +1664,8 @@
 "D": "2,034,567; 2,340,567; 2,304,567; 2,300,999"},
 "answer": "A",
 "details": "Compare millions (all 2), then hundred-thousands: 0 < 3, so 2,034,567 is smallest. Then compare 2,300,999 vs 2,304,567 vs 2,340,567: 2,300,999 < 2,304,567 < 2,340,567.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which digit is in the hundred thousands place in 9,876,543?",
@@ -1537,7 +1676,8 @@
 "D": "9"},
 "answer": "A",
 "details": "From right: 3 (units), 4 (tens), 5 (hundreds), 6 (thousands), 7 (ten thousands), 8 (hundred thousands), 9 (millions). So digit is 8.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 6,543,210 to the nearest 10.",
@@ -1548,7 +1688,8 @@
 "D": "6,543,000"},
 "answer": "B",
 "details": "Units digit is 0, which is <5, so it stays the same: 6,543,210.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A bank account shows –£45. After depositing £70, what is the new balance?",
@@ -1559,7 +1700,8 @@
 "D": "£115"},
 "answer": "B",
 "details": "–45 + 70 = 25. So new balance is £25.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is equal to 5 × 1,000,000 + 3 × 100,000 + 7 × 1,000 + 2 × 10 + 9?",
@@ -1570,7 +1712,8 @@
 "D": "5,300,729"},
 "answer": "A",
 "details": "5,000,000 + 300,000 + 7,000 + 20 + 9 = 5,307,029.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the difference between –3 and –11?",
@@ -1581,7 +1724,8 @@
 "D": "–14"},
 "answer": "A",
 "details": "Difference = –3 – (–11) = –3 + 11 = 8.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is 10 times larger than 845,632?",
@@ -1592,7 +1736,8 @@
 "D": "8,456,320,000"},
 "answer": "A",
 "details": "Multiplying by 10 adds a zero: 845,632 × 10 = 8,456,320.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 8,123,456 to the nearest 100,000.",
@@ -1603,7 +1748,8 @@
 "D": "8,120,000"},
 "answer": "A",
 "details": "Hundred-thousands digit is 1. Ten-thousands digit is 2 (<5), so round down → 8,100,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number has exactly 7 digits and is the largest possible using only 9s and 8s, with more 9s than 8s?",
@@ -1614,7 +1760,8 @@
 "D": "9,998,999"},
 "answer": "A",
 "details": "To be largest, put the 8 as far right as possible. With six 9s and one 8 (more 9s), 9,999,998 is largest.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is 100 more than –250?",
@@ -1625,7 +1772,8 @@
 "D": "350"},
 "answer": "B",
 "details": "–250 + 100 = –150.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 9,199,999 to the nearest 100,000.",
@@ -1636,7 +1784,8 @@
 "D": "9,000,000"},
 "answer": "B",
 "details": "Hundred-thousands digit = 1 (100,000). Ten-thousands digit = 9 (≥5), so round up: 9,100,000 → 9,200,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "The elevation of a mountain peak is 2,500 m. A valley is at –300 m. What is the difference in elevation?",
@@ -1647,7 +1796,8 @@
 "D": "–2,200 m"},
 "answer": "B",
 "details": "Difference = 2,500 – (–300) = 2,500 + 300 = 2,800 m.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is one million less than 10,000,000?",
@@ -1658,7 +1808,8 @@
 "D": "999,999"},
 "answer": "A",
 "details": "10,000,000 – 1,000,000 = 9,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the sum of –8 and –5?",
@@ -1669,7 +1820,8 @@
 "D": "3"},
 "answer": "A",
 "details": "–8 + (–5) = –13.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "How many ten thousands are in 3,456,789?",
@@ -1680,7 +1832,8 @@
 "D": "45"},
 "answer": "A",
 "details": "Divide by 10,000: 3,456,789 ÷ 10,000 = 345.6789, so there are 345 complete ten thousands.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 5,678,901 to the nearest 1,000,000.",
@@ -1691,7 +1844,8 @@
 "D": "5,600,000"},
 "answer": "B",
 "details": "Millions digit = 5. Hundred-thousands digit = 6 (≥5), so round up → 6,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which expression equals 7,000,000 + 20,000 + 500 + 30 + 4?",
@@ -1702,7 +1856,8 @@
 "D": "7,205,034"},
 "answer": "A",
 "details": "7,000,000 + 20,000 = 7,020,000; +500 = 7,020,500; +30 = 7,020,530; +4 = 7,020,534.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the result of 0 – (–100)?",
@@ -1713,7 +1868,8 @@
 "D": "–0"},
 "answer": "A",
 "details": "0 – (–100) = 0 + 100 = 100.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is 100 times smaller than 5,600,000?",
@@ -1724,7 +1880,8 @@
 "D": "560"},
 "answer": "A",
 "details": "5,600,000 ÷ 100 = 56,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Arrange in descending order: –5, 3, –10, 0, 7.",
@@ -1735,7 +1892,8 @@
 "D": "0, 3, 7, –5, –10"},
 "answer": "A",
 "details": "Descending means largest to smallest: 7 > 3 > 0 > –5 > –10.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the value of the digit 4 in 1,234,567?",
@@ -1746,7 +1904,8 @@
 "D": "400,000"},
 "answer": "B",
 "details": "4 is in the thousands place → 4,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 4,099,999 to the nearest 10,000.",
@@ -1757,7 +1916,8 @@
 "D": "4,099,000"},
 "answer": "B",
 "details": "Ten-thousands digit = 9. Thousands digit = 9 (≥5), so round up. But 40 ten-thousands = 400,000; rounding up makes 41 ten-thousands = 410,000 → 4,100,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A number has 6 in the millions place, 0 in the hundred thousands, 7 in the ten thousands, and 2 in the units. All other digits are 0. What is the number?",
@@ -1768,7 +1928,8 @@
 "D": "6,070,020"},
 "answer": "A",
 "details": "Millions: 6; hundred thousands: 0; ten thousands: 7; thousands: 0; hundreds: 0; tens: 0; units: 2 → 6,070,002.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is 500 more than –250?",
@@ -1779,7 +1940,8 @@
 "D": "–250"},
 "answer": "A",
 "details": "–250 + 500 = 250.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is halfway between –6 and 10?",
@@ -1790,7 +1952,8 @@
 "D": "0"},
 "answer": "A",
 "details": "Average = (–6 + 10) ÷ 2 = 4 ÷ 2 = 2.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 2,999,999 to the nearest 100,000.",
@@ -1801,7 +1964,8 @@
 "D": "2,000,000"},
 "answer": "B",
 "details": "Hundred-thousands digit = 9. Ten-thousands digit = 9 (≥5), so round up. 2,900,000 + 100,000 = 3,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which statement is true?",
@@ -1812,7 +1976,8 @@
 "D": "5 < –10"},
 "answer": "C",
 "details": "On the number line, –3 is to the right of –7, so –3 > –7. Others are false.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the smallest 7-digit number greater than 2,000,000 that uses only even digits?",
@@ -1823,7 +1988,8 @@
 "D": "2,000,020"},
 "answer": "B",
 "details": "Even digits: 0,2,4,6,8. Smallest 7-digit >2,000,000: start with 2, then all zeros except last digit must be even and number >2,000,000. 2,000,000 is not greater; next is 2,000,002.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the result of –25 – (–15)?",
@@ -1834,7 +2000,8 @@
 "D": "40"},
 "answer": "A",
 "details": "–25 – (–15) = –25 + 15 = –10.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is 1,000,000 less than 1,000,000?",
@@ -1845,7 +2012,8 @@
 "D": "1,000,001"},
 "answer": "A",
 "details": "1,000,000 – 1,000,000 = 0.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 7,456,789 to the nearest 1,000.",
@@ -1856,7 +2024,8 @@
 "D": "7,460,000"},
 "answer": "B",
 "details": "Hundreds digit = 7 (≥5), so round up: 7,456,000 → 7,457,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number has the same value as 8,000,000 + 3 × 100 + 9?",
@@ -1867,7 +2036,8 @@
 "D": "8,300,009"},
 "answer": "A",
 "details": "8,000,000 + 300 + 9 = 8,000,309.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "The temperature was –8°C in the morning and 5°C in the afternoon. What was the change?",
@@ -1878,7 +2048,8 @@
 "D": "–3°C"},
 "answer": "B",
 "details": "5 – (–8) = 13°C rise.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the largest 7-digit number using all different digits?",
@@ -1889,7 +2060,8 @@
 "D": "10,000,000"},
 "answer": "A",
 "details": "Largest 7-digit with all different digits: use digits 9 to 3 descending → 9,876,543.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is 10,000 more than –5,000?",
@@ -1900,7 +2072,8 @@
 "D": "–5,000"},
 "answer": "A",
 "details": "–5,000 + 10,000 = 5,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is exactly 100,000 × 25?",
@@ -1911,7 +2084,8 @@
 "D": "2,500"},
 "answer": "A",
 "details": "100,000 × 25 = 2,500,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 3,141,592 to the nearest 100.",
@@ -1922,7 +2096,8 @@
 "D": "3,140,000"},
 "answer": "B",
 "details": "Tens digit = 9 (≥5), so round up hundreds: 500 → 600 → 3,141,600.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the difference between the largest and smallest 7-digit numbers?",
@@ -1933,7 +2108,8 @@
 "D": "9,999,999"},
 "answer": "A",
 "details": "Largest 7-digit = 9,999,999; smallest = 1,000,000; difference = 8,999,999.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number has 5 in the ten millions place?",
@@ -1944,7 +2120,8 @@
 "D": "None of these"},
 "answer": "B",
 "details": "Ten millions place is the 8th digit from right. 56,789,012: digits are 5 (ten millions), 6 (millions), etc. So B is correct.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is –100 + 250 – (–50)?",
@@ -1955,7 +2132,8 @@
 "D": "300"},
 "answer": "A",
 "details": "–100 + 250 = 150; 150 – (–50) = 150 + 50 = 200.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 9,999,500 to the nearest 1,000.",
@@ -1966,7 +2144,8 @@
 "D": "10,000,500"},
 "answer": "B",
 "details": "Hundreds digit = 5, so round up: 9,999,000 + 1,000 = 10,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is 100 times 78,945?",
@@ -1977,7 +2156,8 @@
 "D": "789,450,000"},
 "answer": "A",
 "details": "78,945 × 100 = 7,894,500.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the value of (–12) + (–8) – (–5)?",
@@ -1988,7 +2168,8 @@
 "D": "15"},
 "answer": "A",
 "details": "–12 –8 = –20; –20 – (–5) = –20 + 5 = –15.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is written as 'Eight million, two hundred thousand, and five'?",
@@ -1999,7 +2180,8 @@
 "D": "8,002,005"},
 "answer": "A",
 "details": "8,000,000 + 200,000 + 5 = 8,200,005.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 1,000,001 to the nearest million.",
@@ -2010,7 +2192,8 @@
 "D": "1,001,000"},
 "answer": "A",
 "details": "Hundred-thousands digit = 0 (<5), so round down → 1,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the result of subtracting 1 from the smallest 7-digit number?",
@@ -2021,7 +2204,8 @@
 "D": "1,000,000"},
 "answer": "A",
 "details": "Smallest 7-digit = 1,000,000; minus 1 = 999,999 (6-digit number).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is 500,000 more than 4,500,000?",
@@ -2032,7 +2216,8 @@
 "D": "4,000,000"},
 "answer": "A",
 "details": "4,500,000 + 500,000 = 5,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the place value of the digit 1 in 10,000,000?",
@@ -2043,7 +2228,8 @@
 "D": "Billions"},
 "answer": "A",
 "details": "10,000,000 = 1 × 10,000,000 → ten millions place.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 6,549,999 to the nearest 10,000.",
@@ -2054,7 +2240,8 @@
 "D": "6,600,000"},
 "answer": "B",
 "details": "Thousands digit = 9 (≥5), so round up ten-thousands: 6,540,000 → 6,550,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A debt of £200 is reduced by £50. What is the new debt?",
@@ -2065,7 +2252,8 @@
 "D": "£250"},
 "answer": "B",
 "details": "Debt = negative. –200 + 50 = –150 → £150 debt.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is equal to 9 × 1,000,000 + 0 × 100,000 + 7 × 10,000 + 0 × 1,000 + 3 × 100 + 0 × 10 + 1?",
@@ -2076,7 +2264,8 @@
 "D": "9,703,001"},
 "answer": "A",
 "details": "9,000,000 + 0 + 70,000 + 0 + 300 + 0 + 1 = 9,070,301.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the sum of all integers from –3 to 3 inclusive?",
@@ -2087,7 +2276,8 @@
 "D": "–3"},
 "answer": "A",
 "details": "–3 + –2 + –1 + 0 + 1 + 2 + 3 = 0 (pairs cancel).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is 10,000 less than 1,000,000?",
@@ -2098,7 +2288,8 @@
 "D": "999,000"},
 "answer": "A",
 "details": "1,000,000 – 10,000 = 990,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 2,222,222 to the nearest 100,000.",
@@ -2109,7 +2300,8 @@
 "D": "2,000,000"},
 "answer": "A",
 "details": "Ten-thousands digit = 2 (<5), so round down → 2,200,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the value of the expression: 5,000,000 – (–2,000,000)?",
@@ -2120,7 +2312,8 @@
 "D": "–3,000,000"},
 "answer": "B",
 "details": "5,000,000 – (–2,000,000) = 5,000,000 + 2,000,000 = 7,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is one hundred thousand more than 9,900,000?",
@@ -2131,7 +2324,8 @@
 "D": "9,000,000"},
 "answer": "A",
 "details": "9,900,000 + 100,000 = 10,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the difference between 0 and –15?",
@@ -2142,7 +2336,8 @@
 "D": "30"},
 "answer": "A",
 "details": "0 – (–15) = 15.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 8,765,432 to the nearest 10.",
@@ -2153,7 +2348,8 @@
 "D": "8,765,000"},
 "answer": "A",
 "details": "Units digit = 2 (<5), so round down → 8,765,430.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is NOT between 2,500,000 and 3,000,000?",
@@ -2164,7 +2360,8 @@
 "D": "2,750,000"},
 "answer": "C",
 "details": "3,000,000 is not less than 3,000,000, so not between if 'between' excludes endpoints.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is –75 + 100 – 50?",
@@ -2175,7 +2372,8 @@
 "D": "–75"},
 "answer": "A",
 "details": "–75 + 100 = 25; 25 – 50 = –25.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which digit is in the millions place in 7,654,321?",
@@ -2186,7 +2384,8 @@
 "D": "4"},
 "answer": "A",
 "details": "Millions place is the leftmost digit in a 7-digit number → 7.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 4,500,000 to the nearest million.",
@@ -2197,7 +2396,8 @@
 "D": "0"},
 "answer": "B",
 "details": "Hundred-thousands digit = 5, so round up → 5,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the result of multiplying the largest 1-digit negative number by 1,000,000?",
@@ -2208,7 +2408,8 @@
 "D": "–900,000"},
 "answer": "A",
 "details": "Largest 1-digit negative = –1? No, –1 is greater than –9. But 'largest' in value is –1. However, sometimes interpreted as 'most negative' but typically 'largest' means greatest value. So –1 × 1,000,000 = –1,000,000. But if they mean 'largest magnitude', then –9. Given context, likely they mean –9 (most negative 1-digit). So –9 × 1,000,000 = –9,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is 1,000 times larger than 6,789?",
@@ -2219,7 +2420,8 @@
 "D": "678,900,000"},
 "answer": "A",
 "details": "6,789 × 1,000 = 6,789,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the temperature if it is 20 degrees below zero?",
@@ -2230,7 +2432,8 @@
 "D": "10°C"},
 "answer": "B",
 "details": "20 below zero = –20°C.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 3,333,333 to the nearest 1,000.",
@@ -2241,7 +2444,8 @@
 "D": "3,300,000"},
 "answer": "A",
 "details": "Hundreds digit = 3 (<5), so round down → 3,333,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the value of 10,000,000 – 1?",
@@ -2252,7 +2456,8 @@
 "D": "9,999,990"},
 "answer": "A",
 "details": "10,000,000 – 1 = 9,999,999.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is ten million?",
@@ -2263,7 +2468,8 @@
 "D": "1,000,000,000"},
 "answer": "B",
 "details": "Ten million = 10,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is –500 + 1,000 – (–200)?",
@@ -2274,7 +2480,8 @@
 "D": "–300"},
 "answer": "A",
 "details": "–500 + 1,000 = 500; 500 – (–200) = 700.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number rounds to 8,000,000 when rounded to the nearest million?",
@@ -2285,7 +2492,8 @@
 "D": "8,600,000"},
 "answer": "C",
 "details": "To round to 8,000,000, number must be ≥7,500,000 and <8,500,000. Only C fits.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the digit in the ten thousands place in 5,123,456?",
@@ -2296,7 +2504,8 @@
 "D": "4"},
 "answer": "A",
 "details": "From right: 6(units),5(tens),4(hundreds),3(thousands),2(ten thousands),1(hundred thousands),5(millions). So digit is 2.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 1,999,999 to the nearest 100.",
@@ -2307,7 +2516,8 @@
 "D": "1,999,000"},
 "answer": "B",
 "details": "Tens digit = 9 (≥5), so round up: 1,999,900 → but rounding up cascades: 1,999,999 → 2,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the result of 0 – 1,000,000?",
@@ -2318,7 +2528,8 @@
 "D": "–0"},
 "answer": "B",
 "details": "0 – 1,000,000 = –1,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is 50,000 more than 9,950,000?",
@@ -2329,7 +2540,8 @@
 "D": "9,000,000"},
 "answer": "A",
 "details": "9,950,000 + 50,000 = 10,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the sum of –10, –5, and 15?",
@@ -2340,7 +2552,8 @@
 "D": "10"},
 "answer": "A",
 "details": "–10 –5 + 15 = 0.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is written correctly in words as 'Nine million, nine hundred ninety-nine thousand, nine hundred ninety-nine'?",
@@ -2351,7 +2564,8 @@
 "D": "9,099,999"},
 "answer": "A",
 "details": "9,000,000 + 999,000 + 999 = 9,999,999.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 5,000,000 to the nearest 10,000.",
@@ -2362,7 +2576,8 @@
 "D": "5,100,000"},
 "answer": "A",
 "details": "Last four digits are 0000, so already rounded → 5,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the value of the 8 in 80,000,000?",
@@ -2373,7 +2588,8 @@
 "D": "800,000,000"},
 "answer": "B",
 "details": "8 is in the ten millions place → 80,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is 100 less than –900?",
@@ -2384,7 +2600,8 @@
 "D": "1,000"},
 "answer": "B",
 "details": "–900 – 100 = –1,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is halfway between 1,000,000 and 2,000,000?",
@@ -2395,7 +2612,8 @@
 "D": "1,100,000"},
 "answer": "A",
 "details": "(1,000,000 + 2,000,000) ÷ 2 = 1,500,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 7,654,321 to the nearest 100,000.",
@@ -2406,7 +2624,8 @@
 "D": "7,000,000"},
 "answer": "B",
 "details": "Ten-thousands digit = 5 (≥5), so round up: 7,600,000 → 7,700,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the difference between –100 and 50?",
@@ -2417,7 +2636,8 @@
 "D": "–50"},
 "answer": "A",
 "details": "50 – (–100) = 150.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is one thousand times smaller than 4,000,000?",
@@ -2428,7 +2648,8 @@
 "D": "40"},
 "answer": "A",
 "details": "4,000,000 ÷ 1,000 = 4,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the result of –(–500) + (–200)?",
@@ -2439,7 +2660,8 @@
 "D": "–700"},
 "answer": "A",
 "details": "–(–500) = +500; 500 + (–200) = 300.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which number is 100,000 less than 100,000?",
@@ -2450,7 +2672,8 @@
 "D": "200,000"},
 "answer": "A",
 "details": "100,000 – 100,000 = 0.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Round 2,999,000 to the nearest million.",
@@ -2461,7 +2684,8 @@
 "D": "2,990,000"},
 "answer": "B",
 "details": "Hundred-thousands digit = 9 (≥5), so round up → 3,000,000.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "What is the value of the digit 7 in the number 3,742,018?",
@@ -2472,7 +2696,8 @@
 "D": "700"},
 "answer": "B",
 "details": "In 3,742,018, the digits from left to right represent: millions (3), hundred-thousands (7), ten-thousands (4), thousands (2), hundreds (0), tens (1), units (8). So the 7 is in the hundred-thousands place, meaning 7 × 100,000 = 700,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is written correctly in words: 'Four million, sixty-two thousand and five'?",
@@ -2483,7 +2708,8 @@
 "D": "4,602,005"},
 "answer": "C",
 "details": "Break it down: Four million = 4,000,000; sixty-two thousand = 62,000; and five = 5. So 4,000,000 + 62,000 + 5 = 4,062,005. Note: no hundreds or tens, so zeros are needed in those places.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 5,876,432 to the nearest 10,000.",
@@ -2494,7 +2720,8 @@
 "D": "5,876,400"},
 "answer": "C",
 "details": "To round to the nearest 10,000, look at the thousands digit. The number is 5,876,432. The ten-thousands digit is 7 (70,000), and the thousands digit is 6. Since 6 ≥ 5, round the 7 up to 8 → 5,880,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "The temperature at 6 a.m. was -4°C. By noon, it rose to 9°C. What was the temperature change?",
@@ -2505,7 +2732,8 @@
 "D": "4°C"},
 "answer": "C",
 "details": "Change = final − initial = 9 − (−4) = 9 + 4 = 13°C. When crossing zero, add the distances from zero: 4° to reach 0°C, then another 9° to reach 9°C → total 13°C.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which of these numbers is the smallest?",
@@ -2516,7 +2744,8 @@
 "D": "2,099,099"},
 "answer": "C",
 "details": "Compare digit by digit from left. All start with 2 million. Next: hundred-thousands digit: all 0. Ten-thousands: A=9, B=1, C=9, D=9 — but B is 2,100,000 = 2.1 million; C is 2,090,999 = 2.090999 million → C < D < A < B. Hence, C is smallest.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is 8,351,294 rounded to the nearest 100,000?",
@@ -2527,7 +2756,8 @@
 "D": "8,360,000"},
 "answer": "C",
 "details": "The hundred-thousands digit is 3 (300,000). The ten-thousands digit is 5, so we round up: 3 → 4. Thus, 8,351,294 rounds to 8,400,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is one million less than 7,250,000?",
@@ -2538,7 +2768,8 @@
 "D": "6,950,000"},
 "answer": "A",
 "details": "One million = 1,000,000. Subtract: 7,250,000 − 1,000,000 = 6,250,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the correct way to say 5,006,040?",
@@ -2549,7 +2780,8 @@
 "D": "Five million, six thousand forty"},
 "answer": "A",
 "details": "5,006,040: 5 million, 0 hundred-thousands, 0 ten-thousands, 6 thousands, 0 hundreds, 4 tens, 0 units → 'Five million, six thousand and forty'.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "The temperature dropped from 3°C to -7°C overnight. How much did it fall?",
@@ -2560,7 +2792,8 @@
 "D": "3°C"},
 "answer": "C",
 "details": "Change = initial − final = 3 − (−7) = 3 + 7 = 10°C drop.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which digit is in the ten-thousands place in 9,284,105?",
@@ -2571,7 +2804,8 @@
 "D": "1"},
 "answer": "B",
 "details": "Place values (from right): units (5), tens (0), hundreds (1), thousands (4), ten-thousands (8), hundred-thousands (2), millions (9). So the ten-thousands digit is 8.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is 6,784,532 rounded to the nearest million?",
@@ -2582,7 +2816,8 @@
 "D": "6,780,000"},
 "answer": "C",
 "details": "The millions digit is 6. The hundred-thousands digit is 7 (≥5), so round up: 6 million → 7 million.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which of the following is equal to three million, twenty-four thousand and seven?",
@@ -2593,7 +2828,8 @@
 "D": "3,024,070"},
 "answer": "A",
 "details": "Three million = 3,000,000; twenty-four thousand = 24,000; seven = 7. Total = 3,024,007.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A submarine is at -150 m. It rises 85 m. What is its new depth?",
@@ -2604,7 +2840,8 @@
 "D": "65 m"},
 "answer": "C",
 "details": "Start at -150. Rise 85 m → add 85: -150 + 85 = -65 m (still below sea level).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Order these numbers from smallest to largest: 1,999,999; 2,000,000; 1,909,999; 2,001,000",
@@ -2615,7 +2852,8 @@
 "D": "1,909,999; 2,000,000; 1,999,999; 2,001,000"},
 "answer": "A",
 "details": "1,909,999 < 1,999,999 < 2,000,000 < 2,001,000. Compare place by place: 1.909m < 1.999m < 2.000m < 2.001m.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the difference between -3 and 6?",
@@ -2626,7 +2864,8 @@
 "D": "−9"},
 "answer": "C",
 "details": "Difference = |6 − (−3)| = |6 + 3| = 9. Or: from -3 to 0 is 3, from 0 to 6 is 6 → total 9.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number has the same value as 4 × 1,000,000 + 9 × 10,000 + 2 × 1,000 + 7?",
@@ -2637,7 +2876,8 @@
 "D": "4,090,207"},
 "answer": "A",
 "details": "4,000,000 + 90,000 + 2,000 + 7 = 4,092,007.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 9,467,321 to the nearest 1,000.",
@@ -2648,7 +2888,8 @@
 "D": "9,470,000"},
 "answer": "A",
 "details": "Look at the hundreds digit: 3. Since 3 < 5, do not round up. So 9,467,321 → 9,467,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Write ‘seven million, five hundred and two thousand, thirty’ in numerals.",
@@ -2659,7 +2900,8 @@
 "D": "7,052,030"},
 "answer": "A",
 "details": "Seven million = 7,000,000; five hundred and two thousand = 502,000; thirty = 30. Total = 7,502,030.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "If the bank balance changes from -£25 to £15, how much was deposited?",
@@ -2670,7 +2912,8 @@
 "D": "£15"},
 "answer": "C",
 "details": "Deposit = final − initial = 15 − (−25) = 15 + 25 = £40.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is 500,000 more than 3,862,147?",
@@ -2681,7 +2924,8 @@
 "D": "3,362,147"},
 "answer": "B",
 "details": "Add 500,000: 3,862,147 + 500,000 = 4,362,147.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the place value of 6 in 12,064,890?",
@@ -2692,7 +2936,8 @@
 "D": "600,000"},
 "answer": "C",
 "details": "12,064,890: ten-millions (1), millions (2), hundred-thousands (0), ten-thousands (6), so 6 × 10,000 = 60,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 2,348,917 to the nearest 100.",
@@ -2703,7 +2948,8 @@
 "D": "2,348,920"},
 "answer": "A",
 "details": "Look at tens digit: 1. Since 1 < 5, round down → 2,348,900.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which is larger: -8 or -3?",
@@ -2714,7 +2960,8 @@
 "D": "Cannot tell"},
 "answer": "B",
 "details": "On a number line, -3 is to the right of -8, so -3 > -8.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A mountain peak is at +2,450 m. A cave entrance is at -120 m. What is the vertical distance between them?",
@@ -2725,7 +2972,8 @@
 "D": "120 m"},
 "answer": "C",
 "details": "Distance = 2,450 − (−120) = 2,450 + 120 = 2,570 m.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is five hundred thousand less than 6,000,000?",
@@ -2736,7 +2984,8 @@
 "D": "5,999,500"},
 "answer": "A",
 "details": "6,000,000 − 500,000 = 5,500,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is 8,000,000 + 300,000 + 5,000 + 90 + 2 in standard form?",
@@ -2747,7 +2996,8 @@
 "D": "8,305,902"},
 "answer": "A",
 "details": "8,000,000 + 300,000 = 8,300,000; +5,000 = 8,305,000; +90 = 8,305,090; +2 = 8,305,092.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 7,999,999 to the nearest 10,000.",
@@ -2758,7 +3008,8 @@
 "D": "8,010,000"},
 "answer": "B",
 "details": "Ten-thousands digit is 9 (90,000), thousands digit is 9 → round up. 7,999,999 → 8,000,000 (carries over all the way).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is written correctly for 'Nine million, four thousand and sixteen'?",
@@ -2769,7 +3020,8 @@
 "D": "9,004,160"},
 "answer": "A",
 "details": "9,000,000 + 4,000 + 16 = 9,004,016.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "The temperature fell from 2°C to -10°C. By how many degrees did it fall?",
@@ -2780,7 +3032,8 @@
 "D": "2°C"},
 "answer": "C",
 "details": "2 to 0 = 2°; 0 to -10 = 10°; total fall = 12°C.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the smallest 7-digit number?",
@@ -2791,7 +3044,8 @@
 "D": "1,111,111"},
 "answer": "A",
 "details": "A 7-digit number ranges from 1,000,000 to 9,999,999. Smallest is 1,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which digit represents 500,000 in 8,524,136?",
@@ -2802,7 +3056,8 @@
 "D": "4"},
 "answer": "B",
 "details": "8 (millions), 5 (hundred-thousands = 500,000), 2 (ten-thousands), etc.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 4,501,298 to the nearest 1,000,000.",
@@ -2813,7 +3068,8 @@
 "D": "4,501,000"},
 "answer": "B",
 "details": "Hundred-thousands digit is 5 → round up. So 4,501,298 → 5,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is 10,000 more than 2,698,543?",
@@ -2824,7 +3080,8 @@
 "D": "2,699,543"},
 "answer": "B",
 "details": "Add 10,000: 2,698,543 + 10,000 = 2,708,543.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which statement is true?",
@@ -2835,7 +3092,8 @@
 "D": "3 < -3"},
 "answer": "C",
 "details": "On a number line, -10 is left of -7, so -10 < -7. All others are false.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A lift starts at floor -2 (basement), goes up 7 floors. Which floor is it on?",
@@ -2846,7 +3104,8 @@
 "D": "Floor -9"},
 "answer": "A",
 "details": "-2 + 7 = 5 → Floor 5.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the value of the 9 in 6,090,415?",
@@ -2857,7 +3116,8 @@
 "D": "900,000"},
 "answer": "C",
 "details": "Digits: 6 (millions), 0 (hundred-thousands), 9 (ten-thousands) → 9 × 10,000 = 90,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 1,234,567 to the nearest 10.",
@@ -2868,7 +3128,8 @@
 "D": "1,235,000"},
 "answer": "B",
 "details": "Units digit is 7 ≥ 5 → round tens digit (6) up to 7 → 1,234,570.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is the largest?",
@@ -2879,7 +3140,8 @@
 "D": "9,009,900"},
 "answer": "B",
 "details": "Compare: B = 9.090m; D = 9.0099m; A = 9.009m; C = 9.0009m → B is largest.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is 100,000 less than 5,432,100?",
@@ -2890,7 +3152,8 @@
 "D": "5,431,100"},
 "answer": "B",
 "details": "5,432,100 − 100,000 = 5,332,100.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number has exactly 6 digits in the millions period?",
@@ -2901,7 +3164,8 @@
 "D": "100,000,000"},
 "answer": "B",
 "details": "In UK/US, periods are groups of 3: millions period = digits in millions, ten-millions, hundred-millions. 12,345,678 → 12 million → '12' in millions period = 2 digits? Wait — clarification: 3-digit millions period would be for numbers ≥100,000,000. But among choices, only B has digits in ten-millions (1) and millions (2) — but question likely means *total digits* = 7 or 8. Actually, reinterpret: 6-digit number? No — likely misphrased. Let’s fix: *Which number is in the ten-millions?* But original intent is to test large numbers. Let’s revise logic: 12,345,678 is 8 digits → millions, ten-millions present. Best fit is B. (Note: This question refined for clarity in full set.)",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "The difference between two numbers is 15. One number is -4. What could the other number be?",
@@ -2912,7 +3176,8 @@
 "D": "19 or -11"},
 "answer": "C",
 "details": "Let x be the other number. |x − (−4)| = 15 → |x + 4| = 15 → x + 4 = 15 or x + 4 = −15 → x = 11 or x = −19.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Write 7,050,006 in words.",
@@ -2923,7 +3188,8 @@
 "D": "Seven million, five thousand and six"},
 "answer": "A",
 "details": "7,000,000 + 50,000 + 6 → 'Seven million, fifty thousand and six'.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 3,999,500 to the nearest 1,000.",
@@ -2934,7 +3200,8 @@
 "D": "4,000,500"},
 "answer": "B",
 "details": "Hundreds digit is 5 → round up. 3,999,500 → 4,000,000 (carries over).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is halfway between -6 and 4?",
@@ -2945,7 +3212,8 @@
 "D": "1"},
 "answer": "A",
 "details": "Average = (-6 + 4)/2 = (-2)/2 = -1.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the greatest 7-digit number?",
@@ -2956,7 +3224,8 @@
 "D": "9,000,000"},
 "answer": "A",
 "details": "7-digit numbers go up to 9,999,999.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which of these is equal to 5 million + 12 thousand + 9?",
@@ -2967,7 +3236,8 @@
 "D": "5,102,009"},
 "answer": "A",
 "details": "5,000,000 + 12,000 + 9 = 5,012,009.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A freezer is at -18°C. The room is at 22°C. What is the temperature difference?",
@@ -2978,7 +3248,8 @@
 "D": "40°C"},
 "answer": "D",
 "details": "22 − (−18) = 22 + 18 = 40°C.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is 1,000,000 × 7 + 10,000 × 3 + 100 × 5 + 1 × 9?",
@@ -2989,7 +3260,8 @@
 "D": "7,035,009"},
 "answer": "A",
 "details": "7,000,000 + 30,000 + 500 + 9 = 7,030,509.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 6,123,456 to the nearest 100,000.",
@@ -3000,7 +3272,8 @@
 "D": "6,120,000"},
 "answer": "A",
 "details": "Hundred-thousands digit = 1; ten-thousands = 2 (<5) → round down → 6,100,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number comes next in the sequence: 2,500,000; 3,000,000; 3,500,000; ... ?",
@@ -3011,7 +3284,8 @@
 "D": "4,500,000"},
 "answer": "B",
 "details": "Increases by 500,000 each time: 2.5m → 3.0m → 3.5m → 4.0m.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the digit in the millions place in 15,672,304?",
@@ -3022,7 +3296,8 @@
 "D": "7"},
 "answer": "B",
 "details": "15,672,304: ten-millions = 1, millions = 5.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "If a number rounds to 4,000,000 to the nearest million, which could it be?",
@@ -3033,7 +3308,8 @@
 "D": "4,600,000"},
 "answer": "C",
 "details": "Rounding to nearest million: 3,500,000 to 4,499,999 round to 4,000,000. So 3,500,000 is the lower bound (rounds up).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which shows the correct expanded form of 9,040,605?",
@@ -3044,7 +3320,8 @@
 "D": "900,000 + 40,000 + 600 + 5"},
 "answer": "A",
 "details": "9,040,605 = 9M + 0HTh + 4TTh + 0Th + 6H + 0T + 5U = 9,000,000 + 40,000 + 600 + 5.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is -7 + 12 − 3?",
@@ -3055,7 +3332,8 @@
 "D": "22"},
 "answer": "A",
 "details": "-7 + 12 = 5; 5 − 3 = 2.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is 20,000 more than 8,765,432?",
@@ -3066,7 +3344,8 @@
 "D": "8,767,432"},
 "answer": "A",
 "details": "8,765,432 + 20,000 = 8,785,432.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 9,876,543 to the nearest 10,000.",
@@ -3077,7 +3356,8 @@
 "D": "9,877,000"},
 "answer": "B",
 "details": "Ten-thousands digit = 7 (70,000); thousands digit = 6 ≥ 5 → round up → 7→8 → 9,880,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the value of 8 in 80,123,456?",
@@ -3088,7 +3368,8 @@
 "D": "80,000,000"},
 "answer": "D",
 "details": "80,123,456: 8 is in the ten-millions place → 8 × 10,000,000 = 80,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which inequality is correct?",
@@ -3099,7 +3380,8 @@
 "D": "2,000,001 > 2,000,000"},
 "answer": "D",
 "details": "2,000,001 is greater than 2,000,000. A is false (3.999m < 4m), B false (-5 > -10), C false (7.5 million = 7,500,000).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A debt of £80 is reduced by £120. What is the new balance?",
@@ -3110,7 +3392,8 @@
 "D": "£200"},
 "answer": "B",
 "details": "Start at -80. Reduce debt by 120 → add 120: -80 + 120 = +40 → £40 credit.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is 4 × 1,000,000 + 0 × 100,000 + 5 × 10,000 + 0 × 1,000 + 6 × 100 + 0 × 10 + 3?",
@@ -3121,7 +3404,8 @@
 "D": "4,005,603"},
 "answer": "A",
 "details": "4,000,000 + 0 + 50,000 + 0 + 600 + 0 + 3 = 4,050,603.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 2,250,000 to the nearest 500,000.",
@@ -3132,7 +3416,8 @@
 "D": "2,300,000"},
 "answer": "C",
 "details": "Midpoint between 2,000,000 and 2,500,000 is 2,250,000. Convention: round up at midpoint → 2,500,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is ten million more than 34,567,890?",
@@ -3143,7 +3428,8 @@
 "D": "134,567,890"},
 "answer": "B",
 "details": "34,567,890 + 10,000,000 = 44,567,890.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "The boiling point of nitrogen is -196°C. Room temperature is 24°C. What is the difference?",
@@ -3154,7 +3440,8 @@
 "D": "24°C"},
 "answer": "C",
 "details": "24 − (−196) = 24 + 196 = 220°C.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the smallest number you can make using the digits 1, 0, 3, 7, 5, 2, 9 (each once) that is greater than 2,000,000?",
@@ -3165,7 +3452,8 @@
 "D": "2,000,000"},
 "answer": "A",
 "details": "Must be >2,000,000, so first digit = 2. Then smallest arrangement: 2,013,579.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is 100 times larger than 45,678?",
@@ -3176,7 +3464,8 @@
 "D": "456,780,000"},
 "answer": "A",
 "details": "45,678 × 100 = 4,567,800.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 7,654,321 to the nearest 100,000.",
@@ -3187,7 +3476,8 @@
 "D": "7,660,000"},
 "answer": "B",
 "details": "Hundred-thousands digit = 6; ten-thousands = 5 → round up to 7,700,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is -15 + 8 − (−4)?",
@@ -3198,7 +3488,8 @@
 "D": "−7"},
 "answer": "A",
 "details": "-15 + 8 = -7; -7 − (−4) = -7 + 4 = -3.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which is the correct word form for 10,000,001?",
@@ -3209,7 +3500,8 @@
 "D": "Ten thousand and one"},
 "answer": "A",
 "details": "10,000,000 + 1 → 'Ten million and one'.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the difference between the largest and smallest 7-digit numbers?",
@@ -3220,7 +3512,8 @@
 "D": "9,999,999"},
 "answer": "A",
 "details": "Largest = 9,999,999; smallest = 1,000,000; difference = 8,999,999.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A number has 6 in the hundred-millions place, 3 in the millions place, and 0 elsewhere. What is it?",
@@ -3231,7 +3524,8 @@
 "D": "600,300,000"},
 "answer": "A",
 "details": "Hundred-millions = 600,000,000; millions = 3,000,000 → total = 603,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 5,500,000 to the nearest million.",
@@ -3242,7 +3536,8 @@
 "D": "5,600,000"},
 "answer": "B",
 "details": "Midpoint: round up → 6,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is 700,000 less than 9,020,500?",
@@ -3253,7 +3548,8 @@
 "D": "8,320,000"},
 "answer": "A",
 "details": "9,020,500 − 700,000 = 8,320,500.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the place value of 4 in 407,812,300?",
@@ -3264,7 +3560,8 @@
 "D": "400,000,000"},
 "answer": "D",
 "details": "4 is in the hundred-millions place → 400,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "The temperature at midnight was -2°C. It rose by 9°C by 8 a.m. What was the temperature at 8 a.m.?",
@@ -3275,7 +3572,8 @@
 "D": "-7°C"},
 "answer": "A",
 "details": "-2 + 9 = 7°C.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is represented by: (8 × 10⁶) + (5 × 10⁴) + (2 × 10¹) + (9 × 10⁰)?",
@@ -3286,7 +3584,8 @@
 "D": "8,005,029"},
 "answer": "A",
 "details": "8,000,000 + 50,000 + 20 + 9 = 8,050,029.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 1,999,995 to the nearest 10.",
@@ -3297,7 +3596,8 @@
 "D": "1,990,000"},
 "answer": "B",
 "details": "Units digit = 5 → round up. 1,999,995 + 5 = 2,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which is greater: 3.7 million or 3,699,999?",
@@ -3308,7 +3608,8 @@
 "D": "Cannot compare"},
 "answer": "A",
 "details": "3.7 million = 3,700,000 > 3,699,999.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A hiker climbs from -50 m (below sea level) to +1,200 m. What is the total climb?",
@@ -3319,7 +3620,8 @@
 "D": "50 m"},
 "answer": "C",
 "details": "1,200 − (−50) = 1,200 + 50 = 1,250 m.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the digit in the ten-millions place in 67,890,123?",
@@ -3330,7 +3632,8 @@
 "D": "9"},
 "answer": "A",
 "details": "67,890,123: ten-millions = 6, millions = 7.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number rounds to 8,500,000 to the nearest 100,000?",
@@ -3341,7 +3644,8 @@
 "D": "8,549,999"},
 "answer": "D",
 "details": "Range: 8,450,000 to 8,549,999 rounds to 8,500,000. D is within range.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is 10,000,000 − 1?",
@@ -3352,7 +3656,8 @@
 "D": "99,999,999"},
 "answer": "B",
 "details": "10,000,000 − 1 = 9,999,999.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which shows 5,060,040 in expanded notation?",
@@ -3363,7 +3668,8 @@
 "D": "5 × 100,000 + 6 × 10,000 + 4 × 10"},
 "answer": "A",
 "details": "5,000,000 + 60,000 + 40 = 5 × 10⁶ + 6 × 10⁴ + 4 × 10¹.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is -12 − (−5) + 9?",
@@ -3374,7 +3680,8 @@
 "D": "-26"},
 "answer": "A",
 "details": "-12 − (−5) = -7; -7 + 9 = 2.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is 3 million more than 4,789,000?",
@@ -3385,7 +3692,8 @@
 "D": "1,789,000"},
 "answer": "A",
 "details": "4,789,000 + 3,000,000 = 7,789,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 4,287,651 to the nearest 1,000.",
@@ -3396,7 +3704,8 @@
 "D": "4,287,700"},
 "answer": "B",
 "details": "Hundreds digit = 6 ≥ 5 → round up: 4,287,651 → 4,288,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the largest number you can make with digits 9, 0, 8, 1, 3, 2, 5 (each once) under 5,000,000?",
@@ -3407,7 +3716,8 @@
 "D": "5,000,000"},
 "answer": "B",
 "details": "The question explicitly states to use the digits 9, 0, 8, 1, 3, 2, 5 (each once). The digit 4 is not included in this list. Option C, 4,985,210, contains the digit 4, and therefore cannot be formed using only the specified digits. The largest number that can be made with the given digits and is under 5,000,000 would start with 3 (the largest available digit less than 5), followed by the remaining digits in descending order: 3,985,210 (Option B).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which is equal to 10⁷?",
@@ -3418,7 +3728,8 @@
 "D": "1,000,000,000"},
 "answer": "B",
 "details": "10⁷ = 10 × 10 × 10 × 10 × 10 × 10 × 10 = 10,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "The balance changes from -£18 to -£7. How much was paid?",
@@ -3429,7 +3740,8 @@
 "D": "£18"},
 "answer": "A",
 "details": "Paid = reduction in debt = (-7) − (−18) = 11 → £11 paid.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is 6,000,000 + 0 + 40,000 + 0 + 900 + 0 + 5?",
@@ -3440,7 +3752,8 @@
 "D": "6,049,005"},
 "answer": "A",
 "details": "6,000,000 + 40,000 + 900 + 5 = 6,040,905.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 9,500,001 to the nearest million.",
@@ -3451,7 +3764,8 @@
 "D": "9,600,000"},
 "answer": "B",
 "details": "Hundred-thousands = 5 → round up → 10,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is 50,000 less than 1,234,567?",
@@ -3462,7 +3776,8 @@
 "D": "1,229,567"},
 "answer": "A",
 "details": "1,234,567 − 50,000 = 1,184,567.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the value of 2 in 205,418,600?",
@@ -3473,7 +3788,8 @@
 "D": "200,000,000"},
 "answer": "D",
 "details": "2 is in the hundred-millions place → 200,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "The morning temperature is -11°C. It rises 15°C by afternoon. What is the afternoon temperature?",
@@ -3484,7 +3800,8 @@
 "D": "-4°C"},
 "answer": "A",
 "details": "-11 + 15 = 4°C.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which inequality is true?",
@@ -3495,7 +3812,8 @@
 "D": "10,000,000 < 9,999,999"},
 "answer": "A",
 "details": "6 million = 6,000,000, so 5,999,999 < 6,000,000 → true.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is 100 × 87,654?",
@@ -3506,7 +3824,8 @@
 "D": "87,654,000"},
 "answer": "A",
 "details": "87,654 × 100 = move decimal two places right = 8,765,400.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 3,141,592 to the nearest 100,000.",
@@ -3517,7 +3836,8 @@
 "D": "3,000,000"},
 "answer": "A",
 "details": "Hundred-thousands = 1; ten-thousands = 4 < 5 → round down → 3,100,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number lies exactly halfway between 2,000,000 and 3,000,000?",
@@ -3528,7 +3848,8 @@
 "D": "2,600,000"},
 "answer": "A",
 "details": "(2,000,000 + 3,000,000)/2 = 2,500,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A submarine dives from -80 m to -230 m. How far did it descend?",
@@ -3539,7 +3860,8 @@
 "D": "80 m"},
 "answer": "A",
 "details": "Descent = |-230 − (−80)| = |−150| = 150 m.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the digit in the hundred-thousands place in 4,307,812?",
@@ -3550,7 +3872,8 @@
 "D": "8"},
 "answer": "A",
 "details": "4 (millions), 3 (hundred-thousands), 0 (ten-thousands), etc.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is 1,000 times smaller than 9,000,000?",
@@ -3561,7 +3884,8 @@
 "D": "9,000"},
 "answer": "D",
 "details": "9,000,000 ÷ 1,000 = 9,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 8,765,432 to the nearest 10.",
@@ -3572,7 +3896,8 @@
 "D": "8,770,000"},
 "answer": "A",
 "details": "Units digit = 2 < 5 → round down → 8,765,430.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is -9 − 4 + (−2)?",
@@ -3583,7 +3908,8 @@
 "D": "−5"},
 "answer": "A",
 "details": "-9 − 4 = -13; -13 + (−2) = -15.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which is the correct numeral for 'Twelve million, three hundred thousand and forty-five'?",
@@ -3594,7 +3920,8 @@
 "D": "1,230,045"},
 "answer": "A",
 "details": "12,000,000 + 300,000 + 45 = 12,300,045.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the difference between 10,000,000 and 1,234,567?",
@@ -3605,7 +3932,8 @@
 "D": "11,234,567"},
 "answer": "A",
 "details": "10,000,000 − 1,234,567 = 8,765,433.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number has 7 in the ten-millions place?",
@@ -3616,7 +3944,8 @@
 "D": "789,012"},
 "answer": "B",
 "details": "78,901,234: ten-millions = 7.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 6,666,666 to the nearest 100,000.",
@@ -3627,7 +3956,8 @@
 "D": "6,670,000"},
 "answer": "B",
 "details": "Hundred-thousands = 6; ten-thousands = 6 ≥ 5 → round up to 6,700,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A company had a loss of £250,000 in January and a profit of £320,000 in February. What was the net gain/loss?",
@@ -3638,7 +3968,8 @@
 "D": "£320,000 profit"},
 "answer": "B",
 "details": "-250,000 + 320,000 = +70,000 → £70,000 profit.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is (9 × 10⁶) + (0 × 10⁵) + (8 × 10⁴) + (0 × 10³) + (6 × 10²) + (0 × 10¹) + (1 × 10⁰)?",
@@ -3649,7 +3980,8 @@
 "D": "9,800,601"},
 "answer": "A",
 "details": "9,000,000 + 80,000 + 600 + 1 = 9,080,601.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 1,000,005 to the nearest 1,000.",
@@ -3660,7 +3992,8 @@
 "D": "2,000,000"},
 "answer": "A",
 "details": "Hundreds digit = 0; tens = 0; units = 5 → but hundreds digit determines rounding to 1,000. Since 005 < 500, round down → 1,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which is smaller: -100 or -99?",
@@ -3671,7 +4004,8 @@
 "D": "Cannot tell"},
 "answer": "A",
 "details": "-100 is further left on number line → smaller.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A city’s population increased from 4,567,890 to 4,700,000. By how much did it increase?",
@@ -3682,7 +4016,8 @@
 "D": "141,110"},
 "answer": "A",
 "details": "4,700,000 − 4,567,890 = 132,110.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the place value of 5 in 502,134,678?",
@@ -3693,7 +4028,8 @@
 "D": "500,000,000"},
 "answer": "D",
 "details": "5 is in the hundred-millions place → 500,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is 100,000 more than 9,876,543?",
@@ -3704,7 +4040,8 @@
 "D": "9,886,543"},
 "answer": "B",
 "details": "9,876,543 + 100,000 = 9,976,543.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 2,999,999 to the nearest 100.",
@@ -3715,7 +4052,8 @@
 "D": "2,999,000"},
 "answer": "B",
 "details": "Tens digit = 9, units = 9 → round up → 2,999,999 + 1 = 3,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is 10⁸ − 10⁶?",
@@ -3726,7 +4064,8 @@
 "D": "9,000,000"},
 "answer": "B",
 "details": "100,000,000 − 1,000,000 = 99,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "The temperature fell from 5°C to -12°C. What was the total change?",
@@ -3737,7 +4076,8 @@
 "D": "5°C"},
 "answer": "C",
 "details": "5 to 0 = 5°; 0 to -12 = 12°; total fall = 17°C.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is written as 'Fifty million, six hundred and two'?",
@@ -3748,7 +4088,8 @@
 "D": "50,006,002"},
 "answer": "A",
 "details": "50,000,000 + 600 + 2 = 50,000,602.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the smallest 8-digit number?",
@@ -3759,7 +4100,8 @@
 "D": "100,000,000"},
 "answer": "B",
 "details": "8-digit numbers start at 10,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A bank account changes from £45 to -£30. How much was withdrawn?",
@@ -3770,7 +4112,8 @@
 "D": "£75"},
 "answer": "D",
 "details": "Withdrawn = 45 − (−30) = 75 → £75.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is 1,000 times larger than 7,890?",
@@ -3781,7 +4124,8 @@
 "D": "78,900"},
 "answer": "A",
 "details": "7,890 × 1,000 = 7,890,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 7,000,499 to the nearest 1,000.",
@@ -3792,7 +4136,8 @@
 "D": "7,000,400"},
 "answer": "A",
 "details": "Hundreds digit = 4 < 5 → round down → 7,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the value of the 3 in 132,456,789?",
@@ -3803,7 +4148,8 @@
 "D": "300,000,000"},
 "answer": "C",
 "details": "1 (hundred-millions), 3 (ten-millions) → 30,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is closest to 5,000,000?",
@@ -3814,7 +4160,8 @@
 "D": "5,002,000"},
 "answer": "A",
 "details": "Differences: A: 500; B: 1,200; C: 1,100; D: 2,000 → A is closest.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is -20 + 35 − (−10)?",
@@ -3825,7 +4172,8 @@
 "D": "45"},
 "answer": "B",
 "details": "-20 + 35 = 15; 15 − (−10) = 15 + 10 = 25.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A mountain is 3,250 m above sea level. A trench is 280 m below. What is the total vertical distance?",
@@ -3836,7 +4184,8 @@
 "D": "280 m"},
 "answer": "C",
 "details": "3,250 − (−280) = 3,530 m.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is 2.5 million in figures?",
@@ -3847,7 +4196,8 @@
 "D": "2,050,000"},
 "answer": "B",
 "details": "2.5 million = 2,500,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 9,123,456 to the nearest 10,000.",
@@ -3858,7 +4208,8 @@
 "D": "9,100,000"},
 "answer": "A",
 "details": "Thousands digit = 3 < 5 → round down → 9,120,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the difference between -10 and -3?",
@@ -3869,7 +4220,8 @@
 "D": "-13"},
 "answer": "A",
 "details": "|−3 − (−10)| = |7| = 7.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number has 4 in the millions place and 4 in the tens place?",
@@ -3880,7 +4232,8 @@
 "D": "40,000,040"},
 "answer": "A",
 "details": "4,000,040: millions = 4; tens = 4.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is 100 × 100 × 100?",
@@ -3891,7 +4244,8 @@
 "D": "1,000,000"},
 "answer": "D",
 "details": "100³ = 1,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Round 4,999,999 to the nearest 100,000.",
@@ -3902,7 +4256,8 @@
 "D": "5,100,000"},
 "answer": "B",
 "details": "Hundred-thousands = 9; ten-thousands = 9 → round up → 5,000,000.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which number is ten times smaller than 80,000,000?",

@@ -8,7 +8,8 @@
 "D": "(7, 0)"},
 "answer": "A",
 "details": "Coordinates are written as (x, y), where x is how far right, and y is how far up. 3 right → x=3, 4 up → y=4. So (3, 4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point has coordinates (5, 2). How many units is it to the right of the origin?",
@@ -19,7 +20,8 @@
 "D": "7"},
 "answer": "C",
 "details": "The first number in (x, y) is the x-coordinate, which tells how far right. So 5 units right.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point has coordinates (1, 6). How many units is it above the origin?",
@@ -30,7 +32,8 @@
 "D": "7"},
 "answer": "C",
 "details": "The second number in (x, y) is the y-coordinate, which tells how far up. So 6 units up.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is at (4, 1)?",
@@ -41,7 +44,8 @@
 "D": "0 units right, 5 units up"},
 "answer": "A",
 "details": "(x, y) = (4, 1) means x=4 (4 right), y=1 (1 up).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of the origin?",
@@ -52,7 +56,8 @@
 "D": "(1, 0)"},
 "answer": "A",
 "details": "The origin is where the x-axis and y-axis cross — 0 units right and 0 units up: (0, 0).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point moves 3 units right from (2, 5). What are its new coordinates?",
@@ -63,7 +68,8 @@
 "D": "(-1, 5)"},
 "answer": "B",
 "details": "Moving right increases the x-coordinate. 2 + 3 = 5. y stays 5. New point: (5, 5).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point moves 2 units up from (4, 3). What are its new coordinates?",
@@ -74,7 +80,8 @@
 "D": "(2, 3)"},
 "answer": "A",
 "details": "Moving up increases the y-coordinate. 3 + 2 = 5. x stays 4. New point: (4, 5).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point moves 1 unit left from (5, 4). What are its new coordinates?",
@@ -85,7 +92,8 @@
 "D": "(5, 5)"},
 "answer": "B",
 "details": "Moving left decreases the x-coordinate. 5 − 1 = 4. y stays 4. New point: (4, 4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point moves 3 units down from (6, 7). What are its new coordinates?",
@@ -96,7 +104,8 @@
 "D": "(3, 7)"},
 "answer": "C",
 "details": "Moving down decreases the y-coordinate. 7 − 3 = 4. x stays 6. New point: (6, 4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which coordinates describe a point 0 units right and 5 units up?",
@@ -107,7 +116,8 @@
 "D": "(1, 5)"},
 "answer": "B",
 "details": "x = 0 (no right), y = 5 (5 up) → (0, 5).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If you start at (3, 2) and move 4 units right, where do you end up?",
@@ -118,7 +128,8 @@
 "D": "(-1, 2)"},
 "answer": "B",
 "details": "Right → x increases: 3 + 4 = 7. y unchanged: 2. So (7, 2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If you start at (1, 5) and move 3 units down, where do you end up?",
@@ -129,7 +140,8 @@
 "D": "(-2, 5)"},
 "answer": "A",
 "details": "Down → y decreases: 5 − 3 = 2. x unchanged: 1. So (1, 2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is closest to the origin?",
@@ -140,7 +152,8 @@
 "D": "(0, 4)"},
 "answer": "B",
 "details": "(1,1) is only 1 right and 1 up — closer than (3,0), (0,4), or (5,5).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A square has vertices at (1,1), (1,3), (3,3), and (3,1). What is the length of one side?",
@@ -151,7 +164,8 @@
 "D": "4 units"},
 "answer": "B",
 "details": "From (1,1) to (1,3): same x, y changes by 2 → vertical side = 2 units. Similarly, (1,1) to (3,1): x changes by 2 → horizontal side = 2 units.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has corners at (2,1), (2,4), (5,4), and (5,1). How long is the bottom side?",
@@ -162,7 +176,8 @@
 "D": "5 units"},
 "answer": "B",
 "details": "Bottom side from (2,1) to (5,1): same y, x from 2 to 5 → 5 − 2 = 3 units.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of the point that is 7 units right and 0 units up?",
@@ -173,7 +188,8 @@
 "D": "(1, 7)"},
 "answer": "B",
 "details": "x = 7 (7 right), y = 0 (on x-axis) → (7, 0).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (1,1), (4,1), and (1,5). What type of triangle is it?",
@@ -184,7 +200,8 @@
 "D": "Right-angled"},
 "answer": "D",
 "details": "From (1,1) to (4,1) is horizontal. From (1,1) to (1,5) is vertical. So they meet at 90° — right-angled at (1,1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which movement takes you from (2, 2) to (2, 5)?",
@@ -195,7 +212,8 @@
 "D": "3 units down"},
 "answer": "C",
 "details": "x stays 2, y increases from 2 to 5 → up by 3 units.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which movement takes you from (6, 4) to (3, 4)?",
@@ -206,7 +224,8 @@
 "D": "3 units down"},
 "answer": "B",
 "details": "y stays 4, x decreases from 6 to 3 → left by 3 units.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point is at (0, 3). Which axis is it on?",
@@ -217,7 +236,8 @@
 "D": "Neither axis"},
 "answer": "B",
 "details": "x = 0, y = 3 → on the y-axis (vertical axis).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point is at (5, 0). Which axis is it on?",
@@ -228,7 +248,8 @@
 "D": "Neither axis"},
 "answer": "A",
 "details": "x = 5, y = 0 → on the x-axis (horizontal axis).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of the point halfway between (0,0) and (4,0)?",
@@ -239,7 +260,8 @@
 "D": "(2, 2)"},
 "answer": "B",
 "details": "Along x-axis from 0 to 4, halfway is 2. y remains 0. So (2, 0).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of the point halfway between (0,0) and (0,6)?",
@@ -250,7 +272,8 @@
 "D": "(6, 0)"},
 "answer": "A",
 "details": "Along y-axis from 0 to 6, halfway is 3. x remains 0. So (0, 3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A shape has points at (1,2), (1,4), (3,4), and (3,2). What shape is it?",
@@ -261,7 +284,8 @@
 "D": "Pentagon"},
 "answer": "B",
 "details": "Width = 3−1 = 2, height = 4−2 = 2. All sides 2, right angles → square.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is NOT in the first quadrant?",
@@ -272,7 +296,8 @@
 "D": "(-1, 2)"},
 "answer": "D",
 "details": "First quadrant: x ≥ 0, y ≥ 0. (-1, 2) has x = -1 (left of y-axis) → not in first quadrant.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point starts at (3, 5). It moves 2 units left and 1 unit up. Where is it now?",
@@ -283,7 +308,8 @@
 "D": "(5, 4)"},
 "answer": "A",
 "details": "Left: 3 − 2 = 1. Up: 5 + 1 = 6. So (1, 6).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point starts at (4, 6). It moves 3 units down and 2 units right. Where is it now?",
@@ -294,7 +320,8 @@
 "D": "(6, 9)"},
 "answer": "B",
 "details": "Right: 4 + 2 = 6. Down: 6 − 3 = 3. So (6, 3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which coordinates are written correctly?",
@@ -305,7 +332,8 @@
 "D": "[3, 4]"},
 "answer": "C",
 "details": "Coordinates are written with parentheses and a comma: (x, y). So (3, 4) is correct.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A square has vertices at (2,2), (2,5), (5,5), and one missing point. What are the coordinates of the missing point?",
@@ -316,7 +344,8 @@
 "D": "(5, 3)"},
 "answer": "A",
 "details": "The missing corner must match x=5 (from (5,5)) and y=2 (from (2,2)) → (5, 2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (1,1), (1,4), (6,4), and one missing point. What are the coordinates of the missing point?",
@@ -327,7 +356,8 @@
 "D": "(4, 6)"},
 "answer": "A",
 "details": "Opposite corner to (1,4) is (6,1): same x as (6,4), same y as (1,1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is 4 units to the right of (1, 3)?",
@@ -338,7 +368,8 @@
 "D": "(-3, 3)"},
 "answer": "B",
 "details": "Right → x increases: 1 + 4 = 5. y unchanged: 3. So (5, 3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is 2 units below (5, 6)?",
@@ -349,7 +380,8 @@
 "D": "(7, 6)"},
 "answer": "A",
 "details": "Down → y decreases: 6 − 2 = 4. x unchanged: 5. So (5, 4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the x-coordinate of (7, 9)?",
@@ -360,7 +392,8 @@
 "D": "2"},
 "answer": "A",
 "details": "In (x, y), the first number is x. So x = 7.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the y-coordinate of (8, 2)?",
@@ -371,7 +404,8 @@
 "D": "6"},
 "answer": "B",
 "details": "In (x, y), the second number is y. So y = 2.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A triangle has points at (0,0), (3,0), and (0,4). Which point is the right angle?",
@@ -382,7 +416,8 @@
 "D": "None — it’s not right-angled"},
 "answer": "A",
 "details": "From (0,0) to (3,0) is along x-axis. From (0,0) to (0,4) is along y-axis. They meet at 90° at (0,0).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If you move from (2, 3) to (5, 3), how many units did you move?",
@@ -393,7 +428,8 @@
 "D": "8 units"},
 "answer": "B",
 "details": "x changed from 2 to 5: 5 − 2 = 3 units right. y unchanged.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If you move from (4, 7) to (4, 2), how many units did you move?",
@@ -404,7 +440,8 @@
 "D": "7 units"},
 "answer": "C",
 "details": "y changed from 7 to 2: 7 − 2 = 5 units down.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is at the same height as (3, 5)?",
@@ -415,7 +452,8 @@
 "D": "(5, 1)"},
 "answer": "B",
 "details": "Same height → same y-coordinate. (6, 5) has y=5, like (3,5).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is in the same column as (4, 1)?",
@@ -426,7 +464,8 @@
 "D": "(1, 1)"},
 "answer": "B",
 "details": "Same column → same x-coordinate. (4, 6) has x=4, like (4,1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A shape has vertices at (2,3), (4,3), (4,5), and (2,5). What is its perimeter?",
@@ -437,7 +476,8 @@
 "D": "10 units"},
 "answer": "C",
 "details": "Width = 4−2=2, height=5−3=2. Perimeter = 2×(2+2)=8 units.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has width 3 units and height 2 units. One corner is at (1,1). Which could be the opposite corner?",
@@ -448,7 +488,8 @@
 "D": "(1, 3)"},
 "answer": "B",
 "details": "From (1,1), add width 3 → x=4, add height 2 → y=3. So (4,3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is farthest right?",
@@ -459,7 +500,8 @@
 "D": "(5, 0)"},
 "answer": "D",
 "details": "Largest x-coordinate: 5 (in (5,0)).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is highest up?",
@@ -470,7 +512,8 @@
 "D": "(5, 0)"},
 "answer": "C",
 "details": "Largest y-coordinate: 6 (in (3,6)).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point moves from (0,0) to (3,4). How many units right and up did it move?",
@@ -481,7 +524,8 @@
 "D": "7 up"},
 "answer": "A",
 "details": "x: 0→3 = 3 right. y: 0→4 = 4 up.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point moves from (5,2) to (1,2). How many units did it move?",
@@ -492,7 +536,8 @@
 "D": "5 units"},
 "answer": "C",
 "details": "x: 5→1 = 4 units left. y unchanged.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point moves from (3,6) to (3,1). How many units did it move?",
@@ -503,7 +548,8 @@
 "D": "6 units"},
 "answer": "C",
 "details": "y: 6→1 = 5 units down.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates two units to the left of (5, 3)?",
@@ -514,7 +560,8 @@
 "D": "(5, 5)"},
 "answer": "A",
 "details": "Left → x decreases: 5 − 2 = 3. y unchanged: 3. So (3, 3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates one unit down from (4, 5)?",
@@ -525,7 +572,8 @@
 "D": "(4, 6)"},
 "answer": "C",
 "details": "Down → y decreases: 5 − 1 = 4. x unchanged: 4. So (4, 4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A square has side 2 units. One corner is at (1,1). Which could be the next corner going right?",
@@ -536,7 +584,8 @@
 "D": "(1, 2)"},
 "answer": "B",
 "details": "Going right from (1,1) by 2 units: x = 1 + 2 = 3, y = 1 → (3,1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A shape has points at (0,0), (2,0), (2,2), and (0,2). What is its area?",
@@ -547,7 +596,8 @@
 "D": "8 square units"},
 "answer": "B",
 "details": "It’s a square with side 2. Area = 2 × 2 = 4 square units.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has corners at (1,2), (1,5), (4,5), and (4,2). What is its area?",
@@ -558,7 +608,8 @@
 "D": "12 square units"},
 "answer": "C",
 "details": "Width = 4−1=3, height=5−2=3. Area = 3 × 3 = 9 square units (it’s a square).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which movement is described by ‘4 units left and 2 units up’ from (6, 1)?",
@@ -569,7 +620,8 @@
 "D": "(10, -1)"},
 "answer": "A",
 "details": "Left: 6 − 4 = 2. Up: 1 + 2 = 3. So (2, 3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which movement is described by ‘3 units right and 5 units down’ from (2, 8)?",
@@ -580,7 +632,8 @@
 "D": "(-1, 13)"},
 "answer": "A",
 "details": "Right: 2 + 3 = 5. Down: 8 − 5 = 3. So (5, 3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (1,1), (4,1), and (2,3). What is the length of the base?",
@@ -591,7 +644,8 @@
 "D": "5 units"},
 "answer": "B",
 "details": "Base from (1,1) to (4,1): same y, x from 1 to 4 → 3 units.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point is at (3, 4). Which point is 2 units away to the right?",
@@ -602,7 +656,8 @@
 "D": "(3, 2)"},
 "answer": "B",
 "details": "Right → x increases by 2: 3 + 2 = 5. y unchanged: 4. So (5, 4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point is at (5, 5). Which point is 3 units down?",
@@ -613,7 +668,8 @@
 "D": "(2, 5)"},
 "answer": "C",
 "details": "Down → y decreases: 5 − 3 = 2. x unchanged: 5. So (5, 2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point lies on the line x = 3?",
@@ -624,7 +680,8 @@
 "D": "(0, 3)"},
 "answer": "B",
 "details": "x = 3 means the x-coordinate is 3. Only (3, 5) has x=3.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point lies on the line y = 4?",
@@ -635,7 +692,8 @@
 "D": "(5, 1)"},
 "answer": "C",
 "details": "y = 4 means the y-coordinate is 4. Only (1, 4) has y=4.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A shape has points at (2,1), (5,1), (5,3), and (2,3). Which side is vertical?",
@@ -646,7 +704,8 @@
 "D": "From (2,3) to (2,1)"},
 "answer": "B",
 "details": "Vertical sides have same x-coordinate. (5,1) to (5,3): x=5 both → vertical.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A shape has points at (1,2), (4,2), (4,5), and (1,5). Which side is horizontal?",
@@ -657,7 +716,8 @@
 "D": "From (1,5) to (1,2)"},
 "answer": "A",
 "details": "Horizontal sides have same y-coordinate. (1,2) to (4,2): y=2 both → horizontal.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the missing coordinate in (4, __) if the point is 4 units up from (4, 0)?",
@@ -668,7 +728,8 @@
 "D": "8"},
 "answer": "C",
 "details": "From (4,0) up 4 units: y = 0 + 4 = 4. So (4, 4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the missing coordinate in (__, 3) if the point is 5 units right from (0, 3)?",
@@ -679,7 +740,8 @@
 "D": "8"},
 "answer": "C",
 "details": "From (0,3) right 5 units: x = 0 + 5 = 5. So (5, 3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A path goes from (1,1) → (1,4) → (3,4). How many units long is the path?",
@@ -690,7 +752,8 @@
 "D": "7 units"},
 "answer": "B",
 "details": "First leg: (1,1) to (1,4) = 3 units up. Second leg: (1,4) to (3,4) = 2 units right. Total = 3 + 2 = 5 units.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A path goes from (2,2) → (5,2) → (5,5) → (2,5). What shape does it make?",
@@ -701,7 +764,8 @@
 "D": "Pentagon"},
 "answer": "B",
 "details": "All sides 3 units, right angles → square.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is 1 unit right and 1 unit up from (0,0)?",
@@ -712,7 +776,8 @@
 "D": "(2, 2)"},
 "answer": "C",
 "details": "Right: x=1. Up: y=1. So (1,1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is 2 units right and 3 units up from (1,1)?",
@@ -723,7 +788,8 @@
 "D": "(4, 3)"},
 "answer": "C",
 "details": "x: 1 + 2 = 3. y: 1 + 3 = 4. So (3, 4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A square has vertices at (0,0), (0,2), (2,2), and (2,0). What is the coordinate of the top-right corner?",
@@ -734,7 +800,8 @@
 "D": "(2, 2)"},
 "answer": "D",
 "details": "Top-right: largest x and largest y → (2, 2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (1,1), (1,3), (4,3), and (4,1). What is the coordinate of the bottom-left corner?",
@@ -745,7 +812,8 @@
 "D": "(4, 3)"},
 "answer": "A",
 "details": "Bottom-left: smallest x and smallest y → (1, 1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If (x, y) = (6, 2), what is x + y?",
@@ -756,7 +824,8 @@
 "D": "12"},
 "answer": "C",
 "details": "x = 6, y = 2. 6 + 2 = 8.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If (x, y) = (3, 7), what is y − x?",
@@ -767,7 +836,8 @@
 "D": "21"},
 "answer": "A",
 "details": "y = 7, x = 3. 7 − 3 = 4.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point moves from (3, 2) to (7, 5). How many units right and up?",
@@ -778,7 +848,8 @@
 "D": "2 right, 5 up"},
 "answer": "B",
 "details": "x: 3→7 = 4 right. y: 2→5 = 3 up.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point moves from (5, 6) to (2, 3). How many units left and down?",
@@ -789,7 +860,8 @@
 "D": "2 left, 2 down"},
 "answer": "C",
 "details": "x: 5→2 = 3 left. y: 6→3 = 3 down.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which shape has vertices at (1,1), (3,1), and (2,3)?",
@@ -800,7 +872,8 @@
 "D": "Pentagon"},
 "answer": "C",
 "details": "Three points → triangle.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which shape has vertices at (0,0), (2,0), (2,1), (1,2), and (0,1)?",
@@ -811,7 +884,8 @@
 "D": "Hexagon"},
 "answer": "C",
 "details": "Five points → pentagon.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point is at (4, 5). To get to (4, 5), you move 4 right and 5 up from where?",
@@ -822,7 +896,8 @@
 "D": "(8, 10)"},
 "answer": "A",
 "details": "Start at (0,0). 4 right → x=4. 5 up → y=5. So (4,5).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "To get to (6, 3), you move 2 right and 1 up from which point?",
@@ -833,7 +908,8 @@
 "D": "(4, 4)"},
 "answer": "A",
 "details": "Reverse: left 2, down 1. 6−2=4, 3−1=2. So (4,2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A shape has points at (1,1), (1,4), (3,4), and (3,1). Which point is the top-left?",
@@ -844,7 +920,8 @@
 "D": "(3, 4)"},
 "answer": "B",
 "details": "Top-left: smallest x, largest y → x=1, y=4 → (1,4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A shape has points at (2,2), (5,2), (5,4), and (2,4). Which point is the bottom-right?",
@@ -855,7 +932,8 @@
 "D": "(2, 4)"},
 "answer": "B",
 "details": "Bottom-right: largest x, smallest y → x=5, y=2 → (5,2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the coordinate of the point directly above (3, 2) at the same x?",
@@ -866,7 +944,8 @@
 "D": "(3, 1)"},
 "answer": "C",
 "details": "Same x=3, higher y → y > 2. (3,3) is 1 unit above.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What is the coordinate of the point directly to the right of (2, 5) at the same y?",
@@ -877,7 +956,8 @@
 "D": "(3, 5)"},
 "answer": "D",
 "details": "Same y=5, larger x → x > 2. (3,5) is 1 unit right.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has width 4 and height 3. Bottom-left corner at (1,1). What are the other three corners?",
@@ -888,7 +968,8 @@
 "D": "(4,1), (4,4), (1,4)"},
 "answer": "C",
 "details": "Bottom-left (1,1). Bottom-right: x=1+4=5, y=1 → (5,1). Top-right: (5,1+3)=(5,4). Top-left: (1,4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A square has side 3. Bottom-left at (2,2). What is the top-right corner?",
@@ -899,7 +980,8 @@
 "D": "(2, 2)"},
 "answer": "C",
 "details": "x = 2 + 3 = 5. y = 2 + 3 = 5. So (5,5).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is closest to (3,3)?",
@@ -910,7 +992,8 @@
 "D": "(3, 6)"},
 "answer": "B",
 "details": "(2,3) is only 1 unit left — closest. Others are farther.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is farthest from (0,0)?",
@@ -921,7 +1004,8 @@
 "D": "(2, 2)"},
 "answer": "B",
 "details": "(4,3) has x+y=7.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point moves 0 units right and 4 units up from (3, 1). Where is it?",
@@ -932,7 +1016,8 @@
 "D": "(0, 4)"},
 "answer": "B",
 "details": "0 right → x=3. 4 up → y=1+4=5. So (3,5).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point moves 5 units right and 0 units up from (0, 2). Where is it?",
@@ -943,7 +1028,8 @@
 "D": "(2, 5)"},
 "answer": "C",
 "details": "5 right → x=5. 0 up → y=2. So (5,2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which translation takes (2, 3) to (5, 1)?",
@@ -954,7 +1040,8 @@
 "D": "3 left, 2 down"},
 "answer": "B",
 "details": "x: 2→5 = 3 right. y: 3→1 = 2 down.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which translation takes (4, 5) to (1, 7)?",
@@ -965,7 +1052,8 @@
 "D": "3 right, 2 up"},
 "answer": "A",
 "details": "x: 4→1 = 3 left. y: 5→7 = 2 up.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A shape has vertices at (1,3), (3,3), (3,5), and (1,5). What is its height?",
@@ -976,7 +1064,8 @@
 "D": "4 units"},
 "answer": "B",
 "details": "y from 3 to 5 → 5 − 3 = 2 units high.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A shape has vertices at (2,1), (5,1), (5,4), and (2,4). What is its width?",
@@ -987,7 +1076,8 @@
 "D": "5 units"},
 "answer": "B",
 "details": "x from 2 to 5 → 5 − 2 = 3 units wide.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "What are the coordinates of the centre of a square with corners at (1,1), (1,3), (3,3), and (3,1)?",
@@ -998,7 +1088,8 @@
 "D": "(1, 3)"},
 "answer": "B",
 "details": "Centre: average of x-coordinates: (1+3)/2=2. Average of y: (1+3)/2=2. So (2,2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point is midway between (0,2) and (4,2). What are its coordinates?",
@@ -1009,7 +1100,8 @@
 "D": "(2, 0)"},
 "answer": "B",
 "details": "Same y=2. x halfway between 0 and 4 is 2. So (2,2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point is midway between (1,1) and (1,5). What are its coordinates?",
@@ -1020,7 +1112,8 @@
 "D": "(3, 1)"},
 "answer": "B",
 "details": "Same x=1. y halfway between 1 and 5 is 3. So (1,3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point completes a square with (0,0), (0,2), and (2,0)?",
@@ -1031,7 +1124,8 @@
 "D": "(1, 1)"},
 "answer": "A",
 "details": "Need x=2 (from (2,0)) and y=2 (from (0,2)) → (2,2).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point completes a rectangle with (1,1), (1,4), and (5,1)?",
@@ -1042,7 +1136,8 @@
 "D": "(4, 5)"},
 "answer": "A",
 "details": "Opposite corner: x=5 (from (5,1)), y=4 (from (1,4)) → (5,4).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A triangle has base from (2,3) to (6,3). The third point is (4,5). What is the height?",
@@ -1053,7 +1148,8 @@
 "D": "4 units"},
 "answer": "B",
 "details": "Base at y=3. Top at y=5. Height = 5 − 3 = 2 units.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A square has side 1 unit. One corner at (3,4). Which could be an adjacent corner?",
@@ -1064,7 +1160,8 @@
 "D": "(5, 4)"},
 "answer": "A",
 "details": "Adjacent corner: 1 unit up, down, left, or right. (3,5) is 1 up — valid.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point moves from (1,2) to (4,6). How many units right and up?",
@@ -1075,7 +1172,8 @@
 "D": "2 right, 3 up"},
 "answer": "A",
 "details": "x: 1→4 = 3 right. y: 2→6 = 4 up.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which movement is the same as ‘2 right and 3 up’?",
@@ -1086,7 +1184,8 @@
 "D": "5 up"},
 "answer": "A",
 "details": "Order doesn’t matter: 2 right + 3 up = 3 up + 2 right.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A shape has points at (0,1), (2,1), (2,3), and (0,3). What is its area?",
@@ -1097,7 +1196,8 @@
 "D": "8"},
 "answer": "B",
 "details": "Width = 2, height = 2. Area = 2 × 2 = 4 square units.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has width 5 and height 2. Area = ?",
@@ -1108,7 +1208,8 @@
 "D": "15"},
 "answer": "B",
 "details": "Area = width × height = 5 × 2 = 10 square units.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point is at (x, y). If x = 4 and y = x + 1, what are the coordinates?",
@@ -1119,7 +1220,8 @@
 "D": "(5, 4)"},
 "answer": "C",
 "details": "x = 4. y = x + 1 = 5. So (4, 5).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point is at (x, y). If y = 3 and x = y − 2, what are the coordinates?",
@@ -1130,7 +1232,8 @@
 "D": "(3, 5)"},
 "answer": "A",
 "details": "y = 3. x = 3 − 2 = 1. So (1, 3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is 3 units away from (2,2) horizontally?",
@@ -1141,7 +1244,8 @@
 "D": "(-1, 2)"},
 "answer": "B",
 "details": "Horizontally → same y=2. 3 units right: x=5 → (5,2). (Also (−1,2) but not in first quadrant.)",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is 2 units away from (4,3) vertically?",
@@ -1152,7 +1256,8 @@
 "D": "(4, 1)"},
 "answer": "A",
 "details": "Vertically → same x=4. 2 up: y=5 → (4,5). (Also (4,1) down, but A is listed and correct.)",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A path: Start (0,0) → 2 right → 3 up → 1 left. Where do you end?",
@@ -1163,7 +1268,8 @@
 "D": "(3, 3)"},
 "answer": "A",
 "details": "Start (0,0). +2 right → (2,0). +3 up → (2,3). +1 left → (1,3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A path: Start (1,1) → 3 up → 2 right → 1 down. Where do you end?",
@@ -1174,7 +1280,8 @@
 "D": "(1, 3)"},
 "answer": "A",
 "details": "(1,1) → +3 up = (1,4) → +2 right = (3,4) → +1 down = (3,3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which shape has all vertices with x = 2?",
@@ -1185,7 +1292,8 @@
 "D": "Triangle"},
 "answer": "B",
 "details": "All points with x=2 lie on a vertical line.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which shape has all vertices with y = 5?",
@@ -1196,7 +1304,8 @@
 "D": "Triangle"},
 "answer": "A",
 "details": "All points with y=5 lie on a horizontal line.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has corners at (2,3) and (5,7). What is its width?",
@@ -1207,7 +1316,8 @@
 "D": "5"},
 "answer": "B",
 "details": "Width = difference in x: 5 − 2 = 3 units.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has corners at (1,2) and (4,6). What is its height?",
@@ -1218,7 +1328,8 @@
 "D": "5"},
 "answer": "C",
 "details": "Height = difference in y: 6 − 2 = 4 units.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point moves from (3, 4) to (7, 1). What is the change in x?",
@@ -1229,7 +1340,8 @@
 "D": "−4"},
 "answer": "B",
 "details": "Change in x = final x − start x = 7 − 3 = +4.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point moves from (6, 5) to (2, 8). What is the change in y?",
@@ -1240,7 +1352,8 @@
 "D": "−4"},
 "answer": "A",
 "details": "Change in y = 8 − 5 = +3.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is at (x, y) where x = 3 × 2 and y = 4 + 1?",
@@ -1251,7 +1364,8 @@
 "D": "(2, 4)"},
 "answer": "B",
 "details": "x = 3 × 2 = 6. y = 4 + 1 = 5. So (6, 5).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is at (x, y) where x = 10 ÷ 2 and y = 9 − 3?",
@@ -1262,7 +1376,8 @@
 "D": "(10, 9)"},
 "answer": "A",
 "details": "x = 10 ÷ 2 = 5. y = 9 − 3 = 6. So (5, 6).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A shape has vertices at (1,1), (4,1), (4,2), and (1,2). What is it?",
@@ -1273,7 +1388,8 @@
 "D": "Trapezium"},
 "answer": "B",
 "details": "Width = 3, height = 1 → rectangle (not square).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A shape has vertices at (2,3), (5,3), (5,6), and (2,6). What is its perimeter?",
@@ -1284,7 +1400,8 @@
 "D": "15"},
 "answer": "C",
 "details": "Width = 3, height = 3 → square. Perimeter = 4 × 3 = 12 units.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point is translated 4 units right. Its x-coordinate increases by:",
@@ -1295,7 +1412,8 @@
 "D": "8"},
 "answer": "C",
 "details": "Moving right increases x by the number of units moved. So +4.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point is translated 5 units down. Its y-coordinate decreases by:",
@@ -1306,7 +1424,8 @@
 "D": "10"},
 "answer": "C",
 "details": "Moving down decreases y by the number of units moved. So −5.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point could be the top vertex of an isosceles triangle with base from (1,1) to (5,1)?",
@@ -1317,7 +1436,8 @@
 "D": "(0, 1)"},
 "answer": "C",
 "details": "Top vertex must be midway horizontally: x = (1+5)/2 = 3. So (3,3) is above the midpoint.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A square has perimeter 8 units. One corner at (1,1). What is the next corner to the right?",
@@ -1328,7 +1448,8 @@
 "D": "(1, 2)"},
 "answer": "B",
 "details": "Perimeter 8 → side = 2. Right from (1,1) by 2 → (3,1).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has area 6 square units and width 2 units. What is its height?",
@@ -1339,7 +1460,8 @@
 "D": "6"},
 "answer": "B",
 "details": "Area = width × height → 6 = 2 × h → h = 3.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A rectangle has area 12 and height 3. What is its width?",
@@ -1350,7 +1472,8 @@
 "D": "9"},
 "answer": "B",
 "details": "12 = w × 3 → w = 4.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "If (x, y) = (a + 1, b − 2) and a = 3, b = 5, what are the coordinates?",
@@ -1361,7 +1484,8 @@
 "D": "(5, 2)"},
 "answer": "B",
 "details": "x = 3 + 1 = 4. y = 5 − 2 = 3. So (4,3).",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point moves from (x, y) to (x + 2, y − 3). What translation is this?",
@@ -1372,7 +1496,8 @@
 "D": "2 right, 3 down"},
 "answer": "D",
 "details": "x + 2 → 2 right. y − 3 → 3 down.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is at the same distance from the x-axis as (3, 4)?",
@@ -1383,7 +1508,8 @@
 "D": "(0, 4)"},
 "answer": "D",
 "details": "Distance from x-axis = y-coordinate. (3,4) is 4 units up. (0,4) is also 4 units up.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "Which point is at the same distance from the y-axis as (5, 2)?",
@@ -1394,7 +1520,8 @@
 "D": "(3, 2)"},
 "answer": "C",
 "details": "Distance from y-axis = x-coordinate. (5,2) is 5 right. (5,0) is also 5 right.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A shape has points at (0,0), (3,0), (3,2), and (0,2). Which side is 2 units long?",
@@ -1405,7 +1532,8 @@
 "D": "Right"},
 "answer": "C",
 "details": "Left side: (0,0) to (0,2) → y changes by 2 → 2 units.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A shape has points at (1,1), (4,1), (4,3), and (1,3). Which side is 3 units long?",
@@ -1416,7 +1544,8 @@
 "D": "Right"},
 "answer": "A",
 "details": "Bottom: (1,1) to (4,1) → x changes by 3 → 3 units.",
-"difficulty": "easy"
+"difficulty": "easy",
+"used": 0
 },
 {
 "question": "A point is at (5, 2). How many units right and up is it from the origin (0,0)?",
@@ -1427,7 +1556,8 @@
 "D": "2 left, 5 up"},
 "answer": "A",
 "details": "Coordinates are (x, y). x = 5 → 5 units right. y = 2 → 2 units up.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is at (3, 4)?",
@@ -1438,7 +1568,8 @@
 "D": "7 units from the origin diagonally"},
 "answer": "B",
 "details": "(x, y) = (3, 4): move 3 right, then 4 up from (0,0).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (1,1), (4,1), and (1,4). What type of triangle is it?",
@@ -1449,7 +1580,8 @@
 "D": "Right-angled"},
 "answer": "D",
 "details": "Points (1,1)–(4,1) is horizontal, (1,1)–(1,4) is vertical. These meet at right angle at (1,1). So it's right-angled.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Start at (2, 3). Move 2 units right and 1 unit up. Where do you end?",
@@ -1460,7 +1592,8 @@
 "D": "(4, 3)"},
 "answer": "B",
 "details": "Right increases x: 2 + 2 = 4. Up increases y: 3 + 1 = 4. New position: (4, 4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which coordinates describe a point that is 6 units right and 1 unit up from the origin?",
@@ -1471,7 +1604,8 @@
 "D": "(5, 1)"},
 "answer": "C",
 "details": "x = 6 (right), y = 1 (up) → (6, 1).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has three vertices at (2,1), (2,4), and (5,4). What are the coordinates of the fourth vertex?",
@@ -1482,7 +1616,8 @@
 "D": "(5,5)"},
 "answer": "A",
 "details": "Opposite corners: (2,1) ↔ (5,4). So missing point shares x with (5,4) and y with (2,1): (5,1). Check: vertical side from (5,1) to (5,4), horizontal from (2,1) to (5,1).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "From (4, 5), a translation moves 3 units left and 2 units down. What are the new coordinates?",
@@ -1493,7 +1628,8 @@
 "D": "(7, 7)"},
 "answer": "A",
 "details": "Left: 4 − 3 = 1. Down: 5 − 2 = 3. So (1, 3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is NOT on the same horizontal line as (3, 2)?",
@@ -1504,7 +1640,8 @@
 "D": "(0, 2)"},
 "answer": "C",
 "details": "Horizontal line → same y-coordinate. (3,4) has y=4 ≠ 2, so not on the line.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A shape has vertices at (1,2), (3,2), (3,4), and (1,4). What shape is it?",
@@ -1515,7 +1652,8 @@
 "D": "Trapezium"},
 "answer": "C",
 "details": "Opposite sides equal and parallel; all angles 90°. Width = 2 (x:1→3), height = 2 (y:2→4) → actually a square, which is a type of rectangle. 'Rectangle' is correct and safest choice for Year 4.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Starting at (0,0), you move to (6,0), then to (6,3). What translation gets you from (0,0) to (6,3) directly?",
@@ -1526,7 +1664,8 @@
 "D": "3 right, 6 up"},
 "answer": "A",
 "details": "x changes from 0 to 6 → +6 right. y from 0 to 3 → +3 up.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which pair of points are 4 units apart vertically?",
@@ -1537,7 +1676,8 @@
 "D": "(4,0) and (0,4)"},
 "answer": "A",
 "details": "Vertical distance = |y₂ − y₁|. A: |5−1| = 4. B and C are horizontal (same y). D is diagonal.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point moves from (3,4) to (5,1). How was it translated?",
@@ -1548,7 +1688,8 @@
 "D": "3 right, 2 down"},
 "answer": "C",
 "details": "x: 3→5 = +2 (right). y: 4→1 = −3 (down). So 2 right, 3 down.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which coordinates could be a vertex of a square with other vertices at (0,0), (0,2), and (2,0)?",
@@ -1559,7 +1700,8 @@
 "D": "(1,2)"},
 "answer": "A",
 "details": "From (0,0) to (0,2): up 2. (0,0) to (2,0): right 2. So missing point is 2 right and 2 up from (0,0): (2,2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A shape is drawn by plotting (1,1), (4,1), (4,3), and (1,3), then joining them in order. What is the perimeter?",
@@ -1570,7 +1712,8 @@
 "D": "12 units"},
 "answer": "C",
 "details": "Width = 4−1=3, height = 3−1=2. Perimeter = 2×(3+2) = 10.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point lies on the line joining (1,1) and (1,5)?",
@@ -1581,7 +1724,8 @@
 "D": "(0,0)"},
 "answer": "B",
 "details": "Both given points have x=1, so it's a vertical line x=1. Only (1,3) has x=1.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "After a translation of 4 units right and 1 unit down, a point ends at (7,2). Where did it start?",
@@ -1592,7 +1736,8 @@
 "D": "(11,3)"},
 "answer": "A",
 "details": "Reverse the translation: left 4 → 7−4=3; up 1 → 2+1=3. Start: (3,3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (2,2), (5,2), and (2,6). What is the length of the longest side?",
@@ -1603,7 +1748,8 @@
 "D": "6 units"},
 "answer": "C",
 "details": "Sides: (2,2)–(5,2): 3 units (horizontal). (2,2)–(2,6): 4 units (vertical). (5,2)–(2,6): difference in x = 3, y = 4 → use distance intuition (3-4-5 triangle) → 5 units.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which is true about all points with y-coordinate 4?",
@@ -1614,7 +1760,8 @@
 "D": "They form a square with the origin."},
 "answer": "C",
 "details": "Same y → horizontal line (e.g., (0,4), (1,4), (2,4)…).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point at (6,3) is translated to (2,5). Describe the movement.",
@@ -1625,7 +1772,8 @@
 "D": "2 right, 4 down"},
 "answer": "A",
 "details": "x: 6→2 = −4 (left 4). y: 3→5 = +2 (up 2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Plot the points (1,1), (3,1), (4,3), and (2,3). What shape do they form?",
@@ -1636,7 +1784,8 @@
 "D": "Trapezium"},
 "answer": "C",
 "details": "Opposite sides: (1,1)→(3,1) is 2 right; (2,3)→(4,3) is 2 right (parallel). (3,1)→(4,3) is 1 right, 2 up; (1,1)→(2,3) is 1 right, 2 up (parallel). So parallelogram (not rectangle: sides not perpendicular).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is exactly halfway between (2,2) and (6,6)?",
@@ -1647,7 +1796,8 @@
 "D": "(2,6)"},
 "answer": "B",
 "details": "Midpoint: average x = (2+6)/2 = 4; average y = (2+6)/2 = 4 → (4,4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A shape has a vertex at (3,5). After moving 1 unit left and 3 units down, where is the new vertex?",
@@ -1658,7 +1808,8 @@
 "D": "(4,8)"},
 "answer": "A",
 "details": "Left: 3−1=2. Down: 5−3=2. So (2,2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which coordinates complete a rectangle with (1,2), (1,5), and (4,2)?",
@@ -1669,7 +1820,8 @@
 "D": "(5,1)"},
 "answer": "A",
 "details": "Opposite corners: (1,2) and (4,5) would complete. Check: vertical sides x=1 (y=2→5) and x=4 (y=2→5); horizontal y=2 (x=1→4) and y=5 (x=1→4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point starts at (0,3). It moves 5 right, then 2 up. Where is it now?",
@@ -1680,7 +1832,8 @@
 "D": "(3,5)"},
 "answer": "A",
 "details": "Start (0,3). Right 5 → (5,3). Up 2 → (5,5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "The points (2,1), (5,1), and (5,4) are three corners of a square. What is the fourth?",
@@ -1691,7 +1844,8 @@
 "D": "(1,5)"},
 "answer": "A",
 "details": "From (2,1) to (5,1): 3 right. From (5,1) to (5,4): 3 up. So from (2,1), go up 3 → (2,4). Check distance to (5,4): 3 right → square.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which translation takes (1,4) to (4,2)?",
@@ -1702,7 +1856,8 @@
 "D": "2 right, 3 down"},
 "answer": "C",
 "details": "x: 1→4 = +3 (right). y: 4→2 = −2 (down).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A line goes through (0,2) and (5,2). Which point also lies on this line?",
@@ -1713,7 +1868,8 @@
 "D": "(0,5)"},
 "answer": "C",
 "details": "y = 2 for both given points → horizontal line y=2. Only (3,2) has y=2.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What are the coordinates of the point 3 units right and 5 units up from (1,1)?",
@@ -1724,7 +1880,8 @@
 "D": "(5,3)"},
 "answer": "B",
 "details": "x: 1 + 3 = 4. y: 1 + 5 = 6. So (4,6).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A shape is made by joining (1,3), (4,3), (5,1), and (2,1). What is it?",
@@ -1735,7 +1892,8 @@
 "D": "Kite"},
 "answer": "A",
 "details": "Top: (1,3)→(4,3) = 3 right. Bottom: (2,1)→(5,1) = 3 right (parallel). Sides: (4,3)→(5,1) = 1 right, 2 down; (1,3)→(2,1) = 1 right, 2 down (parallel and equal). So parallelogram.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "From (3,6), move 4 units left and 3 units up. Where are you?",
@@ -1746,7 +1904,8 @@
 "D": "(7,9)"},
 "answer": "A",
 "details": "Left: 3−4 = −1. Up: 6+3 = 9. So (−1,9). Note: still valid coordinate; question doesn’t restrict to first quadrant for movement result.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which set of points forms a right-angled triangle?",
@@ -1757,7 +1916,8 @@
 "D": "(3,1), (5,2), (4,4)"},
 "answer": "A",
 "details": "A: (1,1)→(1,4) vertical, (1,4)→(5,4) horizontal → right angle at (1,4). Others have no vertical/horizontal perpendicular sides.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point at (4,7) is moved 2 units down and 5 units left. What are the new coordinates?",
@@ -1768,7 +1928,8 @@
 "D": "(−1,9)"},
 "answer": "C",
 "details": "Left: 4−5 = −1. Down: 7−2 = 5. So (−1,5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has width 4 and height 3. One corner is at (1,1). Which could be the opposite corner?",
@@ -1779,7 +1940,8 @@
 "D": "(5,1)"},
 "answer": "B",
 "details": "From (1,1), add width (4) to x → 5, height (3) to y → 4. So (5,4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is farthest from the origin (0,0)?",
@@ -1790,7 +1952,8 @@
 "D": "(6,0)"},
 "answer": "A",
 "details": "Estimate distances: A: √(9+16)=5. B: √(25+1)≈5.1? Wait — actually √26≈5.1, but Year 4 uses reasoning: compare x+y or grid steps. Better: count ‘Manhattan’ or use known 3-4-5. Curriculum expects comparison via squares: 3²+4²=25, 5²+1²=26, 2²+5²=29, 6²+0²=36 → D is farthest. Correction: D (36) > C (29) > B (26) > A (25). So answer should be D. Revising…",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is farthest from the origin (0,0)?",
@@ -1801,7 +1964,8 @@
 "D": "(6,0)"},
 "answer": "D",
 "details": "Compare squared distances (no square roots needed): A: 9+16=25, B:25+1=26, C:4+25=29, D:36+0=36. Largest is 36 → (6,0).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has side length 3. One vertex is at (2,2). Which could be another vertex?",
@@ -1812,7 +1976,8 @@
 "D": "(5,3)"},
 "answer": "A",
 "details": "From (2,2), moving vertically 3 up gives (2,5) — same x, y+3. Valid vertex (adjacent). Others are diagonal or wrong distance.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Translate point (7,3) by 4 left and 1 up. New position?",
@@ -1823,7 +1988,8 @@
 "D": "(11,4)"},
 "answer": "A",
 "details": "7−4=3, 3+1=4 → (3,4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (1,3), (4,3), and (2,6). What is the base length if the base is horizontal?",
@@ -1834,7 +2000,8 @@
 "D": "5 units"},
 "answer": "B",
 "details": "Horizontal side: (1,3) to (4,3) → 4−1 = 3 units.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which two points are 5 units apart in a straight line (horizontal or vertical only)?",
@@ -1845,7 +2012,8 @@
 "D": "(4,5) and (7,5)"},
 "answer": "B",
 "details": "B: same x=3, y: 2→7 = 5 units (vertical). D is horizontal but 3 units (7−4=3). A and C are diagonal.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the y-coordinate of a point that is 4 units right and 6 units up from (0,0)?",
@@ -1856,7 +2024,8 @@
 "D": "10"},
 "answer": "C",
 "details": "Up 6 → y = 6.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A shape has points at (2,2), (5,2), (6,4), and (3,4). Which translation moves (2,2) to (3,4)?",
@@ -1867,7 +2036,8 @@
 "D": "3 right, 2 up"},
 "answer": "A",
 "details": "x: 2→3 = +1. y: 2→4 = +2. So 1 right, 2 up.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is NOT a vertex of the rectangle with corners at (1,1), (1,4), (5,4), and (5,1)?",
@@ -1878,7 +2048,8 @@
 "D": "(1,4)"},
 "answer": "B",
 "details": "Given vertices: x=1 or 5; y=1 or 4. (4,5) has x=4 (not 1/5) and y=5 (not 1/4) → not a corner.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Start at (3,2). Move to (3,5), then to (1,5). What single translation would go directly from start to end?",
@@ -1889,7 +2060,8 @@
 "D": "5 units diagonally"},
 "answer": "A",
 "details": "Start (3,2) → end (1,5). x: 3→1 = −2 (left 2). y: 2→5 = +3 (up 3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point is at (x, y). After moving 2 right and 3 down, it is at (6,1). What was (x, y)?",
@@ -1900,7 +2072,8 @@
 "D": "(8,4)"},
 "answer": "A",
 "details": "Reverse: left 2 → 6−2=4. Up 3 → 1+3=4. So (4,4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which of these is a possible set of vertices for a square?",
@@ -1911,7 +2084,8 @@
 "D": "(0,1), (2,1), (2,4), (0,4)"},
 "answer": "A",
 "details": "A: all sides 2, right angles. B: vertical sides length 2, but horizontal? (1,1) to (3,2) not horizontal/vertical. C and D are rectangles (D: 2×3) or parallelograms — not squares. Only A is square.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "The point (4,3) is reflected over the vertical line x=2. Where is the image?",
@@ -1922,7 +2096,8 @@
 "D": "(6,3)"},
 "answer": "A",
 "details": "Distance from (4,3) to x=2 is 2 units right. So image is 2 units left of x=2: x=0, y=3 → (0,3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A path goes from (1,1) → (1,4) → (5,4) → (5,1). What shape does it enclose?",
@@ -1933,7 +2108,8 @@
 "D": "Trapezium"},
 "answer": "C",
 "details": "Vertical 3, horizontal 4, vertical 3 down, horizontal 4 left → rectangle (3×4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which translation moves every point of a shape 3 units right and 2 units down?",
@@ -1944,7 +2120,8 @@
 "D": "(x, y) → (x−2, y+3)"},
 "answer": "A",
 "details": "Right → +x, down → −y. So +3 to x, −2 to y.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point P is at (5,2). A point Q is at (2,6). How far apart are they horizontally?",
@@ -1955,7 +2132,8 @@
 "D": "7 units"},
 "answer": "A",
 "details": "Horizontal distance = |x₂ − x₁| = |2 − 5| = 3.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Plot (1,2), (4,5), (7,2). What type of triangle is formed?",
@@ -1966,7 +2144,8 @@
 "D": "Right-angled"},
 "answer": "B",
 "details": "Distance (1,2)–(4,5): Δx=3, Δy=3. (4,5)–(7,2): Δx=3, Δy=−3 → same length. (1,2)–(7,2): 6 units. Two equal sides → isosceles.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (0,1), (a,1), (a,4), and (0,4). If its area is 12, what is a?",
@@ -1977,7 +2156,8 @@
 "D": "6"},
 "answer": "B",
 "details": "Height = 4−1 = 3. Area = width × height = a × 3 = 12 → a = 4.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "From (2,5), which move leads to (5,3)?",
@@ -1988,7 +2168,8 @@
 "D": "2 right, 3 down"},
 "answer": "C",
 "details": "x: 2→5 = +3. y: 5→3 = −2. So 3 right, 2 down.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point lies on the same vertical line as (4,7)?",
@@ -1999,7 +2180,8 @@
 "D": "(5,7)"},
 "answer": "B",
 "details": "Same x-coordinate = 4. Only (4,0) has x=4.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A shape is translated so that (1,3) moves to (4,1). Where does (2,5) go?",
@@ -2010,7 +2192,8 @@
 "D": "(6,0)"},
 "answer": "A",
 "details": "Translation: x+3, y−2. Apply to (2,5): 2+3=5, 5−2=3 → (5,3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "The points (0,0), (3,0), (1.5,3) form a triangle. What type is it?",
@@ -2021,7 +2204,8 @@
 "D": "Right-angled"},
 "answer": "B",
 "details": "Distance (0,0)–(1.5,3) and (3,0)–(1.5,3) are equal (symmetry), so isosceles. (Year 4: observe symmetry over x=1.5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point is moved from (x, y) to (x−2, y+4). How was it translated?",
@@ -2032,7 +2216,8 @@
 "D": "4 right, 2 down"},
 "answer": "A",
 "details": "x−2 = left 2. y+4 = up 4.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which coordinates are 3 units right and 2 units down from (4,5)?",
@@ -2043,7 +2228,8 @@
 "D": "(7,7)"},
 "answer": "B",
 "details": "x: 4+3=7. y: 5−2=3. So (7,3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has vertices at (2,1), (5,1), and (5,4). What is the fourth vertex?",
@@ -2054,7 +2240,8 @@
 "D": "(3,3)"},
 "answer": "A",
 "details": "From (2,1) up 3 → (2,4). From (5,4) left 3 → (2,4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which statement is true about the point (0,5)?",
@@ -2065,7 +2252,8 @@
 "D": "It has x-coordinate 5."},
 "answer": "C",
 "details": "x=0 → on y-axis. y=5 → 5 units up.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle is drawn with corners at (1,2), (1,6), (4,6), and (4,2). What is its area?",
@@ -2076,7 +2264,8 @@
 "D": "16"},
 "answer": "C",
 "details": "Width = 4−1=3. Height = 6−2=4. Area = 3×4=12.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is closest to (3,3)?",
@@ -2087,7 +2276,8 @@
 "D": "(6,3)"},
 "answer": "A",
 "details": "Estimate: A: Δx=2, Δy=1 → ‘3 steps’. B: Δx=2, Δy=1 → same. Wait — symmetric. Actually A and B both √5 ≈2.24. Check C: Δx=1, Δy=2 → also √5. D: Δx=3 → 3. So A, B, C tie. But Year 4 uses grid steps (Manhattan): A: |2|+|1|=3, B:2+1=3, C:1+2=3, D:3+0=3. All same. Need better question. Revise with distinct distances.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is closest to (4,4)?",
@@ -2098,7 +2288,8 @@
 "D": "(4,0)"},
 "answer": "A",
 "details": "Use ‘grid distance’ (|Δx| + |Δy|): A:2+1=3, B:1+2=3, C:3+0=3, D:0+4=4. But A and B both 3. Instead, use squared Euclidean (Year 4 may compare): A:4+1=5, B:1+4=5, C:9+0=9, D:0+16=16. A and B tie. To ensure uniqueness, adjust: new question.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is closest to (5,2)?",
@@ -2109,7 +2300,8 @@
 "D": "(5,6)"},
 "answer": "A",
 "details": "Compare squared distances: A: (1²+1²)=2, B:1²+3²=10, C:3²+0=9, D:0+4²=16. Smallest is 2 → A.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point moves from (3,1) to (6,4). Which describes the move?",
@@ -2120,7 +2312,8 @@
 "D": "1 right, 3 up"},
 "answer": "A",
 "details": "x: 3→6 = +3. y:1→4 = +3.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which set of points forms a horizontal line segment?",
@@ -2131,7 +2324,8 @@
 "D": "(4,0) and (0,4)"},
 "answer": "A",
 "details": "Same y-coordinate (3) → horizontal.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A shape has a vertex at (6,2). After a translation of 3 left and 4 up, where is it?",
@@ -2142,7 +2336,8 @@
 "D": "(9,−2)"},
 "answer": "A",
 "details": "6−3=3, 2+4=6 → (3,6).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "The points (1,2), (4,2), and (2.5,5) form a triangle. What is special about it?",
@@ -2153,7 +2348,8 @@
 "D": "Scalene"},
 "answer": "B",
 "details": "Base (1,2)-(4,2) is horizontal. Top (2.5,5) is midway in x → symmetrical → two equal sides → isosceles.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which coordinates are 5 units right and 0 units up/down from (2,7)?",
@@ -2164,7 +2360,8 @@
 "D": "(2,2)"},
 "answer": "B",
 "details": "Right 5: 2+5=7. y unchanged: 7. So (7,7).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A parallelogram has vertices at (0,0), (3,0), (4,2), and one missing. What is the missing vertex?",
@@ -2175,7 +2372,8 @@
 "D": "(3,2)"},
 "answer": "A",
 "details": "From (0,0)→(3,0) is 3 right. So from (4,2), go left 3 → (1,2). Or vector addition: (0,0) + (4,2) − (3,0) = (1,2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Starting at (1,1), a translation of 2 right and 3 up, then 1 left and 1 down, ends where?",
@@ -2186,7 +2384,8 @@
 "D": "(4,5)"},
 "answer": "A",
 "details": "Net: right 2−1=1, up 3−1=2. Start (1,1) → (2,3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is at the same height (y) as (5,3) and same horizontal position (x) as (2,7)?",
@@ -2197,7 +2396,8 @@
 "D": "(7,2)"},
 "answer": "B",
 "details": "Same y as (5,3) → y=3. Same x as (2,7) → x=2. So (2,3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (a,2), (a,5), (7,5), and (7,2). If the width is 4, what is a?",
@@ -2208,7 +2408,8 @@
 "D": "11"},
 "answer": "A",
 "details": "Width = |7 − a| = 4. So 7−a=4 → a=3 (since a < 7 in first quadrant context).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which translation would move (2,4) to a point with x=5 and y=1?",
@@ -2219,7 +2420,8 @@
 "D": "3 right, 1 down"},
 "answer": "A",
 "details": "To x=5: 2→5 = +3. To y=1: 4→1 = −3. So 3 right, 3 down.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Plot (0,0), (4,0), (4,3), (0,3). What is the distance from (0,0) to (4,3)?",
@@ -2230,7 +2432,8 @@
 "D": "12 units"},
 "answer": "A",
 "details": "This is a 3-4-5 right triangle. So diagonal = 5. (Year 4 may be taught this common triple.)",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point at (x, y) moves to (x+1, y−2). If it ends at (4,3), where did it start?",
@@ -2241,7 +2444,8 @@
 "D": "(5,5)"},
 "answer": "A",
 "details": "x+1=4 → x=3. y−2=3 → y=5. Start: (3,5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which two points have the same x-coordinate?",
@@ -2252,7 +2456,8 @@
 "D": "(0,5) and (5,0)"},
 "answer": "B",
 "details": "Both have x=2.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (1,1), (4,2), and (1,5). What is the length of the vertical side?",
@@ -2263,7 +2468,8 @@
 "D": "5 units"},
 "answer": "C",
 "details": "Points (1,1) and (1,5) share x=1. Vertical distance = |5−1| = 4.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "After translating a shape, the point (3,4) moves to (0,6). Where does (5,1) move?",
@@ -2274,7 +2480,8 @@
 "D": "(8,3)"},
 "answer": "A",
 "details": "Translation: x−3, y+2. Apply to (5,1): 5−3=2, 1+2=3 → (2,3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point lies inside the rectangle with corners (1,1), (1,4), (5,4), (5,1)?",
@@ -2285,7 +2492,8 @@
 "D": "(3,5)"},
 "answer": "B",
 "details": "Inside: x between 1 and 5, y between 1 and 4. (3,2) satisfies: 1<3<5, 1<2<4.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has side 2. One vertex is (3,3). Which could be the vertex diagonally opposite?",
@@ -2296,7 +2504,8 @@
 "D": "(1,1)"},
 "answer": "A",
 "details": "Diagonal of square side 2 is 2√2, but coordinates: from (3,3), add 2 to x and 2 to y → (5,5). (Check: other corners (3,5) and (5,3) form square.)",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point is at (4,6). It moves left until x=1, then down until y=2. Where is it?",
@@ -2307,7 +2516,8 @@
 "D": "(5,8)"},
 "answer": "C",
 "details": "First: left to x=1 → (1,6). Then down to y=2 → (1,2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which describes the translation from (2,5) to (5,2)?",
@@ -2318,7 +2528,8 @@
 "D": "0 units (same point)"},
 "answer": "A",
 "details": "x: +3, y: −3 → 3 right, 3 down.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A shape has vertices at (1,3), (3,5), (5,3), and (3,1). What shape is it?",
@@ -2329,7 +2540,8 @@
 "D": "Parallelogram"},
 "answer": "A",
 "details": "All sides: from (1,3) to (3,5): Δx=2, Δy=2 → length √8. All same. Diagonals: (1,3)–(5,3)=4 horizontal; (3,5)–(3,1)=4 vertical → perpendicular and equal → square.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What are the coordinates of the point 4 units up from (3,2)?",
@@ -2340,7 +2552,8 @@
 "D": "(3,−2)"},
 "answer": "A",
 "details": "Up increases y: 2+4=6. x unchanged: 3. So (3,6).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has length 6 and width 2. If one corner is (1,3), which could be an adjacent corner?",
@@ -2351,7 +2564,8 @@
 "D": "(7,5)"},
 "answer": "A",
 "details": "Adjacent corner shares side. Horizontal: (1+6,3)=(7,3). Vertical: (1,3+2)=(1,5) or (1,1). Only (7,3) listed.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "From (5,1), move 3 units up and 2 units left. Where are you?",
@@ -2362,7 +2576,8 @@
 "D": "(7,−2)"},
 "answer": "A",
 "details": "x: 5−2=3? Wait — left 2: 5−2=3. Up 3: 1+3=4. So (3,4). But option A is (2,4). Error. Correcting: options should include (3,4). Revise question.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "From (5,1), move 3 units up and 2 units left. Where are you?",
@@ -2373,7 +2588,8 @@
 "D": "(7,−2)"},
 "answer": "A",
 "details": "Left 2: 5−2=3. Up 3: 1+3=4. So (3,4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is a vertex of the triangle with vertices (2,1), (6,1), and (4,4)?",
@@ -2384,7 +2600,8 @@
 "D": "(4,1)"},
 "answer": "A",
 "details": "Vertices are given: (2,1), (6,1), (4,4). Only A matches.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point moves from (1,2) to (4,6). How many units right and up?",
@@ -2395,7 +2612,8 @@
 "D": "2 right, 3 up"},
 "answer": "A",
 "details": "x: 1→4 = +3. y: 2→6 = +4.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which set of points forms a vertical line?",
@@ -2406,7 +2624,8 @@
 "D": "(0,3), (3,0), (6,−3)"},
 "answer": "A",
 "details": "All have x=2 → vertical line.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has area 9. One vertex is (1,1). Which could be another vertex?",
@@ -2417,7 +2636,8 @@
 "D": "(4,4)"},
 "answer": "A",
 "details": "Area 9 → side 3. From (1,1), up 3 → (1,4) — valid adjacent vertex.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Translate (6,2) by 4 units left and 5 units up. New coordinates?",
@@ -2428,7 +2648,8 @@
 "D": "(10,−3)"},
 "answer": "A",
 "details": "6−4=2, 2+5=7 → (2,7).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has opposite vertices at (1,2) and (5,6). What are the other two vertices?",
@@ -2439,7 +2660,8 @@
 "D": "(1,5) and (5,1)"},
 "answer": "A",
 "details": "Other corners share x with one and y with the other: (1,6) and (5,2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is 5 units from (0,0) in a straight horizontal line?",
@@ -2450,7 +2672,8 @@
 "D": "(−5,0)"},
 "answer": "B",
 "details": "Horizontal → same y=0, x=±5. In first quadrant context, (5,0) is correct.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle has points at (3,1), (3,5), and (7,1). What is its area?",
@@ -2461,7 +2684,8 @@
 "D": "12"},
 "answer": "B",
 "details": "Base = 7−3=4 (horizontal). Height = 5−1=4 (vertical). Area = ½×4×4=8.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "If (x, y) → (x−1, y+3) is a translation, where does (4,2) go?",
@@ -2472,7 +2696,8 @@
 "D": "(5,5)"},
 "answer": "A",
 "details": "4−1=3, 2+3=5 → (3,5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point completes a parallelogram with (0,0), (2,0), and (3,2)?",
@@ -2483,7 +2708,8 @@
 "D": "(0,2)"},
 "answer": "A",
 "details": "From (0,0)→(2,0) is 2 right. So from (3,2), left 2 → (1,2). Or (0,0)+(3,2)−(2,0)=(1,2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point is at (5,3). It moves to (2,7). Describe the translation.",
@@ -2494,7 +2720,8 @@
 "D": "7 units diagonally"},
 "answer": "A",
 "details": "x: 5→2 = −3. y: 3→7 = +4.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which two points are on the same horizontal line?",
@@ -2505,7 +2732,8 @@
 "D": "(5,2) and (3,5)"},
 "answer": "A",
 "details": "Same y=3.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A shape has vertices at (2,2), (5,2), (6,4), and (3,4). What is the vector from (2,2) to (5,2)?",
@@ -2516,7 +2744,8 @@
 "D": "3 right, 2 up"},
 "answer": "A",
 "details": "Δx=3, Δy=0 → 3 right, 0 up.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "After a translation, (1,4) becomes (4,1). What happens to (0,0)?",
@@ -2527,7 +2756,8 @@
 "D": "(1,4)"},
 "answer": "A",
 "details": "Translation: +3 x, −3 y. So (0,0) → (3,−3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is NOT on the rectangle with vertices (2,1), (2,4), (6,4), (6,1)?",
@@ -2538,7 +2768,8 @@
 "D": "(7,1)"},
 "answer": "D",
 "details": "Rectangle boundaries: x=2 to 6, y=1 to 4. (7,1) has x=7 > 6 → outside.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point moves 6 units right and 2 units down to (8,3). Where did it start?",
@@ -2549,7 +2780,8 @@
 "D": "(14,5)"},
 "answer": "A",
 "details": "Reverse: left 6 → 8−6=2. Up 2 → 3+2=5. Start: (2,5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which coordinates describe a point 7 units from the origin along the x-axis?",
@@ -2560,7 +2792,8 @@
 "D": "(1,6)"},
 "answer": "B",
 "details": "On x-axis → y=0. 7 units → x=7 (first quadrant).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (1,2), (4,6), and (7,2). What type is it?",
@@ -2571,7 +2804,8 @@
 "D": "Right-angled"},
 "answer": "B",
 "details": "Base (1,2)-(7,2) = 6. Sides to (4,6): both have Δx=3, Δy=4 → equal length → isosceles.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "What is the x-coordinate of the point 3 units left and 4 units up from (5,1)?",
@@ -2582,7 +2816,8 @@
 "D": "1"},
 "answer": "A",
 "details": "x: 5−3=2.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has vertices at (0,0), (0,3), (3,0), and one missing. What is it?",
@@ -2593,7 +2828,8 @@
 "D": "(6,0)"},
 "answer": "A",
 "details": "To complete square: from (0,3) right 3 → (3,3); from (3,0) up 3 → (3,3).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which translation moves (2,3) to (5,0)?",
@@ -2604,7 +2840,8 @@
 "D": "0 right, 3 down"},
 "answer": "A",
 "details": "x: +3, y: −3.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle is 5 units wide and 3 units tall. Bottom-left corner is (1,2). What are the coordinates of the top-right corner?",
@@ -2615,7 +2852,8 @@
 "D": "(1,5)"},
 "answer": "A",
 "details": "x: 1+5=6. y: 2+3=5. So (6,5).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is the reflection of (4,3) over the line y=1?",
@@ -2626,7 +2864,8 @@
 "D": "(6,3)"},
 "answer": "A",
 "details": "Distance from y=3 to y=1 is 2 down. So image is 2 down from y=1: y=−1. x unchanged: 4 → (4,−1).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A path: start (2,2) → 3 right → 2 up → 1 left. Where do you end?",
@@ -2637,7 +2876,8 @@
 "D": "(4,0)"},
 "answer": "A",
 "details": "(2,2) → (5,2) → (5,4) → (4,4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which set of points forms a right angle at (3,2)?",
@@ -2648,7 +2888,8 @@
 "D": "(3,2), (0,2), (3,0)"},
 "answer": "A",
 "details": "A: (3,2)→(3,5) vertical, (3,2)→(6,2) horizontal → right angle. D also works, but A is listed first. Check D: (0,2) left, (3,0) down — also right angle. But both A and D are correct? To ensure uniqueness, prefer A (positive directions). Actually D is also valid. Revised: use only one. New question.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which set of points forms a right angle at (2,3)?",
@@ -2659,7 +2900,8 @@
 "D": "(2,3), (1,3), (2,1)"},
 "answer": "A",
 "details": "From (2,3): to (2,6) is vertical (up), to (5,3) is horizontal (right) → right angle. D also forms right angle (left and down), but A uses positive directions and is standard.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point at (6,4) is translated by (−2, +3). Where is it?",
@@ -2670,7 +2912,8 @@
 "D": "(8,7)"},
 "answer": "A",
 "details": "x: 6−2=4. y: 4+3=7.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point lies on the line segment between (1,1) and (5,1)?",
@@ -2681,7 +2924,8 @@
 "D": "(0,1)"},
 "answer": "A",
 "details": "Segment is horizontal y=1, x from 1 to 5. (3,1) is between.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (2,2), (5,2), (6,4), and (3,4). What is the length of each side?",
@@ -2692,7 +2936,8 @@
 "D": "√13 units"},
 "answer": "C",
 "details": "From (2,2) to (5,2): 3 units? Wait — no, (2,2) to (3,4): Δx=1, Δy=2 → √(1+4)=√5. All sides same → √5. Year 4 may accept ‘about 2.2’, but MCQ uses √5 (conceptual). Alternatively, revise to avoid surds. Better: use grid steps or rephrase.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rhombus has vertices at (1,1), (3,1), (4,3), and (2,3). What is the horizontal distance between (1,1) and (3,1)?",
@@ -2703,7 +2948,8 @@
 "D": "4 units"},
 "answer": "B",
 "details": "x: 3−1=2. Same y, so horizontal distance = 2.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which is true about the point (7,0)?",
@@ -2714,7 +2960,8 @@
 "D": "Its y-coordinate is 7."},
 "answer": "C",
 "details": "y=0 → on x-axis. x=7 → 7 units right.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A shape is moved 4 units right and 1 unit down. The point (2,5) moves to:",
@@ -2725,7 +2972,8 @@
 "D": "(−2,4)"},
 "answer": "A",
 "details": "2+4=6, 5−1=4 → (6,4).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A triangle has base from (2,3) to (8,3) and height 4. What could be the third vertex?",
@@ -2736,7 +2984,8 @@
 "D": "All of the above"},
 "answer": "D",
 "details": "Base y=3, length 6. Height 4 → y=3+4=7 or 3−4=−1. x can be anywhere (for same height), but for triangle, any point with y=7 or y=−1 works. So all are possible.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is closest to the origin?",
@@ -2747,7 +2996,8 @@
 "D": "(3,0)"},
 "answer": "A",
 "details": "Squared distances: A:1+4=5, B:4+1=5, C:0+4=4, D:9+0=9. C is smallest (4) → (0,2). But A and B tie at 5. Correction: C is closer. Revise answer.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point is closest to the origin?",
@@ -2758,7 +3008,8 @@
 "D": "(1,1)"},
 "answer": "D",
 "details": "Squared distances: A:5, B:5, C:4, D:2. Smallest is 2 → (1,1).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (1,1), (4,1), (4,3), and (1,3). What is the coordinate of the centre?",
@@ -2769,7 +3020,8 @@
 "D": "(5,4)"},
 "answer": "A",
 "details": "Centre = midpoint of diagonals: ((1+4)/2, (1+3)/2) = (2.5, 2).",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A point moves from (3,4) to (0,1). What is the translation?",
@@ -2780,7 +3032,8 @@
 "D": "1 left, 4 down"},
 "answer": "A",
 "details": "x: 3→0 = −3. y: 4→1 = −3.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which coordinates are 2 units left and 5 units up from (6,1)?",
@@ -2791,7 +3044,8 @@
 "D": "(8,−4)"},
 "answer": "A",
 "details": "x: 6−2=4. y: 1+5=6.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A square has side 4. If bottom-left is (1,2), what is top-right?",
@@ -2802,7 +3056,8 @@
 "D": "(5,2)"},
 "answer": "A",
 "details": "x: 1+4=5. y: 2+4=6.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Which point lies on the y-axis?",
@@ -2813,7 +3068,8 @@
 "D": "(−1,3)"},
 "answer": "B",
 "details": "x=0 → on y-axis.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "A translation moves every point (x, y) to (x+2, y−1). Where does (3,4) go?",
@@ -2824,7 +3080,8 @@
 "D": "(1,3)"},
 "answer": "A",
 "details": "3+2=5, 4−1=3.",
-"difficulty": "medium"
+"difficulty": "medium",
+"used": 0
 },
 {
 "question": "Point P is at (3, 4). After a translation of 2 units right and 3 units down, where is the new point?",
@@ -2835,7 +3092,8 @@
 "D": "(1, 7)"},
 "answer": "B",
 "details": "Starting at (3, 4): moving 2 right adds 2 to the x-coordinate → 3 + 2 = 5. Moving 3 down subtracts 3 from the y-coordinate → 4 − 3 = 1. So the new coordinates are (5, 1).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (1, 2), (4, 2), and (1, 5). Which type of triangle is it?",
@@ -2846,7 +3104,8 @@
 "D": "Scalene"},
 "answer": "C",
 "details": "Plot the points: (1,2) to (4,2) is horizontal (length 3), (1,2) to (1,5) is vertical (length 3). These two sides meet at (1,2) at a 90° angle. The third side from (4,2) to (1,5) is diagonal. So it has a right angle → right-angled triangle.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is 4 units to the left and 1 unit up from (7, 3)?",
@@ -2857,7 +3116,8 @@
 "D": "(11, 2)"},
 "answer": "A",
 "details": "4 left → subtract 4 from x: 7 − 4 = 3. 1 up → add 1 to y: 3 + 1 = 4. So the point is (3, 4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Points A(2,1), B(5,1), C(5,4), and D(2,4) are plotted and joined in order. What shape is formed?",
@@ -2868,7 +3128,8 @@
 "D": "Parallelogram (not rectangle)"},
 "answer": "C",
 "details": "AB: horizontal 3 units, BC: vertical 3 units, CD: horizontal left 3 units, DA: vertical down 3 units. All angles are 90°, and opposite sides equal → rectangle. (It’s also a square? No: sides are 3 and 3 → actually a square. But square is a special rectangle, and ‘rectangle’ is the best listed option. Note: (2,1) to (5,1) is 3 wide; (5,1) to (5,4) is 3 tall → yes, square. However, since ‘square’ is not an option and ‘rectangle’ includes squares, C is correct per curriculum expectations.)",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A square has three vertices at (1,1), (1,4), and (4,4). What are the coordinates of the fourth vertex?",
@@ -2879,7 +3140,8 @@
 "D": "(1, 0)"},
 "answer": "A",
 "details": "Plot known points: (1,1) and (1,4) form a vertical side (length 3). (1,4) to (4,4) is horizontal (length 3). To complete the square, move down 3 from (4,4) → y = 4 − 3 = 1, x stays 4 → (4,1). Check: (4,1) to (1,1) closes the bottom side.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "From (6, 2), a shape is translated 5 units left and 4 units up. Which coordinate pair could NOT be a vertex of the new shape if (6,2) was a vertex of the original?",
@@ -2890,7 +3152,8 @@
 "D": "(0, 7)"},
 "answer": "C",
 "details": "Translation is uniform: every point moves (−5, +4). So (6,2) → (1,6). Any other vertex (x,y) becomes (x−5, y+4). Option C: (1,2) would require original point (1+5, 2−4) = (6, −2) — but y = −2 is not in the first quadrant (Year 4 only uses positive coordinates). Also, (1,2) differs from (1,6) by (0,−4), not (−5,+4), so it’s not reachable by the same translation from any first-quadrant point. Hence, C cannot be a vertex.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which statement is FALSE about the point (5, 3)?",
@@ -2901,7 +3164,8 @@
 "D": "It lies on the same horizontal line as (3, 5)."},
 "answer": "D",
 "details": "A: True — x = 5 means 5 right of y-axis. B: True — y = 3 means 3 above x-axis. C: 5−2=3, 3+2=5 → (3,5), true. D: (5,3) has y=3; (3,5) has y=5. Same horizontal line requires equal y-coordinates — false. So D is false.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A shape is translated so that point (2, 6) moves to (7, 3). What translation was applied?",
@@ -2912,7 +3176,8 @@
 "D": "5 left, 3 up"},
 "answer": "C",
 "details": "x: 2 → 7 is +5 (5 right). y: 6 → 3 is −3 (3 down). So translation is 5 right, 3 down.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Three vertices of a rectangle are at (2, 1), (2, 5), and (6, 5). What is the sum of the x- and y-coordinates of the fourth vertex?",
@@ -2923,7 +3188,8 @@
 "D": "11"},
 "answer": "B",
 "details": "Missing vertex must align with (2,1) horizontally and (6,5) vertically → (6,1). Sum = 6 + 1 = 7? Wait — check: (2,1) to (2,5) vertical, (2,5) to (6,5) horizontal, so fourth vertex is (6,1). x+y = 6+1 = 7 → but 7 is option A. However, reconsider: is order correct? Alternative: could the rectangle be (2,1), (6,5), (2,5)? No — (2,1), (2,5), (6,5) implies right angle at (2,5). So opposite corner is (6,1). But let’s verify distances: (2,1)-(2,5)=4, (2,5)-(6,5)=4, (6,5)-(6,1)=4, (6,1)-(2,1)=4 → actually a square. Still, fourth vertex (6,1), sum=7. But option A is 7 — why is answer B? Re-express: perhaps misreading. Wait — question says 'sum of x- and y-coordinates' → 6 + 1 = 7. But option A is 7. So why answer B? Mistake? Let’s double-check coordinates. Points: (2,1), (2,5), (6,5). To form rectangle, fourth point must share x with (6,5) and y with (2,1) → (6,1). Yes. Sum = 6 + 1 = 7. So correct answer should be A. But to ensure 'hard', perhaps trick: maybe vertices not in order? Alternative rectangle: if (2,1) and (6,5) are diagonal, then midpoint is ((2+6)/2, (1+5)/2) = (4,3). Then other diagonal: (2,5) and (?) must also midpoint (4,3) → let fourth be (x,y): (2+x)/2=4 → x=6; (5+y)/2=3 → y=1 → again (6,1). So definitely (6,1), sum=7. But original plan was answer B=9. To fix: adjust question to avoid ambiguity. Revised question: 'Three vertices of a rectangle are at (1,2), (4,2), and (1,6). What is the sum...?' Then fourth is (4,6), sum=10 → C. But to stay accurate, I’ll correct this question to reflect true logic. Let’s fix: use (1,2), (1,6), (5,6) → fourth (5,2), sum=7? Still 7. Instead: use (3,1), (3,5), (7,5) → fourth (7,1), sum=8 — not in options. Better: use (2,3), (2,7), (5,7) → fourth (5,3) → 5+3=8. Still not matching. Alternatively, make answer 9: e.g., (1,2), (1,5), (4,5) → fourth (4,2) → 4+2=6. No. (3,2), (3,6), (6,6) → (6,2) → 6+2=8. To get 9: (4,5) → 4+5=9. So set fourth vertex as (4,5). How? Given (1,2), (1,5), (4,2) → then fourth is (4,5). Yes! So revise question accordingly:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Three vertices of a rectangle are at (1, 2), (1, 5), and (4, 2). What is the sum of the x- and y-coordinates of the fourth vertex?",
@@ -2934,7 +3200,8 @@
 "D": "8"},
 "answer": "B",
 "details": "Points: (1,2) and (1,5) share x=1 (vertical side). (1,2) and (4,2) share y=2 (horizontal side). So right angle at (1,2). The fourth vertex must share x=4 (from (4,2)) and y=5 (from (1,5)) → (4,5). Sum = 4 + 5 = 9.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A point starts at (4, 7). It moves 3 units left, then 2 units down, then 5 units right. Where does it end?",
@@ -2945,7 +3212,8 @@
 "D": "(9, 5)"},
 "answer": "A",
 "details": "Start (4,7). 3 left → (1,7). 2 down → (1,5). 5 right → (6,5). Final position: (6,5).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which pair of points are NOT the same distance from the origin (0,0)?",
@@ -2956,7 +3224,8 @@
 "D": "(1, 7) and (3, 5)"},
 "answer": "D",
 "details": "Distance squared from origin: A: 3²+4²=25, 4²+3²=25 → same. B: 25+0=25, 0+25=25 → same. C: 4+36=40, 36+4=40 → same. D: 1+49=50, 9+25=34 → different. So D is correct (they are not equal).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A shape has vertices at (2,3), (5,3), (5,6), and (2,6). After a translation of 1 unit left and 2 units up, what are the new coordinates of the top-right vertex?",
@@ -2967,7 +3236,8 @@
 "D": "(6, 4)"},
 "answer": "A",
 "details": "Original top-right vertex is (5,6) (largest x and y). Translate: 1 left → x=5−1=4; 2 up → y=6+2=8. So (4,8).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point X is at (a, b). After moving 4 units right and 3 units down, it lands at (9, 2). What are a and b?",
@@ -2978,7 +3248,8 @@
 "D": "a = 13, b = −1"},
 "answer": "A",
 "details": "Final x = a + 4 = 9 → a = 5. Final y = b − 3 = 2 → b = 5. So (5,5). Note: b=5 is in first quadrant (valid for Year 4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which translation moves the point (3, 8) to the same location as translating (6, 5) by 2 left and 4 up?",
@@ -2989,7 +3260,8 @@
 "D": "1 right, 1 down"},
 "answer": "B",
 "details": "First, find target: (6,5) → 2 left → x=4; 4 up → y=9. So target = (4,9). Now, what moves (3,8) to (4,9)? x: 3→4 = +1 (1 right). y: 8→9 = +1 (1 up). But options say '1 left, 1 up' is B — wait, that’s (−1,+1). Correction: +1 right, +1 up is not listed. Options: A (5R,3D), B (1L,1U), C (5L,3U), D (1R,1D). None say 1R,1U. So error. Fix: adjust target. Revised: Let translation of (6,5) be 1 left and 4 up → (5,9). Then (3,8) → (5,9): +2 right, +1 up — still not matching. Better: use (6,5) translated 1 right and 1 up → (7,6). Then (3,8) to (7,6)? +4R, −2D — no. Let’s set: Translate (6,5) by 1 left and 1 up → (5,6). Now, (3,8) to (5,6) is +2R, −2D. Still not. To match option B (1L,1U), target should be (2,9). So: (6,5) + (−1,+4) = (5,9) — no. Instead, define: Translate (7,4) by 3 left and 5 up → (4,9). Then (3,8) → (4,9) is +1R,+1U — not B. Since B is '1 left, 1 up', target from (3,8) would be (2,9). So set other point to reach (2,9): e.g., (4,5) + (−2,+4) = (2,9). Then question: 'Which translation moves (3,8) to the same location as translating (4,5) by 2 left and 4 up?' Then (4,5)→(2,9); (3,8)→(2,9) is 1 left, 1 up → B. So revised question:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which translation moves the point (3, 8) to the same location as translating (4, 5) by 2 units left and 4 units up?",
@@ -3000,7 +3272,8 @@
 "D": "1 right, 1 up"},
 "answer": "B",
 "details": "First, translate (4,5): 2 left → x=2; 4 up → y=9. So target = (2,9). Now, (3,8) to (2,9): x: 3→2 = −1 (1 left); y: 8→9 = +1 (1 up). So translation is 1 left, 1 up.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A pentagon has vertices at (1,1), (3,1), (4,3), (2,5), and (0,3). Which vertex is highest (greatest y-coordinate)?",
@@ -3011,7 +3284,8 @@
 "D": "(2,5)"},
 "answer": "D",
 "details": "Compare y-values: (1,1)→y=1; (3,1)→y=1; (4,3)→y=3; (2,5)→y=5; (0,3)→y=3. Highest y is 5, at (2,5).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Starting from (5, 4), a robot moves: up 3, right 2, down 5, left 1. Where does it end?",
@@ -3022,7 +3296,8 @@
 "D": "(4, 2)"},
 "answer": "A",
 "details": "Start (5,4). Up 3 → (5,7). Right 2 → (7,7). Down 5 → (7,2). Left 1 → (6,2). Final: (6,2). y=2 > 0, so in first quadrant.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which set of points forms a right-angled triangle with the right angle at (3, 3)?",
@@ -3033,7 +3308,8 @@
 "D": "(3,3), (3,6), (6,6)"},
 "answer": "A",
 "details": "For right angle at (3,3), the two sides from it must be horizontal and vertical. A: (3,3) to (6,3) is horizontal; (3,3) to (3,7) is vertical → right angle at (3,3). B: diagonal lines; C: (3,3)-(4,4) diagonal, (3,3)-(2,4) slope −1 — not perpendicular. D: right angle at (3,6), not (3,3). So A is correct.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A shape is translated so that (2, 2) → (5, 6). Which point moves to (8, 9)?",
@@ -3044,7 +3320,8 @@
 "D": "(6, 7)"},
 "answer": "A",
 "details": "Translation vector: (5−2, 6−2) = (+3, +4). To find original point that lands at (8,9), reverse the translation: (8−3, 9−4) = (5,5).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Points (1,4), (4,4), (4,1), and (1,1) form a square. If only the y-coordinates are doubled, what shape is formed?",
@@ -3055,7 +3332,8 @@
 "D": "Parallelogram (not rectangle)"},
 "answer": "B",
 "details": "New points: (1,8), (4,8), (4,2), (1,2). Width: 4−1=3. Height: 8−2=6. All angles still 90°, opposite sides equal → rectangle (not square, since 3 ≠ 6).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is equidistant from (2, 1) and (6, 1) AND lies on the line y = 4?",
@@ -3066,7 +3344,8 @@
 "D": "(4, 1)"},
 "answer": "A",
 "details": "(2,1) and (6,1) are horizontal; midpoint is ((2+6)/2, (1+1)/2) = (4,1). Points equidistant lie on perpendicular bisector: vertical line x=4. Intersect with y=4 → (4,4). Check distances: to (2,1): √[(2)²+(3)²]=√13; to (6,1): same. So A is correct.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (0, 0), (0, 5), and (x, 0). Its area is 15 square units. What is x?",
@@ -3077,7 +3356,8 @@
 "D": "10"},
 "answer": "C",
 "details": "Base along x-axis: from (0,0) to (x,0) → length = x. Height = vertical distance from (0,5) to x-axis = 5. Area = ½ × base × height = ½ × x × 5 = (5x)/2. Set equal to 15: (5x)/2 = 15 → 5x = 30 → x = 6.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "After a translation, point (3, 7) becomes (1, 4). What are the new coordinates of (5, 9) under the same translation?",
@@ -3088,7 +3368,8 @@
 "D": "(7, 6)"},
 "answer": "A",
 "details": "Translation: x: 3→1 = −2; y: 7→4 = −3. So vector = (−2, −3). Apply to (5,9): 5−2=3, 9−3=6 → (3,6).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Four points are: A(1,3), B(4,3), C(5,6), D(2,6). When joined A→B→C→D→A, what shape is formed?",
@@ -3099,7 +3380,8 @@
 "D": "Parallelogram (not rectangle)"},
 "answer": "D",
 "details": "AB: (1,3)→(4,3): right 3. BC: (4,3)→(5,6): right 1, up 3. CD: (5,6)→(2,6): left 3. DA: (2,6)→(1,3): left 1, down 3. Opposite sides equal and parallel, but angles not 90° (slopes: AB=0, BC=3/1=3 — not perpendicular). So parallelogram, not rectangle.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which movement from (4, 5) results in a point with x-coordinate equal to y-coordinate?",
@@ -3110,7 +3392,8 @@
 "D": "2 right, 3 up"},
 "answer": "B",
 "details": "Check each: A: (6,4) → 6≠4. B: (3,3) → 3=3 ✓. C: (1,7) → 1≠7. D: (6,8) → 6≠8. So B is correct.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (2, 1), (2, 4), (x, 4), and (x, 1). The perimeter is 14 units. What is x?",
@@ -3121,7 +3404,8 @@
 "D": "7"},
 "answer": "B",
 "details": "Height = 4−1 = 3. Width = |x − 2|. Perimeter = 2×(width + height) = 2×(|x−2| + 3) = 14 → |x−2| + 3 = 7 → |x−2| = 4. Since x > 2 (first quadrant, rectangle extends right), x−2 = 4 → x = 6? Wait: 2×(w + 3)=14 → w+3=7 → w=4 → x=2+4=6. But option C is 6. Yet answer listed B=5. Fix: set perimeter=12 → w+3=6 → w=3 → x=5. So revise question:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (2, 1), (2, 4), (x, 4), and (x, 1). The perimeter is 12 units. What is x?",
@@ -3132,7 +3416,8 @@
 "D": "7"},
 "answer": "B",
 "details": "Height = 4 − 1 = 3. Let width = w = x − 2 (x > 2). Perimeter = 2(w + 3) = 12 → w + 3 = 6 → w = 3 → x = 2 + 3 = 5.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point P is at (6, 2). It is reflected over the line x = 4. Where is the image?",
@@ -3143,7 +3428,8 @@
 "D": "(8, 2)"},
 "answer": "A",
 "details": "Reflection over vertical line x=4: distance from P to line = 6 − 4 = 2 units right. So image is 2 units left of line: x = 4 − 2 = 2. y unchanged = 2. So (2,2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which sequence of moves from (3, 5) ends closest to the origin?",
@@ -3154,7 +3440,8 @@
 "D": "3 left, 2 down"},
 "answer": "D",
 "details": "Compute final points and distance² to (0,0): A: (1,2) → 1+4=5. B: (−1,4) → invalid (x negative), but if allowed: 1+16=17. C: (4,1) → 16+1=17. D: (0,3) → 0+9=9. Wait — (0,3) is on y-axis, allowed? Year 4 first quadrant includes axes (x≥0, y≥0). Distance²=9. But A is 5, smaller. So A is closer. Contradiction. To fix: avoid axis or adjust. Revised moves: A: 3L,3D → (0,2) → d²=4. B: 4L,2D → (−1,3) invalid. C: 2R,5D → (5,0) → d²=25. D: 3L,2D → (0,3) → d²=9. Then A is closest. But to make D correct, set: A: 2L,4D → (1,1) d²=2. Too small. Instead, remove negatives: ensure all moves stay in first quadrant. Final positions: A: (1,2), B: (−1,4) invalid — discard B. Rethink: use only valid first-quadrant results. Let’s require all options to stay in first quadrant. Revised options: A: 1L,3D → (2,2) d²=8. B: 2L,2D → (1,3) d²=10. C: 3L,1D → (0,4) d²=16. D: 2L,3D → (1,2) d²=5. Then D is closest. So adjust question:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which sequence of moves from (3, 5) ends closest to the origin, staying in the first quadrant?",
@@ -3165,7 +3452,8 @@
 "D": "2 left, 3 down → (1, 2)"},
 "answer": "D",
 "details": "All final points are in first quadrant (x≥0, y≥0). Distance squared to (0,0): A: 2²+2²=8, B: 1²+3²=10, C: 0²+4²=16, D: 1²+2²=5. Smallest is 5 → D is closest.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A line segment joins (1, 2) and (7, 8). Which point lies exactly halfway?",
@@ -3176,7 +3464,8 @@
 "D": "(6, 7)"},
 "answer": "B",
 "details": "Midpoint = average of coordinates: x = (1+7)/2 = 4, y = (2+8)/2 = 5 → (4,5).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A shape is translated so that (1, 1) moves to (4, 5). Which point moves to (7, 8)?",
@@ -3187,7 +3476,8 @@
 "D": "(5, 5)"},
 "answer": "B",
 "details": "Translation vector = (4−1, 5−1) = (+3, +4). To find original point that becomes (7,8), subtract the vector: (7−3, 8−4) = (4,4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which set of points, when joined in order, forms a parallelogram but NOT a rectangle?",
@@ -3198,7 +3488,8 @@
 "D": "(0,2), (3,2), (4,5), (1,5)"},
 "answer": "A",
 "details": "A: AB = (3,0), DC = (5−2,5−5)=(3,0); AD = (1,3), BC = (1,3) → opposite sides equal & parallel. Slope AB = 0, AD = 3/1 = 3 → not perpendicular → not rectangle. B is rectangle. C has negative x (invalid for Year 4 focus). D is same as A (shifted), also parallelogram not rectangle — but A is valid and listed first. However, D also works. To ensure uniqueness, verify: A: (1,2)→(4,2)→(5,5)→(2,5)→(1,2). Vectors: AB=(3,0), BC=(1,3), CD=(−3,0), DA=(−1,−3). Yes. D: (0,2)→(3,2)→(4,5)→(1,5)→(0,2): same shape. But since both A and D are correct, revise D to be invalid: change D to (0,2), (3,2), (3,5), (0,5) → rectangle. So updated D is rectangle. Then only A is non-rectangle parallelogram.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Revised D for clarity: Which set of points, when joined in order, forms a parallelogram but NOT a rectangle?",
@@ -3209,7 +3500,8 @@
 "D": "(1,3), (4,3), (4,6), (1,6)"},
 "answer": "A",
 "details": "A: As above — parallelogram, angles not 90°. B: rectangle. C: Check vectors: (1,1)→(4,1)=(3,0); (4,1)→(3,4)=(−1,3); not parallel to next side → not parallelogram. D: rectangle. So only A fits.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Starting at (5, 3), move to (2, 7). What single translation describes this?",
@@ -3220,7 +3512,8 @@
 "D": "2 right, 7 up"},
 "answer": "A",
 "details": "x: 5 → 2 = −3 (3 left). y: 3 → 7 = +4 (4 up). So 3 left, 4 up.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A square has side length 4 units. One vertex is at (2, 3), and the square extends right and up. What are the coordinates of the opposite vertex (diagonally across)?",
@@ -3231,7 +3524,8 @@
 "D": "(4, 5)"},
 "answer": "C",
 "details": "From (2,3), moving right 4 → x=6; up 4 → y=7. Opposite vertex is (6,7). (Note: adjacent vertices would be (6,3) and (2,7); opposite is (6,7).)",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point M is at (x, y). After a translation of 3 units right and 2 units down, it is at (8, 4). What is the value of x + y?",
@@ -3242,7 +3536,8 @@
 "D": "12"},
 "answer": "C",
 "details": "Final x = x + 3 = 8 → x = 5. Final y = y − 2 = 4 → y = 6. So x + y = 5 + 6 = 11.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which two points are exactly 5 units apart?",
@@ -3253,7 +3548,8 @@
 "D": "(3,2) and (6,5)"},
 "answer": "C",
 "details": "Use distance squared (avoiding sqrt): A: (3)²+(4)²=9+16=25 → √25=5 ✓. Wait — A also works. C: (3)²+(4)²=25 → also 5. So both A and C. To fix: adjust A to (1,1) and (5,4): Δx=4, Δy=3 → 16+9=25 → still 5. Instead, make A: (1,1) and (4,4): Δx=3, Δy=3 → 18 → not 5. Revised A: (1,2) and (4,6): Δx=3, Δy=4 → 25 → still 5. To ensure only one correct, use Pythagorean triples: (0,0)-(3,4)=5; (1,1)-(5,4)=√(16+9)=5 — same. So include both? But MCQ requires one answer. Solution: use non-integer distance for others. Revised options: A: (1,1)-(5,3): Δx=4, Δy=2 → √20. B: (2,3)-(6,6): Δx=4, Δy=3 → 5. C: (0,0)-(3,4)=5. D: (1,2)-(4,5): Δx=3, Δy=3 → √18. Now B and C both 5. Final fix: make C: (0,0)-(5,0)=5 (horizontal), and B: (2,3)-(5,7)=√(9+16)=5 — still two. Best: use only one Pythagorean triple and others not. Set: A: (1,1)-(4,5): 3&4 → 5. B: (2,2)-(5,5): 3&3 → √18. C: (0,1)-(3,5): 3&4 → 5. Still two. Instead, use (0,0)-(5,0) as C → distance 5, horizontal. Then A: (1,1)-(5,3): √(16+4)=√20. B: (3,1)-(3,6)=5 vertical. Now A: no, B: yes, C: yes. Solution: specify “diagonally 5 units” — but curriculum doesn’t require that. Better: accept that (3,4,5) is key, and make only one option use it with integer steps. Final decision: use C as (0,0)-(3,4), and change A to (1,2)-(4,5): Δx=3, Δy=3 → √18 ≠5. B: (2,3)-(6,7): Δx=4, Δy=4 → √32. D: (1,0)-(4,0)=3. Then only C is 5.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Revised: Which two points are exactly 5 units apart?",
@@ -3264,7 +3560,8 @@
 "D": "(5, 1) and (5, 5)"},
 "answer": "C",
 "details": "Distance = √[(x₂−x₁)² + (y₂−y₁)²]. A: √[(3)²+(3)²] = √18 ≈ 4.24. B: √[16+16] = √32 ≈ 5.66. C: √[9+16] = √25 = 5. D: √[0+16] = 4. Only C is exactly 5.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (2, 2), (5, 2), and (x, 5). Its area is 9 square units. What is x?",
@@ -3275,7 +3572,8 @@
 "D": "9"},
 "answer": "C",
 "details": "Base from (2,2) to (5,2) = 3 units. Height = vertical distance from (x,5) to base line y=2 → |5−2| = 3. Area = ½ × base × height = ½ × 3 × 3 = 4.5 — too small. Wait, area given is 9. So ½ × 3 × h = 9 → h = 6. So y-difference must be 6 → 5−2=3 ≠6. So base is not that side. Use base as vertical? Alternatively, use shoelace formula: Area = ½ |(2(2−5) + 5(5−2) + x(2−2))| = ½ |2(−3) + 5(3) + 0| = ½ |−6+15| = 4.5 — independent of x? No — third term is x(2−2)=0. So area fixed? That can’t be. Mistake: points (2,2), (5,2), (x,5). The height is always 3 (y=5 to y=2), base is 3, area always 4.5. To have area 9, height must be 6: so third point at y=8: (x,8). But question says y=5. Fix: change third point to (x, 8). Or change base. Revised question:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (1, 1), (7, 1), and (x, 5). Its area is 12 square units. What is x?",
@@ -3286,7 +3584,8 @@
 "D": "Any x — area is always 12"},
 "answer": "D",
 "details": "Base from (1,1) to (7,1) = 6 units. Height = vertical distance from (x,5) to line y=1 = |5−1| = 4. Area = ½ × 6 × 4 = 12 — independent of x. So for any x, area is 12.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "After translating a shape, (3, 4) → (6, 1). Which point was originally at (9, −2)?",
@@ -3297,7 +3596,8 @@
 "D": "(12, 1)"},
 "answer": "B",
 "details": "Translation vector = (6−3, 1−4) = (+3, −3). To find original point that becomes (9,−2), reverse the vector: (9−3, −2−(−3)) = (6, 1)? Wait: final = original + vector → original = final − vector = (9−3, −2−(−3)) = (6, 1). But (6,1) is option A. Yet (9,−2) has y<0 — not in first quadrant. Year 4 only uses first quadrant, so original point must also be in first quadrant. (6,1) is valid. But question asks 'which point was originally at (9,−2)' — wording error. Should be: 'Which point moves to (9, −2)?' But y<0 invalid. Revised: use positive target. Final target (9,4). Vector (+3,−3). Original = (9−3, 4−(−3))? No: final = orig + (3,−3) → orig = (9−3, 4+3) = (6,7). Then options include (6,7). So revised question:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "After translating a shape, (2, 5) → (6, 2). Which point moves to (9, 4)?",
@@ -3308,7 +3608,8 @@
 "D": "(13, 7)"},
 "answer": "A",
 "details": "Translation vector = (6−2, 2−5) = (+4, −3). Let original point be (x,y). Then x + 4 = 9 → x = 5; y − 3 = 4 → y = 7. So (5,7).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Points A(1,1), B(4,2), C(3,5), D(0,4) are joined in order. What is the length of side AB?",
@@ -3319,7 +3620,8 @@
 "D": "√13"},
 "answer": "B",
 "details": "A(1,1) to B(4,2): Δx = 3, Δy = 1. Length = √(3² + 1²) = √(9+1) = √10.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has one vertex at (2, 3) and the opposite vertex at (7, 8). What is the perimeter?",
@@ -3330,7 +3632,8 @@
 "D": "24"},
 "answer": "B",
 "details": "Width = 7−2 = 5. Height = 8−3 = 5. So it's a square! Perimeter = 4 × 5 = 20.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is 5 units from (3, 1) and 5 units from (3, 9)?",
@@ -3341,7 +3644,8 @@
 "D": "Both B and C"},
 "answer": "D",
 "details": "Points equidistant from (3,1) and (3,9) lie on perpendicular bisector: horizontal line y = (1+9)/2 = 5. Distance to each: for (x,5), distance to (3,1) = √[(x−3)² + 16] = 5 → (x−3)² + 16 = 25 → (x−3)² = 9 → x = 0 or 6? Wait: 9 → x−3 = ±3 → x = 6 or 0. But options: B (−1,5): (−4)²+16=16+16=32≠25. C (7,5): (4)²+16=32. Mistake. Recalculate: set √[(x−3)² + (5−1)²] = 5 → (x−3)² + 16 = 25 → (x−3)² = 9 → x = 6 or 0. So (0,5) and (6,5). But options don’t have them. To fix: change target distance to √13. Or change points. Revised: distance 5 from (0,1) and (6,1). Then midpoint (3,1), perpendicular bisector x=3. Distance: √[(3−0)² + (y−1)²] = 5 → 9 + (y−1)² = 25 → (y−1)²=16 → y=5 or −3. So (3,5). Then A is correct. Revised question:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is 5 units from (0, 1) and 5 units from (6, 1)?",
@@ -3352,7 +3656,8 @@
 "D": "Both A and B"},
 "answer": "D",
 "details": "Both points lie on perpendicular bisector x = 3. Distance from (3,5) to (0,1): √[(3)² + (4)²] = 5. To (6,1): same. (3,−3): √[3² + (−4)²] = 5. Though (3,−3) is not in first quadrant, the question doesn’t restrict location — and Year 4 may consider it. But to stay first-quadrant focused, add ‘in the first quadrant’. Revised: ‘Which point in the first quadrant…’ → then only A.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point in the first quadrant is 5 units from (0, 1) and 5 units from (6, 1)?",
@@ -3363,7 +3668,8 @@
 "D": "(0, 6)"},
 "answer": "A",
 "details": "As above, (3,5) and (3,−3) are equidistant. Only (3,5) has x≥0, y≥0 → first quadrant.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A shape is moved 4 units right, then 3 units up, then 4 units left. What single translation is equivalent?",
@@ -3374,7 +3680,8 @@
 "D": "No movement"},
 "answer": "A",
 "details": "Right 4 + left 4 = 0 horizontal. Up 3 = net +3 vertical. So equivalent to 3 units up.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which polygon has vertices at (1,2), (3,5), (5,5), (7,2), and (4,0)?",
@@ -3385,7 +3692,8 @@
 "D": "Triangle"},
 "answer": "A",
 "details": "5 distinct vertices listed → pentagon.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point P is at (5, 6). After a translation, it is at (2, 9). What translation was applied?",
@@ -3396,7 +3704,8 @@
 "D": "3 left, 3 down"},
 "answer": "A",
 "details": "x: 5 → 2 = −3 (3 left). y: 6 → 9 = +3 (3 up).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Three vertices of a parallelogram are (1, 2), (4, 2), and (2, 5). What are the coordinates of the fourth vertex?",
@@ -3407,7 +3716,8 @@
 "D": "(5, −1)"},
 "answer": "A",
 "details": "In a parallelogram, diagonals bisect each other. Midpoint of (1,2) and (2,5) = (1.5, 3.5). So midpoint of (4,2) and (x,y) must also be (1.5,3.5): (4+x)/2=1.5 → x=−1; (2+y)/2=3.5 → y=5 → (−1,5) — B. Alternatively, if (1,2) & (4,2) are adjacent, and (2,5) is adjacent to (1,2), then vector (1,2)→(2,5)=(1,3), so from (4,2) add (1,3) → (5,5) — A. Both are possible depending on order. To fix: specify order. Revised: ‘Vertices A(1,2), B(4,2), C(2,5) are consecutive.’ Then vector AB=(3,0), so BC should equal AD. AB = (3,0), BC = (−2,3), so D = A + BC = (1−2,2+3)=(−1,5). Or D = C + AB = (2+3,5+0)=(5,5). Two possibilities. Year 4 expects the ‘completion’ method: from (4,2), move same as from (1,2) to (2,5): +1 right, +3 up → (5,5). So A is intended.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Consecutive vertices of a parallelogram are (1, 2), (4, 2), and (2, 5). What are the coordinates of the fourth vertex?",
@@ -3418,7 +3728,8 @@
 "D": "(0, 3)"},
 "answer": "A",
 "details": "From (1,2) to (2,5) is vector (+1, +3). To get fourth vertex from (4,2), apply same vector: (4+1, 2+3) = (5,5). Alternatively, from (4,2) to (2,5) is (−2, +3), so from (1,2) add (−2,+3) = (−1,5). But if vertices are consecutive A-B-C, then sides AB and BC, so fourth D = A + BC = (1−2, 2+3) = (−1,5) — B. Conflict. Curriculum guidance: ‘plot points and draw sides to complete polygon’ implies joining in order and closing shape. Plotting (1,2)→(4,2)→(2,5), the missing point to close is (−1,5)? But negative. To ensure first quadrant, use different points. Final fix: use (2,1), (5,1), (3,4). Then fourth = (0,4) or (6,4). Choose (6,4) — positive. Revised question:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Consecutive vertices of a parallelogram are (2, 1), (5, 1), and (3, 4). What are the coordinates of the fourth vertex in the first quadrant?",
@@ -3429,7 +3740,8 @@
 "D": "(1, 4)"},
 "answer": "B",
 "details": "Vector from (2,1) to (3,4) = (+1, +3). Apply to (5,1): (5+1, 1+3) = (6,4). Check: (2,1)→(5,1)→(3,4)→(6,4)→(2,1)? No — should be (5,1)→(3,4)→(x,y)→(2,1). Better: in parallelogram ABCD, AB = DC. AB = (3,0). So if A(2,1), B(5,1), C(3,4), then D = C − AB = (3−3,4−0) = (0,4) — A. Or D = A + (C−B) = (2 + (−2), 1+3) = (0,4). So A is correct, but (0,4) is on axis — allowed. To get positive x, use C(4,4). Then D = (4−3,4) = (1,4) — D. Revised again: use A(1,1), B(4,1), C(5,4). Then D = (1+1,1+3)=(2,4) or (5−3,4)=(2,4). So (2,4). Not in options. Let’s set answer (6,4) via: A(3,2), B(6,2), C(4,5) → D = (4+3,5)=(7,5) or (6−2,2+3)=(4,5) no. Accept (0,4) as valid (x=0 allowed in first quadrant). So original question stands with A=(0,4). But option A is (0,4). So answer A. Yet earlier I said B. Correction: for (2,1), (5,1), (3,4), fourth vertex is (0,4). So:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Consecutive vertices of a parallelogram are (2, 1), (5, 1), and (3, 4). What are the coordinates of the fourth vertex?",
@@ -3440,7 +3752,8 @@
 "D": "(4, 1)"},
 "answer": "A",
 "details": "Using vector addition: from B(5,1) to C(3,4) is (−2, +3). So from A(2,1), add same vector: (2−2, 1+3) = (0,4). Or, midpoint of AC = ((2+3)/2, (1+4)/2) = (2.5, 2.5); so D must satisfy midpoint of BD = (2.5,2.5): ((5+x)/2, (1+y)/2) = (2.5,2.5) → x=0, y=4. So (0,4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A point moves from (4, 3) to (7, 8). Then it moves the same distance and direction again. Where does it end?",
@@ -3451,7 +3764,8 @@
 "D": "(11, 13)"},
 "answer": "A",
 "details": "First move: +3 right, +5 up. Apply again: (7+3, 8+5) = (10,13).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is NOT a vertex of the rectangle with opposite corners at (1, 2) and (5, 6)?",
@@ -3462,7 +3776,8 @@
 "D": "(1, 2)"},
 "answer": "C",
 "details": "Rectangle vertices: (1,2), (5,2), (5,6), (1,6). (3,4) is the centre (midpoint), not a vertex.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A shape is translated 2 units left and 4 units up. Which point moves from the x-axis to the line y = 5?",
@@ -3473,7 +3788,8 @@
 "D": "(6, 1)"},
 "answer": "A",
 "details": "Start on x-axis → y=0. After +4 up, y=4. But question says ends at y=5. Contradiction. Fix: ‘moves to the line y=4’. Or start at y=1: 1+4=5. So points with y=1. All options have y=1. After translation: y=5. x: original x − 2. No restriction on x. So all move to y=5. But question asks ‘which point’ — implies one. Perhaps only one stays in first quadrant? All do. Revised: ‘moves from the x-axis (y=0) to y=4’. Then original y=0. Options should have y=0. So revise options to y=0. Final: options A: (3,0), etc. Then all move to y=4. Still multiple. Better: ‘starts at (x, 0) and ends at (1, 4)’. Then x−2=1 → x=3. So A: (3,0). Revised question:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A shape is translated 2 units left and 4 units up. Which point moves to (1, 4)?",
@@ -3484,7 +3800,8 @@
 "D": "(1, 0)"},
 "answer": "A",
 "details": "Let original be (x,y). After translation: (x−2, y+4) = (1,4). So x−2=1 → x=3; y+4=4 → y=0. So (3,0).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "The points (2, 3), (5, 3), and (2, 7) are three vertices of a rectangle. What is the area?",
@@ -3495,7 +3812,8 @@
 "D": "16"},
 "answer": "B",
 "details": "Missing vertex is (5,7). Width = 5−2 = 3. Height = 7−3 = 4. Area = 3 × 4 = 12.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which translation maps triangle with vertices (1,1), (2,3), (4,2) onto triangle (4,0), (5,2), (7,1)?",
@@ -3506,7 +3824,8 @@
 "D": "1 right, 2 down"},
 "answer": "A",
 "details": "Check (1,1) → (4,0): +3, −1. (2,3) → (5,2): +3, −1. (4,2) → (7,1): +3, −1. So 3 right, 1 down.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A robot starts at (0, 0). It moves: right 4, up 3, left 1, down 2, right 2, up 1. Where is it?",
@@ -3517,7 +3836,8 @@
 "D": "(6, 3)"},
 "answer": "A",
 "details": "x: 0+4−1+2 = 5. y: 0+3−2+1 = 2. So (5,2).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is farthest from (3, 3)?",
@@ -3528,7 +3848,8 @@
 "D": "(7, 7)"},
 "answer": "D",
 "details": "Distance squared: A: 9+0=9. B: 0+16=16. C: 9+9=18. D: 16+16=32. Largest is D.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A square has vertices at (1, 2), (4, 2), (4, 5), and (1, 5). After a translation of 2 left and 3 up, what are the new coordinates of the bottom-left vertex?",
@@ -3539,7 +3860,8 @@
 "D": "(3, 5)"},
 "answer": "A",
 "details": "Original bottom-left = (1,2) (smallest x and y). Translate: 1−2=−1, 2+3=5 → (−1,5). Though x<0, the question doesn’t restrict, and translation can move outside first quadrant.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Points (1, 4), (4, 1), and (7, 4) form an isosceles triangle. What is the length of the equal sides?",
@@ -3550,7 +3872,8 @@
 "D": "√9"},
 "answer": "B",
 "details": "Distance (1,4) to (4,1): √[(3)²+(−3)²] = √18. (4,1) to (7,4): same. (1,4) to (7,4) = 6. So equal sides = √18.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which movement from (5, 6) results in a point where the x-coordinate is twice the y-coordinate?",
@@ -3561,7 +3884,8 @@
 "D": "4 left, 2 down"},
 "answer": "D",
 "details": "Check: A: (4,4) → 4≠8. B: (2,5) → 2≠10. C: (7,3) → 7≠6. D: (1,4) → 1≠8. None. Fix: need x=2y. Try (2,1), (4,2), etc. From (5,6), want (x,y) with x=2y. e.g., (4,2): need −1, −4. Not listed. (6,3): +1, −3. Add option: E — but only 4. Revised options: A: 1 left, 4 down → (4,2) → 4=2×2 ✓. So set A to that. Final:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which movement from (5, 6) results in a point where the x-coordinate is twice the y-coordinate?",
@@ -3572,7 +3896,8 @@
 "D": "0, 5 down"},
 "answer": "A",
 "details": "A: (5−1, 6−4) = (4,2). 4 = 2 × 2 → true. B: (3,3) → 3≠6. C: (8,7) → 8≠14. D: (5,1) → 5≠2.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A line passes through (2, 1) and (5, 7). Which point also lies on this line?",
@@ -3583,7 +3908,8 @@
 "D": "All of the above"},
 "answer": "D",
 "details": "Slope = (7−1)/(5−2) = 6/3 = 2. Equation: y−1 = 2(x−2) → y = 2x − 3. Check: A: x=3 → y=3 ✓. B: x=4 → y=5 ✓. C: x=1 → y=−1 ✓. So all lie on the line.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "The perimeter of a rectangle is 20 units. One vertex is at (1, 1), and it extends right and up. Which could be the opposite vertex?",
@@ -3594,7 +3920,8 @@
 "D": "(3, 6)"},
 "answer": "B",
 "details": "Let opposite vertex be (x,y), x>1, y>1. Width = x−1, height = y−1. Perimeter = 2[(x−1)+(y−1)] = 2(x+y−2) = 20 → x+y−2 = 10 → x+y = 12. A: 5+4=9. B:6+3=9? No. 6+3=9≠12. Fix: set perimeter=18 → x+y−2=9 → x+y=11. B:6+3=9 no. To get x+y=12: (5,7), (6,6), (7,5), (8,4), (9,3), (10,2). So (6,6): not listed. Add (6,6) as option. Or change A to (5,7). Revised: A(5,7):5+7=12. Then A correct. Final:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "The perimeter of a rectangle is 20 units. One vertex is at (1, 1), and it extends right and up. Which could be the opposite vertex?",
@@ -3605,7 +3932,8 @@
 "D": "(3, 8)"},
 "answer": "A",
 "details": "Width = x−1, height = y−1. Perimeter = 2(w + h) = 20 → w + h = 10. A: w=4, h=6 → 4+6=10 ✓. B:5+4=9. C:3+5=8. D:2+7=9.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point R is at (a, b). After moving 5 units right and 2 units down, it is at (9, 3). What is the value of 2a + b?",
@@ -3616,7 +3944,8 @@
 "D": "15"},
 "answer": "D",
 "details": "a + 5 = 9 → a = 4. b − 2 = 3 → b = 5. So 2a + b = 8 + 5 = 13? Wait — 8+5=13 → B. But answer says D. Recalculate: a=4, b=5, 2a+b=8+5=13. So answer B. Typo. Correct answer is B.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point R is at (a, b). After moving 5 units right and 2 units down, it is at (9, 3). What is the value of 2a + b?",
@@ -3627,7 +3956,8 @@
 "D": "15"},
 "answer": "B",
 "details": "a + 5 = 9 → a = 4. b − 2 = 3 → b = 5. So 2a + b = 2×4 + 5 = 8 + 5 = 13.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which set of instructions moves a point from (3, 4) to (1, 7)?",
@@ -3638,7 +3968,8 @@
 "D": "1 left, 3 up"},
 "answer": "A",
 "details": "x: 3 → 1 = −2 (2 left). y: 4 → 7 = +3 (3 up).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (0, 0), (6, 0), and (3, y). Its area is 18. What is y?",
@@ -3649,7 +3980,8 @@
 "D": "9"},
 "answer": "C",
 "details": "Base = 6, area = ½ × 6 × height = 3 × height = 18 → height = 6. So y = 6 (since base on x-axis).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A shape is translated so that (4, 2) moves to (1, 6). Which point moves to (3, 8)?",
@@ -3660,7 +3992,8 @@
 "D": "(2, 4)"},
 "answer": "A",
 "details": "Translation vector = (1−4, 6−2) = (−3, +4). To find the original point that ends at (3,8), reverse the vector: (3−(−3), 8−4) = (6, 4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Points A(2,3), B(5,3), C(6,6), and D(3,6) are joined in order. What is true about quadrilateral ABCD?",
@@ -3671,7 +4004,8 @@
 "D": "It is a parallelogram but not a rhombus or rectangle."},
 "answer": "D",
 "details": "AB: (2,3)→(5,3) = (3,0); BC: (5,3)→(6,6) = (1,3); CD: (6,6)→(3,6) = (−3,0); DA: (3,6)→(2,3) = (−1,−3). Opposite sides equal and parallel, but adjacent sides not perpendicular (dot product (3,0)·(1,3)=3≠0) and lengths differ (|AB|=3, |BC|=√10), so parallelogram only.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is exactly halfway between (1, 2) and (7, 8)?",
@@ -3682,7 +4016,8 @@
 "D": "(6, 7)"},
 "answer": "B",
 "details": "Midpoint = ((1+7)/2, (2+8)/2) = (8/2, 10/2) = (4, 5).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A pentagon has vertices at (0,2), (2,0), (4,0), (6,2), and (3,5). Which side is vertical?",
@@ -3693,7 +4028,8 @@
 "D": "None of the sides are vertical."},
 "answer": "D",
 "details": "A vertical side requires constant x-coordinate. Check x-values: (0→2), (2→4), (4→6), (6→3), (3→0) — all x change. So no vertical sides.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Starting at (5, 7), a point moves 3 units left, then 4 units down, then 2 units right, then 1 unit up. Where is it now?",
@@ -3704,7 +4040,8 @@
 "D": "(3, 3)"},
 "answer": "A",
 "details": "x: 5 − 3 + 2 = 4. y: 7 − 4 + 1 = 4. Final position: (4, 4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Three vertices of a square are (2, 1), (5, 1), and (2, 4). What is the area of the square?",
@@ -3715,7 +4052,8 @@
 "D": "16"},
 "answer": "B",
 "details": "Side length = distance between (2,1) and (5,1) = 3 (or (2,1) to (2,4) = 3). Area = 3 × 3 = 9.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which translation moves the point (3, 5) to the same image as moving (1, 2) by 4 right and 5 up?",
@@ -3726,7 +4064,8 @@
 "D": "6 left, 8 down"},
 "answer": "A",
 "details": "First, (1,2) + (4,5) = (5,7). To get (3,5) → (5,7): need +2 right, +2 up? Wait — (3+2,5+2)=(5,7). But option A is 2 right, 3 up → (5,8). Mistake. Correct: Δx = 5−3 = 2, Δy = 7−5 = 2. But no option has 2 up. Revised target: move (1,2) by 4 right and **4** up → (5,6). Then (3,5) → (5,6) is +2 right, +1 up — still not. Final fix: move (2,1) by 3 right and 4 up → (5,5). Then (3,5) → (5,5) is 2 right, 0 up — not listed. Best: use option-matching. Let target be (6,8). (1,2)+(5,6)=(6,8). (3,5)+(3,3)=(6,8). No. Revised question to match option A:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which translation moves the point (3, 5) to the same image as moving (1, 3) by 4 right and 3 up?",
@@ -3737,7 +4076,8 @@
 "D": "6 right, 8 up"},
 "answer": "A",
 "details": "(1,3) + (4,3) = (5,6). To get (3,5) → (5,6): x: +2, y: +1? Still mismatch. Correction: (1,2) + (4,4) = (5,6). (3,5) → (5,6) = +2, +1. Not working. Let’s compute backwards: Suppose answer is A: 2R,3U → (3,5)→(5,8). So target is (5,8). Then (x,y) + (a,b) = (5,8). Choose (1,5) + (4,3) = (5,8). So question: ‘moving (1,5) by 4 right and 3 up’. Then (3,5) by 2R,3U = (5,8). Yes. Final:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which translation moves the point (3, 5) to the same image as moving (1, 5) by 4 units right and 3 units up?",
@@ -3748,7 +4088,8 @@
 "D": "6 right, 8 up"},
 "answer": "A",
 "details": "(1,5) + (4,3) = (5,8). To get (3,5) → (5,8): x increases by 2 (2 right), y increases by 3 (3 up). So translation is 2 right, 3 up.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (x, 2), (x, 6), (7, 6), and (7, 2). Its area is 20 square units. What is x?",
@@ -3759,7 +4100,8 @@
 "D": "4"},
 "answer": "B",
 "details": "Height = 6 − 2 = 4. Area = width × height = |7 − x| × 4 = 20 → |7 − x| = 5. Since x < 7 (to be left of x=7), 7 − x = 5 → x = 2.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point P is at (6, 1). After a reflection over the line y = 3, where is its image?",
@@ -3770,7 +4112,8 @@
 "D": "(6, −1)"},
 "answer": "A",
 "details": "Distance from P to line y=3 is 3 − 1 = 2 units below. So image is 2 units above the line: y = 3 + 2 = 5. x unchanged. So (6,5).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which set of points forms a right-angled triangle with legs parallel to the axes?",
@@ -3781,7 +4124,8 @@
 "D": "(2,2), (2,5), (5,2)"},
 "answer": "D",
 "details": "D: (2,2) to (2,5) is vertical; (2,2) to (5,2) is horizontal → right angle at (2,2), legs parallel to axes. A also has this: (2,3)-(5,3) horizontal, (5,3)-(5,7) vertical → right angle at (5,3). So both A and D. To ensure uniqueness, revise A to (2,3), (5,4), (5,7) — not axis-aligned. Final: A is (2,3), (5,4), (5,7); D remains. Then only D fits.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Revised A: Which set of points forms a right-angled triangle with legs parallel to the axes?",
@@ -3792,7 +4136,8 @@
 "D": "(2, 2), (2, 5), (5, 2)"},
 "answer": "D",
 "details": "Only D has one horizontal and one vertical side meeting at a vertex: (2,2)→(2,5) vertical, (2,2)→(5,2) horizontal. A: (5,4) to (5,7) vertical, but (2,3) to (5,4) is diagonal — no right angle with axes.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A shape is moved 5 units right, then 2 units down, then 3 units left, then 4 units up. What single translation is equivalent?",
@@ -3803,7 +4148,8 @@
 "D": "2 right, 2 down"},
 "answer": "A",
 "details": "Horizontal: +5 − 3 = +2 (2 right). Vertical: −2 + 4 = +2 (2 up).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "The points (1, 1), (4, 3), and (1, 5) form a triangle. What type is it?",
@@ -3814,7 +4160,8 @@
 "D": "Scalene"},
 "answer": "B",
 "details": "Distance (1,1)-(1,5) = 4 (vertical). (1,1)-(4,3) = √(9+4)=√13. (1,5)-(4,3)=√(9+4)=√13. Two sides equal → isosceles.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point lies on the line segment joining (2, 1) and (8, 7)?",
@@ -3825,7 +4172,8 @@
 "D": "All of the above"},
 "answer": "D",
 "details": "Slope = (7−1)/(8−2) = 1. Equation: y = x − 1. A: 3 = 4−1 ✓. B: 4 = 5−1 ✓. C: 5 = 6−1 ✓. And all x between 2 and 8 → on segment.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A square has one vertex at (3, 2) and side length 4 units. It extends left and up. What are the coordinates of the top-left vertex?",
@@ -3836,7 +4184,8 @@
 "D": "(7, 6)"},
 "answer": "C",
 "details": "From (3,2), left 4 → x = −1; up 4 → y = 6. Top-left = (−1,6).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "After a translation, the point (x, y) becomes (x+3, y−2). Which point moves to (7, 5)?",
@@ -3847,7 +4196,8 @@
 "D": "(10, 7)"},
 "answer": "A",
 "details": "Let original be (a,b). Then a+3=7 → a=4; b−2=5 → b=7. So (4,7).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A robot starts at (2, 3). It follows: up 2, right 4, down 3, left 1, up 1. Where is it?",
@@ -3858,7 +4208,8 @@
 "D": "(6, 4)"},
 "answer": "A",
 "details": "x: 2 + 4 − 1 = 5. y: 3 + 2 − 3 + 1 = 3. Final: (5,3).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which two points are closest to each other?",
@@ -3869,7 +4220,8 @@
 "D": "(3,2) and (3,6)"},
 "answer": "B",
 "details": "Distance squared: A: 9+16=25. B: 9+1=10. C: 9+0=9. D: 0+16=16. Smallest is C (distance 3). But option C is (0,5)-(3,5)=3, B is √10≈3.16. So C is closer. To make B correct, change B to (2,3)-(3,4): Δx=1, Δy=1 → d²=2. Revised options: B: (2,3) and (3,4). Then d²=2, smallest. Final:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which two points are closest to each other?",
@@ -3880,7 +4232,8 @@
 "D": "(3, 2) and (3, 6)"},
 "answer": "B",
 "details": "Distance squared: A: (3)²+(4)²=25. B: (1)²+(1)²=2. C: (3)²+0=9. D: 0+(4)²=16. Smallest is B → closest pair.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (1, 2), (5, 2), and (3, 6). What is its area?",
@@ -3891,7 +4244,8 @@
 "D": "12"},
 "answer": "B",
 "details": "Base = 5−1 = 4. Height = 6−2 = 4 (vertical distance from (3,6) to base y=2). Area = ½ × 4 × 4 = 8.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which movement from (6, 8) results in a point on the line y = x?",
@@ -3902,7 +4256,8 @@
 "D": "1 left, 3 down"},
 "answer": "C",
 "details": "C: (6−2, 8−2) = (4,6) → 4≠6. Wait. Need x=y. Try (5,5): need −1,−3 → D: (5,5) ✓. A: (4,8) no. B: (6,6) → 6=6 ✓ — B also works. So B and D? B: (6,8)→(6,6): y=6, x=6 → y=x. Yes. D: (5,5) also y=x. Two correct. To fix: require *not* on axes or something. Better: change to ‘on the line y = x + 1’. Then (5,6): 6=5+1. From (6,8): −1,−2. Add option. Final: use B as (6,6), and state ‘in the first quadrant’ — both are. Accept B as simplest. Revised question to have only one: change start to (7,8). Then B: (7,6) no; D: (6,5) → 5=6+1? No. Let target be y = x − 1. (6,5): 5=6−1. From (7,8): −1,−3 → D. So set start (7,8), option D: 1 left, 3 down → (6,5), and y = x − 1. But curriculum doesn’t require line equations. Simpler: use option C for (4,4) from (6,6) — but start is (6,8). Final decision: keep B as answer — (6,6) is on y=x, and it’s valid.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which movement from (6, 8) results in a point on the line y = x?",
@@ -3913,7 +4268,8 @@
 "D": "1 left, 3 down"},
 "answer": "B",
 "details": "B: (6, 8−2) = (6,6). Since 6 = 6, it lies on y = x. A: (4,8) → 4≠8. C: (4,6) → 4≠6. D: (5,5) → 5=5, also on y=x. But (5,5) is valid too. However, Year 4 may not be expected to consider both; the question says ‘which movement’, implying one. To resolve, note that D gives (5,5), also correct. But in multiple-choice, only one answer is listed as correct. Since both B and D work, and the test-maker must choose, we select B as the *first* correct option. Alternatively, revise D to be 1 left, 2 down → (5,6) no. So final: change D to ‘1 left, 2 down’. Then only B works.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Revised D: Which movement from (6, 8) results in a point on the line y = x?",
@@ -3924,7 +4280,8 @@
 "D": "1 left, 2 down"},
 "answer": "B",
 "details": "B: (6, 6) → 6 = 6 ✓. A: (4,8) no. C: (4,6) no. D: (5,6) → 5≠6.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (2, 3), (2, 7), (x, 7), and (x, 3). The distance from (2,3) to (x,7) is 5 units. What is x?",
@@ -3935,7 +4292,8 @@
 "D": "6"},
 "answer": "C",
 "details": "Diagonal distance: √[(x−2)² + (7−3)²] = √[(x−2)² + 16] = 5. Square both sides: (x−2)² + 16 = 25 → (x−2)² = 9 → x−2 = 3 (x>2) → x = 5.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point M is at (a, b). After moving 1 unit right and 3 units up, it is at (5, 9). What is the value of a² + b?",
@@ -3946,7 +4304,8 @@
 "D": "20"},
 "answer": "C",
 "details": "a + 1 = 5 → a = 4. b + 3 = 9 → b = 6. So a² + b = 16 + 6 = 22? Wait — 16+6=22, not listed. Mistake. Recalculate: a=4, b=6, a²+b=16+6=22. Options wrong. Fix: change movement to 2 right, 3 up → a=3, b=6, a²+b=9+6=15 — not. Or final point (6,9): a+1=6→a=5, b+3=9→b=6, 25+6=31. Better: make question ask for a + b². a=4, b=6 → 4+36=40. No. Final: let final be (4,7): a+1=4→a=3; b+3=7→b=4; a²+b=9+4=13. Not. Set a=3, b=5: a²+b=9+5=14. Add option. To match C=19: a=4, b=3 → 16+3=19. So final point = (5,6). Revised question:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point M is at (a, b). After moving 1 unit right and 3 units up, it is at (5, 6). What is the value of a² + b?",
@@ -3957,7 +4316,8 @@
 "D": "20"},
 "answer": "C",
 "details": "a + 1 = 5 → a = 4. b + 3 = 6 → b = 3. So a² + b = 16 + 3 = 19.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which polygon is formed by joining (1,1), (3,1), (4,3), (3,5), (1,5), and (0,3) in order?",
@@ -3968,7 +4328,8 @@
 "D": "Octagon"},
 "answer": "B",
 "details": "6 vertices listed → hexagon.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A translation moves (2, 4) to (6, 1). What are the new coordinates of (0, 7) under the same translation?",
@@ -3979,7 +4340,8 @@
 "D": "(8, −2)"},
 "answer": "A",
 "details": "Vector = (6−2, 1−4) = (4, −3). Apply to (0,7): (0+4, 7−3) = (4,4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "The points (3, 2), (6, 2), and (4.5, 5) form a triangle. What type is it?",
@@ -3990,7 +4352,8 @@
 "D": "Scalene"},
 "answer": "B",
 "details": "Distance (3,2)-(6,2)=3. (3,2)-(4.5,5)=√(2.25+9)=√11.25. (6,2)-(4.5,5)=same. Two sides equal → isosceles.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is 3 units to the right and 2 units down from the midpoint of (2, 6) and (8, 2)?",
@@ -4001,7 +4364,8 @@
 "D": "(9, 1)"},
 "answer": "B",
 "details": "Midpoint = ((2+8)/2, (6+2)/2) = (5,4). Then +3 right, −2 down → (8,2)? Wait: 5+3=8, 4−2=2 → (8,2). But not in options. Options: A(6,2), B(7,3), etc. Recalculate: (2+8)/2=5, (6+2)/2=4. Yes. (5+3,4−2)=(8,2). To match B(7,3): need +2,+−1. So revise movement to 2 right, 1 down. Final question:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is 2 units to the right and 1 unit down from the midpoint of (2, 6) and (8, 2)?",
@@ -4012,7 +4376,8 @@
 "D": "(9, 1)"},
 "answer": "B",
 "details": "Midpoint = (5, 4). +2 right → x=7; −1 down → y=3. So (7,3).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A square has area 25 cm². One vertex is at (1, 3), and it extends right and up. What are the coordinates of the top-right vertex?",
@@ -4023,7 +4388,8 @@
 "D": "(6, 7)"},
 "answer": "B",
 "details": "Area = 25 → side = 5. From (1,3), right 5 → x=6; up 5 → y=8. Top-right = (6,8).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which translation, when applied twice, moves (2, 3) to (8, 9)?",
@@ -4034,7 +4400,8 @@
 "D": "2 right, 2 up"},
 "answer": "A",
 "details": "Total move: +6 right, +6 up. So each translation: +3 right, +3 up.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Points (1, 1), (5, 1), (5, 4), and (1, 4) form a rectangle. If each x-coordinate is increased by 2 and each y-coordinate is decreased by 1, what is the new area?",
@@ -4045,7 +4412,8 @@
 "D": "16"},
 "answer": "B",
 "details": "Original width = 4, height = 3, area = 12. Translation does not change size → area remains 12.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A shape is translated so that its centroid (average of vertices) moves from (3, 4) to (6, 2). Which point moves from (5, 7) to?",
@@ -4056,7 +4424,8 @@
 "D": "(2, 5)"},
 "answer": "A",
 "details": "Centroid move = translation vector = (6−3, 2−4) = (3, −2). Apply to (5,7): (5+3, 7−2) = (8,5).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point satisfies: x-coordinate is 3 more than y-coordinate, and it is 5 units from (6, 2)?",
@@ -4067,7 +4436,8 @@
 "D": "(4, 1)"},
 "answer": "D",
 "details": "Let point be (y+3, y). Distance to (6,2): √[(y+3−6)² + (y−2)²] = √[(y−3)² + (y−2)²] = 5. Square: (y²−6y+9)+(y²−4y+4)=25 → 2y²−10y+13=25 → 2y²−10y−12=0 → y²−5y−6=0 → (y−6)(y+1)=0 → y=6 or −1. So (9,6) or (2,−1). Not in options. To match D(4,1): 4=1+3 ✓. Distance to (6,2): √[(−2)²+(−1)²]=√5≠5. Fix: change distance to √5. Or change condition. Final: use D as correct for √5. But question says 5. Revised: let target be (4,3). Then (7,4): 7=4+3, distance to (4,3)=√(9+1)=√10. No. Accept D as intended with approximate reasoning. Or change to ‘3 units from (6,2)’: (4,1): √(4+1)=√5≈2.24. Not. Best: recalculate with (3,0): 3=0+3, distance to (6,2)=√(9+4)=√13. None work. Use algebra to find match: suppose (6,3): 6=3+3, distance to (6,2)=1. No. (7,4): 7=4+3, distance to (6,2)=√(1+4)=√5. Still not 5. Only (9,6) and (2,−1) work. Since (9,6) is in first quadrant, add as option. Final question:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point in the first quadrant satisfies: x-coordinate is 3 more than y-coordinate, and it is 5 units from (6, 2)?",
@@ -4078,7 +4448,8 @@
 "D": "(6, 3)"},
 "answer": "B",
 "details": "Let point = (y+3, y). Distance to (6,2): √[(y+3−6)² + (y−2)²] = 5 → (y−3)² + (y−2)² = 25 → y=6 or y=−1. (9,6) is in first quadrant; (2,−1) is not. So B.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (0, 0), (a, 0), and (0, b). Its area is 18 and perimeter is 24. What is a + b?",
@@ -4089,7 +4460,8 @@
 "D": "18"},
 "answer": "A",
 "details": "Area = ½ab = 18 → ab = 36. Perimeter = a + b + √(a²+b²) = 24. Try integer pairs for ab=36: (6,6): perimeter=6+6+√72≈12+8.48=20.48. (9,4): 9+4+√97≈13+9.85=22.85. (12,3):12+3+√153≈15+12.37=27.37. (18,2):20+√328>24. (4,9) same as (9,4). Only (6,6) close. But ½×6×6=18 ✓. Perimeter=6+6+6√2≈20.48≠24. No integer solution? Use a=8, b=9: ab=72→area=36 too big. Mistake: area=18→ab=36. Suppose a=12, b=3: area=18, perimeter=12+3+√(144+9)=15+√153≈27.37. Not 24. Perhaps non-integer. But Year 4 expects integer. Revised: area=6, perimeter=12: a=3,b=4: area=6, perimeter=3+4+5=12, a+b=7. Not in options. Final: drop perimeter, ask for a+b given area and a=b. Then a²/2=18→a=6, a+b=12. So assume isosceles. Revised question:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A right-angled triangle has vertices at (0, 0), (a, 0), and (0, a). Its area is 18. What is a + a?",
@@ -4100,7 +4472,8 @@
 "D": "18"},
 "answer": "A",
 "details": "Area = ½ × a × a = ½a² = 18 → a² = 36 → a = 6. So a + a = 12.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point P is at (4, 5). After a translation of 3 units left and 2 units up, it is at Q. What are the coordinates of Q?",
@@ -4111,7 +4484,8 @@
 "D": "(7, 7)"},
 "answer": "A",
 "details": "x: 4 − 3 = 1. y: 5 + 2 = 7. So Q = (1, 7).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has vertices at (1, 2), (1, 6), (x, 6), and (x, 2). The diagonal from (1,2) to (x,6) is 5 units long. What is x?",
@@ -4122,7 +4496,8 @@
 "D": "6"},
 "answer": "B",
 "details": "Diagonal length: √[(x−1)² + (6−2)²] = √[(x−1)² + 16] = 5. Square both sides: (x−1)² + 16 = 25 → (x−1)² = 9 → x−1 = 3 (x > 1) → x = 4.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which set of instructions moves a point from (7, 9) to (4, 5)?",
@@ -4133,7 +4508,8 @@
 "D": "4 left, 3 down"},
 "answer": "A",
 "details": "x: 7 → 4 = −3 (3 left). y: 9 → 5 = −4 (4 down).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Three vertices of a square are (3, 1), (6, 1), and (3, 4). What is the perimeter of the square?",
@@ -4144,7 +4520,8 @@
 "D": "18"},
 "answer": "B",
 "details": "Side length = 6 − 3 = 3 (or 4 − 1 = 3). Perimeter = 4 × 3 = 12.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A shape is translated so that (2, 7) moves to (5, 3). Which point moves to (8, 0)?",
@@ -4155,7 +4532,8 @@
 "D": "(11, 4)"},
 "answer": "A",
 "details": "Translation vector = (5−2, 3−7) = (3, −4). To find original point that becomes (8,0), reverse: (8−3, 0−(−4)) = (5, 4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Points A(2,3), B(5,6), C(2,9), and D(−1,6) form a quadrilateral. What type is it?",
@@ -4166,7 +4544,8 @@
 "D": "Parallelogram (not rhombus)"},
 "answer": "C",
 "details": "AB: √[(3)²+(3)²]=√18. BC: √[(−3)²+(3)²]=√18. CD: √[(3)²+(−3)²]=√18. DA: √[(3)²+(−3)²]=√18. All sides equal. Diagonals AC = 6, BD = 6 — equal, so actually a square? Slope AB = 1, BC = −1 → perpendicular. So square. But (−1,6) has x < 0 — outside first quadrant. To stay in curriculum focus, revise D to (5,6) etc. Final: use first-quadrant points. Revised question:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Points A(3,2), B(6,5), C(3,8), and D(0,5) are plotted. Though D is on the axis, which shape do they form?",
@@ -4177,7 +4556,8 @@
 "D": "Kite"},
 "answer": "A",
 "details": "AB: Δx=3, Δy=3 → length √18. BC: Δx=−3, Δy=3 → √18. CD: Δx=−3, Δy=−3 → √18. DA: Δx=3, Δy=−3 → √18. Slopes: AB=1, BC=−1 → perpendicular. All sides equal, angles 90° → square. D(0,5) is on y-axis — acceptable in first quadrant (x ≥ 0, y ≥ 0).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A robot starts at (1, 1). It moves: right 5, up 2, left 3, down 1, right 2, up 3. Where is it?",
@@ -4188,7 +4568,8 @@
 "D": "(6, 6)"},
 "answer": "C",
 "details": "x: 1 + 5 − 3 + 2 = 5. y: 1 + 2 − 1 + 3 = 5? Wait: 1+2=3, −1=2, +3=5 → y=5. But option C is (5,6). Recalculate: up 2 → y=3; down 1 → y=2; up 3 → y=5. Yes, (5,5) — A. To match C, change last move to up 4. Final: ‘up 4’ instead of ‘up 3’. Then y=1+2−1+4=6. So (5,6). Revised question:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A robot starts at (1, 1). It moves: right 5, up 2, left 3, down 1, right 2, up 4. Where is it?",
@@ -4199,7 +4580,8 @@
 "D": "(6, 6)"},
 "answer": "C",
 "details": "x: 1 + 5 − 3 + 2 = 5. y: 1 + 2 − 1 + 4 = 6. Final position: (5, 6).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is equidistant from (2, 3) and (6, 3) and lies on the line y = 7?",
@@ -4210,7 +4592,8 @@
 "D": "(0, 7)"},
 "answer": "A",
 "details": "Points equidistant from (2,3) and (6,3) lie on perpendicular bisector x = (2+6)/2 = 4. Intersect with y = 7 → (4,7). Check: distance to each = √[(2)² + (4)²] = √20.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A triangle has vertices at (1, 1), (7, 1), and (4, y). Its area is 15. What is y?",
@@ -4221,7 +4604,8 @@
 "D": "7"},
 "answer": "C",
 "details": "Base = 7 − 1 = 6. Area = ½ × 6 × height = 3 × height = 15 → height = 5. Since base is on y = 1, the third point must be at y = 1 + 5 = 6 (or 1 − 5 = −4, invalid). So y = 6.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "After a translation, the point (x, y) becomes (x−2, y+5). Which point moves to (3, 9)?",
@@ -4232,7 +4616,8 @@
 "D": "(1, 4)"},
 "answer": "A",
 "details": "Let original be (a,b). Then a − 2 = 3 → a = 5; b + 5 = 9 → b = 4. So (5,4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which movement from (5, 7) results in a point where the y-coordinate is three times the x-coordinate?",
@@ -4243,7 +4628,8 @@
 "D": "4 left, 8 down"},
 "answer": "B",
 "details": "B: (5−2, 7−4) = (3,3). 3 = 3 × 1? No — 3 ≠ 3×3. Wait: need y = 3x. Try (1,3): from (5,7) → −4, −4 → not listed. (2,6): −3, −1 — no. (1,3): −4, −4. Add option. To match B: (3,3) gives y = x, not 3x. Revised: want y = x + 2. (3,5): 5=3+2. From (5,7): −2, −2 — C: 3 left, 6 down = (2,1) no. Final: use (1,3): y=3x, and option D: 4 left, 4 down → (1,3). So change D to ‘4 left, 4 down’. Then:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which movement from (5, 7) results in a point where the y-coordinate is three times the x-coordinate?",
@@ -4254,7 +4640,8 @@
 "D": "4 left, 4 down"},
 "answer": "D",
 "details": "D: (5−4, 7−4) = (1,3). 3 = 3 × 1 → true. A: (4,6) → 6 ≠ 12. B: (3,6) → 6 ≠ 9. C: (2,5) → 5 ≠ 6.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A square has vertices at (2, 3), (5, 3), (5, 6), and (2, 6). After a translation of 1 unit right and 2 units down, what is the sum of the x-coordinates of all four vertices?",
@@ -4265,7 +4652,8 @@
 "D": "30"},
 "answer": "C",
 "details": "Original x-coordinates: 2,5,5,2 → sum = 14. Translation adds 1 to each x → +4 total → 14 + 4 = 18? Wait — 4 vertices × +1 = +4 → 14+4=18. Not in options. Mistake. New x: 3,6,6,3 → sum = 18. Options wrong. Fix: use translation 3 right. Then +12 → 14+12=26 — B. Or ask for sum of *all* coordinates (x+y). Original total: (2+3)+(5+3)+(5+6)+(2+6)=5+8+11+8=32. Translation: +1 to each x, −2 to each y → net −1 per point → 32 − 4 = 28 → C. Yes! So question should ask for sum of **all coordinates** (x+y for each vertex). Revised:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A square has vertices at (2, 3), (5, 3), (5, 6), and (2, 6). After a translation of 1 unit right and 2 units down, what is the sum of all x- and y-coordinates of the four vertices?",
@@ -4276,7 +4664,8 @@
 "D": "30"},
 "answer": "C",
 "details": "Original sum of all coordinates: (2+3)+(5+3)+(5+6)+(2+6) = 5+8+11+8 = 32. Translation: each point gains +1 (x) and −2 (y) → net −1 per point. 4 points × (−1) = −4. New total = 32 − 4 = 28.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which two points have the same x-coordinate and are 4 units apart vertically?",
@@ -4287,7 +4676,8 @@
 "D": "(1, 3) and (4, 7)"},
 "answer": "B",
 "details": "Same x: only B (x=5). y-difference: |5−1| = 4 → 4 units apart vertically.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A shape is moved 6 units left, then 3 units up, then 2 units right, then 1 unit down. What single translation is equivalent?",
@@ -4298,7 +4688,8 @@
 "D": "4 left, 4 up"},
 "answer": "A",
 "details": "Horizontal: −6 + 2 = −4 (4 left). Vertical: +3 − 1 = +2 (2 up).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "The points (0, 4), (3, 0), (6, 4), and (3, 8) form a quadrilateral. What is its perimeter?",
@@ -4309,7 +4700,8 @@
 "D": "8√13"},
 "answer": "D",
 "details": "Each side: e.g., (0,4) to (3,0): √[(3)²+(−4)²] = 5? Wait — 9+16=25 → 5. But (3,0) to (6,4): same = 5. (6,4) to (3,8): √[9+16]=5. (3,8) to (0,4): 5. Perimeter = 20 → A. But options include radicals. To make D correct, use (0,2), (4,0), (8,2), (4,6): side = √[(4)²+(−2)²]=√20=2√5. Perimeter=8√5. Not matching. Final: accept A=20 as correct. But option A is 20. So answer A. Yet listed D. Correction: recalculate with given points: (0,4)-(3,0): √(9+16)=5; (3,0)-(6,4):5; (6,4)-(3,8):√(9+16)=5; (3,8)-(0,4):5. Perimeter=20. So answer A.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "The points (0, 4), (3, 0), (6, 4), and (3, 8) form a quadrilateral. What is its perimeter?",
@@ -4320,7 +4712,8 @@
 "D": "8√13"},
 "answer": "A",
 "details": "Each side length = √[(3−0)² + (0−4)²] = √(9+16) = 5. Four sides → 4 × 5 = 20.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Point R is at (a, b). After moving 4 units left and 1 unit up, it is at (2, 6). What is the value of a − b?",
@@ -4331,7 +4724,8 @@
 "D": "4"},
 "answer": "A",
 "details": "a − 4 = 2 → a = 6. b + 1 = 6 → b = 5. So a − b = 6 − 5 = 1.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A pentagon has vertices at (1,1), (3,1), (4,3), (2,5), and (0,3). What is the length of the side from (2,5) to (0,3)?",
@@ -4342,7 +4736,8 @@
 "D": "4"},
 "answer": "A",
 "details": "Δx = 0 − 2 = −2, Δy = 3 − 5 = −2. Length = √[(−2)² + (−2)²] = √(4+4) = √8.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which translation maps the triangle with vertices (1,2), (3,5), (5,2) onto the triangle with vertices (4,0), (6,3), (8,0)?",
@@ -4353,7 +4748,8 @@
 "D": "2 right, 3 down"},
 "answer": "A",
 "details": "(1,2) → (4,0): +3, −2. (3,5) → (6,3): +3, −2. (5,2) → (8,0): +3, −2. So 3 right, 2 down.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has area 24 and perimeter 20. One vertex is at (1, 1), and it extends right and up. What are the coordinates of the opposite vertex?",
@@ -4364,7 +4760,8 @@
 "D": "(3, 9)"},
 "answer": "C",
 "details": "Let width = w, height = h. w × h = 24, 2(w+h) = 20 → w+h = 10. Solve: w and h are roots of t²−10t+24=0 → (t−4)(t−6)=0. So w=6, h=4 (or vice versa). From (1,1), opposite = (1+6,1+4) = (7,5)? Wait — (7,5) not listed. Options: C is (7,4) → h=3, w=6, area=18. Mistake. (1+6,1+4)=(7,5). Not listed. To match C(7,4): h=3, w=6, area=18. Revised: area=18, perimeter=18: w+h=9, wh=18 → w=6,h=3. Opposite=(7,4). Yes. So question should say area 18, perimeter 18. Final:",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A rectangle has area 18 and perimeter 18. One vertex is at (1, 1), and it extends right and up. What are the coordinates of the opposite vertex?",
@@ -4375,7 +4772,8 @@
 "D": "(3, 9)"},
 "answer": "C",
 "details": "w × h = 18, 2(w+h) = 18 → w + h = 9. Solutions: w=6, h=3 (or vice versa). From (1,1), opposite vertex = (1+6, 1+3) = (7,4).",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is farthest from the origin among those in the first quadrant with integer coordinates and x + y = 7?",
@@ -4386,7 +4784,8 @@
 "D": "(0, 7)"},
 "answer": "A",
 "details": "Distance squared: A:1+36=37, B:4+25=29, C:9+16=25, D:0+49=49 — but (0,7) is on axis, allowed. So D is farthest. But question says ‘in the first quadrant’, which includes axes (x≥0, y≥0). So D is correct. Yet option D is (0,7). So answer D. But listed A. Correction: answer is D.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "Which point is farthest from the origin among those with integer coordinates, x ≥ 0, y ≥ 0, and x + y = 7?",
@@ -4397,7 +4796,8 @@
 "D": "(0, 7)"},
 "answer": "D",
 "details": "Distance squared = x² + y² = x² + (7−x)² = 2x² −14x + 49. This is a quadratic opening upwards, maximum at endpoints x=0 or x=7. x=0: (0,7) → 49. x=7: (7,0) → 49. So (0,7) and (7,0) are farthest. (0,7) is option D.",
-"difficulty": "hard"
+"difficulty": "hard",
+"used": 0
 },
 {
 "question": "A line segment joins (1, 3) and (7, 9). Which point divides it in the ratio 1:2 (closer to (1,3))?",
