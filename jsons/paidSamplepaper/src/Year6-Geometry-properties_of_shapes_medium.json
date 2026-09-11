@@ -1,0 +1,1586 @@
+[
+    {
+        "qid": 1,
+        "question": "What is the measure of angle C in this triangle if angle A is 45° and angle B is 65°?",
+        "options": {
+            "A": "50°",
+            "B": "60°",
+            "C": "70°",
+            "D": "80°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a triangle is 180°. So, angle C = 180° - (45° + 65°) = 70°.",
+        "difficulty": "medium",
+        "imgFileName": "1_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 2,
+        "question": "Which of these nets can be folded to make a cube?",
+        "options": {
+            "A": "A net with 5 squares",
+            "B": "A net with 6 squares",
+            "C": "A net with 6 rectangles",
+            "D": "A net with 4 triangles"
+        },
+        "answer": "B",
+        "explanation": "A cube has 6 square faces, so its net must have 6 squares.",
+        "difficulty": "medium",
+        "imgFileName": "2_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 3,
+        "question": "What is the measure of angle D in this quadrilateral if angles A, B, and C are 90°, 75°, and 105° respectively?",
+        "options": {
+            "A": "70°",
+            "B": "80°",
+            "C": "90°",
+            "D": "100°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle D = 360° - (90° + 75° + 105°) = 90°.",
+        "difficulty": "medium",
+        "imgFileName": "3_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 4,
+        "question": "If the radius of a circle is 7 cm, what is the diameter?",
+        "options": {
+            "A": "3.5 cm",
+            "B": "7 cm",
+            "C": "14 cm",
+            "D": "21 cm"
+        },
+        "answer": "C",
+        "explanation": "The diameter is twice the radius. So, diameter = 2 × 7 cm = 14 cm.",
+        "difficulty": "medium",
+        "imgFileName": "4_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 5,
+        "question": "Which of these shapes has exactly one pair of parallel sides?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Trapezoid",
+            "D": "Rhombus"
+        },
+        "answer": "C",
+        "explanation": "A trapezoid is a quadrilateral with exactly one pair of parallel sides.",
+        "difficulty": "medium",
+        "imgFileName": "5_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 6,
+        "question": "What is the measure of angle E in this pentagon if angles A, B, C, and D are 100°, 110°, 120°, and 90° respectively?",
+        "options": {
+            "A": "100°",
+            "B": "110°",
+            "C": "120°",
+            "D": "130°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle E = 540° - (100° + 110° + 120° + 90°) = 120°.",
+        "difficulty": "medium",
+        "imgFileName": "6_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 7,
+        "question": "Which of these nets can be folded to make a triangular prism?",
+        "options": {
+            "A": "A net with 2 triangles and 3 rectangles",
+            "B": "A net with 4 triangles",
+            "C": "A net with 2 squares and 4 rectangles",
+            "D": "A net with 6 squares"
+        },
+        "answer": "A",
+        "explanation": "A triangular prism has 2 triangular faces and 3 rectangular faces, so its net must have 2 triangles and 3 rectangles.",
+        "difficulty": "medium",
+        "imgFileName": "7_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 8,
+        "question": "What is the measure of angle F in this hexagon if angles A, B, C, D, and E are 120°, 130°, 140°, 150°, and 100° respectively?",
+        "options": {
+            "A": "60°",
+            "B": "70°",
+            "C": "80°",
+            "D": "90°"
+        },
+        "answer": "C",
+        "explanation": "The sum of interior angles in a hexagon is (6-2) * 180° = 720°. The sum of the given angles A, B, C, D, and E is 120° + 130° + 140° + 150° + 100° = 640°. Therefore, angle F = 720° - 640° = 80°.",
+        "difficulty": "medium",
+        "imgFileName": "8_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 9,
+        "question": "If the diameter of a circle is 12 cm, what is the radius?",
+        "options": {
+            "A": "3 cm",
+            "B": "6 cm",
+            "C": "12 cm",
+            "D": "24 cm"
+        },
+        "answer": "B",
+        "explanation": "The radius is half the diameter. So, radius = 12 cm ÷ 2 = 6 cm.",
+        "difficulty": "medium",
+        "imgFileName": "9_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 10,
+        "question": "Which of these shapes has all sides equal and all angles equal?",
+        "options": {
+            "A": "Rectangle",
+            "B": "Rhombus",
+            "C": "Square",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A square has all sides equal and all angles equal (each 90°).",
+        "difficulty": "medium",
+        "imgFileName": "10_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 11,
+        "question": "What is the measure of angle G in this quadrilateral if angles A, B, and C are 80°, 110°, and 70° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle G = 360° - (80° + 110° + 70°) = 100°.",
+        "difficulty": "medium",
+        "imgFileName": "11_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 12,
+        "question": "Which of these nets can be folded to make a square pyramid?",
+        "options": {
+            "A": "A net with 4 triangles and 1 square",
+            "B": "A net with 5 squares",
+            "C": "A net with 6 rectangles",
+            "D": "A net with 2 triangles and 3 rectangles"
+        },
+        "answer": "A",
+        "explanation": "A square pyramid has 1 square base and 4 triangular faces, so its net must have 1 square and 4 triangles.",
+        "difficulty": "medium",
+        "imgFileName": "12_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 13,
+        "question": "What is the measure of angle H in this pentagon if angles A, B, C, and D are 110°, 100°, 90°, and 80° respectively?",
+        "options": {
+            "A": "140°",
+            "B": "150°",
+            "C": "160°",
+            "D": "170°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle H = 540° - (110° + 100° + 90° + 80°) = 160°.",
+        "difficulty": "medium",
+        "imgFileName": "13_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 14,
+        "question": "If the radius of a circle is 5 cm, what is the diameter?",
+        "options": {
+            "A": "2.5 cm",
+            "B": "5 cm",
+            "C": "10 cm",
+            "D": "20 cm"
+        },
+        "answer": "C",
+        "explanation": "The diameter is twice the radius. So, diameter = 2 × 5 cm = 10 cm.",
+        "difficulty": "medium",
+        "imgFileName": "14_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 15,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles?",
+        "options": {
+            "A": "Rectangle",
+            "B": "Rhombus",
+            "C": "Square",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles.",
+        "difficulty": "medium",
+        "imgFileName": "15_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 16,
+        "question": "What is the measure of angle I in this hexagon if angles A, B, C, D, and E are 130°, 120°, 110°, 100°, and 90° respectively?",
+        "options": {
+            "A": "170°",
+            "B": "80°",
+            "C": "90°",
+            "D": "100°"
+        },
+        "answer": "A",
+        "explanation": "The sum of interior angles in a hexagon is 720°. The sum of the given angles A, B, C, D, and E is 130° + 120° + 110° + 100° + 90° = 550°. Therefore, angle I = 720° - 550° = 170°.",
+        "difficulty": "medium",
+        "imgFileName": "16_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 17,
+        "question": "Which of these nets can be folded to make a cuboid?",
+        "options": {
+            "A": "A net with 6 squares",
+            "B": "A net with 6 rectangles",
+            "C": "A net with 4 triangles and 2 squares",
+            "D": "A net with 5 rectangles and 1 square"
+        },
+        "answer": "B",
+        "explanation": "A cuboid has 6 rectangular faces, so its net must have 6 rectangles.",
+        "difficulty": "medium",
+        "imgFileName": "17_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 18,
+        "question": "What is the measure of angle J in this quadrilateral if angles A, B, and C are 105°, 95°, and 80° respectively?",
+        "options": {
+            "A": "70°",
+            "B": "80°",
+            "C": "90°",
+            "D": "100°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle J = 360° - (105° + 95° + 80°) = 80°.",
+        "difficulty": "medium",
+        "imgFileName": "18_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 19,
+        "question": "If the diameter of a circle is 18 cm, what is the radius?",
+        "options": {
+            "A": "3 cm",
+            "B": "6 cm",
+            "C": "9 cm",
+            "D": "12 cm"
+        },
+        "answer": "C",
+        "explanation": "The radius is half the diameter. So, radius = 18 cm ÷ 2 = 9 cm.",
+        "difficulty": "medium",
+        "imgFileName": "19_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 20,
+        "question": "Which of these shapes has diagonals that are equal in length?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Rectangle",
+            "C": "Square",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has diagonals that are equal in length.",
+        "difficulty": "medium",
+        "imgFileName": "20_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 21,
+        "question": "What is the measure of angle K in this pentagon if angles A, B, C, and D are 108°, 100°, 112°, and 96° respectively?",
+        "options": {
+            "A": "104°",
+            "B": "114°",
+            "C": "124°",
+            "D": "134°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle K = 540° - (108° + 100° + 112° + 96°) = 124°.",
+        "difficulty": "medium",
+        "imgFileName": "21_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 22,
+        "question": "Which of these nets can be folded to make a cylinder?",
+        "options": {
+            "A": "A net with 2 circles and 1 rectangle",
+            "B": "A net with 6 squares",
+            "C": "A net with 4 triangles",
+            "D": "A net with 2 rectangles and 4 triangles"
+        },
+        "answer": "A",
+        "explanation": "A cylinder has 2 circular bases and 1 rectangular face, so its net must have 2 circles and 1 rectangle.",
+        "difficulty": "medium",
+        "imgFileName": "22_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 23,
+        "question": "What is the measure of angle L in this hexagon if angles A, B, C, D, and E are 140°, 130°, 120°, 110°, and 100° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "120°",
+            "D": "110°"
+        },
+        "answer": "C",
+        "explanation": "The sum of interior angles in a hexagon is 720°. The sum of the given angles A, B, C, D, and E is 140° + 130° + 120° + 110° + 100° = 600°. Therefore, angle L = 720° - 600° = 120°.",
+        "difficulty": "medium",
+        "imgFileName": "23_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 24,
+        "question": "If the radius of a circle is 10 cm, what is the diameter?",
+        "options": {
+            "A": "5 cm",
+            "B": "10 cm",
+            "C": "20 cm",
+            "D": "40 cm"
+        },
+        "answer": "C",
+        "explanation": "The diameter is twice the radius. So, diameter = 2 × 10 cm = 20 cm.",
+        "difficulty": "medium",
+        "imgFileName": "24_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 25,
+        "question": "Which of these shapes has diagonals that bisect each other?",
+        "options": {
+            "A": "Kite",
+            "B": "Trapezoid",
+            "C": "Parallelogram",
+            "D": "Isosceles triangle"
+        },
+        "answer": "C",
+        "explanation": "A parallelogram has diagonals that bisect each other.",
+        "difficulty": "medium",
+        "imgFileName": "25_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 26,
+        "question": "What is the measure of angle M in this quadrilateral if angles A, B, and C are 75°, 105°, and 90° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle M = 360° - (75° + 105° + 90°) = 90°.",
+        "difficulty": "medium",
+        "imgFileName": "26_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 27,
+        "question": "Which of these nets can be folded to make a cone?",
+        "options": {
+            "A": "A net with 1 circle and 1 triangle",
+            "B": "A net with 1 circle and 1 sector",
+            "C": "A net with 2 circles and 1 rectangle",
+            "D": "A net with 4 triangles"
+        },
+        "answer": "B",
+        "explanation": "A cone has 1 circular base and 1 curved surface (sector), so its net must have 1 circle and 1 sector.",
+        "difficulty": "medium",
+        "imgFileName": "27_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 28,
+        "question": "What is the measure of angle N in this pentagon if angles A, B, C, and D are 120°, 110°, 100°, and 90° respectively?",
+        "options": {
+            "A": "100°",
+            "B": "110°",
+            "C": "120°",
+            "D": "130°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle N = 540° - (120° + 110° + 100° + 90°) = 120°.",
+        "difficulty": "medium",
+        "imgFileName": "28_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 29,
+        "question": "If the diameter of a circle is 24 cm, what is the radius?",
+        "options": {
+            "A": "6 cm",
+            "B": "12 cm",
+            "C": "18 cm",
+            "D": "24 cm"
+        },
+        "answer": "B",
+        "explanation": "The radius is half the diameter. So, radius = 24 cm ÷ 2 = 12 cm.",
+        "difficulty": "medium",
+        "imgFileName": "29_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 30,
+        "question": "Which of these shapes has diagonals that are equal in length and bisect each other?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Rectangle",
+            "C": "Square",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has diagonals that are equal in length and bisect each other.",
+        "difficulty": "medium",
+        "imgFileName": "30_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 31,
+        "question": "What is the measure of angle O in this hexagon if angles A, B, C, D, and E are 135°, 125°, 115°, 105°, and 95° respectively?",
+        "options": {
+            "A": "75°",
+            "B": "145°",
+            "C": "95°",
+            "D": "105°"
+        },
+        "answer": "B",
+        "explanation": "The sum of interior angles in a hexagon is 720°. The sum of the given angles A, B, C, D, and E is 135° + 125° + 115° + 105° + 95° = 575°. Therefore, angle O = 720° - 575° = 145°.",
+        "difficulty": "medium",
+        "imgFileName": "31_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 32,
+        "question": "Which of these nets can be folded to make a triangular prism?",
+        "options": {
+            "A": "A net with 2 triangles and 3 rectangles",
+            "B": "A net with 4 triangles",
+            "C": "A net with 6 squares",
+            "D": "A net with 1 circle and 1 sector"
+        },
+        "answer": "A",
+        "explanation": "A triangular prism has 2 triangular faces and 3 rectangular faces, so its net must have 2 triangles and 3 rectangles.",
+        "difficulty": "medium",
+        "imgFileName": "32_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 33,
+        "question": "What is the measure of angle P in this quadrilateral if angles A, B, and C are 85°, 95°, and 100° respectively?",
+        "options": {
+            "A": "70°",
+            "B": "80°",
+            "C": "90°",
+            "D": "100°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle P = 360° - (85° + 95° + 100°) = 80°.",
+        "difficulty": "medium",
+        "imgFileName": "33_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 34,
+        "question": "If the radius of a circle is 9 cm, what is the diameter?",
+        "options": {
+            "A": "4.5 cm",
+            "B": "9 cm",
+            "C": "18 cm",
+            "D": "36 cm"
+        },
+        "answer": "C",
+        "explanation": "The diameter is twice the radius. So, diameter = 2 × 9 cm = 18 cm.",
+        "difficulty": "medium",
+        "imgFileName": "34_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 35,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles?",
+        "options": {
+            "A": "Rectangle",
+            "B": "Rhombus",
+            "C": "Square",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles.",
+        "difficulty": "medium",
+        "imgFileName": "35_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 36,
+        "question": "What is the measure of angle Q in this pentagon if angles A, B, C, and D are 115°, 105°, 95°, and 85° respectively?",
+        "options": {
+            "A": "100°",
+            "B": "110°",
+            "C": "140°",
+            "D": "130°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle Q = 540° - (115° + 105° + 95° + 85°) = 140°",
+        "difficulty": "medium",
+        "imgFileName": "36_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 37,
+        "question": "Which of these nets can be folded to make a square pyramid?",
+        "options": {
+            "A": "A net with 4 triangles and 1 square",
+            "B": "A net with 5 squares",
+            "C": "A net with 6 rectangles",
+            "D": "A net with 2 triangles and 3 rectangles"
+        },
+        "answer": "A",
+        "explanation": "A square pyramid has 1 square base and 4 triangular faces, so its net must have 1 square and 4 triangles.",
+        "difficulty": "medium",
+        "imgFileName": "37_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 39,
+        "question": "If the diameter of a circle is 30 cm, what is the radius?",
+        "options": {
+            "A": "10 cm",
+            "B": "15 cm",
+            "C": "20 cm",
+            "D": "25 cm"
+        },
+        "answer": "B",
+        "explanation": "The radius is half the diameter. So, radius = 30 cm ÷ 2 = 15 cm.",
+        "difficulty": "medium",
+        "imgFileName": "39_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 40,
+        "question": "Which of these shapes has diagonals that are equal in length and bisect each other at right angles?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Rectangle",
+            "C": "Square",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A square has diagonals that are equal in length and bisect each other at right angles.",
+        "difficulty": "medium",
+        "imgFileName": "40_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 41,
+        "question": "What is the measure of angle S in this quadrilateral if angles A, B, and C are 110°, 70°, and 90° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle S = 360° - (110° + 70° + 90°) = 90°.",
+        "difficulty": "medium",
+        "imgFileName": "41_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 42,
+        "question": "Which of these nets can be folded to make a cuboid?",
+        "options": {
+            "A": "A net with 6 squares",
+            "B": "A net with 6 rectangles",
+            "C": "A net with 4 triangles and 2 squares",
+            "D": "A net with 5 rectangles and 1 square"
+        },
+        "answer": "B",
+        "explanation": "A cuboid has 6 rectangular faces, so its net must have 6 rectangles.",
+        "difficulty": "medium",
+        "imgFileName": "42_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 43,
+        "question": "What is the measure of angle T in this pentagon if angles A, B, C, and D are 100°, 110°, 120°, and 90° respectively?",
+        "options": {
+            "A": "100°",
+            "B": "110°",
+            "C": "120°",
+            "D": "130°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle T = 540° - (100° + 110° + 120° + 90°) = 120°.",
+        "difficulty": "medium",
+        "imgFileName": "43_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 44,
+        "question": "If the radius of a circle is 12 cm, what is the diameter?",
+        "options": {
+            "A": "6 cm",
+            "B": "12 cm",
+            "C": "24 cm",
+            "D": "48 cm"
+        },
+        "answer": "C",
+        "explanation": "The diameter is twice the radius. So, diameter = 2 × 12 cm = 24 cm.",
+        "difficulty": "medium",
+        "imgFileName": "44_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 45,
+        "question": "Which of these shapes has diagonals that bisect each other but are not equal in length?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other but are not equal in length unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "45_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 46,
+        "question": "What is the measure of angle U in this hexagon if angles A, B, C, D, and E are 135°, 125°, 115°, 105°, and 95° respectively?",
+        "options": {
+            "A": "75°",
+            "B": "145°",
+            "C": "95°",
+            "D": "105°"
+        },
+        "answer": "B",
+        "explanation": "The sum of interior angles in a hexagon is 720°. The sum of the provided angles is 575°. Angle U = 720° - 575° = 145°.",
+        "difficulty": "medium",
+        "imgFileName": "46_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 47,
+        "question": "If the diameter of a circle is 16 cm, what is the radius?",
+        "options": {
+            "A": "4 cm",
+            "B": "8 cm",
+            "C": "12 cm",
+            "D": "16 cm"
+        },
+        "answer": "B",
+        "explanation": "The radius is half the diameter. So, radius = 16 cm ÷ 2 = 8 cm.",
+        "difficulty": "medium",
+        "imgFileName": "47_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 48,
+        "question": "Which of these shapes has diagonals that are equal in length and bisect each other?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Rectangle",
+            "C": "Square",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has diagonals that are equal in length and bisect each other.",
+        "difficulty": "medium",
+        "imgFileName": "48_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 49,
+        "question": "What is the measure of angle V in this quadrilateral if angles A, B, and C are 70°, 110°, and 90° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle V = 360° - (70° + 110° + 90°) = 90°.",
+        "difficulty": "medium",
+        "imgFileName": "49_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 50,
+        "question": "Which of these nets can be folded to make a cylinder?",
+        "options": {
+            "A": "A net with 2 circles and 1 rectangle",
+            "B": "A net with 6 squares",
+            "C": "A net with 4 triangles",
+            "D": "A net with 2 rectangles and 4 triangles"
+        },
+        "answer": "A",
+        "explanation": "A cylinder has 2 circular bases and 1 rectangular face, so its net must have 2 circles and 1 rectangle.",
+        "difficulty": "medium",
+        "imgFileName": "50_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 51,
+        "question": "What is the measure of angle W in this pentagon if angles A, B, C, and D are 125°, 115°, 105°, and 95° respectively?",
+        "options": {
+            "A": "90°",
+            "B": "100°",
+            "C": "110°",
+            "D": "120°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle W = 540° - (125° + 115° + 105° + 95°) = 100°.",
+        "difficulty": "medium",
+        "imgFileName": "51_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 52,
+        "question": "If the radius of a circle is 8 cm, what is the diameter?",
+        "options": {
+            "A": "4 cm",
+            "B": "8 cm",
+            "C": "16 cm",
+            "D": "32 cm"
+        },
+        "answer": "C",
+        "explanation": "The diameter is twice the radius. So, diameter = 2 × 8 cm = 16 cm.",
+        "difficulty": "medium",
+        "imgFileName": "52_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 53,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles and are equal in length?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Rectangle",
+            "C": "Square",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A square has diagonals that bisect each other at right angles and are equal in length.",
+        "difficulty": "medium",
+        "imgFileName": "53_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 54,
+        "question": "What is the measure of angle X in this hexagon if angles A, B, C, D, and E are 145°, 135°, 125°, 115°, and 105° respectively?",
+        "options": {
+            "A": "75°",
+            "B": "85°",
+            "C": "95°",
+            "D": "105°"
+        },
+        "answer": "C",
+        "explanation": "The sum of interior angles in a hexagon is 720°. The sum of the provided angles is 145° + 135° + 125° + 115° + 105° = 625°. Therefore, angle X = 720° - 625° = 95°.",
+        "difficulty": "medium",
+        "imgFileName": "54_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 55,
+        "question": "If the diameter of a circle is 20 cm, what is the radius?",
+        "options": {
+            "A": "5 cm",
+            "B": "10 cm",
+            "C": "15 cm",
+            "D": "20 cm"
+        },
+        "answer": "B",
+        "explanation": "The radius is half the diameter. So, radius = 20 cm ÷ 2 = 10 cm.",
+        "difficulty": "medium",
+        "imgFileName": "55_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 56,
+        "question": "Which of these shapes has diagonals that are equal in length and bisect each other but do not bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has diagonals that are equal in length and bisect each other but do not bisect the angles unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "56_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 57,
+        "question": "What is the measure of angle Y in this quadrilateral if angles A, B, and C are 65°, 115°, and 100° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "A",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle Y = 360° - (65° + 115° + 100°) = 80°.",
+        "difficulty": "medium",
+        "imgFileName": "57_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 58,
+        "question": "Which of these nets can be folded to make a triangular prism?",
+        "options": {
+            "A": "A net with 2 triangles and 3 rectangles",
+            "B": "A net with 4 triangles",
+            "C": "A net with 6 squares",
+            "D": "A net with 1 circle and 1 sector"
+        },
+        "answer": "A",
+        "explanation": "A triangular prism has 2 triangular faces and 3 rectangular faces, so its net must have 2 triangles and 3 rectangles.",
+        "difficulty": "medium",
+        "imgFileName": "58_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 59,
+        "question": "What is the measure of angle Z in this pentagon if angles A, B, C, and D are 100°, 110°, 120°, and 90° respectively?",
+        "options": {
+            "A": "100°",
+            "B": "110°",
+            "C": "120°",
+            "D": "130°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle Z = 540° - (100° + 110° + 120° + 90°) = 120°.",
+        "difficulty": "medium",
+        "imgFileName": "59_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 60,
+        "question": "If the radius of a circle is 15 cm, what is the diameter?",
+        "options": {
+            "A": "7.5 cm",
+            "B": "15 cm",
+            "C": "30 cm",
+            "D": "60 cm"
+        },
+        "answer": "C",
+        "explanation": "The diameter is twice the radius. So, diameter = 2 × 15 cm = 30 cm.",
+        "difficulty": "medium",
+        "imgFileName": "60_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 61,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles but are not equal in length?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles but are not equal in length unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "61_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 62,
+        "question": "What is the measure of angle AA in this hexagon if angles A, B, C, D, and E are 135°, 125°, 115°, 105°, and 95° respectively?",
+        "options": {
+            "A": "75°",
+            "B": "145°",
+            "C": "95°",
+            "D": "105°"
+        },
+        "answer": "B",
+        "explanation": "The sum of interior angles in a hexagon is 720°. The sum of the provided angles is 575°. Angle AA = 720° - 575° = 145°.",
+        "difficulty": "medium",
+        "imgFileName": "62_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 63,
+        "question": "Which of these nets can be folded to make a square pyramid?",
+        "options": {
+            "A": "A net with 4 triangles and 1 square",
+            "B": "A net with 5 squares",
+            "C": "A net with 6 rectangles",
+            "D": "A net with 2 triangles and 3 rectangles"
+        },
+        "answer": "A",
+        "explanation": "A square pyramid has 1 square base and 4 triangular faces, so its net must have 1 square and 4 triangles.",
+        "difficulty": "medium",
+        "imgFileName": "63_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 64,
+        "question": "What is the measure of angle AB in this quadrilateral if angles A, B, and C are 100°, 80°, and 70° respectively?",
+        "options": {
+            "A": "90°",
+            "B": "100°",
+            "C": "110°",
+            "D": "120°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle AB = 360° - (100° + 80° + 70°) = 110°.",
+        "difficulty": "medium",
+        "imgFileName": "64_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 65,
+        "question": "If the diameter of a circle is 22 cm, what is the radius?",
+        "options": {
+            "A": "5.5 cm",
+            "B": "11 cm",
+            "C": "16.5 cm",
+            "D": "22 cm"
+        },
+        "answer": "B",
+        "explanation": "The radius is half the diameter. So, radius = 22 cm ÷ 2 = 11 cm.",
+        "difficulty": "medium",
+        "imgFileName": "65_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 66,
+        "question": "Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "A",
+        "explanation": "A square has diagonals that are equal in length, bisect each other, and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "66_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 67,
+        "question": "What is the measure of angle AC in this pentagon if angles A, B, C, and D are 110°, 120°, 100°, and 90° respectively?",
+        "options": {
+            "A": "100°",
+            "B": "110°",
+            "C": "120°",
+            "D": "130°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle AC = 540° - (110° + 120° + 100° + 90°) = 120°.",
+        "difficulty": "medium",
+        "imgFileName": "67_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 68,
+        "question": "Which of these nets can be folded to make a cuboid?",
+        "options": {
+            "A": "A net with 6 squares",
+            "B": "A net with 6 rectangles",
+            "C": "A net with 4 triangles and 2 squares",
+            "D": "A net with 5 rectangles and 1 square"
+        },
+        "answer": "B",
+        "explanation": "A cuboid has 6 rectangular faces, so its net must have 6 rectangles.",
+        "difficulty": "medium",
+        "imgFileName": "68_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 69,
+        "question": "What is the measure of angle AD in this hexagon if angles A, B, C, D, and E are 120°, 130°, 140°, 150°, and 110° respectively?",
+        "options": {
+            "A": "70°",
+            "B": "80°",
+            "C": "90°",
+            "D": "100°"
+        },
+        "answer": "A",
+        "explanation": "The sum of angles in a hexagon is 720°. So, angle AD = 720° - (120° + 130° + 140° + 150° + 110°) = 70°.",
+        "difficulty": "medium",
+        "imgFileName": "69_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 70,
+        "question": "If the radius of a circle is 14 cm, what is the diameter?",
+        "options": {
+            "A": "7 cm",
+            "B": "14 cm",
+            "C": "28 cm",
+            "D": "56 cm"
+        },
+        "answer": "C",
+        "explanation": "The diameter is twice the radius. So, diameter = 2 × 14 cm = 28 cm.",
+        "difficulty": "medium",
+        "imgFileName": "70_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 71,
+        "question": "Which of these shapes has diagonals that bisect each other but are not equal in length and do not intersect at right angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has diagonals that bisect each other but are not equal in length and do not intersect at right angles unless it is a rhombus or rectangle.",
+        "difficulty": "medium",
+        "imgFileName": "71_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 72,
+        "question": "What is the measure of angle AE in this quadrilateral if angles A, B, and C are 75°, 105°, and 90° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle AE = 360° - (75° + 105° + 90°) = 90°.",
+        "difficulty": "medium",
+        "imgFileName": "72_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 73,
+        "question": "Which of these nets can be folded to make a cylinder?",
+        "options": {
+            "A": "A net with 2 circles and 1 rectangle",
+            "B": "A net with 6 squares",
+            "C": "A net with 4 triangles",
+            "D": "A net with 2 rectangles and 4 triangles"
+        },
+        "answer": "A",
+        "explanation": "A cylinder has 2 circular bases and 1 rectangular face, so its net must have 2 circles and 1 rectangle.",
+        "difficulty": "medium",
+        "imgFileName": "73_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 74,
+        "question": "What is the measure of angle AF in this pentagon if angles A, B, C, and D are 125°, 115°, 105°, and 95° respectively?",
+        "options": {
+            "A": "90°",
+            "B": "100°",
+            "C": "110°",
+            "D": "120°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle AF = 540° - (125° + 115° + 105° + 95°) = 100°.",
+        "difficulty": "medium",
+        "imgFileName": "74_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 75,
+        "question": "If the diameter of a circle is 10 cm, what is the radius?",
+        "options": {
+            "A": "2.5 cm",
+            "B": "5 cm",
+            "C": "7.5 cm",
+            "D": "10 cm"
+        },
+        "answer": "B",
+        "explanation": "The radius is half the diameter. So, radius = 10 cm ÷ 2 = 5 cm.",
+        "difficulty": "medium",
+        "imgFileName": "75_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 76,
+        "question": "Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "A",
+        "explanation": "A square has diagonals that are equal in length, bisect each other, and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "76_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 77,
+        "question": "What is the measure of angle AG in this hexagon if angles A, B, C, D, and E are 145°, 135°, 125°, 115°, and 105° respectively?",
+        "options": {
+            "A": "75°",
+            "B": "85°",
+            "C": "95°",
+            "D": "105°"
+        },
+        "answer": "C",
+        "explanation": "The sum of interior angles in a hexagon is 720°. The sum of angles A-E is 625°. Therefore, angle AG = 720° - 625° = 95°.",
+        "difficulty": "medium",
+        "imgFileName": "77_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 78,
+        "question": "Which of these nets can be folded to make a triangular prism?",
+        "options": {
+            "A": "A net with 2 triangles and 3 rectangles",
+            "B": "A net with 4 triangles",
+            "C": "A net with 6 squares",
+            "D": "A net with 1 circle and 1 sector"
+        },
+        "answer": "A",
+        "explanation": "A triangular prism has 2 triangular faces and 3 rectangular faces, so its net must have 2 triangles and 3 rectangles.",
+        "difficulty": "medium",
+        "imgFileName": "78_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 79,
+        "question": "What is the measure of angle AH in this quadrilateral if angles A, B, and C are 60°, 120°, and 80° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "100°",
+            "C": "120°",
+            "D": "140°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle AH = 360° - (60° + 120° + 80°) = 100°.",
+        "difficulty": "medium",
+        "imgFileName": "79_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 80,
+        "question": "If the radius of a circle is 20 cm, what is the diameter?",
+        "options": {
+            "A": "10 cm",
+            "B": "20 cm",
+            "C": "40 cm",
+            "D": "80 cm"
+        },
+        "answer": "C",
+        "explanation": "The diameter is twice the radius. So, diameter = 2 × 20 cm = 40 cm.",
+        "difficulty": "medium",
+        "imgFileName": "80_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 81,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles but are not equal in length?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles but are not equal in length unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "81_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 82,
+        "question": "What is the measure of angle AI in this pentagon if angles A, B, C, and D are 130°, 120°, 110°, and 100° respectively?",
+        "options": {
+            "A": "70°",
+            "B": "80°",
+            "C": "90°",
+            "D": "100°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle AI = 540° - (130° + 120° + 110° + 100°) = 80°.",
+        "difficulty": "medium",
+        "imgFileName": "82_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 83,
+        "question": "Which of these nets can be folded to make a square pyramid?",
+        "options": {
+            "A": "A net with 4 triangles and 1 square",
+            "B": "A net with 5 squares",
+            "C": "A net with 6 rectangles",
+            "D": "A net with 2 triangles and 3 rectangles"
+        },
+        "answer": "A",
+        "explanation": "A square pyramid has 1 square base and 4 triangular faces, so its net must have 1 square and 4 triangles.",
+        "difficulty": "medium",
+        "imgFileName": "83_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 84,
+        "question": "What is the measure of angle AJ in this hexagon if angles A, B, C, D, and E are 135°, 125°, 115°, 105°, and 95° respectively?",
+        "options": {
+            "A": "75°",
+            "B": "145°",
+            "C": "95°",
+            "D": "105°"
+        },
+        "answer": "B",
+        "explanation": "The sum of interior angles in a hexagon is 720°. The sum of angles A-E is 575°. Angle AJ = 720° - 575° = 145°.",
+        "difficulty": "medium",
+        "imgFileName": "84_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 85,
+        "question": "If the diameter of a circle is 28 cm, what is the radius?",
+        "options": {
+            "A": "7 cm",
+            "B": "14 cm",
+            "C": "21 cm",
+            "D": "28 cm"
+        },
+        "answer": "B",
+        "explanation": "The radius is half the diameter. So, radius = 28 cm ÷ 2 = 14 cm.",
+        "difficulty": "medium",
+        "imgFileName": "85_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 86,
+        "question": "Which of these shapes has diagonals that are equal in length and bisect each other but do not bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has diagonals that are equal in length and bisect each other but do not bisect the angles unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "86_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 87,
+        "question": "What is the measure of angle AK in this quadrilateral if angles A, B, and C are 110°, 70°, and 90° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle AK = 360° - (110° + 70° + 90°) = 90°.",
+        "difficulty": "medium",
+        "imgFileName": "87_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 88,
+        "question": "Which of these nets can be folded to make a cone?",
+        "options": {
+            "A": "A net with 1 circle and 1 sector",
+            "B": "A net with 2 circles and 1 rectangle",
+            "C": "A net with 4 triangles",
+            "D": "A net with 6 squares"
+        },
+        "answer": "A",
+        "explanation": "A cone has 1 circular base and 1 curved surface (sector), so its net must have 1 circle and 1 sector.",
+        "difficulty": "medium",
+        "imgFileName": "88_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 89,
+        "question": "What is the measure of angle AL in this pentagon if angles A, B, C, and D are 100°, 110°, 120°, and 90° respectively?",
+        "options": {
+            "A": "100°",
+            "B": "110°",
+            "C": "120°",
+            "D": "130°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle AL = 540° - (100° + 110° + 120° + 90°) = 120°.",
+        "difficulty": "medium",
+        "imgFileName": "89_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 90,
+        "question": "If the radius of a circle is 25 cm, what is the diameter?",
+        "options": {
+            "A": "12.5 cm",
+            "B": "25 cm",
+            "C": "50 cm",
+            "D": "100 cm"
+        },
+        "answer": "C",
+        "explanation": "The diameter is twice the radius. So, diameter = 2 × 25 cm = 50 cm.",
+        "difficulty": "medium",
+        "imgFileName": "90_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 91,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "91_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 92,
+        "question": "What is the measure of angle AM in this hexagon if angles A, B, C, D, and E are 120°, 130°, 140°, 150°, and 110° respectively?",
+        "options": {
+            "A": "70°",
+            "B": "80°",
+            "C": "90°",
+            "D": "100°"
+        },
+        "answer": "A",
+        "explanation": "The sum of angles in a hexagon is 720°. So, angle AM = 720° - (120° + 130° + 140° + 150° + 110°) = 70°.",
+        "difficulty": "medium",
+        "imgFileName": "92_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 93,
+        "question": "Which of these nets can be folded to make a cuboid?",
+        "options": {
+            "A": "A net with 6 squares",
+            "B": "A net with 6 rectangles",
+            "C": "A net with 4 triangles and 2 squares",
+            "D": "A net with 5 rectangles and 1 square"
+        },
+        "answer": "B",
+        "explanation": "A cuboid has 6 rectangular faces, so its net must have 6 rectangles.",
+        "difficulty": "medium",
+        "imgFileName": "93_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 94,
+        "question": "What is the measure of angle AN in this quadrilateral if angles A, B, and C are 75°, 105°, and 90° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle AN = 360° - (75° + 105° + 90°) = 90°.",
+        "difficulty": "medium",
+        "imgFileName": "94_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 95,
+        "question": "If the diameter of a circle is 36 cm, what is the radius?",
+        "options": {
+            "A": "9 cm",
+            "B": "12 cm",
+            "C": "18 cm",
+            "D": "36 cm"
+        },
+        "answer": "C",
+        "explanation": "The radius is half the diameter. So, radius = 36 cm ÷ 2 = 18 cm.",
+        "difficulty": "medium",
+        "imgFileName": "95_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 96,
+        "question": "Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "A",
+        "explanation": "A square has diagonals that are equal in length, bisect each other, and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "96_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 97,
+        "question": "What is the measure of angle AO in this pentagon if angles A, B, C, and D are 125°, 115°, 105°, and 95° respectively?",
+        "options": {
+            "A": "90°",
+            "B": "100°",
+            "C": "110°",
+            "D": "120°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle AO = 540° - (125° + 115° + 105° + 95°) = 100°.",
+        "difficulty": "medium",
+        "imgFileName": "97_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 98,
+        "question": "Which of these nets can be folded to make a triangular prism?",
+        "options": {
+            "A": "A net with 2 triangles and 3 rectangles",
+            "B": "A net with 4 triangles",
+            "C": "A net with 6 squares",
+            "D": "A net with 1 circle and 1 sector"
+        },
+        "answer": "A",
+        "explanation": "A triangular prism has 2 triangular faces and 3 rectangular faces, so its net must have 2 triangles and 3 rectangles.",
+        "difficulty": "medium",
+        "imgFileName": "98_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 99,
+        "question": "What is the measure of angle AP in this hexagon if angles A, B, C, D, and E are 135°, 125°, 115°, 105°, and 95° respectively?",
+        "options": {
+            "A": "75°",
+            "B": "145°",
+            "C": "95°",
+            "D": "105°"
+        },
+        "answer": "B",
+        "explanation": "The sum of interior angles in a hexagon is 720°. Sum of angles A-E is 575°. Angle AP = 720° - 575° = 145°.",
+        "difficulty": "medium",
+        "imgFileName": "99_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 100,
+        "question": "If the radius of a circle is 30 cm, what is the diameter?",
+        "options": {
+            "A": "15 cm",
+            "B": "30 cm",
+            "C": "60 cm",
+            "D": "120 cm"
+        },
+        "answer": "C",
+        "explanation": "The diameter is twice the radius. So, diameter = 2 × 30 cm = 60 cm.",
+        "difficulty": "medium",
+        "imgFileName": "100_Year6-Geometry-properties_of_shapes_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    }
+]

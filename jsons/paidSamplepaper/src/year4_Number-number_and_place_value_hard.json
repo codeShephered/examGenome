@@ -1,0 +1,6541 @@
+[
+    {
+      "question": "What is 1,000 less than 1,234,567?",
+      "options": {
+        "A": "1,233,567",
+        "B": "1,234,467",
+        "C": "1,235,567",
+        "D": "1,234,557"
+      },
+      "answer": "A",
+      "explanation": "Subtracting 1,000 reduces the thousands digit by 1: 1,234,567 − 1,000 = 1,233,567.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 1,000 more than 9,876,543?",
+      "options": {
+        "A": "9,876,544",
+        "B": "9,877,543",
+        "C": "9,875,543",
+        "D": "9,876,643"
+      },
+      "answer": "B",
+      "explanation": "Adding 1,000 increases the thousands place: 9,876,543 + 1,000 = 9,877,543.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 1,000,006; 1,000,012; 1,000,018; ...?",
+      "options": {
+        "A": "1,000,020",
+        "B": "1,000,024",
+        "C": "1,000,030",
+        "D": "1,000,036"
+      },
+      "answer": "B",
+      "explanation": "The sequence increases by 6 each time. 1,000,018 + 6 = 1,000,024.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 2,000,007; 2,000,014; 2,000,021; ...?",
+      "options": {
+        "A": "2,000,027",
+        "B": "2,000,028",
+        "C": "2,000,030",
+        "D": "2,000,035"
+      },
+      "answer": "B",
+      "explanation": "Counting in multiples of 7: 2,000,021 + 7 = 2,000,028.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 3,000,009; 3,000,018; 3,000,027; ...?",
+      "options": {
+        "A": "3,000,030",
+        "B": "3,000,036",
+        "C": "3,000,045",
+        "D": "3,000,054"
+      },
+      "answer": "B",
+      "explanation": "Adding 9 each time: 3,000,027 + 9 = 3,000,036.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 1,000,375; 1,000,400; 1,000,425; ...?",
+      "options": {
+        "A": "1,000,440",
+        "B": "1,000,450",
+        "C": "1,000,475",
+        "D": "1,000,500"
+      },
+      "answer": "B",
+      "explanation": "Counting in multiples of 25: 1,000,425 + 25 = 1,000,450.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 5,000,000; 5,001,000; 5,002,000; ...?",
+      "options": {
+        "A": "5,002,500",
+        "B": "5,003,000",
+        "C": "5,004,000",
+        "D": "5,005,000"
+      },
+      "answer": "B",
+      "explanation": "Counting in 1,000s: 5,002,000 + 1,000 = 5,003,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Starting at 10 and counting backwards through zero, what is the 15th number?",
+      "options": {
+        "A": "-4",
+        "B": "-5",
+        "C": "-6",
+        "D": "-7"
+      },
+      "answer": "A",
+      "explanation": "Sequence: 10(1), 9(2), ..., 0(11), -1(12), -2(13), -3(14), -4(15).",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Starting at 10 and counting backwards through zero, what is the 15th number?",
+      "options": {
+        "A": "-4",
+        "B": "-5",
+        "C": "-6",
+        "D": "-7"
+      },
+      "answer": "A",
+      "explanation": "1st=10, 2nd=9, 3rd=8, 4th=7, 5th=6, 6th=5, 7th=4, 8th=3, 9th=2, 10th=1, 11th=0, 12th=-1, 13th=-2, 14th=-3, 15th=-4.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is halfway between -25 and 15?",
+      "options": {
+        "A": "-10",
+        "B": "-5",
+        "C": "0",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "Distance = 40; half = 20. -25 + 20 = -5.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 12,345,678, what is the value of the digit 4?",
+      "options": {
+        "A": "4",
+        "B": "40",
+        "C": "40,000",
+        "D": "400,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 4 is in the ten-thousands place, so its value is 40,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 98,765,432, what is the value of the digit 9?",
+      "options": {
+        "A": "90",
+        "B": "900",
+        "C": "9,000,000",
+        "D": "90,000,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 9 is in the ten-millions place, so its value is 90,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 5,060,708, what is the value of the digit 6?",
+      "options": {
+        "A": "6",
+        "B": "60",
+        "C": "60,000",
+        "D": "600,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 6 is in the ten-thousands place: 60,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which digit is in the hundred-thousands place in 7,890,123?",
+      "options": {
+        "A": "7",
+        "B": "8",
+        "C": "9",
+        "D": "0"
+      },
+      "answer": "B",
+      "explanation": "From right: ones=3, tens=2, hundreds=1, thousands=0, ten-thousands=9, hundred-thousands=8, millions=7.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which digit has the greatest value in 9,080,706?",
+      "options": {
+        "A": "9",
+        "B": "8",
+        "C": "7",
+        "D": "6"
+      },
+      "answer": "A",
+      "explanation": "9 is in the millions place (9,000,000), which is greater than 80,000, 700, or 6.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is greater: 12,345,678 or 12,345,687?",
+      "options": {
+        "A": "12,345,678",
+        "B": "12,345,687",
+        "C": "They are equal",
+        "D": "Not enough information"
+      },
+      "answer": "B",
+      "explanation": "Digits match until the tens place: 8 > 7, so 12,345,687 is greater.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is smaller: 98,765,432 or 98,765,423?",
+      "options": {
+        "A": "98,765,432",
+        "B": "98,765,423",
+        "C": "They are equal",
+        "D": "Cannot tell"
+      },
+      "answer": "B",
+      "explanation": "Ones: 3 < 2? No—tens: both 3, then ones: 2 vs 3 → 2 < 3, so 98,765,423 is smaller.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Order these numbers from smallest to largest: 10,000,001; 9,999,999; 10,000,100; 9,999,900.",
+      "options": {
+        "A": "9,999,900; 9,999,999; 10,000,001; 10,000,100",
+        "B": "9,999,999; 9,999,900; 10,000,001; 10,000,100",
+        "C": "10,000,100; 10,000,001; 9,999,999; 9,999,900",
+        "D": "9,999,900; 10,000,001; 9,999,999; 10,000,100"
+      },
+      "answer": "A",
+      "explanation": "9,999,900 < 9,999,999 < 10,000,001 < 10,000,100.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which symbol correctly compares 56,789,012 and 56,789,021?",
+      "options": {
+        "A": "=",
+        "B": "<",
+        "C": ">",
+        "D": "≥"
+      },
+      "answer": "B",
+      "explanation": "Tens digit: 1 < 2, so 56,789,012 < 56,789,021.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which of these numbers is the largest: 123,456,789; 123,456,798; 123,456,879; 123,456,897?",
+      "options": {
+        "A": "123,456,789",
+        "B": "123,456,798",
+        "C": "123,456,879",
+        "D": "123,456,897"
+      },
+      "answer": "D",
+      "explanation": "Compare tens: 9 > 7, so 123,456,897 is largest.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is represented by 7 × 10,000,000 + 0 × 1,000,000 + 5 × 100,000 + 0 × 10,000 + 3 × 1,000 + 0 × 100 + 2 × 10 + 1 × 1?",
+      "options": {
+        "A": "70,503,021",
+        "B": "75,003,021",
+        "C": "70,530,021",
+        "D": "705,030,021"
+      },
+      "answer": "A",
+      "explanation": "70,000,000 + 0 + 500,000 + 0 + 3,000 + 0 + 20 + 1 = 70,503,021.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number matches this description: 8 ten-millions, 0 millions, 6 hundred-thousands, 0 ten-thousands, 4 thousands, 0 hundreds, 5 tens, and 0 ones?",
+      "options": {
+        "A": "80,604,050",
+        "B": "86,004,050",
+        "C": "80,640,050",
+        "D": "8,060,405"
+      },
+      "answer": "A",
+      "explanation": "80,000,000 + 0 + 600,000 + 0 + 4,000 + 0 + 50 + 0 = 80,604,050.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 12,345,678 to the nearest 10.",
+      "options": {
+        "A": "12,345,670",
+        "B": "12,345,680",
+        "C": "12,345,600",
+        "D": "12,345,700"
+      },
+      "answer": "B",
+      "explanation": "Ones digit is 8 (≥5), so round up: 12,345,678 → 12,345,680.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 98,765,432 to the nearest 100.",
+      "options": {
+        "A": "98,765,400",
+        "B": "98,765,500",
+        "C": "98,765,430",
+        "D": "98,766,000"
+      },
+      "answer": "A",
+      "explanation": "Tens digit is 3 (<5), so round down: 98,765,432 → 98,765,400.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 567,890,123 to the nearest 1,000.",
+      "options": {
+        "A": "567,890,000",
+        "B": "567,891,000",
+        "C": "567,890,100",
+        "D": "567,890,200"
+      },
+      "answer": "A",
+      "explanation": "Hundreds digit is 1 (<5), so round down: 567,890,123 → 567,890,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 999,999,999 to the nearest 1,000.",
+      "options": {
+        "A": "999,999,000",
+        "B": "1,000,000,000",
+        "C": "999,999,900",
+        "D": "1,000,001,000"
+      },
+      "answer": "B",
+      "explanation": "Hundreds digit is 9 (≥5), so round up: 999,999,999 → 1,000,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 123,456,789 to the nearest 10,000.",
+      "options": {
+        "A": "123,450,000",
+        "B": "123,460,000",
+        "C": "123,456,000",
+        "D": "123,457,000"
+      },
+      "answer": "B",
+      "explanation": "Thousands digit is 6 (≥5), so round up: 123,456,789 → 123,460,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A number rounds to 50,000,000 when rounded to the nearest 1,000,000. Which could it be?",
+      "options": {
+        "A": "49,499,999",
+        "B": "49,500,001",
+        "C": "50,500,000",
+        "D": "50,600,000"
+      },
+      "answer": "B",
+      "explanation": "Numbers from 49,500,000 to 50,499,999 round to 50,000,000. 49,500,001 is in that range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A number rounds to 1,234,500 when rounded to the nearest 100. Which could it be?",
+      "options": {
+        "A": "1,234,449",
+        "B": "1,234,551",
+        "C": "1,234,549",
+        "D": "1,234,400"
+      },
+      "answer": "C",
+      "explanation": "Range is 1,234,450 to 1,234,549. 1,234,549 is within this range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 94?",
+      "options": {
+        "A": "XCIV",
+        "B": "LXXXXIV",
+        "C": "CIV",
+        "D": "LXXXIV"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 4 = IV, so 94 = XCIV.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 86?",
+      "options": {
+        "A": "LXXXVI",
+        "B": "LXXVI",
+        "C": "XCVI",
+        "D": "LXXXIV"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 6 = VI, so 86 = LXXXVI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number does the Roman numeral 'XCIX' represent?",
+      "options": {
+        "A": "89",
+        "B": "99",
+        "C": "109",
+        "D": "91"
+      },
+      "answer": "B",
+      "explanation": "XC = 90, IX = 9, so 90 + 9 = 99.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number does the Roman numeral 'XLIX' represent?",
+      "options": {
+        "A": "49",
+        "B": "59",
+        "C": "69",
+        "D": "41"
+      },
+      "answer": "A",
+      "explanation": "XL = 40, IX = 9, so 40 + 9 = 49.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 98?",
+      "options": {
+        "A": "XCVIII",
+        "B": "LXXXXVIII",
+        "C": "ICVIII",
+        "D": "CXVIII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 8 = VIII, so 98 = XCVIII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 79?",
+      "options": {
+        "A": "LXXIX",
+        "B": "LXIX",
+        "C": "LXXXIX",
+        "D": "LXXVIIII"
+      },
+      "answer": "A",
+      "explanation": "70 = LXX, 9 = IX, so 79 = LXXIX.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 91 in Roman numerals?",
+      "options": {
+        "A": "XCI",
+        "B": "LXXXXI",
+        "C": "CXI",
+        "D": "IC"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 1 = I, so 91 = XCI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 99 in Roman numerals?",
+      "options": {
+        "A": "IC",
+        "B": "XCIX",
+        "C": "LXXXXIX",
+        "D": "CIX"
+      },
+      "answer": "B",
+      "explanation": "90 = XC, 9 = IX, so 99 = XCIX.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'XLVIII'?",
+      "options": {
+        "A": "48",
+        "B": "58",
+        "C": "68",
+        "D": "42"
+      },
+      "answer": "A",
+      "explanation": "XL = 40, VIII = 8, so 40 + 8 = 48.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'LXXIX'?",
+      "options": {
+        "A": "69",
+        "B": "79",
+        "C": "89",
+        "D": "71"
+      },
+      "answer": "B",
+      "explanation": "LXX = 70, IX = 9, so 70 + 9 = 79.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Estimate the total cost of items priced at £12,345,678, £23,456,789, and £34,567,890 by rounding each to the nearest £1,000,000.",
+      "options": {
+        "A": "£70,000,000",
+        "B": "£71,000,000",
+        "C": "£72,000,000",
+        "D": "£69,000,000"
+      },
+      "answer": "A",
+      "explanation": "Rounded: £12,000,000 + £23,000,000 + £35,000,000 = £70,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A country has a population of 67,890,123. Rounded to the nearest 1,000,000, what is the population?",
+      "options": {
+        "A": "67,000,000",
+        "B": "68,000,000",
+        "C": "67,900,000",
+        "D": "60,000,000"
+      },
+      "answer": "B",
+      "explanation": "Hundred-thousands digit is 8 (≥5), so round up: 67,890,123 → 68,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A planet is 123,456,789 km from Earth. Rounded to the nearest 100,000 km, how far is it?",
+      "options": {
+        "A": "123,400,000 km",
+        "B": "123,500,000 km",
+        "C": "123,450,000 km",
+        "D": "123,460,000 km"
+      },
+      "answer": "B",
+      "explanation": "Ten-thousands digit is 5 (≥5), so round up: 123,456,789 → 123,500,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is 1,000 less than ten million?",
+      "options": {
+        "A": "9,999,000",
+        "B": "9,999,900",
+        "C": "9,999,999",
+        "D": "10,000,000"
+      },
+      "answer": "A",
+      "explanation": "10,000,000 − 1,000 = 9,999,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is 1,000 more than nine million, nine hundred ninety-nine thousand?",
+      "options": {
+        "A": "9,999,001",
+        "B": "10,000,000",
+        "C": "10,001,000",
+        "D": "9,999,100"
+      },
+      "answer": "B",
+      "explanation": "9,999,000 + 1,000 = 10,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 25s from 0. Which of these numbers will you NOT say?",
+      "options": {
+        "A": "1,250",
+        "B": "1,275",
+        "C": "1,300",
+        "D": "1,260"
+      },
+      "answer": "D",
+      "explanation": "1,260 ÷ 25 = 50.4, not a whole number, so 1,260 is not a multiple of 25.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 9s from 0. Which number will you say?",
+      "options": {
+        "A": "1,008",
+        "B": "1,010",
+        "C": "1,012",
+        "D": "1,015"
+      },
+      "answer": "A",
+      "explanation": "1,008 ÷ 9 = 112, so 1,008 is a multiple of 9.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 7s from 0. Which number is NOT in the sequence?",
+      "options": {
+        "A": "1,001",
+        "B": "1,002",
+        "C": "1,008",
+        "D": "1,015"
+      },
+      "answer": "B",
+      "explanation": "1,002 ÷ 7 ≈ 143.142…, not a whole number, so 1,002 is not a multiple of 7.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 6s from 0. Which number will you say?",
+      "options": {
+        "A": "1,002",
+        "B": "1,003",
+        "C": "1,004",
+        "D": "1,005"
+      },
+      "answer": "A",
+      "explanation": "1,002 ÷ 6 = 167, so 1,002 is a multiple of 6.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the 100th number when counting in 1,000s starting from 1,000?",
+      "options": {
+        "A": "100,000",
+        "B": "99,000",
+        "C": "101,000",
+        "D": "10,000"
+      },
+      "answer": "A",
+      "explanation": "1st = 1,000, ..., 100th = 100,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the temperature if it starts at -15°C and drops by 20 degrees?",
+      "options": {
+        "A": "-35°C",
+        "B": "5°C",
+        "C": "-5°C",
+        "D": "35°C"
+      },
+      "answer": "A",
+      "explanation": "-15 − 20 = -35, so the temperature is -35°C.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "If the temperature was -25°C and it rose by 40 degrees, what is the new temperature?",
+      "options": {
+        "A": "15°C",
+        "B": "-65°C",
+        "C": "65°C",
+        "D": "-15°C"
+      },
+      "answer": "A",
+      "explanation": "-25 + 40 = 15, so the new temperature is 15°C.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is greater: -100 or -99?",
+      "options": {
+        "A": "-100",
+        "B": "-99",
+        "C": "They are equal",
+        "D": "Neither"
+      },
+      "answer": "B",
+      "explanation": "On a number line, -99 is to the right of -100, so it is greater.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Order these temperatures from coldest to warmest: -50°C, 10°C, -5°C, 0°C.",
+      "options": {
+        "A": "-50°C, -5°C, 0°C, 10°C",
+        "B": "10°C, 0°C, -5°C, -50°C",
+        "C": "-5°C, -50°C, 0°C, 10°C",
+        "D": "0°C, -5°C, 10°C, -50°C"
+      },
+      "answer": "A",
+      "explanation": "Coldest to warmest: -50 < -5 < 0 < 10.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is 25 less than -10?",
+      "options": {
+        "A": "-35",
+        "B": "-15",
+        "C": "15",
+        "D": "35"
+      },
+      "answer": "A",
+      "explanation": "-10 − 25 = -35.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is 30 more than -45?",
+      "options": {
+        "A": "-75",
+        "B": "-15",
+        "C": "15",
+        "D": "75"
+      },
+      "answer": "B",
+      "explanation": "-45 + 30 = -15.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 203,040,506, what is the place value of the digit 3?",
+      "options": {
+        "A": "3",
+        "B": "30",
+        "C": "3,000,000",
+        "D": "30,000,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 3 is in the millions place, so its value is 3,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 405,060,708, what is the value of the digit 5?",
+      "options": {
+        "A": "5",
+        "B": "50",
+        "C": "5,000,000",
+        "D": "50,000,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 5 is in the millions place: 5,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number has the same value as 50,000,000 + 600,000 + 7,000 + 80 + 9?",
+      "options": {
+        "A": "50,607,089",
+        "B": "56,007,089",
+        "C": "50,670,089",
+        "D": "56,070,089"
+      },
+      "answer": "A",
+      "explanation": "50,000,000 + 600,000 + 7,000 + 80 + 9 = 50,607,089.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is shown by 9 × 10,000,000 + 0 × 1,000,000 + 8 × 100,000 + 0 × 10,000 + 7 × 1,000 + 0 × 100 + 6 × 10 + 5 × 1?",
+      "options": {
+        "A": "90,807,065",
+        "B": "98,007,065",
+        "C": "90,870,065",
+        "D": "908,070,065"
+      },
+      "answer": "A",
+      "explanation": "90,000,000 + 0 + 800,000 + 0 + 7,000 + 0 + 60 + 5 = 90,807,065.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 987,654,321 to the nearest 1,000.",
+      "options": {
+        "A": "987,654,000",
+        "B": "987,655,000",
+        "C": "987,654,300",
+        "D": "987,654,400"
+      },
+      "answer": "A",
+      "explanation": "Hundreds digit is 3 (<5), so round down: 987,654,321 → 987,654,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 123,456,789 to the nearest 10,000.",
+      "options": {
+        "A": "123,450,000",
+        "B": "123,460,000",
+        "C": "123,456,000",
+        "D": "123,457,000"
+      },
+      "answer": "B",
+      "explanation": "Thousands digit is 6 (≥5), so round up: 123,456,789 → 123,460,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 987,654,321 to the nearest 100,000.",
+      "options": {
+        "A": "987,600,000",
+        "B": "987,700,000",
+        "C": "987,650,000",
+        "D": "987,660,000"
+      },
+      "answer": "B",
+      "explanation": "Ten-thousands digit is 5 (≥5), so round up: 987,654,321 → 987,700,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A galaxy is 1,234,567,890 light-years away. Rounded to the nearest 10,000,000 light-years, how far is it?",
+      "options": {
+        "A": "1,230,000,000",
+        "B": "1,240,000,000",
+        "C": "1,234,000,000",
+        "D": "1,235,000,000"
+      },
+      "answer": "A",
+      "explanation": "Millions digit is 4 (<5), so round down: 1,234,567,890 → 1,230,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number rounds to 100,000,000 when rounded to the nearest 10,000,000?",
+      "options": {
+        "A": "94,999,999",
+        "B": "95,000,001",
+        "C": "105,000,000",
+        "D": "106,000,000"
+      },
+      "answer": "B",
+      "explanation": "Numbers from 95,000,000 to 104,999,999 round to 100,000,000. 95,000,001 is in that range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 97?",
+      "options": {
+        "A": "XCVII",
+        "B": "LXXXXVII",
+        "C": "CVII",
+        "D": "LXXXVII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 7 = VII, so 97 = XCVII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is represented by 'LXXXVIII'?",
+      "options": {
+        "A": "78",
+        "B": "88",
+        "C": "98",
+        "D": "87"
+      },
+      "answer": "B",
+      "explanation": "LXXX = 80, VIII = 8, so 80 + 8 = 88.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 82?",
+      "options": {
+        "A": "LXXXII",
+        "B": "LXXII",
+        "C": "XCII",
+        "D": "LXXXVII"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 2 = II, so 82 = LXXXII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 95?",
+      "options": {
+        "A": "XCV",
+        "B": "LXXXXV",
+        "C": "CV",
+        "D": "LXXV"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 5 = V, so 95 = XCV.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 76 in Roman numerals?",
+      "options": {
+        "A": "LXXVI",
+        "B": "LXVI",
+        "C": "LXXXVI",
+        "D": "LXXIV"
+      },
+      "answer": "A",
+      "explanation": "70 = LXX, 6 = VI, so 76 = LXXVI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is halfway between 10,000,000 and 20,000,000?",
+      "options": {
+        "A": "12,500,000",
+        "B": "15,000,000",
+        "C": "17,500,000",
+        "D": "18,000,000"
+      },
+      "answer": "B",
+      "explanation": "Difference is 10,000,000; half is 5,000,000. 10,000,000 + 5,000,000 = 15,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is halfway between -50 and 30?",
+      "options": {
+        "A": "-20",
+        "B": "-10",
+        "C": "0",
+        "D": "10"
+      },
+      "answer": "B",
+      "explanation": "Distance = 80; half = 40. -50 + 40 = -10.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 1,000 more than 99,999,000?",
+      "options": {
+        "A": "99,998,000",
+        "B": "99,999,001",
+        "C": "100,000,000",
+        "D": "100,001,000"
+      },
+      "answer": "C",
+      "explanation": "99,999,000 + 1,000 = 100,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 1,000 less than 100,000,000?",
+      "options": {
+        "A": "99,999,000",
+        "B": "99,999,900",
+        "C": "99,999,999",
+        "D": "100,001,000"
+      },
+      "answer": "A",
+      "explanation": "100,000,000 − 1,000 = 99,999,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "How many thousands are in 12,345,000?",
+      "options": {
+        "A": "12,345",
+        "B": "1,234",
+        "C": "123",
+        "D": "12"
+      },
+      "answer": "A",
+      "explanation": "12,345,000 ÷ 1,000 = 12,345, so there are 12,345 thousands.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "How many hundreds are in 987,654,000?",
+      "options": {
+        "A": "9,876,540",
+        "B": "987,654",
+        "C": "98,765",
+        "D": "9,876"
+      },
+      "answer": "A",
+      "explanation": "987,654,000 ÷ 100 = 9,876,540, so there are 9,876,540 hundreds.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "How many tens are in 123,456,000?",
+      "options": {
+        "A": "12,345,600",
+        "B": "1,234,560",
+        "C": "123,456",
+        "D": "12,345"
+      },
+      "answer": "A",
+      "explanation": "123,456,000 ÷ 10 = 12,345,600, so there are 12,345,600 tens.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is 100 more than 99,999,900?",
+      "options": {
+        "A": "99,999,910",
+        "B": "100,000,000",
+        "C": "100,000,100",
+        "D": "99,999,800"
+      },
+      "answer": "B",
+      "explanation": "99,999,900 + 100 = 100,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is 100 less than 100,000,100?",
+      "options": {
+        "A": "100,000,000",
+        "B": "99,999,900",
+        "C": "100,000,090",
+        "D": "100,000,200"
+      },
+      "answer": "A",
+      "explanation": "100,000,100 − 100 = 100,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 25s: what number comes after 999,975?",
+      "options": {
+        "A": "999,980",
+        "B": "1,000,000",
+        "C": "1,000,025",
+        "D": "999,990"
+      },
+      "answer": "B",
+      "explanation": "999,975 + 25 = 1,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 9s: what number comes after 999,999?",
+      "options": {
+        "A": "1,000,000",
+        "B": "1,000,008",
+        "C": "1,000,017",
+        "D": "1,000,009"
+      },
+      "answer": "B",
+      "explanation": "999,999 + 9 = 1,000,008.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 7s: what number comes after 999,993?",
+      "options": {
+        "A": "1,000,000",
+        "B": "1,000,001",
+        "C": "1,000,007",
+        "D": "1,000,010"
+      },
+      "answer": "A",
+      "explanation": "999,993 + 7 = 1,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 6s: what number comes after 999,996?",
+      "options": {
+        "A": "1,000,000",
+        "B": "1,000,002",
+        "C": "1,000,006",
+        "D": "1,000,012"
+      },
+      "answer": "B",
+      "explanation": "999,996 + 6 = 1,000,002.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 1,000s: what number comes after 999,999,000?",
+      "options": {
+        "A": "999,999,001",
+        "B": "1,000,000,000",
+        "C": "1,000,001,000",
+        "D": "999,999,100"
+      },
+      "answer": "B",
+      "explanation": "999,999,000 + 1,000 = 1,000,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the sum of the place values of the two 1s in 101,000,000?",
+      "options": {
+        "A": "101,000,000",
+        "B": "100,000,001",
+        "C": "101,000,001",
+        "D": "1,000,001"
+      },
+      "answer": "A",
+      "explanation": "100,000,000 + 1,000,000 = 101,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the difference between the place values of the two 9s in 909,000,000?",
+      "options": {
+        "A": "891,000,000",
+        "B": "900,000,000",
+        "C": "909,000,000",
+        "D": "890,000,000"
+      },
+      "answer": "A",
+      "explanation": "900,000,000 − 9,000,000 = 891,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented on an abacus with 7 beads in the ten-millions column, 0 in millions, 8 in hundred-thousands, 0 in ten-thousands, 9 in thousands, 0 in hundreds, 1 in tens, and 0 in ones?",
+      "options": {
+        "A": "70,809,010",
+        "B": "78,009,010",
+        "C": "70,890,010",
+        "D": "7,080,901"
+      },
+      "answer": "A",
+      "explanation": "70,000,000 + 0 + 800,000 + 0 + 9,000 + 0 + 10 + 0 = 70,809,010.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A number has 6 in the ten-millions place, 0 in all other places except 5 in the ones. What is the number?",
+      "options": {
+        "A": "60,000,005",
+        "B": "60,000,050",
+        "C": "60,005,000",
+        "D": "6,000,005"
+      },
+      "answer": "A",
+      "explanation": "60,000,000 + 0 + 0 + 0 + 0 + 0 + 0 + 5 = 60,000,005.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 1,000,000,001 to the nearest 100,000,000.",
+      "options": {
+        "A": "1,000,000,000",
+        "B": "1,100,000,000",
+        "C": "900,000,000",
+        "D": "1,010,000,000"
+      },
+      "answer": "A",
+      "explanation": "Ten-millions digit is 0 (<5), so round down: 1,000,000,001 → 1,000,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 9,876,543,210 to the nearest 100,000,000.",
+      "options": {
+        "A": "9,800,000,000",
+        "B": "9,900,000,000",
+        "C": "9,870,000,000",
+        "D": "9,880,000,000"
+      },
+      "answer": "B",
+      "explanation": "Ten-millions digit is 7 (≥5), so round up: 9,876,543,210 → 9,900,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 5,123,456,789 to the nearest 1,000,000,000.",
+      "options": {
+        "A": "5,000,000,000",
+        "B": "6,000,000,000",
+        "C": "5,100,000,000",
+        "D": "5,200,000,000"
+      },
+      "answer": "A",
+      "explanation": "Hundred-millions digit is 1 (<5), so round down: 5,123,456,789 → 5,000,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is closest to 8,765,432,109 when rounded to the nearest 10,000,000?",
+      "options": {
+        "A": "8,760,000,000",
+        "B": "8,770,000,000",
+        "C": "8,765,000,000",
+        "D": "8,766,000,000"
+      },
+      "answer": "B",
+      "explanation": "Millions digit is 5 (≥5), so round up: 8,765,432,109 → 8,770,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A number rounds to 2,000,000,000 when rounded to the nearest 100,000,000. Which could it be?",
+      "options": {
+        "A": "1,949,999,999",
+        "B": "1,950,000,001",
+        "C": "2,050,000,000",
+        "D": "2,060,000,000"
+      },
+      "answer": "B",
+      "explanation": "Numbers from 1,950,000,000 to 2,049,999,999 round to 2,000,000,000. 1,950,000,001 is in that range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 87?",
+      "options": {
+        "A": "LXXXVII",
+        "B": "LXXVII",
+        "C": "XCVII",
+        "D": "LXXXVI"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 7 = VII, so 87 = LXXXVII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is represented by 'LXXIV'?",
+      "options": {
+        "A": "64",
+        "B": "74",
+        "C": "84",
+        "D": "76"
+      },
+      "answer": "B",
+      "explanation": "LXX = 70, IV = 4, so 70 + 4 = 74.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 56?",
+      "options": {
+        "A": "LVI",
+        "B": "LIV",
+        "C": "LXVI",
+        "D": "XLVI"
+      },
+      "answer": "A",
+      "explanation": "50 = L, 6 = VI, so 56 = LVI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 92?",
+      "options": {
+        "A": "XCII",
+        "B": "LXXXXII",
+        "C": "CII",
+        "D": "LXXII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 2 = II, so 92 = XCII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 71 in Roman numerals?",
+      "options": {
+        "A": "LXXI",
+        "B": "LXI",
+        "C": "LXXXI",
+        "D": "LXX"
+      },
+      "answer": "A",
+      "explanation": "70 = LXX, 1 = I, so 71 = LXXI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 97 in Roman numerals?",
+      "options": {
+        "A": "XCVII",
+        "B": "LXXXXVII",
+        "C": "CVII",
+        "D": "LXXXVII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 7 = VII, so 97 = XCVII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'XLVIII'?",
+      "options": {
+        "A": "48",
+        "B": "58",
+        "C": "68",
+        "D": "42"
+      },
+      "answer": "A",
+      "explanation": "XL = 40, VIII = 8, so 40 + 8 = 48.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'LXXVII'?",
+      "options": {
+        "A": "67",
+        "B": "77",
+        "C": "87",
+        "D": "75"
+      },
+      "answer": "B",
+      "explanation": "LXX = 70, VII = 7, so 70 + 7 = 77.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Estimate the difference between 987,654,321 and 123,456,789 by rounding both to the nearest 100,000,000.",
+      "options": {
+        "A": "800,000,000",
+        "B": "900,000,000",
+        "C": "860,000,000",
+        "D": "850,000,000"
+      },
+      "answer": "B",
+      "explanation": "987,654,321 → 1,000,000,000; 123,456,789 → 100,000,000; difference = 900,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A library has 123,456,789 books. Rounded to the nearest 1,000,000, how many books are there?",
+      "options": {
+        "A": "123,000,000",
+        "B": "124,000,000",
+        "C": "123,500,000",
+        "D": "120,000,000"
+      },
+      "answer": "A",
+      "explanation": "Hundred-thousands digit is 4 (<5), so round down: 123,456,789 → 123,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A star is 987,654,321 km from Earth. Rounded to the nearest 1,000,000 km, how far is it?",
+      "options": {
+        "A": "987,000,000 km",
+        "B": "988,000,000 km",
+        "C": "987,600,000 km",
+        "D": "987,700,000 km"
+      },
+      "answer": "B",
+      "explanation": "Hundred-thousands digit is 6 (≥5), so round up: 987,654,321 → 988,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 1,000 less than 2,345,678?",
+      "options": {
+        "A": "2,344,678",
+        "B": "2,345,578",
+        "C": "2,346,678",
+        "D": "2,345,668"
+      },
+      "answer": "A",
+      "explanation": "Subtracting 1,000 reduces the thousands digit by 1: 2,345,678 − 1,000 = 2,344,678.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 1,000 more than 8,765,432?",
+      "options": {
+        "A": "8,765,433",
+        "B": "8,766,432",
+        "C": "8,764,432",
+        "D": "8,765,532"
+      },
+      "answer": "B",
+      "explanation": "Adding 1,000 increases the thousands place: 8,765,432 + 1,000 = 8,766,432.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 2,000,006; 2,000,012; 2,000,018; ...?",
+      "options": {
+        "A": "2,000,020",
+        "B": "2,000,024",
+        "C": "2,000,030",
+        "D": "2,000,036"
+      },
+      "answer": "B",
+      "explanation": "The sequence increases by 6 each time. 2,000,018 + 6 = 2,000,024.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 3,000,007; 3,000,014; 3,000,021; ...?",
+      "options": {
+        "A": "3,000,027",
+        "B": "3,000,028",
+        "C": "3,000,030",
+        "D": "3,000,035"
+      },
+      "answer": "B",
+      "explanation": "Counting in multiples of 7: 3,000,021 + 7 = 3,000,028.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 4,000,009; 4,000,018; 4,000,027; ...?",
+      "options": {
+        "A": "4,000,030",
+        "B": "4,000,036",
+        "C": "4,000,045",
+        "D": "4,000,054"
+      },
+      "answer": "B",
+      "explanation": "Adding 9 each time: 4,000,027 + 9 = 4,000,036.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 2,000,375; 2,000,400; 2,000,425; ...?",
+      "options": {
+        "A": "2,000,440",
+        "B": "2,000,450",
+        "C": "2,000,475",
+        "D": "2,000,500"
+      },
+      "answer": "B",
+      "explanation": "Counting in multiples of 25: 2,000,425 + 25 = 2,000,450.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 6,000,000; 6,001,000; 6,002,000; ...?",
+      "options": {
+        "A": "6,002,500",
+        "B": "6,003,000",
+        "C": "6,004,000",
+        "D": "6,005,000"
+      },
+      "answer": "B",
+      "explanation": "Counting in 1,000s: 6,002,000 + 1,000 = 6,003,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Starting at 12 and counting backwards through zero, what is the 18th number?",
+      "options": {
+        "A": "-5",
+        "B": "-6",
+        "C": "-7",
+        "D": "-8"
+      },
+      "answer": "A",
+      "explanation": "1st=12, 2nd=11, ..., 13th=0, 14th=-1, 15th=-2, 16th=-3, 17th=-4, 18th=-5.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is halfway between -30 and 20?",
+      "options": {
+        "A": "-10",
+        "B": "-5",
+        "C": "0",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "Distance = 50; half = 25. -30 + 25 = -5.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 23,456,789, what is the value of the digit 5?",
+      "options": {
+        "A": "5",
+        "B": "50",
+        "C": "50,000",
+        "D": "500,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 5 is in the ten-thousands place, so its value is 50,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 87,654,321, what is the value of the digit 8?",
+      "options": {
+        "A": "80",
+        "B": "800",
+        "C": "8,000,000",
+        "D": "80,000,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 8 is in the ten-millions place, so its value is 80,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 6,070,809, what is the value of the digit 7?",
+      "options": {
+        "A": "7",
+        "B": "70",
+        "C": "70,000",
+        "D": "700,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 7 is in the ten-thousands place: 70,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which digit is in the millions place in 8,901,234?",
+      "options": {
+        "A": "8",
+        "B": "9",
+        "C": "0",
+        "D": "1"
+      },
+      "answer": "A",
+      "explanation": "From right: ones=4, tens=3, hundreds=2, thousands=1, ten-thousands=0, hundred-thousands=9, millions=8.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which digit has the greatest value in 8,090,605?",
+      "options": {
+        "A": "8",
+        "B": "9",
+        "C": "6",
+        "D": "5"
+      },
+      "answer": "A",
+      "explanation": "8 is in the millions place (8,000,000), which is greater than 90,000, 600, or 5.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is greater: 23,456,789 or 23,456,798?",
+      "options": {
+        "A": "23,456,789",
+        "B": "23,456,798",
+        "C": "They are equal",
+        "D": "Not enough information"
+      },
+      "answer": "B",
+      "explanation": "Digits match until the tens place: 9 > 8, so 23,456,798 is greater.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is smaller: 87,654,321 or 87,654,312?",
+      "options": {
+        "A": "87,654,321",
+        "B": "87,654,312",
+        "C": "They are equal",
+        "D": "Cannot tell"
+      },
+      "answer": "B",
+      "explanation": "Ones: 2 < 1? No—tens: both 2, then ones: 1 vs 2 → 1 < 2, so 87,654,312 is smaller.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Order these numbers from smallest to largest: 20,000,001; 19,999,999; 20,000,100; 19,999,900.",
+      "options": {
+        "A": "19,999,900; 19,999,999; 20,000,001; 20,000,100",
+        "B": "19,999,999; 19,999,900; 20,000,001; 20,000,100",
+        "C": "20,000,100; 20,000,001; 19,999,999; 19,999,900",
+        "D": "19,999,900; 20,000,001; 19,999,999; 20,000,100"
+      },
+      "answer": "A",
+      "explanation": "19,999,900 < 19,999,999 < 20,000,001 < 20,000,100.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which symbol correctly compares 67,890,123 and 67,890,132?",
+      "options": {
+        "A": "=",
+        "B": "<",
+        "C": ">",
+        "D": "≥"
+      },
+      "answer": "B",
+      "explanation": "Tens digit: 2 < 3, so 67,890,123 < 67,890,132.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which of these numbers is the largest: 234,567,890; 234,567,809; 234,567,980; 234,567,908?",
+      "options": {
+        "A": "234,567,890",
+        "B": "234,567,809",
+        "C": "234,567,980",
+        "D": "234,567,908"
+      },
+      "answer": "C",
+      "explanation": "Compare tens: 8 > 0, so 234,567,980 is largest.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is represented by 8 × 10,000,000 + 0 × 1,000,000 + 6 × 100,000 + 0 × 10,000 + 4 × 1,000 + 0 × 100 + 3 × 10 + 2 × 1?",
+      "options": {
+        "A": "80,604,032",
+        "B": "86,004,032",
+        "C": "80,640,032",
+        "D": "806,040,032"
+      },
+      "answer": "A",
+      "explanation": "80,000,000 + 0 + 600,000 + 0 + 4,000 + 0 + 30 + 2 = 80,604,032.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number matches this description: 9 ten-millions, 0 millions, 7 hundred-thousands, 0 ten-thousands, 5 thousands, 0 hundreds, 6 tens, and 0 ones?",
+      "options": {
+        "A": "90,705,060",
+        "B": "97,005,060",
+        "C": "90,750,060",
+        "D": "9,070,506"
+      },
+      "answer": "A",
+      "explanation": "90,000,000 + 0 + 700,000 + 0 + 5,000 + 0 + 60 + 0 = 90,705,060.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 23,456,789 to the nearest 10.",
+      "options": {
+        "A": "23,456,780",
+        "B": "23,456,790",
+        "C": "23,456,700",
+        "D": "23,456,800"
+      },
+      "answer": "B",
+      "explanation": "Ones digit is 9 (≥5), so round up: 23,456,789 → 23,456,790.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 87,654,321 to the nearest 100.",
+      "options": {
+        "A": "87,654,300",
+        "B": "87,654,400",
+        "C": "87,654,320",
+        "D": "87,655,000"
+      },
+      "answer": "A",
+      "explanation": "Tens digit is 2 (<5), so round down: 87,654,321 → 87,654,300.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 678,901,234 to the nearest 1,000.",
+      "options": {
+        "A": "678,901,000",
+        "B": "678,902,000",
+        "C": "678,901,200",
+        "D": "678,901,300"
+      },
+      "answer": "A",
+      "explanation": "Hundreds digit is 2 (<5), so round down: 678,901,234 → 678,901,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 1,000,000,001 to the nearest 1,000.",
+      "options": {
+        "A": "1,000,000,000",
+        "B": "1,000,001,000",
+        "C": "1,000,000,100",
+        "D": "1,000,000,010"
+      },
+      "answer": "A",
+      "explanation": "Hundreds digit is 0 (<5), so round down: 1,000,000,001 → 1,000,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 234,567,890 to the nearest 10,000.",
+      "options": {
+        "A": "234,560,000",
+        "B": "234,570,000",
+        "C": "234,567,000",
+        "D": "234,568,000"
+      },
+      "answer": "B",
+      "explanation": "Thousands digit is 7 (≥5), so round up: 234,567,890 → 234,570,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A number rounds to 60,000,000 when rounded to the nearest 1,000,000. Which could it be?",
+      "options": {
+        "A": "59,499,999",
+        "B": "59,500,001",
+        "C": "60,500,000",
+        "D": "60,600,000"
+      },
+      "answer": "B",
+      "explanation": "Numbers from 59,500,000 to 60,499,999 round to 60,000,000. 59,500,001 is in that range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A number rounds to 2,345,600 when rounded to the nearest 100. Which could it be?",
+      "options": {
+        "A": "2,345,549",
+        "B": "2,345,651",
+        "C": "2,345,649",
+        "D": "2,345,500"
+      },
+      "answer": "C",
+      "explanation": "Range is 2,345,550 to 2,345,649. 2,345,649 is within this range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 93?",
+      "options": {
+        "A": "XCIII",
+        "B": "LXXXXIII",
+        "C": "CIII",
+        "D": "LXXXIII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 3 = III, so 93 = XCIII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 82?",
+      "options": {
+        "A": "LXXXII",
+        "B": "LXXII",
+        "C": "XCII",
+        "D": "LXXXVII"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 2 = II, so 82 = LXXXII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number does the Roman numeral 'LXXXIX' represent?",
+      "options": {
+        "A": "79",
+        "B": "89",
+        "C": "99",
+        "D": "88"
+      },
+      "answer": "B",
+      "explanation": "LXXX = 80, IX = 9, so 80 + 9 = 89.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number does the Roman numeral 'XCIV' represent?",
+      "options": {
+        "A": "94",
+        "B": "104",
+        "C": "84",
+        "D": "96"
+      },
+      "answer": "A",
+      "explanation": "XC = 90, IV = 4, so 90 + 4 = 94.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 96?",
+      "options": {
+        "A": "XCVI",
+        "B": "LXXXXVI",
+        "C": "CXVI",
+        "D": "ICVI"
+      },
+      "answer": "A",
+      "explanation": "XC = 90, VI = 6, so XCVI = 96.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 77?",
+      "options": {
+        "A": "LXXVII",
+        "B": "LXVII",
+        "C": "LXXXVII",
+        "D": "LVII"
+      },
+      "answer": "A",
+      "explanation": "L = 50, XX = 20, VII = 7 → 50 + 20 + 7 = 77.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 89 in Roman numerals?",
+      "options": {
+        "A": "LXXXIX",
+        "B": "LXXIX",
+        "C": "XCIX",
+        "D": "LXXXVIIII"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 9 = IX, so 89 = LXXXIX.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 99 in Roman numerals?",
+      "options": {
+        "A": "IC",
+        "B": "XCIX",
+        "C": "LXXXXIX",
+        "D": "CIX"
+      },
+      "answer": "B",
+      "explanation": "90 = XC, 9 = IX, so 99 = XCIX.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'XLVIII'?",
+      "options": {
+        "A": "48",
+        "B": "58",
+        "C": "68",
+        "D": "42"
+      },
+      "answer": "A",
+      "explanation": "XL = 40, VIII = 8, so 40 + 8 = 48.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'LXXIV'?",
+      "options": {
+        "A": "64",
+        "B": "74",
+        "C": "84",
+        "D": "76"
+      },
+      "answer": "B",
+      "explanation": "LXX = 70, IV = 4, so 70 + 4 = 74.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Estimate the total cost of items priced at £23,456,789, £34,567,890, and £45,678,901 by rounding each to the nearest £1,000,000.",
+      "options": {
+        "A": "£103,000,000",
+        "B": "£104,000,000",
+        "C": "£105,000,000",
+        "D": "£102,000,000"
+      },
+      "answer": "B",
+      "explanation": "Rounded: £23,000,000 + £35,000,000 + £46,000,000 = £104,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A country has a population of 78,901,234. Rounded to the nearest 1,000,000, what is the population?",
+      "options": {
+        "A": "78,000,000",
+        "B": "79,000,000",
+        "C": "78,900,000",
+        "D": "70,000,000"
+      },
+      "answer": "B",
+      "explanation": "Hundred-thousands digit is 9 (≥5), so round up: 78,901,234 → 79,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A planet is 234,567,890 km from Earth. Rounded to the nearest 100,000 km, how far is it?",
+      "options": {
+        "A": "234,500,000 km",
+        "B": "234,600,000 km",
+        "C": "234,560,000 km",
+        "D": "234,570,000 km"
+      },
+      "answer": "B",
+      "explanation": "Ten-thousands digit is 6 (≥5), so round up: 234,567,890 → 234,600,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is 1,000 less than twenty million?",
+      "options": {
+        "A": "19,999,000",
+        "B": "19,999,900",
+        "C": "19,999,999",
+        "D": "20,000,000"
+      },
+      "answer": "A",
+      "explanation": "20,000,000 − 1,000 = 19,999,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is 1,000 more than nineteen million, nine hundred ninety-nine thousand?",
+      "options": {
+        "A": "19,999,001",
+        "B": "20,000,000",
+        "C": "20,001,000",
+        "D": "19,999,100"
+      },
+      "answer": "B",
+      "explanation": "19,999,000 + 1,000 = 20,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 25s from 0. Which of these numbers will you say?",
+      "options": {
+        "A": "2,500",
+        "B": "2,505",
+        "C": "2,510",
+        "D": "2,515"
+      },
+      "answer": "A",
+      "explanation": "Multiples of 25 end in 00, 25, 50, or 75. 2,500 ends in 00, so it is included.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 9s from 0. Which number will you NOT say?",
+      "options": {
+        "A": "2,007",
+        "B": "2,016",
+        "C": "2,020",
+        "D": "2,034"
+      },
+      "answer": "C",
+      "explanation": "2,020 ÷ 9 ≈ 224.444…, not a whole number, so 2,020 is not a multiple of 9.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 7s from 0. Which number will you say?",
+      "options": {
+        "A": "2,002",
+        "B": "2,003",
+        "C": "2,004",
+        "D": "2,005"
+      },
+      "answer": "A",
+      "explanation": "2,002 ÷ 7 = 286, so 2,002 is a multiple of 7.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 6s from 0. Which number is NOT in the sequence?",
+      "options": {
+        "A": "2,004",
+        "B": "2,010",
+        "C": "2,016",
+        "D": "2,018"
+      },
+      "answer": "D",
+      "explanation": "2,018 ÷ 6 ≈ 336.333…, not a whole number, so 2,018 is not a multiple of 6.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the 150th number when counting in 1,000s starting from 1,000?",
+      "options": {
+        "A": "150,000",
+        "B": "149,000",
+        "C": "151,000",
+        "D": "15,000"
+      },
+      "answer": "A",
+      "explanation": "1st = 1,000, ..., 150th = 150,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the temperature if it starts at -20°C and drops by 25 degrees?",
+      "options": {
+        "A": "-45°C",
+        "B": "5°C",
+        "C": "-5°C",
+        "D": "45°C"
+      },
+      "answer": "A",
+      "explanation": "-20 − 25 = -45, so the temperature is -45°C.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "If the temperature was -30°C and it rose by 50 degrees, what is the new temperature?",
+      "options": {
+        "A": "20°C",
+        "B": "-80°C",
+        "C": "80°C",
+        "D": "-20°C"
+      },
+      "answer": "A",
+      "explanation": "-30 + 50 = 20, so the new temperature is 20°C.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is greater: -200 or -199?",
+      "options": {
+        "A": "-200",
+        "B": "-199",
+        "C": "They are equal",
+        "D": "Neither"
+      },
+      "answer": "B",
+      "explanation": "On a number line, -199 is to the right of -200, so it is greater.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Order these temperatures from coldest to warmest: -100°C, 15°C, -10°C, 0°C.",
+      "options": {
+        "A": "-100°C, -10°C, 0°C, 15°C",
+        "B": "15°C, 0°C, -10°C, -100°C",
+        "C": "-10°C, -100°C, 0°C, 15°C",
+        "D": "0°C, -10°C, 15°C, -100°C"
+      },
+      "answer": "A",
+      "explanation": "Coldest to warmest: -100 < -10 < 0 < 15.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is 35 less than -15?",
+      "options": {
+        "A": "-50",
+        "B": "-20",
+        "C": "20",
+        "D": "50"
+      },
+      "answer": "A",
+      "explanation": "-15 − 35 = -50.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is 40 more than -55?",
+      "options": {
+        "A": "-95",
+        "B": "-15",
+        "C": "15",
+        "D": "95"
+      },
+      "answer": "B",
+      "explanation": "-55 + 40 = -15.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 304,050,607, what is the place value of the digit 4?",
+      "options": {
+        "A": "4",
+        "B": "40",
+        "C": "4,000,000",
+        "D": "40,000,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 4 is in the millions place, so its value is 4,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 506,070,809, what is the value of the digit 6?",
+      "options": {
+        "A": "6",
+        "B": "60",
+        "C": "6,000,000",
+        "D": "60,000,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 6 is in the millions place: 6,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number has the same value as 60,000,000 + 700,000 + 8,000 + 90 + 1?",
+      "options": {
+        "A": "60,708,091",
+        "B": "67,008,091",
+        "C": "60,780,091",
+        "D": "67,080,091"
+      },
+      "answer": "A",
+      "explanation": "60,000,000 + 700,000 + 8,000 + 90 + 1 = 60,708,091.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is shown by 7 × 10,000,000 + 0 × 1,000,000 + 9 × 100,000 + 0 × 10,000 + 8 × 1,000 + 0 × 100 + 7 × 10 + 6 × 1?",
+      "options": {
+        "A": "70,908,076",
+        "B": "79,008,076",
+        "C": "70,980,076",
+        "D": "709,080,076"
+      },
+      "answer": "A",
+      "explanation": "70,000,000 + 0 + 900,000 + 0 + 8,000 + 0 + 70 + 6 = 70,908,076.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 876,543,210 to the nearest 1,000.",
+      "options": {
+        "A": "876,543,000",
+        "B": "876,544,000",
+        "C": "876,543,200",
+        "D": "876,543,300"
+      },
+      "answer": "A",
+      "explanation": "Hundreds digit is 2 (<5), so round down: 876,543,210 → 876,543,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 234,567,890 to the nearest 10,000.",
+      "options": {
+        "A": "234,560,000",
+        "B": "234,570,000",
+        "C": "234,567,000",
+        "D": "234,568,000"
+      },
+      "answer": "B",
+      "explanation": "Thousands digit is 7 (≥5), so round up: 234,567,890 → 234,570,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 876,543,210 to the nearest 100,000.",
+      "options": {
+        "A": "876,500,000",
+        "B": "876,600,000",
+        "C": "876,540,000",
+        "D": "876,550,000"
+      },
+      "answer": "A",
+      "explanation": "Ten-thousands digit is 4 (<5), so round down: 876,543,210 → 876,500,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A galaxy is 2,345,678,901 light-years away. Rounded to the nearest 10,000,000 light-years, how far is it?",
+      "options": {
+        "A": "2,340,000,000",
+        "B": "2,350,000,000",
+        "C": "2,345,000,000",
+        "D": "2,346,000,000"
+      },
+      "answer": "B",
+      "explanation": "Millions digit is 5 (≥5), so round up: 2,345,678,901 → 2,350,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number rounds to 300,000,000 when rounded to the nearest 10,000,000?",
+      "options": {
+        "A": "294,999,999",
+        "B": "295,000,001",
+        "C": "305,000,000",
+        "D": "306,000,000"
+      },
+      "answer": "B",
+      "explanation": "Numbers from 295,000,000 to 304,999,999 round to 300,000,000. 295,000,001 is in that range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 83?",
+      "options": {
+        "A": "LXXXIII",
+        "B": "LXXIII",
+        "C": "LXXXXIII",
+        "D": "LXXXII"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 3 = III, so 83 = LXXXIII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is represented by 'XCVI'?",
+      "options": {
+        "A": "86",
+        "B": "96",
+        "C": "106",
+        "D": "94"
+      },
+      "answer": "B",
+      "explanation": "XC = 90, VI = 6, so 90 + 6 = 96.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral is 84?",
+      "options": {
+        "A": "LXXXIV",
+        "B": "XXCIV",
+        "C": "LXXIV",
+        "D": "LXXXVI"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 4 = IV, so 84 = LXXXIV.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral is 93?",
+      "options": {
+        "A": "XCIII",
+        "B": "LXXXXIII",
+        "C": "CIII",
+        "D": "LXXXIII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 3 = III, so 93 = XCIII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 66 in Roman numerals?",
+      "options": {
+        "A": "LXVI",
+        "B": "LVVI",
+        "C": "LXIV",
+        "D": "LXXVI"
+      },
+      "answer": "A",
+      "explanation": "60 = LX, 6 = VI, so 66 = LXVI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is halfway between 20,000,000 and 30,000,000?",
+      "options": {
+        "A": "22,500,000",
+        "B": "25,000,000",
+        "C": "27,500,000",
+        "D": "28,000,000"
+      },
+      "answer": "B",
+      "explanation": "Difference is 10,000,000; half is 5,000,000. 20,000,000 + 5,000,000 = 25,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is halfway between -60 and 40?",
+      "options": {
+        "A": "-20",
+        "B": "-10",
+        "C": "0",
+        "D": "10"
+      },
+      "answer": "B",
+      "explanation": "Distance = 100; half = 50. -60 + 50 = -10.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 1,000 more than 199,999,000?",
+      "options": {
+        "A": "199,998,000",
+        "B": "199,999,001",
+        "C": "200,000,000",
+        "D": "200,001,000"
+      },
+      "answer": "C",
+      "explanation": "199,999,000 + 1,000 = 200,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 1,000 less than 200,000,000?",
+      "options": {
+        "A": "199,999,000",
+        "B": "199,999,900",
+        "C": "199,999,999",
+        "D": "200,001,000"
+      },
+      "answer": "A",
+      "explanation": "200,000,000 − 1,000 = 199,999,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "How many thousands are in 23,456,000?",
+      "options": {
+        "A": "23,456",
+        "B": "2,345",
+        "C": "234",
+        "D": "23"
+      },
+      "answer": "A",
+      "explanation": "23,456,000 ÷ 1,000 = 23,456, so there are 23,456 thousands.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "How many hundreds are in 876,543,000?",
+      "options": {
+        "A": "8,765,430",
+        "B": "876,543",
+        "C": "87,654",
+        "D": "8,765"
+      },
+      "answer": "A",
+      "explanation": "876,543,000 ÷ 100 = 8,765,430, so there are 8,765,430 hundreds.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "How many tens are in 234,567,000?",
+      "options": {
+        "A": "23,456,700",
+        "B": "2,345,670",
+        "C": "234,567",
+        "D": "23,456"
+      },
+      "answer": "A",
+      "explanation": "234,567,000 ÷ 10 = 23,456,700, so there are 23,456,700 tens.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is 100 more than 199,999,900?",
+      "options": {
+        "A": "199,999,910",
+        "B": "200,000,000",
+        "C": "200,000,100",
+        "D": "199,999,800"
+      },
+      "answer": "B",
+      "explanation": "199,999,900 + 100 = 200,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is 100 less than 200,000,100?",
+      "options": {
+        "A": "200,000,000",
+        "B": "199,999,900",
+        "C": "200,000,090",
+        "D": "200,000,200"
+      },
+      "answer": "A",
+      "explanation": "200,000,100 − 100 = 200,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 25s: what number comes after 1,999,975?",
+      "options": {
+        "A": "1,999,980",
+        "B": "2,000,000",
+        "C": "2,000,025",
+        "D": "1,999,990"
+      },
+      "answer": "B",
+      "explanation": "1,999,975 + 25 = 2,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 9s: what number comes after 1,999,998?",
+      "options": {
+        "A": "1,999,999",
+        "B": "2,000,007",
+        "C": "2,000,016",
+        "D": "2,000,009"
+      },
+      "answer": "B",
+      "explanation": "1,999,998 + 9 = 2,000,007.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 7s: what number comes after 1,999,996?",
+      "options": {
+        "A": "2,000,000",
+        "B": "2,000,003",
+        "C": "2,000,010",
+        "D": "2,000,013"
+      },
+      "answer": "B",
+      "explanation": "1,999,996 + 7 = 2,000,003.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 6s: what number comes after 1,999,996?",
+      "options": {
+        "A": "2,000,000",
+        "B": "2,000,002",
+        "C": "2,000,006",
+        "D": "2,000,012"
+      },
+      "answer": "B",
+      "explanation": "1,999,996 + 6 = 2,000,002.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 1,000s: what number comes after 1,999,999,000?",
+      "options": {
+        "A": "1,999,999,001",
+        "B": "2,000,000,000",
+        "C": "2,000,001,000",
+        "D": "1,999,999,100"
+      },
+      "answer": "B",
+      "explanation": "1,999,999,000 + 1,000 = 2,000,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the sum of the place values of the two 4s in 404,000,000?",
+      "options": {
+        "A": "404,000,000",
+        "B": "400,000,004",
+        "C": "404,000,004",
+        "D": "4,000,004"
+      },
+      "answer": "A",
+      "explanation": "400,000,000 + 4,000,000 = 404,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the difference between the place values of the two 8s in 808,000,000?",
+      "options": {
+        "A": "792,000,000",
+        "B": "800,000,000",
+        "C": "808,000,000",
+        "D": "790,000,000"
+      },
+      "answer": "A",
+      "explanation": "800,000,000 − 8,000,000 = 792,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented on an abacus with 8 beads in the ten-millions column, 0 in millions, 9 in hundred-thousands, 0 in ten-thousands, 1 in thousands, 0 in hundreds, 2 in tens, and 0 in ones?",
+      "options": {
+        "A": "80,901,020",
+        "B": "89,001,020",
+        "C": "80,910,020",
+        "D": "8,090,102"
+      },
+      "answer": "A",
+      "explanation": "80,000,000 + 0 + 900,000 + 0 + 1,000 + 0 + 20 + 0 = 80,901,020.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A number has 7 in the ten-millions place, 0 in all other places except 6 in the ones. What is the number?",
+      "options": {
+        "A": "70,000,006",
+        "B": "70,000,060",
+        "C": "70,006,000",
+        "D": "7,000,006"
+      },
+      "answer": "A",
+      "explanation": "70,000,000 + 0 + 0 + 0 + 0 + 0 + 0 + 6 = 70,000,006.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 2,000,000,001 to the nearest 100,000,000.",
+      "options": {
+        "A": "2,000,000,000",
+        "B": "2,100,000,000",
+        "C": "1,900,000,000",
+        "D": "2,010,000,000"
+      },
+      "answer": "A",
+      "explanation": "Ten-millions digit is 0 (<5), so round down: 2,000,000,001 → 2,000,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 8,765,432,109 to the nearest 100,000,000.",
+      "options": {
+        "A": "8,700,000,000",
+        "B": "8,800,000,000",
+        "C": "8,760,000,000",
+        "D": "8,770,000,000"
+      },
+      "answer": "B",
+      "explanation": "Ten-millions digit is 6 (≥5), so round up: 8,765,432,109 → 8,800,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 6,234,567,890 to the nearest 1,000,000,000.",
+      "options": {
+        "A": "6,000,000,000",
+        "B": "7,000,000,000",
+        "C": "6,200,000,000",
+        "D": "6,300,000,000"
+      },
+      "answer": "A",
+      "explanation": "Hundred-millions digit is 2 (<5), so round down: 6,234,567,890 → 6,000,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is closest to 7,654,321,098 when rounded to the nearest 10,000,000?",
+      "options": {
+        "A": "7,650,000,000",
+        "B": "7,660,000,000",
+        "C": "7,654,000,000",
+        "D": "7,655,000,000"
+      },
+      "answer": "A",
+      "explanation": "Millions digit is 4 (<5), so round down: 7,654,321,098 → 7,650,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A number rounds to 3,000,000,000 when rounded to the nearest 100,000,000. Which could it be?",
+      "options": {
+        "A": "2,949,999,999",
+        "B": "2,950,000,001",
+        "C": "3,050,000,000",
+        "D": "3,060,000,000"
+      },
+      "answer": "B",
+      "explanation": "Numbers from 2,950,000,000 to 3,049,999,999 round to 3,000,000,000. 2,950,000,001 is in that range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 88?",
+      "options": {
+        "A": "LXXXVIII",
+        "B": "LXXVIII",
+        "C": "XCVIII",
+        "D": "LXXXVII"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 8 = VIII, so 88 = LXXXVIII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is represented by 'LXXXVI'?",
+      "options": {
+        "A": "76",
+        "B": "86",
+        "C": "96",
+        "D": "84"
+      },
+      "answer": "B",
+      "explanation": "LXXX = 80, VI = 6, so 80 + 6 = 86.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 63?",
+      "options": {
+        "A": "LXIII",
+        "B": "LIII",
+        "C": "LXXIII",
+        "D": "XLIII"
+      },
+      "answer": "A",
+      "explanation": "60 = LX, 3 = III, so 63 = LXIII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 92?",
+      "options": {
+        "A": "XCII",
+        "B": "LXXXXII",
+        "C": "CII",
+        "D": "LXXII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 2 = II, so 92 = XCII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 71 in Roman numerals?",
+      "options": {
+        "A": "LXXI",
+        "B": "LXI",
+        "C": "LXXXI",
+        "D": "LXX"
+      },
+      "answer": "A",
+      "explanation": "70 = LXX, 1 = I, so 71 = LXXI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 97 in Roman numerals?",
+      "options": {
+        "A": "XCVII",
+        "B": "LXXXXVII",
+        "C": "CVII",
+        "D": "LXXXVII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 7 = VII, so 97 = XCVII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'XLVI'?",
+      "options": {
+        "A": "46",
+        "B": "56",
+        "C": "66",
+        "D": "44"
+      },
+      "answer": "A",
+      "explanation": "XL = 40, VI = 6, so 40 + 6 = 46.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'LXXVII'?",
+      "options": {
+        "A": "67",
+        "B": "77",
+        "C": "87",
+        "D": "75"
+      },
+      "answer": "B",
+      "explanation": "LXX = 70, VII = 7, so 70 + 7 = 77.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Estimate the difference between 876,543,210 and 234,567,890 by rounding both to the nearest 100,000,000.",
+      "options": {
+        "A": "600,000,000",
+        "B": "700,000,000",
+        "C": "640,000,000",
+        "D": "650,000,000"
+      },
+      "answer": "B",
+      "explanation": "876,543,210 → 900,000,000; 234,567,890 → 200,000,000; difference = 700,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Estimate the difference between 876,543,210 and 234,567,890 by rounding both to the nearest 100,000,000.",
+      "options": {
+        "A": "600,000,000",
+        "B": "700,000,000",
+        "C": "640,000,000",
+        "D": "650,000,000"
+      },
+      "answer": "B",
+      "explanation": "876,543,210 → 900,000,000; 234,567,890 → 200,000,000; difference = 700,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A library has 234,567,890 books. Rounded to the nearest 1,000,000, how many books are there?",
+      "options": {
+        "A": "234,000,000",
+        "B": "235,000,000",
+        "C": "234,600,000",
+        "D": "230,000,000"
+      },
+      "answer": "B",
+      "explanation": "Hundred-thousands digit is 5 (≥5), so round up: 234,567,890 → 235,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A star is 876,543,210 km from Earth. Rounded to the nearest 1,000,000 km, how far is it?",
+      "options": {
+        "A": "876,000,000 km",
+        "B": "877,000,000 km",
+        "C": "876,500,000 km",
+        "D": "876,600,000 km"
+      },
+      "answer": "B",
+      "explanation": "Hundred-thousands digit is 5 (≥5), so round up: 876,543,210 → 877,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 1,000 less than 3,456,789?",
+      "options": {
+        "A": "3,455,789",
+        "B": "3,456,689",
+        "C": "3,457,789",
+        "D": "3,456,779"
+      },
+      "answer": "A",
+      "explanation": "Subtracting 1,000 reduces the thousands digit by 1: 3,456,789 − 1,000 = 3,455,789.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 1,000 more than 7,654,321?",
+      "options": {
+        "A": "7,654,322",
+        "B": "7,655,321",
+        "C": "7,653,321",
+        "D": "7,654,421"
+      },
+      "answer": "B",
+      "explanation": "Adding 1,000 increases the thousands place: 7,654,321 + 1,000 = 7,655,321.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 3,000,006; 3,000,012; 3,000,018; ...?",
+      "options": {
+        "A": "3,000,020",
+        "B": "3,000,024",
+        "C": "3,000,030",
+        "D": "3,000,036"
+      },
+      "answer": "B",
+      "explanation": "The sequence increases by 6 each time. 3,000,018 + 6 = 3,000,024.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 4,000,007; 4,000,014; 4,000,021; ...?",
+      "options": {
+        "A": "4,000,027",
+        "B": "4,000,028",
+        "C": "4,000,030",
+        "D": "4,000,035"
+      },
+      "answer": "B",
+      "explanation": "Counting in multiples of 7: 4,000,021 + 7 = 4,000,028.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 5,000,009; 5,000,018; 5,000,027; ...?",
+      "options": {
+        "A": "5,000,030",
+        "B": "5,000,036",
+        "C": "5,000,045",
+        "D": "5,000,054"
+      },
+      "answer": "B",
+      "explanation": "Adding 9 each time: 5,000,027 + 9 = 5,000,036.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 3,000,375; 3,000,400; 3,000,425; ...?",
+      "options": {
+        "A": "3,000,440",
+        "B": "3,000,450",
+        "C": "3,000,475",
+        "D": "3,000,500"
+      },
+      "answer": "B",
+      "explanation": "Counting in multiples of 25: 3,000,425 + 25 = 3,000,450.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 7,000,000; 7,001,000; 7,002,000; ...?",
+      "options": {
+        "A": "7,002,500",
+        "B": "7,003,000",
+        "C": "7,004,000",
+        "D": "7,005,000"
+      },
+      "answer": "B",
+      "explanation": "Counting in 1,000s: 7,002,000 + 1,000 = 7,003,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Starting at 15 and counting backwards through zero, what is the 22nd number?",
+      "options": {
+        "A": "-6",
+        "B": "-7",
+        "C": "-8",
+        "D": "-9"
+      },
+      "answer": "A",
+      "explanation": "1st=15, 2nd=14, ..., 16th=0, 17th=-1, 18th=-2, 19th=-3, 20th=-4, 21st=-5, 22nd=-6.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is halfway between -40 and 30?",
+      "options": {
+        "A": "-10",
+        "B": "-5",
+        "C": "0",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "Distance = 70; half = 35. -40 + 35 = -5.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 34,567,890, what is the value of the digit 6?",
+      "options": {
+        "A": "6",
+        "B": "60",
+        "C": "60,000",
+        "D": "600,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 6 is in the ten-thousands place, so its value is 60,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 76,543,210, what is the value of the digit 7?",
+      "options": {
+        "A": "70",
+        "B": "700",
+        "C": "7,000,000",
+        "D": "70,000,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 7 is in the ten-millions place, so its value is 70,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 7,080,901, what is the value of the digit 8?",
+      "options": {
+        "A": "8",
+        "B": "80",
+        "C": "80,000",
+        "D": "800,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 8 is in the ten-thousands place: 80,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which digit is in the hundred-thousands place in 9,012,345?",
+      "options": {
+        "A": "9",
+        "B": "0",
+        "C": "1",
+        "D": "2"
+      },
+      "answer": "B",
+      "explanation": "From right: ones=5, tens=4, hundreds=3, thousands=2, ten-thousands=1, hundred-thousands=0, millions=9.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which digit has the greatest value in 7,080,906?",
+      "options": {
+        "A": "7",
+        "B": "8",
+        "C": "9",
+        "D": "6"
+      },
+      "answer": "A",
+      "explanation": "7 is in the millions place (7,000,000), which is greater than 80,000, 900, or 6.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is greater: 34,567,890 or 34,567,908?",
+      "options": {
+        "A": "34,567,890",
+        "B": "34,567,908",
+        "C": "They are equal",
+        "D": "Not enough information"
+      },
+      "answer": "B",
+      "explanation": "Digits match until the tens place: 0 < 9, so 34,567,908 is greater.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is smaller: 76,543,210 or 76,543,201?",
+      "options": {
+        "A": "76,543,210",
+        "B": "76,543,201",
+        "C": "They are equal",
+        "D": "Cannot tell"
+      },
+      "answer": "B",
+      "explanation": "Ones: 1 < 0? No—tens: both 1, then ones: 0 vs 1 → 0 < 1, so 76,543,201 is smaller.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Order these numbers from smallest to largest: 30,000,001; 29,999,999; 30,000,100; 29,999,900.",
+      "options": {
+        "A": "29,999,900; 29,999,999; 30,000,001; 30,000,100",
+        "B": "29,999,999; 29,999,900; 30,000,001; 30,000,100",
+        "C": "30,000,100; 30,000,001; 29,999,999; 29,999,900",
+        "D": "29,999,900; 30,000,001; 29,999,999; 30,000,100"
+      },
+      "answer": "A",
+      "explanation": "29,999,900 < 29,999,999 < 30,000,001 < 30,000,100.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which symbol correctly compares 78,901,234 and 78,901,243?",
+      "options": {
+        "A": "=",
+        "B": "<",
+        "C": ">",
+        "D": "≥"
+      },
+      "answer": "B",
+      "explanation": "Tens digit: 3 < 4, so 78,901,234 < 78,901,243.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which of these numbers is the largest: 345,678,901; 345,678,910; 345,678,809; 345,678,980?",
+      "options": {
+        "A": "345,678,901",
+        "B": "345,678,910",
+        "C": "345,678,809",
+        "D": "345,678,980"
+      },
+      "answer": "D",
+      "explanation": "Compare tens: 8 > 1, so 345,678,980 is largest.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is represented by 9 × 10,000,000 + 0 × 1,000,000 + 7 × 100,000 + 0 × 10,000 + 5 × 1,000 + 0 × 100 + 4 × 10 + 3 × 1?",
+      "options": {
+        "A": "90,705,043",
+        "B": "97,005,043",
+        "C": "90,750,043",
+        "D": "907,050,043"
+      },
+      "answer": "A",
+      "explanation": "90,000,000 + 0 + 700,000 + 0 + 5,000 + 0 + 40 + 3 = 90,705,043.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number matches this description: 1 ten-million, 0 millions, 8 hundred-thousands, 0 ten-thousands, 6 thousands, 0 hundreds, 7 tens, and 0 ones?",
+      "options": {
+        "A": "10,806,070",
+        "B": "18,006,070",
+        "C": "10,860,070",
+        "D": "1,080,607"
+      },
+      "answer": "A",
+      "explanation": "10,000,000 + 0 + 800,000 + 0 + 6,000 + 0 + 70 + 0 = 10,806,070.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 34,567,897 to the nearest 10.",
+      "options": {
+        "A": "34,567,890",
+        "B": "34,567,900",
+        "C": "34,567,800",
+        "D": "34,568,000"
+      },
+      "answer": "B",
+      "explanation": "Ones digit is 7 (≥5), so round up: 34,567,897 → 34,567,900.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 76,543,210 to the nearest 100.",
+      "options": {
+        "A": "76,543,200",
+        "B": "76,543,300",
+        "C": "76,543,210",
+        "D": "76,544,000"
+      },
+      "answer": "A",
+      "explanation": "Tens digit is 1 (<5), so round down: 76,543,210 → 76,543,200.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 789,012,345 to the nearest 1,000.",
+      "options": {
+        "A": "789,012,000",
+        "B": "789,013,000",
+        "C": "789,012,300",
+        "D": "789,012,400"
+      },
+      "answer": "A",
+      "explanation": "Hundreds digit is 3 (<5), so round down: 789,012,345 → 789,012,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 2,000,000,002 to the nearest 1,000.",
+      "options": {
+        "A": "2,000,000,000",
+        "B": "2,000,001,000",
+        "C": "2,000,000,100",
+        "D": "2,000,000,010"
+      },
+      "answer": "A",
+      "explanation": "Hundreds digit is 0 (<5), so round down: 2,000,000,002 → 2,000,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 345,678,901 to the nearest 10,000.",
+      "options": {
+        "A": "345,670,000",
+        "B": "345,680,000",
+        "C": "345,678,000",
+        "D": "345,679,000"
+      },
+      "answer": "B",
+      "explanation": "Thousands digit is 8 (≥5), so round up: 345,678,901 → 345,680,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A number rounds to 70,000,000 when rounded to the nearest 1,000,000. Which could it be?",
+      "options": {
+        "A": "69,499,999",
+        "B": "69,500,001",
+        "C": "70,500,000",
+        "D": "70,600,000"
+      },
+      "answer": "B",
+      "explanation": "Numbers from 69,500,000 to 70,499,999 round to 70,000,000. 69,500,001 is in that range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A number rounds to 3,456,700 when rounded to the nearest 100. Which could it be?",
+      "options": {
+        "A": "3,456,649",
+        "B": "3,456,751",
+        "C": "3,456,749",
+        "D": "3,456,600"
+      },
+      "answer": "C",
+      "explanation": "Range is 3,456,650 to 3,456,749. 3,456,749 is within this range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 94?",
+      "options": {
+        "A": "XCIV",
+        "B": "LXXXXIV",
+        "C": "CIV",
+        "D": "LXXXIV"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 4 = IV, so 94 = XCIV.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 86?",
+      "options": {
+        "A": "LXXXVI",
+        "B": "LXXVI",
+        "C": "XCVI",
+        "D": "LXXXIV"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 6 = VI, so 86 = LXXXVI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number does the Roman numeral 'XCIX' represent?",
+      "options": {
+        "A": "89",
+        "B": "99",
+        "C": "109",
+        "D": "91"
+      },
+      "answer": "B",
+      "explanation": "XC = 90, IX = 9, so 90 + 9 = 99.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number does the Roman numeral 'XLIX' represent?",
+      "options": {
+        "A": "49",
+        "B": "59",
+        "C": "69",
+        "D": "41"
+      },
+      "answer": "A",
+      "explanation": "XL = 40, IX = 9, so 40 + 9 = 49.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 98?",
+      "options": {
+        "A": "XCVIII",
+        "B": "LXXXXVIII",
+        "C": "ICVIII",
+        "D": "CXVIII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 8 = VIII, so 98 = XCVIII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 79?",
+      "options": {
+        "A": "LXXIX",
+        "B": "LXIX",
+        "C": "LXXXIX",
+        "D": "LXXVIIII"
+      },
+      "answer": "A",
+      "explanation": "70 = LXX, 9 = IX, so 79 = LXXIX.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 91 in Roman numerals?",
+      "options": {
+        "A": "XCI",
+        "B": "LXXXXI",
+        "C": "CXI",
+        "D": "IC"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 1 = I, so 91 = XCI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 99 in Roman numerals?",
+      "options": {
+        "A": "IC",
+        "B": "XCIX",
+        "C": "LXXXXIX",
+        "D": "CIX"
+      },
+      "answer": "B",
+      "explanation": "90 = XC, 9 = IX, so 99 = XCIX.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'XLVIII'?",
+      "options": {
+        "A": "48",
+        "B": "58",
+        "C": "68",
+        "D": "42"
+      },
+      "answer": "A",
+      "explanation": "XL = 40, VIII = 8, so 40 + 8 = 48.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'LXXIX'?",
+      "options": {
+        "A": "69",
+        "B": "79",
+        "C": "89",
+        "D": "71"
+      },
+      "answer": "B",
+      "explanation": "LXX = 70, IX = 9, so 70 + 9 = 79.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Estimate the total cost of items priced at £34,567,890, £45,678,901, and £56,789,012 by rounding each to the nearest £1,000,000.",
+      "options": {
+        "A": "£136,000,000",
+        "B": "£137,000,000",
+        "C": "£138,000,000",
+        "D": "£135,000,000"
+      },
+      "answer": "C",
+      "explanation": "Rounded: £35,000,000 + £46,000,000 + £57,000,000 = £138,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A country has a population of 89,012,345. Rounded to the nearest 1,000,000, what is the population?",
+      "options": {
+        "A": "88,000,000",
+        "B": "89,000,000",
+        "C": "90,000,000",
+        "D": "80,000,000"
+      },
+      "answer": "B",
+      "explanation": "Hundred-thousands digit is 0 (<5), so round down: 89,012,345 → 89,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A planet is 345,678,901 km from Earth. Rounded to the nearest 100,000 km, how far is it?",
+      "options": {
+        "A": "345,600,000 km",
+        "B": "345,700,000 km",
+        "C": "345,670,000 km",
+        "D": "345,680,000 km"
+      },
+      "answer": "B",
+      "explanation": "Ten-thousands digit is 7 (≥5), so round up: 345,678,901 → 345,700,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is 1,000 less than thirty million?",
+      "options": {
+        "A": "29,999,000",
+        "B": "29,999,900",
+        "C": "29,999,999",
+        "D": "30,000,000"
+      },
+      "answer": "A",
+      "explanation": "30,000,000 − 1,000 = 29,999,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is 1,000 more than twenty-nine million, nine hundred ninety-nine thousand?",
+      "options": {
+        "A": "29,999,001",
+        "B": "30,000,000",
+        "C": "30,001,000",
+        "D": "29,999,100"
+      },
+      "answer": "B",
+      "explanation": "29,999,000 + 1,000 = 30,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 25s from 0. Which of these numbers will you NOT say?",
+      "options": {
+        "A": "3,750",
+        "B": "3,775",
+        "C": "3,800",
+        "D": "3,760"
+      },
+      "answer": "D",
+      "explanation": "3,760 ÷ 25 = 150.4, not a whole number, so 3,760 is not a multiple of 25.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 9s from 0. Which number will you say?",
+      "options": {
+        "A": "3,006",
+        "B": "3,010",
+        "C": "3,015",
+        "D": "3,020"
+      },
+      "answer": "A",
+      "explanation": "3,006 ÷ 9 = 334, so 3,006 is a multiple of 9.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 7s from 0. Which number is NOT in the sequence?",
+      "options": {
+        "A": "3,003",
+        "B": "3,010",
+        "C": "3,017",
+        "D": "3,025"
+      },
+      "answer": "D",
+      "explanation": "3,025 ÷ 7 ≈ 432.142…, not a whole number, so 3,025 is not a multiple of 7.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 6s from 0. Which number will you say?",
+      "options": {
+        "A": "3,006",
+        "B": "3,007",
+        "C": "3,008",
+        "D": "3,009"
+      },
+      "answer": "A",
+      "explanation": "3,006 ÷ 6 = 501, so 3,006 is a multiple of 6.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the 200th number when counting in 1,000s starting from 1,000?",
+      "options": {
+        "A": "200,000",
+        "B": "199,000",
+        "C": "201,000",
+        "D": "20,000"
+      },
+      "answer": "A",
+      "explanation": "1st = 1,000, ..., 200th = 200,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the temperature if it starts at -25°C and drops by 30 degrees?",
+      "options": {
+        "A": "-55°C",
+        "B": "5°C",
+        "C": "-5°C",
+        "D": "55°C"
+      },
+      "answer": "A",
+      "explanation": "-25 − 30 = -55, so the temperature is -55°C.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "If the temperature was -40°C and it rose by 60 degrees, what is the new temperature?",
+      "options": {
+        "A": "20°C",
+        "B": "-100°C",
+        "C": "100°C",
+        "D": "-20°C"
+      },
+      "answer": "A",
+      "explanation": "-40 + 60 = 20, so the new temperature is 20°C.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is greater: -300 or -299?",
+      "options": {
+        "A": "-300",
+        "B": "-299",
+        "C": "They are equal",
+        "D": "Neither"
+      },
+      "answer": "B",
+      "explanation": "On a number line, -299 is to the right of -300, so it is greater.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Order these temperatures from coldest to warmest: -150°C, 20°C, -15°C, 0°C.",
+      "options": {
+        "A": "-150°C, -15°C, 0°C, 20°C",
+        "B": "20°C, 0°C, -15°C, -150°C",
+        "C": "-15°C, -150°C, 0°C, 20°C",
+        "D": "0°C, -15°C, 20°C, -150°C"
+      },
+      "answer": "A",
+      "explanation": "Coldest to warmest: -150 < -15 < 0 < 20.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is 45 less than -20?",
+      "options": {
+        "A": "-65",
+        "B": "-25",
+        "C": "25",
+        "D": "65"
+      },
+      "answer": "A",
+      "explanation": "-20 − 45 = -65.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is 50 more than -65?",
+      "options": {
+        "A": "-115",
+        "B": "-15",
+        "C": "15",
+        "D": "115"
+      },
+      "answer": "B",
+      "explanation": "-65 + 50 = -15.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 405,060,708, what is the place value of the digit 5?",
+      "options": {
+        "A": "5",
+        "B": "50",
+        "C": "5,000,000",
+        "D": "50,000,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 5 is in the millions place, so its value is 5,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 607,080,901, what is the value of the digit 7?",
+      "options": {
+        "A": "7",
+        "B": "70",
+        "C": "7,000,000",
+        "D": "70,000,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 7 is in the millions place: 7,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number has the same value as 70,000,000 + 800,000 + 9,000 + 10 + 2?",
+      "options": {
+        "A": "70,809,012",
+        "B": "78,009,012",
+        "C": "70,890,012",
+        "D": "78,090,012"
+      },
+      "answer": "A",
+      "explanation": "70,000,000 + 800,000 + 9,000 + 10 + 2 = 70,809,012.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is shown by 8 × 10,000,000 + 0 × 1,000,000 + 1 × 100,000 + 0 × 10,000 + 9 × 1,000 + 0 × 100 + 8 × 10 + 7 × 1?",
+      "options": {
+        "A": "80,109,087",
+        "B": "81,009,087",
+        "C": "80,190,087",
+        "D": "801,090,087"
+      },
+      "answer": "A",
+      "explanation": "80,000,000 + 0 + 100,000 + 0 + 9,000 + 0 + 80 + 7 = 80,109,087.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 765,432,109 to the nearest 1,000.",
+      "options": {
+        "A": "765,432,000",
+        "B": "765,433,000",
+        "C": "765,432,100",
+        "D": "765,432,200"
+      },
+      "answer": "A",
+      "explanation": "Hundreds digit is 1 (<5), so round down: 765,432,109 → 765,432,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 345,678,901 to the nearest 10,000.",
+      "options": {
+        "A": "345,670,000",
+        "B": "345,680,000",
+        "C": "345,678,000",
+        "D": "345,679,000"
+      },
+      "answer": "B",
+      "explanation": "Thousands digit is 8 (≥5), so round up: 345,678,901 → 345,680,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 765,432,109 to the nearest 100,000.",
+      "options": {
+        "A": "765,400,000",
+        "B": "765,500,000",
+        "C": "765,430,000",
+        "D": "765,440,000"
+      },
+      "answer": "A",
+      "explanation": "Ten-thousands digit is 3 (<5), so round down: 765,432,109 → 765,400,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A galaxy is 3,456,789,012 light-years away. Rounded to the nearest 10,000,000 light-years, how far is it?",
+      "options": {
+        "A": "3,450,000,000",
+        "B": "3,460,000,000",
+        "C": "3,456,000,000",
+        "D": "3,457,000,000"
+      },
+      "answer": "B",
+      "explanation": "Millions digit is 6 (≥5), so round up: 3,456,789,012 → 3,460,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number rounds to 400,000,000 when rounded to the nearest 10,000,000?",
+      "options": {
+        "A": "394,999,999",
+        "B": "395,000,001",
+        "C": "405,000,000",
+        "D": "406,000,000"
+      },
+      "answer": "B",
+      "explanation": "Numbers from 395,000,000 to 404,999,999 round to 400,000,000. 395,000,001 is in that range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 87?",
+      "options": {
+        "A": "LXXXVII",
+        "B": "LXXVII",
+        "C": "XCVII",
+        "D": "LXXXVI"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 7 = VII, so 87 = LXXXVII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is represented by 'LXXIV'?",
+      "options": {
+        "A": "64",
+        "B": "74",
+        "C": "84",
+        "D": "76"
+      },
+      "answer": "B",
+      "explanation": "LXX = 70, IV = 4, so 70 + 4 = 74.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 56?",
+      "options": {
+        "A": "LVI",
+        "B": "LIV",
+        "C": "LXVI",
+        "D": "XLVI"
+      },
+      "answer": "A",
+      "explanation": "50 = L, 6 = VI, so 56 = LVI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 92?",
+      "options": {
+        "A": "XCII",
+        "B": "LXXXXII",
+        "C": "CII",
+        "D": "LXXII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 2 = II, so 92 = XCII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 71 in Roman numerals?",
+      "options": {
+        "A": "LXXI",
+        "B": "LXI",
+        "C": "LXXXI",
+        "D": "LXX"
+      },
+      "answer": "A",
+      "explanation": "70 = LXX, 1 = I, so 71 = LXXI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 97 in Roman numerals?",
+      "options": {
+        "A": "XCVII",
+        "B": "LXXXXVII",
+        "C": "CVII",
+        "D": "LXXXVII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 7 = VII, so 97 = XCVII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'XLVIII'?",
+      "options": {
+        "A": "48",
+        "B": "58",
+        "C": "68",
+        "D": "42"
+      },
+      "answer": "A",
+      "explanation": "XL = 40, VIII = 8, so 40 + 8 = 48.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'LXXVII'?",
+      "options": {
+        "A": "67",
+        "B": "77",
+        "C": "87",
+        "D": "75"
+      },
+      "answer": "B",
+      "explanation": "LXX = 70, VII = 7, so 70 + 7 = 77.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Estimate the difference between 765,432,109 and 345,678,901 by rounding both to the nearest 100,000,000.",
+      "options": {
+        "A": "400,000,000",
+        "B": "500,000,000",
+        "C": "420,000,000",
+        "D": "410,000,000"
+      },
+      "answer": "B",
+      "explanation": "765,432,109 → 800,000,000; 345,678,901 → 300,000,000; difference = 500,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A library has 345,678,901 books. Rounded to the nearest 1,000,000, how many books are there?",
+      "options": {
+        "A": "345,000,000",
+        "B": "346,000,000",
+        "C": "345,700,000",
+        "D": "340,000,000"
+      },
+      "answer": "B",
+      "explanation": "Hundred-thousands digit is 6 (≥5), so round up: 345,678,901 → 346,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A star is 765,432,109 km from Earth. Rounded to the nearest 1,000,000 km, how far is it?",
+      "options": {
+        "A": "765,000,000 km",
+        "B": "766,000,000 km",
+        "C": "765,400,000 km",
+        "D": "765,500,000 km"
+      },
+      "answer": "A",
+      "explanation": "Hundred-thousands digit is 4 (<5), so round down: 765,432,109 → 765,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 1,000 less than 4,567,890?",
+      "options": {
+        "A": "4,566,890",
+        "B": "4,567,790",
+        "C": "4,568,890",
+        "D": "4,567,880"
+      },
+      "answer": "A",
+      "explanation": "Subtracting 1,000 reduces the thousands digit by 1: 4,567,890 − 1,000 = 4,566,890.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 1,000 more than 6,543,210?",
+      "options": {
+        "A": "6,543,211",
+        "B": "6,544,210",
+        "C": "6,542,210",
+        "D": "6,543,310"
+      },
+      "answer": "B",
+      "explanation": "Adding 1,000 increases the thousands place: 6,543,210 + 1,000 = 6,544,210.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 4,000,006; 4,000,012; 4,000,018; ...?",
+      "options": {
+        "A": "4,000,020",
+        "B": "4,000,024",
+        "C": "4,000,030",
+        "D": "4,000,036"
+      },
+      "answer": "B",
+      "explanation": "The sequence increases by 6 each time. 4,000,018 + 6 = 4,000,024.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 5,000,007; 5,000,014; 5,000,021; ...?",
+      "options": {
+        "A": "5,000,027",
+        "B": "5,000,028",
+        "C": "5,000,030",
+        "D": "5,000,035"
+      },
+      "answer": "B",
+      "explanation": "Counting in multiples of 7: 5,000,021 + 7 = 5,000,028.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 6,000,009; 6,000,018; 6,000,027; ...?",
+      "options": {
+        "A": "6,000,030",
+        "B": "6,000,036",
+        "C": "6,000,045",
+        "D": "6,000,054"
+      },
+      "answer": "B",
+      "explanation": "Adding 9 each time: 6,000,027 + 9 = 6,000,036.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 4,000,375; 4,000,400; 4,000,425; ...?",
+      "options": {
+        "A": "4,000,440",
+        "B": "4,000,450",
+        "C": "4,000,475",
+        "D": "4,000,500"
+      },
+      "answer": "B",
+      "explanation": "Counting in multiples of 25: 4,000,425 + 25 = 4,000,450.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 8,000,000; 8,001,000; 8,002,000; ...?",
+      "options": {
+        "A": "8,002,500",
+        "B": "8,003,000",
+        "C": "8,004,000",
+        "D": "8,005,000"
+      },
+      "answer": "B",
+      "explanation": "Counting in 1,000s: 8,002,000 + 1,000 = 8,003,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Starting at 18 and counting backwards through zero, what is the 25th number?",
+      "options": {
+        "A": "-6",
+        "B": "-7",
+        "C": "-8",
+        "D": "-9"
+      },
+      "answer": "A",
+      "explanation": "1st=18, 2nd=17, ..., 19th=0, 20th=-1, 21st=-2, 22nd=-3, 23rd=-4, 24th=-5, 25th=-6.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is halfway between -50 and 40?",
+      "options": {
+        "A": "-10",
+        "B": "-5",
+        "C": "0",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "Distance = 90; half = 45. -50 + 45 = -5.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 45,678,901, what is the value of the digit 7?",
+      "options": {
+        "A": "7",
+        "B": "70",
+        "C": "70,000",
+        "D": "700,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 7 is in the ten-thousands place, so its value is 70,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 65,432,109, what is the value of the digit 6?",
+      "options": {
+        "A": "60",
+        "B": "600",
+        "C": "6,000,000",
+        "D": "60,000,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 6 is in the ten-millions place, so its value is 60,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 8,090,102, what is the value of the digit 9?",
+      "options": {
+        "A": "9",
+        "B": "90",
+        "C": "90,000",
+        "D": "900,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 9 is in the ten-thousands place: 90,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which digit is in the millions place in 10,234,567?",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "3"
+      },
+      "answer": "B",
+      "explanation": "10,234,567 has digits: ten-millions=1, millions=0, hundred-thousands=2, etc. So the millions digit is 0.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which digit has the greatest value in 6,090,807?",
+      "options": {
+        "A": "6",
+        "B": "9",
+        "C": "8",
+        "D": "7"
+      },
+      "answer": "A",
+      "explanation": "6 is in the millions place (6,000,000), which is greater than 90,000, 800, or 7.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is greater: 45,678,901 or 45,678,910?",
+      "options": {
+        "A": "45,678,901",
+        "B": "45,678,910",
+        "C": "They are equal",
+        "D": "Not enough information"
+      },
+      "answer": "B",
+      "explanation": "Digits match until the tens place: 1 > 0, so 45,678,910 is greater.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is smaller: 65,432,109 or 65,432,190?",
+      "options": {
+        "A": "65,432,109",
+        "B": "65,432,190",
+        "C": "They are equal",
+        "D": "Cannot tell"
+      },
+      "answer": "A",
+      "explanation": "Ones: 9 < 0? No—tens: 0 vs 9 → 0 < 9, so 65,432,109 is smaller.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Order these numbers from smallest to largest: 40,000,001; 39,999,999; 40,000,100; 39,999,900.",
+      "options": {
+        "A": "39,999,900; 39,999,999; 40,000,001; 40,000,100",
+        "B": "39,999,999; 39,999,900; 40,000,001; 40,000,100",
+        "C": "40,000,100; 40,000,001; 39,999,999; 39,999,900",
+        "D": "39,999,900; 40,000,001; 39,999,999; 40,000,100"
+      },
+      "answer": "A",
+      "explanation": "39,999,900 < 39,999,999 < 40,000,001 < 40,000,100.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which symbol correctly compares 89,012,345 and 89,012,354?",
+      "options": {
+        "A": "=",
+        "B": "<",
+        "C": ">",
+        "D": "≥"
+      },
+      "answer": "B",
+      "explanation": "Tens digit: 4 < 5, so 89,012,345 < 89,012,354.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which of these numbers is the largest: 456,789,012; 456,789,021; 456,789,102; 456,789,201?",
+      "options": {
+        "A": "456,789,012",
+        "B": "456,789,021",
+        "C": "456,789,102",
+        "D": "456,789,201"
+      },
+      "answer": "D",
+      "explanation": "Compare hundreds: all 9; tens: 2 > 1 > 0, so 456,789,201 is largest.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is represented by 1 × 100,000,000 + 0 × 10,000,000 + 8 × 1,000,000 + 0 × 100,000 + 6 × 10,000 + 0 × 1,000 + 5 × 100 + 0 × 10 + 4 × 1?",
+      "options": {
+        "A": "108,060,504",
+        "B": "180,060,504",
+        "C": "108,600,504",
+        "D": "1,080,605,040"
+      },
+      "answer": "A",
+      "explanation": "100,000,000 + 0 + 8,000,000 + 0 + 60,000 + 0 + 500 + 0 + 4 = 108,060,504.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number matches this description: 2 hundred-millions, 0 ten-millions, 9 millions, 0 hundred-thousands, 7 ten-thousands, 0 thousands, 8 hundreds, 0 tens, and 1 one?",
+      "options": {
+        "A": "209,070,801",
+        "B": "290,070,801",
+        "C": "209,700,801",
+        "D": "20,907,081"
+      },
+      "answer": "A",
+      "explanation": "200,000,000 + 0 + 9,000,000 + 0 + 70,000 + 0 + 800 + 0 + 1 = 209,070,801.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 45,678,901 to the nearest 10.",
+      "options": {
+        "A": "45,678,900",
+        "B": "45,678,910",
+        "C": "45,678,800",
+        "D": "45,679,000"
+      },
+      "answer": "A",
+      "explanation": "Ones digit is 1 (<5), so round down: 45,678,901 → 45,678,900.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 65,432,109 to the nearest 100.",
+      "options": {
+        "A": "65,432,100",
+        "B": "65,432,200",
+        "C": "65,432,110",
+        "D": "65,433,000"
+      },
+      "answer": "A",
+      "explanation": "Tens digit is 0 (<5), so round down: 65,432,109 → 65,432,100.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 890,123,456 to the nearest 1,000.",
+      "options": {
+        "A": "890,123,000",
+        "B": "890,124,000",
+        "C": "890,123,400",
+        "D": "890,123,500"
+      },
+      "answer": "A",
+      "explanation": "Hundreds digit is 4 (<5), so round down: 890,123,456 → 890,123,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 3,000,000,003 to the nearest 1,000.",
+      "options": {
+        "A": "3,000,000,000",
+        "B": "3,000,001,000",
+        "C": "3,000,000,100",
+        "D": "3,000,000,010"
+      },
+      "answer": "A",
+      "explanation": "Hundreds digit is 0 (<5), so round down: 3,000,000,003 → 3,000,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 456,789,012 to the nearest 10,000.",
+      "options": {
+        "A": "456,780,000",
+        "B": "456,790,000",
+        "C": "456,789,000",
+        "D": "456,789,100"
+      },
+      "answer": "B",
+      "explanation": "Thousands digit is 9 (≥5), so round up: 456,789,012 → 456,790,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A number rounds to 80,000,000 when rounded to the nearest 1,000,000. Which could it be?",
+      "options": {
+        "A": "79,499,999",
+        "B": "79,500,001",
+        "C": "80,500,000",
+        "D": "80,600,000"
+      },
+      "answer": "B",
+      "explanation": "Numbers from 79,500,000 to 80,499,999 round to 80,000,000. 79,500,001 is in that range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A number rounds to 4,567,800 when rounded to the nearest 100. Which could it be?",
+      "options": {
+        "A": "4,567,749",
+        "B": "4,567,851",
+        "C": "4,567,849",
+        "D": "4,567,700"
+      },
+      "answer": "C",
+      "explanation": "Range is 4,567,750 to 4,567,849. 4,567,849 is within this range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 95?",
+      "options": {
+        "A": "XCV",
+        "B": "LXXXXV",
+        "C": "CV",
+        "D": "LXXV"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 5 = V, so 95 = XCV.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 83?",
+      "options": {
+        "A": "LXXXIII",
+        "B": "LXXIII",
+        "C": "LXXXXIII",
+        "D": "LXXXII"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 3 = III, so 83 = LXXXIII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number does the Roman numeral 'LXXXIX' represent?",
+      "options": {
+        "A": "79",
+        "B": "89",
+        "C": "99",
+        "D": "88"
+      },
+      "answer": "B",
+      "explanation": "LXXX = 80, IX = 9, so 80 + 9 = 89.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number does the Roman numeral 'XCIV' represent?",
+      "options": {
+        "A": "94",
+        "B": "104",
+        "C": "84",
+        "D": "96"
+      },
+      "answer": "A",
+      "explanation": "XC = 90, IV = 4, so 90 + 4 = 94.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 96?",
+      "options": {
+        "A": "XCVI",
+        "B": "LXXXXVI",
+        "C": "CXVI",
+        "D": "ICVI"
+      },
+      "answer": "A",
+      "explanation": "XC = 90, VI = 6, so XCVI = 96.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 77?",
+      "options": {
+        "A": "LXXVII",
+        "B": "LXVII",
+        "C": "LXXXVII",
+        "D": "LVII"
+      },
+      "answer": "A",
+      "explanation": "L = 50, XX = 20, VII = 7 → 50 + 20 + 7 = 77.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 89 in Roman numerals?",
+      "options": {
+        "A": "LXXXIX",
+        "B": "LXXIX",
+        "C": "XCIX",
+        "D": "LXXXVIIII"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 9 = IX, so 89 = LXXXIX.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 99 in Roman numerals?",
+      "options": {
+        "A": "IC",
+        "B": "XCIX",
+        "C": "LXXXXIX",
+        "D": "CIX"
+      },
+      "answer": "B",
+      "explanation": "90 = XC, 9 = IX, so 99 = XCIX.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'XLVIII'?",
+      "options": {
+        "A": "48",
+        "B": "58",
+        "C": "68",
+        "D": "42"
+      },
+      "answer": "A",
+      "explanation": "XL = 40, VIII = 8, so 40 + 8 = 48.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'LXXIX'?",
+      "options": {
+        "A": "69",
+        "B": "79",
+        "C": "89",
+        "D": "71"
+      },
+      "answer": "B",
+      "explanation": "LXX = 70, IX = 9, so 70 + 9 = 79.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Estimate the total cost of items priced at £45,678,901, £56,789,012, and £67,890,123 by rounding each to the nearest £1,000,000.",
+      "options": {
+        "A": "£169,000,000",
+        "B": "£170,000,000",
+        "C": "£171,000,000",
+        "D": "£168,000,000"
+      },
+      "answer": "C",
+      "explanation": "Rounded: £46,000,000 + £57,000,000 + £68,000,000 = £171,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A country has a population of 90,123,456. Rounded to the nearest 1,000,000, what is the population?",
+      "options": {
+        "A": "89,000,000",
+        "B": "90,000,000",
+        "C": "91,000,000",
+        "D": "90,100,000"
+      },
+      "answer": "B",
+      "explanation": "Hundred-thousands digit is 1 (<5), so round down: 90,123,456 → 90,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A planet is 456,789,012 km from Earth. Rounded to the nearest 100,000 km, how far is it?",
+      "options": {
+        "A": "456,700,000 km",
+        "B": "456,800,000 km",
+        "C": "456,780,000 km",
+        "D": "456,790,000 km"
+      },
+      "answer": "B",
+      "explanation": "Ten-thousands digit is 8 (≥5), so round up: 456,789,012 → 456,800,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is 1,000 less than forty million?",
+      "options": {
+        "A": "39,999,000",
+        "B": "39,999,900",
+        "C": "39,999,999",
+        "D": "40,000,000"
+      },
+      "answer": "A",
+      "explanation": "40,000,000 − 1,000 = 39,999,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is 1,000 more than thirty-nine million, nine hundred ninety-nine thousand?",
+      "options": {
+        "A": "39,999,001",
+        "B": "40,000,000",
+        "C": "40,001,000",
+        "D": "39,999,100"
+      },
+      "answer": "B",
+      "explanation": "39,999,000 + 1,000 = 40,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 25s from 0. Which of these numbers will you say?",
+      "options": {
+        "A": "5,000",
+        "B": "5,005",
+        "C": "5,010",
+        "D": "5,015"
+      },
+      "answer": "A",
+      "explanation": "Multiples of 25 end in 00, 25, 50, or 75. 5,000 ends in 00, so it is included.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 9s from 0. Which number will you NOT say?",
+      "options": {
+        "A": "4,005",
+        "B": "4,014",
+        "C": "4,023",
+        "D": "4,025"
+      },
+      "answer": "D",
+      "explanation": "4,025 ÷ 9 ≈ 447.222…, not a whole number, so 4,025 is not a multiple of 9.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 7s from 0. Which number will you say?",
+      "options": {
+        "A": "4,004",
+        "B": "4,005",
+        "C": "4,006",
+        "D": "4,007"
+      },
+      "answer": "A",
+      "explanation": "4,004 ÷ 7 = 572, so 4,004 is a multiple of 7.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 6s from 0. Which number is NOT in the sequence?",
+      "options": {
+        "A": "4,002",
+        "B": "4,008",
+        "C": "4,014",
+        "D": "4,016"
+      },
+      "answer": "D",
+      "explanation": "4,016 ÷ 6 ≈ 669.333…, not a whole number, so 4,016 is not a multiple of 6.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the 250th number when counting in 1,000s starting from 1,000?",
+      "options": {
+        "A": "250,000",
+        "B": "249,000",
+        "C": "251,000",
+        "D": "25,000"
+      },
+      "answer": "A",
+      "explanation": "1st = 1,000, ..., 250th = 250,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the temperature if it starts at -30°C and drops by 35 degrees?",
+      "options": {
+        "A": "-65°C",
+        "B": "5°C",
+        "C": "-5°C",
+        "D": "65°C"
+      },
+      "answer": "A",
+      "explanation": "-30 − 35 = -65, so the temperature is -65°C.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "If the temperature was -50°C and it rose by 70 degrees, what is the new temperature?",
+      "options": {
+        "A": "20°C",
+        "B": "-120°C",
+        "C": "120°C",
+        "D": "-20°C"
+      },
+      "answer": "A",
+      "explanation": "-50 + 70 = 20, so the new temperature is 20°C.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is greater: -400 or -399?",
+      "options": {
+        "A": "-400",
+        "B": "-399",
+        "C": "They are equal",
+        "D": "Neither"
+      },
+      "answer": "B",
+      "explanation": "On a number line, -399 is to the right of -400, so it is greater.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Order these temperatures from coldest to warmest: -200°C, 25°C, -20°C, 0°C.",
+      "options": {
+        "A": "-200°C, -20°C, 0°C, 25°C",
+        "B": "25°C, 0°C, -20°C, -200°C",
+        "C": "-20°C, -200°C, 0°C, 25°C",
+        "D": "0°C, -20°C, 25°C, -200°C"
+      },
+      "answer": "A",
+      "explanation": "Coldest to warmest: -200 < -20 < 0 < 25.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is 55 less than -25?",
+      "options": {
+        "A": "-80",
+        "B": "-30",
+        "C": "30",
+        "D": "80"
+      },
+      "answer": "A",
+      "explanation": "-25 − 55 = -80.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is 60 more than -75?",
+      "options": {
+        "A": "-135",
+        "B": "-15",
+        "C": "15",
+        "D": "135"
+      },
+      "answer": "B",
+      "explanation": "-75 + 60 = -15.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 506,070,809, what is the place value of the digit 6?",
+      "options": {
+        "A": "6",
+        "B": "60",
+        "C": "6,000,000",
+        "D": "60,000,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 6 is in the millions place, so its value is 6,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 708,090,102, what is the value of the digit 8?",
+      "options": {
+        "A": "8",
+        "B": "80",
+        "C": "8,000,000",
+        "D": "80,000,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 8 is in the millions place: 8,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number has the same value as 80,000,000 + 900,000 + 1,000 + 20 + 3?",
+      "options": {
+        "A": "80,901,023",
+        "B": "89,001,023",
+        "C": "80,910,023",
+        "D": "89,010,023"
+      },
+      "answer": "A",
+      "explanation": "80,000,000 + 900,000 + 1,000 + 20 + 3 = 80,901,023.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is shown by 9 × 10,000,000 + 0 × 1,000,000 + 2 × 100,000 + 0 × 10,000 + 1 × 1,000 + 0 × 100 + 9 × 10 + 8 × 1?",
+      "options": {
+        "A": "90,201,098",
+        "B": "92,001,098",
+        "C": "90,210,098",
+        "D": "902,010,098"
+      },
+      "answer": "A",
+      "explanation": "90,000,000 + 0 + 200,000 + 0 + 1,000 + 0 + 90 + 8 = 90,201,098.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 654,321,098 to the nearest 1,000.",
+      "options": {
+        "A": "654,321,000",
+        "B": "654,322,000",
+        "C": "654,321,100",
+        "D": "654,321,200"
+      },
+      "answer": "A",
+      "explanation": "Hundreds digit is 0 (<5), so round down: 654,321,098 → 654,321,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 456,789,012 to the nearest 10,000.",
+      "options": {
+        "A": "456,780,000",
+        "B": "456,790,000",
+        "C": "456,789,000",
+        "D": "456,789,100"
+      },
+      "answer": "B",
+      "explanation": "Thousands digit is 9 (≥5), so round up: 456,789,012 → 456,790,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 654,321,098 to the nearest 100,000.",
+      "options": {
+        "A": "654,300,000",
+        "B": "654,400,000",
+        "C": "654,320,000",
+        "D": "654,330,000"
+      },
+      "answer": "A",
+      "explanation": "Ten-thousands digit is 2 (<5), so round down: 654,321,098 → 654,300,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A galaxy is 4,567,890,123 light-years away. Rounded to the nearest 10,000,000 light-years, how far is it?",
+      "options": {
+        "A": "4,560,000,000",
+        "B": "4,570,000,000",
+        "C": "4,567,000,000",
+        "D": "4,568,000,000"
+      },
+      "answer": "B",
+      "explanation": "Millions digit is 7 (≥5), so round up: 4,567,890,123 → 4,570,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number rounds to 500,000,000 when rounded to the nearest 10,000,000?",
+      "options": {
+        "A": "494,999,999",
+        "B": "495,000,001",
+        "C": "505,000,000",
+        "D": "506,000,000"
+      },
+      "answer": "B",
+      "explanation": "Numbers from 495,000,000 to 504,999,999 round to 500,000,000. 495,000,001 is in that range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 88?",
+      "options": {
+        "A": "LXXXVIII",
+        "B": "LXXVIII",
+        "C": "XCVIII",
+        "D": "LXXXVII"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 8 = VIII, so 88 = LXXXVIII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is represented by 'LXXXVI'?",
+      "options": {
+        "A": "76",
+        "B": "86",
+        "C": "96",
+        "D": "84"
+      },
+      "answer": "B",
+      "explanation": "LXXX = 80, VI = 6, so 80 + 6 = 86.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 63?",
+      "options": {
+        "A": "LXIII",
+        "B": "LIII",
+        "C": "LXXIII",
+        "D": "XLIII"
+      },
+      "answer": "A",
+      "explanation": "60 = LX, 3 = III, so 63 = LXIII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 92?",
+      "options": {
+        "A": "XCII",
+        "B": "LXXXXII",
+        "C": "CII",
+        "D": "LXXII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 2 = II, so 92 = XCII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 71 in Roman numerals?",
+      "options": {
+        "A": "LXXI",
+        "B": "LXI",
+        "C": "LXXXI",
+        "D": "LXX"
+      },
+      "answer": "A",
+      "explanation": "70 = LXX, 1 = I, so 71 = LXXI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 97 in Roman numerals?",
+      "options": {
+        "A": "XCVII",
+        "B": "LXXXXVII",
+        "C": "CVII",
+        "D": "LXXXVII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 7 = VII, so 97 = XCVII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'XLVI'?",
+      "options": {
+        "A": "46",
+        "B": "56",
+        "C": "66",
+        "D": "44"
+      },
+      "answer": "A",
+      "explanation": "XL = 40, VI = 6, so 40 + 6 = 46.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'LXXVII'?",
+      "options": {
+        "A": "67",
+        "B": "77",
+        "C": "87",
+        "D": "75"
+      },
+      "answer": "B",
+      "explanation": "LXX = 70, VII = 7, so 70 + 7 = 77.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Estimate the difference between 654,321,098 and 456,789,012 by rounding both to the nearest 100,000,000.",
+      "options": {
+        "A": "100,000,000",
+        "B": "200,000,000",
+        "C": "190,000,000",
+        "D": "210,000,000"
+      },
+      "answer": "B",
+      "explanation": "654,321,098 → 700,000,000; 456,789,012 → 500,000,000; difference = 200,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A library has 456,789,012 books. Rounded to the nearest 1,000,000, how many books are there?",
+      "options": {
+        "A": "456,000,000",
+        "B": "457,000,000",
+        "C": "456,800,000",
+        "D": "450,000,000"
+      },
+      "answer": "B",
+      "explanation": "Hundred-thousands digit is 7 (≥5), so round up: 456,789,012 → 457,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A star is 654,321,098 km from Earth. Rounded to the nearest 1,000,000 km, how far is it?",
+      "options": {
+        "A": "654,000,000 km",
+        "B": "655,000,000 km",
+        "C": "654,300,000 km",
+        "D": "654,400,000 km"
+      },
+      "answer": "A",
+      "explanation": "Hundred-thousands digit is 3 (<5), so round down: 654,321,098 → 654,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 1,000 less than 5,678,901?",
+      "options": {
+        "A": "5,677,901",
+        "B": "5,678,801",
+        "C": "5,679,901",
+        "D": "5,678,891"
+      },
+      "answer": "A",
+      "explanation": "Subtracting 1,000 reduces the thousands digit by 1: 5,678,901 − 1,000 = 5,677,901.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 1,000 more than 5,432,109?",
+      "options": {
+        "A": "5,432,110",
+        "B": "5,433,109",
+        "C": "5,431,109",
+        "D": "5,432,209"
+      },
+      "answer": "B",
+      "explanation": "Adding 1,000 increases the thousands place: 5,432,109 + 1,000 = 5,433,109.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 5,000,006; 5,000,012; 5,000,018; ...?",
+      "options": {
+        "A": "5,000,020",
+        "B": "5,000,024",
+        "C": "5,000,030",
+        "D": "5,000,036"
+      },
+      "answer": "B",
+      "explanation": "The sequence increases by 6 each time. 5,000,018 + 6 = 5,000,024.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 6,000,007; 6,000,014; 6,000,021; ...?",
+      "options": {
+        "A": "6,000,027",
+        "B": "6,000,028",
+        "C": "6,000,030",
+        "D": "6,000,035"
+      },
+      "answer": "B",
+      "explanation": "Counting in multiples of 7: 6,000,021 + 7 = 6,000,028.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 7,000,009; 7,000,018; 7,000,027; ...?",
+      "options": {
+        "A": "7,000,030",
+        "B": "7,000,036",
+        "C": "7,000,045",
+        "D": "7,000,054"
+      },
+      "answer": "B",
+      "explanation": "Adding 9 each time: 7,000,027 + 9 = 7,000,036.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 5,000,375; 5,000,400; 5,000,425; ...?",
+      "options": {
+        "A": "5,000,440",
+        "B": "5,000,450",
+        "C": "5,000,475",
+        "D": "5,000,500"
+      },
+      "answer": "B",
+      "explanation": "Counting in multiples of 25: 5,000,425 + 25 = 5,000,450.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 9,000,000; 9,001,000; 9,002,000; ...?",
+      "options": {
+        "A": "9,002,500",
+        "B": "9,003,000",
+        "C": "9,004,000",
+        "D": "9,005,000"
+      },
+      "answer": "B",
+      "explanation": "Counting in 1,000s: 9,002,000 + 1,000 = 9,003,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Starting at 20 and counting backwards through zero, what is the 28th number?",
+      "options": {
+        "A": "-7",
+        "B": "-8",
+        "C": "-9",
+        "D": "-10"
+      },
+      "answer": "A",
+      "explanation": "1st=20, ..., 21st=0, 22nd=-1, 23rd=-2, 24th=-3, 25th=-4, 26th=-5, 27th=-6, 28th=-7.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is halfway between -60 and 50?",
+      "options": {
+        "A": "-10",
+        "B": "-5",
+        "C": "0",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "Distance = 110; half = 55. -60 + 55 = -5.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 56,789,012, what is the value of the digit 8?",
+      "options": {
+        "A": "8",
+        "B": "80",
+        "C": "80,000",
+        "D": "800,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 8 is in the ten-thousands place, so its value is 80,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 54,321,098, what is the value of the digit 5?",
+      "options": {
+        "A": "50",
+        "B": "500",
+        "C": "5,000,000",
+        "D": "50,000,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 5 is in the ten-millions place, so its value is 50,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 9,010,203, what is the value of the digit 1?",
+      "options": {
+        "A": "1",
+        "B": "10",
+        "C": "10,000",
+        "D": "100,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 1 is in the ten-thousands place: 10,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which digit is in the hundred-thousands place in 11,345,678?",
+      "options": {
+        "A": "1",
+        "B": "1",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "C",
+      "explanation": "From right: ones=8, tens=7, hundreds=6, thousands=5, ten-thousands=4, hundred-thousands=3, millions=1, ten-millions=1.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which digit has the greatest value in 5,010,908?",
+      "options": {
+        "A": "5",
+        "B": "1",
+        "C": "9",
+        "D": "8"
+      },
+      "answer": "A",
+      "explanation": "5 is in the millions place (5,000,000), which is greater than 10,000, 900, or 8.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is greater: 56,789,012 or 56,789,021?",
+      "options": {
+        "A": "56,789,012",
+        "B": "56,789,021",
+        "C": "They are equal",
+        "D": "Not enough information"
+      },
+      "answer": "B",
+      "explanation": "Digits match until the tens place: 2 > 1, so 56,789,021 is greater.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is smaller: 54,321,098 or 54,321,089?",
+      "options": {
+        "A": "54,321,098",
+        "B": "54,321,089",
+        "C": "They are equal",
+        "D": "Cannot tell"
+      },
+      "answer": "B",
+      "explanation": "Ones: 9 > 8, so 54,321,089 is smaller.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Order these numbers from smallest to largest: 50,000,001; 49,999,999; 50,000,100; 49,999,900.",
+      "options": {
+        "A": "49,999,900; 49,999,999; 50,000,001; 50,000,100",
+        "B": "49,999,999; 49,999,900; 50,000,001; 50,000,100",
+        "C": "50,000,100; 50,000,001; 49,999,999; 49,999,900",
+        "D": "49,999,900; 50,000,001; 49,999,999; 50,000,100"
+      },
+      "answer": "A",
+      "explanation": "49,999,900 < 49,999,999 < 50,000,001 < 50,000,100.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which symbol correctly compares 90,123,456 and 90,123,465?",
+      "options": {
+        "A": "=",
+        "B": "<",
+        "C": ">",
+        "D": "≥"
+      },
+      "answer": "B",
+      "explanation": "Tens digit: 5 < 6, so 90,123,456 < 90,123,465.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which of these numbers is the largest: 567,890,123; 567,890,132; 567,890,213; 567,890,312?",
+      "options": {
+        "A": "567,890,123",
+        "B": "567,890,132",
+        "C": "567,890,213",
+        "D": "567,890,312"
+      },
+      "answer": "D",
+      "explanation": "Compare hundreds: all 9; tens: 3 > 2 > 1, so 567,890,312 is largest.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is represented by 2 × 100,000,000 + 0 × 10,000,000 + 9 × 1,000,000 + 0 × 100,000 + 7 × 10,000 + 0 × 1,000 + 6 × 100 + 0 × 10 + 5 × 1?",
+      "options": {
+        "A": "209,070,605",
+        "B": "290,070,605",
+        "C": "209,700,605",
+        "D": "2,090,706,050"
+      },
+      "answer": "A",
+      "explanation": "200,000,000 + 0 + 9,000,000 + 0 + 70,000 + 0 + 600 + 0 + 5 = 209,070,605.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number matches this description: 3 hundred-millions, 0 ten-millions, 1 million, 0 hundred-thousands, 8 ten-thousands, 0 thousands, 9 hundreds, 0 tens, and 2 ones?",
+      "options": {
+        "A": "301,080,902",
+        "B": "310,080,902",
+        "C": "301,800,902",
+        "D": "30,108,092"
+      },
+      "answer": "A",
+      "explanation": "300,000,000 + 0 + 1,000,000 + 0 + 80,000 + 0 + 900 + 0 + 2 = 301,080,902.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 56,789,012 to the nearest 10.",
+      "options": {
+        "A": "56,789,010",
+        "B": "56,789,020",
+        "C": "56,789,000",
+        "D": "56,789,100"
+      },
+      "answer": "A",
+      "explanation": "Ones digit is 2 (<5), so round down: 56,789,012 → 56,789,010.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 54,321,098 to the nearest 100.",
+      "options": {
+        "A": "54,321,100",
+        "B": "54,321,000",
+        "C": "54,321,090",
+        "D": "54,322,000"
+      },
+      "answer": "A",
+      "explanation": "Tens digit is 9 (≥5), so round up: 54,321,098 → 54,321,100.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 901,234,567 to the nearest 1,000.",
+      "options": {
+        "A": "901,234,000",
+        "B": "901,235,000",
+        "C": "901,234,500",
+        "D": "901,234,600"
+      },
+      "answer": "B",
+      "explanation": "Hundreds digit is 5 (≥5), so round up: 901,234,567 → 901,235,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 4,000,000,004 to the nearest 1,000.",
+      "options": {
+        "A": "4,000,000,000",
+        "B": "4,000,001,000",
+        "C": "4,000,000,100",
+        "D": "4,000,000,010"
+      },
+      "answer": "A",
+      "explanation": "Hundreds digit is 0 (<5), so round down: 4,000,000,004 → 4,000,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 567,890,123 to the nearest 10,000.",
+      "options": {
+        "A": "567,890,000",
+        "B": "567,900,000",
+        "C": "567,890,100",
+        "D": "567,890,200"
+      },
+      "answer": "A",
+      "explanation": "Thousands digit is 0 (<5), so round down: 567,890,123 → 567,890,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A number rounds to 90,000,000 when rounded to the nearest 1,000,000. Which could it be?",
+      "options": {
+        "A": "89,499,999",
+        "B": "89,500,001",
+        "C": "90,500,000",
+        "D": "90,600,000"
+      },
+      "answer": "B",
+      "explanation": "Numbers from 89,500,000 to 90,499,999 round to 90,000,000. 89,500,001 is in that range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A number rounds to 5,678,900 when rounded to the nearest 100. Which could it be?",
+      "options": {
+        "A": "5,678,849",
+        "B": "5,678,951",
+        "C": "5,678,949",
+        "D": "5,678,800"
+      },
+      "answer": "C",
+      "explanation": "Range is 5,678,850 to 5,678,949. 5,678,949 is within this range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 96?",
+      "options": {
+        "A": "XCVI",
+        "B": "LXXXXVI",
+        "C": "CXVI",
+        "D": "ICVI"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 6 = VI, so 96 = XCVI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 84?",
+      "options": {
+        "A": "LXXXIV",
+        "B": "XXCIV",
+        "C": "LXXIV",
+        "D": "LXXXVI"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 4 = IV, so 84 = LXXXIV.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number does the Roman numeral 'XCIX' represent?",
+      "options": {
+        "A": "89",
+        "B": "99",
+        "C": "109",
+        "D": "91"
+      },
+      "answer": "B",
+      "explanation": "XC = 90, IX = 9, so 90 + 9 = 99.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number does the Roman numeral 'XLIX' represent?",
+      "options": {
+        "A": "49",
+        "B": "59",
+        "C": "69",
+        "D": "41"
+      },
+      "answer": "A",
+      "explanation": "XL = 40, IX = 9, so 40 + 9 = 49.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 98?",
+      "options": {
+        "A": "XCVIII",
+        "B": "LXXXXVIII",
+        "C": "ICVIII",
+        "D": "CXVIII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 8 = VIII, so 98 = XCVIII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 79?",
+      "options": {
+        "A": "LXXIX",
+        "B": "LXIX",
+        "C": "LXXXIX",
+        "D": "LXXVIIII"
+      },
+      "answer": "A",
+      "explanation": "70 = LXX, 9 = IX, so 79 = LXXIX.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 91 in Roman numerals?",
+      "options": {
+        "A": "XCI",
+        "B": "LXXXXI",
+        "C": "CXI",
+        "D": "IC"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 1 = I, so 91 = XCI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 99 in Roman numerals?",
+      "options": {
+        "A": "IC",
+        "B": "XCIX",
+        "C": "LXXXXIX",
+        "D": "CIX"
+      },
+      "answer": "B",
+      "explanation": "90 = XC, 9 = IX, so 99 = XCIX.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'XLVIII'?",
+      "options": {
+        "A": "48",
+        "B": "58",
+        "C": "68",
+        "D": "42"
+      },
+      "answer": "A",
+      "explanation": "XL = 40, VIII = 8, so 40 + 8 = 48.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'LXXIX'?",
+      "options": {
+        "A": "69",
+        "B": "79",
+        "C": "89",
+        "D": "71"
+      },
+      "answer": "B",
+      "explanation": "LXX = 70, IX = 9, so 70 + 9 = 79.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Estimate the total cost of items priced at £56,789,012, £67,890,123, and £78,901,234 by rounding each to the nearest £1,000,000.",
+      "options": {
+        "A": "£202,000,000",
+        "B": "£203,000,000",
+        "C": "£204,000,000",
+        "D": "£201,000,000"
+      },
+      "answer": "C",
+      "explanation": "56,789,012 → 57,000,000; 67,890,123 → 68,000,000; 78,901,234 → 79,000,000; sum = 204,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A country has a population of 101,234,567. Rounded to the nearest 1,000,000, what is the population?",
+      "options": {
+        "A": "100,000,000",
+        "B": "101,000,000",
+        "C": "102,000,000",
+        "D": "101,200,000"
+      },
+      "answer": "B",
+      "explanation": "Hundred-thousands digit is 2 (<5), so round down: 101,234,567 → 101,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A planet is 567,890,123 km from Earth. Rounded to the nearest 100,000 km, how far is it?",
+      "options": {
+        "A": "567,800,000 km",
+        "B": "567,900,000 km",
+        "C": "567,890,000 km",
+        "D": "567,891,000 km"
+      },
+      "answer": "B",
+      "explanation": "Ten-thousands digit is 9 (≥5), so round up: 567,890,123 → 567,900,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is 1,000 less than fifty million?",
+      "options": {
+        "A": "49,999,000",
+        "B": "49,999,900",
+        "C": "49,999,999",
+        "D": "50,000,000"
+      },
+      "answer": "A",
+      "explanation": "50,000,000 − 1,000 = 49,999,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is 1,000 more than forty-nine million, nine hundred ninety-nine thousand?",
+      "options": {
+        "A": "49,999,001",
+        "B": "50,000,000",
+        "C": "50,001,000",
+        "D": "49,999,100"
+      },
+      "answer": "B",
+      "explanation": "49,999,000 + 1,000 = 50,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 25s from 0. Which of these numbers will you NOT say?",
+      "options": {
+        "A": "6,250",
+        "B": "6,275",
+        "C": "6,300",
+        "D": "6,260"
+      },
+      "answer": "D",
+      "explanation": "6,260 ÷ 25 = 250.4, not a whole number, so 6,260 is not a multiple of 25.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 9s from 0. Which number will you say?",
+      "options": {
+        "A": "5,004",
+        "B": "5,010",
+        "C": "5,015",
+        "D": "5,020"
+      },
+      "answer": "A",
+      "explanation": "5,004 ÷ 9 = 556, so 5,004 is a multiple of 9.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 7s from 0. Which number is NOT in the sequence?",
+      "options": {
+        "A": "5,005",
+        "B": "5,012",
+        "C": "5,019",
+        "D": "5,025"
+      },
+      "answer": "D",
+      "explanation": "5,025 ÷ 7 ≈ 717.857…, not a whole number, so 5,025 is not a multiple of 7.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 6s from 0. Which number will you say?",
+      "options": {
+        "A": "5,004",
+        "B": "5,005",
+        "C": "5,006",
+        "D": "5,007"
+      },
+      "answer": "A",
+      "explanation": "5,004 ÷ 6 = 834, so 5,004 is a multiple of 6.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the 300th number when counting in 1,000s starting from 1,000?",
+      "options": {
+        "A": "300,000",
+        "B": "299,000",
+        "C": "301,000",
+        "D": "30,000"
+      },
+      "answer": "A",
+      "explanation": "1st = 1,000, ..., 300th = 300,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the temperature if it starts at -35°C and drops by 40 degrees?",
+      "options": {
+        "A": "-75°C",
+        "B": "5°C",
+        "C": "-5°C",
+        "D": "75°C"
+      },
+      "answer": "A",
+      "explanation": "-35 − 40 = -75, so the temperature is -75°C.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "If the temperature was -60°C and it rose by 80 degrees, what is the new temperature?",
+      "options": {
+        "A": "20°C",
+        "B": "-140°C",
+        "C": "140°C",
+        "D": "-20°C"
+      },
+      "answer": "A",
+      "explanation": "-60 + 80 = 20, so the new temperature is 20°C.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is greater: -500 or -499?",
+      "options": {
+        "A": "-500",
+        "B": "-499",
+        "C": "They are equal",
+        "D": "Neither"
+      },
+      "answer": "B",
+      "explanation": "On a number line, -499 is to the right of -500, so it is greater.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Order these temperatures from coldest to warmest: -250°C, 30°C, -25°C, 0°C.",
+      "options": {
+        "A": "-250°C, -25°C, 0°C, 30°C",
+        "B": "30°C, 0°C, -25°C, -250°C",
+        "C": "-25°C, -250°C, 0°C, 30°C",
+        "D": "0°C, -25°C, 30°C, -250°C"
+      },
+      "answer": "A",
+      "explanation": "Coldest to warmest: -250 < -25 < 0 < 30.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is 65 less than -30?",
+      "options": {
+        "A": "-95",
+        "B": "-35",
+        "C": "35",
+        "D": "95"
+      },
+      "answer": "A",
+      "explanation": "-30 − 65 = -95.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is 70 more than -85?",
+      "options": {
+        "A": "-155",
+        "B": "-15",
+        "C": "15",
+        "D": "155"
+      },
+      "answer": "B",
+      "explanation": "-85 + 70 = -15.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 607,080,901, what is the place value of the digit 7?",
+      "options": {
+        "A": "7",
+        "B": "70",
+        "C": "7,000,000",
+        "D": "70,000,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 7 is in the millions place, so its value is 7,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 809,010,203, what is the value of the digit 9?",
+      "options": {
+        "A": "9",
+        "B": "90",
+        "C": "9,000,000",
+        "D": "90,000,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 9 is in the millions place: 9,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number has the same value as 90,000,000 + 1,000,000 + 2,000 + 30 + 4?",
+      "options": {
+        "A": "91,002,034",
+        "B": "90,102,034",
+        "C": "91,020,034",
+        "D": "90,120,034"
+      },
+      "answer": "A",
+      "explanation": "90,000,000 + 1,000,000 + 2,000 + 30 + 4 = 91,002,034.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is shown by 1 × 100,000,000 + 0 × 10,000,000 + 3 × 1,000,000 + 0 × 100,000 + 2 × 10,000 + 0 × 1,000 + 1 × 100 + 0 × 10 + 9 × 1?",
+      "options": {
+        "A": "103,020,109",
+        "B": "130,020,109",
+        "C": "103,200,109",
+        "D": "1,030,201,090"
+      },
+      "answer": "A",
+      "explanation": "100,000,000 + 0 + 3,000,000 + 0 + 20,000 + 0 + 100 + 0 + 9 = 103,020,109.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 543,210,987 to the nearest 1,000.",
+      "options": {
+        "A": "543,210,000",
+        "B": "543,211,000",
+        "C": "543,210,900",
+        "D": "543,210,990"
+      },
+      "answer": "B",
+      "explanation": "Hundreds digit is 9 (≥5), so round up: 543,210,987 → 543,211,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 567,890,123 to the nearest 10,000.",
+      "options": {
+        "A": "567,890,000",
+        "B": "567,900,000",
+        "C": "567,890,100",
+        "D": "567,890,200"
+      },
+      "answer": "A",
+      "explanation": "Thousands digit is 0 (<5), so round down: 567,890,123 → 567,890,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 543,210,987 to the nearest 100,000.",
+      "options": {
+        "A": "543,200,000",
+        "B": "543,300,000",
+        "C": "543,210,000",
+        "D": "543,220,000"
+      },
+      "answer": "A",
+      "explanation": "Ten-thousands digit is 1 (<5), so round down: 543,210,987 → 543,200,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A galaxy is 5,678,901,234 light-years away. Rounded to the nearest 10,000,000 light-years, how far is it?",
+      "options": {
+        "A": "5,670,000,000",
+        "B": "5,680,000,000",
+        "C": "5,678,000,000",
+        "D": "5,679,000,000"
+      },
+      "answer": "B",
+      "explanation": "Millions digit is 8 (≥5), so round up: 5,678,901,234 → 5,680,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number rounds to 600,000,000 when rounded to the nearest 10,000,000?",
+      "options": {
+        "A": "594,999,999",
+        "B": "595,000,001",
+        "C": "605,000,000",
+        "D": "606,000,000"
+      },
+      "answer": "B",
+      "explanation": "Numbers from 595,000,000 to 604,999,999 round to 600,000,000. 595,000,001 is in that range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 87?",
+      "options": {
+        "A": "LXXXVII",
+        "B": "LXXVII",
+        "C": "XCVII",
+        "D": "LXXXVI"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 7 = VII, so 87 = LXXXVII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is represented by 'LXXIV'?",
+      "options": {
+        "A": "64",
+        "B": "74",
+        "C": "84",
+        "D": "76"
+      },
+      "answer": "B",
+      "explanation": "LXX = 70, IV = 4, so 70 + 4 = 74.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 56?",
+      "options": {
+        "A": "LVI",
+        "B": "LIV",
+        "C": "LXVI",
+        "D": "XLVI"
+      },
+      "answer": "A",
+      "explanation": "50 = L, 6 = VI, so 56 = LVI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 92?",
+      "options": {
+        "A": "XCII",
+        "B": "LXXXXII",
+        "C": "CII",
+        "D": "LXXII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 2 = II, so 92 = XCII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 71 in Roman numerals?",
+      "options": {
+        "A": "LXXI",
+        "B": "LXI",
+        "C": "LXXXI",
+        "D": "LXX"
+      },
+      "answer": "A",
+      "explanation": "70 = LXX, 1 = I, so 71 = LXXI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 97 in Roman numerals?",
+      "options": {
+        "A": "XCVII",
+        "B": "LXXXXVII",
+        "C": "CVII",
+        "D": "LXXXVII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 7 = VII, so 97 = XCVII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'XLVI'?",
+      "options": {
+        "A": "46",
+        "B": "56",
+        "C": "66",
+        "D": "44"
+      },
+      "answer": "A",
+      "explanation": "XL = 40, VI = 6, so 40 + 6 = 46.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'LXXVII'?",
+      "options": {
+        "A": "67",
+        "B": "77",
+        "C": "87",
+        "D": "75"
+      },
+      "answer": "B",
+      "explanation": "LXX = 70, VII = 7, so 70 + 7 = 77.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Estimate the difference between 678,901,234 and 543,210,987 by rounding both to the nearest 100,000,000.",
+      "options": {
+        "A": "100,000,000",
+        "B": "200,000,000",
+        "C": "130,000,000",
+        "D": "140,000,000"
+      },
+      "answer": "B",
+      "explanation": "678,901,234 → 700,000,000; 543,210,987 → 500,000,000; difference = 200,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A library has 567,890,123 books. Rounded to the nearest 1,000,000, how many books are there?",
+      "options": {
+        "A": "567,000,000",
+        "B": "568,000,000",
+        "C": "567,900,000",
+        "D": "560,000,000"
+      },
+      "answer": "B",
+      "explanation": "Hundred-thousands digit is 8 (≥5), so round up: 567,890,123 → 568,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A star is 543,210,987 km from Earth. Rounded to the nearest 1,000,000 km, how far is it?",
+      "options": {
+        "A": "543,000,000 km",
+        "B": "544,000,000 km",
+        "C": "543,200,000 km",
+        "D": "543,300,000 km"
+      },
+      "answer": "A",
+      "explanation": "Hundred-thousands digit is 2 (<5), so round down: 543,210,987 → 543,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 1,000 less than 6,789,012?",
+      "options": {
+        "A": "6,788,012",
+        "B": "6,789,912",
+        "C": "6,790,012",
+        "D": "6,789,002"
+      },
+      "answer": "A",
+      "explanation": "Subtracting 1,000 reduces the thousands digit by 1: 6,789,012 − 1,000 = 6,788,012.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 1,000 more than 4,321,098?",
+      "options": {
+        "A": "4,321,099",
+        "B": "4,322,098",
+        "C": "4,320,098",
+        "D": "4,321,198"
+      },
+      "answer": "B",
+      "explanation": "Adding 1,000 increases the thousands place: 4,321,098 + 1,000 = 4,322,098.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 6,000,006; 6,000,012; 6,000,018; ...?",
+      "options": {
+        "A": "6,000,020",
+        "B": "6,000,024",
+        "C": "6,000,030",
+        "D": "6,000,036"
+      },
+      "answer": "B",
+      "explanation": "The sequence increases by 6 each time. 6,000,018 + 6 = 6,000,024.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 7,000,007; 7,000,014; 7,000,021; ...?",
+      "options": {
+        "A": "7,000,027",
+        "B": "7,000,028",
+        "C": "7,000,030",
+        "D": "7,000,035"
+      },
+      "answer": "B",
+      "explanation": "Counting in multiples of 7: 7,000,021 + 7 = 7,000,028.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 8,000,009; 8,000,018; 8,000,027; ...?",
+      "options": {
+        "A": "8,000,030",
+        "B": "8,000,036",
+        "C": "8,000,045",
+        "D": "8,000,054"
+      },
+      "answer": "B",
+      "explanation": "Adding 9 each time: 8,000,027 + 9 = 8,000,036.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 6,000,375; 6,000,400; 6,000,425; ...?",
+      "options": {
+        "A": "6,000,440",
+        "B": "6,000,450",
+        "C": "6,000,475",
+        "D": "6,000,500"
+      },
+      "answer": "B",
+      "explanation": "Counting in multiples of 25: 6,000,425 + 25 = 6,000,450.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number comes next in the sequence: 10,000,000; 10,001,000; 10,002,000; ...?",
+      "options": {
+        "A": "10,002,500",
+        "B": "10,003,000",
+        "C": "10,004,000",
+        "D": "10,005,000"
+      },
+      "answer": "B",
+      "explanation": "Counting in 1,000s: 10,002,000 + 1,000 = 10,003,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Starting at 25 and counting backwards through zero, what is the 32nd number?",
+      "options": {
+        "A": "-6",
+        "B": "-7",
+        "C": "-8",
+        "D": "-9"
+      },
+      "answer": "A",
+      "explanation": "To find the Nth number when counting backwards from S, the formula is S - (N-1).Here, S = 25 and N = 32.25 - (32 - 1) = 25 - 31 = -6.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is halfway between -70 and 60?",
+      "options": {
+        "A": "-10",
+        "B": "-5",
+        "C": "0",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "Distance = 130; half = 65. -70 + 65 = -5.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 67,890,123, what is the value of the digit 9?",
+      "options": {
+        "A": "9",
+        "B": "90",
+        "C": "90,000",
+        "D": "900,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 9 is in the ten-thousands place, so its value is 90,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 43,210,987, what is the value of the digit 4?",
+      "options": {
+        "A": "40",
+        "B": "400",
+        "C": "4,000,000",
+        "D": "40,000,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 4 is in the ten-millions place, so its value is 40,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 10,203,040, what is the value of the digit 2?",
+      "options": {
+        "A": "2",
+        "B": "20",
+        "C": "200,000",
+        "D": "2,000,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 2 is in the hundred-thousands place: 200,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which digit is in the millions place in 12,456,789?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "From right: ones=9, tens=8, hundreds=7, thousands=6, ten-thousands=5, hundred-thousands=4, millions=2, ten-millions=1.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which digit has the greatest value in 4,020,809?",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "8",
+        "D": "9"
+      },
+      "answer": "A",
+      "explanation": "4 is in the millions place (4,000,000), which is greater than 20,000, 800, or 9.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is greater: 67,890,123 or 67,890,132?",
+      "options": {
+        "A": "67,890,123",
+        "B": "67,890,132",
+        "C": "They are equal",
+        "D": "Not enough information"
+      },
+      "answer": "B",
+      "explanation": "Digits match until the tens place: 3 > 2, so 67,890,132 is greater.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is smaller: 43,210,987 or 43,210,978?",
+      "options": {
+        "A": "43,210,987",
+        "B": "43,210,978",
+        "C": "They are equal",
+        "D": "Cannot tell"
+      },
+      "answer": "B",
+      "explanation": "Ones: 8 < 7? No—tens: both 8, then ones: 7 vs 8 → 7 < 8, so 43,210,978 is smaller.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Order these numbers from smallest to largest: 60,000,001; 59,999,999; 60,000,100; 59,999,900.",
+      "options": {
+        "A": "59,999,900; 59,999,999; 60,000,001; 60,000,100",
+        "B": "59,999,999; 59,999,900; 60,000,001; 60,000,100",
+        "C": "60,000,100; 60,000,001; 59,999,999; 59,999,900",
+        "D": "59,999,900; 60,000,001; 59,999,999; 60,000,100"
+      },
+      "answer": "A",
+      "explanation": "59,999,900 < 59,999,999 < 60,000,001 < 60,000,100.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which symbol correctly compares 101,234,567 and 101,234,576?",
+      "options": {
+        "A": "=",
+        "B": "<",
+        "C": ">",
+        "D": "≥"
+      },
+      "answer": "B",
+      "explanation": "Tens digit: 6 < 7, so 101,234,567 < 101,234,576.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which of these numbers is the largest: 678,901,234; 678,901,243; 678,901,324; 678,901,423?",
+      "options": {
+        "A": "678,901,234",
+        "B": "678,901,243",
+        "C": "678,901,324",
+        "D": "678,901,423"
+      },
+      "answer": "D",
+      "explanation": "Compare hundreds: all 9; tens: 4 > 3 > 2, so 678,901,423 is largest.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is represented by 3 × 100,000,000 + 0 × 10,000,000 + 1 × 1,000,000 + 0 × 100,000 + 8 × 10,000 + 0 × 1,000 + 7 × 100 + 0 × 10 + 6 × 1?",
+      "options": {
+        "A": "301,080,706",
+        "B": "310,080,706",
+        "C": "301,800,706",
+        "D": "3,010,807,060"
+      },
+      "answer": "A",
+      "explanation": "300,000,000 + 0 + 1,000,000 + 0 + 80,000 + 0 + 700 + 0 + 6 = 301,080,706.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number matches this description: 4 hundred-millions, 0 ten-millions, 2 millions, 0 hundred-thousands, 9 ten-thousands, 0 thousands, 1 hundred, 0 tens, and 3 ones?",
+      "options": {
+        "A": "402,090,103",
+        "B": "420,090,103",
+        "C": "402,900,103",
+        "D": "40,209,013"
+      },
+      "answer": "A",
+      "explanation": "400,000,000 + 0 + 2,000,000 + 0 + 90,000 + 0 + 100 + 0 + 3 = 402,090,103.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 67,890,123 to the nearest 10.",
+      "options": {
+        "A": "67,890,120",
+        "B": "67,890,130",
+        "C": "67,890,100",
+        "D": "67,890,200"
+      },
+      "answer": "A",
+      "explanation": "Ones digit is 3 (<5), so round down: 67,890,123 → 67,890,120.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 43,210,987 to the nearest 100.",
+      "options": {
+        "A": "43,210,900",
+        "B": "43,211,000",
+        "C": "43,210,980",
+        "D": "43,210,990"
+      },
+      "answer": "B",
+      "explanation": "Tens digit is 8 (≥5), so round up: 43,210,987 → 43,211,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 1,023,456,789 to the nearest 1,000.",
+      "options": {
+        "A": "1,023,456,000",
+        "B": "1,023,457,000",
+        "C": "1,023,456,700",
+        "D": "1,023,456,800"
+      },
+      "answer": "B",
+      "explanation": "Hundreds digit is 7 (≥5), so round up: 1,023,456,789 → 1,023,457,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 5,000,000,005 to the nearest 1,000.",
+      "options": {
+        "A": "5,000,000,000",
+        "B": "5,000,001,000",
+        "C": "5,000,000,100",
+        "D": "5,000,000,010"
+      },
+      "answer": "A",
+      "explanation": "Hundreds digit is 0 (<5), so round down: 5,000,000,005 → 5,000,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 678,901,234 to the nearest 10,000.",
+      "options": {
+        "A": "678,900,000",
+        "B": "678,910,000",
+        "C": "678,901,000",
+        "D": "678,901,300"
+      },
+      "answer": "A",
+      "explanation": "Thousands digit is 1 (<5), so round down: 678,901,234 → 678,900,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A number rounds to 100,000,000 when rounded to the nearest 1,000,000. Which could it be?",
+      "options": {
+        "A": "99,499,999",
+        "B": "99,500,001",
+        "C": "100,500,000",
+        "D": "100,600,000"
+      },
+      "answer": "B",
+      "explanation": "Numbers from 99,500,000 to 100,499,999 round to 100,000,000. 99,500,001 is in that range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A number rounds to 6,789,000 when rounded to the nearest 100. Which could it be?",
+      "options": {
+        "A": "6,788,949",
+        "B": "6,789,051",
+        "C": "6,789,049",
+        "D": "6,788,900"
+      },
+      "answer": "C",
+      "explanation": "Range is 6,788,950 to 6,789,049. 6,789,049 is within this range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 97?",
+      "options": {
+        "A": "XCVII",
+        "B": "LXXXXVII",
+        "C": "CVII",
+        "D": "LXXXVII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 7 = VII, so 97 = XCVII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 85?",
+      "options": {
+        "A": "LXXXV",
+        "B": "LXXV",
+        "C": "XCV",
+        "D": "LXXXIV"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 5 = V, so 85 = LXXXV.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number does the Roman numeral 'LXXXIX' represent?",
+      "options": {
+        "A": "79",
+        "B": "89",
+        "C": "99",
+        "D": "88"
+      },
+      "answer": "B",
+      "explanation": "LXXX = 80, IX = 9, so 80 + 9 = 89.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number does the Roman numeral 'XCIV' represent?",
+      "options": {
+        "A": "94",
+        "B": "104",
+        "C": "84",
+        "D": "96"
+      },
+      "answer": "A",
+      "explanation": "XC = 90, IV = 4, so 90 + 4 = 94.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 99?",
+      "options": {
+        "A": "XCIX",
+        "B": "LXXXXIX",
+        "C": "IC",
+        "D": "CIX"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 9 = IX, so 99 = XCIX.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 80?",
+      "options": {
+        "A": "LXXX",
+        "B": "LXX",
+        "C": "XC",
+        "D": "LXXXX"
+      },
+      "answer": "A",
+      "explanation": "50 = L, 30 = XXX, so 80 = LXXX.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 92 in Roman numerals?",
+      "options": {
+        "A": "XCII",
+        "B": "LXXXXII",
+        "C": "CII",
+        "D": "LXXII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 2 = II, so 92 = XCII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 98 in Roman numerals?",
+      "options": {
+        "A": "XCVIII",
+        "B": "LXXXXVIII",
+        "C": "ICVIII",
+        "D": "CXVIII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 8 = VIII, so 98 = XCVIII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'XLVIII'?",
+      "options": {
+        "A": "48",
+        "B": "58",
+        "C": "68",
+        "D": "42"
+      },
+      "answer": "A",
+      "explanation": "XL = 40, VIII = 8, so 40 + 8 = 48.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'LXXIX'?",
+      "options": {
+        "A": "69",
+        "B": "79",
+        "C": "89",
+        "D": "71"
+      },
+      "answer": "B",
+      "explanation": "LXX = 70, IX = 9, so 70 + 9 = 79.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Estimate the total cost of items priced at £67,890,123, £78,901,234, and £89,012,345 by rounding each to the nearest £1,000,000.",
+      "options": {
+        "A": "£234,000,000",
+        "B": "£235,000,000",
+        "C": "£236,000,000",
+        "D": "£237,000,000"
+      },
+      "answer": "C",
+      "explanation": "Rounded: £68,000,000 + £79,000,000 + £89,000,000 = £236,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Estimate the total cost of items priced at £67,890,123, £78,901,234, and £89,012,345 by rounding each to the nearest £1,000,000.",
+      "options": {
+        "A": "£234,000,000",
+        "B": "£235,000,000",
+        "C": "£236,000,000",
+        "D": "£237,000,000"
+      },
+      "answer": "C",
+      "explanation": "67,890,123 → 68,000,000; 78,901,234 → 79,000,000; 89,012,345 → 89,000,000; sum = 236,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A country has a population of 112,345,678. Rounded to the nearest 1,000,000, what is the population?",
+      "options": {
+        "A": "112,000,000",
+        "B": "113,000,000",
+        "C": "112,300,000",
+        "D": "110,000,000"
+      },
+      "answer": "A",
+      "explanation": "Hundred-thousands digit is 3 (<5), so round down: 112,345,678 → 112,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A planet is 678,901,234 km from Earth. Rounded to the nearest 100,000 km, how far is it?",
+      "options": {
+        "A": "678,900,000 km",
+        "B": "679,000,000 km",
+        "C": "678,800,000 km",
+        "D": "678,910,000 km"
+      },
+      "answer": "A",
+      "explanation": "Ten-thousands digit is 0 (<5), so round down: 678,901,234 → 678,900,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is 1,000 less than sixty million?",
+      "options": {
+        "A": "59,999,000",
+        "B": "59,999,900",
+        "C": "59,999,999",
+        "D": "60,000,000"
+      },
+      "answer": "A",
+      "explanation": "60,000,000 − 1,000 = 59,999,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is 1,000 more than fifty-nine million, nine hundred ninety-nine thousand?",
+      "options": {
+        "A": "59,999,001",
+        "B": "60,000,000",
+        "C": "60,001,000",
+        "D": "59,999,100"
+      },
+      "answer": "B",
+      "explanation": "59,999,000 + 1,000 = 60,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 25s from 0. Which of these numbers will you say?",
+      "options": {
+        "A": "7,500",
+        "B": "7,505",
+        "C": "7,510",
+        "D": "7,515"
+      },
+      "answer": "A",
+      "explanation": "Multiples of 25 end in 00, 25, 50, or 75. 7,500 ends in 00, so it is included.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 9s from 0. Which number will you NOT say?",
+      "options": {
+        "A": "6,003",
+        "B": "6,012",
+        "C": "6,021",
+        "D": "6,025"
+      },
+      "answer": "D",
+      "explanation": "6,025 ÷ 9 ≈ 669.444…, not a whole number, so 6,025 is not a multiple of 9.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 7s from 0. Which number will you say?",
+      "options": {
+        "A": "6,006",
+        "B": "6,007",
+        "C": "6,008",
+        "D": "6,009"
+      },
+      "answer": "A",
+      "explanation": "6,006 ÷ 7 = 858, so 6,006 is a multiple of 7.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Count in 6s from 0. Which number is NOT in the sequence?",
+      "options": {
+        "A": "6,006",
+        "B": "6,012",
+        "C": "6,018",
+        "D": "6,020"
+      },
+      "answer": "D",
+      "explanation": "6,020 ÷ 6 ≈ 1,003.333…, not a whole number, so 6,020 is not a multiple of 6.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the 350th number when counting in 1,000s starting from 1,000?",
+      "options": {
+        "A": "350,000",
+        "B": "349,000",
+        "C": "351,000",
+        "D": "35,000"
+      },
+      "answer": "A",
+      "explanation": "1st = 1,000, ..., 350th = 350,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the temperature if it starts at -40°C and drops by 45 degrees?",
+      "options": {
+        "A": "-85°C",
+        "B": "5°C",
+        "C": "-5°C",
+        "D": "85°C"
+      },
+      "answer": "A",
+      "explanation": "-40 − 45 = -85, so the temperature is -85°C.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "If the temperature was -70°C and it rose by 90 degrees, what is the new temperature?",
+      "options": {
+        "A": "20°C",
+        "B": "-160°C",
+        "C": "160°C",
+        "D": "-20°C"
+      },
+      "answer": "A",
+      "explanation": "-70 + 90 = 20, so the new temperature is 20°C.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is greater: -600 or -599?",
+      "options": {
+        "A": "-600",
+        "B": "-599",
+        "C": "They are equal",
+        "D": "Neither"
+      },
+      "answer": "B",
+      "explanation": "On a number line, -599 is to the right of -600, so it is greater.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Order these temperatures from coldest to warmest: -300°C, 35°C, -30°C, 0°C.",
+      "options": {
+        "A": "-300°C, -30°C, 0°C, 35°C",
+        "B": "35°C, 0°C, -30°C, -300°C",
+        "C": "-30°C, -300°C, 0°C, 35°C",
+        "D": "0°C, -30°C, 35°C, -300°C"
+      },
+      "answer": "A",
+      "explanation": "Coldest to warmest: -300 < -30 < 0 < 35.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is 75 less than -35?",
+      "options": {
+        "A": "-110",
+        "B": "-40",
+        "C": "40",
+        "D": "110"
+      },
+      "answer": "A",
+      "explanation": "-35 − 75 = -110.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is 80 more than -95?",
+      "options": {
+        "A": "-175",
+        "B": "-15",
+        "C": "15",
+        "D": "175"
+      },
+      "answer": "B",
+      "explanation": "-95 + 80 = -15.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 708,090,102, what is the place value of the digit 8?",
+      "options": {
+        "A": "8",
+        "B": "80",
+        "C": "8,000,000",
+        "D": "80,000,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 8 is in the millions place, so its value is 8,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "In the number 901,020,304, what is the value of the digit 1?",
+      "options": {
+        "A": "1",
+        "B": "10",
+        "C": "1,000,000",
+        "D": "10,000,000"
+      },
+      "answer": "C",
+      "explanation": "The digit 1 is in the millions place: 1,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number has the same value as 100,000,000 + 2,000,000 + 3,000 + 40 + 5?",
+      "options": {
+        "A": "102,003,045",
+        "B": "120,003,045",
+        "C": "102,030,045",
+        "D": "120,030,045"
+      },
+      "answer": "A",
+      "explanation": "100,000,000 + 2,000,000 + 3,000 + 40 + 5 = 102,003,045.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is shown by 2 × 100,000,000 + 0 × 10,000,000 + 4 × 1,000,000 + 0 × 100,000 + 3 × 10,000 + 0 × 1,000 + 2 × 100 + 0 × 10 + 1 × 1?",
+      "options": {
+        "A": "204,030,201",
+        "B": "240,030,201",
+        "C": "204,300,201",
+        "D": "2,040,302,010"
+      },
+      "answer": "A",
+      "explanation": "200,000,000 + 0 + 4,000,000 + 0 + 30,000 + 0 + 200 + 0 + 1 = 204,030,201.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 432,109,876 to the nearest 1,000.",
+      "options": {
+        "A": "432,109,000",
+        "B": "432,110,000",
+        "C": "432,109,800",
+        "D": "432,109,900"
+      },
+      "answer": "B",
+      "explanation": "Hundreds digit is 8 (≥5), so round up: 432,109,876 → 432,110,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 678,901,234 to the nearest 10,000.",
+      "options": {
+        "A": "678,900,000",
+        "B": "678,910,000",
+        "C": "678,901,000",
+        "D": "678,901,300"
+      },
+      "answer": "A",
+      "explanation": "Thousands digit is 1 (<5), so round down: 678,901,234 → 678,900,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Round 432,109,876 to the nearest 100,000.",
+      "options": {
+        "A": "432,100,000",
+        "B": "432,200,000",
+        "C": "432,110,000",
+        "D": "432,120,000"
+      },
+      "answer": "A",
+      "explanation": "Ten-thousands digit is 0 (<5), so round down: 432,109,876 → 432,100,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A galaxy is 6,789,012,345 light-years away. Rounded to the nearest 10,000,000 light-years, how far is it?",
+      "options": {
+        "A": "6,780,000,000",
+        "B": "6,790,000,000",
+        "C": "6,789,000,000",
+        "D": "6,789,100,000"
+      },
+      "answer": "B",
+      "explanation": "Millions digit is 9 (≥5), so round up: 6,789,012,345 → 6,790,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number rounds to 700,000,000 when rounded to the nearest 10,000,000?",
+      "options": {
+        "A": "694,999,999",
+        "B": "695,000,001",
+        "C": "705,000,000",
+        "D": "706,000,000"
+      },
+      "answer": "B",
+      "explanation": "Numbers from 695,000,000 to 704,999,999 round to 700,000,000. 695,000,001 is in that range.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is the Roman numeral for 89?",
+      "options": {
+        "A": "LXXXIX",
+        "B": "LXXIX",
+        "C": "XCIX",
+        "D": "LXXXVIIII"
+      },
+      "answer": "A",
+      "explanation": "80 = LXXX, 9 = IX, so 89 = LXXXIX.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What number is represented by 'LXXIV'?",
+      "options": {
+        "A": "64",
+        "B": "74",
+        "C": "84",
+        "D": "76"
+      },
+      "answer": "B",
+      "explanation": "LXX = 70, IV = 4, so 70 + 4 = 74.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 58?",
+      "options": {
+        "A": "LVIII",
+        "B": "LVI",
+        "C": "LXVIII",
+        "D": "XLVIII"
+      },
+      "answer": "A",
+      "explanation": "50 = L, 8 = VIII, so 58 = LVIII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which Roman numeral equals 93?",
+      "options": {
+        "A": "XCIII",
+        "B": "LXXXXIII",
+        "C": "CIII",
+        "D": "LXXXIII"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 3 = III, so 93 = XCIII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 72 in Roman numerals?",
+      "options": {
+        "A": "LXXII",
+        "B": "LXII",
+        "C": "LXXXII",
+        "D": "XLII"
+      },
+      "answer": "A",
+      "explanation": "70 = LXX, 2 = II, so 72 = LXXII.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "What is 96 in Roman numerals?",
+      "options": {
+        "A": "XCVI",
+        "B": "LXXXXVI",
+        "C": "CXVI",
+        "D": "ICVI"
+      },
+      "answer": "A",
+      "explanation": "90 = XC, 6 = VI, so 96 = XCVI.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'XLVI'?",
+      "options": {
+        "A": "46",
+        "B": "56",
+        "C": "66",
+        "D": "44"
+      },
+      "answer": "A",
+      "explanation": "XL = 40, VI = 6, so 40 + 6 = 46.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Which number is represented by 'LXXVII'?",
+      "options": {
+        "A": "67",
+        "B": "77",
+        "C": "87",
+        "D": "75"
+      },
+      "answer": "B",
+      "explanation": "LXX = 70, VII = 7, so 70 + 7 = 77.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "Estimate the difference between 789,012,345 and 432,109,876 by rounding both to the nearest 100,000,000.",
+      "options": {
+        "A": "300,000,000",
+        "B": "400,000,000",
+        "C": "350,000,000",
+        "D": "360,000,000"
+      },
+      "answer": "B",
+      "explanation": "789,012,345 → 800,000,000; 432,109,876 → 400,000,000; difference = 400,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A library has 678,901,234 books. Rounded to the nearest 1,000,000, how many books are there?",
+      "options": {
+        "A": "678,000,000",
+        "B": "679,000,000",
+        "C": "678,900,000",
+        "D": "670,000,000"
+      },
+      "answer": "B",
+      "explanation": "Hundred-thousands digit is 9 (≥5), so round up: 678,901,234 → 679,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    },
+    {
+      "question": "A star is 432,109,876 km from Earth. Rounded to the nearest 1,000,000 km, how far is it?",
+      "options": {
+        "A": "432,000,000 km",
+        "B": "433,000,000 km",
+        "C": "432,100,000 km",
+        "D": "432,200,000 km"
+      },
+      "answer": "A",
+      "explanation": "Hundred-thousands digit is 1 (<5), so round down: 432,109,876 → 432,000,000.",
+      "difficulty": "hard",
+      "used": 0
+    }
+  ]

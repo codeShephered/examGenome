@@ -1,0 +1,1602 @@
+[
+    {
+        "qid": 1,
+        "question": "What are the coordinates of the point that is 3 units to the right and 2 units up from (-1, -2)?",
+        "options": {
+            "A": "(2, 0)",
+            "B": "(2, -4)",
+            "C": "(-4, 0)",
+            "D": "(0, -4)"
+        },
+        "answer": "A",
+        "explanation": "Moving 3 units to the right from -1 gives -1 + 3 = 2. Moving 2 units up from -2 gives -2 + 2 = 0. So, the new coordinates are (2, 0).",
+        "difficulty": "easy",
+        "imgFileName": "1_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 2,
+        "question": "Which quadrant is the point (-3, 4) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "B",
+        "explanation": "The point (-3, 4) has a negative x-coordinate and a positive y-coordinate, so it is in Quadrant II.",
+        "difficulty": "easy",
+        "imgFileName": "2_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 3,
+        "question": "What is the reflection of the point (2, -3) over the x-axis?",
+        "options": {
+            "A": "(2, 3)",
+            "B": "(-2, -3)",
+            "C": "(2, -3)",
+            "D": "(-2, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (2, -3) becomes (2, 3).",
+        "difficulty": "easy",
+        "imgFileName": "3_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 4,
+        "question": "What are the coordinates of the point that is 4 units to the left and 1 unit down from (0, 3)?",
+        "options": {
+            "A": "(-4, 2)",
+            "B": "(4, 2)",
+            "C": "(-4, 4)",
+            "D": "(4, 4)"
+        },
+        "answer": "A",
+        "explanation": "Moving 4 units to the left from 0 gives 0 - 4 = -4. Moving 1 unit down from 3 gives 3 - 1 = 2. So, the new coordinates are (-4, 2).",
+        "difficulty": "easy",
+        "imgFileName": "4_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 5,
+        "question": "Which quadrant is the point (5, -1) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "D",
+        "explanation": "The point (5, -1) has a positive x-coordinate and a negative y-coordinate, so it is in Quadrant IV.",
+        "difficulty": "easy",
+        "imgFileName": "5_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 6,
+        "question": "What is the reflection of the point (-2, 5) over the y-axis?",
+        "options": {
+            "A": "(2, 5)",
+            "B": "(2, -5)",
+            "C": "(-2, -5)",
+            "D": "(-2, 5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-2, 5) becomes (2, 5).",
+        "difficulty": "easy",
+        "imgFileName": "6_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 7,
+        "question": "What are the coordinates of the point that is 2 units to the right and 3 units down from (-1, 4)?",
+        "options": {
+            "A": "(1, 1)",
+            "B": "(1, 7)",
+            "C": "(-3, 1)",
+            "D": "(-3, 7)"
+        },
+        "answer": "A",
+        "explanation": "Moving 2 units to the right from -1 gives -1 + 2 = 1. Moving 3 units down from 4 gives 4 - 3 = 1. So, the new coordinates are (1, 1).",
+        "difficulty": "easy",
+        "imgFileName": "7_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 8,
+        "question": "Which quadrant is the point (-4, -2) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (-4, -2) has both x and y coordinates negative, so it is in Quadrant III.",
+        "difficulty": "easy",
+        "imgFileName": "8_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 9,
+        "question": "What is the reflection of the point (3, -4) over the x-axis?",
+        "options": {
+            "A": "(3, 4)",
+            "B": "(-3, -4)",
+            "C": "(3, -4)",
+            "D": "(-3, 4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (3, -4) becomes (3, 4).",
+        "difficulty": "easy",
+        "imgFileName": "9_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 10,
+        "question": "What are the coordinates of the point that is 5 units to the left and 2 units up from (2, -3)?",
+        "options": {
+            "A": "(-3, -1)",
+            "B": "(7, -1)",
+            "C": "(-3, -5)",
+            "D": "(7, -5)"
+        },
+        "answer": "A",
+        "explanation": "Moving 5 units to the left from 2 gives 2 - 5 = -3. Moving 2 units up from -3 gives -3 + 2 = -1. So, the new coordinates are (-3, -1).",
+        "difficulty": "easy",
+        "imgFileName": "10_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 11,
+        "question": "Which quadrant is the point (0, 5) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "On the y-axis",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (0, 5) lies on the y-axis, not in any quadrant.",
+        "difficulty": "easy",
+        "imgFileName": "11_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 12,
+        "question": "What is the reflection of the point (-5, 0) over the y-axis?",
+        "options": {
+            "A": "(5, 0)",
+            "B": "(0, -5)",
+            "C": "(0, 5)",
+            "D": "(-5, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-5, 0) becomes (5, 0).",
+        "difficulty": "easy",
+        "imgFileName": "12_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 13,
+        "question": "What are the coordinates of the point that is 1 unit to the right and 4 units down from (-2, 3)?",
+        "options": {
+            "A": "(-1, -1)",
+            "B": "(1, -1)",
+            "C": "(-1, 7)",
+            "D": "(1, 7)"
+        },
+        "answer": "A",
+        "explanation": "Moving 1 unit to the right from -2 gives -2 + 1 = -1. Moving 4 units down from 3 gives 3 - 4 = -1. So, the new coordinates are (-1, -1).",
+        "difficulty": "easy",
+        "imgFileName": "13_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 14,
+        "question": "Which quadrant is the point (3, 0) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "On the x-axis",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (3, 0) lies on the x-axis, not in any quadrant.",
+        "difficulty": "easy",
+        "imgFileName": "14_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 15,
+        "question": "What is the reflection of the point (0, -6) over the x-axis?",
+        "options": {
+            "A": "(0, 6)",
+            "B": "(6, 0)",
+            "C": "(0, -6)",
+            "D": "(-6, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (0, -6) becomes (0, 6).",
+        "difficulty": "easy",
+        "imgFileName": "15_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 16,
+        "question": "What are the coordinates of the point that is 3 units to the left and 1 unit up from (4, -2)?",
+        "options": {
+            "A": "(1, -1)",
+            "B": "(7, -1)",
+            "C": "(1, -3)",
+            "D": "(7, -3)"
+        },
+        "answer": "A",
+        "explanation": "Moving 3 units to the left from 4 gives 4 - 3 = 1. Moving 1 unit up from -2 gives -2 + 1 = -1. So, the new coordinates are (1, -1).",
+        "difficulty": "easy",
+        "imgFileName": "16_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 17,
+        "question": "Which quadrant is the point (-1, -5) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (-1, -5) has both x and y coordinates negative, so it is in Quadrant III.",
+        "difficulty": "easy",
+        "imgFileName": "17_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 18,
+        "question": "What is the reflection of the point (4, 2) over the y-axis?",
+        "options": {
+            "A": "(-4, 2)",
+            "B": "(4, -2)",
+            "C": "(-4, -2)",
+            "D": "(2, -4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (4, 2) becomes (-4, 2).",
+        "difficulty": "easy",
+        "imgFileName": "18_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 19,
+        "question": "What are the coordinates of the point that is 2 units to the right and 2 units down from (0, 0)?",
+        "options": {
+            "A": "(2, -2)",
+            "B": "(2, 2)",
+            "C": "(-2, -2)",
+            "D": "(-2, 2)"
+        },
+        "answer": "A",
+        "explanation": "Moving 2 units to the right from 0 gives 0 + 2 = 2. Moving 2 units down from 0 gives 0 - 2 = -2. So, the new coordinates are (2, -2).",
+        "difficulty": "easy",
+        "imgFileName": "19_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 20,
+        "question": "Which quadrant is the point (0, -3) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "On the y-axis",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (0, -3) lies on the y-axis, not in any quadrant.",
+        "difficulty": "easy",
+        "imgFileName": "20_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 21,
+        "question": "What is the reflection of the point (-3, -1) over the x-axis?",
+        "options": {
+            "A": "(-3, 1)",
+            "B": "(3, -1)",
+            "C": "(3, 1)",
+            "D": "(-3, -1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (-3, -1) becomes (-3, 1).",
+        "difficulty": "easy",
+        "imgFileName": "21_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 22,
+        "question": "What are the coordinates of the point that is 4 units to the left and 3 units up from (1, -4)?",
+        "options": {
+            "A": "(-3, -1)",
+            "B": "(5, -1)",
+            "C": "(-3, -7)",
+            "D": "(5, -7)"
+        },
+        "answer": "A",
+        "explanation": "Moving 4 units to the left from 1 gives 1 - 4 = -3. Moving 3 units up from -4 gives -4 + 3 = -1. So, the new coordinates are (-3, -1).",
+        "difficulty": "easy",
+        "imgFileName": "22_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 23,
+        "question": "Which quadrant is the point (2, 5) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "A",
+        "explanation": "The point (2, 5) has both x and y coordinates positive, so it is in Quadrant I.",
+        "difficulty": "easy",
+        "imgFileName": "23_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 24,
+        "question": "What is the reflection of the point (1, -2) over the y-axis?",
+        "options": {
+            "A": "(-1, -2)",
+            "B": "(1, 2)",
+            "C": "(-1, 2)",
+            "D": "(2, -1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (1, -2) becomes (-1, -2).",
+        "difficulty": "easy",
+        "imgFileName": "24_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 25,
+        "question": "What are the coordinates of the point that is 1 unit to the right and 5 units down from (-2, 3)?",
+        "options": {
+            "A": "(-1, -2)",
+            "B": "(1, -2)",
+            "C": "(-1, 8)",
+            "D": "(1, 8)"
+        },
+        "answer": "A",
+        "explanation": "Moving 1 unit to the right from -2 gives -2 + 1 = -1. Moving 5 units down from 3 gives 3 - 5 = -2. So, the new coordinates are (-1, -2).",
+        "difficulty": "easy",
+        "imgFileName": "25_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 26,
+        "question": "Which quadrant is the point (-6, 0) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "On the x-axis",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (-6, 0) lies on the x-axis, not in any quadrant.",
+        "difficulty": "easy",
+        "imgFileName": "26_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 27,
+        "question": "What is the reflection of the point (0, 4) over the x-axis?",
+        "options": {
+            "A": "(0, -4)",
+            "B": "(4, 0)",
+            "C": "(0, 4)",
+            "D": "(-4, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (0, 4) becomes (0, -4).",
+        "difficulty": "easy",
+        "imgFileName": "27_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 28,
+        "question": "What are the coordinates of the point that is 5 units to the right and 2 units up from (-3, -1)?",
+        "options": {
+            "A": "(2, 1)",
+            "B": "(-8, -3)",
+            "C": "(2, -3)",
+            "D": "(-8, 1)"
+        },
+        "answer": "A",
+        "explanation": "Moving 5 units to the right from -3 gives -3 + 5 = 2. Moving 2 units up from -1 gives -1 + 2 = 1. So, the new coordinates are (2, 1).",
+        "difficulty": "easy",
+        "imgFileName": "28_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 29,
+        "question": "Which quadrant is the point (4, -3) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "D",
+        "explanation": "The point (4, -3) has a positive x-coordinate and a negative y-coordinate, so it is in Quadrant IV.",
+        "difficulty": "easy",
+        "imgFileName": "29_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 30,
+        "question": "What is the reflection of the point (-2, 3) over the y-axis?",
+        "options": {
+            "A": "(2, 3)",
+            "B": "(2, -3)",
+            "C": "(-2, -3)",
+            "D": "(3, -2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-2, 3) becomes (2, 3).",
+        "difficulty": "easy",
+        "imgFileName": "30_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 31,
+        "question": "What are the coordinates of the point that is 3 units to the left and 4 units down from (1, 2)?",
+        "options": {
+            "A": "(-2, -2)",
+            "B": "(4, -2)",
+            "C": "(-2, 6)",
+            "D": "(4, 6)"
+        },
+        "answer": "A",
+        "explanation": "Moving 3 units to the left from 1 gives 1 - 3 = -2. Moving 4 units down from 2 gives 2 - 4 = -2. So, the new coordinates are (-2, -2).",
+        "difficulty": "easy",
+        "imgFileName": "31_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 32,
+        "question": "Which quadrant is the point (-5, 1) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "B",
+        "explanation": "The point (-5, 1) has a negative x-coordinate and a positive y-coordinate, so it is in Quadrant II.",
+        "difficulty": "easy",
+        "imgFileName": "32_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 33,
+        "question": "What is the reflection of the point (3, 0) over the x-axis?",
+        "options": {
+            "A": "(3, 0)",
+            "B": "(0, 3)",
+            "C": "(0, -3)",
+            "D": "(-3, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point on the x-axis does not change its coordinates. So, (3, 0) remains (3, 0).",
+        "difficulty": "easy",
+        "imgFileName": "33_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 34,
+        "question": "What are the coordinates of the point that is 2 units to the right and 1 unit down from (-4, 5)?",
+        "options": {
+            "A": "(-2, 4)",
+            "B": "(6, 4)",
+            "C": "(-2, 6)",
+            "D": "(6, 6)"
+        },
+        "answer": "A",
+        "explanation": "Moving 2 units to the right from -4 gives -4 + 2 = -2. Moving 1 unit down from 5 gives 5 - 1 = 4. So, the new coordinates are (-2, 4).",
+        "difficulty": "easy",
+        "imgFileName": "34_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 35,
+        "question": "Which quadrant is the point (0, -2) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "On the y-axis",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (0, -2) lies on the y-axis, not in any quadrant.",
+        "difficulty": "easy",
+        "imgFileName": "35_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 36,
+        "question": "What is the reflection of the point (1, -4) over the y-axis?",
+        "options": {
+            "A": "(-1, -4)",
+            "B": "(1, 4)",
+            "C": "(-1, 4)",
+            "D": "(4, -1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (1, -4) becomes (-1, -4).",
+        "difficulty": "easy",
+        "imgFileName": "36_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 37,
+        "question": "What are the coordinates of the point that is 4 units to the left and 3 units up from (2, -1)?",
+        "options": {
+            "A": "(-2, 2)",
+            "B": "(6, 2)",
+            "C": "(-2, -4)",
+            "D": "(6, -4)"
+        },
+        "answer": "A",
+        "explanation": "Moving 4 units to the left from 2 gives 2 - 4 = -2. Moving 3 units up from -1 gives -1 + 3 = 2. So, the new coordinates are (-2, 2).",
+        "difficulty": "easy",
+        "imgFileName": "37_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 38,
+        "question": "Which quadrant is the point (-3, -4) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (-3, -4) has both x and y coordinates negative, so it is in Quadrant III.",
+        "difficulty": "easy",
+        "imgFileName": "38_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 39,
+        "question": "What is the reflection of the point (0, 5) over the x-axis?",
+        "options": {
+            "A": "(0, -5)",
+            "B": "(5, 0)",
+            "C": "(0, 5)",
+            "D": "(-5, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (0, 5) becomes (0, -5).",
+        "difficulty": "easy",
+        "imgFileName": "39_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 40,
+        "question": "What are the coordinates of the point that is 1 unit to the right and 2 units down from (-5, 3)?",
+        "options": {
+            "A": "(-4, 1)",
+            "B": "(6, 1)",
+            "C": "(-4, 5)",
+            "D": "(6, 5)"
+        },
+        "answer": "A",
+        "explanation": "Moving 1 unit to the right from -5 gives -5 + 1 = -4. Moving 2 units down from 3 gives 3 - 2 = 1. So, the new coordinates are (-4, 1).",
+        "difficulty": "easy",
+        "imgFileName": "40_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 41,
+        "question": "Which quadrant is the point (6, 0) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "On the x-axis",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (6, 0) lies on the x-axis, not in any quadrant.",
+        "difficulty": "easy",
+        "imgFileName": "41_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 42,
+        "question": "What is the reflection of the point (-4, 2) over the y-axis?",
+        "options": {
+            "A": "(4, 2)",
+            "B": "(4, -2)",
+            "C": "(-4, -2)",
+            "D": "(2, -4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-4, 2) becomes (4, 2).",
+        "difficulty": "easy",
+        "imgFileName": "42_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 43,
+        "question": "What are the coordinates of the point that is 3 units to the right and 1 unit up from (-2, -5)?",
+        "options": {
+            "A": "(1, -4)",
+            "B": "(5, -4)",
+            "C": "(1, -6)",
+            "D": "(5, -6)"
+        },
+        "answer": "A",
+        "explanation": "Moving 3 units to the right from -2 gives -2 + 3 = 1. Moving 1 unit up from -5 gives -5 + 1 = -4. So, the new coordinates are (1, -4).",
+        "difficulty": "easy",
+        "imgFileName": "43_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 44,
+        "question": "Which quadrant is the point (-1, 3) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "B",
+        "explanation": "The point (-1, 3) has a negative x-coordinate and a positive y-coordinate, so it is in Quadrant II.",
+        "difficulty": "easy",
+        "imgFileName": "44_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 45,
+        "question": "What is the reflection of the point (2, -1) over the x-axis?",
+        "options": {
+            "A": "(2, 1)",
+            "B": "(-2, -1)",
+            "C": "(2, -1)",
+            "D": "(-2, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (2, -1) becomes (2, 1).",
+        "difficulty": "easy",
+        "imgFileName": "45_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 46,
+        "question": "What are the coordinates of the point that is 2 units to the left and 3 units down from (3, 1)?",
+        "options": {
+            "A": "(1, -2)",
+            "B": "(5, -2)",
+            "C": "(1, 4)",
+            "D": "(5, 4)"
+        },
+        "answer": "A",
+        "explanation": "Moving 2 units to the left from 3 gives 3 - 2 = 1. Moving 3 units down from 1 gives 1 - 3 = -2. So, the new coordinates are (1, -2).",
+        "difficulty": "easy",
+        "imgFileName": "46_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 47,
+        "question": "Which quadrant is the point (0, 7) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "On the y-axis",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (0, 7) lies on the y-axis, not in any quadrant.",
+        "difficulty": "easy",
+        "imgFileName": "47_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 48,
+        "question": "What is the reflection of the point (3, 4) over the y-axis?",
+        "options": {
+            "A": "(-3, 4)",
+            "B": "(3, -4)",
+            "C": "(-3, -4)",
+            "D": "(4, -3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (3, 4) becomes (-3, 4).",
+        "difficulty": "easy",
+        "imgFileName": "48_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 49,
+        "question": "What are the coordinates of the point that is 5 units to the right and 2 units up from (-3, -4)?",
+        "options": {
+            "A": "(2, -2)",
+            "B": "(-8, -2)",
+            "C": "(2, -6)",
+            "D": "(-8, -6)"
+        },
+        "answer": "A",
+        "explanation": "Moving 5 units to the right from -3 gives -3 + 5 = 2. Moving 2 units up from -4 gives -4 + 2 = -2. So, the new coordinates are (2, -2).",
+        "difficulty": "easy",
+        "imgFileName": "49_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 50,
+        "question": "Which quadrant is the point (-2, 0) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "On the x-axis",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (-2, 0) lies on the x-axis, not in any quadrant.",
+        "difficulty": "easy",
+        "imgFileName": "50_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 51,
+        "question": "What is the reflection of the point (1, 3) over the x-axis?",
+        "options": {
+            "A": "(1, -3)",
+            "B": "(-1, 3)",
+            "C": "(1, 3)",
+            "D": "(-1, -3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (1, 3) becomes (1, -3).",
+        "difficulty": "easy",
+        "imgFileName": "51_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 52,
+        "question": "What are the coordinates of the point that is 2 units to the left and 1 unit down from (0, 2)?",
+        "options": {
+            "A": "(-2, 1)",
+            "B": "(2, 1)",
+            "C": "(-2, 3)",
+            "D": "(2, 3)"
+        },
+        "answer": "A",
+        "explanation": "Moving 2 units to the left from 0 gives 0 - 2 = -2. Moving 1 unit down from 2 gives 2 - 1 = 1. So, the new coordinates are (-2, 1).",
+        "difficulty": "easy",
+        "imgFileName": "52_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 53,
+        "question": "Which quadrant is the point (3, -5) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "D",
+        "explanation": "The point (3, -5) has a positive x-coordinate and a negative y-coordinate, so it is in Quadrant IV.",
+        "difficulty": "easy",
+        "imgFileName": "53_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 54,
+        "question": "What is the reflection of the point (-1, -2) over the y-axis?",
+        "options": {
+            "A": "(1, -2)",
+            "B": "(1, 2)",
+            "C": "(-1, 2)",
+            "D": "(2, -1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-1, -2) becomes (1, -2).",
+        "difficulty": "easy",
+        "imgFileName": "54_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 55,
+        "question": "What are the coordinates of the point that is 3 units to the right and 2 units up from (-4, -1)?",
+        "options": {
+            "A": "(-1, 1)",
+            "B": "(7, 1)",
+            "C": "(-1, -3)",
+            "D": "(7, -3)"
+        },
+        "answer": "A",
+        "explanation": "Moving 3 units to the right from -4 gives -4 + 3 = -1. Moving 2 units up from -1 gives -1 + 2 = 1. So, the new coordinates are (-1, 1).",
+        "difficulty": "easy",
+        "imgFileName": "55_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 56,
+        "question": "Which quadrant is the point (-3, 6) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "B",
+        "explanation": "The point (-3, 6) has a negative x-coordinate and a positive y-coordinate, so it is in Quadrant II.",
+        "difficulty": "easy",
+        "imgFileName": "56_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 57,
+        "question": "What is the reflection of the point (2, 0) over the x-axis?",
+        "options": {
+            "A": "(2, 0)",
+            "B": "(0, 2)",
+            "C": "(0, -2)",
+            "D": "(-2, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point on the x-axis does not change its coordinates. So, (2, 0) remains (2, 0).",
+        "difficulty": "easy",
+        "imgFileName": "57_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 58,
+        "question": "What are the coordinates of the point that is 4 units to the left and 3 units down from (2, 4)?",
+        "options": {
+            "A": "(-2, 1)",
+            "B": "(6, 1)",
+            "C": "(-2, 7)",
+            "D": "(6, 7)"
+        },
+        "answer": "A",
+        "explanation": "Moving 4 units to the left from 2 gives 2 - 4 = -2. Moving 3 units down from 4 gives 4 - 3 = 1. So, the new coordinates are (-2, 1).",
+        "difficulty": "easy",
+        "imgFileName": "58_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 59,
+        "question": "Which quadrant is the point (0, -4) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "On the y-axis",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (0, -4) lies on the y-axis, not in any quadrant.",
+        "difficulty": "easy",
+        "imgFileName": "59_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 60,
+        "question": "What is the reflection of the point (5, -3) over the y-axis?",
+        "options": {
+            "A": "(-5, -3)",
+            "B": "(5, 3)",
+            "C": "(-5, 3)",
+            "D": "(3, -5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (5, -3) becomes (-5, -3).",
+        "difficulty": "easy",
+        "imgFileName": "60_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 61,
+        "question": "What are the coordinates of the point that is 1 unit to the right and 4 units up from (-3, -2)?",
+        "options": {
+            "A": "(-2, 2)",
+            "B": "(4, 2)",
+            "C": "(-2, -6)",
+            "D": "(4, -6)"
+        },
+        "answer": "A",
+        "explanation": "Moving 1 unit to the right from -3 gives -3 + 1 = -2. Moving 4 units up from -2 gives -2 + 4 = 2. So, the new coordinates are (-2, 2).",
+        "difficulty": "easy",
+        "imgFileName": "61_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 62,
+        "question": "Which quadrant is the point (-4, -1) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (-4, -1) has both x and y coordinates negative, so it is in Quadrant III.",
+        "difficulty": "easy",
+        "imgFileName": "62_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 63,
+        "question": "What is the reflection of the point (0, 2) over the x-axis?",
+        "options": {
+            "A": "(0, -2)",
+            "B": "(2, 0)",
+            "C": "(0, 2)",
+            "D": "(-2, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (0, 2) becomes (0, -2).",
+        "difficulty": "easy",
+        "imgFileName": "63_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 64,
+        "question": "What are the coordinates of the point that is 3 units to the right and 1 unit down from (-1, 3)?",
+        "options": {
+            "A": "(2, 2)",
+            "B": "(4, 2)",
+            "C": "(2, 4)",
+            "D": "(4, 4)"
+        },
+        "answer": "A",
+        "explanation": "Moving 3 units to the right from -1 gives -1 + 3 = 2. Moving 1 unit down from 3 gives 3 - 1 = 2. So, the new coordinates are (2, 2).",
+        "difficulty": "easy",
+        "imgFileName": "64_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 65,
+        "question": "Which quadrant is the point (1, 0) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "On the x-axis",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (1, 0) lies on the x-axis, not in any quadrant.",
+        "difficulty": "easy",
+        "imgFileName": "65_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 66,
+        "question": "What is the reflection of the point (-2, 0) over the y-axis?",
+        "options": {
+            "A": "(2, 0)",
+            "B": "(0, -2)",
+            "C": "(0, 2)",
+            "D": "(-2, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-2, 0) becomes (2, 0).",
+        "difficulty": "easy",
+        "imgFileName": "66_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 67,
+        "question": "What are the coordinates of the point that is 2 units to the left and 2 units up from (3, -3)?",
+        "options": {
+            "A": "(1, -1)",
+            "B": "(5, -1)",
+            "C": "(1, -5)",
+            "D": "(5, -5)"
+        },
+        "answer": "A",
+        "explanation": "Moving 2 units to the left from 3 gives 3 - 2 = 1. Moving 2 units up from -3 gives -3 + 2 = -1. So, the new coordinates are (1, -1).",
+        "difficulty": "easy",
+        "imgFileName": "67_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 68,
+        "question": "Which quadrant is the point (-5, 2) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "B",
+        "explanation": "The point (-5, 2) has a negative x-coordinate and a positive y-coordinate, so it is in Quadrant II.",
+        "difficulty": "easy",
+        "imgFileName": "68_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 69,
+        "question": "What is the reflection of the point (4, -5) over the x-axis?",
+        "options": {
+            "A": "(4, 5)",
+            "B": "(-4, -5)",
+            "C": "(4, -5)",
+            "D": "(-4, 5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (4, -5) becomes (4, 5).",
+        "difficulty": "easy",
+        "imgFileName": "69_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 70,
+        "question": "What are the coordinates of the point that is 1 unit to the right and 3 units down from (0, 4)?",
+        "options": {
+            "A": "(1, 1)",
+            "B": "(-1, 1)",
+            "C": "(1, 7)",
+            "D": "(-1, 7)"
+        },
+        "answer": "A",
+        "explanation": "Moving 1 unit to the right from 0 gives 0 + 1 = 1. Moving 3 units down from 4 gives 4 - 3 = 1. So, the new coordinates are (1, 1).",
+        "difficulty": "easy",
+        "imgFileName": "70_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 71,
+        "question": "Which quadrant is the point (0, -6) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "On the y-axis",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (0, -6) lies on the y-axis, not in any quadrant.",
+        "difficulty": "easy",
+        "imgFileName": "71_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 72,
+        "question": "What is the reflection of the point (3, 2) over the y-axis?",
+        "options": {
+            "A": "(-3, 2)",
+            "B": "(3, -2)",
+            "C": "(-3, -2)",
+            "D": "(2, -3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (3, 2) becomes (-3, 2).",
+        "difficulty": "easy",
+        "imgFileName": "72_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 73,
+        "question": "What are the coordinates of the point that is 4 units to the left and 1 unit up from (2, -3)?",
+        "options": {
+            "A": "(-2, -2)",
+            "B": "(6, -2)",
+            "C": "(-2, -4)",
+            "D": "(6, -4)"
+        },
+        "answer": "A",
+        "explanation": "Moving 4 units to the left from 2 gives 2 - 4 = -2. Moving 1 unit up from -3 gives -3 + 1 = -2. So, the new coordinates are (-2, -2).",
+        "difficulty": "easy",
+        "imgFileName": "73_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 74,
+        "question": "Which quadrant is the point (-1, -3) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (-1, -3) has both x and y coordinates negative, so it is in Quadrant III.",
+        "difficulty": "easy",
+        "imgFileName": "74_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 75,
+        "question": "What is the reflection of the point (0, -1) over the x-axis?",
+        "options": {
+            "A": "(0, 1)",
+            "B": "(1, 0)",
+            "C": "(0, -1)",
+            "D": "(-1, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (0, -1) becomes (0, 1).",
+        "difficulty": "easy",
+        "imgFileName": "75_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 76,
+        "question": "What are the coordinates of the point that is 2 units to the right and 2 units down from (-3, 0)?",
+        "options": {
+            "A": "(-1, -2)",
+            "B": "(1, -2)",
+            "C": "(-1, 2)",
+            "D": "(1, 2)"
+        },
+        "answer": "A",
+        "explanation": "Moving 2 units to the right from -3 gives -3 + 2 = -1. Moving 2 units down from 0 gives 0 - 2 = -2. So, the new coordinates are (-1, -2).",
+        "difficulty": "easy",
+        "imgFileName": "76_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 77,
+        "question": "Which quadrant is the point (2, 6) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "A",
+        "explanation": "The point (2, 6) has both x and y coordinates positive, so it is in Quadrant I.",
+        "difficulty": "easy",
+        "imgFileName": "77_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 78,
+        "question": "What is the reflection of the point (-4, -3) over the y-axis?",
+        "options": {
+            "A": "(4, -3)",
+            "B": "(4, 3)",
+            "C": "(-4, 3)",
+            "D": "(3, -4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-4, -3) becomes (4, -3).",
+        "difficulty": "easy",
+        "imgFileName": "78_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 79,
+        "question": "What are the coordinates of the point that is 3 units to the left and 4 units up from (1, -2)?",
+        "options": {
+            "A": "(-2, 2)",
+            "B": "(4, 2)",
+            "C": "(-2, -6)",
+            "D": "(4, -6)"
+        },
+        "answer": "A",
+        "explanation": "Moving 3 units to the left from 1 gives 1 - 3 = -2. Moving 4 units up from -2 gives -2 + 4 = 2. So, the new coordinates are (-2, 2).",
+        "difficulty": "easy",
+        "imgFileName": "79_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 80,
+        "question": "Which quadrant is the point (-6, 4) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "B",
+        "explanation": "The point (-6, 4) has a negative x-coordinate and a positive y-coordinate, so it is in Quadrant II.",
+        "difficulty": "easy",
+        "imgFileName": "80_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 81,
+        "question": "What is the reflection of the point (5, 0) over the x-axis?",
+        "options": {
+            "A": "(5, 0)",
+            "B": "(0, 5)",
+            "C": "(0, -5)",
+            "D": "(-5, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point on the x-axis does not change its coordinates. So, (5, 0) remains (5, 0).",
+        "difficulty": "easy",
+        "imgFileName": "81_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 82,
+        "question": "What are the coordinates of the point that is 2 units to the right and 3 units down from (-1, 5)?",
+        "options": {
+            "A": "(1, 2)",
+            "B": "(-3, 2)",
+            "C": "(1, 8)",
+            "D": "(-3, 8)"
+        },
+        "answer": "A",
+        "explanation": "Moving 2 units to the right from -1 gives -1 + 2 = 1. Moving 3 units down from 5 gives 5 - 3 = 2. So, the new coordinates are (1, 2).",
+        "difficulty": "easy",
+        "imgFileName": "82_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 83,
+        "question": "Which quadrant is the point (0, 3) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "On the y-axis",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (0, 3) lies on the y-axis, not in any quadrant.",
+        "difficulty": "easy",
+        "imgFileName": "83_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 84,
+        "question": "What is the reflection of the point (2, -6) over the y-axis?",
+        "options": {
+            "A": "(-2, -6)",
+            "B": "(2, 6)",
+            "C": "(-2, 6)",
+            "D": "(6, -2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (2, -6) becomes (-2, -6).",
+        "difficulty": "easy",
+        "imgFileName": "84_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 85,
+        "question": "What are the coordinates of the point that is 4 units to the left and 2 units up from (3, -4)?",
+        "options": {
+            "A": "(-1, -2)",
+            "B": "(7, -2)",
+            "C": "(-1, -6)",
+            "D": "(7, -6)"
+        },
+        "answer": "A",
+        "explanation": "Moving 4 units to the left from 3 gives 3 - 4 = -1. Moving 2 units up from -4 gives -4 + 2 = -2. So, the new coordinates are (-1, -2).",
+        "difficulty": "easy",
+        "imgFileName": "85_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 86,
+        "question": "Which quadrant is the point (-5, -5) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (-5, -5) has both x and y coordinates negative, so it is in Quadrant III.",
+        "difficulty": "easy",
+        "imgFileName": "86_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 87,
+        "question": "What is the reflection of the point (0, -7) over the x-axis?",
+        "options": {
+            "A": "(0, 7)",
+            "B": "(7, 0)",
+            "C": "(0, -7)",
+            "D": "(-7, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (0, -7) becomes (0, 7).",
+        "difficulty": "easy",
+        "imgFileName": "87_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 88,
+        "question": "What are the coordinates of the point that is 1 unit to the right and 5 units down from (-4, 2)?",
+        "options": {
+            "A": "(-3, -3)",
+            "B": "(5, -3)",
+            "C": "(-3, 7)",
+            "D": "(5, 7)"
+        },
+        "answer": "A",
+        "explanation": "Moving 1 unit to the right from -4 gives -4 + 1 = -3. Moving 5 units down from 2 gives 2 - 5 = -3. So, the new coordinates are (-3, -3).",
+        "difficulty": "easy",
+        "imgFileName": "88_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 89,
+        "question": "Which quadrant is the point (4, 1) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "A",
+        "explanation": "The point (4, 1) has both x and y coordinates positive, so it is in Quadrant I.",
+        "difficulty": "easy",
+        "imgFileName": "89_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 90,
+        "question": "What is the reflection of the point (-3, 1) over the y-axis?",
+        "options": {
+            "A": "(3, 1)",
+            "B": "(3, -1)",
+            "C": "(-3, -1)",
+            "D": "(1, -3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-3, 1) becomes (3, 1).",
+        "difficulty": "easy",
+        "imgFileName": "90_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 91,
+        "question": "What are the coordinates of the point that is 2 units to the left and 1 unit up from (1, -3)?",
+        "options": {
+            "A": "(-1, -2)",
+            "B": "(3, -2)",
+            "C": "(-1, -4)",
+            "D": "(3, -4)"
+        },
+        "answer": "A",
+        "explanation": "Moving 2 units to the left from 1 gives 1 - 2 = -1. Moving 1 unit up from -3 gives -3 + 1 = -2. So, the new coordinates are (-1, -2).",
+        "difficulty": "easy",
+        "imgFileName": "91_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 92,
+        "question": "Which quadrant is the point (-2, 4) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "B",
+        "explanation": "The point (-2, 4) has a negative x-coordinate and a positive y-coordinate, so it is in Quadrant II.",
+        "difficulty": "easy",
+        "imgFileName": "92_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 93,
+        "question": "What is the reflection of the point (6, 0) over the x-axis?",
+        "options": {
+            "A": "(6, 0)",
+            "B": "(0, 6)",
+            "C": "(0, -6)",
+            "D": "(-6, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point on the x-axis does not change its coordinates. So, (6, 0) remains (6, 0).",
+        "difficulty": "easy",
+        "imgFileName": "93_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 94,
+        "question": "What are the coordinates of the point that is 3 units to the right and 2 units down from (-5, 1)?",
+        "options": {
+            "A": "(-2, -1)",
+            "B": "(8, -1)",
+            "C": "(-2, 3)",
+            "D": "(8, 3)"
+        },
+        "answer": "A",
+        "explanation": "Moving 3 units to the right from -5 gives -5 + 3 = -2. Moving 2 units down from 1 gives 1 - 2 = -1. So, the new coordinates are (-2, -1).",
+        "difficulty": "easy",
+        "imgFileName": "94_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 95,
+        "question": "Which quadrant is the point (0, -1) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "On the y-axis",
+            "D": "Quadrant IV"
+        },
+        "answer": "C",
+        "explanation": "The point (0, -1) lies on the y-axis, not in any quadrant.",
+        "difficulty": "easy",
+        "imgFileName": "95_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 96,
+        "question": "What is the reflection of the point (4, -3) over the y-axis?",
+        "options": {
+            "A": "(-4, -3)",
+            "B": "(4, 3)",
+            "C": "(-4, 3)",
+            "D": "(3, -4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (4, -3) becomes (-4, -3).",
+        "difficulty": "easy",
+        "imgFileName": "96_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 97,
+        "question": "What are the coordinates of the point that is 1 unit to the right and 3 units up from (-2, -5)?",
+        "options": {
+            "A": "(-1, -2)",
+            "B": "(1, -2)",
+            "C": "(-1, -8)",
+            "D": "(1, -8)"
+        },
+        "answer": "A",
+        "explanation": "Moving 1 unit to the right from -2 gives -2 + 1 = -1. Moving 3 units up from -5 gives -5 + 3 = -2. So, the new coordinates are (-1, -2).",
+        "difficulty": "easy",
+        "imgFileName": "97_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 98,
+        "question": "Which quadrant is the point (-7, 3) located in?",
+        "options": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "answer": "B",
+        "explanation": "The point (-7, 3) has a negative x-coordinate and a positive y-coordinate, so it is in Quadrant II.",
+        "difficulty": "easy",
+        "imgFileName": "98_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 99,
+        "question": "What is the reflection of the point (0, 5) over the x-axis?",
+        "options": {
+            "A": "(0, -5)",
+            "B": "(5, 0)",
+            "C": "(0, 5)",
+            "D": "(-5, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (0, 5) becomes (0, -5).",
+        "difficulty": "easy",
+        "imgFileName": "99_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 100,
+        "question": "What are the coordinates of the point that is 2 units to the left and 4 units down from (3, 1)?",
+        "options": {
+            "A": "(1, -3)",
+            "B": "(5, -3)",
+            "C": "(1, 5)",
+            "D": "(5, 5)"
+        },
+        "answer": "A",
+        "explanation": "Moving 2 units to the left from 3 gives 3 - 2 = 1. Moving 4 units down from 1 gives 1 - 4 = -3. So, the new coordinates are (1, -3).",
+        "difficulty": "easy",
+        "imgFileName": "100_Year6-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    }
+]

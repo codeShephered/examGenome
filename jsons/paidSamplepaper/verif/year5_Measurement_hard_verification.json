@@ -1,0 +1,1582 @@
+Question: A rope is 3.75 m long. How many centimetres long is the rope?
+Status: Success
+
+Question: Which is the closest estimate for 5 kilometres in miles?
+Status: Success
+
+Question: A rectangle has sides of 6 cm and 9 cm. What is its perimeter?
+Status: Success
+
+Question: A shape is made from two rectangles. One is 4 cm by 6 cm and the other is 4 cm by 2 cm joined along the 4 cm side. What is the total perimeter?
+Status: Error
+Explanation: Joining a 4 cm by 6 cm rectangle and a 4 cm by 2 cm rectangle along the 4 cm side creates a new rectangle measuring 8 cm by 4 cm. The perimeter is 2 * (8 + 4) = 24 cm. The provided answer C (32 cm) is incorrect as it simply adds the perimeters of the two original rectangles (20 cm and 12 cm) without subtracting the shared internal side.
+
+Question: What is the area of a rectangle measuring 7 m by 4 m?
+Status: Success
+
+Question: A square has an area of 49 cm². What is the length of one side?
+Status: Success
+
+Question: A jug holds 1.5 litres of water. How many millilitres is this?
+Status: Success
+
+Question: A cuboid is built using 1 cm³ cubes. It is 5 cm long, 4 cm wide, and 3 cm high. What is its volume?
+Status: Success
+
+Question: Which is closest to the mass of a full school bag?
+Status: Success
+
+Question: How many grams are equal to 2.45 kg?
+Status: Success
+
+Question: A film starts at 14:35 and lasts 1 hour 50 minutes. What time does it finish?
+Status: Success
+
+Question: A race lasts 3,600 seconds. How long is the race in minutes?
+Status: Success
+
+Question: A rectangle has a perimeter of 26 cm. One side is 6 cm. What is the length of the other side?
+Status: Success
+
+Question: A 500 ml bottle is filled to 0.6 litres. How much liquid is in the bottle?
+Status: Success
+
+Question: Which is the best estimate for the length of a classroom?
+Status: Success
+
+Question: A shape has an area of 36 cm² and a width of 4 cm. What is its length?
+Status: Success
+
+Question: A recipe uses 0.75 kg of flour. How many grams is this?
+Status: Success
+
+Question: A walk takes 2 weeks and 3 days. How many days is this altogether?
+Status: Success
+
+Question: A 2 m ribbon is cut into pieces of 25 cm each. How many pieces are there?
+Status: Success
+
+Question: How many metres are equal to 3.75 kilometres?
+Status: Success
+
+Question: Convert 420 centimetres into metres.
+Status: Success
+
+Question: How many millimetres are in 6.8 centimetres?
+Status: Success
+
+Question: Which is closest to the mass of a bag of sugar weighing 2 kilograms?
+Status: Success
+
+Question: A jug holds 1.5 litres of water. Approximately how many pints is this?
+Status: Success
+
+Question: A rectangle has sides of 6 cm and 9 cm. What is its perimeter?
+Status: Success
+
+Question: A shape is made from two rectangles joined together. Its outside edge measures 48 cm. What is the perimeter?
+Status: Success
+
+Question: The perimeter of a rectangle is 26 cm. One side is 5 cm. What is the length of the other side?
+Status: Success
+
+Question: What is the area of a rectangle that is 7 m long and 4 m wide?
+Status: Success
+
+Question: A square has an area of 64 cm². What is the length of one side?
+Status: Success
+
+Question: Which shape has the greater area?
+Status: Success
+
+Question: An irregular shape covers about the same space as a 5 cm by 6 cm rectangle. What is its estimated area?
+Status: Success
+
+Question: How many 1 cm³ cubes are needed to build a cuboid measuring 4 cm × 3 cm × 5 cm?
+Status: Success
+
+Question: A cube has a volume of 125 cm³. What is the length of one edge?
+Status: Success
+
+Question: How many minutes are there in 2.75 hours?
+Status: Success
+
+Question: A film lasts 1 hour 48 minutes. How many minutes is this in total?
+Status: Success
+
+Question: A train journey takes 2 hours 35 minutes. How many minutes longer is this than a 2-hour journey?
+Status: Success
+
+Question: A rope is 2.4 m long. Another rope is 180 cm long. What is the total length?
+Status: Error
+Explanation: 2.4 m is equal to 240 cm. Adding 180 cm gives 420 cm, which is 4.2 m. The provided answer B (4.0 m) is incorrect; the correct answer is A (4.2 m).
+
+Question: A recipe needs 750 ml of milk. You already have 0.25 litres. How much more milk is needed?
+Status: Success
+
+Question: A box of apples weighs 3.6 kg. Each bag weighs 0.9 kg. How many bags can be made?
+Status: Success
+
+Question: How many millimetres are equal to 7.4 centimetres?
+Status: Success
+
+Question: A rope is 2.35 metres long. What is its length in centimetres?
+Status: Success
+
+Question: Which is the closest estimate to 15 inches in centimetres?
+Status: Success
+
+Question: How many grams are equal to 4.6 kilograms?
+Status: Success
+
+Question: How many millilitres are equal to 3.25 litres?
+Status: Success
+
+Question: A rectangle has a perimeter of 30 cm. One side is 8 cm. What is the other side?
+Status: Success
+
+Question: A rectangle has sides of 6 cm and b cm. Its perimeter is 28 cm. What is b?
+Status: Success
+
+Question: Two rectangles measuring 5 cm by 4 cm are joined along the 4 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 5 cm by 4 cm rectangles along the 4 cm side creates a new rectangle measuring 10 cm by 4 cm. The perimeter is 2 * (10 + 4) = 28 cm. The provided answer C (32) is incorrect; the correct answer is B (28).
+
+Question: What is the area of a rectangle measuring 8 m by 6 m?
+Status: Success
+
+Question: A square has an area of 100 cm². What is the length of one side?
+Status: Success
+
+Question: A rectangle has an area of 72 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: An irregular shape covers about 39 squares on a cm² grid. What is the best estimate of its area?
+Status: Success
+
+Question: A cuboid measures 5 cm by 4 cm by 3 cm. What is its volume?
+Status: Success
+
+Question: Which is the closest estimate for the capacity of a bucket?
+Status: Success
+
+Question: A lesson starts at 10:15 and lasts 1 hour 45 minutes. What time does it end?
+Status: Success
+
+Question: How many seconds are there in 9 minutes?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: How many centimetres are equal to 0.85 metres?
+Status: Success
+
+Question: Convert 5.04 metres into centimetres.
+Status: Success
+
+Question: How many grams are equal to 2.35 kilograms?
+Status: Success
+
+Question: Which is the best estimate for the length of a classroom?
+Status: Success
+
+Question: A shape is made from a 6 cm by 4 cm rectangle with a 2 cm by 4 cm rectangle attached. What is the perimeter?
+Status: Error
+Explanation: Joining a 6 cm by 4 cm rectangle and a 2 cm by 4 cm rectangle creates a new rectangle measuring 8 cm by 4 cm. The perimeter is 2 * (8 + 4) = 24 cm. The provided answer B (28 cm) is incorrect; the correct answer is A (24 cm).
+
+Question: The perimeter of a rectangle is 40 cm. One side is 12 cm. What is the other side?
+Status: Success
+
+Question: What is the area of a rectangle measuring 3.5 m by 6 m?
+Status: Success
+
+Question: Which rectangle has an area of 36 cm²?
+Status: Error
+Explanation: A 9 cm x 4 cm rectangle, a 12 cm x 3 cm rectangle, and a 6 cm x 6 cm rectangle all have an area of 36 cm². Therefore, the correct answer is D (All of these). Providing C as the specific answer is logically incorrect given option D.
+
+Question: An irregular shape covers about the same area as a 4 cm by 7 cm rectangle. What is its estimated area?
+Status: Success
+
+Question: How many cubic centimetres are in a cuboid measuring 8 cm × 5 cm × 2 cm?
+Status: Error
+Explanation: The volume of the cuboid is 8 * 5 * 2 = 80 cm³. The provided answer C (160 cm³) is incorrect; the correct answer is A (80 cm³).
+
+Question: A bottle holds 1.2 litres of juice. How many millilitres is this?
+Status: Success
+
+Question: How many seconds are there in 3.5 minutes?
+Status: Success
+
+Question: A journey lasts 95 minutes. How long is this in hours and minutes?
+Status: Success
+
+Question: A packet of rice weighs 750 g. How many kilograms is this?
+Status: Success
+
+Question: A ribbon is 1.6 m long. It is cut into 4 equal pieces. How long is each piece?
+Status: Success
+
+Question: How many millimetres are equal to 5.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 6.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 7.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 8.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 9.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 10.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 11.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 12.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 13.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 14.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 15.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 16.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 17.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 18.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 19.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 20.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 21.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 22.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 23.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 24.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 25.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 26.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 27.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 28.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 29.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 30.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 31.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 32.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 33.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 34.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 35.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 36.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 37.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 38.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 39.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 40.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 41.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 42.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 43.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 44.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 45.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 46.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 47.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 48.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 49.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 50.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 51.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 52.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 53.5 centimetres?
+Status: Success
+
+Question: How many millimetres are equal to 54.5 centimetres?
+Status: Success
+
+Question: A rectangle has sides of 5 cm and 8 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 6 cm and 9 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 7 cm and 10 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 8 cm and 11 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 9 cm and 12 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 10 cm and 6 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 11 cm and 7 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 12 cm and 8 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 13 cm and 9 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 4 cm and 10 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 5 cm and 11 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 6 cm and 12 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 7 cm and 6 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 8 cm and 7 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 9 cm and 8 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 10 cm and 9 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 11 cm and 10 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 12 cm and 11 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 13 cm and 12 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 4 cm and 6 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 5 cm and 7 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 6 cm and 8 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 7 cm and 9 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 8 cm and 10 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 9 cm and 11 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 10 cm and 12 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 11 cm and 6 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 12 cm and 7 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 13 cm and 8 cm. What is its perimeter?
+Status: Success
+
+Question: A rectangle has sides of 4 cm and 9 cm. What is its perimeter?
+Status: Success
+
+Question: What is the area of a rectangle measuring 6 m by 7 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 7 m by 8 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 8 m by 9 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 9 m by 4 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 10 m by 5 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 11 m by 6 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 12 m by 7 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 5 m by 8 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 6 m by 9 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 7 m by 4 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 8 m by 5 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 9 m by 6 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 10 m by 7 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 11 m by 8 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 12 m by 9 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 5 m by 4 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 6 m by 5 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 7 m by 6 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 8 m by 7 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 9 m by 8 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 10 m by 9 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 11 m by 4 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 12 m by 5 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 5 m by 6 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 6 m by 7 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 7 m by 8 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 8 m by 9 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 9 m by 4 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 10 m by 5 m?
+Status: Success
+
+Question: What is the area of a rectangle measuring 11 m by 6 m?
+Status: Success
+
+Question: A cuboid measures 5 cm by 6 cm by 2 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 6 cm by 3 cm by 3 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 7 cm by 4 cm by 4 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 8 cm by 5 cm by 2 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 4 cm by 6 cm by 3 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 5 cm by 3 cm by 4 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 6 cm by 4 cm by 2 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 7 cm by 5 cm by 3 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 8 cm by 6 cm by 4 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 4 cm by 3 cm by 2 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 5 cm by 4 cm by 3 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 6 cm by 5 cm by 4 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 7 cm by 6 cm by 2 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 8 cm by 3 cm by 3 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 4 cm by 4 cm by 4 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 5 cm by 5 cm by 2 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 6 cm by 6 cm by 3 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 7 cm by 3 cm by 4 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 8 cm by 4 cm by 2 cm. What is its volume?
+Status: Success
+
+Question: A cuboid measures 4 cm by 5 cm by 3 cm. What is its volume?
+Status: Success
+
+Question: How many seconds are there in 6 minutes?
+Status: Success
+
+Question: How many seconds are there in 7 minutes?
+Status: Success
+
+Question: How many seconds are there in 8 minutes?
+Status: Success
+
+Question: How many seconds are there in 9 minutes?
+Status: Success
+
+Question: How many seconds are there in 10 minutes?
+Status: Success
+
+Question: How many seconds are there in 11 minutes?
+Status: Success
+
+Question: How many seconds are there in 12 minutes?
+Status: Success
+
+Question: How many seconds are there in 13 minutes?
+Status: Success
+
+Question: How many seconds are there in 14 minutes?
+Status: Success
+
+Question: How many seconds are there in 5 minutes?
+Status: Success
+
+Question: How many seconds are there in 6 minutes?
+Status: Success
+
+Question: How many seconds are there in 7 minutes?
+Status: Success
+
+Question: How many seconds are there in 8 minutes?
+Status: Success
+
+Question: How many seconds are there in 9 minutes?
+Status: Success
+
+Question: How many seconds are there in 10 minutes?
+Status: Success
+
+Question: How many seconds are there in 11 minutes?
+Status: Success
+
+Question: How many seconds are there in 12 minutes?
+Status: Success
+
+Question: How many seconds are there in 13 minutes?
+Status: Success
+
+Question: How many seconds are there in 14 minutes?
+Status: Success
+
+Question: How many seconds are there in 5 minutes?
+Status: Success
+
+Question: Convert 0.72 kilometres into metres.
+Status: Success
+
+Question: How many millimetres are equal to 0.45 centimetres?
+Status: Success
+
+Question: A parcel weighs 3.25 kg. How many grams is this?
+Status: Success
+
+Question: Which is closest to 10 centimetres?
+Status: Success
+
+Question: A rectangle measures 8 cm by 5 cm. A second rectangle has the same perimeter but is 6 cm wide. What is its length?
+Status: Error
+Explanation: The first rectangle has a perimeter of 2 * (8 + 5) = 26 cm. The second rectangle also has a perimeter of 26 cm. Given its width is 6 cm, its length must be (26 / 2) - 6 = 7 cm. The provided answer B (9 cm) is incorrect; the correct answer is A (7 cm).
+
+Question: What is the area of a square with a perimeter of 20 cm?
+Status: Success
+
+Question: Which rectangle has the smallest area?
+Status: Success
+
+Question: An irregular shape covers about the same area as a 9 cm by 4 cm rectangle. Estimate its area.
+Status: Success
+
+Question: How many 1 cm³ cubes fill a cuboid measuring 6 cm × 4 cm × 5 cm?
+Status: Success
+
+Question: A cube has a volume of 64 cm³. What is the length of one edge?
+Status: Success
+
+Question: How many minutes are there in 1.25 hours?
+Status: Success
+
+Question: A TV show starts at 18:45 and ends at 20:10. How long does it last?
+Status: Error
+Explanation: From 18:45 to 19:45 is 1 hour. From 19:45 to 20:10 is 25 minutes. The total duration is 1 hour 25 minutes. The provided answer C (1 hour 35 minutes) is incorrect.
+
+Question: A bag of flour weighs 2.4 kg. How much does 3 identical bags weigh?
+Status: Success
+
+Question: A tank holds 4.5 litres of water. How many millilitres is this?
+Status: Success
+
+Question: Convert 1.08 kilometres into metres.
+Status: Success
+
+Question: How many centimetres are equal to 2.6 metres?
+Status: Success
+
+Question: Which is closest to the mass of a newborn baby?
+Status: Success
+
+Question: A rectangle has sides of 11 cm and 7 cm. What is its perimeter?
+Status: Success
+
+Question: The perimeter of a rectangle is 54 cm. One side is 14 cm. What is the other side?
+Status: Success
+
+Question: What is the area of a rectangle measuring 9 m by 2.5 m?
+Status: Success
+
+Question: A square has an area of 121 cm². What is the length of one side?
+Status: Success
+
+Question: An irregular shape covers about the same area as a 8 cm by 5 cm rectangle. What is its estimated area?
+Status: Success
+
+Question: How many cubic centimetres are in a cuboid measuring 10 cm × 3 cm × 4 cm?
+Status: Success
+
+Question: A cube has edges of 7 cm. What is its volume?
+Status: Success
+
+Question: How many seconds are there in 4.5 minutes?
+Status: Success
+
+Question: A lesson starts at 09:35 and ends at 10:20. How long is the lesson?
+Status: Success
+
+Question: A runner trains for 2.75 hours in one day. How many minutes is this?
+Status: Success
+
+Question: A bag of rice weighs 5 kg. How many grams is this?
+Status: Success
+
+Question: A recipe uses 1.8 litres of water. How many millilitres is this?
+Status: Success
+
+Question: A rope is 3.6 m long. It is cut into 6 equal pieces. How long is each piece?
+Status: Success
+
+Question: A cyclist rides 18 km in 1.5 hours. How many kilometres does the cyclist ride per hour?
+Status: Success
+
+Question: Which is closest to 1 metre?
+Status: Success
+
+Question: A rectangular garden measures 12 m by 9 m. What is its area?
+Status: Success
+
+Question: The perimeter of a square is 32 cm. What is its area?
+Status: Success
+
+Question: A cuboid has a volume of 96 cm³. If its base is 8 cm by 4 cm, what is its height?
+Status: Success
+
+Question: A film lasts 2 hours 15 minutes. How many minutes is this?
+Status: Success
+
+Question: A bottle holds 750 ml of juice. How many litres is this?
+Status: Success
+
+Question: A plank is 2.4 m long. Another plank is 160 cm long. What is their total length?
+Status: Error
+Explanation: 2.4 m is equal to 240 cm. Adding 160 cm gives 400 cm, which is 4.0 m. The provided answer B (3.6 m) is incorrect; the correct answer is C (4.0 m).
+
+Question: A ribbon is 1.2 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 1.37 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 1.54 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 1.71 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 1.88 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 2.05 metres long. What is its length in centimetres?
+Status: Error
+Explanation: 2.05 m is equal to 205 cm. The provided answer B (204) is incorrect.
+
+Question: A ribbon is 2.22 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 2.39 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 2.56 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 2.73 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 2.9 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 3.07 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 3.24 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 3.41 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 3.58 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 3.75 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 3.92 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 4.09 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 4.26 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 4.43 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 4.6 metres long. What is its length in centimetres?
+Status: Error
+Explanation: 4.6 m is equal to 460 cm. The provided answer B (459) is incorrect.
+
+Question: A ribbon is 4.77 metres long. What is its length in centimetres?
+Status: Error
+Explanation: 4.77 m is equal to 477 cm. The provided answer B (476) is incorrect.
+
+Question: A ribbon is 4.94 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 5.11 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 5.28 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 5.45 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 5.62 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 5.79 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 5.96 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 6.13 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 6.3 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 6.47 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 6.64 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 6.81 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 6.98 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 7.15 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 7.32 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 7.49 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 7.66 metres long. What is its length in centimetres?
+Status: Success
+
+Question: A ribbon is 7.83 metres long. What is its length in centimetres?
+Status: Success
+
+Question: Which is the closest estimate to 11 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 5 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 6 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 7 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 8 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 9 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 10 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 11 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 5 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 6 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 7 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 8 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 9 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 10 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 11 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 5 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 6 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 7 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 8 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 9 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 10 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 11 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 5 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 6 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 7 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 8 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 9 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 10 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 11 pounds in kilograms?
+Status: Success
+
+Question: Which is the closest estimate to 5 pounds in kilograms?
+Status: Success
+
+Question: A shape is made by joining two rectangles of 10 cm by 5 cm along the 5 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 10 cm by 5 cm rectangles along the 5 cm side creates a new rectangle measuring 20 cm by 5 cm. The perimeter is 2 * (20 + 5) = 50 cm. The provided answer B (40) is incorrect.
+
+Question: A shape is made by joining two rectangles of 5 cm by 6 cm along the 6 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 5 cm by 6 cm rectangles along the 6 cm side creates a new rectangle measuring 10 cm by 6 cm. The perimeter is 2 * (10 + 6) = 32 cm. The provided answer B (27) is incorrect.
+
+Question: A shape is made by joining two rectangles of 6 cm by 7 cm along the 7 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 6 cm by 7 cm rectangles along the 7 cm side creates a new rectangle measuring 12 cm by 7 cm. The perimeter is 2 * (12 + 7) = 38 cm. The provided answer B (32) is incorrect.
+
+Question: A shape is made by joining two rectangles of 7 cm by 8 cm along the 8 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 7 cm by 8 cm rectangles along the 8 cm side creates a new rectangle measuring 14 cm by 8 cm. The perimeter is 2 * (14 + 8) = 44 cm. The provided answer B (37) is incorrect.
+
+Question: A shape is made by joining two rectangles of 8 cm by 4 cm along the 4 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 8 cm by 4 cm rectangles along the 4 cm side creates a new rectangle measuring 16 cm by 4 cm. The perimeter is 2 * (16 + 4) = 40 cm. The provided answer B (32) is incorrect.
+
+Question: A shape is made by joining two rectangles of 9 cm by 5 cm along the 5 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 9 cm by 5 cm rectangles along the 5 cm side creates a new rectangle measuring 18 cm by 5 cm. The perimeter is 2 * (18 + 5) = 46 cm. The provided answer B (37) is incorrect.
+
+Question: A shape is made by joining two rectangles of 10 cm by 6 cm along the 6 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 10 cm by 6 cm rectangles along the 6 cm side creates a new rectangle measuring 20 cm by 6 cm. The perimeter is 2 * (20 + 6) = 52 cm. The provided answer B (42) is incorrect.
+
+Question: A shape is made by joining two rectangles of 5 cm by 7 cm along the 7 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 5 cm by 7 cm rectangles along the 7 cm side creates a new rectangle measuring 10 cm by 7 cm. The perimeter is 2 * (10 + 7) = 34 cm. The provided answer B (29) is incorrect.
+
+Question: A shape is made by joining two rectangles of 6 cm by 8 cm along the 8 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 6 cm by 8 cm rectangles along the 8 cm side creates a new rectangle measuring 12 cm by 8 cm. The perimeter is 2 * (12 + 8) = 40 cm. The provided answer B (34) is incorrect.
+
+Question: A shape is made by joining two rectangles of 7 cm by 4 cm along the 4 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 7 cm by 4 cm rectangles along the 4 cm side creates a new rectangle measuring 14 cm by 4 cm. The perimeter is 2 * (14 + 4) = 36 cm. The provided answer B (29) is incorrect.
+
+Question: A shape is made by joining two rectangles of 8 cm by 5 cm along the 5 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 8 cm by 5 cm rectangles along the 5 cm side creates a new rectangle measuring 16 cm by 5 cm. The perimeter is 2 * (16 + 5) = 42 cm. The provided answer B (34) is incorrect.
+
+Question: A shape is made by joining two rectangles of 9 cm by 6 cm along the 6 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 9 cm by 6 cm rectangles along the 6 cm side creates a new rectangle measuring 18 cm by 6 cm. The perimeter is 2 * (18 + 6) = 48 cm. The provided answer B (39) is incorrect.
+
+Question: A shape is made by joining two rectangles of 10 cm by 7 cm along the 7 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 10 cm by 7 cm rectangles along the 7 cm side creates a new rectangle measuring 20 cm by 7 cm. The perimeter is 2 * (20 + 7) = 54 cm. The provided answer B (44) is incorrect.
+
+Question: A shape is made by joining two rectangles of 5 cm by 8 cm along the 8 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 5 cm by 8 cm rectangles along the 8 cm side creates a new rectangle measuring 10 cm by 8 cm. The perimeter is 2 * (10 + 8) = 36 cm. The provided answer B (31) is incorrect.
+
+Question: A shape is made by joining two rectangles of 6 cm by 4 cm along the 4 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 6 cm by 4 cm rectangles along the 4 cm side creates a new rectangle measuring 12 cm by 4 cm. The perimeter is 2 * (12 + 4) = 32 cm. The provided answer B (26) is incorrect.
+
+Question: A shape is made by joining two rectangles of 7 cm by 5 cm along the 5 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 7 cm by 5 cm rectangles along the 5 cm side creates a new rectangle measuring 14 cm by 5 cm. The perimeter is 2 * (14 + 5) = 38 cm. The provided answer B (31) is incorrect.
+
+Question: A shape is made by joining two rectangles of 8 cm by 6 cm along the 6 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 8 cm by 6 cm rectangles along the 6 cm side creates a new rectangle measuring 16 cm by 6 cm. The perimeter is 2 * (16 + 6) = 44 cm. The provided answer B (36) is incorrect.
+
+Question: A shape is made by joining two rectangles of 9 cm by 7 cm along the 7 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 9 cm by 7 cm rectangles along the 7 cm side creates a new rectangle measuring 18 cm by 7 cm. The perimeter is 2 * (18 + 7) = 50 cm. The provided answer B (41) is incorrect.
+
+Question: A shape is made by joining two rectangles of 10 cm by 8 cm along the 8 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 10 cm by 8 cm rectangles along the 8 cm side creates a new rectangle measuring 20 cm by 8 cm. The perimeter is 2 * (20 + 8) = 56 cm. The provided answer B (46) is incorrect.
+
+Question: A shape is made by joining two rectangles of 5 cm by 4 cm along the 4 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 5 cm by 4 cm rectangles along the 4 cm side creates a new rectangle measuring 10 cm by 4 cm. The perimeter is 2 * (10 + 4) = 28 cm. The provided answer B (23) is incorrect.
+
+Question: A shape is made by joining two rectangles of 6 cm by 5 cm along the 5 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 6 cm by 5 cm rectangles along the 5 cm side creates a new rectangle measuring 12 cm by 5 cm. The perimeter is 2 * (12 + 5) = 34 cm. The provided answer B (28) is incorrect.
+
+Question: A shape is made by joining two rectangles of 7 cm by 6 cm along the 6 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 7 cm by 6 cm rectangles along the 6 cm side creates a new rectangle measuring 14 cm by 6 cm. The perimeter is 2 * (14 + 6) = 40 cm. The provided answer B (33) is incorrect.
+
+Question: A shape is made by joining two rectangles of 8 cm by 7 cm along the 7 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 8 cm by 7 cm rectangles along the 7 cm side creates a new rectangle measuring 16 cm by 7 cm. The perimeter is 2 * (16 + 7) = 46 cm. The provided answer B (38) is incorrect.
+
+Question: A shape is made by joining two rectangles of 9 cm by 8 cm along the 8 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 9 cm by 8 cm rectangles along the 8 cm side creates a new rectangle measuring 18 cm by 8 cm. The perimeter is 2 * (18 + 8) = 52 cm. The provided answer B (43) is incorrect.
+
+Question: A shape is made by joining two rectangles of 10 cm by 4 cm along the 4 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 10 cm by 4 cm rectangles along the 4 cm side creates a new rectangle measuring 20 cm by 4 cm. The perimeter is 2 * (20 + 4) = 48 cm. The provided answer B (38) is incorrect.
+
+Question: A shape is made by joining two rectangles of 5 cm by 5 cm along the 5 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 5 cm by 5 cm squares along the 5 cm side creates a 10 cm by 5 cm rectangle. The perimeter is 2 * (10 + 5) = 30 cm. The provided answer B (25) is incorrect.
+
+Question: A shape is made by joining two rectangles of 6 cm by 6 cm along the 6 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 6 cm by 6 cm squares along the 6 cm side creates a 12 cm by 6 cm rectangle. The perimeter is 2 * (12 + 6) = 36 cm. The provided answer B (30) is incorrect.
+
+Question: A shape is made by joining two rectangles of 7 cm by 7 cm along the 7 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 7 cm by 7 cm squares along the 7 cm side creates a 14 cm by 7 cm rectangle. The perimeter is 2 * (14 + 7) = 42 cm. The provided answer B (35) is incorrect.
+
+Question: A shape is made by joining two rectangles of 8 cm by 8 cm along the 8 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 8 cm by 8 cm squares along the 8 cm side creates a 16 cm by 8 cm rectangle. The perimeter is 2 * (16 + 8) = 48 cm. The provided answer B (40) is incorrect.
+
+Question: A shape is made by joining two rectangles of 9 cm by 4 cm along the 4 cm side. What is the perimeter?
+Status: Error
+Explanation: Joining two 9 cm by 4 cm rectangles along the 4 cm side creates an 18 cm by 4 cm rectangle. The perimeter is 2 * (18 + 4) = 44 cm. The provided answer B (35) is incorrect.
+
+Question: A rectangle has an area of 64 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 72 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 80 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 88 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 96 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 104 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 112 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 48 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 56 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 64 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 72 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 80 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 88 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 96 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 104 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 112 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 48 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 56 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 64 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 72 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 80 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 88 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 96 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 104 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A rectangle has an area of 112 cm² and a width of 8 cm. What is its length?
+Status: Success
+
+Question: A project lasts 3 weeks and 2 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 4 weeks and 3 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 1 weeks and 4 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 2 weeks and 5 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 3 weeks and 6 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 4 weeks and 7 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 1 weeks and 2 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 2 weeks and 3 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 3 weeks and 4 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 4 weeks and 5 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 1 weeks and 6 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 2 weeks and 7 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 3 weeks and 2 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 4 weeks and 3 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 1 weeks and 4 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 2 weeks and 5 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 3 weeks and 6 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 4 weeks and 7 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 1 weeks and 2 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 2 weeks and 3 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 3 weeks and 4 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 4 weeks and 5 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 1 weeks and 6 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 2 weeks and 7 days. How many days is this altogether?
+Status: Success
+
+Question: A project lasts 3 weeks and 2 days. How many days is this altogether?
+Status: Success
+
+Question: Convert 2.75 kilometres into metres.
+Status: Success
+
+Question: How many millimetres are equal to 7.2 centimetres?
+Status: Success
+
+Question: A bag of flour weighs 1.85 kg. How many grams is this?
+Status: Success
+
+Question: Which is the best estimate for the height of a door?
+Status: Success
+
+Question: A rectangle has a perimeter of 38 cm. One side is 9 cm. What is the other side?
+Status: Success
+
+Question: What is the area of a rectangle measuring 8.5 m by 4 m?
+Status: Success
+
+Question: Which square has an area of 49 cm²?
+Status: Success
+
+Question: An irregular shape covers about the same area as a 6 cm by 9 cm rectangle. Estimate its area.
+Status: Success
+
+Question: How many cubic centimetres are in a cuboid measuring 9 cm × 4 cm × 3 cm?
+Status: Success
+
+Question: A cube has a volume of 216 cm³. What is the length of one edge?
+Status: Success
+
+Question: How many minutes are there in 3.25 hours?
+Status: Success
+
+Question: A lesson starts at 13:10 and ends at 14:05. How long does it last?
+Status: Success
+
+Question: A bus journey takes 1 hour 40 minutes. How many minutes is this?
+Status: Success
+
+Question: A bottle contains 2.4 litres of water. How many millilitres is this?
+Status: Success
+
+Question: A packet of sugar weighs 750 g. How many kilograms is this?
+Status: Success
+
+Question: A rope is 4.8 m long. It is cut into 8 equal pieces. How long is each piece?
+Status: Success
+
+Question: A cyclist rides 45 km in 3.75 hours. How many kilometres per hour is this?
+Status: Success
+
+Question: Which is closest to 2 kilograms?
+Status: Success
+
+Question: A rectangular field measures 25 m by 14 m. What is its area?
+Status: Success
+
+Question: Convert 4.2 kilometres into metres.
+Status: Success
+
+Question: How many millimetres are equal to 0.83 centimetres?
+Status: Success
+
+Question: A bag of rice weighs 6.75 kg. How many grams is this?
+Status: Success
+
+Question: Which is the best estimate for the mass of a laptop?
+Status: Success
+
+Question: A rectangle has a perimeter of 46 cm. One side is 11 cm. What is the other side?
+Status: Success
+
+Question: What is the area of a rectangle measuring 7.5 m by 3.2 m?
+Status: Error
+Explanation: The area of the rectangle is 7.5 * 3.2 = 24. The provided answer C (22.4) is incorrect; the correct answer is B (24).
+
+Question: Which square has an area of 144 cm²?
+Status: Success
+
+Question: An irregular shape covers about the same area as a 11 cm by 4 cm rectangle. Estimate its area.
+Status: Success
+
+Question: How many cubic centimetres are in a cuboid measuring 7 cm × 6 cm × 4 cm?
+Status: Success
+
+Question: A cube has a volume of 512 cm³. What is the length of one edge?
+Status: Success
+
+Question: How many minutes are there in 4.75 hours?
+Status: Success
+
+Question: A train leaves at 07:40 and arrives at 09:05. How long is the journey?
+Status: Error
+Explanation: From 07:40 to 08:40 is 1 hour. From 08:40 to 09:05 is 25 minutes. The total duration is 1 hour 25 minutes. The provided answer C (1 hour 35 minutes) is incorrect; the correct answer is B.
+
+Question: A bus journey takes 2 hours 55 minutes. How many minutes is this?
+Status: Success
+
+Question: A tank contains 3.6 litres of water. How many millilitres is this?
+Status: Success
+
+Question: A bag weighs 2.8 kg. How many grams is this?
+Status: Success
+
+Question: A wire is 9.6 m long. It is cut into 12 equal pieces. How long is each piece?
+Status: Success
+
+Question: A runner completes 12 km in 1.5 hours. How many kilometres per hour is this?
+Status: Success
+
+Question: Which is closest to 5 litres?
+Status: Success
+
+Question: A rectangular hall measures 18 m by 11 m. What is its area?
+Status: Success

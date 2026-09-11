@@ -1,0 +1,1602 @@
+[
+    {
+      "qid": 1,
+      "question": "A pie chart shows favourite fruits. The sector for apples is 90°. What fraction of people chose apples?",
+      "options": {
+        "A": "1/4",
+        "B": "1/2",
+        "C": "1/3",
+        "D": "2/3"
+      },
+      "answer": "A",
+      "explanation": "A full circle is 360°. The apple sector is 90°, so the fraction is 90° ÷ 360° = 1/4.",
+      "difficulty": "easy",
+      "imgFileName": "1_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 2,
+      "question": "Find the mean of these numbers: 8, 12, 10, 6, 14",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "8",
+        "D": "50"
+      },
+      "answer": "A",
+      "explanation": "Add all numbers: 8 + 12 + 10 + 6 + 14 = 50. Divide by how many numbers there are: 50 ÷ 5 = 10. The mean is 10.",
+      "difficulty": "easy",
+      "imgFileName": "2_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 3,
+      "question": "A line graph shows temperature over 5 days. On Monday it was 15°C, Tuesday 18°C, Wednesday 20°C. The temperature increased by the same amount each day. What was the temperature on Thursday?",
+      "options": {
+        "A": "22°C",
+        "B": "23°C",
+        "C": "21°C",
+        "D": "25°C"
+      },
+      "answer": "A",
+      "explanation": "The temperature increased by 3°C each day (15 to 18, then 18 to 20). So Thursday: 20 + 2 = 22°C.",
+      "difficulty": "easy",
+      "imgFileName": "3_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 4,
+      "question": "In a pie chart showing sports preferences, football has a sector of 180°. What percentage of people chose football?",
+      "options": {
+        "A": "50%",
+        "B": "25%",
+        "C": "75%",
+        "D": "100%"
+      },
+      "answer": "A",
+      "explanation": "180° is half of 360° (the full circle). Half as a percentage is 50%.",
+      "difficulty": "easy",
+      "imgFileName": "4_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 5,
+      "question": "Calculate the mean of: 5, 7, 9, 11",
+      "options": {
+        "A": "8",
+        "B": "7",
+        "C": "9",
+        "D": "6"
+      },
+      "answer": "A",
+      "explanation": "Sum: 5 + 7 + 9 + 11 = 32. There are 4 numbers, so mean = 32 ÷ 4 = 8.",
+      "difficulty": "easy",
+      "imgFileName": "5_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 6,
+      "question": "A line graph shows plant growth. Week 1: 4cm, Week 2: 7cm, Week 3: 10cm. If the pattern continues, what height will it be in Week 4?",
+      "options": {
+        "A": "13cm",
+        "B": "12cm",
+        "C": "14cm",
+        "D": "11cm"
+      },
+      "answer": "A",
+      "explanation": "The plant grows 3cm each week (4 to 7 is +3, 7 to 10 is +3). Week 4: 10 + 3 = 13cm.",
+      "difficulty": "easy",
+      "imgFileName": "6_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 7,
+      "question": "A pie chart shows 40 children's favourite colours. Red has a sector of 72°. How many children chose red?",
+      "options": {
+        "A": "8 children",
+        "B": "10 children",
+        "C": "12 children",
+        "D": "16 children"
+      },
+      "answer": "A",
+      "explanation": "72° out of 360° = 72/360 = 1/5. One-fifth of 40 children = 40 ÷ 5 = 8 children.",
+      "difficulty": "easy",
+      "imgFileName": "7_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 8,
+      "question": "What is the mean of: 20, 25, 30, 25?",
+      "options": {
+        "A": "25",
+        "B": "20",
+        "C": "30",
+        "D": "24"
+      },
+      "answer": "A",
+      "explanation": "Sum: 20 + 25 + 30 + 25 = 100. Number of values: 4. Mean = 100 ÷ 4 = 25.",
+      "difficulty": "easy",
+      "imgFileName": "8_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 9,
+      "question": "A line graph shows distance travelled. After 1 hour: 30km, after 2 hours: 60km, after 3 hours: 90km. How far after 4 hours?",
+      "options": {
+        "A": "120km",
+        "B": "100km",
+        "C": "110km",
+        "D": "130km"
+      },
+      "answer": "A",
+      "explanation": "The distance increases by 30km each hour. After 4 hours: 90 + 30 = 120km.",
+      "difficulty": "easy",
+      "imgFileName": "9_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 10,
+      "question": "In a pie chart, reading has 120° and there are 30 children total. How many children chose reading?",
+      "options": {
+        "A": "10 children",
+        "B": "12 children",
+        "C": "8 children",
+        "D": "15 children"
+      },
+      "answer": "A",
+      "explanation": "120° out of 360° = 120/360 = 1/3. One-third of 30 = 30 ÷ 3 = 10 children.",
+      "difficulty": "easy",
+      "imgFileName": "10_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 11,
+      "question": "Find the mean: 15, 18, 12, 15",
+      "options": {
+        "A": "15",
+        "B": "18",
+        "C": "12",
+        "D": "14"
+      },
+      "answer": "A",
+      "explanation": "Sum: 15 + 18 + 12 + 15 = 60. Count: 4 numbers. Mean = 60 ÷ 4 = 15.",
+      "difficulty": "easy",
+      "imgFileName": "11_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 12,
+      "question": "A pie chart sector of 45° represents what fraction of the whole?",
+      "options": {
+        "A": "1/8",
+        "B": "1/4",
+        "C": "1/6",
+        "D": "1/2"
+      },
+      "answer": "A",
+      "explanation": "45° out of 360° = 45/360 = 1/8 when simplified.",
+      "difficulty": "easy",
+      "imgFileName": "12_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 13,
+      "question": "A line graph shows rainfall. January: 50mm, February: 45mm, March: 40mm. If the pattern continues, what will April's rainfall be?",
+      "options": {
+        "A": "35mm",
+        "B": "30mm",
+        "C": "40mm",
+        "D": "38mm"
+      },
+      "answer": "A",
+      "explanation": "Rainfall decreases by 5mm each month (50 to 45, then 45 to 40). April: 40 - 5 = 35mm.",
+      "difficulty": "easy",
+      "imgFileName": "13_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 14,
+      "question": "Calculate the mean of: 3, 5, 7, 9, 11",
+      "options": {
+        "A": "7",
+        "B": "6",
+        "C": "8",
+        "D": "5"
+      },
+      "answer": "A",
+      "explanation": "Sum: 3 + 5 + 7 + 9 + 11 = 35. Count: 5 numbers. Mean = 35 ÷ 5 = 7.",
+      "difficulty": "easy",
+      "imgFileName": "14_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 15,
+      "question": "In a pie chart with 60 people, swimming has 60°. How many people chose swimming?",
+      "options": {
+        "A": "10 people",
+        "B": "15 people",
+        "C": "12 people",
+        "D": "20 people"
+      },
+      "answer": "A",
+      "explanation": "60° out of 360° = 60/360 = 1/6. One-sixth of 60 = 60 ÷ 6 = 10 people.",
+      "difficulty": "easy",
+      "imgFileName": "15_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 16,
+      "question": "What is the mean of: 10, 20, 30, 40?",
+      "options": {
+        "A": "25",
+        "B": "20",
+        "C": "30",
+        "D": "24"
+      },
+      "answer": "A",
+      "explanation": "Sum: 10 + 20 + 30 + 40 = 100. Count: 4. Mean = 100 ÷ 4 = 25.",
+      "difficulty": "easy",
+      "imgFileName": "16_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 17,
+      "question": "A pie chart shows pets. Cats have 144° out of 360°. What percentage is this?",
+      "options": {
+        "A": "40%",
+        "B": "50%",
+        "C": "30%",
+        "D": "45%"
+      },
+      "answer": "A",
+      "explanation": "144° ÷ 360° = 144/360 = 0.4 = 40%.",
+      "difficulty": "easy",
+      "imgFileName": "17_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 18,
+      "question": "A line graph shows page numbers read. Day 1: 10 pages, Day 2: 15 pages, Day 3: 20 pages. How many pages on Day 4?",
+      "options": {
+        "A": "25 pages",
+        "B": "22 pages",
+        "C": "30 pages",
+        "D": "24 pages"
+      },
+      "answer": "A",
+      "explanation": "Pages increase by 5 each day (10 to 15, then 15 to 20). Day 4: 20 + 5 = 25 pages.",
+      "difficulty": "easy",
+      "imgFileName": "18_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 19,
+      "question": "Find the mean of: 6, 8, 10, 12, 14",
+      "options": {
+        "A": "10",
+        "B": "8",
+        "C": "12",
+        "D": "9"
+      },
+      "answer": "A",
+      "explanation": "Sum: 6 + 8 + 10 + 12 + 14 = 50. Count: 5. Mean = 50 ÷ 5 = 10.",
+      "difficulty": "easy",
+      "imgFileName": "19_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 20,
+      "question": "A pie chart shows 24 children. Drama has a sector of 90°. How many children chose drama?",
+      "options": {
+        "A": "6 children",
+        "B": "8 children",
+        "C": "4 children",
+        "D": "12 children"
+      },
+      "answer": "A",
+      "explanation": "90° out of 360° = 1/4. One-quarter of 24 = 24 ÷ 4 = 6 children.",
+      "difficulty": "easy",
+      "imgFileName": "20_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 21,
+      "question": "Calculate the mean: 4, 6, 8, 10, 12",
+      "options": {
+        "A": "8",
+        "B": "7",
+        "C": "9",
+        "D": "10"
+      },
+      "answer": "A",
+      "explanation": "Sum: 4 + 6 + 8 + 10 + 12 = 40. Count: 5. Mean = 40 ÷ 5 = 8.",
+      "difficulty": "easy",
+      "imgFileName": "21_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 22,
+      "question": "A line graph shows money saved. Week 1: £20, Week 2: £35, Week 3: £50. How much in Week 4 if the pattern continues?",
+      "options": {
+        "A": "£65",
+        "B": "£60",
+        "C": "£70",
+        "D": "£55"
+      },
+      "answer": "A",
+      "explanation": "Money increases by £15 each week (20 to 35, then 35 to 50). Week 4: 50 + 15 = £65.",
+      "difficulty": "easy",
+      "imgFileName": "22_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 23,
+      "question": "In a pie chart, 30° represents what fraction of the circle?",
+      "options": {
+        "A": "1/12",
+        "B": "1/6",
+        "C": "1/8",
+        "D": "1/10"
+      },
+      "answer": "A",
+      "explanation": "30° out of 360° = 30/360 = 1/12 when simplified.",
+      "difficulty": "easy",
+      "imgFileName": "23_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 24,
+      "question": "What is the mean of: 12, 16, 20, 24?",
+      "options": {
+        "A": "18",
+        "B": "16",
+        "C": "20",
+        "D": "17"
+      },
+      "answer": "A",
+      "explanation": "Sum: 12 + 16 + 20 + 24 = 72. Count: 4. Mean = 72 ÷ 4 = 18.",
+      "difficulty": "easy",
+      "imgFileName": "24_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 25,
+      "question": "A pie chart shows 36 students. Science has 120°. How many students chose science?",
+      "options": {
+        "A": "12 students",
+        "B": "10 students",
+        "C": "15 students",
+        "D": "9 students"
+      },
+      "answer": "A",
+      "explanation": "120° out of 360° = 1/3. One-third of 36 = 36 ÷ 3 = 12 students.",
+      "difficulty": "easy",
+      "imgFileName": "25_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 26,
+      "question": "A line graph shows shoe sizes. Person A: size 4, Person B: size 5, Person C: size 6. What size for Person D if the pattern continues?",
+      "options": {
+        "A": "7",
+        "B": "6.5",
+        "C": "8",
+        "D": "5"
+      },
+      "answer": "A",
+      "explanation": "Shoe size increases by 1 each time (4, 5, 6). Person D: 6 + 1 = 7.",
+      "difficulty": "easy",
+      "imgFileName": "26_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 27,
+      "question": "Find the mean: 2, 4, 6, 8",
+      "options": {
+        "A": "5",
+        "B": "4",
+        "C": "6",
+        "D": "7"
+      },
+      "answer": "A",
+      "explanation": "Sum: 2 + 4 + 6 + 8 = 20. Count: 4. Mean = 20 ÷ 4 = 5.",
+      "difficulty": "easy",
+      "imgFileName": "27_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 28,
+      "question": "A pie chart sector of 270° represents what percentage?",
+      "options": {
+        "A": "75%",
+        "B": "50%",
+        "C": "80%",
+        "D": "70%"
+      },
+      "answer": "A",
+      "explanation": "270° out of 360° = 270/360 = 0.75 = 75%.",
+      "difficulty": "easy",
+      "imgFileName": "28_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 29,
+      "question": "Calculate the mean of: 14, 18, 22, 26",
+      "options": {
+        "A": "20",
+        "B": "18",
+        "C": "22",
+        "D": "19"
+      },
+      "answer": "A",
+      "explanation": "Sum: 14 + 18 + 22 + 26 = 80. Count: 4. Mean = 80 ÷ 4 = 20.",
+      "difficulty": "easy",
+      "imgFileName": "29_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 30,
+      "question": "A line graph shows hours of sunshine. Monday: 5 hours, Tuesday: 6 hours, Wednesday: 7 hours. What about Thursday?",
+      "options": {
+        "A": "8 hours",
+        "B": "7.5 hours",
+        "C": "9 hours",
+        "D": "6 hours"
+      },
+      "answer": "A",
+      "explanation": "Sunshine increases by 1 hour each day (5, 6, 7). Thursday: 7 + 1 = 8 hours.",
+      "difficulty": "easy",
+      "imgFileName": "30_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 31,
+      "question": "In a pie chart with 48 people, tennis has 60°. How many chose tennis?",
+      "options": {
+        "A": "8 people",
+        "B": "10 people",
+        "C": "12 people",
+        "D": "6 people"
+      },
+      "answer": "A",
+      "explanation": "60° out of 360° = 1/6. One-sixth of 48 = 48 ÷ 6 = 8 people.",
+      "difficulty": "easy",
+      "imgFileName": "31_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 32,
+      "question": "What is the mean of: 11, 13, 15, 17, 19?",
+      "options": {
+        "A": "15",
+        "B": "13",
+        "C": "17",
+        "D": "14"
+      },
+      "answer": "A",
+      "explanation": "Sum: 11 + 13 + 15 + 17 + 19 = 75. Count: 5. Mean = 75 ÷ 5 = 15.",
+      "difficulty": "easy",
+      "imgFileName": "32_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 33,
+      "question": "A line graph shows km to miles conversion. 10km = 6 miles, 20km = 12 miles, 30km = 18 miles. How many miles is 40km?",
+      "options": {
+        "A": "24 miles",
+        "B": "22 miles",
+        "C": "26 miles",
+        "D": "20 miles"
+      },
+      "answer": "A",
+      "explanation": "Each 10km equals 6 miles (pattern increases by 6 each time). 40km = 18 + 6 = 24 miles.",
+      "difficulty": "easy",
+      "imgFileName": "33_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 34,
+      "question": "A pie chart shows 72° for chocolate. What fraction is this?",
+      "options": {
+        "A": "1/5",
+        "B": "1/4",
+        "C": "1/6",
+        "D": "1/3"
+      },
+      "answer": "A",
+      "explanation": "72° out of 360° = 72/360 = 1/5 when simplified.",
+      "difficulty": "easy",
+      "imgFileName": "34_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 35,
+      "question": "Find the mean: 22, 26, 30, 34, 38",
+      "options": {
+        "A": "30",
+        "B": "28",
+        "C": "32",
+        "D": "26"
+      },
+      "answer": "A",
+      "explanation": "Sum: 22 + 26 + 30 + 34 + 38 = 150. Count: 5. Mean = 150 ÷ 5 = 30.",
+      "difficulty": "easy",
+      "imgFileName": "35_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 36,
+      "question": "A line graph shows weight gain. Month 1: 45kg, Month 2: 47kg, Month 3: 49kg. What weight in Month 4?",
+      "options": {
+        "A": "51kg",
+        "B": "50kg",
+        "C": "52kg",
+        "D": "48kg"
+      },
+      "answer": "A",
+      "explanation": "Weight increases by 2kg each month (45 to 47, then 47 to 49). Month 4: 49 + 2 = 51kg.",
+      "difficulty": "easy",
+      "imgFileName": "36_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 37,
+      "question": "In a pie chart with 50 people, running has 36°. How many people chose running?",
+      "options": {
+        "A": "5 people",
+        "B": "10 people",
+        "C": "8 people",
+        "D": "6 people"
+      },
+      "answer": "A",
+      "explanation": "36° out of 360° = 1/10. One-tenth of 50 = 50 ÷ 10 = 5 people.",
+      "difficulty": "easy",
+      "imgFileName": "37_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 38,
+      "question": "Calculate the mean: 9, 12, 15, 18, 21",
+      "options": {
+        "A": "15",
+        "B": "12",
+        "C": "18",
+        "D": "14"
+      },
+      "answer": "A",
+      "explanation": "Sum: 9 + 12 + 15 + 18 + 21 = 75. Count: 5. Mean = 75 ÷ 5 = 15.",
+      "difficulty": "easy",
+      "imgFileName": "38_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 39,
+      "question": "A pie chart sector of 108° represents what percentage?",
+      "options": {
+        "A": "30%",
+        "B": "25%",
+        "C": "35%",
+        "D": "40%"
+      },
+      "answer": "A",
+      "explanation": "108° out of 360° = 108/360 = 0.3 = 30%.",
+      "difficulty": "easy",
+      "imgFileName": "39_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 40,
+      "question": "What is the mean of: 5, 10, 15, 20, 25?",
+      "options": {
+        "A": "15",
+        "B": "10",
+        "C": "20",
+        "D": "12"
+      },
+      "answer": "A",
+      "explanation": "Sum: 5 + 10 + 15 + 20 + 25 = 75. Count: 5. Mean = 75 ÷ 5 = 15.",
+      "difficulty": "easy",
+      "imgFileName": "40_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 41,
+      "question": "A line graph shows scores. Game 1: 20 points, Game 2: 25 points, Game 3: 30 points. What score for Game 4?",
+      "options": {
+        "A": "35 points",
+        "B": "32 points",
+        "C": "40 points",
+        "D": "33 points"
+      },
+      "answer": "A",
+      "explanation": "Scores increase by 5 points each game (20, 25, 30). Game 4: 30 + 5 = 35 points.",
+      "difficulty": "easy",
+      "imgFileName": "41_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 42,
+      "question": "In a pie chart, 150° represents what fraction?",
+      "options": {
+        "A": "5/12",
+        "B": "1/2",
+        "C": "1/3",
+        "D": "2/5"
+      },
+      "answer": "A",
+      "explanation": "150° out of 360° = 150/360 = 5/12 when simplified.",
+      "difficulty": "easy",
+      "imgFileName": "42_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 43,
+      "question": "Find the mean: 16, 20, 24, 28, 32",
+      "options": {
+        "A": "24",
+        "B": "20",
+        "C": "28",
+        "D": "22"
+      },
+      "answer": "A",
+      "explanation": "Sum: 16 + 20 + 24 + 28 + 32 = 120. Count: 5. Mean = 120 ÷ 5 = 24.",
+      "difficulty": "easy",
+      "imgFileName": "43_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 44,
+      "question": "A pie chart shows 80 students. Art has 45°. How many students chose art?",
+      "options": {
+        "A": "10 students",
+        "B": "12 students",
+        "C": "8 students",
+        "D": "15 students"
+      },
+      "answer": "A",
+      "explanation": "45° out of 360° = 1/8. One-eighth of 80 = 80 ÷ 8 = 10 students.",
+      "difficulty": "easy",
+      "imgFileName": "44_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 45,
+      "question": "Calculate the mean: 7, 9, 11, 13, 15",
+      "options": {
+        "A": "11",
+        "B": "9",
+        "C": "13",
+        "D": "10"
+      },
+      "answer": "A",
+      "explanation": "Sum: 7 + 9 + 11 + 13 + 15 = 55. Count: 5. Mean = 55 ÷ 5 = 11.",
+      "difficulty": "easy",
+      "imgFileName": "45_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 46,
+      "question": "A line graph shows book prices. Book A: £6, Book B: £9, Book C: £12. What price for Book D?",
+      "options": {
+        "A": "£15",
+        "B": "£14",
+        "C": "£18",
+        "D": "£13"
+      },
+      "answer": "A",
+      "explanation": "Prices increase by £3 each time (6, 9, 12). Book D: 12 + 3 = £15.",
+      "difficulty": "easy",
+      "imgFileName": "46_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 47,
+      "question": "A pie chart shows favourite subjects for 20 students. English has 72°. How many students chose English?",
+      "options": {
+        "A": "4 students",
+        "B": "5 students",
+        "C": "6 students",
+        "D": "8 students"
+      },
+      "answer": "A",
+      "explanation": "72° out of 360° = 1/5. One-fifth of 20 = 20 ÷ 5 = 4 students.",
+      "difficulty": "easy",
+      "imgFileName": "47_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 48,
+      "question": "What is the mean of: 18, 22, 26, 30, 34?",
+      "options": {
+        "A": "26",
+        "B": "24",
+        "C": "28",
+        "D": "22"
+      },
+      "answer": "A",
+      "explanation": "Sum: 18 + 22 + 26 + 30 + 34 = 130. Count: 5. Mean = 130 ÷ 5 = 26.",
+      "difficulty": "easy",
+      "imgFileName": "48_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 49,
+      "question": "A pie chart sector of 216° represents what percentage?",
+      "options": {
+        "A": "60%",
+        "B": "50%",
+        "C": "65%",
+        "D": "55%"
+      },
+      "answer": "A",
+      "explanation": "216° out of 360° = 216/360 = 0.6 = 60%.",
+      "difficulty": "easy",
+      "imgFileName": "49_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 50,
+      "question": "A line graph shows attendance. Week 1: 80 students, Week 2: 85 students, Week 3: 90 students. How many in Week 4?",
+      "options": {
+        "A": "95 students",
+        "B": "92 students",
+        "C": "100 students",
+        "D": "93 students"
+      },
+      "answer": "A",
+      "explanation": "Attendance increases by 5 students each week (80, 85, 90). Week 4: 90 + 5 = 95 students.",
+      "difficulty": "easy",
+      "imgFileName": "50_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 51,
+      "question": "Find the mean: 13, 17, 21, 25, 29",
+      "options": {
+        "A": "21",
+        "B": "17",
+        "C": "25",
+        "D": "19"
+      },
+      "answer": "A",
+      "explanation": "Sum: 13 + 17 + 21 + 25 + 29 = 105. Count: 5. Mean = 105 ÷ 5 = 21.",
+      "difficulty": "easy",
+      "imgFileName": "51_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 52,
+      "question": "In a pie chart with 100 people, dancing has 90°. How many people chose dancing?",
+      "options": {
+        "A": "25 people",
+        "B": "20 people",
+        "C": "30 people",
+        "D": "15 people"
+      },
+      "answer": "A",
+      "explanation": "90° out of 360° = 1/4. One-quarter of 100 = 100 ÷ 4 = 25 people.",
+      "difficulty": "easy",
+      "imgFileName": "52_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 53,
+      "question": "Calculate the mean: 24, 28, 32, 36, 40",
+      "options": {
+        "A": "32",
+        "B": "28",
+        "C": "36",
+        "D": "30"
+      },
+      "answer": "A",
+      "explanation": "Sum: 24 + 28 + 32 + 36 + 40 = 160. Count: 5. Mean = 160 ÷ 5 = 32.",
+      "difficulty": "easy",
+      "imgFileName": "53_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 54,
+      "question": "A line graph shows height of water. Hour 1: 12cm, Hour 2: 16cm, Hour 3: 20cm. What height at Hour 4?",
+      "options": {
+        "A": "24cm",
+        "B": "22cm",
+        "C": "26cm",
+        "D": "23cm"
+      },
+      "answer": "A",
+      "explanation": "Water height increases by 4cm each hour (12, 16, 20). Hour 4: 20 + 4 = 24cm.",
+      "difficulty": "easy",
+      "imgFileName": "54_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 55,
+      "question": "A pie chart shows 135° for basketball. What fraction is this?",
+      "options": {
+        "A": "3/8",
+        "B": "1/3",
+        "C": "2/5",
+        "D": "1/2"
+      },
+      "answer": "A",
+      "explanation": "135° out of 360° = 135/360 = 3/8 when simplified.",
+      "difficulty": "easy",
+      "imgFileName": "55_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 56,
+      "question": "What is the mean of: 8, 12, 16, 20, 24?",
+      "options": {
+        "A": "16",
+        "B": "12",
+        "C": "20",
+        "D": "14"
+      },
+      "answer": "A",
+      "explanation": "Sum: 8 + 12 + 16 + 20 + 24 = 80. Count: 5. Mean = 80 ÷ 5 = 16.",
+      "difficulty": "easy",
+      "imgFileName": "56_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 57,
+      "question": "A line graph shows kilometres to miles. 5km = 3 miles, 10km = 6 miles, 15km = 9 miles. How many miles is 20km?",
+      "options": {
+        "A": "12 miles",
+        "B": "10 miles",
+        "C": "14 miles",
+        "D": "11 miles"
+      },
+      "answer": "A",
+      "explanation": "Miles increase by 3 for every 5km (pattern: +3 each time). 20km = 9 + 3 = 12 miles.",
+      "difficulty": "easy",
+      "imgFileName": "57_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 58,
+      "question": "In a pie chart with 25 people, hockey has 144°. How many people chose hockey?",
+      "options": {
+        "A": "10 people",
+        "B": "12 people",
+        "C": "8 people",
+        "D": "15 people"
+      },
+      "answer": "A",
+      "explanation": "144° out of 360° = 2/5. Two-fifths of 25 = 25 × 2 ÷ 5 = 10 people.",
+      "difficulty": "easy",
+      "imgFileName": "58_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 59,
+      "question": "Find the mean: 19, 23, 27, 31, 35",
+      "options": {
+        "A": "27",
+        "B": "23",
+        "C": "31",
+        "D": "25"
+      },
+      "answer": "A",
+      "explanation": "Sum: 19 + 23 + 27 + 31 + 35 = 135. Count: 5. Mean = 135 ÷ 5 = 27.",
+      "difficulty": "easy",
+      "imgFileName": "59_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 60,
+      "question": "A pie chart sector of 240° represents what percentage?",
+      "options": {
+        "A": "66.7% (or 2/3)",
+        "B": "60%",
+        "C": "70%",
+        "D": "75%"
+      },
+      "answer": "A",
+      "explanation": "240° out of 360° = 240/360 = 2/3 = 0.667 = 66.7%.",
+      "difficulty": "easy",
+      "imgFileName": "60_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 61,
+      "question": "Calculate the mean: 10, 14, 18, 22, 26",
+      "options": {
+        "A": "18",
+        "B": "14",
+        "C": "22",
+        "D": "16"
+      },
+      "answer": "A",
+      "explanation": "Sum: 10 + 14 + 18 + 22 + 26 = 90. Count: 5. Mean = 90 ÷ 5 = 18.",
+      "difficulty": "easy",
+      "imgFileName": "61_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 62,
+      "question": "A line graph shows laps run. Day 1: 3 laps, Day 2: 6 laps, Day 3: 9 laps. How many laps on Day 4?",
+      "options": {
+        "A": "12 laps",
+        "B": "10 laps",
+        "C": "15 laps",
+        "D": "11 laps"
+      },
+      "answer": "A",
+      "explanation": "Laps increase by 3 each day (3, 6, 9). Day 4: 9 + 3 = 12 laps.",
+      "difficulty": "easy",
+      "imgFileName": "62_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 63,
+      "question": "In a pie chart, music has 100°. What fraction is this?",
+      "options": {
+        "A": "5/18",
+        "B": "1/4",
+        "C": "1/3",
+        "D": "2/7"
+      },
+      "answer": "A",
+      "explanation": "100° out of 360° = 100/360 = 5/18 when simplified.",
+      "difficulty": "easy",
+      "imgFileName": "63_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 64,
+      "question": "What is the mean of: 1, 2, 3, 4, 5, 6, 7, 8, 9?",
+      "options": {
+        "A": "5",
+        "B": "4",
+        "C": "6",
+        "D": "4.5"
+      },
+      "answer": "A",
+      "explanation": "Sum: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = 45. Count: 9. Mean = 45 ÷ 9 = 5.",
+      "difficulty": "easy",
+      "imgFileName": "64_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 65,
+      "question": "A pie chart shows 90 children. PE has 40°. How many children chose PE?",
+      "options": {
+        "A": "10 children",
+        "B": "12 children",
+        "C": "15 children",
+        "D": "8 children"
+      },
+      "answer": "A",
+      "explanation": "40° out of 360° = 1/9. One-ninth of 90 = 90 ÷ 9 = 10 children.",
+      "difficulty": "easy",
+      "imgFileName": "65_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 66,
+      "question": "Find the mean: 21, 24, 27, 30, 33",
+      "options": {
+        "A": "27",
+        "B": "24",
+        "C": "30",
+        "D": "26"
+      },
+      "answer": "A",
+      "explanation": "Sum: 21 + 24 + 27 + 30 + 33 = 135. Count: 5. Mean = 135 ÷ 5 = 27.",
+      "difficulty": "easy",
+      "imgFileName": "66_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 67,
+      "question": "A line graph shows steps walked. Day 1: 2000 steps, Day 2: 2500 steps, Day 3: 3000 steps. How many steps on Day 4?",
+      "options": {
+        "A": "3500 steps",
+        "B": "3200 steps",
+        "C": "4000 steps",
+        "D": "3300 steps"
+      },
+      "answer": "A",
+      "explanation": "Steps increase by 500 each day (2000, 2500, 3000). Day 4: 3000 + 500 = 3500 steps.",
+      "difficulty": "easy",
+      "imgFileName": "67_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 68,
+      "question": "A pie chart sector of 200° represents what percentage?",
+      "options": {
+        "A": "55.6% (or 5/9)",
+        "B": "50%",
+        "C": "60%",
+        "D": "65%"
+      },
+      "answer": "A",
+      "explanation": "200° out of 360° = 200/360 = 5/9 = 0.556 = 55.6%.",
+      "difficulty": "easy",
+      "imgFileName": "68_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 69,
+      "question": "Calculate the mean: 15, 20, 25, 30, 35, 40",
+      "options": {
+        "A": "27.5",
+        "B": "25",
+        "C": "30",
+        "D": "26"
+      },
+      "answer": "A",
+      "explanation": "Sum: 15 + 20 + 25 + 30 + 35 + 40 = 165. Count: 6. Mean = 165 ÷ 6 = 27.5.",
+      "difficulty": "easy",
+      "imgFileName": "69_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 70,
+      "question": "In a pie chart with 45 people, guitar has 80°. How many people chose guitar?",
+      "options": {
+        "A": "10 people",
+        "B": "12 people",
+        "C": "9 people",
+        "D": "15 people"
+      },
+      "answer": "A",
+      "explanation": "80° out of 360° = 2/9. Two-ninths of 45 = 45 × 2 ÷ 9 = 10 people.",
+      "difficulty": "easy",
+      "imgFileName": "70_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 71,
+      "question": "A line graph shows age progression. Person 1: 10 years, Person 2: 12 years, Person 3: 14 years. What age for Person 4?",
+      "options": {
+        "A": "16 years",
+        "B": "15 years",
+        "C": "18 years",
+        "D": "17 years"
+      },
+      "answer": "A",
+      "explanation": "Age increases by 2 years each time (10, 12, 14). Person 4: 14 + 2 = 16 years.",
+      "difficulty": "easy",
+      "imgFileName": "71_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 72,
+      "question": "What is the mean of: 2, 6, 10, 14, 18?",
+      "options": {
+        "A": "10",
+        "B": "8",
+        "C": "12",
+        "D": "9"
+      },
+      "answer": "A",
+      "explanation": "Sum: 2 + 6 + 10 + 14 + 18 = 50. Count: 5. Mean = 50 ÷ 5 = 10.",
+      "difficulty": "easy",
+      "imgFileName": "72_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 73,
+      "question": "A pie chart shows 54° for pizza. What fraction is this?",
+      "options": {
+        "A": "3/20",
+        "B": "1/6",
+        "C": "1/5",
+        "D": "2/9"
+      },
+      "answer": "A",
+      "explanation": "54° out of 360° = 54/360 = 3/20 when simplified.",
+      "difficulty": "easy",
+      "imgFileName": "73_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 74,
+      "question": "Find the mean: 17, 19, 21, 23, 25",
+      "options": {
+        "A": "21",
+        "B": "19",
+        "C": "23",
+        "D": "20"
+      },
+      "answer": "A",
+      "explanation": "Sum: 17 + 19 + 21 + 23 + 25 = 105. Count: 5. Mean = 105 ÷ 5 = 21.",
+      "difficulty": "easy",
+      "imgFileName": "74_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 75,
+      "question": "A line graph shows monthly savings. Jan: £10, Feb: £20, March: £30. How much in April?",
+      "options": {
+        "A": "£40",
+        "B": "£35",
+        "C": "£45",
+        "D": "£38"
+      },
+      "answer": "A",
+      "explanation": "Savings increase by £10 each month (10, 20, 30). April: 30 + 10 = £40.",
+      "difficulty": "easy",
+      "imgFileName": "75_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 76,
+      "question": "In a pie chart with 32 students, history has 90°. How many students chose history?",
+      "options": {
+        "A": "8 students",
+        "B": "10 students",
+        "C": "6 students",
+        "D": "12 students"
+      },
+      "answer": "A",
+      "explanation": "90° out of 360° = 1/4. One-quarter of 32 = 32 ÷ 4 = 8 students.",
+      "difficulty": "easy",
+      "imgFileName": "76_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 77,
+      "question": "Calculate the mean: 23, 26, 29, 32, 35",
+      "options": {
+        "A": "29",
+        "B": "26",
+        "C": "32",
+        "D": "28"
+      },
+      "answer": "A",
+      "explanation": "Sum: 23 + 26 + 29 + 32 + 35 = 145. Count: 5. Mean = 145 ÷ 5 = 29.",
+      "difficulty": "easy",
+      "imgFileName": "77_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 78,
+      "question": "A pie chart sector of 288° represents what percentage?",
+      "options": {
+        "A": "80%",
+        "B": "75%",
+        "C": "85%",
+        "D": "70%"
+      },
+      "answer": "A",
+      "explanation": "288° out of 360° = 288/360 = 0.8 = 80%.",
+      "difficulty": "easy",
+      "imgFileName": "78_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 79,
+      "question": "A line graph shows test scores. Test 1: 50%, Test 2: 60%, Test 3: 70%. What score for Test 4?",
+      "options": {
+        "A": "80%",
+        "B": "75%",
+        "C": "85%",
+        "D": "78%"
+      },
+      "answer": "A",
+      "explanation": "Scores increase by 10% each test (50, 60, 70). Test 4: 70 + 10 = 80%.",
+      "difficulty": "easy",
+      "imgFileName": "79_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 80,
+      "question": "What is the mean of: 11, 14, 17, 20, 23?",
+      "options": {
+        "A": "17",
+        "B": "14",
+        "C": "20",
+        "D": "16"
+      },
+      "answer": "A",
+      "explanation": "Sum: 11 + 14 + 17 + 20 + 23 = 85. Count: 5. Mean = 85 ÷ 5 = 17.",
+      "difficulty": "easy",
+      "imgFileName": "80_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 81,
+      "question": "In a pie chart, comedy has 162°. What fraction is this?",
+      "options": {
+        "A": "9/20",
+        "B": "1/2",
+        "C": "2/5",
+        "D": "7/15"
+      },
+      "answer": "A",
+      "explanation": "162° out of 360° = 162/360 = 9/20 when simplified.",
+      "difficulty": "easy",
+      "imgFileName": "81_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 82,
+      "question": "Find the mean: 25, 30, 35, 40, 45, 50",
+      "options": {
+        "A": "37.5",
+        "B": "35",
+        "C": "40",
+        "D": "36"
+      },
+      "answer": "A",
+      "explanation": "Sum: 25 + 30 + 35 + 40 + 45 + 50 = 225. Count: 6. Mean = 225 ÷ 6 = 37.5.",
+      "difficulty": "easy",
+      "imgFileName": "82_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 83,
+      "question": "A line graph shows kilometres to miles. 25km = 15 miles, 50km = 30 miles. How many miles is 75km?",
+      "options": {
+        "A": "45 miles",
+        "B": "40 miles",
+        "C": "50 miles",
+        "D": "42 miles"
+      },
+      "answer": "A",
+      "explanation": "Each 25km equals 15 miles. 75km = 50km + 25km = 30 + 15 = 45 miles.",
+      "difficulty": "easy",
+      "imgFileName": "83_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 84,
+      "question": "A pie chart shows 64 people. Cycling has 45°. How many people chose cycling?",
+      "options": {
+        "A": "8 people",
+        "B": "10 people",
+        "C": "12 people",
+        "D": "6 people"
+      },
+      "answer": "A",
+      "explanation": "45° out of 360° = 1/8. One-eighth of 64 = 64 ÷ 8 = 8 people.",
+      "difficulty": "easy",
+      "imgFileName": "84_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 85,
+      "question": "Calculate the mean: 28, 32, 36, 40, 44",
+      "options": {
+        "A": "36",
+        "B": "32",
+        "C": "40",
+        "D": "34"
+      },
+      "answer": "A",
+      "explanation": "Sum: 28 + 32 + 36 + 40 + 44 = 180. Count: 5. Mean = 180 ÷ 5 = 36.",
+      "difficulty": "easy",
+      "imgFileName": "85_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 86,
+      "question": "A line graph shows visitors to a park. Monday: 100, Tuesday: 120, Wednesday: 140. How many on Thursday?",
+      "options": {
+        "A": "160 visitors",
+        "B": "150 visitors",
+        "C": "170 visitors",
+        "D": "155 visitors"
+      },
+      "answer": "A",
+      "explanation": "Visitors increase by 20 each day (100, 120, 140). Thursday: 140 + 20 = 160 visitors.",
+      "difficulty": "easy",
+      "imgFileName": "86_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 87,
+      "question": "A pie chart sector of 252° represents what percentage?",
+      "options": {
+        "A": "70%",
+        "B": "65%",
+        "C": "75%",
+        "D": "68%"
+      },
+      "answer": "A",
+      "explanation": "252° out of 360° = 252/360 = 0.7 = 70%.",
+      "difficulty": "easy",
+      "imgFileName": "87_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 88,
+      "question": "What is the mean of: 12, 15, 18, 21, 24?",
+      "options": {
+        "A": "18",
+        "B": "15",
+        "C": "21",
+        "D": "17"
+      },
+      "answer": "A",
+      "explanation": "Sum: 12 + 15 + 18 + 21 + 24 = 90. Count: 5. Mean = 90 ÷ 5 = 18.",
+      "difficulty": "easy",
+      "imgFileName": "88_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 89,
+      "question": "In a pie chart with 18 children, drama has 120°. How many children chose drama?",
+      "options": {
+        "A": "6 children",
+        "B": "8 children",
+        "C": "4 children",
+        "D": "9 children"
+      },
+      "answer": "A",
+      "explanation": "120° out of 360° = 1/3. One-third of 18 = 18 ÷ 3 = 6 children.",
+      "difficulty": "easy",
+      "imgFileName": "89_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 90,
+      "question": "Find the mean: 31, 34, 37, 40, 43",
+      "options": {
+        "A": "37",
+        "B": "34",
+        "C": "40",
+        "D": "36"
+      },
+      "answer": "A",
+      "explanation": "Sum: 31 + 34 + 37 + 40 + 43 = 185. Count: 5. Mean = 185 ÷ 5 = 37.",
+      "difficulty": "easy",
+      "imgFileName": "90_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 91,
+      "question": "A line graph shows screen time. Day 1: 1 hour, Day 2: 1.5 hours, Day 3: 2 hours. How many hours on Day 4?",
+      "options": {
+        "A": "2.5 hours",
+        "B": "2.2 hours",
+        "C": "3 hours",
+        "D": "2.3 hours"
+      },
+      "answer": "A",
+      "explanation": "Screen time increases by 0.5 hours each day (1, 1.5, 2). Day 4: 2 + 0.5 = 2.5 hours.",
+      "difficulty": "easy",
+      "imgFileName": "91_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 92,
+      "question": "A pie chart shows 96° for vanilla. What fraction is this?",
+      "options": {
+        "A": "4/15",
+        "B": "1/4",
+        "C": "1/3",
+        "D": "3/10"
+      },
+      "answer": "A",
+      "explanation": "96° out of 360° = 96/360 = 4/15 when simplified.",
+      "difficulty": "easy",
+      "imgFileName": "92_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 93,
+      "question": "Calculate the mean: 33, 36, 39, 42, 45",
+      "options": {
+        "A": "39",
+        "B": "36",
+        "C": "42",
+        "D": "38"
+      },
+      "answer": "A",
+      "explanation": "Sum: 33 + 36 + 39 + 42 + 45 = 195. Count: 5. Mean = 195 ÷ 5 = 39.",
+      "difficulty": "easy",
+      "imgFileName": "93_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 94,
+      "question": "In a pie chart with 70 people, volleyball has 72°. How many people chose volleyball?",
+      "options": {
+        "A": "14 people",
+        "B": "12 people",
+        "C": "16 people",
+        "D": "10 people"
+      },
+      "answer": "A",
+      "explanation": "72° out of 360° = 1/5. One-fifth of 70 = 70 ÷ 5 = 14 people.",
+      "difficulty": "easy",
+      "imgFileName": "94_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 95,
+      "question": "A line graph shows flower growth. Week 1: 8cm, Week 2: 12cm, Week 3: 16cm. What height in Week 4?",
+      "options": {
+        "A": "20cm",
+        "B": "18cm",
+        "C": "22cm",
+        "D": "19cm"
+      },
+      "answer": "A",
+      "explanation": "Height increases by 4cm each week (8, 12, 16). Week 4: 16 + 4 = 20cm.",
+      "difficulty": "easy",
+      "imgFileName": "95_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 96,
+      "question": "What is the mean of: 26, 28, 30, 32, 34?",
+      "options": {
+        "A": "30",
+        "B": "28",
+        "C": "32",
+        "D": "29"
+      },
+      "answer": "A",
+      "explanation": "Sum: 26 + 28 + 30 + 32 + 34 = 150. Count: 5. Mean = 150 ÷ 5 = 30.",
+      "difficulty": "easy",
+      "imgFileName": "96_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 97,
+      "question": "A pie chart sector of 324° represents what percentage?",
+      "options": {
+        "A": "90%",
+        "B": "85%",
+        "C": "95%",
+        "D": "88%"
+      },
+      "answer": "A",
+      "explanation": "324° out of 360° = 324/360 = 0.9 = 90%.",
+      "difficulty": "easy",
+      "imgFileName": "97_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 98,
+      "question": "Find the mean: 35, 38, 41, 44, 47",
+      "options": {
+        "A": "41",
+        "B": "38",
+        "C": "44",
+        "D": "40"
+      },
+      "answer": "A",
+      "explanation": "Sum: 35 + 38 + 41 + 44 + 47 = 205. Count: 5. Mean = 205 ÷ 5 = 41.",
+      "difficulty": "easy",
+      "imgFileName": "98_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 99,
+      "question": "A line graph shows pocket money. Week 1: £5, Week 2: £7, Week 3: £9. How much in Week 4?",
+      "options": {
+        "A": "£11",
+        "B": "£10",
+        "C": "£12",
+        "D": "£13"
+      },
+      "answer": "A",
+      "explanation": "Pocket money increases by £2 each week (5, 7, 9). Week 4: 9 + 2 = £11.",
+      "difficulty": "easy",
+      "imgFileName": "99_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    },
+    {
+      "qid": 100,
+      "question": "In a pie chart with 27 students, geography has 80°. How many students chose geography?",
+      "options": {
+        "A": "6 students",
+        "B": "8 students",
+        "C": "9 students",
+        "D": "5 students"
+      },
+      "answer": "A",
+      "explanation": "80° out of 360° = 2/9. Two-ninths of 27 = 27 × 2 ÷ 9 = 6 students.",
+      "difficulty": "easy",
+      "imgFileName": "100_Year6-Statistics_easy.png",
+      "used": 0,
+      "type": "Year6-Statistics"
+    }
+]

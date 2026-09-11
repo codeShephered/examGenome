@@ -1,0 +1,5402 @@
+[
+    {
+        "question": "How many centimetres are in 3 metres?",
+        "answer": "A",
+        "options": {
+            "A": "300 cm",
+            "B": "30 cm",
+            "C": "3,000 cm",
+            "D": "3 cm"
+        }
+    },
+    {
+        "question": "How many millilitres are in 2 litres?",
+        "answer": "A",
+        "options": {
+            "A": "2,000 mL",
+            "B": "200 mL",
+            "C": "20 mL",
+            "D": "20,000 mL"
+        }
+    },
+    {
+        "question": "How many grams are in 5 kilograms?",
+        "answer": "A",
+        "options": {
+            "A": "5,000 g",
+            "B": "500 g",
+            "C": "50 g",
+            "D": "50,000 g"
+        }
+    },
+    {
+        "question": "How many millimetres are in 7 centimetres?",
+        "answer": "A",
+        "options": {
+            "A": "70 mm",
+            "B": "7 mm",
+            "C": "700 mm",
+            "D": "0.7 mm"
+        }
+    },
+    {
+        "question": "How many metres are in 4 kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "4,000 m",
+            "B": "400 m",
+            "C": "40 m",
+            "D": "40,000 m"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 1 inch?",
+        "answer": "A",
+        "options": {
+            "A": "2.5 cm",
+            "B": "10 cm",
+            "C": "1 cm",
+            "D": "5 cm"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 1 pint?",
+        "answer": "A",
+        "options": {
+            "A": "570 mL",
+            "B": "100 mL",
+            "C": "1,000 mL",
+            "D": "250 mL"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 1 pound (lb)?",
+        "answer": "A",
+        "options": {
+            "A": "450 g",
+            "B": "100 g",
+            "C": "1 kg",
+            "D": "250 g"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle with length 8 cm and width 5 cm?",
+        "answer": "A",
+        "options": {
+            "A": "26 cm",
+            "B": "40 cm",
+            "C": "13 cm",
+            "D": "36 cm"
+        }
+    },
+    {
+        "question": "What is the area of a square with side 6 cm?",
+        "answer": "A",
+        "options": {
+            "A": "36 cm\u00b2",
+            "B": "24 cm\u00b2",
+            "C": "12 cm\u00b2",
+            "D": "48 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle with length 10 cm and width 4 cm?",
+        "answer": "A",
+        "options": {
+            "A": "40 cm\u00b2",
+            "B": "28 cm\u00b2",
+            "C": "14 cm\u00b2",
+            "D": "50 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 2 days?",
+        "answer": "A",
+        "options": {
+            "A": "48 hours",
+            "B": "24 hours",
+            "C": "12 hours",
+            "D": "36 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 3 hours?",
+        "answer": "A",
+        "options": {
+            "A": "180 minutes",
+            "B": "60 minutes",
+            "C": "90 minutes",
+            "D": "120 minutes"
+        }
+    },
+    {
+        "question": "How many seconds are in 5 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "300 seconds",
+            "B": "60 seconds",
+            "C": "120 seconds",
+            "D": "180 seconds"
+        }
+    },
+    {
+        "question": "A jug holds 1.5 litres. How many millilitres is this?",
+        "answer": "A",
+        "options": {
+            "A": "1,500 mL",
+            "B": "150 mL",
+            "C": "15 mL",
+            "D": "15,000 mL"
+        }
+    },
+    {
+        "question": "A bag of flour weighs 2.3 kg. How many grams is this?",
+        "answer": "A",
+        "options": {
+            "A": "2,300 g",
+            "B": "230 g",
+            "C": "23 g",
+            "D": "23,000 g"
+        }
+    },
+    {
+        "question": "A pencil is 15 cm long. How many millimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "150 mm",
+            "B": "15 mm",
+            "C": "1,500 mm",
+            "D": "1.5 mm"
+        }
+    },
+    {
+        "question": "A room is 5 m long and 4 m wide. What is its area?",
+        "answer": "A",
+        "options": {
+            "A": "20 m\u00b2",
+            "B": "18 m\u00b2",
+            "C": "9 m\u00b2",
+            "D": "25 m\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle has a perimeter of 20 cm and a width of 4 cm. What is its length?",
+        "answer": "A",
+        "options": {
+            "A": "6 cm",
+            "B": "8 cm",
+            "C": "5 cm",
+            "D": "10 cm"
+        }
+    },
+    {
+        "question": "How many weeks are in 14 days?",
+        "answer": "A",
+        "options": {
+            "A": "2 weeks",
+            "B": "1 week",
+            "C": "3 weeks",
+            "D": "4 weeks"
+        }
+    },
+    {
+        "question": "How many days are in 3 weeks?",
+        "answer": "A",
+        "options": {
+            "A": "21 days",
+            "B": "14 days",
+            "C": "30 days",
+            "D": "7 days"
+        }
+    },
+    {
+        "question": "A bottle contains 750 mL of water. How many litres is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.75 L",
+            "B": "7.5 L",
+            "C": "75 L",
+            "D": "0.075 L"
+        }
+    },
+    {
+        "question": "An object weighs 850 g. How many kilograms is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.85 kg",
+            "B": "8.5 kg",
+            "C": "85 kg",
+            "D": "0.085 kg"
+        }
+    },
+    {
+        "question": "A line is 25 mm long. How many centimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "2.5 cm",
+            "B": "25 cm",
+            "C": "0.25 cm",
+            "D": "250 cm"
+        }
+    },
+    {
+        "question": "A garden is 12 m long and 8 m wide. What is its perimeter?",
+        "answer": "A",
+        "options": {
+            "A": "40 m",
+            "B": "96 m",
+            "C": "20 m",
+            "D": "50 m"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle that is 7 cm by 9 cm?",
+        "answer": "A",
+        "options": {
+            "A": "63 cm\u00b2",
+            "B": "32 cm\u00b2",
+            "C": "16 cm\u00b2",
+            "D": "72 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 180 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "3 hours",
+            "B": "2 hours",
+            "C": "4 hours",
+            "D": "1.8 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 240 seconds?",
+        "answer": "A",
+        "options": {
+            "A": "4 minutes",
+            "B": "24 minutes",
+            "C": "6 minutes",
+            "D": "2.4 minutes"
+        }
+    },
+    {
+        "question": "A box is 10 cm long, 5 cm wide, and 3 cm tall. What is its volume in cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "150 cm\u00b3",
+            "B": "18 cm\u00b3",
+            "C": "30 cm\u00b3",
+            "D": "90 cm\u00b3"
+        }
+    },
+    {
+        "question": "A box is 10 cm long, 5 cm wide, and 3 cm tall. What is its volume in cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "150 cm\u00b3",
+            "B": "18 cm\u00b3",
+            "C": "30 cm\u00b3",
+            "D": "90 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many centimetres are in 7.5 metres?",
+        "answer": "A",
+        "options": {
+            "A": "750 cm",
+            "B": "75 cm",
+            "C": "7,500 cm",
+            "D": "7.5 cm"
+        }
+    },
+    {
+        "question": "How many millilitres are in 0.6 litres?",
+        "answer": "A",
+        "options": {
+            "A": "600 mL",
+            "B": "60 mL",
+            "C": "6 mL",
+            "D": "6,000 mL"
+        }
+    },
+    {
+        "question": "How many grams are in 3.2 kilograms?",
+        "answer": "A",
+        "options": {
+            "A": "3,200 g",
+            "B": "320 g",
+            "C": "32 g",
+            "D": "32,000 g"
+        }
+    },
+    {
+        "question": "How many millimetres are in 12.5 centimetres?",
+        "answer": "A",
+        "options": {
+            "A": "125 mm",
+            "B": "12.5 mm",
+            "C": "1,250 mm",
+            "D": "1.25 mm"
+        }
+    },
+    {
+        "question": "How many metres are in 2.4 kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "2,400 m",
+            "B": "240 m",
+            "C": "24 m",
+            "D": "24,000 m"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 2 inches?",
+        "answer": "A",
+        "options": {
+            "A": "5 cm",
+            "B": "10 cm",
+            "C": "2 cm",
+            "D": "20 cm"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 2 pints?",
+        "answer": "A",
+        "options": {
+            "A": "1,140 mL",
+            "B": "570 mL",
+            "C": "100 mL",
+            "D": "2,000 mL"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 2 pounds (lb)?",
+        "answer": "A",
+        "options": {
+            "A": "900 g",
+            "B": "450 g",
+            "C": "1 kg",
+            "D": "200 g"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle with length 12 cm and width 3 cm?",
+        "answer": "A",
+        "options": {
+            "A": "30 cm",
+            "B": "36 cm",
+            "C": "15 cm",
+            "D": "24 cm"
+        }
+    },
+    {
+        "question": "What is the area of a square with side 9 cm?",
+        "answer": "A",
+        "options": {
+            "A": "81 cm\u00b2",
+            "B": "36 cm\u00b2",
+            "C": "18 cm\u00b2",
+            "D": "72 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle with length 15 cm and width 6 cm?",
+        "answer": "A",
+        "options": {
+            "A": "90 cm\u00b2",
+            "B": "42 cm\u00b2",
+            "C": "21 cm\u00b2",
+            "D": "100 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 3 days?",
+        "answer": "A",
+        "options": {
+            "A": "72 hours",
+            "B": "48 hours",
+            "C": "24 hours",
+            "D": "96 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 4 hours?",
+        "answer": "A",
+        "options": {
+            "A": "240 minutes",
+            "B": "180 minutes",
+            "C": "120 minutes",
+            "D": "300 minutes"
+        }
+    },
+    {
+        "question": "How many seconds are in 8 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "480 seconds",
+            "B": "80 seconds",
+            "C": "160 seconds",
+            "D": "360 seconds"
+        }
+    },
+    {
+        "question": "A bottle holds 2.5 litres. How many millilitres is this?",
+        "answer": "A",
+        "options": {
+            "A": "2,500 mL",
+            "B": "250 mL",
+            "C": "25 mL",
+            "D": "25,000 mL"
+        }
+    },
+    {
+        "question": "A bag of sugar weighs 1.8 kg. How many grams is this?",
+        "answer": "A",
+        "options": {
+            "A": "1,800 g",
+            "B": "180 g",
+            "C": "18 g",
+            "D": "18,000 g"
+        }
+    },
+    {
+        "question": "A ruler is 30 cm long. How many millimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "300 mm",
+            "B": "30 mm",
+            "C": "3,000 mm",
+            "D": "3 mm"
+        }
+    },
+    {
+        "question": "A classroom is 8 m long and 6 m wide. What is its area?",
+        "answer": "A",
+        "options": {
+            "A": "48 m\u00b2",
+            "B": "28 m\u00b2",
+            "C": "14 m\u00b2",
+            "D": "64 m\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle has a perimeter of 30 cm and a width of 5 cm. What is its length?",
+        "answer": "A",
+        "options": {
+            "A": "10 cm",
+            "B": "15 cm",
+            "C": "8 cm",
+            "D": "12 cm"
+        }
+    },
+    {
+        "question": "How many weeks are in 21 days?",
+        "answer": "A",
+        "options": {
+            "A": "3 weeks",
+            "B": "2 weeks",
+            "C": "4 weeks",
+            "D": "5 weeks"
+        }
+    },
+    {
+        "question": "How many days are in 5 weeks?",
+        "answer": "A",
+        "options": {
+            "A": "35 days",
+            "B": "28 days",
+            "C": "42 days",
+            "D": "30 days"
+        }
+    },
+    {
+        "question": "A can contains 330 mL of drink. How many litres is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.33 L",
+            "B": "3.3 L",
+            "C": "33 L",
+            "D": "0.033 L"
+        }
+    },
+    {
+        "question": "An apple weighs 250 g. How many kilograms is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.25 kg",
+            "B": "2.5 kg",
+            "C": "25 kg",
+            "D": "0.025 kg"
+        }
+    },
+    {
+        "question": "A nail is 45 mm long. How many centimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "4.5 cm",
+            "B": "45 cm",
+            "C": "0.45 cm",
+            "D": "450 cm"
+        }
+    },
+    {
+        "question": "A playground is 20 m long and 15 m wide. What is its perimeter?",
+        "answer": "A",
+        "options": {
+            "A": "70 m",
+            "B": "300 m",
+            "C": "35 m",
+            "D": "80 m"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle that is 8 cm by 11 cm?",
+        "answer": "A",
+        "options": {
+            "A": "88 cm\u00b2",
+            "B": "38 cm\u00b2",
+            "C": "19 cm\u00b2",
+            "D": "96 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 360 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "6 hours",
+            "B": "5 hours",
+            "C": "7 hours",
+            "D": "3.6 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 420 seconds?",
+        "answer": "A",
+        "options": {
+            "A": "7 minutes",
+            "B": "6 minutes",
+            "C": "8 minutes",
+            "D": "4.2 minutes"
+        }
+    },
+    {
+        "question": "A cube has sides of 4 cm. What is its volume in cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "64 cm\u00b3",
+            "B": "16 cm\u00b3",
+            "C": "12 cm\u00b3",
+            "D": "48 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many metres are in 3 kilometres?",
+        "answer": "C",
+        "options": {
+            "A": "30 m",
+            "B": "300 m",
+            "C": "3,000 m",
+            "D": "30,000 m"
+        }
+    },
+    {
+        "question": "How many centimetres are in 5 metres?",
+        "answer": "B",
+        "options": {
+            "A": "50 cm",
+            "B": "500 cm",
+            "C": "5,000 cm",
+            "D": "50,000 cm"
+        }
+    },
+    {
+        "question": "How many millimetres are in 7 centimetres?",
+        "answer": "B",
+        "options": {
+            "A": "7 mm",
+            "B": "70 mm",
+            "C": "700 mm",
+            "D": "7,000 mm"
+        }
+    },
+    {
+        "question": "How many grams are in 4 kilograms?",
+        "answer": "C",
+        "options": {
+            "A": "40 g",
+            "B": "400 g",
+            "C": "4,000 g",
+            "D": "40,000 g"
+        }
+    },
+    {
+        "question": "How many millilitres are in 2 litres?",
+        "answer": "C",
+        "options": {
+            "A": "20 mL",
+            "B": "200 mL",
+            "C": "2,000 mL",
+            "D": "20,000 mL"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 1 inch?",
+        "answer": "A",
+        "options": {
+            "A": "2.5 cm",
+            "B": "10 cm",
+            "C": "15 cm",
+            "D": "25 cm"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 1 pound?",
+        "answer": "C",
+        "options": {
+            "A": "50 g",
+            "B": "100 g",
+            "C": "500 g",
+            "D": "1,000 g"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 1 pint?",
+        "answer": "A",
+        "options": {
+            "A": "0.5 L",
+            "B": "1 L",
+            "C": "1.5 L",
+            "D": "2 L"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle with length 6 cm and width 4 cm?",
+        "answer": "B",
+        "options": {
+            "A": "10 cm",
+            "B": "20 cm",
+            "C": "24 cm",
+            "D": "12 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with side length 5 cm?",
+        "answer": "C",
+        "options": {
+            "A": "10 cm",
+            "B": "15 cm",
+            "C": "20 cm",
+            "D": "25 cm"
+        }
+    },
+    {
+        "question": "How many centimetres are in 4.2 metres?",
+        "answer": "A",
+        "options": {
+            "A": "420 cm",
+            "B": "42 cm",
+            "C": "4,200 cm",
+            "D": "4.2 cm"
+        }
+    },
+    {
+        "question": "How many millilitres are in 3.5 litres?",
+        "answer": "A",
+        "options": {
+            "A": "3,500 mL",
+            "B": "350 mL",
+            "C": "35 mL",
+            "D": "35,000 mL"
+        }
+    },
+    {
+        "question": "How many grams are in 6.7 kilograms?",
+        "answer": "A",
+        "options": {
+            "A": "6,700 g",
+            "B": "670 g",
+            "C": "67 g",
+            "D": "67,000 g"
+        }
+    },
+    {
+        "question": "How many millimetres are in 9.3 centimetres?",
+        "answer": "A",
+        "options": {
+            "A": "93 mm",
+            "B": "9.3 mm",
+            "C": "930 mm",
+            "D": "0.93 mm"
+        }
+    },
+    {
+        "question": "How many metres are in 5.6 kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "5,600 m",
+            "B": "560 m",
+            "C": "56 m",
+            "D": "56,000 m"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 3 inches?",
+        "answer": "A",
+        "options": {
+            "A": "7.5 cm",
+            "B": "3 cm",
+            "C": "10 cm",
+            "D": "15 cm"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 3 pints?",
+        "answer": "A",
+        "options": {
+            "A": "1,710 mL",
+            "B": "570 mL",
+            "C": "1,000 mL",
+            "D": "3,000 mL"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 3 pounds (lb)?",
+        "answer": "A",
+        "options": {
+            "A": "1,350 g",
+            "B": "450 g",
+            "C": "1 kg",
+            "D": "300 g"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle with length 10 cm and width 6 cm?",
+        "answer": "A",
+        "options": {
+            "A": "32 cm",
+            "B": "60 cm",
+            "C": "16 cm",
+            "D": "36 cm"
+        }
+    },
+    {
+        "question": "What is the area of a square with side 7 cm?",
+        "answer": "A",
+        "options": {
+            "A": "49 cm\u00b2",
+            "B": "28 cm\u00b2",
+            "C": "14 cm\u00b2",
+            "D": "56 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle with length 12 cm and width 5 cm?",
+        "answer": "A",
+        "options": {
+            "A": "60 cm\u00b2",
+            "B": "34 cm\u00b2",
+            "C": "17 cm\u00b2",
+            "D": "70 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 4 days?",
+        "answer": "A",
+        "options": {
+            "A": "96 hours",
+            "B": "48 hours",
+            "C": "24 hours",
+            "D": "72 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 5 hours?",
+        "answer": "A",
+        "options": {
+            "A": "300 minutes",
+            "B": "180 minutes",
+            "C": "240 minutes",
+            "D": "360 minutes"
+        }
+    },
+    {
+        "question": "How many seconds are in 6 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "360 seconds",
+            "B": "60 seconds",
+            "C": "120 seconds",
+            "D": "180 seconds"
+        }
+    },
+    {
+        "question": "A container holds 2.8 litres. How many millilitres is this?",
+        "answer": "A",
+        "options": {
+            "A": "2,800 mL",
+            "B": "280 mL",
+            "C": "28 mL",
+            "D": "28,000 mL"
+        }
+    },
+    {
+        "question": "A box of cereal weighs 1.25 kg. How many grams is this?",
+        "answer": "A",
+        "options": {
+            "A": "1,250 g",
+            "B": "125 g",
+            "C": "12.5 g",
+            "D": "12,500 g"
+        }
+    },
+    {
+        "question": "A book is 22 cm long. How many millimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "220 mm",
+            "B": "22 mm",
+            "C": "2,200 mm",
+            "D": "2.2 mm"
+        }
+    },
+    {
+        "question": "A field is 25 m long and 10 m wide. What is its area?",
+        "answer": "A",
+        "options": {
+            "A": "250 m\u00b2",
+            "B": "70 m\u00b2",
+            "C": "35 m\u00b2",
+            "D": "300 m\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle has a perimeter of 24 cm and a width of 5 cm. What is its length?",
+        "answer": "A",
+        "options": {
+            "A": "7 cm",
+            "B": "9 cm",
+            "C": "6 cm",
+            "D": "8 cm"
+        }
+    },
+    {
+        "question": "How many weeks are in 28 days?",
+        "answer": "A",
+        "options": {
+            "A": "4 weeks",
+            "B": "3 weeks",
+            "C": "5 weeks",
+            "D": "6 weeks"
+        }
+    },
+    {
+        "question": "How many days are in 6 weeks?",
+        "answer": "A",
+        "options": {
+            "A": "42 days",
+            "B": "35 days",
+            "C": "49 days",
+            "D": "30 days"
+        }
+    },
+    {
+        "question": "A juice carton contains 200 mL. How many litres is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.2 L",
+            "B": "2 L",
+            "C": "20 L",
+            "D": "0.02 L"
+        }
+    },
+    {
+        "question": "A bag of rice weighs 750 g. How many kilograms is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.75 kg",
+            "B": "7.5 kg",
+            "C": "75 kg",
+            "D": "0.075 kg"
+        }
+    },
+    {
+        "question": "A screw is 35 mm long. How many centimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "3.5 cm",
+            "B": "35 cm",
+            "C": "0.35 cm",
+            "D": "350 cm"
+        }
+    },
+    {
+        "question": "A tennis court is 24 m long and 10 m wide. What is its perimeter?",
+        "answer": "A",
+        "options": {
+            "A": "68 m",
+            "B": "240 m",
+            "C": "34 m",
+            "D": "72 m"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle that is 9 cm by 12 cm?",
+        "answer": "A",
+        "options": {
+            "A": "108 cm\u00b2",
+            "B": "42 cm\u00b2",
+            "C": "21 cm\u00b2",
+            "D": "120 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 420 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "7 hours",
+            "B": "6 hours",
+            "C": "8 hours",
+            "D": "4.2 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 540 seconds?",
+        "answer": "A",
+        "options": {
+            "A": "9 minutes",
+            "B": "8 minutes",
+            "C": "10 minutes",
+            "D": "5.4 minutes"
+        }
+    },
+    {
+        "question": "A cuboid is 5 cm long, 4 cm wide, and 2 cm tall. What is its volume in cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "40 cm\u00b3",
+            "B": "11 cm\u00b3",
+            "C": "20 cm\u00b3",
+            "D": "30 cm\u00b3"
+        }
+    },
+    {
+        "question": "A cuboid is 5 cm long, 4 cm wide, and 2 cm tall. What is its volume in cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "40 cm\u00b3",
+            "B": "11 cm\u00b3",
+            "C": "20 cm\u00b3",
+            "D": "30 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many centimetres are in 6.8 metres?",
+        "answer": "A",
+        "options": {
+            "A": "680 cm",
+            "B": "68 cm",
+            "C": "6,800 cm",
+            "D": "6.8 cm"
+        }
+    },
+    {
+        "question": "How many millilitres are in 4.7 litres?",
+        "answer": "A",
+        "options": {
+            "A": "4,700 mL",
+            "B": "470 mL",
+            "C": "47 mL",
+            "D": "47,000 mL"
+        }
+    },
+    {
+        "question": "How many grams are in 2.9 kilograms?",
+        "answer": "A",
+        "options": {
+            "A": "2,900 g",
+            "B": "290 g",
+            "C": "29 g",
+            "D": "29,000 g"
+        }
+    },
+    {
+        "question": "How many millimetres are in 15.2 centimetres?",
+        "answer": "A",
+        "options": {
+            "A": "152 mm",
+            "B": "15.2 mm",
+            "C": "1,520 mm",
+            "D": "1.52 mm"
+        }
+    },
+    {
+        "question": "How many metres are in 3.9 kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "3,900 m",
+            "B": "390 m",
+            "C": "39 m",
+            "D": "39,000 m"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 4 inches?",
+        "answer": "A",
+        "options": {
+            "A": "10 cm",
+            "B": "4 cm",
+            "C": "15 cm",
+            "D": "20 cm"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 4 pints?",
+        "answer": "A",
+        "options": {
+            "A": "2,280 mL",
+            "B": "570 mL",
+            "C": "1,000 mL",
+            "D": "4,000 mL"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 4 pounds (lb)?",
+        "answer": "A",
+        "options": {
+            "A": "1,800 g",
+            "B": "450 g",
+            "C": "1 kg",
+            "D": "400 g"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle with length 14 cm and width 4 cm?",
+        "answer": "A",
+        "options": {
+            "A": "36 cm",
+            "B": "56 cm",
+            "C": "18 cm",
+            "D": "40 cm"
+        }
+    },
+    {
+        "question": "What is the area of a square with side 10 cm?",
+        "answer": "A",
+        "options": {
+            "A": "100 cm\u00b2",
+            "B": "40 cm\u00b2",
+            "C": "20 cm\u00b2",
+            "D": "80 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle with length 18 cm and width 3 cm?",
+        "answer": "A",
+        "options": {
+            "A": "54 cm\u00b2",
+            "B": "42 cm\u00b2",
+            "C": "21 cm\u00b2",
+            "D": "60 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 5 days?",
+        "answer": "A",
+        "options": {
+            "A": "120 hours",
+            "B": "96 hours",
+            "C": "72 hours",
+            "D": "144 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 6 hours?",
+        "answer": "A",
+        "options": {
+            "A": "360 minutes",
+            "B": "300 minutes",
+            "C": "240 minutes",
+            "D": "420 minutes"
+        }
+    },
+    {
+        "question": "How many seconds are in 9 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "540 seconds",
+            "B": "90 seconds",
+            "C": "180 seconds",
+            "D": "360 seconds"
+        }
+    },
+    {
+        "question": "A tank holds 3.6 litres. How many millilitres is this?",
+        "answer": "A",
+        "options": {
+            "A": "3,600 mL",
+            "B": "360 mL",
+            "C": "36 mL",
+            "D": "36,000 mL"
+        }
+    },
+    {
+        "question": "A parcel weighs 2.45 kg. How many grams is this?",
+        "answer": "A",
+        "options": {
+            "A": "2,450 g",
+            "B": "245 g",
+            "C": "24.5 g",
+            "D": "24,500 g"
+        }
+    },
+    {
+        "question": "A pencil case is 28 cm long. How many millimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "280 mm",
+            "B": "28 mm",
+            "C": "2,800 mm",
+            "D": "2.8 mm"
+        }
+    },
+    {
+        "question": "A patio is 15 m long and 8 m wide. What is its area?",
+        "answer": "A",
+        "options": {
+            "A": "120 m\u00b2",
+            "B": "46 m\u00b2",
+            "C": "23 m\u00b2",
+            "D": "140 m\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle has a perimeter of 36 cm and a width of 7 cm. What is its length?",
+        "answer": "A",
+        "options": {
+            "A": "11 cm",
+            "B": "13 cm",
+            "C": "10 cm",
+            "D": "12 cm"
+        }
+    },
+    {
+        "question": "How many weeks are in 35 days?",
+        "answer": "A",
+        "options": {
+            "A": "5 weeks",
+            "B": "4 weeks",
+            "C": "6 weeks",
+            "D": "7 weeks"
+        }
+    },
+    {
+        "question": "How many days are in 8 weeks?",
+        "answer": "A",
+        "options": {
+            "A": "56 days",
+            "B": "49 days",
+            "C": "63 days",
+            "D": "42 days"
+        }
+    },
+    {
+        "question": "A medicine dose is 5 mL. How many litres is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.005 L",
+            "B": "0.05 L",
+            "C": "0.5 L",
+            "D": "5 L"
+        }
+    },
+    {
+        "question": "A chocolate bar weighs 100 g. How many kilograms is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.1 kg",
+            "B": "1 kg",
+            "C": "10 kg",
+            "D": "0.01 kg"
+        }
+    },
+    {
+        "question": "A key is 65 mm long. How many centimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "6.5 cm",
+            "B": "65 cm",
+            "C": "0.65 cm",
+            "D": "650 cm"
+        }
+    },
+    {
+        "question": "A swimming pool is 25 m long and 12 m wide. What is its perimeter?",
+        "answer": "A",
+        "options": {
+            "A": "74 m",
+            "B": "300 m",
+            "C": "37 m",
+            "D": "80 m"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle that is 11 cm by 13 cm?",
+        "answer": "A",
+        "options": {
+            "A": "143 cm\u00b2",
+            "B": "48 cm\u00b2",
+            "C": "24 cm\u00b2",
+            "D": "156 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 480 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "8 hours",
+            "B": "7 hours",
+            "C": "9 hours",
+            "D": "4.8 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 600 seconds?",
+        "answer": "A",
+        "options": {
+            "A": "10 minutes",
+            "B": "6 minutes",
+            "C": "12 minutes",
+            "D": "60 minutes"
+        }
+    },
+    {
+        "question": "A cube has sides of 5 cm. What is its volume in cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "125 cm\u00b3",
+            "B": "25 cm\u00b3",
+            "C": "15 cm\u00b3",
+            "D": "75 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many metres are in 3 kilometres?",
+        "answer": "C",
+        "options": {
+            "A": "30 m",
+            "B": "300 m",
+            "C": "3,000 m",
+            "D": "30,000 m"
+        }
+    },
+    {
+        "question": "How many centimetres are in 5 metres?",
+        "answer": "B",
+        "options": {
+            "A": "50 cm",
+            "B": "500 cm",
+            "C": "5,000 cm",
+            "D": "50,000 cm"
+        }
+    },
+    {
+        "question": "How many millimetres are in 7 centimetres?",
+        "answer": "B",
+        "options": {
+            "A": "7 mm",
+            "B": "70 mm",
+            "C": "700 mm",
+            "D": "7,000 mm"
+        }
+    },
+    {
+        "question": "How many grams are in 4 kilograms?",
+        "answer": "C",
+        "options": {
+            "A": "40 g",
+            "B": "400 g",
+            "C": "4,000 g",
+            "D": "40,000 g"
+        }
+    },
+    {
+        "question": "How many millilitres are in 2 litres?",
+        "answer": "C",
+        "options": {
+            "A": "20 mL",
+            "B": "200 mL",
+            "C": "2,000 mL",
+            "D": "20,000 mL"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 1 inch?",
+        "answer": "A",
+        "options": {
+            "A": "2.5 cm",
+            "B": "10 cm",
+            "C": "15 cm",
+            "D": "25 cm"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 1 pound (lb)?",
+        "answer": "C",
+        "options": {
+            "A": "100 g",
+            "B": "250 g",
+            "C": "500 g",
+            "D": "1,000 g"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 1 pint?",
+        "answer": "C",
+        "options": {
+            "A": "100 mL",
+            "B": "250 mL",
+            "C": "500 mL",
+            "D": "1,000 mL"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle with length 6 cm and width 4 cm?",
+        "answer": "B",
+        "options": {
+            "A": "10 cm",
+            "B": "20 cm",
+            "C": "24 cm",
+            "D": "40 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with side length 5 cm?",
+        "answer": "C",
+        "options": {
+            "A": "10 cm",
+            "B": "15 cm",
+            "C": "20 cm",
+            "D": "25 cm"
+        }
+    },
+    {
+        "question": "A shape is made of two rectangles: one 3 cm by 4 cm and another 3 cm by 2 cm joined along the 3 cm side. What is its perimeter in centimetres?",
+        "answer": "C",
+        "options": {
+            "A": "18 cm",
+            "B": "20 cm",
+            "C": "22 cm",
+            "D": "24 cm"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle that is 8 cm long and 3 cm wide?",
+        "answer": "C",
+        "options": {
+            "A": "11 cm\u00b2",
+            "B": "22 cm\u00b2",
+            "C": "24 cm\u00b2",
+            "D": "32 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many centimetres are in 2.5 metres?",
+        "answer": "A",
+        "options": {
+            "A": "250 cm",
+            "B": "25 cm",
+            "C": "2,500 cm",
+            "D": "2.5 cm"
+        }
+    },
+    {
+        "question": "How many millilitres are in 1.8 litres?",
+        "answer": "A",
+        "options": {
+            "A": "1,800 mL",
+            "B": "180 mL",
+            "C": "18 mL",
+            "D": "18,000 mL"
+        }
+    },
+    {
+        "question": "How many grams are in 0.9 kilograms?",
+        "answer": "A",
+        "options": {
+            "A": "900 g",
+            "B": "90 g",
+            "C": "9 g",
+            "D": "9,000 g"
+        }
+    },
+    {
+        "question": "How many millimetres are in 6.4 centimetres?",
+        "answer": "A",
+        "options": {
+            "A": "64 mm",
+            "B": "6.4 mm",
+            "C": "640 mm",
+            "D": "0.64 mm"
+        }
+    },
+    {
+        "question": "How many metres are in 8.1 kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "8,100 m",
+            "B": "810 m",
+            "C": "81 m",
+            "D": "81,000 m"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 6 inches?",
+        "answer": "A",
+        "options": {
+            "A": "15 cm",
+            "B": "6 cm",
+            "C": "20 cm",
+            "D": "25 cm"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 1 pint?",
+        "answer": "A",
+        "options": {
+            "A": "570 mL",
+            "B": "100 mL",
+            "C": "1,000 mL",
+            "D": "250 mL"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 1 pound (lb)?",
+        "answer": "A",
+        "options": {
+            "A": "450 g",
+            "B": "100 g",
+            "C": "1 kg",
+            "D": "250 g"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle with length 9 cm and width 4 cm?",
+        "answer": "A",
+        "options": {
+            "A": "26 cm",
+            "B": "36 cm",
+            "C": "13 cm",
+            "D": "32 cm"
+        }
+    },
+    {
+        "question": "What is the area of a square with side 8 cm?",
+        "answer": "A",
+        "options": {
+            "A": "64 cm\u00b2",
+            "B": "32 cm\u00b2",
+            "C": "16 cm\u00b2",
+            "D": "48 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle with length 14 cm and width 5 cm?",
+        "answer": "A",
+        "options": {
+            "A": "70 cm\u00b2",
+            "B": "38 cm\u00b2",
+            "C": "19 cm\u00b2",
+            "D": "80 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 1 day?",
+        "answer": "A",
+        "options": {
+            "A": "24 hours",
+            "B": "12 hours",
+            "C": "60 hours",
+            "D": "48 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 1 hour?",
+        "answer": "A",
+        "options": {
+            "A": "60 minutes",
+            "B": "24 minutes",
+            "C": "100 minutes",
+            "D": "30 minutes"
+        }
+    },
+    {
+        "question": "How many seconds are in 1 minute?",
+        "answer": "A",
+        "options": {
+            "A": "60 seconds",
+            "B": "24 seconds",
+            "C": "100 seconds",
+            "D": "30 seconds"
+        }
+    },
+    {
+        "question": "A bottle holds 0.75 litres. How many millilitres is this?",
+        "answer": "A",
+        "options": {
+            "A": "750 mL",
+            "B": "75 mL",
+            "C": "7.5 mL",
+            "D": "7,500 mL"
+        }
+    },
+    {
+        "question": "A bag of apples weighs 2.1 kg. How many grams is this?",
+        "answer": "A",
+        "options": {
+            "A": "2,100 g",
+            "B": "210 g",
+            "C": "21 g",
+            "D": "21,000 g"
+        }
+    },
+    {
+        "question": "A pen is 14 cm long. How many millimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "140 mm",
+            "B": "14 mm",
+            "C": "1,400 mm",
+            "D": "1.4 mm"
+        }
+    },
+    {
+        "question": "A bedroom is 4 m long and 3 m wide. What is its area?",
+        "answer": "A",
+        "options": {
+            "A": "12 m\u00b2",
+            "B": "14 m\u00b2",
+            "C": "7 m\u00b2",
+            "D": "16 m\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle has a perimeter of 28 cm and a width of 6 cm. What is its length?",
+        "answer": "A",
+        "options": {
+            "A": "8 cm",
+            "B": "10 cm",
+            "C": "7 cm",
+            "D": "9 cm"
+        }
+    },
+    {
+        "question": "How many weeks are in 14 days?",
+        "answer": "A",
+        "options": {
+            "A": "2 weeks",
+            "B": "1 week",
+            "C": "3 weeks",
+            "D": "4 weeks"
+        }
+    },
+    {
+        "question": "How many days are in 2 weeks?",
+        "answer": "A",
+        "options": {
+            "A": "14 days",
+            "B": "7 days",
+            "C": "21 days",
+            "D": "30 days"
+        }
+    },
+    {
+        "question": "A cup contains 250 mL of water. How many litres is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.25 L",
+            "B": "2.5 L",
+            "C": "25 L",
+            "D": "0.025 L"
+        }
+    },
+    {
+        "question": "A book weighs 300 g. How many kilograms is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.3 kg",
+            "B": "3 kg",
+            "C": "30 kg",
+            "D": "0.03 kg"
+        }
+    },
+    {
+        "question": "A nail is 28 mm long. How many centimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "2.8 cm",
+            "B": "28 cm",
+            "C": "0.28 cm",
+            "D": "280 cm"
+        }
+    },
+    {
+        "question": "A football pitch is 100 m long and 60 m wide. What is its perimeter?",
+        "answer": "A",
+        "options": {
+            "A": "320 m",
+            "B": "6,000 m",
+            "C": "160 m",
+            "D": "360 m"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle that is 10 cm by 15 cm?",
+        "answer": "A",
+        "options": {
+            "A": "150 cm\u00b2",
+            "B": "50 cm\u00b2",
+            "C": "25 cm\u00b2",
+            "D": "160 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 180 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "3 hours",
+            "B": "2 hours",
+            "C": "4 hours",
+            "D": "1.8 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 300 seconds?",
+        "answer": "A",
+        "options": {
+            "A": "5 minutes",
+            "B": "3 minutes",
+            "C": "6 minutes",
+            "D": "30 minutes"
+        }
+    },
+    {
+        "question": "A cube has sides of 3 cm. What is its volume in cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "27 cm\u00b3",
+            "B": "9 cm\u00b3",
+            "C": "6 cm\u00b3",
+            "D": "18 cm\u00b3"
+        }
+    },
+    {
+        "question": "A cube has sides of 3 cm. What is its volume in cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "27 cm\u00b3",
+            "B": "9 cm\u00b2",
+            "C": "6 cm\u00b3",
+            "D": "18 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many centimetres are in 5.5 metres?",
+        "answer": "A",
+        "options": {
+            "A": "550 cm",
+            "B": "55 cm",
+            "C": "5,500 cm",
+            "D": "5.5 cm"
+        }
+    },
+    {
+        "question": "How many millilitres are in 2.2 litres?",
+        "answer": "A",
+        "options": {
+            "A": "2,200 mL",
+            "B": "220 mL",
+            "C": "22 mL",
+            "D": "22,000 mL"
+        }
+    },
+    {
+        "question": "How many grams are in 1.5 kilograms?",
+        "answer": "A",
+        "options": {
+            "A": "1,500 g",
+            "B": "150 g",
+            "C": "15 g",
+            "D": "15,000 g"
+        }
+    },
+    {
+        "question": "How many millimetres are in 12.8 centimetres?",
+        "answer": "A",
+        "options": {
+            "A": "128 mm",
+            "B": "12.8 mm",
+            "C": "1,280 mm",
+            "D": "1.28 mm"
+        }
+    },
+    {
+        "question": "How many metres are in 4.5 kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "4,500 m",
+            "B": "450 m",
+            "C": "45 m",
+            "D": "45,000 m"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 7 inches?",
+        "answer": "A",
+        "options": {
+            "A": "17.5 cm",
+            "B": "7 cm",
+            "C": "20 cm",
+            "D": "25 cm"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 2 pints?",
+        "answer": "A",
+        "options": {
+            "A": "1,140 mL",
+            "B": "570 mL",
+            "C": "1,000 mL",
+            "D": "2,000 mL"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 2 pounds (lb)?",
+        "answer": "A",
+        "options": {
+            "A": "900 g",
+            "B": "450 g",
+            "C": "1 kg",
+            "D": "200 g"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle with length 11 cm and width 5 cm?",
+        "answer": "A",
+        "options": {
+            "A": "32 cm",
+            "B": "55 cm",
+            "C": "16 cm",
+            "D": "36 cm"
+        }
+    },
+    {
+        "question": "What is the area of a square with side 5 cm?",
+        "answer": "A",
+        "options": {
+            "A": "25 cm\u00b2",
+            "B": "20 cm\u00b2",
+            "C": "10 cm\u00b2",
+            "D": "30 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle with length 16 cm and width 4 cm?",
+        "answer": "A",
+        "options": {
+            "A": "64 cm\u00b2",
+            "B": "40 cm\u00b2",
+            "C": "20 cm\u00b2",
+            "D": "70 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 2 days?",
+        "answer": "A",
+        "options": {
+            "A": "48 hours",
+            "B": "24 hours",
+            "C": "12 hours",
+            "D": "36 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 2 hours?",
+        "answer": "A",
+        "options": {
+            "A": "120 minutes",
+            "B": "60 minutes",
+            "C": "180 minutes",
+            "D": "240 minutes"
+        }
+    },
+    {
+        "question": "How many seconds are in 2 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "120 seconds",
+            "B": "60 seconds",
+            "C": "180 seconds",
+            "D": "240 seconds"
+        }
+    },
+    {
+        "question": "A jug holds 1.25 litres. How many millilitres is this?",
+        "answer": "A",
+        "options": {
+            "A": "1,250 mL",
+            "B": "125 mL",
+            "C": "12.5 mL",
+            "D": "12,500 mL"
+        }
+    },
+    {
+        "question": "A box of cereal weighs 0.75 kg. How many grams is this?",
+        "answer": "A",
+        "options": {
+            "A": "750 g",
+            "B": "75 g",
+            "C": "7.5 g",
+            "D": "7,500 g"
+        }
+    },
+    {
+        "question": "A ruler is 35 cm long. How many millimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "350 mm",
+            "B": "35 mm",
+            "C": "3,500 mm",
+            "D": "3.5 mm"
+        }
+    },
+    {
+        "question": "A patio is 12 m long and 6 m wide. What is its area?",
+        "answer": "A",
+        "options": {
+            "A": "72 m\u00b2",
+            "B": "36 m\u00b2",
+            "C": "18 m\u00b2",
+            "D": "80 m\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle has a perimeter of 32 cm and a width of 6 cm. What is its length?",
+        "answer": "A",
+        "options": {
+            "A": "10 cm",
+            "B": "12 cm",
+            "C": "8 cm",
+            "D": "14 cm"
+        }
+    },
+    {
+        "question": "How many weeks are in 21 days?",
+        "answer": "A",
+        "options": {
+            "A": "3 weeks",
+            "B": "2 weeks",
+            "C": "4 weeks",
+            "D": "5 weeks"
+        }
+    },
+    {
+        "question": "How many days are in 3 weeks?",
+        "answer": "A",
+        "options": {
+            "A": "21 days",
+            "B": "14 days",
+            "C": "28 days",
+            "D": "30 days"
+        }
+    },
+    {
+        "question": "A small bottle contains 150 mL. How many litres is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.15 L",
+            "B": "1.5 L",
+            "C": "15 L",
+            "D": "0.015 L"
+        }
+    },
+    {
+        "question": "A toy car weighs 200 g. How many kilograms is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.2 kg",
+            "B": "2 kg",
+            "C": "20 kg",
+            "D": "0.02 kg"
+        }
+    },
+    {
+        "question": "A screw is 42 mm long. How many centimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "4.2 cm",
+            "B": "42 cm",
+            "C": "0.42 cm",
+            "D": "420 cm"
+        }
+    },
+    {
+        "question": "A tennis court is 24 m long and 12 m wide. What is its perimeter?",
+        "answer": "A",
+        "options": {
+            "A": "72 m",
+            "B": "288 m",
+            "C": "36 m",
+            "D": "80 m"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle that is 13 cm by 10 cm?",
+        "answer": "A",
+        "options": {
+            "A": "130 cm\u00b2",
+            "B": "46 cm\u00b2",
+            "C": "23 cm\u00b2",
+            "D": "140 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 300 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "5 hours",
+            "B": "4 hours",
+            "C": "6 hours",
+            "D": "3 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 480 seconds?",
+        "answer": "A",
+        "options": {
+            "A": "8 minutes",
+            "B": "6 minutes",
+            "C": "10 minutes",
+            "D": "48 minutes"
+        }
+    },
+    {
+        "question": "A cuboid is 4 cm long, 3 cm wide, and 5 cm tall. What is its volume in cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "60 cm\u00b3",
+            "B": "12 cm\u00b3",
+            "C": "20 cm\u00b3",
+            "D": "45 cm\u00b3"
+        }
+    },
+    {
+        "question": "A cuboid is 4 cm long, 3 cm wide, and 5 cm tall. What is its volume in cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "60 cm\u00b3",
+            "B": "12 cm\u00b2",
+            "C": "20 cm\u00b3",
+            "D": "45 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many centimetres are in 9.2 metres?",
+        "answer": "A",
+        "options": {
+            "A": "920 cm",
+            "B": "92 cm",
+            "C": "9,200 cm",
+            "D": "9.2 cm"
+        }
+    },
+    {
+        "question": "How many millilitres are in 3.1 litres?",
+        "answer": "A",
+        "options": {
+            "A": "3,100 mL",
+            "B": "310 mL",
+            "C": "31 mL",
+            "D": "31,000 mL"
+        }
+    },
+    {
+        "question": "How many grams are in 5.8 kilograms?",
+        "answer": "A",
+        "options": {
+            "A": "5,800 g",
+            "B": "580 g",
+            "C": "58 g",
+            "D": "58,000 g"
+        }
+    },
+    {
+        "question": "How many millimetres are in 21.5 centimetres?",
+        "answer": "A",
+        "options": {
+            "A": "215 mm",
+            "B": "21.5 mm",
+            "C": "2,150 mm",
+            "D": "2.15 mm"
+        }
+    },
+    {
+        "question": "How many metres are in 6.7 kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "6,700 m",
+            "B": "670 m",
+            "C": "67 m",
+            "D": "67,000 m"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 8 inches?",
+        "answer": "A",
+        "options": {
+            "A": "20 cm",
+            "B": "8 cm",
+            "C": "25 cm",
+            "D": "30 cm"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 3 pints?",
+        "answer": "A",
+        "options": {
+            "A": "1,710 mL",
+            "B": "570 mL",
+            "C": "1,000 mL",
+            "D": "3,000 mL"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 3 pounds (lb)?",
+        "answer": "A",
+        "options": {
+            "A": "1,350 g",
+            "B": "450 g",
+            "C": "1 kg",
+            "D": "300 g"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle with length 13 cm and width 6 cm?",
+        "answer": "A",
+        "options": {
+            "A": "38 cm",
+            "B": "78 cm",
+            "C": "19 cm",
+            "D": "42 cm"
+        }
+    },
+    {
+        "question": "What is the area of a square with side 11 cm?",
+        "answer": "A",
+        "options": {
+            "A": "121 cm\u00b2",
+            "B": "44 cm\u00b2",
+            "C": "22 cm\u00b2",
+            "D": "110 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle with length 17 cm and width 3 cm?",
+        "answer": "A",
+        "options": {
+            "A": "51 cm\u00b2",
+            "B": "40 cm\u00b2",
+            "C": "20 cm\u00b2",
+            "D": "60 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 7 days?",
+        "answer": "A",
+        "options": {
+            "A": "168 hours",
+            "B": "144 hours",
+            "C": "120 hours",
+            "D": "192 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 8 hours?",
+        "answer": "A",
+        "options": {
+            "A": "480 minutes",
+            "B": "420 minutes",
+            "C": "360 minutes",
+            "D": "540 minutes"
+        }
+    },
+    {
+        "question": "How many seconds are in 12 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "720 seconds",
+            "B": "120 seconds",
+            "C": "600 seconds",
+            "D": "360 seconds"
+        }
+    },
+    {
+        "question": "A container holds 2.6 litres. How many millilitres is this?",
+        "answer": "A",
+        "options": {
+            "A": "2,600 mL",
+            "B": "260 mL",
+            "C": "26 mL",
+            "D": "26,000 mL"
+        }
+    },
+    {
+        "question": "A parcel weighs 1.6 kg. How many grams is this?",
+        "answer": "A",
+        "options": {
+            "A": "1,600 g",
+            "B": "160 g",
+            "C": "16 g",
+            "D": "16,000 g"
+        }
+    },
+    {
+        "question": "A book is 25 cm long. How many millimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "250 mm",
+            "B": "25 mm",
+            "C": "2,500 mm",
+            "D": "2.5 mm"
+        }
+    },
+    {
+        "question": "A garden is 20 m long and 7 m wide. What is its area?",
+        "answer": "A",
+        "options": {
+            "A": "140 m\u00b2",
+            "B": "54 m\u00b2",
+            "C": "27 m\u00b2",
+            "D": "160 m\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle has a perimeter of 34 cm and a width of 7 cm. What is its length?",
+        "answer": "A",
+        "options": {
+            "A": "10 cm",
+            "B": "12 cm",
+            "C": "9 cm",
+            "D": "11 cm"
+        }
+    },
+    {
+        "question": "How many weeks are in 49 days?",
+        "answer": "A",
+        "options": {
+            "A": "7 weeks",
+            "B": "6 weeks",
+            "C": "8 weeks",
+            "D": "9 weeks"
+        }
+    },
+    {
+        "question": "How many days are in 10 weeks?",
+        "answer": "A",
+        "options": {
+            "A": "70 days",
+            "B": "63 days",
+            "C": "77 days",
+            "D": "56 days"
+        }
+    },
+    {
+        "question": "A medicine dose is 10 mL. How many litres is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.01 L",
+            "B": "0.1 L",
+            "C": "1 L",
+            "D": "0.001 L"
+        }
+    },
+    {
+        "question": "A chocolate bar weighs 200 g. How many kilograms is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.2 kg",
+            "B": "2 kg",
+            "C": "20 kg",
+            "D": "0.02 kg"
+        }
+    },
+    {
+        "question": "A key is 72 mm long. How many centimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "7.2 cm",
+            "B": "72 cm",
+            "C": "0.72 cm",
+            "D": "720 cm"
+        }
+    },
+    {
+        "question": "A swimming pool is 50 m long and 25 m wide. What is its perimeter?",
+        "answer": "A",
+        "options": {
+            "A": "150 m",
+            "B": "1,250 m",
+            "C": "75 m",
+            "D": "160 m"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle that is 12 cm by 14 cm?",
+        "answer": "A",
+        "options": {
+            "A": "168 cm\u00b2",
+            "B": "52 cm\u00b2",
+            "C": "26 cm\u00b2",
+            "D": "180 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 600 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "10 hours",
+            "B": "9 hours",
+            "C": "11 hours",
+            "D": "6 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 720 seconds?",
+        "answer": "A",
+        "options": {
+            "A": "12 minutes",
+            "B": "10 minutes",
+            "C": "15 minutes",
+            "D": "72 minutes"
+        }
+    },
+    {
+        "question": "A cube has sides of 6 cm. What is its volume in cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "216 cm\u00b3",
+            "B": "36 cm\u00b2",
+            "C": "18 cm\u00b3",
+            "D": "144 cm\u00b3"
+        }
+    },
+    {
+        "question": "What is 418 \u00d7 6?",
+        "answer": "A",
+        "options": {
+            "A": "2508",
+            "B": "2498",
+            "C": "2518",
+            "D": "2488"
+        }
+    },
+    {
+        "question": "Which expression correctly uses the distributive law for 73 \u00d7 5?",
+        "answer": "A",
+        "options": {
+            "A": "(70 \u00d7 5) + (3 \u00d7 5)",
+            "B": "(70 + 5) \u00d7 3",
+            "C": "70 \u00d7 (3 + 5)",
+            "D": "(73 + 5) \u00d7 1"
+        }
+    },
+    {
+        "question": "A crate holds 156 apples. How many apples are in 5 crates?",
+        "answer": "B",
+        "options": {
+            "A": "770",
+            "B": "780",
+            "C": "790",
+            "D": "800"
+        }
+    },
+    {
+        "question": "What is 864 \u00f7 6?",
+        "answer": "B",
+        "options": {
+            "A": "142",
+            "B": "144",
+            "C": "146",
+            "D": "148"
+        }
+    },
+    {
+        "question": "Which is a factor pair of 72?",
+        "answer": "B",
+        "options": {
+            "A": "7 and 10",
+            "B": "8 and 9",
+            "C": "6 and 11",
+            "D": "5 and 14"
+        }
+    },
+    {
+        "question": "Calculate 4 \u00d7 9 \u00d7 5 by rearranging.",
+        "answer": "C",
+        "options": {
+            "A": "160",
+            "B": "170",
+            "C": "180",
+            "D": "190"
+        }
+    },
+    {
+        "question": "Sam has \u00a3500. He buys 4 tablets at \u00a3118 each. How much does he have left?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a324",
+            "B": "\u00a328",
+            "C": "\u00a332",
+            "D": "\u00a336"
+        }
+    },
+    {
+        "question": "Which equals 65 \u00d7 7?",
+        "answer": "A",
+        "options": {
+            "A": "(60 \u00d7 7) + (5 \u00d7 7)",
+            "B": "(60 + 7) \u00d7 5",
+            "C": "65 + 65 + 65 + 65 + 65 + 65 + 65",
+            "D": "455"
+        }
+    },
+    {
+        "question": "What is 720 \u00f7 8?",
+        "answer": "B",
+        "options": {
+            "A": "80",
+            "B": "90",
+            "C": "100",
+            "D": "110"
+        }
+    },
+    {
+        "question": "A delivery van carries 6 boxes. Each box weighs 189 kg. What is the total weight?",
+        "answer": "B",
+        "options": {
+            "A": "1124 kg",
+            "B": "1134 kg",
+            "C": "1144 kg",
+            "D": "1154 kg"
+        }
+    },
+    {
+        "question": "Which shows commutativity?",
+        "answer": "C",
+        "options": {
+            "A": "5 \u00d7 0 = 0",
+            "B": "12 \u00f7 1 = 12",
+            "C": "9 \u00d7 4 = 4 \u00d7 9",
+            "D": "3 \u00d7 1 = 3"
+        }
+    },
+    {
+        "question": "A menu has 7 starters and 5 mains. How many starter-main combinations are there?",
+        "answer": "C",
+        "options": {
+            "A": "12",
+            "B": "30",
+            "C": "35",
+            "D": "40"
+        }
+    },
+    {
+        "question": "What is 672 \u00f7 7?",
+        "answer": "C",
+        "options": {
+            "A": "92",
+            "B": "94",
+            "C": "96",
+            "D": "98"
+        }
+    },
+    {
+        "question": "Which is equal to (2 \u00d7 5) \u00d7 6?",
+        "answer": "A",
+        "options": {
+            "A": "2 \u00d7 (5 \u00d7 6)",
+            "B": "2 + 5 \u00d7 6",
+            "C": "(2 + 5) \u00d7 6",
+            "D": "10 + 6"
+        }
+    },
+    {
+        "question": "What number multiplied by 1 gives 408?",
+        "answer": "D",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "407",
+            "D": "408"
+        }
+    },
+    {
+        "question": "What is 384 \u00d7 3?",
+        "answer": "B",
+        "options": {
+            "A": "1142",
+            "B": "1152",
+            "C": "1162",
+            "D": "1172"
+        }
+    },
+    {
+        "question": "Which is NOT a factor pair of 84?",
+        "answer": "D",
+        "options": {
+            "A": "6 and 14",
+            "B": "7 and 12",
+            "C": "4 and 21",
+            "D": "8 and 10"
+        }
+    },
+    {
+        "question": "A printer prints 237 pages per hour. How many in 4 hours?",
+        "answer": "B",
+        "options": {
+            "A": "938",
+            "B": "948",
+            "C": "958",
+            "D": "968"
+        }
+    },
+    {
+        "question": "What is 960 \u00f7 8?",
+        "answer": "B",
+        "options": {
+            "A": "110",
+            "B": "120",
+            "C": "130",
+            "D": "140"
+        }
+    },
+    {
+        "question": "Which equals 9 \u00d7 4 \u00d7 5?",
+        "answer": "A",
+        "options": {
+            "A": "(9 \u00d7 5) \u00d7 4",
+            "B": "9 + 4 + 5",
+            "C": "9 \u00d7 (4 + 5)",
+            "D": "36 + 5"
+        }
+    },
+    {
+        "question": "A school has 5 minibuses. Each seats 148 children. How many children can travel?",
+        "answer": "B",
+        "options": {
+            "A": "730",
+            "B": "740",
+            "C": "750",
+            "D": "760"
+        }
+    },
+    {
+        "question": "What is 735 \u00f7 5?",
+        "answer": "B",
+        "options": {
+            "A": "145",
+            "B": "147",
+            "C": "149",
+            "D": "151"
+        }
+    },
+    {
+        "question": "How can you use place value to find 400 \u00f7 4?",
+        "answer": "B",
+        "options": {
+            "A": "4 \u00f7 4 = 1, so 400 \u00f7 4 = 10",
+            "B": "4 \u00f7 4 = 1, so 400 \u00f7 4 = 100",
+            "C": "40 \u00f7 4 = 10, so 400 \u00f7 4 = 10",
+            "D": "400 \u00f7 10 = 40"
+        }
+    },
+    {
+        "question": "What is 507 \u00d7 4?",
+        "answer": "B",
+        "options": {
+            "A": "2018",
+            "B": "2028",
+            "C": "2038",
+            "D": "2048"
+        }
+    },
+    {
+        "question": "If 6 \u00d7 7 = 42, what is 4200 \u00f7 7?",
+        "answer": "B",
+        "options": {
+            "A": "60",
+            "B": "600",
+            "C": "70",
+            "D": "700"
+        }
+    },
+    {
+        "question": "Pencils come in packs of 9. How many packs for 459 pencils?",
+        "answer": "B",
+        "options": {
+            "A": "50",
+            "B": "51",
+            "C": "52",
+            "D": "53"
+        }
+    },
+    {
+        "question": "Which is true?",
+        "answer": "C",
+        "options": {
+            "A": "Dividing by 1 changes the number",
+            "B": "Multiplying by 0 gives the number",
+            "C": "Dividing a number by itself gives 1",
+            "D": "Multiplying by 1 gives 0"
+        }
+    },
+    {
+        "question": "What is 852 \u00f7 6?",
+        "answer": "B",
+        "options": {
+            "A": "140",
+            "B": "142",
+            "C": "144",
+            "D": "146"
+        }
+    },
+    {
+        "question": "Use distributive law: 86 \u00d7 4 = ?",
+        "answer": "A",
+        "options": {
+            "A": "(80 \u00d7 4) + (6 \u00d7 4)",
+            "B": "(80 + 4) \u00d7 6",
+            "C": "80 \u00d7 (6 + 4)",
+            "D": "86 + 86 + 86 + 86"
+        }
+    },
+    {
+        "question": "3 types of bread and 8 fillings. How many sandwich combinations?",
+        "answer": "C",
+        "options": {
+            "A": "11",
+            "B": "21",
+            "C": "24",
+            "D": "32"
+        }
+    },
+    {
+        "question": "What is 629 \u00d7 2?",
+        "answer": "B",
+        "options": {
+            "A": "1248",
+            "B": "1258",
+            "C": "1268",
+            "D": "1278"
+        }
+    },
+    {
+        "question": "What number completes the factor pair: ___ \u00d7 7 = 112?",
+        "answer": "C",
+        "options": {
+            "A": "14",
+            "B": "15",
+            "C": "16",
+            "D": "17"
+        }
+    },
+    {
+        "question": "A factory makes 328 toys per day. How many in 3 days?",
+        "answer": "B",
+        "options": {
+            "A": "974",
+            "B": "984",
+            "C": "994",
+            "D": "1004"
+        }
+    },
+    {
+        "question": "What is 819 \u00f7 9?",
+        "answer": "B",
+        "options": {
+            "A": "90",
+            "B": "91",
+            "C": "92",
+            "D": "93"
+        }
+    },
+    {
+        "question": "Which equals 5 \u00d7 6 \u00d7 4?",
+        "answer": "A",
+        "options": {
+            "A": "(5 \u00d7 4) \u00d7 6",
+            "B": "5 + 6 + 4",
+            "C": "5 \u00d7 (6 + 4)",
+            "D": "30 + 4"
+        }
+    },
+    {
+        "question": "What is 936 \u00f7 6?",
+        "answer": "C",
+        "options": {
+            "A": "152",
+            "B": "154",
+            "C": "156",
+            "D": "158"
+        }
+    },
+    {
+        "question": "A concert hall has 7 sections with 164 seats each. Total seats?",
+        "answer": "B",
+        "options": {
+            "A": "1138",
+            "B": "1148",
+            "C": "1158",
+            "D": "1168"
+        }
+    },
+    {
+        "question": "If 9 \u00d7 6 = 54, what is 540 \u00f7 6?",
+        "answer": "B",
+        "options": {
+            "A": "80",
+            "B": "90",
+            "C": "100",
+            "D": "110"
+        }
+    },
+    {
+        "question": "Which checks 517 + 289 = 806 using inverse operations?",
+        "answer": "B",
+        "options": {
+            "A": "806 + 289 = 517",
+            "B": "806 \u2013 289 = 517",
+            "C": "517 \u2013 289 = 806",
+            "D": "289 \u2013 517 = 806"
+        }
+    },
+    {
+        "question": "What is 356 \u00d7 4?",
+        "answer": "B",
+        "options": {
+            "A": "1414",
+            "B": "1424",
+            "C": "1434",
+            "D": "1444"
+        }
+    },
+    {
+        "question": "A theatre has 8 rows of 132 seats. Total seats?",
+        "answer": "B",
+        "options": {
+            "A": "1046",
+            "B": "1056",
+            "C": "1066",
+            "D": "1076"
+        }
+    },
+    {
+        "question": "What is 784 \u00f7 7?",
+        "answer": "B",
+        "options": {
+            "A": "110",
+            "B": "112",
+            "C": "114",
+            "D": "116"
+        }
+    },
+    {
+        "question": "Which uses distributive law for 94 \u00d7 3?",
+        "answer": "A",
+        "options": {
+            "A": "(90 \u00d7 3) + (4 \u00d7 3)",
+            "B": "90 \u00d7 (4 + 3)",
+            "C": "(94 + 3) \u00d7 1",
+            "D": "94 + 94 + 94"
+        }
+    },
+    {
+        "question": "5 ice cream flavours, 6 sauces. How many combinations?",
+        "answer": "C",
+        "options": {
+            "A": "11",
+            "B": "25",
+            "C": "30",
+            "D": "36"
+        }
+    },
+    {
+        "question": "What is 705 \u00d7 3?",
+        "answer": "B",
+        "options": {
+            "A": "2105",
+            "B": "2115",
+            "C": "2125",
+            "D": "2135"
+        }
+    },
+    {
+        "question": "What number completes: 13 \u00d7 ___ = 156?",
+        "answer": "C",
+        "options": {
+            "A": "10",
+            "B": "11",
+            "C": "12",
+            "D": "13"
+        }
+    },
+    {
+        "question": "A school buys 6 projectors at \u00a3247 each. Total cost?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a31472",
+            "B": "\u00a31482",
+            "C": "\u00a31492",
+            "D": "\u00a31502"
+        }
+    },
+    {
+        "question": "What is 864 \u00f7 9?",
+        "answer": "B",
+        "options": {
+            "A": "94",
+            "B": "96",
+            "C": "98",
+            "D": "100"
+        }
+    },
+    {
+        "question": "Which equals 7 \u00d7 3 \u00d7 10?",
+        "answer": "A",
+        "options": {
+            "A": "(7 \u00d7 10) \u00d7 3",
+            "B": "7 + 3 + 10",
+            "C": "7 \u00d7 (3 + 10)",
+            "D": "21 + 10"
+        }
+    },
+    {
+        "question": "What is 528 \u00d7 2?",
+        "answer": "B",
+        "options": {
+            "A": "1046",
+            "B": "1056",
+            "C": "1066",
+            "D": "1076"
+        }
+    },
+    {
+        "question": "Which is a factor pair of 96?",
+        "answer": "B",
+        "options": {
+            "A": "9 and 10",
+            "B": "8 and 12",
+            "C": "7 and 13",
+            "D": "6 and 15"
+        }
+    },
+    {
+        "question": "A farmer harvests 275 kg of potatoes daily. How much in 4 days?",
+        "answer": "B",
+        "options": {
+            "A": "1090 kg",
+            "B": "1100 kg",
+            "C": "1110 kg",
+            "D": "1120 kg"
+        }
+    },
+    {
+        "question": "What is 672 \u00f7 8?",
+        "answer": "B",
+        "options": {
+            "A": "82",
+            "B": "84",
+            "C": "86",
+            "D": "88"
+        }
+    },
+    {
+        "question": "Which shows commutativity?",
+        "answer": "C",
+        "options": {
+            "A": "10 \u00f7 1 = 10",
+            "B": "5 \u00d7 1 = 5",
+            "C": "6 \u00d7 8 = 8 \u00d7 6",
+            "D": "0 \u00d7 9 = 0"
+        }
+    },
+    {
+        "question": "4 soups and 7 main dishes. How many meal combos?",
+        "answer": "C",
+        "options": {
+            "A": "11",
+            "B": "24",
+            "C": "28",
+            "D": "35"
+        }
+    },
+    {
+        "question": "What is 483 \u00d7 3?",
+        "answer": "B",
+        "options": {
+            "A": "1439",
+            "B": "1449",
+            "C": "1459",
+            "D": "1469"
+        }
+    },
+    {
+        "question": "What is 915 \u00f7 5?",
+        "answer": "B",
+        "options": {
+            "A": "181",
+            "B": "183",
+            "C": "185",
+            "D": "187"
+        }
+    },
+    {
+        "question": "Use place value: 600 \u00f7 3 = ?",
+        "answer": "B",
+        "options": {
+            "A": "20",
+            "B": "200",
+            "C": "30",
+            "D": "300"
+        }
+    },
+    {
+        "question": "What is 609 \u00d7 4?",
+        "answer": "B",
+        "options": {
+            "A": "2426",
+            "B": "2436",
+            "C": "2446",
+            "D": "2456"
+        }
+    },
+    {
+        "question": "If 8 \u00d7 7 = 56, what is 5600 \u00f7 7?",
+        "answer": "B",
+        "options": {
+            "A": "700",
+            "B": "800",
+            "C": "900",
+            "D": "1000"
+        }
+    },
+    {
+        "question": "Erasers come in packs of 8. How many packs for 512 erasers?",
+        "answer": "C",
+        "options": {
+            "A": "62",
+            "B": "63",
+            "C": "64",
+            "D": "65"
+        }
+    },
+    {
+        "question": "Which is true about multiplying by 0?",
+        "answer": "C",
+        "options": {
+            "A": "It gives the original number",
+            "B": "It gives 1",
+            "C": "It gives 0",
+            "D": "It is not allowed"
+        }
+    },
+    {
+        "question": "What is 924 \u00f7 6?",
+        "answer": "B",
+        "options": {
+            "A": "152",
+            "B": "154",
+            "C": "156",
+            "D": "158"
+        }
+    },
+    {
+        "question": "Distributive law: 57 \u00d7 6 = ?",
+        "answer": "A",
+        "options": {
+            "A": "(50 \u00d7 6) + (7 \u00d7 6)",
+            "B": "(50 + 6) \u00d7 7",
+            "C": "50 \u00d7 (7 + 6)",
+            "D": "57 + 57 + 57 + 57 + 57 + 57"
+        }
+    },
+    {
+        "question": "6 shirt colours, 5 sizes. How many options?",
+        "answer": "C",
+        "options": {
+            "A": "11",
+            "B": "25",
+            "C": "30",
+            "D": "36"
+        }
+    },
+    {
+        "question": "What is 741 \u00d7 2?",
+        "answer": "B",
+        "options": {
+            "A": "1472",
+            "B": "1482",
+            "C": "1492",
+            "D": "1502"
+        }
+    },
+    {
+        "question": "What number completes: ___ \u00d7 9 = 108?",
+        "answer": "C",
+        "options": {
+            "A": "10",
+            "B": "11",
+            "C": "12",
+            "D": "13"
+        }
+    },
+    {
+        "question": "A train has 9 carriages with 124 seats each. Total seats?",
+        "answer": "B",
+        "options": {
+            "A": "1106",
+            "B": "1116",
+            "C": "1126",
+            "D": "1136"
+        }
+    },
+    {
+        "question": "What is 832 \u00f7 8?",
+        "answer": "B",
+        "options": {
+            "A": "102",
+            "B": "104",
+            "C": "106",
+            "D": "108"
+        }
+    },
+    {
+        "question": "Which equals 6 \u00d7 5 \u00d7 7?",
+        "answer": "A",
+        "options": {
+            "A": "(6 \u00d7 7) \u00d7 5",
+            "B": "6 + 5 + 7",
+            "C": "6 \u00d7 (5 + 7)",
+            "D": "30 + 7"
+        }
+    },
+    {
+        "question": "What is 396 \u00d7 3?",
+        "answer": "B",
+        "options": {
+            "A": "1178",
+            "B": "1188",
+            "C": "1198",
+            "D": "1208"
+        }
+    },
+    {
+        "question": "A warehouse stores 5 pallets with 192 boxes each. Total boxes?",
+        "answer": "B",
+        "options": {
+            "A": "950",
+            "B": "960",
+            "C": "970",
+            "D": "980"
+        }
+    },
+    {
+        "question": "What is 756 \u00f7 6?",
+        "answer": "B",
+        "options": {
+            "A": "124",
+            "B": "126",
+            "C": "128",
+            "D": "130"
+        }
+    },
+    {
+        "question": "If 7 \u00d7 9 = 63, what is 630 \u00f7 9?",
+        "answer": "B",
+        "options": {
+            "A": "60",
+            "B": "70",
+            "C": "80",
+            "D": "90"
+        }
+    },
+    {
+        "question": "Which checks 638 + 175 = 813?",
+        "answer": "B",
+        "options": {
+            "A": "813 + 175 = 638",
+            "B": "813 \u2013 175 = 638",
+            "C": "638 \u2013 175 = 813",
+            "D": "175 \u2013 638 = 813"
+        }
+    },
+    {
+        "question": "What is 467 \u00d7 2?",
+        "answer": "B",
+        "options": {
+            "A": "924",
+            "B": "934",
+            "C": "944",
+            "D": "954"
+        }
+    },
+    {
+        "question": "What is 882 \u00f7 7?",
+        "answer": "B",
+        "options": {
+            "A": "124",
+            "B": "126",
+            "C": "128",
+            "D": "130"
+        }
+    },
+    {
+        "question": "Which uses distributive law for 68 \u00d7 5?",
+        "answer": "A",
+        "options": {
+            "A": "(60 \u00d7 5) + (8 \u00d7 5)",
+            "B": "60 \u00d7 (8 + 5)",
+            "C": "(68 + 5) \u00d7 1",
+            "D": "68 \u00d7 10 \u00f7 2"
+        }
+    },
+    {
+        "question": "7 drink types, 4 snack types. How many combos?",
+        "answer": "C",
+        "options": {
+            "A": "11",
+            "B": "24",
+            "C": "28",
+            "D": "35"
+        }
+    },
+    {
+        "question": "What is 506 \u00d7 5?",
+        "answer": "B",
+        "options": {
+            "A": "2520",
+            "B": "2530",
+            "C": "2540",
+            "D": "2550"
+        }
+    },
+    {
+        "question": "What number completes: 14 \u00d7 ___ = 168?",
+        "answer": "C",
+        "options": {
+            "A": "10",
+            "B": "11",
+            "C": "12",
+            "D": "13"
+        }
+    },
+    {
+        "question": "A shop sells 8 bikes at \u00a3279 each. Total revenue?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a32222",
+            "B": "\u00a32232",
+            "C": "\u00a32242",
+            "D": "\u00a32252"
+        }
+    },
+    {
+        "question": "What is 945 \u00f7 9?",
+        "answer": "B",
+        "options": {
+            "A": "103",
+            "B": "105",
+            "C": "107",
+            "D": "109"
+        }
+    },
+    {
+        "question": "Which equals 8 \u00d7 3 \u00d7 5?",
+        "answer": "A",
+        "options": {
+            "A": "(8 \u00d7 5) \u00d7 3",
+            "B": "8 + 3 + 5",
+            "C": "8 \u00d7 (3 + 5)",
+            "D": "24 + 5"
+        }
+    },
+    {
+        "question": "What is 618 \u00d7 2?",
+        "answer": "B",
+        "options": {
+            "A": "1226",
+            "B": "1236",
+            "C": "1246",
+            "D": "1256"
+        }
+    },
+    {
+        "question": "Which is a factor pair of 100?",
+        "answer": "C",
+        "options": {
+            "A": "9 and 11",
+            "B": "8 and 12",
+            "C": "10 and 10",
+            "D": "7 and 14"
+        }
+    },
+    {
+        "question": "A baker bakes 342 loaves per day. How many in 3 days?",
+        "answer": "B",
+        "options": {
+            "A": "1016",
+            "B": "1026",
+            "C": "1036",
+            "D": "1046"
+        }
+    },
+    {
+        "question": "What is 792 \u00f7 8?",
+        "answer": "B",
+        "options": {
+            "A": "97",
+            "B": "99",
+            "C": "101",
+            "D": "103"
+        }
+    },
+    {
+        "question": "Which shows commutativity?",
+        "answer": "C",
+        "options": {
+            "A": "12 \u00f7 1 = 12",
+            "B": "0 \u00d7 5 = 0",
+            "C": "4 \u00d7 9 = 9 \u00d7 4",
+            "D": "1 \u00d7 6 = 6"
+        }
+    },
+    {
+        "question": "5 desserts, 6 drinks. How many combos?",
+        "answer": "C",
+        "options": {
+            "A": "11",
+            "B": "25",
+            "C": "30",
+            "D": "36"
+        }
+    },
+    {
+        "question": "What is 539 \u00d7 2?",
+        "answer": "B",
+        "options": {
+            "A": "1068",
+            "B": "1078",
+            "C": "1088",
+            "D": "1098"
+        }
+    },
+    {
+        "question": "What is 861 \u00f7 7?",
+        "answer": "B",
+        "options": {
+            "A": "121",
+            "B": "123",
+            "C": "125",
+            "D": "127"
+        }
+    },
+    {
+        "question": "Use place value: 900 \u00f7 3 = ?",
+        "answer": "B",
+        "options": {
+            "A": "30",
+            "B": "300",
+            "C": "40",
+            "D": "400"
+        }
+    },
+    {
+        "question": "What is 704 \u00d7 3?",
+        "answer": "B",
+        "options": {
+            "A": "2102",
+            "B": "2112",
+            "C": "2122",
+            "D": "2132"
+        }
+    },
+    {
+        "question": "If 9 \u00d7 8 = 72, what is 7200 \u00f7 8?",
+        "answer": "B",
+        "options": {
+            "A": "800",
+            "B": "900",
+            "C": "1000",
+            "D": "1100"
+        }
+    },
+    {
+        "question": "Markers come in packs of 6. How many packs for 432 markers?",
+        "answer": "C",
+        "options": {
+            "A": "70",
+            "B": "71",
+            "C": "72",
+            "D": "73"
+        }
+    },
+    {
+        "question": "Which is true about dividing by 1?",
+        "answer": "D",
+        "options": {
+            "A": "It gives 0",
+            "B": "It gives 1",
+            "C": "It changes the number",
+            "D": "It gives the same number"
+        }
+    },
+    {
+        "question": "What is 855 \u00f7 5?",
+        "answer": "B",
+        "options": {
+            "A": "170",
+            "B": "171",
+            "C": "172",
+            "D": "173"
+        }
+    },
+    {
+        "question": "Distributive law: 79 \u00d7 4 = ?",
+        "answer": "A",
+        "options": {
+            "A": "(70 \u00d7 4) + (9 \u00d7 4)",
+            "B": "(70 + 4) \u00d7 9",
+            "C": "70 \u00d7 (9 + 4)",
+            "D": "79 \u00d7 2 \u00d7 2"
+        }
+    },
+    {
+        "question": "8 hat styles, 3 colours. How many options?",
+        "answer": "C",
+        "options": {
+            "A": "11",
+            "B": "21",
+            "C": "24",
+            "D": "32"
+        }
+    },
+    {
+        "question": "A cube has sides of 6 cm. What is its volume in cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "216 cm\u00b3",
+            "B": "36 cm\u00b2",
+            "C": "18 cm\u00b3",
+            "D": "144 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many centimetres are in 3.7 metres?",
+        "answer": "A",
+        "options": {
+            "A": "370 cm",
+            "B": "37 cm",
+            "C": "3,700 cm",
+            "D": "3.7 cm"
+        }
+    },
+    {
+        "question": "How many millilitres are in 4.9 litres?",
+        "answer": "A",
+        "options": {
+            "A": "4,900 mL",
+            "B": "490 mL",
+            "C": "49 mL",
+            "D": "49,000 mL"
+        }
+    },
+    {
+        "question": "How many grams are in 7.2 kilograms?",
+        "answer": "A",
+        "options": {
+            "A": "7,200 g",
+            "B": "720 g",
+            "C": "72 g",
+            "D": "72,000 g"
+        }
+    },
+    {
+        "question": "How many millimetres are in 14.3 centimetres?",
+        "answer": "A",
+        "options": {
+            "A": "143 mm",
+            "B": "14.3 mm",
+            "C": "1,430 mm",
+            "D": "1.43 mm"
+        }
+    },
+    {
+        "question": "How many metres are in 2.8 kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "2,800 m",
+            "B": "280 m",
+            "C": "28 m",
+            "D": "28,000 m"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 9 inches?",
+        "answer": "A",
+        "options": {
+            "A": "22.5 cm",
+            "B": "9 cm",
+            "C": "25 cm",
+            "D": "30 cm"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 4 pints?",
+        "answer": "A",
+        "options": {
+            "A": "2,280 mL",
+            "B": "570 mL",
+            "C": "1,000 mL",
+            "D": "4,000 mL"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 4 pounds (lb)?",
+        "answer": "A",
+        "options": {
+            "A": "1,800 g",
+            "B": "450 g",
+            "C": "1 kg",
+            "D": "400 g"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle with length 15 cm and width 5 cm?",
+        "answer": "A",
+        "options": {
+            "A": "40 cm",
+            "B": "75 cm",
+            "C": "20 cm",
+            "D": "45 cm"
+        }
+    },
+    {
+        "question": "What is the area of a square with side 13 cm?",
+        "answer": "A",
+        "options": {
+            "A": "169 cm\u00b2",
+            "B": "52 cm\u00b2",
+            "C": "26 cm\u00b2",
+            "D": "156 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle with length 19 cm and width 4 cm?",
+        "answer": "A",
+        "options": {
+            "A": "76 cm\u00b2",
+            "B": "46 cm\u00b2",
+            "C": "23 cm\u00b2",
+            "D": "80 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 8 days?",
+        "answer": "A",
+        "options": {
+            "A": "192 hours",
+            "B": "168 hours",
+            "C": "144 hours",
+            "D": "216 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 9 hours?",
+        "answer": "A",
+        "options": {
+            "A": "540 minutes",
+            "B": "480 minutes",
+            "C": "420 minutes",
+            "D": "600 minutes"
+        }
+    },
+    {
+        "question": "How many seconds are in 15 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "900 seconds",
+            "B": "150 seconds",
+            "C": "600 seconds",
+            "D": "360 seconds"
+        }
+    },
+    {
+        "question": "A tank holds 5.5 litres. How many millilitres is this?",
+        "answer": "A",
+        "options": {
+            "A": "5,500 mL",
+            "B": "550 mL",
+            "C": "55 mL",
+            "D": "55,000 mL"
+        }
+    },
+    {
+        "question": "A suitcase weighs 4.25 kg. How many grams is this?",
+        "answer": "A",
+        "options": {
+            "A": "4,250 g",
+            "B": "425 g",
+            "C": "42.5 g",
+            "D": "42,500 g"
+        }
+    },
+    {
+        "question": "A desk is 160 cm long. How many millimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "1,600 mm",
+            "B": "160 mm",
+            "C": "16,000 mm",
+            "D": "16 mm"
+        }
+    },
+    {
+        "question": "A field is 40 m long and 6 m wide. What is its area?",
+        "answer": "A",
+        "options": {
+            "A": "240 m\u00b2",
+            "B": "92 m\u00b2",
+            "C": "46 m\u00b2",
+            "D": "280 m\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle has a perimeter of 38 cm and a width of 8 cm. What is its length?",
+        "answer": "A",
+        "options": {
+            "A": "11 cm",
+            "B": "13 cm",
+            "C": "10 cm",
+            "D": "12 cm"
+        }
+    },
+    {
+        "question": "How many weeks are in 56 days?",
+        "answer": "A",
+        "options": {
+            "A": "8 weeks",
+            "B": "7 weeks",
+            "C": "9 weeks",
+            "D": "10 weeks"
+        }
+    },
+    {
+        "question": "How many days are in 11 weeks?",
+        "answer": "A",
+        "options": {
+            "A": "77 days",
+            "B": "70 days",
+            "C": "84 days",
+            "D": "63 days"
+        }
+    },
+    {
+        "question": "A tablespoon holds 15 mL. How many litres is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.015 L",
+            "B": "0.15 L",
+            "C": "1.5 L",
+            "D": "15 L"
+        }
+    },
+    {
+        "question": "A bag of sugar weighs 800 g. How many kilograms is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.8 kg",
+            "B": "8 kg",
+            "C": "80 kg",
+            "D": "0.08 kg"
+        }
+    },
+    {
+        "question": "A paperclip is 38 mm long. How many centimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "3.8 cm",
+            "B": "38 cm",
+            "C": "0.38 cm",
+            "D": "380 cm"
+        }
+    },
+    {
+        "question": "A basketball court is 28 m long and 15 m wide. What is its perimeter?",
+        "answer": "A",
+        "options": {
+            "A": "86 m",
+            "B": "420 m",
+            "C": "43 m",
+            "D": "90 m"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle that is 16 cm by 11 cm?",
+        "answer": "A",
+        "options": {
+            "A": "176 cm\u00b2",
+            "B": "54 cm\u00b2",
+            "C": "27 cm\u00b2",
+            "D": "180 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 660 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "11 hours",
+            "B": "10 hours",
+            "C": "12 hours",
+            "D": "6.6 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 780 seconds?",
+        "answer": "A",
+        "options": {
+            "A": "13 minutes",
+            "B": "12 minutes",
+            "C": "14 minutes",
+            "D": "78 minutes"
+        }
+    },
+    {
+        "question": "A cuboid is 7 cm long, 4 cm wide, and 2 cm tall. What is its volume in cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "56 cm\u00b3",
+            "B": "13 cm\u00b3",
+            "C": "28 cm\u00b3",
+            "D": "42 cm\u00b3"
+        }
+    },
+    {
+        "question": "What is 527 \u00d7 4?",
+        "answer": "A",
+        "options": {
+            "A": "2108",
+            "B": "2098",
+            "C": "2118",
+            "D": "2088"
+        }
+    },
+    {
+        "question": "Which expression uses the distributive law for 84 \u00d7 6?",
+        "answer": "A",
+        "options": {
+            "A": "(80 \u00d7 6) + (4 \u00d7 6)",
+            "B": "(80 + 6) \u00d7 4",
+            "C": "80 \u00d7 (4 + 6)",
+            "D": "(84 + 6) \u00d7 1"
+        }
+    },
+    {
+        "question": "A box contains 173 oranges. How many in 6 boxes?",
+        "answer": "B",
+        "options": {
+            "A": "1028",
+            "B": "1038",
+            "C": "1048",
+            "D": "1058"
+        }
+    },
+    {
+        "question": "What is 912 \u00f7 8?",
+        "answer": "B",
+        "options": {
+            "A": "112",
+            "B": "114",
+            "C": "116",
+            "D": "118"
+        }
+    },
+    {
+        "question": "Which is a factor pair of 90?",
+        "answer": "A",
+        "options": {
+            "A": "9 and 10",
+            "B": "8 and 11",
+            "C": "7 and 12",
+            "D": "6 and 14"
+        }
+    },
+    {
+        "question": "Calculate 7 \u00d7 5 \u00d7 4 by rearranging.",
+        "answer": "C",
+        "options": {
+            "A": "120",
+            "B": "130",
+            "C": "140",
+            "D": "150"
+        }
+    },
+    {
+        "question": "Jasmine has \u00a3600. She buys 5 chairs at \u00a3109 each. How much is left?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a345",
+            "B": "\u00a355",
+            "C": "\u00a365",
+            "D": "\u00a375"
+        }
+    },
+    {
+        "question": "Which equals 72 \u00d7 5?",
+        "answer": "A",
+        "options": {
+            "A": "(70 \u00d7 5) + (2 \u00d7 5)",
+            "B": "(70 + 5) \u00d7 2",
+            "C": "72 + 72 + 72 + 72 + 72",
+            "D": "350"
+        }
+    },
+    {
+        "question": "What is 630 \u00f7 9?",
+        "answer": "B",
+        "options": {
+            "A": "60",
+            "B": "70",
+            "C": "80",
+            "D": "90"
+        }
+    },
+    {
+        "question": "A lorry carries 7 pallets. Each weighs 158 kg. Total weight?",
+        "answer": "B",
+        "options": {
+            "A": "1096 kg",
+            "B": "1106 kg",
+            "C": "1116 kg",
+            "D": "1126 kg"
+        }
+    },
+    {
+        "question": "Which shows commutativity of multiplication?",
+        "answer": "C",
+        "options": {
+            "A": "15 \u00f7 1 = 15",
+            "B": "0 \u00d7 12 = 0",
+            "C": "5 \u00d7 9 = 9 \u00d7 5",
+            "D": "1 \u00d7 8 = 8"
+        }
+    },
+    {
+        "question": "A caf\u00e9 offers 8 cakes and 6 drinks. How many cake-drink combos?",
+        "answer": "C",
+        "options": {
+            "A": "14",
+            "B": "42",
+            "C": "48",
+            "D": "56"
+        }
+    },
+    {
+        "question": "What is 756 \u00f7 9?",
+        "answer": "B",
+        "options": {
+            "A": "82",
+            "B": "84",
+            "C": "86",
+            "D": "88"
+        }
+    },
+    {
+        "question": "Which is equal to (4 \u00d7 3) \u00d7 5?",
+        "answer": "A",
+        "options": {
+            "A": "4 \u00d7 (3 \u00d7 5)",
+            "B": "4 + 3 \u00d7 5",
+            "C": "(4 + 3) \u00d7 5",
+            "D": "12 + 5"
+        }
+    },
+    {
+        "question": "What number multiplied by 1 gives 509?",
+        "answer": "D",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "508",
+            "D": "509"
+        }
+    },
+    {
+        "question": "What is 469 \u00d7 3?",
+        "answer": "A",
+        "options": {
+            "A": "1407",
+            "B": "1417",
+            "C": "1427",
+            "D": "1437"
+        }
+    },
+    {
+        "question": "Which is NOT a factor pair of 96?",
+        "answer": "D",
+        "options": {
+            "A": "12 and 8",
+            "B": "16 and 6",
+            "C": "24 and 4",
+            "D": "10 and 9"
+        }
+    },
+    {
+        "question": "A factory produces 287 units per hour. How many in 3 hours?",
+        "answer": "B",
+        "options": {
+            "A": "851",
+            "B": "861",
+            "C": "871",
+            "D": "881"
+        }
+    },
+    {
+        "question": "What is 840 \u00f7 7?",
+        "answer": "B",
+        "options": {
+            "A": "110",
+            "B": "120",
+            "C": "130",
+            "D": "140"
+        }
+    },
+    {
+        "question": "Which equals 6 \u00d7 8 \u00d7 5?",
+        "answer": "A",
+        "options": {
+            "A": "(6 \u00d7 5) \u00d7 8",
+            "B": "6 + 8 + 5",
+            "C": "6 \u00d7 (8 + 5)",
+            "D": "48 + 5"
+        }
+    },
+    {
+        "question": "A school hires 4 coaches. Each seats 139 pupils. Total capacity?",
+        "answer": "B",
+        "options": {
+            "A": "546",
+            "B": "556",
+            "C": "566",
+            "D": "576"
+        }
+    },
+    {
+        "question": "What is 861 \u00f7 3?",
+        "answer": "B",
+        "options": {
+            "A": "285",
+            "B": "287",
+            "C": "289",
+            "D": "291"
+        }
+    },
+    {
+        "question": "How can you use place value to find 800 \u00f7 4?",
+        "answer": "B",
+        "options": {
+            "A": "8 \u00f7 4 = 2, so 800 \u00f7 4 = 20",
+            "B": "8 \u00f7 4 = 2, so 800 \u00f7 4 = 200",
+            "C": "80 \u00f7 4 = 20, so 800 \u00f7 4 = 20",
+            "D": "800 \u00f7 10 = 80"
+        }
+    },
+    {
+        "question": "What is 608 \u00d7 5?",
+        "answer": "B",
+        "options": {
+            "A": "3030",
+            "B": "3040",
+            "C": "3050",
+            "D": "3060"
+        }
+    },
+    {
+        "question": "If 7 \u00d7 6 = 42, what is 4200 \u00f7 6?",
+        "answer": "B",
+        "options": {
+            "A": "600",
+            "B": "700",
+            "C": "800",
+            "D": "900"
+        }
+    },
+    {
+        "question": "Pens are sold in packs of 7. How many packs for 511 pens?",
+        "answer": "C",
+        "options": {
+            "A": "71",
+            "B": "72",
+            "C": "73",
+            "D": "74"
+        }
+    },
+    {
+        "question": "Which statement is true?",
+        "answer": "C",
+        "options": {
+            "A": "Dividing by 1 gives 0",
+            "B": "Multiplying by 0 gives the number",
+            "C": "Dividing a number by itself gives 1",
+            "D": "Multiplying by 1 gives 0"
+        }
+    },
+    {
+        "question": "What is 936 \u00f7 8?",
+        "answer": "B",
+        "options": {
+            "A": "115",
+            "B": "117",
+            "C": "119",
+            "D": "121"
+        }
+    },
+    {
+        "question": "Use distributive law: 93 \u00d7 4 = ?",
+        "answer": "A",
+        "options": {
+            "A": "(90 \u00d7 4) + (3 \u00d7 4)",
+            "B": "(90 + 4) \u00d7 3",
+            "C": "90 \u00d7 (3 + 4)",
+            "D": "93 + 93 + 93 + 93"
+        }
+    },
+    {
+        "question": "4 types of crisps and 9 drinks. How many snack combos?",
+        "answer": "C",
+        "options": {
+            "A": "13",
+            "B": "32",
+            "C": "36",
+            "D": "45"
+        }
+    },
+    {
+        "question": "What is 714 \u00d7 2?",
+        "answer": "B",
+        "options": {
+            "A": "1418",
+            "B": "1428",
+            "C": "1438",
+            "D": "1448"
+        }
+    },
+    {
+        "question": "What number completes: ___ \u00d7 8 = 136?",
+        "answer": "C",
+        "options": {
+            "A": "15",
+            "B": "16",
+            "C": "17",
+            "D": "18"
+        }
+    },
+    {
+        "question": "A farm packs 329 eggs per day. How many in 3 days?",
+        "answer": "B",
+        "options": {
+            "A": "977",
+            "B": "987",
+            "C": "997",
+            "D": "1007"
+        }
+    },
+    {
+        "question": "What is 728 \u00f7 7?",
+        "answer": "B",
+        "options": {
+            "A": "102",
+            "B": "104",
+            "C": "106",
+            "D": "108"
+        }
+    },
+    {
+        "question": "Which equals 9 \u00d7 2 \u00d7 6?",
+        "answer": "A",
+        "options": {
+            "A": "(9 \u00d7 6) \u00d7 2",
+            "B": "9 + 2 + 6",
+            "C": "9 \u00d7 (2 + 6)",
+            "D": "18 + 6"
+        }
+    },
+    {
+        "question": "What is 864 \u00f7 4?",
+        "answer": "C",
+        "options": {
+            "A": "212",
+            "B": "214",
+            "C": "216",
+            "D": "218"
+        }
+    },
+    {
+        "question": "A stadium has 6 stands with 187 seats each. Total seats?",
+        "answer": "B",
+        "options": {
+            "A": "1112",
+            "B": "1122",
+            "C": "1132",
+            "D": "1142"
+        }
+    },
+    {
+        "question": "If 8 \u00d7 5 = 40, what is 400 \u00f7 5?",
+        "answer": "B",
+        "options": {
+            "A": "70",
+            "B": "80",
+            "C": "90",
+            "D": "100"
+        }
+    },
+    {
+        "question": "Which checks 429 + 387 = 816 using inverse operations?",
+        "answer": "B",
+        "options": {
+            "A": "816 + 387 = 429",
+            "B": "816 \u2013 387 = 429",
+            "C": "429 \u2013 387 = 816",
+            "D": "387 \u2013 429 = 816"
+        }
+    },
+    {
+        "question": "What is 398 \u00d7 3?",
+        "answer": "B",
+        "options": {
+            "A": "1184",
+            "B": "1194",
+            "C": "1204",
+            "D": "1214"
+        }
+    },
+    {
+        "question": "A cinema has 9 rows of 126 seats. Total seats?",
+        "answer": "B",
+        "options": {
+            "A": "1124",
+            "B": "1134",
+            "C": "1144",
+            "D": "1154"
+        }
+    },
+    {
+        "question": "What is 819 \u00f7 7?",
+        "answer": "B",
+        "options": {
+            "A": "115",
+            "B": "117",
+            "C": "119",
+            "D": "121"
+        }
+    },
+    {
+        "question": "Which uses distributive law for 67 \u00d7 5?",
+        "answer": "A",
+        "options": {
+            "A": "(60 \u00d7 5) + (7 \u00d7 5)",
+            "B": "60 \u00d7 (7 + 5)",
+            "C": "(67 + 5) \u00d7 1",
+            "D": "67 \u00d7 10 \u00f7 2"
+        }
+    },
+    {
+        "question": "6 pizza toppings and 5 bases. How many combinations?",
+        "answer": "C",
+        "options": {
+            "A": "11",
+            "B": "25",
+            "C": "30",
+            "D": "36"
+        }
+    },
+    {
+        "question": "What is 803 \u00d7 4?",
+        "answer": "B",
+        "options": {
+            "A": "3202",
+            "B": "3212",
+            "C": "3222",
+            "D": "3232"
+        }
+    },
+    {
+        "question": "What number completes: 15 \u00d7 ___ = 180?",
+        "answer": "C",
+        "options": {
+            "A": "10",
+            "B": "11",
+            "C": "12",
+            "D": "13"
+        }
+    },
+    {
+        "question": "A shop sells 7 laptops at \u00a3328 each. Total cost?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a32286",
+            "B": "\u00a32296",
+            "C": "\u00a32306",
+            "D": "\u00a32316"
+        }
+    },
+    {
+        "question": "What is 972 \u00f7 6?",
+        "answer": "B",
+        "options": {
+            "A": "160",
+            "B": "162",
+            "C": "164",
+            "D": "166"
+        }
+    },
+    {
+        "question": "Which equals 5 \u00d7 7 \u00d7 4?",
+        "answer": "A",
+        "options": {
+            "A": "(5 \u00d7 4) \u00d7 7",
+            "B": "5 + 7 + 4",
+            "C": "5 \u00d7 (7 + 4)",
+            "D": "35 + 4"
+        }
+    },
+    {
+        "question": "What is 642 \u00d7 2?",
+        "answer": "B",
+        "options": {
+            "A": "1274",
+            "B": "1284",
+            "C": "1294",
+            "D": "1304"
+        }
+    },
+    {
+        "question": "Which is a factor pair of 108?",
+        "answer": "C",
+        "options": {
+            "A": "9 and 11",
+            "B": "8 and 13",
+            "C": "12 and 9",
+            "D": "7 and 15"
+        }
+    },
+    {
+        "question": "A baker makes 294 loaves per day. How many in 3 days?",
+        "answer": "B",
+        "options": {
+            "A": "872",
+            "B": "882",
+            "C": "892",
+            "D": "902"
+        }
+    },
+    {
+        "question": "What is 702 \u00f7 9?",
+        "answer": "B",
+        "options": {
+            "A": "76",
+            "B": "78",
+            "C": "80",
+            "D": "82"
+        }
+    },
+    {
+        "question": "Which shows commutativity?",
+        "answer": "C",
+        "options": {
+            "A": "14 \u00f7 1 = 14",
+            "B": "1 \u00d7 9 = 9",
+            "C": "7 \u00d7 6 = 6 \u00d7 7",
+            "D": "0 \u00d7 11 = 0"
+        }
+    },
+    {
+        "question": "5 types of juice and 8 snacks. How many combos?",
+        "answer": "C",
+        "options": {
+            "A": "13",
+            "B": "35",
+            "C": "40",
+            "D": "48"
+        }
+    },
+    {
+        "question": "What is 573 \u00d7 2?",
+        "answer": "B",
+        "options": {
+            "A": "1136",
+            "B": "1146",
+            "C": "1156",
+            "D": "1166"
+        }
+    },
+    {
+        "question": "What is 896 \u00f7 8?",
+        "answer": "B",
+        "options": {
+            "A": "110",
+            "B": "112",
+            "C": "114",
+            "D": "116"
+        }
+    },
+    {
+        "question": "Use place value: 700 \u00f7 7 = ?",
+        "answer": "B",
+        "options": {
+            "A": "10",
+            "B": "100",
+            "C": "70",
+            "D": "700"
+        }
+    },
+    {
+        "question": "What is 906 \u00d7 3?",
+        "answer": "B",
+        "options": {
+            "A": "2708",
+            "B": "2718",
+            "C": "2728",
+            "D": "2738"
+        }
+    },
+    {
+        "question": "If 6 \u00d7 9 = 54, what is 5400 \u00f7 9?",
+        "answer": "B",
+        "options": {
+            "A": "500",
+            "B": "600",
+            "C": "700",
+            "D": "800"
+        }
+    },
+    {
+        "question": "Books are packed in boxes of 9. How many boxes for 639 books?",
+        "answer": "B",
+        "options": {
+            "A": "70",
+            "B": "71",
+            "C": "72",
+            "D": "73"
+        }
+    },
+    {
+        "question": "Which is true about multiplying by 1?",
+        "answer": "D",
+        "options": {
+            "A": "It gives 0",
+            "B": "It gives 1",
+            "C": "It changes the number",
+            "D": "It gives the same number"
+        }
+    },
+    {
+        "question": "What is 945 \u00f7 5?",
+        "answer": "B",
+        "options": {
+            "A": "187",
+            "B": "189",
+            "C": "191",
+            "D": "193"
+        }
+    },
+    {
+        "question": "Distributive law: 88 \u00d7 3 = ?",
+        "answer": "A",
+        "options": {
+            "A": "(80 \u00d7 3) + (8 \u00d7 3)",
+            "B": "(80 + 3) \u00d7 8",
+            "C": "80 \u00d7 (8 + 3)",
+            "D": "88 + 88 + 88"
+        }
+    },
+    {
+        "question": "7 colours of pens and 4 tip sizes. How many options?",
+        "answer": "C",
+        "options": {
+            "A": "11",
+            "B": "24",
+            "C": "28",
+            "D": "35"
+        }
+    },
+    {
+        "question": "What is 681 \u00d7 2?",
+        "answer": "B",
+        "options": {
+            "A": "1352",
+            "B": "1362",
+            "C": "1372",
+            "D": "1382"
+        }
+    },
+    {
+        "question": "What number completes: ___ \u00d7 6 = 114?",
+        "answer": "C",
+        "options": {
+            "A": "17",
+            "B": "18",
+            "C": "19",
+            "D": "20"
+        }
+    },
+    {
+        "question": "A train has 8 carriages with 143 seats each. Total seats?",
+        "answer": "B",
+        "options": {
+            "A": "1134",
+            "B": "1144",
+            "C": "1154",
+            "D": "1164"
+        }
+    },
+    {
+        "question": "What is 768 \u00f7 6?",
+        "answer": "B",
+        "options": {
+            "A": "126",
+            "B": "128",
+            "C": "130",
+            "D": "132"
+        }
+    },
+    {
+        "question": "Which equals 4 \u00d7 9 \u00d7 5?",
+        "answer": "A",
+        "options": {
+            "A": "(4 \u00d7 5) \u00d7 9",
+            "B": "4 + 9 + 5",
+            "C": "4 \u00d7 (9 + 5)",
+            "D": "36 + 5"
+        }
+    },
+    {
+        "question": "What is 489 \u00d7 3?",
+        "answer": "B",
+        "options": {
+            "A": "1457",
+            "B": "1467",
+            "C": "1477",
+            "D": "1487"
+        }
+    },
+    {
+        "question": "A warehouse stores 6 racks with 167 boxes each. Total boxes?",
+        "answer": "B",
+        "options": {
+            "A": "992",
+            "B": "1002",
+            "C": "1012",
+            "D": "1022"
+        }
+    },
+    {
+        "question": "What is 828 \u00f7 6?",
+        "answer": "B",
+        "options": {
+            "A": "136",
+            "B": "138",
+            "C": "140",
+            "D": "142"
+        }
+    },
+    {
+        "question": "If 5 \u00d7 8 = 40, what is 4000 \u00f7 8?",
+        "answer": "B",
+        "options": {
+            "A": "400",
+            "B": "500",
+            "C": "600",
+            "D": "700"
+        }
+    },
+    {
+        "question": "Which checks 563 + 279 = 842?",
+        "answer": "B",
+        "options": {
+            "A": "842 + 279 = 563",
+            "B": "842 \u2013 279 = 563",
+            "C": "563 \u2013 279 = 842",
+            "D": "279 \u2013 563 = 842"
+        }
+    },
+    {
+        "question": "What is 527 \u00d7 2?",
+        "answer": "B",
+        "options": {
+            "A": "1044",
+            "B": "1054",
+            "C": "1064",
+            "D": "1074"
+        }
+    },
+    {
+        "question": "What is 924 \u00f7 7?",
+        "answer": "B",
+        "options": {
+            "A": "130",
+            "B": "132",
+            "C": "134",
+            "D": "136"
+        }
+    },
+    {
+        "question": "Which uses distributive law for 76 \u00d7 4?",
+        "answer": "A",
+        "options": {
+            "A": "(70 \u00d7 4) + (6 \u00d7 4)",
+            "B": "70 \u00d7 (6 + 4)",
+            "C": "(76 + 4) \u00d7 1",
+            "D": "76 \u00d7 2 \u00d7 2"
+        }
+    },
+    {
+        "question": "9 flavours of yogurt and 3 toppings. How many combos?",
+        "answer": "C",
+        "options": {
+            "A": "12",
+            "B": "24",
+            "C": "27",
+            "D": "36"
+        }
+    },
+    {
+        "question": "What is 709 \u00d7 4?",
+        "answer": "B",
+        "options": {
+            "A": "2826",
+            "B": "2836",
+            "C": "2846",
+            "D": "2856"
+        }
+    },
+    {
+        "question": "What number completes: 18 \u00d7 ___ = 216?",
+        "answer": "C",
+        "options": {
+            "A": "10",
+            "B": "11",
+            "C": "12",
+            "D": "13"
+        }
+    },
+    {
+        "question": "A garage repairs 5 cars at \u00a3269 each. Total earnings?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a31335",
+            "B": "\u00a31345",
+            "C": "\u00a31355",
+            "D": "\u00a31365"
+        }
+    },
+    {
+        "question": "What is 864 \u00f7 6?",
+        "answer": "B",
+        "options": {
+            "A": "142",
+            "B": "144",
+            "C": "146",
+            "D": "148"
+        }
+    },
+    {
+        "question": "Which equals 3 \u00d7 7 \u00d7 10?",
+        "answer": "A",
+        "options": {
+            "A": "(3 \u00d7 10) \u00d7 7",
+            "B": "3 + 7 + 10",
+            "C": "3 \u00d7 (7 + 10)",
+            "D": "21 + 10"
+        }
+    },
+    {
+        "question": "What is 531 \u00d7 2?",
+        "answer": "B",
+        "options": {
+            "A": "1052",
+            "B": "1062",
+            "C": "1072",
+            "D": "1082"
+        }
+    },
+    {
+        "question": "Which is a factor pair of 120?",
+        "answer": "B",
+        "options": {
+            "A": "11 and 10",
+            "B": "12 and 10",
+            "C": "13 and 9",
+            "D": "14 and 8"
+        }
+    },
+    {
+        "question": "A printer prints 358 pages per hour. How many in 2 hours?",
+        "answer": "B",
+        "options": {
+            "A": "706",
+            "B": "716",
+            "C": "726",
+            "D": "736"
+        }
+    },
+    {
+        "question": "What is 936 \u00f7 9?",
+        "answer": "B",
+        "options": {
+            "A": "102",
+            "B": "104",
+            "C": "106",
+            "D": "108"
+        }
+    },
+    {
+        "question": "Which shows commutativity?",
+        "answer": "C",
+        "options": {
+            "A": "13 \u00f7 1 = 13",
+            "B": "2 \u00d7 1 = 2",
+            "C": "8 \u00d7 5 = 5 \u00d7 8",
+            "D": "0 \u00d7 10 = 0"
+        }
+    },
+    {
+        "question": "6 types of bread and 7 fillings. How many sandwich combos?",
+        "answer": "C",
+        "options": {
+            "A": "13",
+            "B": "36",
+            "C": "42",
+            "D": "49"
+        }
+    },
+    {
+        "question": "What is 649 \u00d7 2?",
+        "answer": "B",
+        "options": {
+            "A": "1288",
+            "B": "1298",
+            "C": "1308",
+            "D": "1318"
+        }
+    },
+    {
+        "question": "What is 798 \u00f7 6?",
+        "answer": "B",
+        "options": {
+            "A": "131",
+            "B": "133",
+            "C": "135",
+            "D": "137"
+        }
+    },
+    {
+        "question": "Use place value: 900 \u00f7 9 = ?",
+        "answer": "B",
+        "options": {
+            "A": "10",
+            "B": "100",
+            "C": "90",
+            "D": "900"
+        }
+    },
+    {
+        "question": "What is 807 \u00d7 3?",
+        "answer": "B",
+        "options": {
+            "A": "2411",
+            "B": "2421",
+            "C": "2431",
+            "D": "2441"
+        }
+    },
+    {
+        "question": "If 9 \u00d7 7 = 63, what is 6300 \u00f7 7?",
+        "answer": "B",
+        "options": {
+            "A": "800",
+            "B": "900",
+            "C": "1000",
+            "D": "1100"
+        }
+    },
+    {
+        "question": "Notebooks come in packs of 8. How many packs for 584 notebooks?",
+        "answer": "C",
+        "options": {
+            "A": "71",
+            "B": "72",
+            "C": "73",
+            "D": "74"
+        }
+    },
+    {
+        "question": "Which is true about dividing by 1?",
+        "answer": "D",
+        "options": {
+            "A": "It gives 0",
+            "B": "It gives 1",
+            "C": "It changes the number",
+            "D": "It gives the same number"
+        }
+    },
+    {
+        "question": "What is 915 \u00f7 3?",
+        "answer": "B",
+        "options": {
+            "A": "303",
+            "B": "305",
+            "C": "307",
+            "D": "309"
+        }
+    },
+    {
+        "question": "Distributive law: 92 \u00d7 5 = ?",
+        "answer": "A",
+        "options": {
+            "A": "(90 \u00d7 5) + (2 \u00d7 5)",
+            "B": "(90 + 5) \u00d7 2",
+            "C": "90 \u00d7 (2 + 5)",
+            "D": "92 \u00d7 10 \u00f7 2"
+        }
+    },
+    {
+        "question": "10 styles of shoes and 3 colours. How many options?",
+        "answer": "C",
+        "options": {
+            "A": "13",
+            "B": "27",
+            "C": "30",
+            "D": "36"
+        }
+    },
+    {
+        "question": "A cuboid is 7 cm long, 4 cm wide, and 2 cm tall. What is its volume in cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "56 cm\u00b3",
+            "B": "13 cm\u00b2",
+            "C": "28 cm\u00b3",
+            "D": "42 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many centimetres are in 4.9 metres?",
+        "answer": "A",
+        "options": {
+            "A": "490 cm",
+            "B": "49 cm",
+            "C": "4,900 cm",
+            "D": "4.9 cm"
+        }
+    },
+    {
+        "question": "How many millilitres are in 6.3 litres?",
+        "answer": "A",
+        "options": {
+            "A": "6,300 mL",
+            "B": "630 mL",
+            "C": "63 mL",
+            "D": "63,000 mL"
+        }
+    },
+    {
+        "question": "How many grams are in 8.6 kilograms?",
+        "answer": "A",
+        "options": {
+            "A": "8,600 g",
+            "B": "860 g",
+            "C": "86 g",
+            "D": "86,000 g"
+        }
+    },
+    {
+        "question": "How many millimetres are in 16.9 centimetres?",
+        "answer": "A",
+        "options": {
+            "A": "169 mm",
+            "B": "16.9 mm",
+            "C": "1,690 mm",
+            "D": "1.69 mm"
+        }
+    },
+    {
+        "question": "How many metres are in 9.4 kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "9,400 m",
+            "B": "940 m",
+            "C": "94 m",
+            "D": "94,000 m"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 10 inches?",
+        "answer": "A",
+        "options": {
+            "A": "25 cm",
+            "B": "10 cm",
+            "C": "30 cm",
+            "D": "20 cm"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 5 pints?",
+        "answer": "A",
+        "options": {
+            "A": "2,850 mL",
+            "B": "570 mL",
+            "C": "1,000 mL",
+            "D": "5,000 mL"
+        }
+    },
+    {
+        "question": "Which is approximately equal to 5 pounds (lb)?",
+        "answer": "A",
+        "options": {
+            "A": "2,250 g",
+            "B": "450 g",
+            "C": "1 kg",
+            "D": "500 g"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle with length 17 cm and width 4 cm?",
+        "answer": "A",
+        "options": {
+            "A": "42 cm",
+            "B": "68 cm",
+            "C": "21 cm",
+            "D": "46 cm"
+        }
+    },
+    {
+        "question": "What is the area of a square with side 14 cm?",
+        "answer": "A",
+        "options": {
+            "A": "196 cm\u00b2",
+            "B": "56 cm\u00b2",
+            "C": "28 cm\u00b2",
+            "D": "180 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle with length 21 cm and width 5 cm?",
+        "answer": "A",
+        "options": {
+            "A": "105 cm\u00b2",
+            "B": "52 cm\u00b2",
+            "C": "26 cm\u00b2",
+            "D": "110 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 9 days?",
+        "answer": "A",
+        "options": {
+            "A": "216 hours",
+            "B": "192 hours",
+            "C": "168 hours",
+            "D": "240 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 10 hours?",
+        "answer": "A",
+        "options": {
+            "A": "600 minutes",
+            "B": "540 minutes",
+            "C": "480 minutes",
+            "D": "660 minutes"
+        }
+    },
+    {
+        "question": "How many seconds are in 20 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "1,200 seconds",
+            "B": "200 seconds",
+            "C": "600 seconds",
+            "D": "360 seconds"
+        }
+    },
+    {
+        "question": "A barrel holds 7.2 litres. How many millilitres is this?",
+        "answer": "A",
+        "options": {
+            "A": "7,200 mL",
+            "B": "720 mL",
+            "C": "72 mL",
+            "D": "72,000 mL"
+        }
+    },
+    {
+        "question": "A box weighs 5.75 kg. How many grams is this?",
+        "answer": "A",
+        "options": {
+            "A": "5,750 g",
+            "B": "575 g",
+            "C": "57.5 g",
+            "D": "57,500 g"
+        }
+    },
+    {
+        "question": "A table is 180 cm long. How many millimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "1,800 mm",
+            "B": "180 mm",
+            "C": "18,000 mm",
+            "D": "18 mm"
+        }
+    },
+    {
+        "question": "A plot is 25 m long and 8 m wide. What is its area?",
+        "answer": "A",
+        "options": {
+            "A": "200 m\u00b2",
+            "B": "66 m\u00b2",
+            "C": "33 m\u00b2",
+            "D": "220 m\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle has a perimeter of 44 cm and a width of 9 cm. What is its length?",
+        "answer": "A",
+        "options": {
+            "A": "13 cm",
+            "B": "15 cm",
+            "C": "12 cm",
+            "D": "14 cm"
+        }
+    },
+    {
+        "question": "How many weeks are in 63 days?",
+        "answer": "A",
+        "options": {
+            "A": "9 weeks",
+            "B": "8 weeks",
+            "C": "10 weeks",
+            "D": "7 weeks"
+        }
+    },
+    {
+        "question": "How many days are in 12 weeks?",
+        "answer": "A",
+        "options": {
+            "A": "84 days",
+            "B": "77 days",
+            "C": "91 days",
+            "D": "70 days"
+        }
+    },
+    {
+        "question": "A small cup holds 200 mL. How many litres is this?",
+        "answer": "A",
+        "options": {
+            "A": "0.2 L",
+            "B": "2 L",
+            "C": "20 L",
+            "D": "0.02 L"
+        }
+    },
+    {
+        "question": "A laptop weighs 1,500 g. How many kilograms is this?",
+        "answer": "A",
+        "options": {
+            "A": "1.5 kg",
+            "B": "15 kg",
+            "C": "150 kg",
+            "D": "0.15 kg"
+        }
+    },
+    {
+        "question": "A nail is 55 mm long. How many centimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "5.5 cm",
+            "B": "55 cm",
+            "C": "0.55 cm",
+            "D": "550 cm"
+        }
+    },
+    {
+        "question": "A football pitch is 105 m long and 68 m wide. What is its perimeter?",
+        "answer": "A",
+        "options": {
+            "A": "346 m",
+            "B": "7,140 m",
+            "C": "173 m",
+            "D": "360 m"
+        }
+    },
+    {
+        "question": "What is the area of a rectangle that is 18 cm by 12 cm?",
+        "answer": "A",
+        "options": {
+            "A": "216 cm\u00b2",
+            "B": "60 cm\u00b2",
+            "C": "30 cm\u00b2",
+            "D": "240 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many hours are in 720 minutes?",
+        "answer": "A",
+        "options": {
+            "A": "12 hours",
+            "B": "11 hours",
+            "C": "13 hours",
+            "D": "7.2 hours"
+        }
+    },
+    {
+        "question": "How many minutes are in 840 seconds?",
+        "answer": "A",
+        "options": {
+            "A": "14 minutes",
+            "B": "13 minutes",
+            "C": "15 minutes",
+            "D": "84 minutes"
+        }
+    },
+    {
+        "question": "A cube has sides of 7 cm. What is its volume in cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "343 cm\u00b3",
+            "B": "49 cm\u00b2",
+            "C": "21 cm\u00b3",
+            "D": "294 cm\u00b3"
+        }
+    },
+    {
+        "question": "What is 638 \u00d7 4?",
+        "answer": "B",
+        "options": {
+            "A": "2542",
+            "B": "2552",
+            "C": "2562",
+            "D": "2572"
+        }
+    },
+    {
+        "question": "Which expression uses the distributive law for 75 \u00d7 6?",
+        "answer": "A",
+        "options": {
+            "A": "(70 \u00d7 6) + (5 \u00d7 6)",
+            "B": "(70 + 6) \u00d7 5",
+            "C": "70 \u00d7 (5 + 6)",
+            "D": "(75 + 6) \u00d7 1"
+        }
+    },
+    {
+        "question": "A crate holds 184 bottles. How many in 5 crates?",
+        "answer": "B",
+        "options": {
+            "A": "910",
+            "B": "920",
+            "C": "930",
+            "D": "940"
+        }
+    },
+    {
+        "question": "What is 864 \u00f7 9?",
+        "answer": "B",
+        "options": {
+            "A": "94",
+            "B": "96",
+            "C": "98",
+            "D": "100"
+        }
+    },
+    {
+        "question": "Which is a factor pair of 144?",
+        "answer": "B",
+        "options": {
+            "A": "11 and 13",
+            "B": "12 and 12",
+            "C": "10 and 14",
+            "D": "9 and 15"
+        }
+    },
+    {
+        "question": "Calculate 8 \u00d7 5 \u00d7 3 by rearranging.",
+        "answer": "B",
+        "options": {
+            "A": "110",
+            "B": "120",
+            "C": "130",
+            "D": "140"
+        }
+    },
+    {
+        "question": "Leo has \u00a3700. He buys 6 games at \u00a3112 each. How much is left?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a322",
+            "B": "\u00a328",
+            "C": "\u00a332",
+            "D": "\u00a338"
+        }
+    },
+    {
+        "question": "Which equals 81 \u00d7 4?",
+        "answer": "A",
+        "options": {
+            "A": "(80 \u00d7 4) + (1 \u00d7 4)",
+            "B": "(80 + 4) \u00d7 1",
+            "C": "81 + 81 + 81 + 81",
+            "D": "320"
+        }
+    },
+    {
+        "question": "What is 720 \u00f7 9?",
+        "answer": "B",
+        "options": {
+            "A": "70",
+            "B": "80",
+            "C": "90",
+            "D": "100"
+        }
+    },
+    {
+        "question": "A truck carries 8 boxes. Each weighs 167 kg. Total weight?",
+        "answer": "B",
+        "options": {
+            "A": "1326 kg",
+            "B": "1336 kg",
+            "C": "1346 kg",
+            "D": "1356 kg"
+        }
+    },
+    {
+        "question": "Which shows commutativity of multiplication?",
+        "answer": "C",
+        "options": {
+            "A": "18 \u00f7 1 = 18",
+            "B": "0 \u00d7 15 = 0",
+            "C": "6 \u00d7 7 = 7 \u00d7 6",
+            "D": "1 \u00d7 12 = 12"
+        }
+    },
+    {
+        "question": "A restaurant offers 9 starters and 7 mains. How many meal combos?",
+        "answer": "C",
+        "options": {
+            "A": "16",
+            "B": "56",
+            "C": "63",
+            "D": "72"
+        }
+    },
+    {
+        "question": "What is 819 \u00f7 9?",
+        "answer": "B",
+        "options": {
+            "A": "89",
+            "B": "91",
+            "C": "93",
+            "D": "95"
+        }
+    },
+    {
+        "question": "Which is equal to (5 \u00d7 4) \u00d7 3?",
+        "answer": "A",
+        "options": {
+            "A": "5 \u00d7 (4 \u00d7 3)",
+            "B": "5 + 4 \u00d7 3",
+            "C": "(5 + 4) \u00d7 3",
+            "D": "20 + 3"
+        }
+    },
+    {
+        "question": "What number multiplied by 1 gives 607?",
+        "answer": "D",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "606",
+            "D": "607"
+        }
+    },
+    {
+        "question": "What is 529 \u00d7 3?",
+        "answer": "B",
+        "options": {
+            "A": "1577",
+            "B": "1587",
+            "C": "1597",
+            "D": "1607"
+        }
+    },
+    {
+        "question": "Which is NOT a factor pair of 120?",
+        "answer": "D",
+        "options": {
+            "A": "10 and 12",
+            "B": "8 and 15",
+            "C": "6 and 20",
+            "D": "7 and 17"
+        }
+    },
+    {
+        "question": "A machine makes 276 parts per hour. How many in 3 hours?",
+        "answer": "B",
+        "options": {
+            "A": "818",
+            "B": "828",
+            "C": "838",
+            "D": "848"
+        }
+    },
+    {
+        "question": "What is 960 \u00f7 8?",
+        "answer": "B",
+        "options": {
+            "A": "110",
+            "B": "120",
+            "C": "130",
+            "D": "140"
+        }
+    },
+    {
+        "question": "Which equals 7 \u00d7 6 \u00d7 5?",
+        "answer": "A",
+        "options": {
+            "A": "(7 \u00d7 5) \u00d7 6",
+            "B": "7 + 6 + 5",
+            "C": "7 \u00d7 (6 + 5)",
+            "D": "42 + 5"
+        }
+    },
+    {
+        "question": "A school rents 5 minibuses. Each seats 152 pupils. Total capacity?",
+        "answer": "B",
+        "options": {
+            "A": "750",
+            "B": "760",
+            "C": "770",
+            "D": "780"
+        }
+    },
+    {
+        "question": "What is 891 \u00f7 3?",
+        "answer": "B",
+        "options": {
+            "A": "295",
+            "B": "297",
+            "C": "299",
+            "D": "301"
+        }
+    },
+    {
+        "question": "How can you use place value to find 600 \u00f7 6?",
+        "answer": "B",
+        "options": {
+            "A": "6 \u00f7 6 = 1, so 600 \u00f7 6 = 10",
+            "B": "6 \u00f7 6 = 1, so 600 \u00f7 6 = 100",
+            "C": "60 \u00f7 6 = 10, so 600 \u00f7 6 = 10",
+            "D": "600 \u00f7 10 = 60"
+        }
+    },
+    {
+        "question": "What is 705 \u00d7 4?",
+        "answer": "B",
+        "options": {
+            "A": "2810",
+            "B": "2820",
+            "C": "2830",
+            "D": "2840"
+        }
+    },
+    {
+        "question": "If 9 \u00d7 4 = 36, what is 3600 \u00f7 4?",
+        "answer": "B",
+        "options": {
+            "A": "800",
+            "B": "900",
+            "C": "1000",
+            "D": "1100"
+        }
+    },
+    {
+        "question": "Rulers come in packs of 9. How many packs for 621 rulers?",
+        "answer": "C",
+        "options": {
+            "A": "67",
+            "B": "68",
+            "C": "69",
+            "D": "70"
+        }
+    },
+    {
+        "question": "Which statement is true?",
+        "answer": "C",
+        "options": {
+            "A": "Dividing by 1 gives 0",
+            "B": "Multiplying by 0 gives the number",
+            "C": "Dividing a number by itself gives 1",
+            "D": "Multiplying by 1 gives 0"
+        }
+    },
+    {
+        "question": "What is 912 \u00f7 6?",
+        "answer": "B",
+        "options": {
+            "A": "150",
+            "B": "152",
+            "C": "154",
+            "D": "156"
+        }
+    },
+    {
+        "question": "Use distributive law: 87 \u00d7 4 = ?",
+        "answer": "A",
+        "options": {
+            "A": "(80 \u00d7 4) + (7 \u00d7 4)",
+            "B": "(80 + 4) \u00d7 7",
+            "C": "80 \u00d7 (7 + 4)",
+            "D": "87 + 87 + 87 + 87"
+        }
+    },
+    {
+        "question": "5 types of tea and 8 biscuits. How many afternoon tea combos?",
+        "answer": "C",
+        "options": {
+            "A": "13",
+            "B": "35",
+            "C": "40",
+            "D": "48"
+        }
+    },
+    {
+        "question": "What is 623 \u00d7 2?",
+        "answer": "B",
+        "options": {
+            "A": "1236",
+            "B": "1246",
+            "C": "1256",
+            "D": "1266"
+        }
+    },
+    {
+        "question": "What number completes: ___ \u00d7 7 = 161?",
+        "answer": "C",
+        "options": {
+            "A": "21",
+            "B": "22",
+            "C": "23",
+            "D": "24"
+        }
+    },
+    {
+        "question": "A farm collects 347 eggs per day. How many in 3 days?",
+        "answer": "B",
+        "options": {
+            "A": "1031",
+            "B": "1041",
+            "C": "1051",
+            "D": "1061"
+        }
+    },
+    {
+        "question": "What is 854 \u00f7 7?",
+        "answer": "B",
+        "options": {
+            "A": "120",
+            "B": "122",
+            "C": "124",
+            "D": "126"
+        }
+    },
+    {
+        "question": "Which equals 8 \u00d7 3 \u00d7 5?",
+        "answer": "A",
+        "options": {
+            "A": "(8 \u00d7 5) \u00d7 3",
+            "B": "8 + 3 + 5",
+            "C": "8 \u00d7 (3 + 5)",
+            "D": "24 + 5"
+        }
+    },
+    {
+        "question": "What is 936 \u00f7 6?",
+        "answer": "B",
+        "options": {
+            "A": "154",
+            "B": "156",
+            "C": "158",
+            "D": "160"
+        }
+    },
+    {
+        "question": "A theatre has 7 sections with 158 seats each. Total seats?",
+        "answer": "B",
+        "options": {
+            "A": "1096",
+            "B": "1106",
+            "C": "1116",
+            "D": "1126"
+        }
+    },
+    {
+        "question": "If 6 \u00d7 8 = 48, what is 480 \u00f7 8?",
+        "answer": "B",
+        "options": {
+            "A": "50",
+            "B": "60",
+            "C": "70",
+            "D": "80"
+        }
+    },
+    {
+        "question": "Which checks 648 + 275 = 923 using inverse operations?",
+        "answer": "B",
+        "options": {
+            "A": "923 + 275 = 648",
+            "B": "923 \u2013 275 = 648",
+            "C": "648 \u2013 275 = 923",
+            "D": "275 \u2013 648 = 923"
+        }
+    },
+    {
+        "question": "What is 487 \u00d7 3?",
+        "answer": "B",
+        "options": {
+            "A": "1451",
+            "B": "1461",
+            "C": "1471",
+            "D": "1481"
+        }
+    },
+    {
+        "question": "A concert hall has 8 rows of 134 seats. Total seats?",
+        "answer": "B",
+        "options": {
+            "A": "1062",
+            "B": "1072",
+            "C": "1082",
+            "D": "1092"
+        }
+    },
+    {
+        "question": "What is 861 \u00f7 7?",
+        "answer": "B",
+        "options": {
+            "A": "121",
+            "B": "123",
+            "C": "125",
+            "D": "127"
+        }
+    },
+    {
+        "question": "Which uses distributive law for 94 \u00d7 5?",
+        "answer": "A",
+        "options": {
+            "A": "(90 \u00d7 5) + (4 \u00d7 5)",
+            "B": "90 \u00d7 (4 + 5)",
+            "C": "(94 + 5) \u00d7 1",
+            "D": "94 \u00d7 10 \u00f7 2"
+        }
+    },
+    {
+        "question": "7 types of pasta and 6 sauces. How many meal combos?",
+        "answer": "C",
+        "options": {
+            "A": "13",
+            "B": "36",
+            "C": "42",
+            "D": "49"
+        }
+    },
+    {
+        "question": "What is 904 \u00d7 3?",
+        "answer": "B",
+        "options": {
+            "A": "2702",
+            "B": "2712",
+            "C": "2722",
+            "D": "2732"
+        }
+    },
+    {
+        "question": "What number completes: 16 \u00d7 ___ = 192?",
+        "answer": "C",
+        "options": {
+            "A": "10",
+            "B": "11",
+            "C": "12",
+            "D": "13"
+        }
+    },
+    {
+        "question": "A shop sells 9 tablets at \u00a3238 each. Total revenue?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a32132",
+            "B": "\u00a32142",
+            "C": "\u00a32152",
+            "D": "\u00a32162"
+        }
+    },
+    {
+        "question": "What is 864 \u00f7 8?",
+        "answer": "B",
+        "options": {
+            "A": "106",
+            "B": "108",
+            "C": "110",
+            "D": "112"
+        }
+    },
+    {
+        "question": "Which equals 6 \u00d7 4 \u00d7 5?",
+        "answer": "A",
+        "options": {
+            "A": "(6 \u00d7 5) \u00d7 4",
+            "B": "6 + 4 + 5",
+            "C": "6 \u00d7 (4 + 5)",
+            "D": "24 + 5"
+        }
+    },
+    {
+        "question": "What is 753 \u00d7 2?",
+        "answer": "A",
+        "options": {
+            "A": "1506",
+            "B": "1516",
+            "C": "1526",
+            "D": "1536"
+        }
+    },
+    {
+        "question": "Which is a factor pair of 126?",
+        "answer": "C",
+        "options": {
+            "A": "9 and 13",
+            "B": "8 and 15",
+            "C": "7 and 18",
+            "D": "6 and 20"
+        }
+    }
+]

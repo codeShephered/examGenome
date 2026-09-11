@@ -1,0 +1,1602 @@
+[
+    {
+      "qid": 1,
+      "question": "Which shape has four equal sides and four right angles?",
+      "options": {
+        "A": "Square",
+        "B": "Rectangle",
+        "C": "Rhombus",
+        "D": "Trapezium"
+      },
+      "answer": "A",
+      "explanation": "A square has four equal sides and four right angles.",
+      "difficulty": "easy",
+      "imgFileName": "Q_1.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 2,
+      "question": "Which triangle has all three sides equal?",
+      "options": {
+        "A": "Equilateral",
+        "B": "Isosceles",
+        "C": "Scalene",
+        "D": "Right-angled"
+      },
+      "answer": "A",
+      "explanation": "An equilateral triangle has all three sides of equal length.",
+      "difficulty": "easy",
+      "imgFileName": "Q_2.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 3,
+      "question": "Which angle is less than 90 degrees?",
+      "options": {
+        "A": "Acute",
+        "B": "Obtuse",
+        "C": "Right",
+        "D": "Straight"
+      },
+      "answer": "A",
+      "explanation": "An acute angle is less than 90 degrees.",
+      "difficulty": "easy",
+      "imgFileName": "Q_3.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 4,
+      "question": "How many lines of symmetry does a square have?",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "1",
+        "D": "0"
+      },
+      "answer": "A",
+      "explanation": "A square has 4 lines of symmetry: two diagonals and two through the midpoints of opposite sides.",
+      "difficulty": "easy",
+      "imgFileName": "Q_4.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 5,
+      "question": "Which shape has only one pair of parallel sides?",
+      "options": {
+        "A": "Trapezium",
+        "B": "Parallelogram",
+        "C": "Rectangle",
+        "D": "Rhombus"
+      },
+      "answer": "A",
+      "explanation": "A trapezium has exactly one pair of parallel sides.",
+      "difficulty": "easy",
+      "imgFileName": "Q_5.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 6,
+      "question": "Which triangle has two equal sides?",
+      "options": {
+        "A": "Isosceles",
+        "B": "Equilateral",
+        "C": "Scalene",
+        "D": "Right-angled"
+      },
+      "answer": "A",
+      "explanation": "An isosceles triangle has two sides of equal length.",
+      "difficulty": "easy",
+      "imgFileName": "Q_6.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 7,
+      "question": "Which angle is greater than 90 degrees but less than 180 degrees?",
+      "options": {
+        "A": "Obtuse",
+        "B": "Acute",
+        "C": "Right",
+        "D": "Reflex"
+      },
+      "answer": "A",
+      "explanation": "An obtuse angle is between 90 and 180 degrees.",
+      "difficulty": "easy",
+      "imgFileName": "Q_7.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 8,
+      "question": "How many lines of symmetry does an equilateral triangle have?",
+      "options": {
+        "A": "3",
+        "B": "2",
+        "C": "1",
+        "D": "0"
+      },
+      "answer": "A",
+      "explanation": "An equilateral triangle has 3 lines of symmetry, each from a vertex to the midpoint of the opposite side.",
+      "difficulty": "easy",
+      "imgFileName": "Q_8.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 9,
+      "question": "Which quadrilateral has two pairs of parallel sides and four right angles?",
+      "options": {
+        "A": "Rectangle",
+        "B": "Parallelogram",
+        "C": "Rhombus",
+        "D": "Trapezium"
+      },
+      "answer": "A",
+      "explanation": "A rectangle has two pairs of parallel sides and four right angles.",
+      "difficulty": "easy",
+      "imgFileName": "Q_9.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 10,
+      "question": "Which triangle has no equal sides?",
+      "options": {
+        "A": "Scalene",
+        "B": "Isosceles",
+        "C": "Equilateral",
+        "D": "Right-angled"
+      },
+      "answer": "A",
+      "explanation": "A scalene triangle has all sides of different lengths.",
+      "difficulty": "easy",
+      "imgFileName": "Q_10.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 11,
+      "question": "What is the measure of a right angle?",
+      "options": {
+        "A": "90 degrees",
+        "B": "180 degrees",
+        "C": "45 degrees",
+        "D": "360 degrees"
+      },
+      "answer": "A",
+      "explanation": "A right angle measures exactly 90 degrees.",
+      "difficulty": "easy",
+      "imgFileName": "Q_11.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 12,
+      "question": "How many lines of symmetry does a rectangle (that is not a square) have?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "1",
+        "D": "0"
+      },
+      "answer": "A",
+      "explanation": "A non-square rectangle has 2 lines of symmetry, through the midpoints of opposite sides.",
+      "difficulty": "easy",
+      "imgFileName": "Q_12.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 13,
+      "question": "Which shape has four equal sides but no right angles?",
+      "options": {
+        "A": "Rhombus",
+        "B": "Square",
+        "C": "Rectangle",
+        "D": "Parallelogram"
+      },
+      "answer": "A",
+      "explanation": "A rhombus has four equal sides but its angles are not necessarily right angles.",
+      "difficulty": "easy",
+      "imgFileName": "Q_13.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 14,
+      "question": "Which of these angles is the largest?",
+      "options": {
+        "A": "Obtuse",
+        "B": "Acute",
+        "C": "Right",
+        "D": "They are all the same"
+      },
+      "answer": "A",
+      "explanation": "An obtuse angle (>90°) is larger than a right angle (90°) and an acute angle (<90°).",
+      "difficulty": "easy",
+      "imgFileName": "Q_14.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 15,
+      "question": "How many lines of symmetry does a regular pentagon have?",
+      "options": {
+        "A": "5",
+        "B": "4",
+        "C": "3",
+        "D": "2"
+      },
+      "answer": "A",
+      "explanation": "A regular pentagon has 5 lines of symmetry, one from each vertex to the midpoint of the opposite side.",
+      "difficulty": "easy",
+      "imgFileName": "Q_15.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 16,
+      "question": "Which quadrilateral has two pairs of equal adjacent sides?",
+      "options": {
+        "A": "Kite",
+        "B": "Parallelogram",
+        "C": "Rectangle",
+        "D": "Trapezium"
+      },
+      "answer": "A",
+      "explanation": "A kite has two pairs of adjacent sides that are equal in length.",
+      "difficulty": "easy",
+      "imgFileName": "Q_16.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 17,
+      "question": "Which triangle can also be a right-angled triangle?",
+      "options": {
+        "A": "Isosceles",
+        "B": "Equilateral",
+        "C": "Scalene",
+        "D": "Both A and C"
+      },
+      "answer": "D",
+      "explanation": "A right-angled triangle can have two equal sides (isosceles) or all sides different (scalene), but never all sides equal.",
+      "difficulty": "easy",
+      "imgFileName": "Q_17.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 18,
+      "question": "How many lines of symmetry does a circle have?",
+      "options": {
+        "A": "Infinite",
+        "B": "1",
+        "C": "0",
+        "D": "2"
+      },
+      "answer": "A",
+      "explanation": "A circle has an infinite number of lines of symmetry, as any line through its center is a line of symmetry.",
+      "difficulty": "easy",
+      "imgFileName": "Q_18.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 19,
+      "question": "Which shape is a regular quadrilateral?",
+      "options": {
+        "A": "Square",
+        "B": "Rectangle",
+        "C": "Rhombus",
+        "D": "Parallelogram"
+      },
+      "answer": "A",
+      "explanation": "A square is a regular quadrilateral because all its sides and angles are equal.",
+      "difficulty": "easy",
+      "imgFileName": "Q_19.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 20,
+      "question": "Which of these is NOT a property of a parallelogram?",
+      "options": {
+        "A": "Four right angles",
+        "B": "Two pairs of parallel sides",
+        "C": "Opposite sides equal",
+        "D": "Opposite angles equal"
+      },
+      "answer": "A",
+      "explanation": "A parallelogram does not necessarily have right angles; that is a property of rectangles and squares.",
+      "difficulty": "easy",
+      "imgFileName": "Q_20.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 21,
+      "question": "How many lines of symmetry does an isosceles triangle have?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "0"
+      },
+      "answer": "A",
+      "explanation": "An isosceles triangle has one line of symmetry from the apex to the base.",
+      "difficulty": "easy",
+      "imgFileName": "Q_21.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 22,
+      "question": "Which shape has no lines of symmetry?",
+      "options": {
+        "A": "Scalene triangle",
+        "B": "Isosceles triangle",
+        "C": "Equilateral triangle",
+        "D": "Square"
+      },
+      "answer": "A",
+      "explanation": "A scalene triangle has all sides and angles different, so it has no lines of symmetry.",
+      "difficulty": "easy",
+      "imgFileName": "Q_22.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 23,
+      "question": "What type of angle is exactly 180 degrees?",
+      "options": {
+        "A": "Straight",
+        "B": "Right",
+        "C": "Obtuse",
+        "D": "Acute"
+      },
+      "answer": "A",
+      "explanation": "A straight angle measures exactly 180 degrees.",
+      "difficulty": "easy",
+      "imgFileName": "Q_23.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 24,
+      "question": "Which quadrilateral has all sides equal and opposite angles equal, but no right angles?",
+      "options": {
+        "A": "Rhombus",
+        "B": "Square",
+        "C": "Rectangle",
+        "D": "Trapezium"
+      },
+      "answer": "A",
+      "explanation": "A rhombus has all sides equal and opposite angles equal, but its angles are not right angles.",
+      "difficulty": "easy",
+      "imgFileName": "Q_24.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 25,
+      "question": "How many right angles does a rectangle have?",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "0",
+        "D": "1"
+      },
+      "answer": "A",
+      "explanation": "A rectangle has four right angles.",
+      "difficulty": "easy",
+      "imgFileName": "Q_25.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 26,
+      "question": "Which triangle has one angle that is exactly 90 degrees?",
+      "options": {
+        "A": "Right-angled",
+        "B": "Equilateral",
+        "C": "Isosceles",
+        "D": "Scalene"
+      },
+      "answer": "A",
+      "explanation": "A right-angled triangle has one angle that is exactly 90 degrees.",
+      "difficulty": "easy",
+      "imgFileName": "Q_26.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 27,
+      "question": "How many lines of symmetry does a regular hexagon have?",
+      "options": {
+        "A": "6",
+        "B": "4",
+        "C": "3",
+        "D": "2"
+      },
+      "answer": "A",
+      "explanation": "A regular hexagon has 6 lines of symmetry, one through each pair of opposite vertices and one through the midpoints of each pair of opposite sides.",
+      "difficulty": "easy",
+      "imgFileName": "Q_27.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 28,
+      "question": "Which shape is NOT a quadrilateral?",
+      "options": {
+        "A": "Triangle",
+        "B": "Square",
+        "C": "Rectangle",
+        "D": "Rhombus"
+      },
+      "answer": "A",
+      "explanation": "A triangle has three sides, while a quadrilateral has four sides.",
+      "difficulty": "easy",
+      "imgFileName": "Q_28.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 29,
+      "question": "Which angle is the smallest?",
+      "options": {
+        "A": "Acute",
+        "B": "Obtuse",
+        "C": "Right",
+        "D": "Straight"
+      },
+      "answer": "A",
+      "explanation": "An acute angle (<90°) is smaller than a right angle (90°), obtuse (>90°), and straight (180°).",
+      "difficulty": "easy",
+      "imgFileName": "Q_29.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 30,
+      "question": "How many pairs of parallel sides does a parallelogram have?",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "0",
+        "D": "4"
+      },
+      "answer": "A",
+      "explanation": "A parallelogram has two pairs of parallel sides.",
+      "difficulty": "easy",
+      "imgFileName": "Q_30.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 31,
+      "question": "Which shape has exactly 3 lines of symmetry?",
+      "options": {
+        "A": "Equilateral triangle",
+        "B": "Square",
+        "C": "Rectangle",
+        "D": "Circle"
+      },
+      "answer": "A",
+      "explanation": "An equilateral triangle has exactly 3 lines of symmetry.",
+      "difficulty": "easy",
+      "imgFileName": "Q_31.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 32,
+      "question": "Which of these is a property of a square but not a rhombus?",
+      "options": {
+        "A": "Four right angles",
+        "B": "Four equal sides",
+        "C": "Two pairs of parallel sides",
+        "D": "Diagonals bisect each other"
+      },
+      "answer": "A",
+      "explanation": "A square has four right angles, but a rhombus does not necessarily have right angles.",
+      "difficulty": "easy",
+      "imgFileName": "Q_32.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 33,
+      "question": "How many angles does a triangle have?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "2",
+        "D": "5"
+      },
+      "answer": "A",
+      "explanation": "All triangles have three angles.",
+      "difficulty": "easy",
+      "imgFileName": "Q_33.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 34,
+      "question": "Which shape has only one line of symmetry?",
+      "options": {
+        "A": "Isosceles triangle",
+        "B": "Equilateral triangle",
+        "C": "Square",
+        "D": "Circle"
+      },
+      "answer": "A",
+      "explanation": "An isosceles triangle has only one line of symmetry.",
+      "difficulty": "easy",
+      "imgFileName": "Q_34.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 35,
+      "question": "What is the sum of the angles in any triangle?",
+      "options": {
+        "A": "180 degrees",
+        "B": "360 degrees",
+        "C": "90 degrees",
+        "D": "270 degrees"
+      },
+      "answer": "A",
+      "explanation": "The sum of the interior angles in any triangle is always 180 degrees.",
+      "difficulty": "easy",
+      "imgFileName": "Q_35.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 36,
+      "question": "Which quadrilateral has diagonals that are equal in length and bisect each other at right angles?",
+      "options": {
+        "A": "Square",
+        "B": "Rectangle",
+        "C": "Rhombus",
+        "D": "Parallelogram"
+      },
+      "answer": "A",
+      "explanation": "In a square, the diagonals are equal in length and bisect each other at 90 degrees.",
+      "difficulty": "easy",
+      "imgFileName": "Q_36.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 37,
+      "question": "How many sides does a quadrilateral have?",
+      "options": {
+        "A": "4",
+        "B": "3",
+        "C": "5",
+        "D": "6"
+      },
+      "answer": "A",
+      "explanation": "A quadrilateral has four sides.",
+      "difficulty": "easy",
+      "imgFileName": "Q_37.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 38,
+      "question": "Which triangle cannot have an obtuse angle?",
+      "options": {
+        "A": "Equilateral",
+        "B": "Isosceles",
+        "C": "Scalene",
+        "D": "Right-angled"
+      },
+      "answer": "A",
+      "explanation": "An equilateral triangle has all angles equal to 60 degrees, so it cannot have an obtuse angle.",
+      "difficulty": "easy",
+      "imgFileName": "Q_38.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 39,
+      "question": "How many lines of symmetry does a regular octagon have?",
+      "options": {
+        "A": "8",
+        "B": "4",
+        "C": "6",
+        "D": "2"
+      },
+      "answer": "A",
+      "explanation": "A regular octagon has 8 lines of symmetry.",
+      "difficulty": "easy",
+      "imgFileName": "Q_39.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 40,
+      "question": "Which shape has two pairs of equal opposite angles?",
+      "options": {
+        "A": "Parallelogram",
+        "B": "Trapezium",
+        "C": "Kite",
+        "D": "Isosceles triangle"
+      },
+      "answer": "A",
+      "explanation": "A parallelogram has two pairs of equal opposite angles.",
+      "difficulty": "easy",
+      "imgFileName": "Q_40.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 41,
+      "question": "Which angle is shown by the corner of a book?",
+      "options": {
+        "A": "Right angle",
+        "B": "Acute angle",
+        "C": "Obtuse angle",
+        "D": "Straight angle"
+      },
+      "answer": "A",
+      "explanation": "The corner of a book forms a right angle (90 degrees).",
+      "difficulty": "easy",
+      "imgFileName": "Q_41.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 42,
+      "question": "How many lines of symmetry does a kite have?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "0",
+        "D": "4"
+      },
+      "answer": "A",
+      "explanation": "A kite has one line of symmetry along its main diagonal.",
+      "difficulty": "easy",
+      "imgFileName": "Q_42.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 43,
+      "question": "Which shape is a regular polygon?",
+      "options": {
+        "A": "Equilateral triangle",
+        "B": "Isosceles triangle",
+        "C": "Scalene triangle",
+        "D": "Right-angled triangle"
+      },
+      "answer": "A",
+      "explanation": "An equilateral triangle is a regular polygon because all sides and angles are equal.",
+      "difficulty": "easy",
+      "imgFileName": "Q_43.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 44,
+      "question": "Which quadrilateral has only one line of symmetry?",
+      "options": {
+        "A": "Kite",
+        "B": "Square",
+        "C": "Rectangle",
+        "D": "Rhombus"
+      },
+      "answer": "A",
+      "explanation": "A kite has only one line of symmetry, while the others have more.",
+      "difficulty": "easy",
+      "imgFileName": "Q_44.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 45,
+      "question": "What type of triangle has angles of 30°, 60°, and 90°?",
+      "options": {
+        "A": "Right-angled scalene",
+        "B": "Equilateral",
+        "C": "Isosceles",
+        "D": "Obtuse"
+      },
+      "answer": "A",
+      "explanation": "It has a 90° angle (right-angled) and all sides different (scalene).",
+      "difficulty": "easy",
+      "imgFileName": "Q_45.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 46,
+      "question": "How many right angles are in a square?",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "0",
+        "D": "1"
+      },
+      "answer": "A",
+      "explanation": "A square has four right angles.",
+      "difficulty": "easy",
+      "imgFileName": "Q_46.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 47,
+      "question": "Which shape has diagonals that bisect each other at right angles but are not equal?",
+      "options": {
+        "A": "Rhombus",
+        "B": "Square",
+        "C": "Rectangle",
+        "D": "Parallelogram"
+      },
+      "answer": "A",
+      "explanation": "In a rhombus, diagonals bisect at 90° but are not equal; in a square they are equal.",
+      "difficulty": "easy",
+      "imgFileName": "Q_47.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 48,
+      "question": "Which of these is NOT a type of triangle?",
+      "options": {
+        "A": "Trapezium",
+        "B": "Equilateral",
+        "C": "Isosceles",
+        "D": "Scalene"
+      },
+      "answer": "A",
+      "explanation": "A trapezium is a quadrilateral, not a triangle.",
+      "difficulty": "easy",
+      "imgFileName": "Q_48.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 49,
+      "question": "How many lines of symmetry does a regular heptagon have?",
+      "options": {
+        "A": "7",
+        "B": "6",
+        "C": "5",
+        "D": "4"
+      },
+      "answer": "A",
+      "explanation": "A regular heptagon has 7 lines of symmetry, one from each vertex.",
+      "difficulty": "easy",
+      "imgFileName": "Q_49.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 50,
+      "question": "Which angle is formed when two lines are perpendicular?",
+      "options": {
+        "A": "Right angle",
+        "B": "Acute angle",
+        "C": "Obtuse angle",
+        "D": "Straight angle"
+      },
+      "answer": "A",
+      "explanation": "Perpendicular lines form a right angle (90 degrees).",
+      "difficulty": "easy",
+      "imgFileName": "Q_50.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 51,
+      "question": "Which shape has no parallel sides?",
+      "options": {
+        "A": "Kite",
+        "B": "Parallelogram",
+        "C": "Rectangle",
+        "D": "Rhombus"
+      },
+      "answer": "A",
+      "explanation": "A kite typically has no parallel sides, while the others have two pairs.",
+      "difficulty": "easy",
+      "imgFileName": "Q_51.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 52,
+      "question": "How many equal angles does an isosceles triangle have?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "0"
+      },
+      "answer": "A",
+      "explanation": "An isosceles triangle has two equal angles opposite the equal sides.",
+      "difficulty": "easy",
+      "imgFileName": "Q_52.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 53,
+      "question": "Which quadrilateral has all angles equal but not all sides equal?",
+      "options": {
+        "A": "Rectangle",
+        "B": "Square",
+        "C": "Rhombus",
+        "D": "Parallelogram"
+      },
+      "answer": "A",
+      "explanation": "A rectangle has all angles equal (90°) but only opposite sides equal.",
+      "difficulty": "easy",
+      "imgFileName": "Q_53.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 54,
+      "question": "What is the name of a triangle with angles 45°, 45°, and 90°?",
+      "options": {
+        "A": "Isosceles right-angled",
+        "B": "Equilateral",
+        "C": "Scalene",
+        "D": "Obtuse"
+      },
+      "answer": "A",
+      "explanation": "It has a right angle and two equal angles, so it is isosceles and right-angled.",
+      "difficulty": "easy",
+      "imgFileName": "Q_54.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 55,
+      "question": "How many lines of symmetry does a regular decagon have?",
+      "options": {
+        "A": "10",
+        "B": "5",
+        "C": "8",
+        "D": "12"
+      },
+      "answer": "A",
+      "explanation": "A regular decagon has 10 lines of symmetry.",
+      "difficulty": "easy",
+      "imgFileName": "Q_55.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 56,
+      "question": "Which shape has rotational symmetry of order 4?",
+      "options": {
+        "A": "Square",
+        "B": "Rectangle",
+        "C": "Rhombus",
+        "D": "Parallelogram"
+      },
+      "answer": "A",
+      "explanation": "A square looks the same after every 90° rotation, so it has rotational symmetry of order 4.",
+      "difficulty": "easy",
+      "imgFileName": "Q_56.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 57,
+      "question": "Which triangle has angles of 70°, 70°, and 40°?",
+      "options": {
+        "A": "Isosceles",
+        "B": "Equilateral",
+        "C": "Scalene",
+        "D": "Right-angled"
+      },
+      "answer": "A",
+      "explanation": "It has two equal angles, so it is isosceles.",
+      "difficulty": "easy",
+      "imgFileName": "Q_57.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 58,
+      "question": "How many pairs of equal adjacent sides does a kite have?",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "0",
+        "D": "4"
+      },
+      "answer": "A",
+      "explanation": "A kite has two pairs of adjacent sides that are equal.",
+      "difficulty": "easy",
+      "imgFileName": "Q_58.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 59,
+      "question": "Which shape has exactly 2 lines of symmetry?",
+      "options": {
+        "A": "Rectangle (not square)",
+        "B": "Square",
+        "C": "Equilateral triangle",
+        "D": "Circle"
+      },
+      "answer": "A",
+      "explanation": "A non-square rectangle has exactly 2 lines of symmetry.",
+      "difficulty": "easy",
+      "imgFileName": "Q_59.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 60,
+      "question": "What is the measure of each angle in an equilateral triangle?",
+      "options": {
+        "A": "60 degrees",
+        "B": "90 degrees",
+        "C": "120 degrees",
+        "D": "45 degrees"
+      },
+      "answer": "A",
+      "explanation": "All angles in an equilateral triangle are 60 degrees.",
+      "difficulty": "easy",
+      "imgFileName": "Q_60.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 61,
+      "question": "Which quadrilateral has no lines of symmetry?",
+      "options": {
+        "A": "Irregular quadrilateral",
+        "B": "Square",
+        "C": "Rectangle",
+        "D": "Rhombus"
+      },
+      "answer": "A",
+      "explanation": "An irregular quadrilateral with no equal sides or angles has no lines of symmetry.",
+      "difficulty": "easy",
+      "imgFileName": "Q_61.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 62,
+      "question": "Which angle is shown by the hands of a clock at 3:00?",
+      "options": {
+        "A": "Right angle",
+        "B": "Acute angle",
+        "C": "Obtuse angle",
+        "D": "Straight angle"
+      },
+      "answer": "A",
+      "explanation": "At 3:00, the hour and minute hands form a 90-degree angle.",
+      "difficulty": "easy",
+      "imgFileName": "Q_62.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 63,
+      "question": "How many sides of equal length does a scalene triangle have?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "answer": "A",
+      "explanation": "A scalene triangle has no sides of equal length.",
+      "difficulty": "easy",
+      "imgFileName": "Q_63.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 64,
+      "question": "Which shape has all sides and all angles equal?",
+      "options": {
+        "A": "Regular polygon",
+        "B": "Rectangle",
+        "C": "Rhombus",
+        "D": "Parallelogram"
+      },
+      "answer": "A",
+      "explanation": "A regular polygon has all sides and all angles equal.",
+      "difficulty": "easy",
+      "imgFileName": "Q_64.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 65,
+      "question": "Which triangle has an angle greater than 90 degrees?",
+      "options": {
+        "A": "Obtuse",
+        "B": "Acute",
+        "C": "Right-angled",
+        "D": "Equilateral"
+      },
+      "answer": "A",
+      "explanation": "An obtuse triangle has one angle greater than 90 degrees.",
+      "difficulty": "easy",
+      "imgFileName": "Q_65.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 66,
+      "question": "How many lines of symmetry does a regular nonagon have?",
+      "options": {
+        "A": "9",
+        "B": "6",
+        "C": "8",
+        "D": "10"
+      },
+      "answer": "A",
+      "explanation": "A regular nonagon has 9 lines of symmetry.",
+      "difficulty": "easy",
+      "imgFileName": "Q_66.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 67,
+      "question": "Which quadrilateral has diagonals that are equal but do not bisect at right angles?",
+      "options": {
+        "A": "Rectangle",
+        "B": "Square",
+        "C": "Rhombus",
+        "D": "Kite"
+      },
+      "answer": "A",
+      "explanation": "In a rectangle, diagonals are equal but bisect at angles that are not 90 degrees (unless it's a square).",
+      "difficulty": "easy",
+      "imgFileName": "Q_67.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 68,
+      "question": "Which shape is always a regular quadrilateral?",
+      "options": {
+        "A": "Square",
+        "B": "Rectangle",
+        "C": "Rhombus",
+        "D": "Parallelogram"
+      },
+      "answer": "A",
+      "explanation": "A square is the only quadrilateral that is always regular (all sides and angles equal).",
+      "difficulty": "easy",
+      "imgFileName": "Q_68.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 69,
+      "question": "How many acute angles can a triangle have?",
+      "options": {
+        "A": "3",
+        "B": "2",
+        "C": "1",
+        "D": "0"
+      },
+      "answer": "A",
+      "explanation": "An acute triangle has three acute angles (all less than 90°).",
+      "difficulty": "easy",
+      "imgFileName": "Q_69.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 70,
+      "question": "Which of these shapes has rotational symmetry of order 2 but no lines of symmetry?",
+      "options": {
+        "A": "Parallelogram (not rhombus or rectangle)",
+        "B": "Square",
+        "C": "Rectangle",
+        "D": "Rhombus"
+      },
+      "answer": "A",
+      "explanation": "A non-special parallelogram has rotational symmetry of order 2 but no lines of symmetry.",
+      "difficulty": "easy",
+      "imgFileName": "Q_70.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 71,
+      "question": "What is the name of a quadrilateral with one pair of parallel sides and the other pair non-parallel?",
+      "options": {
+        "A": "Trapezium",
+        "B": "Parallelogram",
+        "C": "Kite",
+        "D": "Rhombus"
+      },
+      "answer": "A",
+      "explanation": "A trapezium has exactly one pair of parallel sides.",
+      "difficulty": "easy",
+      "imgFileName": "Q_71.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 72,
+      "question": "Which angle is shown by the hands of a clock at 6:00?",
+      "options": {
+        "A": "Straight angle",
+        "B": "Right angle",
+        "C": "Obtuse angle",
+        "D": "Acute angle"
+      },
+      "answer": "A",
+      "explanation": "At 6:00, the hands form a straight line, which is 180 degrees.",
+      "difficulty": "easy",
+      "imgFileName": "Q_72.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 73,
+      "question": "How many lines of symmetry does a regular dodecagon have?",
+      "options": {
+        "A": "12",
+        "B": "10",
+        "C": "8",
+        "D": "6"
+      },
+      "answer": "A",
+      "explanation": "A regular dodecagon has 12 lines of symmetry.",
+      "difficulty": "easy",
+      "imgFileName": "Q_73.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 74,
+      "question": "Which triangle has side lengths of 3 cm, 4 cm, and 5 cm?",
+      "options": {
+        "A": "Right-angled scalene",
+        "B": "Equilateral",
+        "C": "Isosceles",
+        "D": "Obtuse"
+      },
+      "answer": "A",
+      "explanation": "It satisfies 3² + 4² = 5², so it is right-angled, and all sides are different, so scalene.",
+      "difficulty": "easy",
+      "imgFileName": "Q_74.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 75,
+      "question": "Which shape has diagonals that bisect the angles?",
+      "options": {
+        "A": "Rhombus",
+        "B": "Rectangle",
+        "C": "Trapezium",
+        "D": "Parallelogram"
+      },
+      "answer": "A",
+      "explanation": "In a rhombus, the diagonals bisect the vertex angles.",
+      "difficulty": "easy",
+      "imgFileName": "Q_75.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 76,
+      "question": "How many right angles can a triangle have?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "0"
+      },
+      "answer": "A",
+      "explanation": "A triangle can have only one right angle because the sum of angles is 180°.",
+      "difficulty": "easy",
+      "imgFileName": "Q_76.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 77,
+      "question": "Which quadrilateral has two lines of symmetry and rotational symmetry of order 2?",
+      "options": {
+        "A": "Rectangle",
+        "B": "Square",
+        "C": "Rhombus",
+        "D": "Kite"
+      },
+      "answer": "A",
+      "explanation": "A rectangle has 2 lines of symmetry and rotational symmetry of order 2.",
+      "difficulty": "easy",
+      "imgFileName": "Q_77.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 78,
+      "question": "What is the name of a triangle with angles 20°, 30°, and 130°?",
+      "options": {
+        "A": "Obtuse scalene",
+        "B": "Acute",
+        "C": "Right-angled",
+        "D": "Equilateral"
+      },
+      "answer": "A",
+      "explanation": "It has an obtuse angle (130°) and all angles different, so it is obtuse and scalene.",
+      "difficulty": "easy",
+      "imgFileName": "Q_78.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 79,
+      "question": "How many lines of symmetry does a regular triangle have?",
+      "options": {
+        "A": "3",
+        "B": "2",
+        "C": "1",
+        "D": "0"
+      },
+      "answer": "A",
+      "explanation": "A regular triangle (equilateral) has 3 lines of symmetry.",
+      "difficulty": "easy",
+      "imgFileName": "Q_79.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 80,
+      "question": "Which shape has all angles equal to 90 degrees but not all sides equal?",
+      "options": {
+        "A": "Rectangle",
+        "B": "Square",
+        "C": "Rhombus",
+        "D": "Parallelogram"
+      },
+      "answer": "A",
+      "explanation": "A rectangle has all angles 90° but only opposite sides equal.",
+      "difficulty": "easy",
+      "imgFileName": "Q_80.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 81,
+      "question": "Which angle is greater than a right angle but less than a straight angle?",
+      "options": {
+        "A": "Obtuse",
+        "B": "Acute",
+        "C": "Reflex",
+        "D": "Complete"
+      },
+      "answer": "A",
+      "explanation": "An obtuse angle is between 90° and 180°.",
+      "difficulty": "easy",
+      "imgFileName": "Q_81.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 82,
+      "question": "How many pairs of parallel sides does a trapezium have?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "0",
+        "D": "4"
+      },
+      "answer": "A",
+      "explanation": "A trapezium has exactly one pair of parallel sides.",
+      "difficulty": "easy",
+      "imgFileName": "Q_82.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 83,
+      "question": "Which triangle has two angles of 50° and one of 80°?",
+      "options": {
+        "A": "Isosceles",
+        "B": "Equilateral",
+        "C": "Scalene",
+        "D": "Right-angled"
+      },
+      "answer": "A",
+      "explanation": "It has two equal angles, so it is isosceles.",
+      "difficulty": "easy",
+      "imgFileName": "Q_83.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 84,
+      "question": "Which shape has 4 lines of symmetry and rotational symmetry of order 4?",
+      "options": {
+        "A": "Square",
+        "B": "Rectangle",
+        "C": "Rhombus",
+        "D": "Parallelogram"
+      },
+      "answer": "A",
+      "explanation": "A square has 4 lines of symmetry and rotational symmetry of order 4.",
+      "difficulty": "easy",
+      "imgFileName": "Q_84.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 85,
+      "question": "How many lines of symmetry does a circle have?",
+      "options": {
+        "A": "Infinite",
+        "B": "1",
+        "C": "0",
+        "D": "2"
+      },
+      "answer": "A",
+      "explanation": "A circle has infinitely many lines of symmetry.",
+      "difficulty": "easy",
+      "imgFileName": "Q_85.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 86,
+      "question": "Which quadrilateral has no right angles and no parallel sides?",
+      "options": {
+        "A": "Kite",
+        "B": "Square",
+        "C": "Rectangle",
+        "D": "Parallelogram"
+      },
+      "answer": "A",
+      "explanation": "A kite can have no right angles and no parallel sides.",
+      "difficulty": "easy",
+      "imgFileName": "Q_86.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 87,
+      "question": "What is the sum of the angles in a quadrilateral?",
+      "options": {
+        "A": "360 degrees",
+        "B": "180 degrees",
+        "C": "270 degrees",
+        "D": "540 degrees"
+      },
+      "answer": "A",
+      "explanation": "The sum of the interior angles in any quadrilateral is 360 degrees.",
+      "difficulty": "easy",
+      "imgFileName": "Q_87.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 88,
+      "question": "Which shape is a special type of parallelogram with all sides equal?",
+      "options": {
+        "A": "Rhombus",
+        "B": "Rectangle",
+        "C": "Trapezium",
+        "D": "Kite"
+      },
+      "answer": "A",
+      "explanation": "A rhombus is a parallelogram with all sides equal.",
+      "difficulty": "easy",
+      "imgFileName": "Q_88.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 89,
+      "question": "How many acute angles does a right-angled triangle have?",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "3",
+        "D": "0"
+      },
+      "answer": "A",
+      "explanation": "A right-angled triangle has one right angle and two acute angles.",
+      "difficulty": "easy",
+      "imgFileName": "Q_89.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 90,
+      "question": "Which triangle has all angles less than 90 degrees?",
+      "options": {
+        "A": "Acute",
+        "B": "Obtuse",
+        "C": "Right-angled",
+        "D": "Isosceles"
+      },
+      "answer": "A",
+      "explanation": "An acute triangle has all three angles less than 90 degrees.",
+      "difficulty": "easy",
+      "imgFileName": "Q_90.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 91,
+      "question": "How many lines of symmetry does a regular pentagon have?",
+      "options": {
+        "A": "5",
+        "B": "4",
+        "C": "3",
+        "D": "2"
+      },
+      "answer": "A",
+      "explanation": "A regular pentagon has 5 lines of symmetry.",
+      "difficulty": "easy",
+      "imgFileName": "Q_91.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 92,
+      "question": "Which quadrilateral has diagonals that are perpendicular and one diagonal bisects the other?",
+      "options": {
+        "A": "Kite",
+        "B": "Square",
+        "C": "Rectangle",
+        "D": "Parallelogram"
+      },
+      "answer": "A",
+      "explanation": "In a kite, diagonals are perpendicular, and one diagonal bisects the other.",
+      "difficulty": "easy",
+      "imgFileName": "Q_92.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 93,
+      "question": "Which shape has rotational symmetry of order 1 only?",
+      "options": {
+        "A": "Scalene triangle",
+        "B": "Equilateral triangle",
+        "C": "Square",
+        "D": "Rectangle"
+      },
+      "answer": "A",
+      "explanation": "A scalene triangle has no rotational symmetry except for a full turn (order 1).",
+      "difficulty": "easy",
+      "imgFileName": "Q_93.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 94,
+      "question": "How many equal sides does an isosceles triangle have?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "0"
+      },
+      "answer": "A",
+      "explanation": "An isosceles triangle has two equal sides.",
+      "difficulty": "easy",
+      "imgFileName": "Q_94.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 95,
+      "question": "Which angle is shown by the hands of a clock at 12:00?",
+      "options": {
+        "A": "0 degrees or 360 degrees",
+        "B": "90 degrees",
+        "C": "180 degrees",
+        "D": "270 degrees"
+      },
+      "answer": "A",
+      "explanation": "At 12:00, the hands overlap, forming a 0° or 360° angle.",
+      "difficulty": "easy",
+      "imgFileName": "Q_95.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 96,
+      "question": "Which shape has exactly 5 lines of symmetry?",
+      "options": {
+        "A": "Regular pentagon",
+        "B": "Square",
+        "C": "Equilateral triangle",
+        "D": "Circle"
+      },
+      "answer": "A",
+      "explanation": "A regular pentagon has exactly 5 lines of symmetry.",
+      "difficulty": "easy",
+      "imgFileName": "Q_96.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 97,
+      "question": "How many right angles does a right-angled triangle have?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "0"
+      },
+      "answer": "A",
+      "explanation": "A right-angled triangle has exactly one right angle.",
+      "difficulty": "easy",
+      "imgFileName": "Q_97.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 98,
+      "question": "Which quadrilateral is also a regular polygon?",
+      "options": {
+        "A": "Square",
+        "B": "Rectangle",
+        "C": "Rhombus",
+        "D": "Parallelogram"
+      },
+      "answer": "A",
+      "explanation": "A square is the only quadrilateral that is a regular polygon.",
+      "difficulty": "easy",
+      "imgFileName": "Q_98.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 99,
+      "question": "Which triangle cannot be a right-angled triangle?",
+      "options": {
+        "A": "Equilateral",
+        "B": "Isosceles",
+        "C": "Scalene",
+        "D": "None of the above"
+      },
+      "answer": "A",
+      "explanation": "An equilateral triangle has all angles 60°, so it cannot have a 90° angle.",
+      "difficulty": "easy",
+      "imgFileName": "Q_99.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 100,
+      "question": "How many lines of symmetry does a regular hexagon have?",
+      "options": {
+        "A": "6",
+        "B": "4",
+        "C": "3",
+        "D": "2"
+      },
+      "answer": "A",
+      "explanation": "A regular hexagon has 6 lines of symmetry.",
+      "difficulty": "easy",
+      "imgFileName": "Q_100.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    }
+  ]

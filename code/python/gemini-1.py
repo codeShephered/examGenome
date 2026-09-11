@@ -5,8 +5,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # --- Configuration ---
-JSON_FILE = '../../jsons/year456/src/y4Geometry_Properties_of_Shapes_extracted_data.json'
-OUTPUT_FILE = '../../jsons/year456/verif/y4Geometry_Properties_of_Shapes_verification.txt'
+JSON_FILE = '../../jsons/year456/src/extracted_y3Number_placevalue.json'
+OUTPUT_FILE = '../../jsons/year456/verif/y3Number_placevalue_verification.txt'
 
 
 def generate_evaluation_prompt(filename):
@@ -86,7 +86,8 @@ def generate_evaluation_prompt(filename):
 
     genai.configure(api_key=os.environ.get('GEMINI_API_KEY'))
 
-    model = genai.GenerativeModel('gemini-2.5-flash') # Choose an appropriate model
+    model = genai.GenerativeModel('gemini-3-flash-preview') # Choose an appropriate model
+    #model = genai.GenerativeModel('gemini-2.5-flash') # Choose an appropriate model
     #model = genai.GenerativeModel('gemini-1.5-flash') # Choose an appropriate model
 
     #prompt = "If the answer(Divide the leftmost digit(s) of the dividend by the divisor.) for the question(Divide the leftmost digit(s) of the \

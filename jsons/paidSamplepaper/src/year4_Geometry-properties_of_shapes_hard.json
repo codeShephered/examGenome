@@ -1,0 +1,1586 @@
+[
+    {
+      "qid": 1,
+      "question": "A quadrilateral has interior angles of 80°, 100°, 70°, and x°. What is the value of x?",
+      "options": {
+        "A": "110°",
+        "B": "90°",
+        "C": "120°",
+        "D": "100°"
+      },
+      "answer": "A",
+      "explanation": "Sum of interior angles in a quadrilateral is 360°. So x = 360 – (80 + 100 + 70) = 360 – 250 = 110°.",
+      "difficulty": "hard",
+      "imgFileName": "1_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 2,
+      "question": "A regular polygon has an exterior angle of 24°. How many sides does it have?",
+      "options": {
+        "A": "15",
+        "B": "12",
+        "C": "10",
+        "D": "18"
+      },
+      "answer": "A",
+      "explanation": "Sum of exterior angles of any polygon is 360°. Number of sides = 360 ÷ 24 = 15.",
+      "difficulty": "hard",
+      "imgFileName": "2_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 3,
+      "question": "A triangle has angles in the ratio 2:3:4. What is the measure of the largest angle?",
+      "options": {
+        "A": "80°",
+        "B": "60°",
+        "C": "90°",
+        "D": "70°"
+      },
+      "answer": "A",
+      "explanation": "Total parts = 2 + 3 + 4 = 9. Largest angle = (4/9) × 180° = 80°.",
+      "difficulty": "hard",
+      "imgFileName": "3_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 4,
+      "question": "A rhombus has diagonals of 12 cm and 16 cm. What is its perimeter?",
+      "options": {
+        "A": "40 cm",
+        "B": "32 cm",
+        "C": "48 cm",
+        "D": "28 cm"
+      },
+      "answer": "A",
+      "explanation": "Half-diagonals are 6 cm and 8 cm. Side = √(6² + 8²) = √100 = 10 cm. Perimeter = 4 × 10 = 40 cm.",
+      "difficulty": "hard",
+      "imgFileName": "4_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 5,
+      "question": "An isosceles triangle has a vertex angle that is twice each base angle. What is the measure of the vertex angle?",
+      "options": {
+        "A": "90°",
+        "B": "60°",
+        "C": "120°",
+        "D": "72°"
+      },
+      "answer": "A",
+      "explanation": "Let base angle = x. Then vertex = 2x. So x + x + 2x = 180 → 4x = 180 → x = 45. Vertex = 90°.",
+      "difficulty": "hard",
+      "imgFileName": "5_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 6,
+      "question": "A kite has perpendicular diagonals of 10 cm and 24 cm. What is its perimeter if the longer diagonal bisects the shorter one?",
+      "options": {
+        "A": "52 cm",
+        "B": "48 cm",
+        "C": "60 cm",
+        "D": "40 cm"
+      },
+      "answer": "A",
+      "explanation": "Diagonals intersect at right angles. Half-diagonals: 5 cm and 12 cm. Each pair of adjacent sides: √(5²+12²)=13 cm. Two sides of 13 cm and two of √(5²+12²)=13 cm? Wait—in a kite, only one diagonal is bisected. If the 24 cm diagonal bisects the 10 cm, then sides are √(5²+12²)=13 cm and √(5²+12²)=13 cm — actually, both pairs may be equal only if rhombus. For a kite with diagonals 10 and 24, and 24 bisecting 10, the sides are √(5²+12²)=13 cm and √(5²+12²)=13 cm — so it's a rhombus. Perimeter = 4×13=52 cm.",
+      "difficulty": "hard",
+      "imgFileName": "6_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 7,
+      "question": "A regular polygon has an interior angle of 156°. How many sides does it have?",
+      "options": {
+        "A": "15",
+        "B": "12",
+        "C": "10",
+        "D": "18"
+      },
+      "answer": "A",
+      "explanation": "Exterior angle = 180 – 156 = 24°. Number of sides = 360 ÷ 24 = 15.",
+      "difficulty": "hard",
+      "imgFileName": "7_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 8,
+      "question": "A trapezium has parallel sides of 10 cm and 22 cm, and non-parallel sides of 10 cm each. What is its area?",
+      "options": {
+        "A": "128 cm²",
+        "B": "120 cm²",
+        "C": "144 cm²",
+        "D": "160 cm²"
+      },
+      "answer": "A",
+      "explanation": "It is an isosceles trapezium. Drop perpendiculars to form two right triangles with base (22–10)/2 = 6 cm. Height = √(10² – 6²) = √64 = 8 cm. Area = (10+22)×8÷2 = 32×4 = 128 cm².",
+      "difficulty": "hard",
+      "imgFileName": "8_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 9,
+      "question": "A rectangle is inscribed in a circle of radius 13 cm. If the rectangle’s length is 24 cm, what is its width?",
+      "options": {
+        "A": "10 cm",
+        "B": "12 cm",
+        "C": "8 cm",
+        "D": "14 cm"
+      },
+      "answer": "A",
+      "explanation": "The diagonal of the rectangle is the diameter of the circle = 26 cm. Width = √(26² – 24²) = √(676 – 576) = √100 = 10 cm.",
+      "difficulty": "hard",
+      "imgFileName": "9_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 10,
+      "question": "An equilateral triangle and a square have the same perimeter of 36 cm. What is the ratio of the side of the triangle to the side of the square?",
+      "options": {
+        "A": "4:3",
+        "B": "3:4",
+        "C": "1:1",
+        "D": "2:3"
+      },
+      "answer": "A",
+      "explanation": "Triangle side = 36 ÷ 3 = 12 cm. Square side = 36 ÷ 4 = 9 cm. Ratio = 12:9 = 4:3.",
+      "difficulty": "hard",
+      "imgFileName": "10_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 11,
+      "question": "A rhombus has a perimeter of 52 cm and an area of 120 cm². What is the length of its shorter diagonal?",
+      "options": {
+        "A": "10 cm",
+        "B": "12 cm",
+        "C": "24 cm",
+        "D": "26 cm"
+      },
+      "answer": "A",
+      "explanation": "Side = 52 ÷ 4 = 13 cm. Let diagonals be d1 and d2. Area = (d1×d2)/2 = 120 → d1×d2 = 240. Also, (d1/2)² + (d2/2)² = 13² → d1² + d2² = 676. Solving: d1=10, d2=24 (since 10×24=240 and 100+576=676). Shorter diagonal = 10 cm.",
+      "difficulty": "hard",
+      "imgFileName": "11_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 12,
+      "question": "A regular hexagon is divided into 6 equilateral triangles. If the perimeter of the hexagon is 48 cm, what is the area of one triangle?",
+      "options": {
+        "A": "16√3 cm²",
+        "B": "64√3 cm²",
+        "C": "32√3 cm²",
+        "D": "8√3 cm²"
+      },
+      "answer": "A",
+      "explanation": "Side of hexagon = 48 ÷ 6 = 8 cm. Each equilateral triangle has side 8 cm. Area = (√3/4)×8² = (√3/4)×64 = 16√3 cm².",
+      "difficulty": "hard",
+      "imgFileName": "12_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 13,
+      "question": "A triangle has sides of 13 cm, 14 cm, and 15 cm. What type of triangle is it?",
+      "options": {
+        "A": "Acute scalene",
+        "B": "Right-angled",
+        "C": "Obtuse",
+        "D": "Isosceles"
+      },
+      "answer": "A",
+      "explanation": "Check: 13² + 14² = 169 + 196 = 365 > 225 = 15², so all angles acute. All sides different, so acute scalene.",
+      "difficulty": "hard",
+      "imgFileName": "13_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 14,
+      "question": "A shape has rotational symmetry of order 4 and 4 lines of symmetry. Which shape could it be?",
+      "options": {
+        "A": "Square",
+        "B": "Rectangle",
+        "C": "Rhombus",
+        "D": "Parallelogram"
+      },
+      "answer": "A",
+      "explanation": "A square has rotational symmetry of order 4 and 4 lines of symmetry. Other options have fewer symmetries.",
+      "difficulty": "hard",
+      "imgFileName": "14_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 15,
+      "question": "An isosceles triangle has a perimeter of 36 cm and a base of 10 cm. What is its area?",
+      "options": {
+        "A": "60 cm²",
+        "B": "48 cm²",
+        "C": "72 cm²",
+        "D": "54 cm²"
+      },
+      "answer": "A",
+      "explanation": "Equal sides = (36 – 10) ÷ 2 = 13 cm. Height = √(13² – 5²) = √144 = 12 cm. Area = (10 × 12) ÷ 2 = 60 cm².",
+      "difficulty": "hard",
+      "imgFileName": "15_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 16,
+      "question": "A regular octagon has a side length of 5 cm. What is its perimeter?",
+      "options": {
+        "A": "40 cm",
+        "B": "35 cm",
+        "C": "45 cm",
+        "D": "30 cm"
+      },
+      "answer": "A",
+      "explanation": "Perimeter = 8 × side = 8 × 5 = 40 cm.",
+      "difficulty": "hard",
+      "imgFileName": "16_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 17,
+      "question": "A kite has diagonals of 18 cm and 24 cm. What is its perimeter if the diagonals intersect at right angles and one diagonal bisects the other?",
+      "options": {
+        "A": "60 cm",
+        "B": "48 cm",
+        "C": "72 cm",
+        "D": "52 cm"
+      },
+      "answer": "A",
+      "explanation": "Assume the 24 cm diagonal bisects the 18 cm. Then half-diagonals: 9 cm and 12 cm. Sides = √(9²+12²)=15 cm. Since both pairs of adjacent sides are equal (kite), perimeter = 2×15 + 2×15 = 60 cm.",
+      "difficulty": "hard",
+      "imgFileName": "17_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 18,
+      "question": "A parallelogram has an area of 180 cm² and a base of 15 cm. If the height corresponding to another side of 12 cm is h cm, what is h?",
+      "options": {
+        "A": "15 cm",
+        "B": "12 cm",
+        "C": "18 cm",
+        "D": "10 cm"
+      },
+      "answer": "A",
+      "explanation": "Area = base × height = 15 × h₁ = 180 → h₁ = 12 cm. But area also = 12 × h → 12h = 180 → h = 15 cm.",
+      "difficulty": "hard",
+      "imgFileName": "18_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 19,
+      "question": "A trapezium has an area of 150 cm², height of 10 cm, and one parallel side of 12 cm. What is the length of the other parallel side?",
+      "options": {
+        "A": "18 cm",
+        "B": "16 cm",
+        "C": "20 cm",
+        "D": "14 cm"
+      },
+      "answer": "A",
+      "explanation": "Area = (a + b) × h ÷ 2 → 150 = (12 + b) × 10 ÷ 2 → 150 = (12 + b) × 5 → 12 + b = 30 → b = 18 cm.",
+      "difficulty": "hard",
+      "imgFileName": "19_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 20,
+      "question": "A regular pentagon has a side length of 8 cm. What is its perimeter?",
+      "options": {
+        "A": "40 cm",
+        "B": "32 cm",
+        "C": "48 cm",
+        "D": "24 cm"
+      },
+      "answer": "A",
+      "explanation": "Perimeter = 5 × side = 5 × 8 = 40 cm.",
+      "difficulty": "hard",
+      "imgFileName": "20_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 21,
+      "question": "A rhombus has diagonals of 10 cm and 24 cm. What is its area?",
+      "options": {
+        "A": "120 cm²",
+        "B": "240 cm²",
+        "C": "60 cm²",
+        "D": "180 cm²"
+      },
+      "answer": "A",
+      "explanation": "Area of a rhombus = (d₁ × d₂) ÷ 2 = (10 × 24) ÷ 2 = 120 cm².",
+      "difficulty": "hard",
+      "imgFileName": "21_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 22,
+      "question": "An equilateral triangle has a side length of 12 cm. What is its height?",
+      "options": {
+        "A": "6√3 cm",
+        "B": "12 cm",
+        "C": "8√3 cm",
+        "D": "9 cm"
+      },
+      "answer": "A",
+      "explanation": "Height = (√3/2) × side = (√3/2) × 12 = 6√3 cm.",
+      "difficulty": "hard",
+      "imgFileName": "22_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 23,
+      "question": "A rectangle has a length that is 3 times its width. If the perimeter is 64 cm, what is the area?",
+      "options": {
+        "A": "192 cm²",
+        "B": "144 cm²",
+        "C": "256 cm²",
+        "D": "128 cm²"
+      },
+      "answer": "A",
+      "explanation": "Let width = w, length = 3w. Perimeter = 2(w + 3w) = 8w = 64 → w = 8 cm. Length = 24 cm. Area = 8 × 24 = 192 cm².",
+      "difficulty": "hard",
+      "imgFileName": "23_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 24,
+      "question": "A square has an area of 144 cm². What is the length of its diagonal?",
+      "options": {
+        "A": "12√2 cm",
+        "B": "24 cm",
+        "C": "12 cm",
+        "D": "16 cm"
+      },
+      "answer": "A",
+      "explanation": "Side = √144 = 12 cm. Diagonal = 12√2 cm.",
+      "difficulty": "hard",
+      "imgFileName": "24_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 25,
+      "question": "A regular hexagon has a side length of 6 cm. What is its perimeter?",
+      "options": {
+        "A": "36 cm",
+        "B": "30 cm",
+        "C": "42 cm",
+        "D": "24 cm"
+      },
+      "answer": "A",
+      "explanation": "Perimeter = 6 × side = 6 × 6 = 36 cm.",
+      "difficulty": "hard",
+      "imgFileName": "25_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 26,
+      "question": "A right-angled triangle has a hypotenuse of 25 cm and one leg of 15 cm. What is its area?",
+      "options": {
+        "A": "150 cm²",
+        "B": "187.5 cm²",
+        "C": "120 cm²",
+        "D": "200 cm²"
+      },
+      "answer": "A",
+      "explanation": "Other leg = √(25² – 15²) = √(625 – 225) = √400 = 20 cm. Area = (15 × 20) ÷ 2 = 150 cm².",
+      "difficulty": "hard",
+      "imgFileName": "26_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 27,
+      "question": "An isosceles triangle has base angles of 75°. What is the measure of the vertex angle?",
+      "options": {
+        "A": "30°",
+        "B": "45°",
+        "C": "60°",
+        "D": "75°"
+      },
+      "answer": "A",
+      "explanation": "Sum of angles = 180°. Vertex angle = 180 – (75 + 75) = 30°.",
+      "difficulty": "hard",
+      "imgFileName": "27_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 28,
+      "question": "A parallelogram has sides of 9 cm and 12 cm, and an included angle of 60°. What is its area?",
+      "options": {
+        "A": "54√3 cm²",
+        "B": "108 cm²",
+        "C": "54 cm²",
+        "D": "108√3 cm²"
+      },
+      "answer": "A",
+      "explanation": "Area = ab sinθ = 9 × 12 × sin(60°) = 108 × (√3/2) = 54√3 cm².",
+      "difficulty": "hard",
+      "imgFileName": "28_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 29,
+      "question": "A trapezium has parallel sides of 8 cm and 14 cm, and non-parallel sides of 5 cm each. What is its area?",
+      "options": {
+        "A": "44 cm²",
+        "B": "40 cm²",
+        "C": "48 cm²",
+        "D": "52 cm²"
+      },
+      "answer": "A",
+      "explanation": "It is isosceles. Height = √(5² – 3²) = √16 = 4 cm (since (14–8)/2 = 3). Area = (8+14)×4÷2 = 22×2 = 44 cm².",
+      "difficulty": "hard",
+      "imgFileName": "29_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 30,
+      "question": "A kite has an area of 96 cm² and one diagonal of 16 cm. What is the length of the other diagonal?",
+      "options": {
+        "A": "12 cm",
+        "B": "10 cm",
+        "C": "14 cm",
+        "D": "18 cm"
+      },
+      "answer": "A",
+      "explanation": "Area = (d₁ × d₂) ÷ 2 → 96 = (16 × d₂) ÷ 2 → d₂ = 12 cm.",
+      "difficulty": "hard",
+      "imgFileName": "30_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 31,
+      "question": "A regular octagon has an interior angle of 135°. What is the measure of one exterior angle?",
+      "options": {
+        "A": "45°",
+        "B": "60°",
+        "C": "30°",
+        "D": "90°"
+      },
+      "answer": "A",
+      "explanation": "Exterior angle = 180° – interior angle = 180 – 135 = 45°.",
+      "difficulty": "hard",
+      "imgFileName": "31_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 32,
+      "question": "A rectangle has a diagonal of 17 cm and a length of 15 cm. What is its area?",
+      "options": {
+        "A": "120 cm²",
+        "B": "144 cm²",
+        "C": "100 cm²",
+        "D": "150 cm²"
+      },
+      "answer": "A",
+      "explanation": "Width = √(17² – 15²) = √(289 – 225) = √64 = 8 cm. Area = 15 × 8 = 120 cm².",
+      "difficulty": "hard",
+      "imgFileName": "32_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 33,
+      "question": "An equilateral triangle has a perimeter of 30 cm. What is its area?",
+      "options": {
+        "A": "25√3 cm²",
+        "B": "50 cm²",
+        "C": "75 cm²",
+        "D": "100√3 cm²"
+      },
+      "answer": "A",
+      "explanation": "Side = 10 cm. Area = (√3/4) × 10² = 25√3 cm².",
+      "difficulty": "hard",
+      "imgFileName": "33_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 34,
+      "question": "A rhombus has a perimeter of 40 cm and one diagonal of 12 cm. What is its area?",
+      "options": {
+        "A": "96 cm²",
+        "B": "48 cm²",
+        "C": "120 cm²",
+        "D": "80 cm²"
+      },
+      "answer": "A",
+      "explanation": "Side = 10 cm. Half of given diagonal = 6 cm. Other half-diagonal = √(10² – 6²) = 8 cm. Full diagonal = 16 cm. Area = (12 × 16) ÷ 2 = 96 cm².",
+      "difficulty": "hard",
+      "imgFileName": "34_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 35,
+      "question": "A shape has 6 lines of symmetry and rotational symmetry of order 6. Which shape is it?",
+      "options": {
+        "A": "Regular hexagon",
+        "B": "Equilateral triangle",
+        "C": "Square",
+        "D": "Circle"
+      },
+      "answer": "A",
+      "explanation": "A regular hexagon has 6 lines of symmetry and rotational symmetry of order 6.",
+      "difficulty": "hard",
+      "imgFileName": "35_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 36,
+      "question": "A right-angled triangle has legs of 9 cm and 12 cm. What is the length of the altitude to the hypotenuse?",
+      "options": {
+        "A": "7.2 cm",
+        "B": "6 cm",
+        "C": "8 cm",
+        "D": "7.5 cm"
+      },
+      "answer": "A",
+      "explanation": "Hypotenuse = 15 cm. Area = (9×12)/2 = 54 cm². Also, area = (15 × h)/2 = 54 → h = 108/15 = 7.2 cm.",
+      "difficulty": "hard",
+      "imgFileName": "36_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 37,
+      "question": "An isosceles trapezium has parallel sides of 6 cm and 16 cm, and non-parallel sides of 13 cm each. What is its area?",
+      "options": {
+        "A": "132 cm²",
+        "B": "120 cm²",
+        "C": "144 cm²",
+        "D": "110 cm²"
+      },
+      "answer": "A",
+      "explanation": "Difference in bases = 10 cm, so each overhang = 5 cm. Height = √(13² – 5²) = √144 = 12 cm. Area = (6+16)×12÷2 = 22×6 = 132 cm².",
+      "difficulty": "hard",
+      "imgFileName": "37_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 38,
+      "question": "A regular pentagon has a perimeter of 50 cm. What is the measure of one interior angle?",
+      "options": {
+        "A": "108°",
+        "B": "72°",
+        "C": "90°",
+        "D": "120°"
+      },
+      "answer": "A",
+      "explanation": "Side = 10 cm. Sum of interior angles = (5–2)×180 = 540°. Each angle = 540 ÷ 5 = 108°.",
+      "difficulty": "hard",
+      "imgFileName": "38_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 39,
+      "question": "A kite has diagonals of 14 cm and 18 cm. What is its area?",
+      "options": {
+        "A": "126 cm²",
+        "B": "252 cm²",
+        "C": "63 cm²",
+        "D": "144 cm²"
+      },
+      "answer": "A",
+      "explanation": "Area = (14 × 18) ÷ 2 = 126 cm².",
+      "difficulty": "hard",
+      "imgFileName": "39_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 40,
+      "question": "A rectangle has an area of 180 cm² and a length that is 5 cm more than its width. What is the perimeter?",
+      "options": {
+        "A": "54 cm",
+        "B": "48 cm",
+        "C": "60 cm",
+        "D": "42 cm"
+      },
+      "answer": "A",
+      "explanation": "Let width = w, length = w+5. w(w+5) = 180 → w² + 5w – 180 = 0 → (w+15)(w–12)=0 → w=12. Length=17. Perimeter=2(12+17)=58? Wait—12×15=180, so length=15, width=12. Perimeter=2(12+15)=54 cm.",
+      "difficulty": "hard",
+      "imgFileName": "40_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 41,
+      "question": "A rhombus has an area of 120 cm² and a side of 13 cm. What is the length of its longer diagonal?",
+      "options": {
+        "A": "24 cm",
+        "B": "10 cm",
+        "C": "26 cm",
+        "D": "20 cm"
+      },
+      "answer": "A",
+      "explanation": "Let diagonals be d1 and d2. (d1×d2)/2 = 120 → d1×d2=240. Also, (d1/2)² + (d2/2)² = 13² → d1² + d2² = 676. Solving, d1=10, d2=24. Longer diagonal = 24 cm.",
+      "difficulty": "hard",
+      "imgFileName": "41_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 42,
+      "question": "An equilateral triangle is inscribed in a circle of radius 10 cm. What is the side length of the triangle?",
+      "options": {
+        "A": "10√3 cm",
+        "B": "20 cm",
+        "C": "15 cm",
+        "D": "5√3 cm"
+      },
+      "answer": "A",
+      "explanation": "In an equilateral triangle, radius R = side / √3. So side = R√3 = 10√3 cm.",
+      "difficulty": "hard",
+      "imgFileName": "42_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 43,
+      "question": "A parallelogram has sides of 10 cm and 14 cm, and a height of 8 cm corresponding to the 14 cm side. What is its area?",
+      "options": {
+        "A": "112 cm²",
+        "B": "80 cm²",
+        "C": "140 cm²",
+        "D": "96 cm²"
+      },
+      "answer": "A",
+      "explanation": "Area = base × height = 14 × 8 = 112 cm².",
+      "difficulty": "hard",
+      "imgFileName": "43_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 44,
+      "question": "A trapezium has an area of 168 cm², height of 12 cm, and parallel sides in the ratio 3:4. What are the lengths of the parallel sides?",
+      "options": {
+        "A": "12 cm and 16 cm",
+        "B": "9 cm and 12 cm",
+        "C": "15 cm and 20 cm",
+        "D": "18 cm and 24 cm"
+      },
+      "answer": "A",
+      "explanation": "Let sides be 3x and 4x. Area = (3x+4x)×12÷2 = 42x = 168 → x=4. So 12 cm and 16 cm.",
+      "difficulty": "hard",
+      "imgFileName": "44_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 45,
+      "question": "A square has a diagonal of 16 cm. What is its area?",
+      "options": {
+        "A": "128 cm²",
+        "B": "256 cm²",
+        "C": "64 cm²",
+        "D": "192 cm²"
+      },
+      "answer": "A",
+      "explanation": "Side = 16/√2 = 8√2 cm. Area = (8√2)² = 128 cm².",
+      "difficulty": "hard",
+      "imgFileName": "45_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 46,
+      "question": "A regular hexagon has a side length of 10 cm. What is its area?",
+      "options": {
+        "A": "150√3 cm²",
+        "B": "300 cm²",
+        "C": "100√3 cm²",
+        "D": "200√3 cm²"
+      },
+      "answer": "A",
+      "explanation": "Area = (3√3/2) × side² = (3√3/2) × 100 = 150√3 cm².",
+      "difficulty": "hard",
+      "imgFileName": "46_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 47,
+      "question": "How many lines of symmetry does a regular decagon have?",
+      "options": {
+        "A": "10",
+        "B": "5",
+        "C": "12",
+        "D": "8"
+      },
+      "answer": "A",
+      "explanation": "A regular decagon has 10 lines of symmetry.",
+      "difficulty": "hard",
+      "imgFileName": "47_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 48,
+      "question": "A kite has perpendicular diagonals of 16 cm and 20 cm. What is its area?",
+      "options": {
+        "A": "160 cm²",
+        "B": "320 cm²",
+        "C": "80 cm²",
+        "D": "180 cm²"
+      },
+      "answer": "A",
+      "explanation": "Area = (16 × 20) ÷ 2 = 160 cm².",
+      "difficulty": "hard",
+      "imgFileName": "48_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 49,
+      "question": "A rectangle has a length of 20 cm and a width of 12 cm. What is the length of its diagonal?",
+      "options": {
+        "A": "4√34 cm",
+        "B": "32 cm",
+        "C": "28 cm",
+        "D": "24 cm"
+      },
+      "answer": "A",
+      "explanation": "Diagonal = √(20² + 12²) = √(400 + 144) = √544 = √(16×34) = 4√34 cm.",
+      "difficulty": "hard",
+      "imgFileName": "49_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 50,
+      "question": "An equilateral triangle has a height of 12 cm. What is its perimeter?",
+      "options": {
+        "A": "24√3 cm",
+        "B": "36 cm",
+        "C": "18√3 cm",
+        "D": "48 cm"
+      },
+      "answer": "A",
+      "explanation": "Height = (√3/2) × side → side = (12 × 2)/√3 = 24/√3 = 8√3 cm. Perimeter = 3 × 8√3 = 24√3 cm.",
+      "difficulty": "hard",
+      "imgFileName": "50_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 51,
+      "question": "A rhombus has diagonals of 18 cm and 24 cm. What is its perimeter?",
+      "options": {
+        "A": "60 cm",
+        "B": "48 cm",
+        "C": "72 cm",
+        "D": "52 cm"
+      },
+      "answer": "A",
+      "explanation": "Half-diagonals are 9 cm and 12 cm. Side = √(9² + 12²) = √225 = 15 cm. Perimeter = 4 × 15 = 60 cm.",
+      "difficulty": "hard",
+      "imgFileName": "51_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 52,
+      "question": "A regular polygon has an exterior angle of 30°. How many sides does it have?",
+      "options": {
+        "A": "12",
+        "B": "10",
+        "C": "15",
+        "D": "18"
+      },
+      "answer": "A",
+      "explanation": "Number of sides = 360° ÷ exterior angle = 360 ÷ 30 = 12.",
+      "difficulty": "hard",
+      "imgFileName": "52_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 53,
+      "question": "An isosceles triangle has a base of 18 cm and equal sides of 15 cm. What is its area?",
+      "options": {
+        "A": "108 cm²",
+        "B": "90 cm²",
+        "C": "120 cm²",
+        "D": "96 cm²"
+      },
+      "answer": "A",
+      "explanation": "Height = √(15² – 9²) = √(225 – 81) = √144 = 12 cm. Area = (18 × 12) ÷ 2 = 108 cm².",
+      "difficulty": "hard",
+      "imgFileName": "53_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 54,
+      "question": "A parallelogram has an area of 150 cm² and a base of 10 cm. What is the height corresponding to a side of 15 cm?",
+      "options": {
+        "A": "10 cm",
+        "B": "12 cm",
+        "C": "8 cm",
+        "D": "15 cm"
+      },
+      "answer": "A",
+      "explanation": "Area = base × height → 150 = 10 × h₁ → h₁ = 15 cm. Also, area = 15 × h₂ → 150 = 15 × h₂ → h₂ = 10 cm.",
+      "difficulty": "hard",
+      "imgFileName": "54_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 55,
+      "question": "A trapezium has parallel sides of 12 cm and 20 cm, and non-parallel sides of 10 cm each. What is its area?",
+      "options": {
+        "A": "146.64 cm²",
+        "B": "120.01 cm²",
+        "C": "144.58 cm²",
+        "D": "160.32 cm²"
+      },
+      "answer": "A",
+      "explanation": "The difference in bases is 8 cm, so each overhang is 4 cm. Height = √(10² – 4²) = √84 = 2√21. Area= = 1/2 x (12+20) x 2√21 = 32√21 = 146.64 cm²",
+      "difficulty": "hard",
+      "imgFileName": "55_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 56,
+      "question": "A square has an area of 196 cm². What is the length of its diagonal?",
+      "options": {
+        "A": "14√2 cm",
+        "B": "28 cm",
+        "C": "14 cm",
+        "D": "20 cm"
+      },
+      "answer": "A",
+      "explanation": "Side = √196 = 14 cm. Diagonal = 14√2 cm.",
+      "difficulty": "hard",
+      "imgFileName": "56_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 57,
+      "question": "A regular octagon has a side length of 6 cm. What is its perimeter?",
+      "options": {
+        "A": "48 cm",
+        "B": "42 cm",
+        "C": "54 cm",
+        "D": "36 cm"
+      },
+      "answer": "A",
+      "explanation": "Perimeter = 8 × side = 8 × 6 = 48 cm.",
+      "difficulty": "hard",
+      "imgFileName": "57_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 58,
+      "question": "A right-angled triangle has a hypotenuse of 26 cm and one leg of 10 cm. What is its area?",
+      "options": {
+        "A": "120 cm²",
+        "B": "130 cm²",
+        "C": "100 cm²",
+        "D": "140 cm²"
+      },
+      "answer": "A",
+      "explanation": "Other leg = √(26² – 10²) = √(676 – 100) = √576 = 24 cm. Area = (10 × 24) ÷ 2 = 120 cm².",
+      "difficulty": "hard",
+      "imgFileName": "58_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 59,
+      "question": "An equilateral triangle has a side length of 14 cm. What is its area?",
+      "options": {
+        "A": "49√3 cm²",
+        "B": "98 cm²",
+        "C": "196 cm²",
+        "D": "28√3 cm²"
+      },
+      "answer": "A",
+      "explanation": "Area = (√3/4) × side² = (√3/4) × 196 = 49√3 cm².",
+      "difficulty": "hard",
+      "imgFileName": "59_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 60,
+      "question": "A kite has diagonals of 20 cm and 24 cm. What is its area?",
+      "options": {
+        "A": "240 cm²",
+        "B": "480 cm²",
+        "C": "120 cm²",
+        "D": "288 cm²"
+      },
+      "answer": "A",
+      "explanation": "Area = (20 × 24) ÷ 2 = 240 cm².",
+      "difficulty": "hard",
+      "imgFileName": "60_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 61,
+      "question": "A rectangle has a length of 24 cm and a diagonal of 25 cm. What is its area?",
+      "options": {
+        "A": "168 cm²",
+        "B": "144 cm²",
+        "C": "192 cm²",
+        "D": "200 cm²"
+      },
+      "answer": "A",
+      "explanation": "Width = √(25² – 24²) = √(625 – 576) = √49 = 7 cm. Area = 24 × 7 = 168 cm².",
+      "difficulty": "hard",
+      "imgFileName": "61_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 62,
+      "question": "A regular pentagon has an interior angle of 108°. What is the sum of its interior angles?",
+      "options": {
+        "A": "540°",
+        "B": "360°",
+        "C": "720°",
+        "D": "180°"
+      },
+      "answer": "A",
+      "explanation": "Sum = (5 – 2) × 180° = 540°.",
+      "difficulty": "hard",
+      "imgFileName": "62_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 63,
+      "question": "An isosceles triangle has a vertex angle of 40°. What is the measure of each base angle?",
+      "options": {
+        "A": "70°",
+        "B": "80°",
+        "C": "60°",
+        "D": "50°"
+      },
+      "answer": "A",
+      "explanation": "Base angles = (180 – 40) ÷ 2 = 70°.",
+      "difficulty": "hard",
+      "imgFileName": "63_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 64,
+      "question": "A rhombus has a perimeter of 60 cm and an area of 216 cm². What is the length of its shorter diagonal?",
+      "options": {
+        "A": "18 cm",
+        "B": "24 cm",
+        "C": "12 cm",
+        "D": "30 cm"
+      },
+      "answer": "A",
+      "explanation": "Side = 15 cm. Let diagonals be d1 and d2. (d1×d2)/2 = 216 → d1×d2=432. Also, (d1/2)² + (d2/2)² = 225 → d1² + d2² = 900. Solving, d1=18, d2=24. Shorter = 18 cm.",
+      "difficulty": "hard",
+      "imgFileName": "64_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 65,
+      "question": "A parallelogram has adjacent sides of 12 cm and 16 cm, and an included angle of 30°. What is its area?",
+      "options": {
+        "A": "96 cm²",
+        "B": "192 cm²",
+        "C": "48 cm²",
+        "D": "144 cm²"
+      },
+      "answer": "A",
+      "explanation": "Area = ab sinθ = 12 × 16 × sin(30°) = 192 × 0.5 = 96 cm².",
+      "difficulty": "hard",
+      "imgFileName": "65_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 66,
+      "question": "A trapezium has an area of 200 cm², height of 10 cm, and one parallel side of 15 cm. What is the other parallel side?",
+      "options": {
+        "A": "25 cm",
+        "B": "20 cm",
+        "C": "30 cm",
+        "D": "35 cm"
+      },
+      "answer": "A",
+      "explanation": "Area = (a + b) × h ÷ 2 → 200 = (15 + b) × 10 ÷ 2 → 200 = (15 + b) × 5 → 15 + b = 40 → b = 25 cm.",
+      "difficulty": "hard",
+      "imgFileName": "66_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 67,
+      "question": "A square has a diagonal of 18 cm. What is its area?",
+      "options": {
+        "A": "162 cm²",
+        "B": "324 cm²",
+        "C": "81 cm²",
+        "D": "243 cm²"
+      },
+      "answer": "A",
+      "explanation": "Side = 18/√2 = 9√2 cm. Area = (9√2)² = 162 cm².",
+      "difficulty": "hard",
+      "imgFileName": "67_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 68,
+      "question": "An equilateral triangle has a perimeter of 36 cm. What is its height?",
+      "options": {
+        "A": "6√3 cm",
+        "B": "12 cm",
+        "C": "9√3 cm",
+        "D": "18 cm"
+      },
+      "answer": "A",
+      "explanation": "Side = 12 cm. Height = (√3/2) × 12 = 6√3 cm.",
+      "difficulty": "hard",
+      "imgFileName": "68_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 69,
+      "question": "A kite has an area of 150 cm² and one diagonal of 25 cm. What is the length of the other diagonal?",
+      "options": {
+        "A": "12 cm",
+        "B": "10 cm",
+        "C": "15 cm",
+        "D": "20 cm"
+      },
+      "answer": "A",
+      "explanation": "Area = (d1 × d2) ÷ 2 → 150 = (25 × d2) ÷ 2 → d2 = 12 cm.",
+      "difficulty": "hard",
+      "imgFileName": "69_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 70,
+      "question": "A regular hexagon has a side length of 8 cm. What is its area?",
+      "options": {
+        "A": "96√3 cm²",
+        "B": "192 cm²",
+        "C": "64√3 cm²",
+        "D": "128 cm²"
+      },
+      "answer": "A",
+      "explanation": "Area = (3√3/2) × side² = (3√3/2) × 64 = 96√3 cm².",
+      "difficulty": "hard",
+      "imgFileName": "70_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 71,
+      "question": "A rectangle has a length that is twice its width. If the area is 200 cm², what is the perimeter?",
+      "options": {
+        "A": "60 cm",
+        "B": "50 cm",
+        "C": "70 cm",
+        "D": "80 cm"
+      },
+      "answer": "A",
+      "explanation": "Let width = w, length = 2w. Area = 2w² = 200 → w² = 100 → w = 10 cm. Length = 20 cm. Perimeter = 2(10 + 20) = 60 cm.",
+      "difficulty": "hard",
+      "imgFileName": "71_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 72,
+      "question": "An isosceles trapezium has parallel sides of 10 cm and 22 cm, and non-parallel sides of 10 cm each. What is its area?",
+      "options": {
+        "A": "128 cm²",
+        "B": "120 cm²",
+        "C": "144 cm²",
+        "D": "160 cm²"
+      },
+      "answer": "A",
+      "explanation": "Overhang = (22–10)/2 = 6 cm. Height = √(10² – 6²) = √64 = 8 cm. Area = (10+22)×8÷2 = 32×4 = 128 cm².",
+      "difficulty": "hard",
+      "imgFileName": "72_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 73,
+      "question": "A rhombus has diagonals of 14 cm and 48 cm. What is its perimeter?",
+      "options": {
+        "A": "100 cm",
+        "B": "80 cm",
+        "C": "120 cm",
+        "D": "96 cm"
+      },
+      "answer": "A",
+      "explanation": "Half-diagonals = 7 cm and 24 cm. Side = √(7² + 24²) = √625 = 25 cm. Perimeter = 4 × 25 = 100 cm.",
+      "difficulty": "hard",
+      "imgFileName": "73_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 74,
+      "question": "A regular octagon has an exterior angle of 45°. How many sides does it have?",
+      "options": {
+        "A": "8",
+        "B": "6",
+        "C": "10",
+        "D": "12"
+      },
+      "answer": "A",
+      "explanation": "Number of sides = 360° ÷ 45° = 8.",
+      "difficulty": "hard",
+      "imgFileName": "74_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 75,
+      "question": "A right-angled triangle has legs of 12 cm and 16 cm. What is the length of the altitude to the hypotenuse?",
+      "options": {
+        "A": "9.6 cm",
+        "B": "8 cm",
+        "C": "10 cm",
+        "D": "12 cm"
+      },
+      "answer": "A",
+      "explanation": "Hypotenuse = 20 cm. Area = (12×16)/2 = 96 cm². Also, area = (20 × h)/2 = 96 → h = 192/20 = 9.6 cm.",
+      "difficulty": "hard",
+      "imgFileName": "75_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 76,
+      "question": "An equilateral triangle has a side length of 16 cm. What is its area?",
+      "options": {
+        "A": "64√3 cm²",
+        "B": "128 cm²",
+        "C": "256 cm²",
+        "D": "32√3 cm²"
+      },
+      "answer": "A",
+      "explanation": "Area = (√3/4) × 16² = (√3/4) × 256 = 64√3 cm².",
+      "difficulty": "hard",
+      "imgFileName": "76_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 77,
+      "question": "A parallelogram has sides of 15 cm and 20 cm, and a height of 12 cm corresponding to the 20 cm side. What is its area?",
+      "options": {
+        "A": "240 cm²",
+        "B": "180 cm²",
+        "C": "300 cm²",
+        "D": "200 cm²"
+      },
+      "answer": "A",
+      "explanation": "Area = base × height = 20 × 12 = 240 cm².",
+      "difficulty": "hard",
+      "imgFileName": "77_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 78,
+      "question": "A trapezium has parallel sides of 9 cm and 15 cm, and a height of 8 cm. What is its area?",
+      "options": {
+        "A": "96 cm²",
+        "B": "84 cm²",
+        "C": "108 cm²",
+        "D": "72 cm²"
+      },
+      "answer": "A",
+      "explanation": "Area = (9 + 15) × 8 ÷ 2 = 24 × 4 = 96 cm².",
+      "difficulty": "hard",
+      "imgFileName": "78_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 79,
+      "question": "A square has an area of 225 cm². What is the length of its diagonal?",
+      "options": {
+        "A": "15√2 cm",
+        "B": "30 cm",
+        "C": "15 cm",
+        "D": "25 cm"
+      },
+      "answer": "A",
+      "explanation": "Side = 15 cm. Diagonal = 15√2 cm.",
+      "difficulty": "hard",
+      "imgFileName": "79_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 80,
+      "question": "A regular pentagon has a side length of 10 cm. What is its perimeter?",
+      "options": {
+        "A": "50 cm",
+        "B": "40 cm",
+        "C": "60 cm",
+        "D": "30 cm"
+      },
+      "answer": "A",
+      "explanation": "Perimeter = 5 × 10 = 50 cm.",
+      "difficulty": "hard",
+      "imgFileName": "80_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+    "qid": 81,
+    "question": "An isosceles triangle has a perimeter of 64 cm and a base of 14 cm. What is its area?",
+    "options": {
+        "A": "168 cm²",
+        "B": "140 cm²",
+        "C": "180 cm²",
+        "D": "156 cm²"
+    },
+    "answer": "A",
+    "explanation": "1. Find the equal sides: (64 cm - 14 cm) ÷ 2 = 25 cm. \n2. Find the height using the Pythagorean theorem with half the base (7 cm): Height = √(25² - 7²) = √(625 - 49) = √576 = 24 cm. \n3. Calculate Area: (1/2) × base × height = (1/2) × 14 × 24 = 168 cm².",
+    "difficulty": "hard",
+    "imgFileName": "81_Year4-Geometry-properties_of_shapes_hard.png",
+    "used": 0,
+    "type": "Year4-Geometry-properties_of_shapes"
+},
+    {
+      "qid": 82,
+      "question": "A kite has diagonals of 21 cm and 28 cm. What is its area?",
+      "options": {
+        "A": "294 cm²",
+        "B": "588 cm²",
+        "C": "147 cm²",
+        "D": "336 cm²"
+      },
+      "answer": "A",
+      "explanation": "Area = (21 × 28) ÷ 2 = 294 cm².",
+      "difficulty": "hard",
+      "imgFileName": "82_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 83,
+      "question": "A rectangle has a diagonal of 25 cm and a width of 7 cm. What is its area?",
+      "options": {
+        "A": "168 cm²",
+        "B": "175 cm²",
+        "C": "140 cm²",
+        "D": "196 cm²"
+      },
+      "answer": "A",
+      "explanation": "Length = √(25² – 7²) = √(625 – 49) = √576 = 24 cm. Area = 24 × 7 = 168 cm².",
+      "difficulty": "hard",
+      "imgFileName": "83_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 84,
+      "question": "A regular hexagon has a perimeter of 72 cm. What is its area?",
+      "options": {
+        "A": "216√3 cm²",
+        "B": "432 cm²",
+        "C": "144√3 cm²",
+        "D": "288 cm²"
+      },
+      "answer": "A",
+      "explanation": "Side = 12 cm. Area = (3√3/2) × 12² = (3√3/2) × 144 = 216√3 cm².",
+      "difficulty": "hard",
+      "imgFileName": "84_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 85,
+      "question": "An equilateral triangle has a height of 9 cm. What is its perimeter?",
+      "options": {
+        "A": "18√3 cm",
+        "B": "27 cm",
+        "C": "36 cm",
+        "D": "12√3 cm"
+      },
+      "answer": "A",
+      "explanation": "Height = (√3/2) × side → side = (9 × 2)/√3 = 18/√3 = 6√3 cm. Perimeter = 3 × 6√3 = 18√3 cm.",
+      "difficulty": "hard",
+      "imgFileName": "85_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 87,
+      "question": "A parallelogram has adjacent angles in the ratio 3:2. What is the measure of the larger angle?",
+      "options": {
+        "A": "108°",
+        "B": "72°",
+        "C": "90°",
+        "D": "120°"
+      },
+      "answer": "A",
+      "explanation": "Let angles be 3x and 2x. 3x + 2x = 180 → 5x = 180 → x = 36. Larger angle = 3×36 = 108°.",
+      "difficulty": "hard",
+      "imgFileName": "87_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 88,
+      "question": "A trapezium has an area of 210 cm², height of 14 cm, and parallel sides in the ratio 2:3. What are the lengths of the parallel sides?",
+      "options": {
+        "A": "12 cm and 18 cm",
+        "B": "10 cm and 15 cm",
+        "C": "14 cm and 21 cm",
+        "D": "16 cm and 24 cm"
+      },
+      "answer": "A",
+      "explanation": "Let sides be 2x and 3x. Area = (2x+3x)×14÷2 = 35x = 210 → x=6. So 12 cm and 18 cm.",
+      "difficulty": "hard",
+      "imgFileName": "88_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 89,
+      "question": "A square has a diagonal of 20 cm. What is its area?",
+      "options": {
+        "A": "200 cm²",
+        "B": "400 cm²",
+        "C": "100 cm²",
+        "D": "300 cm²"
+      },
+      "answer": "A",
+      "explanation": "Side = 20/√2 = 10√2 cm. Area = (10√2)² = 200 cm².",
+      "difficulty": "hard",
+      "imgFileName": "89_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 90,
+      "question": "An isosceles right-angled triangle has a hypotenuse of 10√2 cm. What is its area?",
+      "options": {
+        "A": "50 cm²",
+        "B": "100 cm²",
+        "C": "25 cm²",
+        "D": "75 cm²"
+      },
+      "answer": "A",
+      "explanation": "Legs = 10 cm each. Area = (10 × 10) ÷ 2 = 50 cm².",
+      "difficulty": "hard",
+      "imgFileName": "90_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 91,
+      "question": "A regular decagon has a side length of 5 cm. What is its perimeter?",
+      "options": {
+        "A": "50 cm",
+        "B": "40 cm",
+        "C": "60 cm",
+        "D": "45 cm"
+      },
+      "answer": "A",
+      "explanation": "Perimeter = 10 × 5 = 50 cm.",
+      "difficulty": "hard",
+      "imgFileName": "91_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 92,
+        "question": "A kite has an area of 240 cm² and diagonals in the ratio 5:6. What is the length of the shorter diagonal?",
+        "options": {
+            "A": "20 cm",
+            "B": "24 cm",
+            "C": "25 cm",
+            "D": "18 cm"
+        },
+        "answer": "A",
+        "explanation": "1. Let the diagonals be 5x and 6x. \n2. Use the area formula: Area = (d1 × d2) ÷ 2. \n3. 240 = (5x × 6x) ÷ 2 \n4. 240 = 30x² ÷ 2 \n5. 240 = 15x² \n6. x² = 16, so x = 4. \n7. Shorter diagonal = 5x = 5 × 4 = 20 cm.",
+        "difficulty": "hard",
+        "imgFileName": "92_Year4-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year4-Geometry-properties_of_shapes"
+},
+    {
+      "qid": 93,
+      "question": "A rectangle has a length of 21 cm and a width of 20 cm. What is the length of its diagonal?",
+      "options": {
+        "A": "29 cm",
+        "B": "41 cm",
+        "C": "35 cm",
+        "D": "31 cm"
+      },
+      "answer": "A",
+      "explanation": "Diagonal = √(21² + 20²) = √(441 + 400) = √841 = 29 cm.",
+      "difficulty": "hard",
+      "imgFileName": "93_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 94,
+      "question": "An equilateral triangle has a side length of 18 cm. What is its height?",
+      "options": {
+        "A": "9√3 cm",
+        "B": "18 cm",
+        "C": "12√3 cm",
+        "D": "6√3 cm"
+      },
+      "answer": "A",
+      "explanation": "Height = (√3/2) × 18 = 9√3 cm.",
+      "difficulty": "hard",
+      "imgFileName": "94_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 95,
+      "question": "A rhombus has diagonals of 16 cm and 30 cm. What is its area?",
+      "options": {
+        "A": "240 cm²",
+        "B": "480 cm²",
+        "C": "120 cm²",
+        "D": "360 cm²"
+      },
+      "answer": "A",
+      "explanation": "Area = (16 × 30) ÷ 2 = 240 cm².",
+      "difficulty": "hard",
+      "imgFileName": "95_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 96,
+      "question": "A regular polygon has an interior angle of 140°. How many sides does it have?",
+      "options": {
+        "A": "9",
+        "B": "8",
+        "C": "10",
+        "D": "12"
+      },
+      "answer": "A",
+      "explanation": "Exterior angle = 180 – 140 = 40°. Number of sides = 360 ÷ 40 = 9.",
+      "difficulty": "hard",
+      "imgFileName": "96_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 97,
+      "question": "An isosceles triangle has a base of 24 cm and equal sides of 13 cm. What is its area?",
+      "options": {
+        "A": "60 cm²",
+        "B": "120 cm²",
+        "C": "156 cm²",
+        "D": "78 cm²"
+      },
+      "answer": "A",
+      "explanation": "Height = √(13² – 12²) = √(169 – 144) = √25 = 5 cm. Area = (24 × 5) ÷ 2 = 60 cm².",
+      "difficulty": "hard",
+      "imgFileName": "97_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+      "qid": 98,
+      "question": "A parallelogram has an area of 200 cm² and a base of 25 cm. What is the height corresponding to a side of 20 cm?",
+      "options": {
+        "A": "10 cm",
+        "B": "8 cm",
+        "C": "12 cm",
+        "D": "15 cm"
+      },
+      "answer": "A",
+      "explanation": "Area = base × height → 200 = 25 × h₁ → h₁ = 8 cm. Also, area = 20 × h₂ → 200 = 20 × h₂ → h₂ = 10 cm.",
+      "difficulty": "hard",
+      "imgFileName": "98_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 99,
+        "question": "A trapezium has parallel sides of 9 cm and 21 cm, and non-parallel sides of 10 cm each. What is its area?",
+        "options": {
+            "A": "120 cm²",
+            "B": "110 cm²",
+            "C": "130 cm²",
+            "D": "140 cm²"
+        },
+        "answer": "A",
+        "explanation": "1. Find the 'overhang' on each side: (21 - 9) ÷ 2 = 6 cm. \n2. Find the height using the Pythagorean theorem: Height = √(10² - 6²) = √(100 - 36) = √64 = 8 cm. \n3. Calculate the area: (Sum of parallel sides ÷ 2) × height = ((9 + 21) ÷ 2) × 8 = 15 × 8 = 120 cm².",
+        "difficulty": "hard",
+        "imgFileName": "99_Year4-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year4-Geometry-properties_of_shapes"
+},
+    {
+      "qid": 100,
+      "question": "How many lines of symmetry does a regular nonagon have?",
+      "options": {
+        "A": "9",
+        "B": "6",
+        "C": "12",
+        "D": "8"
+      },
+      "answer": "A",
+      "explanation": "A regular nonagon has 9 lines of symmetry.",
+      "difficulty": "hard",
+      "imgFileName": "100_Year4-Geometry-properties_of_shapes_hard.png",
+      "used": 0,
+      "type": "Year4-Geometry-properties_of_shapes"
+    }
+  ]

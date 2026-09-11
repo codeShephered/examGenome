@@ -1,0 +1,388 @@
+Question: What are the coordinates of point B in the given grid?
+Status: Success
+
+Question: If a point is translated 3 units to the right and 2 units up from (1, 1), what are its new coordinates?
+Status: Success
+
+Question: Which of the following points lies on the line y = x + 1?
+Status: Success
+
+Question: What is the coordinate of the point that is 5 units to the left and 3 units down from (7, 6)?
+Status: Success
+
+Question: Which of the following coordinates represents a point that is 4 units to the right and 1 unit up from (2, 3)?
+Status: Success
+
+Question: What are the coordinates of the point that is 2 units to the left and 5 units up from (3, 1)?
+Status: Success
+
+Question: Which of the following points is not on the line y = 2x - 1?
+Status: Error
+Explanation: The line equation is y = 2x - 1.
+Let's check each option:
+A: (1, 1) -> 1 = 2(1) - 1 => 1 = 1 (This point IS on the line)
+B: (2, 3) -> 3 = 2(2) - 1 => 3 = 3 (This point IS on the line)
+C: (3, 5) -> 5 = 2(3) - 1 => 5 = 5 (This point IS on the line)
+D: (4, 7) -> 7 = 2(4) - 1 => 7 = 7 (This point IS on the line)
+The question asks for a point that is *not* on the line. All provided options lie on the line. Therefore, the designated answer 'D' is incorrect as (4, 7) is on the line.
+
+Question: What are the coordinates of the point that is 6 units to the right and 2 units down from (1, 5)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 3x?
+Status: Success
+
+Question: What are the coordinates of the point that is 3 units to the left and 4 units down from (5, 7)?
+Status: Success
+
+Question: What are the coordinates of point A in the given grid?
+Status: Success
+
+Question: If point B is translated 4 units to the right and 3 units up, what are the coordinates of point B'?
+Status: Error
+Explanation: The initial coordinates of point B are not provided in the question or context, making it impossible to calculate the translated coordinates of B'.
+
+Question: Which of the following points lies on the line passing through points P, Q, and R?
+Status: Error
+Explanation: The coordinates of points P, Q, and R are not provided, making it impossible to determine the equation of the line and thus which option lies on it.
+
+Question: What are the coordinates of point C' after translating point C 2 units to the left and 5 units down?
+Status: Error
+Explanation: The initial coordinates of point C are not provided in the question or context, making it impossible to calculate the translated coordinates of C'.
+
+Question: Which of the following points lies on the line passing through points X, Y, and Z?
+Status: Error
+Explanation: The coordinates of points X, Y, and Z are not provided, making it impossible to determine the equation of the line and thus which option lies on it.
+
+Question: What are the coordinates of point D' after translating point D 3 units to the right and 2 units down?
+Status: Error
+Explanation: The initial coordinates of point D are not provided in the question or context, making it impossible to calculate the translated coordinates of D'.
+
+Question: Which of the following points lies on the line passing through points M, N, and O?
+Status: Error
+Explanation: The coordinates of points M, N, and O are not provided, making it impossible to determine the equation of the line and thus which option lies on it.
+
+Question: What are the coordinates of point E' after translating point E 1 unit to the left and 4 units up?
+Status: Error
+Explanation: The initial coordinates of point E are not provided in the question or context, making it impossible to calculate the translated coordinates of E'.
+
+Question: Which of the following points lies on the line passing through points S, T, and U?
+Status: Error
+Explanation: The coordinates of points S, T, and U are not provided, making it impossible to determine the equation of the line and thus which option lies on it.
+
+Question: What are the coordinates of point F' after translating point F 3 units to the left and 1 unit up?
+Status: Error
+Explanation: The initial coordinates of point F are not provided in the question or context, making it impossible to calculate the translated coordinates of F'.
+
+Question: What are the coordinates of the point that is 5 units to the right and 3 units up from (2, 1)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 2x + 1?
+Status: Success
+
+Question: What are the coordinates of the point that is 4 units to the left and 6 units down from (8, 7)?
+Status: Success
+
+Question: Which of the following points lies on the line y = x - 3?
+Status: Success
+
+Question: What are the coordinates of the point that is 7 units to the right and 2 units down from (1, 5)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 3x - 2?
+Status: Success
+
+Question: What are the coordinates of the point that is 3 units to the left and 5 units up from (6, 2)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 4x?
+Status: Success
+
+Question: What are the coordinates of the point that is 2 units to the right and 7 units down from (3, 9)?
+Status: Success
+
+Question: Which of the following points lies on the line y = x + 5?
+Status: Success
+
+Question: What are the coordinates of the point that is 6 units to the left and 1 unit up from (9, 3)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 2x - 3?
+Status: Success
+
+Question: What are the coordinates of the point that is 5 units to the right and 4 units down from (2, 8)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 5x?
+Status: Success
+
+Question: What are the coordinates of the point that is 4 units to the left and 3 units up from (7, 1)?
+Status: Success
+
+Question: Which of the following points lies on the line y = x - 4?
+Status: Error
+Explanation: The line equation is y = x - 4.
+Let's check the designated answer B: (6, 3) -> 3 = 6 - 4 => 3 = 2. This is False.
+Let's check all options:
+A: (5, 2) -> 2 = 5 - 4 => 2 = 1 (False)
+B: (6, 3) -> 3 = 6 - 4 => 3 = 2 (False)
+C: (7, 4) -> 4 = 7 - 4 => 4 = 3 (False)
+D: (8, 5) -> 5 = 8 - 4 => 5 = 4 (False)
+None of the options lie on the line y = x - 4. Therefore, the designated answer 'B' is incorrect.
+
+Question: What are the coordinates of the point that is 8 units to the right and 2 units down from (1, 6)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 3x + 2?
+Status: Success
+
+Question: What are the coordinates of the point that is 7 units to the left and 5 units up from (8, 2)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 2x + 1?
+Status: Success
+
+Question: What are the coordinates of the point that is 3 units to the right and 6 units up from (4, 1)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 4x - 1?
+Status: Success
+
+Question: What are the coordinates of the point that is 5 units to the left and 4 units down from (9, 7)?
+Status: Success
+
+Question: Which of the following points lies on the line y = x + 3?
+Status: Error
+Explanation: The line equation is y = x + 3.
+Let's check the designated answer B: (2, 6) -> 6 = 2 + 3 => 6 = 5. This is False.
+Let's check all options:
+A: (1, 5) -> 5 = 1 + 3 => 5 = 4 (False)
+B: (2, 6) -> 6 = 2 + 3 => 6 = 5 (False)
+C: (3, 7) -> 7 = 3 + 3 => 7 = 6 (False)
+D: (4, 8) -> 8 = 4 + 3 => 8 = 7 (False)
+None of the options lie on the line y = x + 3. Therefore, the designated answer 'B' is incorrect.
+
+Question: What are the coordinates of the point that is 6 units to the right and 3 units down from (3, 8)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 5x + 2?
+Status: Success
+
+Question: What are the coordinates of the point that is 2 units to the left and 7 units up from (5, 3)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 2x - 4?
+Status: Success
+
+Question: What are the coordinates of the point that is 4 units to the right and 5 units down from (6, 9)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 3x + 1?
+Status: Success
+
+Question: What are the coordinates of the point that is 5 units to the left and 2 units up from (7, 4)?
+Status: Success
+
+Question: Which of the following points lies on the line y = x + 4?
+Status: Error
+Explanation: The line equation is y = x + 4.
+Let's check the designated answer A: (1, 6) -> 6 = 1 + 4 => 6 = 5. This is False.
+Let's check all options:
+A: (1, 6) -> 6 = 1 + 4 => 6 = 5 (False)
+B: (2, 7) -> 7 = 2 + 4 => 7 = 6 (False)
+C: (3, 8) -> 8 = 3 + 4 => 8 = 7 (False)
+D: (4, 9) -> 9 = 4 + 4 => 9 = 8 (False)
+None of the options lie on the line y = x + 4. Therefore, the designated answer 'A' is incorrect.
+
+Question: What are the coordinates of the point that is 6 units to the right and 4 units up from (3, 2)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 2x + 3?
+Status: Success
+
+Question: What are the coordinates of the point that is 3 units to the left and 6 units down from (8, 7)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 4x - 2?
+Status: Success
+
+Question: What are the coordinates of the point that is 7 units to the right and 1 unit down from (2, 5)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 3x?
+Status: Success
+
+Question: What are the coordinates of the point that is 4 units to the left and 3 units up from (9, 1)?
+Status: Success
+
+Question: Which of the following points lies on the line y = x - 2?
+Status: Error
+Explanation: The line equation is y = x - 2.
+Let's check the designated answer B: (4, 3) -> 3 = 4 - 2 => 3 = 2. This is False.
+Let's check all options:
+A: (3, 2) -> 2 = 3 - 2 => 2 = 1 (False)
+B: (4, 3) -> 3 = 4 - 2 => 3 = 2 (False)
+C: (5, 4) -> 4 = 5 - 2 => 4 = 3 (False)
+D: (6, 5) -> 5 = 6 - 2 => 5 = 4 (False)
+None of the options lie on the line y = x - 2. Therefore, the designated answer 'B' is incorrect.
+
+Question: What are the coordinates of the point that is 8 units to the right and 2 units down from (1, 6)?
+Status: Success
+
+Which of the following points lies on the line y = x + 4Question: Which of the following points lies on the line y = 2x + 5?
+Status: Success
+
+Question: What are the coordinates of the point that is 3 units to the right and 7 units up from (4, 2)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 5x - 3?
+Status: Success
+
+Question: What are the coordinates of the point that is 2 units to the left and 4 units down from (7, 8)?
+Status: Success
+
+Question: Which of the following points lies on the line y = x + 6?
+Status: Error
+Explanation: The line equation is y = x + 6.
+Let's check the designated answer B: (2, 9) -> 9 = 2 + 6 => 9 = 8. This is False.
+Let's check all options:
+A: (1, 8) -> 8 = 1 + 6 => 8 = 7 (False)
+B: (2, 9) -> 9 = 2 + 6 => 9 = 8 (False)
+C: (3, 10) -> 10 = 3 + 6 => 10 = 9 (False)
+D: (4, 11) -> 11 = 4 + 6 => 11 = 10 (False)
+None of the options lie on the line y = x + 6. Therefore, the designated answer 'B' is incorrect.
+
+Question: What are the coordinates of the point that is 5 units to the right and 3 units down from (2, 9)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 3x + 4?
+Status: Success
+
+Question: What are the coordinates of the point that is 6 units to the left and 2 units up from (8, 3)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 2x - 5?
+Status: Success
+
+Question: What are the coordinates of the point that is 7 units to the right and 4 units up from (1, 2)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 4x + 1?
+Status: Success
+
+Question: What are the coordinates of the point that is 4 units to the left and 5 units down from (9, 6)?
+Status: Success
+
+Question: Which of the following points lies on the line y = x - 1?
+Status: Error
+Explanation: The line equation is y = x - 1.
+Let's check the designated answer A: (2, 2) -> 2 = 2 - 1 => 2 = 1. This is False.
+Let's check all options:
+A: (2, 2) -> 2 = 2 - 1 => 2 = 1 (False)
+B: (3, 3) -> 3 = 3 - 1 => 3 = 2 (False)
+C: (4, 4) -> 4 = 4 - 1 => 4 = 3 (False)
+D: (5, 5) -> 5 = 5 - 1 => 5 = 4 (False)
+None of the options lie on the line y = x - 1. Therefore, the designated answer 'A' is incorrect.
+
+Question: What are the coordinates of the point that is 5 units to the right and 2 units up from (3, 4)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 3x - 2?
+Status: Success
+
+Question: What are the coordinates of the point that is 6 units to the left and 3 units down from (7, 5)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 2x + 3?
+Status: Success
+
+Question: What are the coordinates of the point that is 3 units to the right and 4 units down from (5, 8)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 5x?
+Status: Success
+
+Question: What are the coordinates of the point that is 2 units to the left and 5 units up from (6, 3)?
+Status: Success
+
+Question: Which of the following points lies on the line y = x + 2?
+Status: Error
+Explanation: The line equation is y = x + 2.
+Let's check the designated answer B: (2, 5) -> 5 = 2 + 2 => 5 = 4. This is False.
+Let's check all options:
+A: (1, 4) -> 4 = 1 + 2 => 4 = 3 (False)
+B: (2, 5) -> 5 = 2 + 2 => 5 = 4 (False)
+C: (3, 6) -> 6 = 3 + 2 => 6 = 5 (False)
+D: (4, 7) -> 7 = 4 + 2 => 7 = 6 (False)
+None of the options lie on the line y = x + 2. Therefore, the designated answer 'B' is incorrect.
+
+Question: What are the coordinates of the point that is 4 units to the right and 1 unit down from (2, 6)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 3x - 1?
+Status: Success
+
+Question: What are the coordinates of the point that is 5 units to the left and 2 units up from (8, 4)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 2x + 4?
+Status: Success
+
+Question: What are the coordinates of the point that is 3 units to the right and 6 units down from (4, 9)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 4x + 2?
+Status: Success
+
+Question: What are the coordinates of the point that is 6 units to the left and 4 units up from (9, 2)?
+Status: Success
+
+Question: Which of the following points lies on the line y = x - 5?
+Status: Error
+Explanation: The line equation is y = x - 5.
+Let's check the designated answer B: (7, 3) -> 3 = 7 - 5 => 3 = 2. This is False.
+Let's check all options:
+A: (6, 2) -> 2 = 6 - 5 => 2 = 1 (False)
+B: (7, 3) -> 3 = 7 - 5 => 3 = 2 (False)
+C: (8, 4) -> 4 = 8 - 5 => 4 = 3 (False)
+D: (9, 5) -> 5 = 9 - 5 => 5 = 4 (False)
+None of the options lie on the line y = x - 5. Therefore, the designated answer 'B' is incorrect.
+
+Question: What are the coordinates of the point that is 7 units to the right and 3 units down from (2, 8)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 3x + 5?
+Status: Success
+
+Question: What are the coordinates of the point that is 4 units to the left and 2 units down from (7, 5)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 2x - 6?
+Status: Success
+
+Question: What are the coordinates of the point that is 5 units to the right and 4 units up from (3, 2)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 5x - 4?
+Status: Success
+
+Question: What are the coordinates of the point that is 6 units to the left and 5 units up from (8, 1)?
+Status: Success
+
+Question: Which of the following points lies on the line y = x + 7?
+Status: Error
+Explanation: The line equation is y = x + 7.
+Let's check the designated answer B: (2, 10) -> 10 = 2 + 7 => 10 = 9. This is False.
+Let's check all options:
+A: (1, 9) -> 9 = 1 + 7 => 9 = 8 (False)
+B: (2, 10) -> 10 = 2 + 7 => 10 = 9 (False)
+C: (3, 11) -> 11 = 3 + 7 => 11 = 10 (False)
+D: (4, 12) -> 12 = 4 + 7 => 12 = 11 (False)
+None of the options lie on the line y = x + 7. Therefore, the designated answer 'B' is incorrect.
+
+Question: What are the coordinates of the point that is 3 units to the right and 7 units down from (5, 9)?
+Status: Success
+
+Question: Which of the following points lies on the line y = 4x - 3?
+Status: Success
+

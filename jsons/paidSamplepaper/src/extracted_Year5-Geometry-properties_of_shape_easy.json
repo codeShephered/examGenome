@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "Which 3-D shape is represented by this 2-D drawing?",
+        "answer": "A",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Pyramid",
+            "D": "Sphere"
+        }
+    },
+    {
+        "question": "Which of these shapes is a cuboid?",
+        "answer": "B",
+        "options": {
+            "A": "A shape with all faces as squares",
+            "B": "A shape with six rectangular faces",
+            "C": "A shape with a circular base",
+            "D": "A shape with a triangular base"
+        }
+    },
+    {
+        "question": "What is the total angle at a point (all around a dot)?",
+        "answer": "D",
+        "options": {
+            "A": "90\u00b0",
+            "B": "180\u00b0",
+            "C": "270\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "What is the total angle on a straight line?",
+        "answer": "B",
+        "options": {
+            "A": "90\u00b0",
+            "B": "180\u00b0",
+            "C": "270\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which angle is less than 90\u00b0?",
+        "answer": "A",
+        "options": {
+            "A": "Acute",
+            "B": "Obtuse",
+            "C": "Reflex",
+            "D": "Right"
+        }
+    },
+    {
+        "question": "Which angle is greater than 90\u00b0 but less than 180\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "Acute",
+            "B": "Obtuse",
+            "C": "Reflex",
+            "D": "Right"
+        }
+    },
+    {
+        "question": "Which angle is greater than 180\u00b0 but less than 360\u00b0?",
+        "answer": "C",
+        "options": {
+            "A": "Acute",
+            "B": "Obtuse",
+            "C": "Reflex",
+            "D": "Right"
+        }
+    },
+    {
+        "question": "What is the measure of a right angle?",
+        "answer": "B",
+        "options": {
+            "A": "45\u00b0",
+            "B": "90\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these is a regular polygon?",
+        "answer": "B",
+        "options": {
+            "A": "A rectangle with sides 4 cm and 6 cm",
+            "B": "A pentagon with all sides and angles equal",
+            "C": "A quadrilateral with sides 3 cm, 4 cm, 5 cm, 6 cm",
+            "D": "A triangle with sides 3 cm, 4 cm, 5 cm"
+        }
+    },
+    {
+        "question": "Which of these is an irregular polygon?",
+        "answer": "C",
+        "options": {
+            "A": "A square",
+            "B": "An equilateral triangle",
+            "C": "A rectangle with sides 3 cm and 5 cm",
+            "D": "A pentagon with all sides and angles equal"
+        }
+    },
+    {
+        "question": "What is the sum of the angles in a triangle?",
+        "answer": "B",
+        "options": {
+            "A": "90\u00b0",
+            "B": "180\u00b0",
+            "C": "270\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "What is the measure of angle A in this right-angled triangle if angle B is 30\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "30\u00b0",
+            "B": "60\u00b0",
+            "C": "90\u00b0",
+            "D": "120\u00b0"
+        }
+    },
+    {
+        "question": "What is the measure of angle C in this triangle if angle A is 40\u00b0 and angle B is 70\u00b0?",
+        "answer": "C",
+        "options": {
+            "A": "30\u00b0",
+            "B": "50\u00b0",
+            "C": "70\u00b0",
+            "D": "110\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has exactly four right angles?",
+        "answer": "B",
+        "options": {
+            "A": "Rhombus",
+            "B": "Rectangle",
+            "C": "Parallelogram",
+            "D": "Trapezoid"
+        }
+    },
+    {
+        "question": "What is the measure of angle D in this rectangle if angle C is 90\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "45\u00b0",
+            "B": "90\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has all sides equal and all angles equal?",
+        "answer": "B",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle E in this square?",
+        "answer": "C",
+        "options": {
+            "A": "45\u00b0",
+            "B": "60\u00b0",
+            "C": "90\u00b0",
+            "D": "120\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has opposite sides equal and parallel, but not all angles are right angles?",
+        "answer": "D",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle F in this parallelogram if angle G is 110\u00b0?",
+        "answer": "A",
+        "options": {
+            "A": "70\u00b0",
+            "B": "80\u00b0",
+            "C": "90\u00b0",
+            "D": "110\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has only one pair of parallel sides?",
+        "answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Trapezoid",
+            "D": "Rhombus"
+        }
+    },
+    {
+        "question": "What is the measure of angle H in this isosceles triangle if angle I is 70\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "35\u00b0",
+            "B": "55\u00b0",
+            "C": "70\u00b0",
+            "D": "110\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has all sides equal but not all angles equal?",
+        "answer": "B",
+        "options": {
+            "A": "Square",
+            "B": "Rhombus",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle J in this rhombus if angle K is 60\u00b0?",
+        "answer": "C",
+        "options": {
+            "A": "60\u00b0",
+            "B": "90\u00b0",
+            "C": "120\u00b0",
+            "D": "150\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has four sides of equal length and four right angles?",
+        "answer": "B",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle L in this square?",
+        "answer": "C",
+        "options": {
+            "A": "45\u00b0",
+            "B": "60\u00b0",
+            "C": "90\u00b0",
+            "D": "120\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has two pairs of parallel sides and all angles are right angles?",
+        "answer": "C",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle M in this rectangle if angle N is 90\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "45\u00b0",
+            "B": "90\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has all sides equal and opposite angles equal?",
+        "answer": "B",
+        "options": {
+            "A": "Square",
+            "B": "Rhombus",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle O in this rhombus if angle P is 50\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "50\u00b0",
+            "B": "130\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has only one line of symmetry?",
+        "answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Isosceles triangle",
+            "D": "Equilateral triangle"
+        }
+    },
+    {
+        "question": "What is the measure of angle Q in this isosceles triangle if angle R is 40\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "40\u00b0",
+            "B": "70\u00b0",
+            "C": "100\u00b0",
+            "D": "140\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has three lines of symmetry?",
+        "answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Equilateral triangle",
+            "D": "Isosceles triangle"
+        }
+    },
+    {
+        "question": "What is the measure of angle S in this equilateral triangle?",
+        "answer": "B",
+        "options": {
+            "A": "45\u00b0",
+            "B": "60\u00b0",
+            "C": "90\u00b0",
+            "D": "120\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has four lines of symmetry?",
+        "answer": "C",
+        "options": {
+            "A": "Rectangle",
+            "B": "Rhombus",
+            "C": "Square",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle T in this square?",
+        "answer": "C",
+        "options": {
+            "A": "45\u00b0",
+            "B": "60\u00b0",
+            "C": "90\u00b0",
+            "D": "120\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has two lines of symmetry?",
+        "answer": "A",
+        "options": {
+            "A": "Isosceles triangle",
+            "B": "Scalene triangle",
+            "C": "Right-angled triangle",
+            "D": "Equilateral triangle"
+        }
+    },
+    {
+        "question": "What is the measure of angle U in this rectangle if angle V is 90\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "45\u00b0",
+            "B": "90\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has no lines of symmetry?",
+        "answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Scalene triangle",
+            "D": "Isosceles triangle"
+        }
+    },
+    {
+        "question": "What is the measure of angle W in this right-angled triangle if angle X is 30\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "30\u00b0",
+            "B": "60\u00b0",
+            "C": "90\u00b0",
+            "D": "120\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has all sides equal and all angles equal, but is not a square?",
+        "answer": "D",
+        "options": {
+            "A": "Rhombus",
+            "B": "Rectangle",
+            "C": "Equilateral triangle",
+            "D": "Regular pentagon"
+        }
+    },
+    {
+        "question": "What is the measure of angle Y in this regular pentagon?",
+        "answer": "B",
+        "options": {
+            "A": "72\u00b0",
+            "B": "108\u00b0",
+            "C": "120\u00b0",
+            "D": "144\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has five lines of symmetry?",
+        "answer": "B",
+        "options": {
+            "A": "Square",
+            "B": "Regular pentagon",
+            "C": "Equilateral triangle",
+            "D": "Regular hexagon"
+        }
+    },
+    {
+        "question": "What is the measure of angle Z in this regular hexagon?",
+        "answer": "B",
+        "options": {
+            "A": "60\u00b0",
+            "B": "120\u00b0",
+            "C": "150\u00b0",
+            "D": "180\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has six lines of symmetry?",
+        "answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Regular pentagon",
+            "C": "Regular hexagon",
+            "D": "Equilateral triangle"
+        }
+    },
+    {
+        "question": "What is the measure of angle AA in this regular octagon?",
+        "answer": "B",
+        "options": {
+            "A": "120\u00b0",
+            "B": "135\u00b0",
+            "C": "140\u00b0",
+            "D": "150\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has eight lines of symmetry?",
+        "answer": "D",
+        "options": {
+            "A": "Square",
+            "B": "Regular pentagon",
+            "C": "Regular hexagon",
+            "D": "Regular octagon"
+        }
+    },
+    {
+        "question": "What is the measure of angle AB in this rectangle if angle AC is 90\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "45\u00b0",
+            "B": "90\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has all sides equal and all angles equal, and is not a square or a regular pentagon?",
+        "answer": "B",
+        "options": {
+            "A": "Rhombus",
+            "B": "Regular hexagon",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle AD in this regular hexagon?",
+        "answer": "B",
+        "options": {
+            "A": "60\u00b0",
+            "B": "120\u00b0",
+            "C": "150\u00b0",
+            "D": "180\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has all sides equal and all angles equal, and is not a square, regular pentagon, or regular hexagon?",
+        "answer": "B",
+        "options": {
+            "A": "Rhombus",
+            "B": "Regular octagon",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle AE in this regular octagon?",
+        "answer": "B",
+        "options": {
+            "A": "120\u00b0",
+            "B": "135\u00b0",
+            "C": "140\u00b0",
+            "D": "150\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has all sides equal and all angles equal, and is not a square, regular pentagon, regular hexagon, or regular octagon?",
+        "answer": "B",
+        "options": {
+            "A": "Rhombus",
+            "B": "Regular nonagon",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle AF in this regular nonagon?",
+        "answer": "B",
+        "options": {
+            "A": "120\u00b0",
+            "B": "140\u00b0",
+            "C": "150\u00b0",
+            "D": "160\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has all sides equal and all angles equal, and is not a square, regular pentagon, regular hexagon, regular octagon, or regular nonagon?",
+        "answer": "B",
+        "options": {
+            "A": "Rhombus",
+            "B": "Regular decagon",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle AG in this regular decagon?",
+        "answer": "B",
+        "options": {
+            "A": "120\u00b0",
+            "B": "144\u00b0",
+            "C": "150\u00b0",
+            "D": "160\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has all sides equal and all angles equal, and is not a square, regular pentagon, regular hexagon, regular octagon, regular nonagon, or regular decagon?",
+        "answer": "B",
+        "options": {
+            "A": "Rhombus",
+            "B": "Regular dodecagon",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle AH in this regular dodecagon?",
+        "answer": "B",
+        "options": {
+            "A": "120\u00b0",
+            "B": "150\u00b0",
+            "C": "160\u00b0",
+            "D": "170\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has all sides equal and all angles equal, and is not a square, regular pentagon, regular hexagon, regular octagon, regular nonagon, regular decagon, or regular dodecagon?",
+        "answer": "B",
+        "options": {
+            "A": "Rhombus",
+            "B": "Regular 15-gon",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle AI in this regular 15-gon?",
+        "answer": "B",
+        "options": {
+            "A": "144\u00b0",
+            "B": "156\u00b0",
+            "C": "160\u00b0",
+            "D": "170\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has all sides equal and all angles equal, and is not a square, regular pentagon, regular hexagon, regular octagon, regular nonagon, regular decagon, regular dodecagon, or regular 15-gon?",
+        "answer": "B",
+        "options": {
+            "A": "Rhombus",
+            "B": "Regular 20-gon",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle AJ in this regular 20-gon?",
+        "answer": "B",
+        "options": {
+            "A": "144\u00b0",
+            "B": "162\u00b0",
+            "C": "170\u00b0",
+            "D": "175\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes is a quadrilateral with only one pair of parallel sides?",
+        "answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Trapezoid",
+            "D": "Rhombus"
+        }
+    },
+    {
+        "question": "What is the measure of angle AK in this trapezoid if angle AL is 120\u00b0?",
+        "answer": "A",
+        "options": {
+            "A": "60\u00b0",
+            "B": "90\u00b0",
+            "C": "120\u00b0",
+            "D": "150\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has two pairs of parallel sides and all angles are right angles?",
+        "answer": "C",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle AM in this rectangle if angle AN is 90\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "45\u00b0",
+            "B": "90\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has all sides equal and opposite angles equal, but not all angles are right angles?",
+        "answer": "B",
+        "options": {
+            "A": "Square",
+            "B": "Rhombus",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle AO in this rhombus if angle AP is 50\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "50\u00b0",
+            "B": "130\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has two pairs of parallel sides and opposite angles equal, but not all angles are right angles?",
+        "answer": "D",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle AQ in this parallelogram if angle AR is 70\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "70\u00b0",
+            "B": "110\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has only one pair of parallel sides and no right angles?",
+        "answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Trapezoid",
+            "D": "Rhombus"
+        }
+    },
+    {
+        "question": "What is the measure of angle AS in this trapezoid if angle AT is 100\u00b0?",
+        "answer": "A",
+        "options": {
+            "A": "80\u00b0",
+            "B": "90\u00b0",
+            "C": "100\u00b0",
+            "D": "180\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has two pairs of parallel sides, all sides equal, and all angles equal?",
+        "answer": "B",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle AU in this square?",
+        "answer": "C",
+        "options": {
+            "A": "45\u00b0",
+            "B": "60\u00b0",
+            "C": "90\u00b0",
+            "D": "120\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has two pairs of parallel sides, opposite sides equal, and all angles equal?",
+        "answer": "C",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle AV in this rectangle if angle AW is 90\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "45\u00b0",
+            "B": "90\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has two pairs of parallel sides, all sides equal, and opposite angles equal?",
+        "answer": "B",
+        "options": {
+            "A": "Square",
+            "B": "Rhombus",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle AX in this rhombus if angle AY is 60\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "60\u00b0",
+            "B": "120\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has two pairs of parallel sides, opposite sides equal, and opposite angles equal?",
+        "answer": "D",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle AZ in this parallelogram if angle BA is 80\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "80\u00b0",
+            "B": "100\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has only one pair of parallel sides and two right angles?",
+        "answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Right trapezoid",
+            "D": "Rhombus"
+        }
+    },
+    {
+        "question": "What is the measure of angle BB in this right trapezoid if angle BC is 90\u00b0 and angle BD is 120\u00b0?",
+        "answer": "A",
+        "options": {
+            "A": "60\u00b0",
+            "B": "90\u00b0",
+            "C": "120\u00b0",
+            "D": "150\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has two pairs of parallel sides, all sides equal, all angles equal, and is not a square?",
+        "answer": "D",
+        "options": {
+            "A": "Rhombus",
+            "B": "Rectangle",
+            "C": "Parallelogram",
+            "D": "None of these"
+        }
+    },
+    {
+        "question": "What is the measure of angle BE in this square?",
+        "answer": "C",
+        "options": {
+            "A": "45\u00b0",
+            "B": "60\u00b0",
+            "C": "90\u00b0",
+            "D": "120\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has two pairs of parallel sides, opposite sides equal, opposite angles equal, and all angles are right angles?",
+        "answer": "C",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle BF in this rectangle if angle BG is 90\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "45\u00b0",
+            "B": "90\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has two pairs of parallel sides, all sides equal, opposite angles equal, and is not a square?",
+        "answer": "A",
+        "options": {
+            "A": "Rhombus",
+            "B": "Rectangle",
+            "C": "Parallelogram",
+            "D": "Trapezoid"
+        }
+    },
+    {
+        "question": "What is the measure of angle BH in this rhombus if angle BI is 70\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "70\u00b0",
+            "B": "110\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has two pairs of parallel sides, opposite sides equal, opposite angles equal, and is not a rectangle or rhombus?",
+        "answer": "B",
+        "options": {
+            "A": "Square",
+            "B": "Parallelogram",
+            "C": "Trapezoid",
+            "D": "Kite"
+        }
+    },
+    {
+        "question": "What is the measure of angle BJ in this parallelogram if angle BK is 65\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "65\u00b0",
+            "B": "115\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has only one pair of parallel sides and is not a trapezoid?",
+        "answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Kite",
+            "D": "Rhombus"
+        }
+    },
+    {
+        "question": "What is the measure of angle BL in this kite if angle BM is 110\u00b0 and angle BN is 70\u00b0?",
+        "answer": "A",
+        "options": {
+            "A": "70\u00b0",
+            "B": "110\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has two distinct pairs of adjacent sides equal?",
+        "answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Kite",
+            "D": "Rhombus"
+        }
+    },
+    {
+        "question": "What is the measure of angle BO in this kite if angle BP is 80\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "80\u00b0",
+            "B": "100\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has two pairs of equal adjacent sides and one line of symmetry?",
+        "answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Kite",
+            "D": "Rhombus"
+        }
+    },
+    {
+        "question": "What is the measure of angle BQ in this kite if angle BR is 100\u00b0?",
+        "answer": "A",
+        "options": {
+            "A": "80\u00b0",
+            "B": "100\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has two pairs of equal adjacent sides and two lines of symmetry?",
+        "answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Kite"
+        }
+    },
+    {
+        "question": "What is the measure of angle BS in this rhombus if angle BT is 50\u00b0?",
+        "answer": "B",
+        "options": {
+            "A": "50\u00b0",
+            "B": "130\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has all sides equal, opposite angles equal, and two lines of symmetry?",
+        "answer": "C",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        }
+    },
+    {
+        "question": "What is the measure of angle BU in this rhombus if angle BV is 120\u00b0?",
+        "answer": "A",
+        "options": {
+            "A": "60\u00b0",
+            "B": "120\u00b0",
+            "C": "180\u00b0",
+            "D": "360\u00b0"
+        }
+    },
+    {
+        "question": "Which of these shapes has all sides equal, all angles equal, and four lines of symmetry?",
+        "answer": "B",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        }
+    }
+]

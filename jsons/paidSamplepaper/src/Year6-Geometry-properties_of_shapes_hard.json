@@ -1,0 +1,1554 @@
+[
+    {
+        "qid": 1,
+        "question": "A regular hexagon is divided into 6 congruent equilateral triangles. If the side length of the hexagon is 6 cm, what is the total area of the hexagon?",
+        "options": {
+            "A": "36√3 cm²",
+            "B": "54√3 cm²",
+            "C": "72√3 cm²",
+            "D": "108√3 cm²"
+        },
+        "answer": "B",
+        "explanation": "Each equilateral triangle has an area of (√3/4) × side². For side 6 cm, area of one triangle = (√3/4) × 36 = 9√3 cm². Total area = 6 × 9√3 = 54√3 cm².",
+        "difficulty": "hard",
+        "imgFileName": "1_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 2,
+        "question": "In a rhombus, one diagonal is 12 cm and the other is 16 cm. What is the side length of the rhombus?",
+        "options": {
+            "A": "8 cm",
+            "B": "10 cm",
+            "C": "12 cm",
+            "D": "14 cm"
+        },
+        "answer": "B",
+        "explanation": "The diagonals of a rhombus bisect each other at right angles, forming four right-angled triangles. Using Pythagoras' theorem: side = √(6² + 8²) = √(36 + 64) = √100 = 10 cm.",
+        "difficulty": "hard",
+        "imgFileName": "2_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 3,
+        "question": "A circle has a radius of 7 cm. What is the area of a sector with a central angle of 60°?",
+        "options": {
+            "A": "14π cm²",
+            "B": "25.67 cm²",
+            "C": "25.67π cm²",
+            "D": "154 cm²"
+        },
+        "answer": "B",
+        "explanation": "Area of sector = (θ/360) × πr² = (60/360) × π × 49 = (1/6) × 49π ≈ 25.67 cm².",
+        "difficulty": "hard",
+        "imgFileName": "3_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 4,
+        "question": "A quadrilateral has angles of 80°, 100°, and 110°. What is the measure of the fourth angle?",
+        "options": {
+            "A": "50°",
+            "B": "60°",
+            "C": "70°",
+            "D": "80°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a quadrilateral = 360°. Fourth angle = 360° - (80° + 100° + 110°) = 70°.",
+        "difficulty": "hard",
+        "imgFileName": "4_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 5,
+        "question": "A net of a 3-D shape consists of 6 rectangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Triangular prism",
+            "D": "Square pyramid"
+        },
+        "answer": "B",
+        "explanation": "A cuboid has 6 rectangular faces, so its net consists of 6 rectangles.",
+        "difficulty": "hard",
+        "imgFileName": "5_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 6,
+        "question": "In a circle, the radius is 5 cm. What is the length of the arc subtended by a 90° angle?",
+        "options": {
+            "A": "5π/2 cm",
+            "B": "5π/4 cm",
+            "C": "10π cm",
+            "D": "25π cm"
+        },
+        "answer": "A",
+        "explanation": "Arc length = (θ/360) × 2πr = (90/360) × 2π × 5 = (1/4) × 10π = 5π/2 cm.",
+        "difficulty": "hard",
+        "imgFileName": "6_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 7,
+        "question": "A triangle has angles of 50° and 70°. What is the measure of the third angle?",
+        "options": {
+            "A": "30°",
+            "B": "40°",
+            "C": "60°",
+            "D": "80°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a triangle = 180°. Third angle = 180° - (50° + 70°) = 60°.",
+        "difficulty": "hard",
+        "imgFileName": "7_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 8,
+        "question": "A net of a 3-D shape consists of 2 circles and 1 rectangle. Which shape is it?",
+        "options": {
+            "A": "Cone",
+            "B": "Cylinder",
+            "C": "Sphere",
+            "D": "Cube"
+        },
+        "answer": "B",
+        "explanation": "A cylinder has 2 circular bases and 1 rectangular lateral face.",
+        "difficulty": "hard",
+        "imgFileName": "8_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 9,
+        "question": "A regular pentagon has an interior angle of 108°. What is the measure of an exterior angle?",
+        "options": {
+            "A": "54°",
+            "B": "62°",
+            "C": "72°",
+            "D": "80°"
+        },
+        "answer": "C",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 108° = 72°.",
+        "difficulty": "hard",
+        "imgFileName": "9_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 10,
+        "question": "A circle has a diameter of 14 cm. What is the area of the circle?",
+        "options": {
+            "A": "49π cm²",
+            "B": "78.5π cm²",
+            "C": "154 cm²",
+            "D": "154π cm²"
+        },
+        "answer": "A",
+        "explanation": "Radius = 7 cm. Area = πr² = π × 7² = 49π cm².",
+        "difficulty": "hard",
+        "imgFileName": "10_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 11,
+        "question": "A quadrilateral has angles of 95°, 110°, and 85°. What is the measure of the fourth angle?",
+        "options": {
+            "A": "60°",
+            "B": "70°",
+            "C": "80°",
+            "D": "90°"
+        },
+        "answer": "B",
+        "explanation": "Sum of angles in a quadrilateral = 360°. Fourth angle = 360° - (95° + 110° + 85°) = 70°.",
+        "difficulty": "hard",
+        "imgFileName": "11_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 12,
+        "question": "A net of a 3-D shape consists of 1 square and 4 triangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Square pyramid",
+            "C": "Triangular prism",
+            "D": "Cylinder"
+        },
+        "answer": "B",
+        "explanation": "A square pyramid has 1 square base and 4 triangular faces.",
+        "difficulty": "hard",
+        "imgFileName": "12_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 13,
+        "question": "A regular octagon has an interior angle of 135°. What is the measure of an exterior angle?",
+        "options": {
+            "A": "35°",
+            "B": "45°",
+            "C": "55°",
+            "D": "65°"
+        },
+        "answer": "B",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 135° = 45°.",
+        "difficulty": "hard",
+        "imgFileName": "13_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 14,
+        "question": "A circle has a radius of 10 cm. What is the circumference of the circle?",
+        "options": {
+            "A": "10π cm",
+            "B": "20π cm",
+            "C": "100π cm",
+            "D": "200π cm"
+        },
+        "answer": "B",
+        "explanation": "Circumference = 2πr = 2π × 10 = 20π cm.",
+        "difficulty": "hard",
+        "imgFileName": "14_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 15,
+        "question": "A triangle has angles of 30° and 100°. What is the measure of the third angle?",
+        "options": {
+            "A": "40°",
+            "B": "50°",
+            "C": "60°",
+            "D": "70°"
+        },
+        "answer": "B",
+        "explanation": "Sum of angles in a triangle = 180°. Third angle = 180° - (30° + 100°) = 50°.",
+        "difficulty": "hard",
+        "imgFileName": "15_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 16,
+        "question": "A net of a 3-D shape consists of 2 triangles and 3 rectangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Triangular prism",
+            "C": "Square pyramid",
+            "D": "Cylinder"
+        },
+        "answer": "B",
+        "explanation": "A triangular prism has 2 triangular bases and 3 rectangular lateral faces.",
+        "difficulty": "hard",
+        "imgFileName": "16_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 17,
+        "question": "A regular hexagon has an interior angle of 120°. What is the measure of an exterior angle?",
+        "options": {
+            "A": "40°",
+            "B": "50°",
+            "C": "60°",
+            "D": "70°"
+        },
+        "answer": "C",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 120° = 60°.",
+        "difficulty": "hard",
+        "imgFileName": "17_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 18,
+        "question": "A circle has a diameter of 20 cm. What is the area of the circle?",
+        "options": {
+            "A": "100π cm²",
+            "B": "200π cm²",
+            "C": "400π cm²",
+            "D": "800π cm²"
+        },
+        "answer": "A",
+        "explanation": "Radius = 10 cm. Area = πr² = π × 10² = 100π cm².",
+        "difficulty": "hard",
+        "imgFileName": "18_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 19,
+        "question": "A quadrilateral has angles of 75°, 105°, and 120°. What is the measure of the fourth angle?",
+        "options": {
+            "A": "50°",
+            "B": "60°",
+            "C": "70°",
+            "D": "80°"
+        },
+        "answer": "B",
+        "explanation": "Sum of angles in a quadrilateral = 360°. Fourth angle = 360° - (75° + 105° + 120°) = 60°.",
+        "difficulty": "hard",
+        "imgFileName": "19_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 21,
+        "question": "A regular heptagon has an interior angle of 128.57°. What is the measure of an exterior angle?",
+        "options": {
+            "A": "45.71°",
+            "B": "51.43°",
+            "C": "57.14°",
+            "D": "64.29°"
+        },
+        "answer": "B",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 128.57° ≈ 51.43°.",
+        "difficulty": "hard",
+        "imgFileName": "21_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 22,
+        "question": "A circle has a radius of 14 cm. What is the circumference of the circle?",
+        "options": {
+            "A": "28π cm",
+            "B": "44π cm",
+            "C": "56π cm",
+            "D": "88π cm"
+        },
+        "answer": "A",
+        "explanation": "Circumference = 2πr = 2π × 14 = 28π cm.",
+        "difficulty": "hard",
+        "imgFileName": "22_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 23,
+        "question": "A triangle has angles of 40° and 80°. What is the measure of the third angle?",
+        "options": {
+            "A": "40°",
+            "B": "50°",
+            "C": "60°",
+            "D": "70°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a triangle = 180°. Third angle = 180° - (40° + 80°) = 60°.",
+        "difficulty": "hard",
+        "imgFileName": "23_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 24,
+        "question": "A net of a 3-D shape consists of 6 squares. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Triangular prism",
+            "D": "Square pyramid"
+        },
+        "answer": "A",
+        "explanation": "A cube has 6 square faces, so its net consists of 6 squares.",
+        "difficulty": "hard",
+        "imgFileName": "24_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 25,
+        "question": "A regular nonagon has an interior angle of 140°. What is the measure of an exterior angle?",
+        "options": {
+            "A": "30°",
+            "B": "40°",
+            "C": "50°",
+            "D": "60°"
+        },
+        "answer": "B",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 140° = 40°.",
+        "difficulty": "hard",
+        "imgFileName": "25_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 26,
+        "question": "A circle has a diameter of 28 cm. What is the area of the circle?",
+        "options": {
+            "A": "196π cm²",
+            "B": "246π cm²",
+            "C": "392π cm²",
+            "D": "784π cm²"
+        },
+        "answer": "A",
+        "explanation": "Radius = 14 cm. Area = πr² = π × 14² = 196π cm².",
+        "difficulty": "hard",
+        "imgFileName": "26_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 27,
+        "question": "A quadrilateral has angles of 100°, 80°, and 70°. What is the measure of the fourth angle?",
+        "options": {
+            "A": "90°",
+            "B": "100°",
+            "C": "110°",
+            "D": "120°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a quadrilateral = 360°. Fourth angle = 360° - (100° + 80° + 70°) = 110°.",
+        "difficulty": "hard",
+        "imgFileName": "27_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 28,
+        "question": "A net of a 3-D shape consists of 1 circle and 1 sector. Which shape is it?",
+        "options": {
+            "A": "Cone",
+            "B": "Cylinder",
+            "C": "Sphere",
+            "D": "Cube"
+        },
+        "answer": "A",
+        "explanation": "A cone has 1 circular base and 1 curved surface (sector).",
+        "difficulty": "hard",
+        "imgFileName": "28_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 29,
+        "question": "A regular decagon has an interior angle of 144°. What is the measure of an exterior angle?",
+        "options": {
+            "A": "26°",
+            "B": "36°",
+            "C": "46°",
+            "D": "56°"
+        },
+        "answer": "B",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 144° = 36°.",
+        "difficulty": "hard",
+        "imgFileName": "29_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 30,
+        "question": "A circle has a radius of 21 cm. What is the circumference of the circle?",
+        "options": {
+            "A": "21π cm",
+            "B": "42π cm",
+            "C": "63π cm",
+            "D": "84π cm"
+        },
+        "answer": "B",
+        "explanation": "Circumference = 2πr = 2π × 21 = 42π cm.",
+        "difficulty": "hard",
+        "imgFileName": "30_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 31,
+        "question": "A triangle has angles of 35° and 75°. What is the measure of the third angle?",
+        "options": {
+            "A": "50°",
+            "B": "60°",
+            "C": "70°",
+            "D": "80°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a triangle = 180°. Third angle = 180° - (35° + 75°) = 70°.",
+        "difficulty": "hard",
+        "imgFileName": "31_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 32,
+        "question": "A net of a 3-D shape consists of 2 pentagons and 5 rectangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Pentagonal prism",
+            "D": "Square pyramid"
+        },
+        "answer": "C",
+        "explanation": "A pentagonal prism has 2 pentagonal bases and 5 rectangular lateral faces.",
+        "difficulty": "hard",
+        "imgFileName": "32_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 33,
+        "question": "A regular dodecagon has an interior angle of 150°. What is the measure of an exterior angle?",
+        "options": {
+            "A": "20°",
+            "B": "30°",
+            "C": "40°",
+            "D": "50°"
+        },
+        "answer": "B",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 150° = 30°.",
+        "difficulty": "hard",
+        "imgFileName": "33_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 34,
+        "question": "A circle has a diameter of 30 cm. What is the area of the circle?",
+        "options": {
+            "A": "225π cm²",
+            "B": "450π cm²",
+            "C": "900π cm²",
+            "D": "1800π cm²"
+        },
+        "answer": "A",
+        "explanation": "Radius = 15 cm. Area = πr² = π × 15² = 225π cm².",
+        "difficulty": "hard",
+        "imgFileName": "34_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 35,
+        "question": "A quadrilateral has angles of 110°, 90°, and 80°. What is the measure of the fourth angle?",
+        "options": {
+            "A": "60°",
+            "B": "70°",
+            "C": "80°",
+            "D": "90°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a quadrilateral = 360°. Fourth angle = 360° - (110° + 90° + 80°) = 80°.",
+        "difficulty": "hard",
+        "imgFileName": "35_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 37,
+        "question": "A regular pentagon has an interior angle of 108°. What is the measure of an exterior angle?",
+        "options": {
+            "A": "54°",
+            "B": "62°",
+            "C": "72°",
+            "D": "80°"
+        },
+        "answer": "C",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 108° = 72°.",
+        "difficulty": "hard",
+        "imgFileName": "37_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 38,
+        "question": "A circle has a radius of 12 cm. What is the area of a sector with a central angle of 45°?",
+        "options": {
+            "A": "18π cm²",
+            "B": "27π cm²",
+            "C": "36π cm²",
+            "D": "54π cm²"
+        },
+        "answer": "A",
+        "explanation": "Area of sector = (θ/360) × πr² = (45/360) × π × 144 = (1/8) × 144π = 18π cm².",
+        "difficulty": "hard",
+        "imgFileName": "38_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 39,
+        "question": "A triangle has angles of 25° and 85°. What is the measure of the third angle?",
+        "options": {
+            "A": "50°",
+            "B": "60°",
+            "C": "70°",
+            "D": "80°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a triangle = 180°. Third angle = 180° - (25° + 85°) = 70°.",
+        "difficulty": "hard",
+        "imgFileName": "39_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 40,
+        "question": "A net of a 3-D shape consists of 2 octagons and 8 rectangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Octagonal prism",
+            "D": "Square pyramid"
+        },
+        "answer": "C",
+        "explanation": "An octagonal prism has 2 octagonal bases and 8 rectangular lateral faces.",
+        "difficulty": "hard",
+        "imgFileName": "40_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 41,
+        "question": "A regular hexagon has an interior angle of 120°. What is the measure of an exterior angle?",
+        "options": {
+            "A": "40°",
+            "B": "50°",
+            "C": "60°",
+            "D":  "70°"
+        },
+        "answer": "C",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 120° = 60°.",
+        "difficulty": "hard",
+        "imgFileName": "41_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 42,
+        "question": "A circle has a diameter of 16 cm. What is the area of the circle?",
+        "options": {
+            "A":  "64π cm²",
+            "B":  "128π cm²",
+            "C":  "256π cm²",
+            "D":  "512π cm²"
+        },
+        "answer": "A",
+        "explanation": "Radius = 8 cm. Area = πr² = π × 8² = 64π cm².",
+        "difficulty": "hard",
+        "imgFileName": "42_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 43,
+        "question": "A quadrilateral has angles of 105°, 95°, and 85°. What is the measure of the fourth angle?",
+        "options": {
+            "A":  "65°",
+            "B":  "75°",
+            "C":  "85°",
+            "D":  "95°"
+        },
+        "answer": "B",
+        "explanation": "Sum of angles in a quadrilateral = 360°. Fourth angle = 360° - (105° + 95° + 85°) = 75°.",
+        "difficulty": "hard",
+        "imgFileName": "43_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 44,
+        "question": "A net of a 3-D shape consists of 2 heptagons and 7 rectangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Heptagonal prism",
+            "D": "Square pyramid"
+        },
+        "answer": "C",
+        "explanation": "A heptagonal prism has 2 heptagonal bases and 7 rectangular lateral faces.",
+        "difficulty": "hard",
+        "imgFileName": "44_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 45,
+        "question": "A regular octagon has an interior angle of 135°. What is the measure of an exterior angle?",
+        "options": {
+            "A":  "35°",
+            "B":  "45°",
+            "C":  "55°",
+            "D":  "65°"
+        },
+        "answer": "B",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 135° = 45°.",
+        "difficulty": "hard",
+        "imgFileName": "45_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 46,
+        "question": "A circle has a radius of 18 cm. What is the circumference of the circle?",
+        "options": {
+            "A":  "9π cm",
+            "B":  "18π cm",
+            "C":  "36π cm",
+            "D":  "72π cm"
+        },
+        "answer": "C",
+        "explanation": "Circumference = 2πr = 2π × 18 = 36π cm.",
+        "difficulty": "hard",
+        "imgFileName": "46_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 47,
+        "question": "A triangle has angles of 45° and 65°. What is the measure of the third angle?",
+        "options": {
+            "A":  "50°",
+            "B":  "60°",
+            "C":  "70°",
+            "D":  "80°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a triangle = 180°. Third angle = 180° - (45° + 65°) = 70°.",
+        "difficulty": "hard",
+        "imgFileName": "47_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 48,
+        "question": "A net of a 3-D shape consists of 2 nonagons and 9 rectangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Nonagonal prism",
+            "D": "Square pyramid"
+        },
+        "answer": "C",
+        "explanation": "A nonagonal prism has 2 nonagonal bases and 9 rectangular lateral faces.",
+        "difficulty": "hard",
+        "imgFileName": "48_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 49,
+        "question": "A regular decagon has an interior angle of 144°. What is the measure of an exterior angle?",
+        "options": {
+            "A":  "26°",
+            "B":  "36°",
+            "C":  "46°",
+            "D":  "56°"
+        },
+        "answer": "B",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 144° = 36°.",
+        "difficulty": "hard",
+        "imgFileName": "49_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 50,
+        "question": "A circle has a diameter of 22 cm. What is the area of the circle?",
+        "options": {
+            "A":  "121π cm²",
+            "B":  "242π cm²",
+            "C":  "484π cm²",
+            "D":  "968π cm²"
+        },
+        "answer": "A",
+        "explanation": "Radius = 11 cm. Area = πr² = π × 11² = 121π cm².",
+        "difficulty": "hard",
+        "imgFileName": "50_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 51,
+        "question": "A quadrilateral has angles of 115°, 105°, and 95°. What is the measure of the fourth angle?",
+        "options": {
+            "A":  "45°",
+            "B":  "55°",
+            "C":  "65°",
+            "D":  "75°"
+        },
+        "answer": "A",
+        "explanation": "Sum of angles in a quadrilateral = 360°. Fourth angle = 360° - (115° + 105° + 95°) = 45°.",
+        "difficulty": "hard",
+        "imgFileName": "51_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 52,
+        "question": "A net of a 3-D shape consists of 1 pentagon and 5 triangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Pentagonal pyramid",
+            "D": "Square pyramid"
+        },
+        "answer": "C",
+        "explanation": "A pentagonal pyramid has 1 pentagonal base and 5 triangular faces.",
+        "difficulty": "hard",
+        "imgFileName": "52_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 53,
+        "question": "A regular dodecagon has an interior angle of 150°. What is the measure of an exterior angle?",
+        "options": {
+            "A":  "20°",
+            "B":  "30°",
+            "C":  "40°",
+            "D":  "50°"
+        },
+        "answer": "B",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 150° = 30°.",
+        "difficulty": "hard",
+        "imgFileName": "53_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 54,
+        "question": "A circle has a radius of 25 cm. What is the circumference of the circle?",
+        "options": {
+            "A":  "25π cm",
+            "B":  "50π cm",
+            "C":  "75π cm",
+            "D":  "100π cm"
+        },
+        "answer": "B",
+        "explanation": "Circumference = 2πr = 2π × 25 = 50π cm.",
+        "difficulty": "hard",
+        "imgFileName": "54_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 55,
+        "question": "A triangle has angles of 30° and 110°. What is the measure of the third angle?",
+        "options": {
+            "A":  "30°",
+            "B":  "40°",
+            "C":  "50°",
+            "D":  "60°"
+        },
+        "answer": "B",
+        "explanation": "Sum of angles in a triangle = 180°. Third angle = 180° - (30° + 110°) = 40°.",
+        "difficulty": "hard",
+        "imgFileName": "55_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 56,
+        "question": "A net of a 3-D shape consists of 2 hexagons and 6 rectangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Hexagonal prism",
+            "D": "Square pyramid"
+        },
+        "answer": "C",
+        "explanation": "A hexagonal prism has 2 hexagonal bases and 6 rectangular lateral faces.",
+        "difficulty": "hard",
+        "imgFileName": "56_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 57,
+        "question": "A regular pentagon has an interior angle of 108°. What is the measure of an exterior angle?",
+        "options": {
+            "A":  "54°",
+            "B":  "62°",
+            "C":  "72°",
+            "D":  "80°"
+        },
+        "answer": "C",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 108° = 72°.",
+        "difficulty": "hard",
+        "imgFileName": "57_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 58,
+        "question": "A circle has a diameter of 32 cm. What is the area of the circle?",
+        "options": {
+            "A":  "256π cm²",
+            "B":  "512π cm²",
+            "C":  "1024π cm²",
+            "D":  "2048π cm²"
+        },
+        "answer": "A",
+        "explanation": "Radius = 16 cm. Area = πr² = π × 16² = 256π cm².",
+        "difficulty": "hard",
+        "imgFileName": "58_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 59,
+        "question": "A quadrilateral has angles of 120°, 90°, and 80°. What is the measure of the fourth angle?",
+        "options": {
+            "A":  "50°",
+            "B":  "60°",
+            "C":  "70°",
+            "D":  "80°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a quadrilateral = 360°. Fourth angle = 360° - (120° + 90° + 80°) = 70°.",
+        "difficulty": "hard",
+        "imgFileName": "59_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 60,
+        "question": "A net of a 3-D shape consists of 1 octagon and 8 triangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Octagonal pyramid",
+            "D": "Square pyramid"
+        },
+        "answer": "C",
+        "explanation": "An octagonal pyramid has 1 octagonal base and 8 triangular faces.",
+        "difficulty": "hard",
+        "imgFileName": "60_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 61,
+        "question": "A regular hexagon has an interior angle of 120°. What is the measure of an exterior angle?",
+        "options": {
+            "A":  "40°",
+            "B":  "50°",
+            "C":  "60°",
+            "D":  "70°"
+        },
+        "answer": "C",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 120° = 60°.",
+        "difficulty": "hard",
+        "imgFileName": "61_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 62,
+        "question": "A circle has a radius of 30 cm. What is the circumference of the circle?",
+        "options": {
+            "A":  "30π cm",
+            "B":  "60π cm",
+            "C":  "90π cm",
+            "D":  "120π cm"
+        },
+        "answer": "B",
+        "explanation": "Circumference = 2πr = 2π × 30 = 60π cm.",
+        "difficulty": "hard",
+        "imgFileName": "62_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 63,
+        "question": "A triangle has angles of 20° and 90°. What is the measure of the third angle?",
+        "options": {
+            "A":  "50°",
+            "B":  "60°",
+            "C":  "70°",
+            "D":  "80°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a triangle = 180°. Third angle = 180° - (20° + 90°) = 70°.",
+        "difficulty": "hard",
+        "imgFileName": "63_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 64,
+        "question": "A net of a 3-D shape consists of 2 heptagons and 7 rectangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Heptagonal prism",
+            "D": "Square pyramid"
+        },
+        "answer": "C",
+        "explanation": "A heptagonal prism has 2 heptagonal bases and 7 rectangular lateral faces.",
+        "difficulty": "hard",
+        "imgFileName": "64_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 65,
+        "question": "A regular octagon has an interior angle of 135°. What is the measure of an exterior angle?",
+        "options": {
+            "A":  "35°",
+            "B":  "45°",
+            "C":  "55°",
+            "D":  "65°"
+        },
+        "answer": "B",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 135° = 45°.",
+        "difficulty": "hard",
+        "imgFileName": "65_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 66,
+        "question": "A circle has a diameter of 36 cm. What is the area of the circle?",
+        "options": {
+            "A":  "324π cm²",
+            "B":  "648π cm²",
+            "C":  "1296π cm²",
+            "D":  "2592π cm²"
+        },
+        "answer": "A",
+        "explanation": "Radius = 18 cm. Area = πr² = π × 18² = 324π cm².",
+        "difficulty": "hard",
+        "imgFileName": "66_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 67,
+        "question": "A quadrilateral has angles of 130°, 100°, and 70°. What is the measure of the fourth angle?",
+        "options": {
+            "A":  "40°",
+            "B":  "50°",
+            "C":  "60°",
+            "D":  "70°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a quadrilateral = 360°. Fourth angle = 360° - (130° + 100° + 70°) = 60°.",
+        "difficulty": "hard",
+        "imgFileName": "67_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 68,
+        "question": "A net of a 3-D shape consists of 1 nonagon and 9 triangles. Which shape is it?",
+        "options": {
+            "A":  "Cube",
+            "B": "Cuboid",
+            "C": "Nonagonal pyramid",
+            "D": "Square pyramid"
+        },
+        "answer": "C",
+        "explanation": "A nonagonal pyramid has 1 nonagonal base and 9 triangular faces.",
+        "difficulty": "hard",
+        "imgFileName": "68_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 69,
+        "question": "A regular decagon has an interior angle of 144°. What is the measure of an exterior angle?",
+        "options": {
+            "A":  "26°",
+            "B":  "36°",
+            "C":  "46°",
+            "D":  "56°"
+        },
+        "answer": "B",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 144° = 36°.",
+        "difficulty": "hard",
+        "imgFileName": "69_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 70,
+        "question": "A circle has a radius of 35 cm. What is the circumference of the circle?",
+        "options": {
+            "A":  "35π cm",
+            "B":  "70π cm",
+            "C":  "105π cm",
+            "D":  "140π cm"
+        },
+        "answer": "B",
+        "explanation": "Circumference = 2πr = 2π × 35 = 70π cm.",
+        "difficulty": "hard",
+        "imgFileName": "70_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 71,
+        "question": "A triangle has angles of 15° and 105°. What is the measure of the third angle?",
+        "options": {
+            "A":  "40°",
+            "B":  "50°",
+            "C":  "60°",
+            "D":  "70°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a triangle = 180°. Third angle = 180° - (15° + 105°) = 60°.",
+        "difficulty": "hard",
+        "imgFileName": "71_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 72,
+        "question": "A net of a 3-D shape consists of 2 decagons and 10 rectangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Decagonal prism",
+            "D": "Square pyramid"
+        },
+        "answer": "C",
+        "explanation": "A decagonal prism has 2 decagonal bases and 10 rectangular lateral faces.",
+        "difficulty": "hard",
+        "imgFileName": "72_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 73,
+        "question": "A regular dodecagon has an interior angle of 150°. What is the measure of an exterior angle?",
+        "options": {
+            "A":  "20°",
+            "B":  "30°",
+            "C":  "40°",
+            "D":  "50°"
+        },
+        "answer": "B",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 150° = 30°.",
+        "difficulty": "hard",
+        "imgFileName": "73_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 74,
+        "question": "A circle has a diameter of 40 cm. What is the area of the circle?",
+        "options": {
+            "A":  "400π cm²",
+            "B":  "800π cm²",
+            "C":  "1600π cm²",
+            "D":  "3200π cm²"
+        },
+        "answer": "A",
+        "explanation": "Radius = 20 cm. Area = πr² = π × 20² = 400π cm².",
+        "difficulty": "hard",
+        "imgFileName": "74_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 75,
+        "question": "A quadrilateral has angles of 140°, 110°, and 60°. What is the measure of the fourth angle?",
+        "options": {
+            "A":  "30°",
+            "B":  "40°",
+            "C":  "50°",
+            "D":  "60°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a quadrilateral = 360°. Fourth angle = 360° - (140° + 110° + 60°) = 50°.",
+        "difficulty": "hard",
+        "imgFileName": "75_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 76,
+        "question": "A net of a 3-D shape consists of 1 dodecagon and 12 triangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Dodecagonal pyramid",
+            "D": "Square pyramid"
+        },
+        "answer": "C",
+        "explanation": "A dodecagonal pyramid has 1 dodecagonal base and 12 triangular faces.",
+        "difficulty": "hard",
+        "imgFileName": "76_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 77,
+        "question": "A regular hexagon has an interior angle of 120°. What is the measure of an exterior angle?",
+        "options": {
+            "A":  "40°",
+            "B":  "50°",
+            "C":  "60°",
+            "D":  "70°"
+        },
+        "answer": "C",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 120° = 60°.",
+        "difficulty": "hard",
+        "imgFileName": "77_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 78,
+        "question": "A circle has a radius of 40 cm. What is the circumference of the circle?",
+        "options": {
+            "A":  "40π cm",
+            "B":  "80π cm",
+            "C":  "120π cm",
+            "D":  "160π cm"
+        },
+        "answer": "B",
+        "explanation": "Circumference = 2πr = 2π × 40 = 80π cm.",
+        "difficulty": "hard",
+        "imgFileName": "78_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 79,
+        "question": "A triangle has angles of 25° and 125°. What is the measure of the third angle?",
+        "options": {
+            "A":  "20°",
+            "B":  "30°",
+            "C":  "40°",
+            "D":  "50°"
+        },
+        "answer": "B",
+        "explanation": "Sum of angles in a triangle = 180°. Third angle = 180° - (25° + 125°) = 30°.",
+        "difficulty": "hard",
+        "imgFileName": "79_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 80,
+        "question": "A net of a 3-D shape consists of 2 triangles and 3 rectangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Triangular prism",
+            "D": "Square pyramid"
+        },
+        "answer": "C",
+        "explanation": "A triangular prism has 2 triangular bases and 3 rectangular lateral faces.",
+        "difficulty": "hard",
+        "imgFileName": "80_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 81,
+        "question": "A regular octagon has an interior angle of 135°. What is the measure of an exterior angle?",
+        "options": {
+            "A":  "35°",
+            "B":  "45°",
+            "C":  "55°",
+            "D":  "65°"
+        },
+        "answer": "B",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 135° = 45°.",
+        "difficulty": "hard",
+        "imgFileName": "81_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 82,
+        "question": "A circle has a diameter of 44 cm. What is the area of the circle?",
+        "options": {
+            "A":  "484π cm²",
+            "B":  "968π cm²",
+            "C":  "1936π cm²",
+            "D":  "3872π cm²"
+        },
+        "answer": "A",
+        "explanation": "Radius = 22 cm. Area = πr² = π × 22² = 484π cm².",
+        "difficulty": "hard",
+        "imgFileName": "82_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 83,
+        "question": "A quadrilateral has angles of 150°, 100°, and 70°. What is the measure of the fourth angle?",
+        "options": {
+            "A":  "20°",
+            "B":  "30°",
+            "C":  "40°",
+            "D":  "50°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a quadrilateral = 360°. Fourth angle = 360° - (150° + 100° + 70°) = 40°.",
+        "difficulty": "hard",
+        "imgFileName": "83_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 84,
+        "question": "A net of a 3-D shape consists of 1 square and 4 isosceles triangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Square pyramid",
+            "D": "Triangular prism"
+        },
+        "answer": "C",
+        "explanation": "A square pyramid has 1 square base and 4 triangular faces.",
+        "difficulty": "hard",
+        "imgFileName": "84_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 85,
+        "question": "A regular decagon has an interior angle of 144°. What is the measure of an exterior angle?",
+        "options": {
+            "A":  "26°",
+            "B":  "36°",
+            "C":  "46°",
+            "D":  "56°"
+        },
+        "answer": "B",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 144° = 36°.",
+        "difficulty": "hard",
+        "imgFileName": "85_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 86,
+        "question": "A circle has a radius of 45 cm. What is the circumference of the circle?",
+        "options": {
+            "A":  "45π cm",
+            "B":  "90π cm",
+            "C":  "135π cm",
+            "D":  "180π cm"
+        },
+        "answer": "B",
+        "explanation": "Circumference = 2πr = 2π × 45 = 90π cm.",
+        "difficulty": "hard",
+        "imgFileName": "86_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 87,
+        "question": "A triangle has angles of 10° and 110°. What is the measure of the third angle?",
+        "options": {
+            "A":  "40°",
+            "B":  "50°",
+            "C":  "60°",
+            "D":  "70°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a triangle = 180°. Third angle = 180° - (10° + 110°) = 60°.",
+        "difficulty": "hard",
+        "imgFileName": "87_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 88,
+        "question": "A net of a 3-D shape consists of 2 pentagons and 5 rectangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Pentagonal prism",
+            "D": "Square pyramid"
+        },
+        "answer": "C",
+        "explanation": "A pentagonal prism has 2 pentagonal bases and 5 rectangular lateral faces.",
+        "difficulty": "hard",
+        "imgFileName": "88_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 89,
+        "question": "A regular dodecagon has an interior angle of 150°. What is the measure of an exterior angle?",
+        "options": {
+            "A":  "20°",
+            "B":  "30°",
+            "C":  "40°",
+            "D":  "50°"
+        },
+        "answer": "B",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 150° = 30°.",
+        "difficulty": "hard",
+        "imgFileName": "89_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 90,
+        "question": "A circle has a diameter of 50 cm. What is the area of the circle?",
+        "options": {
+            "A":  "625π cm²",
+            "B":  "1250π cm²",
+            "C":  "2500π cm²",
+            "D":  "5000π cm²"
+        },
+        "answer": "A",
+        "explanation": "Radius = 25 cm. Area = πr² = π × 25² = 625π cm².",
+        "difficulty": "hard",
+        "imgFileName": "90_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 91,
+        "question": "A quadrilateral has angles of 160°, 110°, and 60°. What is the measure of the fourth angle?",
+        "options": {
+            "A":  "10°",
+            "B":  "20°",
+            "C":  "30°",
+            "D":  "40°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a quadrilateral = 360°. Fourth angle = 360° - (160° + 110° + 60°) = 30°.",
+        "difficulty": "hard",
+        "imgFileName": "91_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 93,
+        "question": "A regular hexagon has an interior angle of 120°. What is the measure of an exterior angle?",
+        "options": {
+            "A":  "40°",
+            "B":  "50°",
+            "C":  "60°",
+            "D":  "70°"
+        },
+        "answer": "C",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 120° = 60°.",
+        "difficulty": "hard",
+        "imgFileName": "93_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 94,
+        "question": "A circle has a radius of 50 cm. What is the circumference of the circle?",
+        "options": {
+            "A":  "50π cm",
+            "B":  "100π cm",
+            "C":  "150π cm",
+            "D":  "200π cm"
+        },
+        "answer": "B",
+        "explanation": "Circumference = 2πr = 2π × 50 = 100π cm.",
+        "difficulty": "hard",
+        "imgFileName": "94_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 95,
+        "question": "A triangle has angles of 15° and 125°. What is the measure of the third angle?",
+        "options": {
+            "A":  "20°",
+            "B":  "30°",
+            "C":  "40°",
+            "D":  "50°"
+        },
+        "answer": "B",
+        "explanation": "Sum of angles in a triangle = 180°. Third angle = 180° - (15° + 125°) = 40°.",
+        "difficulty": "hard",
+        "imgFileName": "95_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 96,
+        "question": "A net of a 3-D shape consists of 2 octagons and 8 rectangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Octagonal prism",
+            "D": "Square pyramid"
+        },
+        "answer": "C",
+        "explanation": "An octagonal prism has 2 octagonal bases and 8 rectangular lateral faces.",
+        "difficulty": "hard",
+        "imgFileName": "96_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 97,
+        "question": "A regular octagon has an interior angle of 135°. What is the measure of an exterior angle?",
+        "options": {
+            "A":  "35°",
+            "B":  "45°",
+            "C":  "55°",
+            "D":  "65°"
+        },
+        "answer": "B",
+        "explanation": "Exterior angle = 180° - interior angle = 180° - 135° = 45°.",
+        "difficulty": "hard",
+        "imgFileName": "97_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 98,
+        "question": "A circle has a diameter of 54 cm. What is the area of the circle?",
+        "options": {
+            "A":  "729π cm²",
+            "B":  "1944π cm²",
+            "C":  "2916π cm²",
+            "D":  "5832π cm²"
+        },
+        "answer": "A",
+        "explanation": "Radius = 27 cm. Area = πr² = π × 27² = 729π cm².",
+        "difficulty": "hard",
+        "imgFileName": "98_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 99,
+        "question": "A quadrilateral has angles of 170°, 100°, and 60°. What is the measure of the fourth angle?",
+        "options": {
+            "A":  "10°",
+            "B":  "20°",
+            "C":  "30°",
+            "D":  "40°"
+        },
+        "answer": "C",
+        "explanation": "Sum of angles in a quadrilateral = 360°. Fourth angle = 360° - (170° + 100° + 60°) = 30°.",
+        "difficulty": "hard",
+        "imgFileName": "99_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 100,
+        "question": "A net of a 3-D shape consists of 1 decagon and 10 triangles. Which shape is it?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Decagonal pyramid",
+            "D": "Square pyramid"
+        },
+        "answer": "C",
+        "explanation": "A decagonal pyramid has 1 decagonal base and 10 triangular faces.",
+        "difficulty": "hard",
+        "imgFileName": "100_Year6-Geometry-properties_of_shapes_hard.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    }
+]

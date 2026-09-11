@@ -1,0 +1,1305 @@
+```json
+[
+    {
+        "question": "What are the coordinates of the point at 2 units across and 1 units up on the grid?",
+        "answer": "C",
+        "options": {
+            "A": "(1, 2)",
+            "B": "(2, 2)",
+            "C": "(2, 1)",
+            "D": "(3, 1)"
+        }
+    },
+    {
+        "question": "A point at (2, 6) moves 1 units right and 1 units up. What are the new coordinates?",
+        "answer": "C",
+        "options": {
+            "A": "(7, 3)",
+            "B": "(1, 7)",
+            "C": "(3, 7)",
+            "D": "(3, 6)"
+        }
+    },
+    {
+        "question": "A point at (4, 5) moves 1 units left and 3 units down. What are the new coordinates?",
+        "answer": "D",
+        "options": {
+            "A": "(5, 2)",
+            "B": "(4, 2)",
+            "C": "(3, 5)",
+            "D": "(3, 2)"
+        }
+    },
+    {
+        "question": "A square has corners at (6, 6) and (6, 10). The sides are 4 units long. What are the coordinates of the missing corner to complete the square?",
+        "answer": "C",
+        "options": {
+            "A": "(10, 6)",
+            "B": "(6, 10)",
+            "C": "(10, 10)",
+            "D": "(10, 10)"
+        }
+    },
+    {
+        "question": "A rectangle has corners at (5, 3) and (7, 3). The width is 2 units and height is 2 units. What are the coordinates of the top-right corner?",
+        "answer": "A",
+        "options": {
+            "A": "(7, 5)",
+            "B": "(7, 5)",
+            "C": "(5, 5)",
+            "D": "(7, 3)"
+        }
+    },
+    {
+        "question": "Which point has coordinates (3, 3)? Point B (3, 3), Point D (3, 4), Point A (3, 3), Point C (4, 3).",
+        "answer": "A",
+        "options": {
+            "A": "Point B",
+            "B": "Point D",
+            "C": "Point A",
+            "D": "Point C"
+        }
+    },
+    {
+        "question": "How do you describe the movement from (5, 2) to (7, 7)?",
+        "answer": "C",
+        "options": {
+            "A": "2 units and 5 units",
+            "B": "2 units left and 5 units down",
+            "C": "2 units right and 5 units up",
+            "D": "2 units right"
+        }
+    },
+    {
+        "question": "A triangle has corners at (5, 1) and (8, 1). The third corner is directly above (8, 1) at a height of 2 units. What are its coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(8, 3)",
+            "B": "(5, 3)",
+            "C": "(8, 1)",
+            "D": "(7, 4)"
+        }
+    },
+    {
+        "question": "A point at (7, 4) moves 3 units right and 1 units down. What are the new coordinates?",
+        "answer": "D",
+        "options": {
+            "A": "(4, 5)",
+            "B": "(7, 3)",
+            "C": "(10, 4)",
+            "D": "(10, 3)"
+        }
+    },
+    {
+        "question": "A point at (6, 4) moves 1 units left and 1 units down. What are the new coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 3)",
+            "B": "(5, 4)",
+            "C": "(7, 3)",
+            "D": "(6, 3)"
+        }
+    },
+    {
+        "question": "What are the coordinates of the point at 6 units across and 3 units up on the grid?",
+        "answer": "B",
+        "options": {
+            "A": "(6, 4)",
+            "B": "(6, 3)",
+            "C": "(3, 6)",
+            "D": "(7, 3)"
+        }
+    },
+    {
+        "question": "A point at (6, 3) moves 1 units right and 2 units up. What are the new coordinates?",
+        "answer": "C",
+        "options": {
+            "A": "(5, 5)",
+            "B": "(7, 3)",
+            "C": "(7, 5)",
+            "D": "(5, 7)"
+        }
+    },
+    {
+        "question": "A point at (7, 6) moves 3 units left and 3 units down. What are the new coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(4, 3)",
+            "B": "(7, 3)",
+            "C": "(4, 6)",
+            "D": "(10, 3)"
+        }
+    },
+    {
+        "question": "A square has corners at (1, 2) and (1, 4). The sides are 2 units long. What are the coordinates of the missing corner to complete the square?",
+        "answer": "A",
+        "options": {
+            "A": "(3, 4)",
+            "B": "(4, 3)",
+            "C": "(1, 4)",
+            "D": "(3, 2)"
+        }
+    },
+    {
+        "question": "A rectangle has corners at (1, 2) and (5, 2). The width is 4 units and height is 4 units. What are the coordinates of the top-right corner?",
+        "answer": "C",
+        "options": {
+            "A": "(5, 2)",
+            "B": "(1, 6)",
+            "C": "(5, 6)",
+            "D": "(5, 6)"
+        }
+    },
+    {
+        "question": "Which point has coordinates (5, 7)? Point C (6, 7), Point B (7, 5), Point A (5, 7), Point D (5, 8).",
+        "answer": "C",
+        "options": {
+            "A": "Point C",
+            "B": "Point B",
+            "C": "Point A",
+            "D": "Point D"
+        }
+    },
+    {
+        "question": "How do you describe the movement from (3, 3) to (6, 8)?",
+        "answer": "B",
+        "options": {
+            "A": "3 units right",
+            "B": "3 units right and 5 units up",
+            "C": "3 units left and 5 units down",
+            "D": "3 units and 5 units"
+        }
+    },
+    {
+        "question": "A triangle has corners at (2, 5) and (5, 5). The third corner is directly above (5, 5) at a height of 2 units. What are its coordinates?",
+        "answer": "D",
+        "options": {
+            "A": "(2, 7)",
+            "B": "(4, 8)",
+            "C": "(5, 5)",
+            "D": "(5, 7)"
+        }
+    },
+    {
+        "question": "A point at (4, 6) moves 3 units right and 1 units down. What are the new coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(7, 5)",
+            "B": "(7, 6)",
+            "C": "(1, 7)",
+            "D": "(4, 5)"
+        }
+    },
+    {
+        "question": "A point at (8, 6) moves 3 units left and 1 units down. What are the new coordinates?",
+        "answer": "D",
+        "options": {
+            "A": "(8, 5)",
+            "B": "(11, 5)",
+            "C": "(5, 6)",
+            "D": "(5, 5)"
+        }
+    },
+    {
+        "question": "What are the coordinates of the point at 6 units across and 2 units up on the grid?",
+        "answer": "B",
+        "options": {
+            "A": "(6, 3)",
+            "B": "(6, 2)",
+            "C": "(2, 6)",
+            "D": "(7, 2)"
+        }
+    },
+    {
+        "question": "A point at (4, 1) moves 3 units right and 2 units up. What are the new coordinates?",
+        "answer": "D",
+        "options": {
+            "A": "(7, 1)",
+            "B": "(3, 7)",
+            "C": "(1, 3)",
+            "D": "(7, 3)"
+        }
+    },
+    {
+        "question": "A point at (9, 8) moves 3 units left and 1 units down. What are the new coordinates?",
+        "answer": "B",
+        "options": {
+            "A": "(6, 8)",
+            "B": "(6, 7)",
+            "C": "(9, 7)",
+            "D": "(12, 7)"
+        }
+    },
+    {
+        "question": "A square has corners at (5, 5) and (5, 7). The sides are 2 units long. What are the coordinates of the missing corner to complete the square?",
+        "answer": "A",
+        "options": {
+            "A": "(7, 7)",
+            "B": "(7, 7)",
+            "C": "(5, 7)",
+            "D": "(7, 5)"
+        }
+    },
+    {
+        "question": "A rectangle has corners at (1, 3) and (4, 3). The width is 3 units and height is 2 units. What are the coordinates of the top-right corner?",
+        "answer": "D",
+        "options": {
+            "A": "(1, 5)",
+            "B": "(3, 6)",
+            "C": "(4, 3)",
+            "D": "(4, 5)"
+        }
+    },
+    {
+        "question": "Which point has coordinates (2, 7)? Point B (7, 2), Point C (3, 7), Point A (2, 7), Point D (2, 8).",
+        "answer": "C",
+        "options": {
+            "A": "Point B",
+            "B": "Point C",
+            "C": "Point A",
+            "D": "Point D"
+        }
+    },
+    {
+        "question": "How do you describe the movement from (3, 7) to (9, 4)?",
+        "answer": "A",
+        "options": {
+            "A": "6 units right and 3 units down",
+            "B": "6 units left and 3 units up",
+            "C": "6 units and 3 units",
+            "D": "6 units right"
+        }
+    },
+    {
+        "question": "A triangle has corners at (2, 5) and (6, 5). The third corner is directly above (6, 5) at a height of 4 units. What are its coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(6, 9)",
+            "B": "(6, 5)",
+            "C": "(6, 9)",
+            "D": "(2, 9)"
+        }
+    },
+    {
+        "question": "A point at (6, 5) moves 2 units right and 3 units down. What are the new coordinates?",
+        "answer": "C",
+        "options": {
+            "A": "(4, 8)",
+            "B": "(8, 5)",
+            "C": "(8, 2)",
+            "D": "(6, 2)"
+        }
+    },
+    {
+        "question": "A point at (5, 4) moves 2 units left and 1 units down. What are the new coordinates?",
+        "answer": "B",
+        "options": {
+            "A": "(5, 3)",
+            "B": "(3, 3)",
+            "C": "(3, 4)",
+            "D": "(7, 3)"
+        }
+    },
+    {
+        "question": "What are the coordinates of the point at 1 units across and 2 units up on the grid?",
+        "answer": "D",
+        "options": {
+            "A": "(2, 1)",
+            "B": "(2, 2)",
+            "C": "(1, 3)",
+            "D": "(1, 2)"
+        }
+    },
+    {
+        "question": "A point at (1, 3) moves 1 units right and 2 units up. What are the new coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(2, 5)",
+            "B": "(5, 2)",
+            "C": "(2, 3)",
+            "D": "(0, 5)"
+        }
+    },
+    {
+        "question": "A point at (5, 8) moves 1 units left and 3 units down. What are the new coordinates?",
+        "answer": "C",
+        "options": {
+            "A": "(4, 8)",
+            "B": "(6, 5)",
+            "C": "(4, 5)",
+            "D": "(5, 5)"
+        }
+    },
+    {
+        "question": "A square has corners at (4, 2) and (4, 4). The sides are 2 units long. What are the coordinates of the missing corner to complete the square?",
+        "answer": "D",
+        "options": {
+            "A": "(4, 6)",
+            "B": "(4, 4)",
+            "C": "(6, 2)",
+            "D": "(6, 4)"
+        }
+    },
+    {
+        "question": "A rectangle has corners at (3, 4) and (6, 4). The width is 3 units and height is 3 units. What are the coordinates of the top-right corner?",
+        "answer": "C",
+        "options": {
+            "A": "(3, 7)",
+            "B": "(6, 4)",
+            "C": "(6, 7)",
+            "D": "(6, 7)"
+        }
+    },
+    {
+        "question": "Which point has coordinates (2, 5)? Point B (5, 2), Point D (2, 6), Point A (2, 5), Point C (3, 5).",
+        "answer": "C",
+        "options": {
+            "A": "Point B",
+            "B": "Point D",
+            "C": "Point A",
+            "D": "Point C"
+        }
+    },
+    {
+        "question": "How do you describe the movement from (3, 3) to (9, 4)?",
+        "answer": "C",
+        "options": {
+            "A": "6 units right",
+            "B": "6 units left and 1 unit down",
+            "C": "6 units right and 1 unit up",
+            "D": "6 units and 1 units"
+        }
+    },
+    {
+        "question": "A triangle has corners at (4, 2) and (6, 2). The third corner is directly above (6, 2) at a height of 3 units. What are its coordinates?",
+        "answer": "D",
+        "options": {
+            "A": "(4, 5)",
+            "B": "(7, 4)",
+            "C": "(6, 2)",
+            "D": "(6, 5)"
+        }
+    },
+    {
+        "question": "A point at (3, 4) moves 1 units right and 2 units down. What are the new coordinates?",
+        "answer": "B",
+        "options": {
+            "A": "(4, 4)",
+            "B": "(4, 2)",
+            "C": "(2, 6)",
+            "D": "(3, 2)"
+        }
+    },
+    {
+        "question": "A point at (7, 4) moves 1 units left and 2 units down. What are the new coordinates?",
+        "answer": "D",
+        "options": {
+            "A": "(7, 2)",
+            "B": "(6, 4)",
+            "C": "(8, 2)",
+            "D": "(6, 2)"
+        }
+    },
+    {
+        "question": "What are the coordinates of the point at 8 units across and 5 units up on the grid?",
+        "answer": "A",
+        "options": {
+            "A": "(8, 5)",
+            "B": "(5, 8)",
+            "C": "(9, 5)",
+            "D": "(8, 6)"
+        }
+    },
+    {
+        "question": "A point at (2, 2) moves 3 units right and 2 units up. What are the new coordinates?",
+        "answer": "D",
+        "options": {
+            "A": "(4, 5)",
+            "B": "(5, 2)",
+            "C": "(-1, 4)",
+            "D": "(5, 4)"
+        }
+    },
+    {
+        "question": "A point at (9, 6) moves 1 units left and 1 units down. What are the new coordinates?",
+        "answer": "B",
+        "options": {
+            "A": "(10, 5)",
+            "B": "(8, 5)",
+            "C": "(8, 6)",
+            "D": "(9, 5)"
+        }
+    },
+    {
+        "question": "A square has corners at (1, 5) and (1, 7). The sides are 2 units long. What are the coordinates of the missing corner to complete the square?",
+        "answer": "C",
+        "options": {
+            "A": "(7, 3)",
+            "B": "(3, 5)",
+            "C": "(3, 7)",
+            "D": "(1, 7)"
+        }
+    },
+    {
+        "question": "A rectangle has corners at (2, 4) and (4, 4). The width is 2 units and height is 4 units. What are the coordinates of the top-right corner?",
+        "answer": "B",
+        "options": {
+            "A": "(4, 4)",
+            "B": "(4, 8)",
+            "C": "(6, 6)",
+            "D": "(2, 8)"
+        }
+    },
+    {
+        "question": "Which point has coordinates (6, 2)? Point A (6, 2), Point B (2, 6), Point C (7, 2), Point D (6, 3).",
+        "answer": "A",
+        "options": {
+            "A": "Point A",
+            "B": "Point B",
+            "C": "Point C",
+            "D": "Point D"
+        }
+    },
+    {
+        "question": "How do you describe the movement from (4, 3) to (7, 5)?",
+        "answer": "B",
+        "options": {
+            "A": "3 units and 2 units",
+            "B": "3 units right and 2 units up",
+            "C": "3 units left and 2 units down",
+            "D": "3 units right"
+        }
+    },
+    {
+        "question": "A triangle has corners at (6, 6) and (9, 6). The third corner is directly above (9, 6) at a height of 3 units. What are its coordinates?",
+        "answer": "C",
+        "options": {
+            "A": "(6, 9)",
+            "B": "(9, 6)",
+            "C": "(9, 9)",
+            "D": "(9, 9)"
+        }
+    },
+    {
+        "question": "A point at (6, 7) moves 3 units right and 1 units down. What are the new coordinates?",
+        "answer": "D",
+        "options": {
+            "A": "(3, 8)",
+            "B": "(6, 6)",
+            "C": "(9, 7)",
+            "D": "(9, 6)"
+        }
+    },
+    {
+        "question": "A point at (8, 6) moves 1 units left and 2 units down. What are the new coordinates?",
+        "answer": "D",
+        "options": {
+            "A": "(7, 6)",
+            "B": "(9, 4)",
+            "C": "(8, 4)",
+            "D": "(7, 4)"
+        }
+    },
+    {
+        "question": "What are the coordinates of the point at 5 units across and 3 units up on the grid?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 3)",
+            "B": "(3, 5)",
+            "C": "(6, 3)",
+            "D": "(5, 4)"
+        }
+    },
+    {
+        "question": "A point at (5, 6) moves 1 units right and 3 units up. What are the new coordinates?",
+        "answer": "D",
+        "options": {
+            "A": "(4, 9)",
+            "B": "(9, 6)",
+            "C": "(6, 6)",
+            "D": "(6, 9)"
+        }
+    },
+    {
+        "question": "A point at (4, 4) moves 3 units left and 3 units down. What are the new coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(1, 1)",
+            "B": "(1, 4)",
+            "C": "(4, 1)",
+            "D": "(7, 1)"
+        }
+    },
+    {
+        "question": "A square has corners at (5, 2) and (5, 6). The sides are 4 units long. What are the coordinates of the missing corner to complete the square?",
+        "answer": "C",
+        "options": {
+            "A": "(6, 9)",
+            "B": "(5, 6)",
+            "C": "(9, 6)",
+            "D": "(9, 2)"
+        }
+    },
+    {
+        "question": "A rectangle has corners at (5, 4) and (8, 4). The width is 3 units and height is 2 units. What are the coordinates of the top-right corner?",
+        "answer": "D",
+        "options": {
+            "A": "(8, 4)",
+            "B": "(5, 6)",
+            "C": "(7, 7)",
+            "D": "(8, 6)"
+        }
+    },
+    {
+        "question": "Which point has coordinates (8, 4)? Point C (9, 4), Point B (4, 8), Point D (8, 5), Point A (8, 4).",
+        "answer": "D",
+        "options": {
+            "A": "Point C",
+            "B": "Point B",
+            "C": "Point D",
+            "D": "Point A"
+        }
+    },
+    {
+        "question": "How do you describe the movement from (3, 7) to (6, 4)?",
+        "answer": "A",
+        "options": {
+            "A": "3 units right and 3 units down",
+            "B": "3 units left and 3 units up",
+            "C": "3 units right",
+            "D": "3 units and 3 units"
+        }
+    },
+    {
+        "question": "A triangle has corners at (5, 1) and (7, 1). The third corner is directly above (7, 1) at a height of 2 units. What are its coordinates?",
+        "answer": "B",
+        "options": {
+            "A": "(7, 1)",
+            "B": "(7, 3)",
+            "C": "(7, 3)",
+            "D": "(5, 3)"
+        }
+    },
+    {
+        "question": "A point at (5, 7) moves 3 units right and 1 units down. What are the new coordinates?",
+        "answer": "C",
+        "options": {
+            "A": "(2, 8)",
+            "B": "(8, 7)",
+            "C": "(8, 6)",
+            "D": "(5, 6)"
+        }
+    },
+    {
+        "question": "A point at (6, 6) moves 1 units left and 2 units down. What are the new coordinates?",
+        "answer": "B",
+        "options": {
+            "A": "(6, 4)",
+            "B": "(5, 4)",
+            "C": "(5, 6)",
+            "D": "(7, 4)"
+        }
+    },
+    {
+        "question": "What are the coordinates of the point at 2 units across and 6 units up on the grid?",
+        "answer": "B",
+        "options": {
+            "A": "(6, 2)",
+            "B": "(2, 6)",
+            "C": "(3, 6)",
+            "D": "(2, 7)"
+        }
+    },
+    {
+        "question": "A point at (2, 2) moves 2 units right and 4 units up. What are the new coordinates?",
+        "answer": "D",
+        "options": {
+            "A": "(0, 6)",
+            "B": "(6, 4)",
+            "C": "(4, 2)",
+            "D": "(4, 6)"
+        }
+    },
+    {
+        "question": "A point at (7, 9) moves 3 units left and 1 units down. What are the new coordinates?",
+        "answer": "C",
+        "options": {
+            "A": "(10, 8)",
+            "B": "(7, 8)",
+            "C": "(4, 8)",
+            "D": "(4, 9)"
+        }
+    },
+    {
+        "question": "A square has corners at (4, 1) and (4, 4). The sides are 3 units long. What are the coordinates of the missing corner to complete the square?",
+        "answer": "C",
+        "options": {
+            "A": "(7, 1)",
+            "B": "(4, 7)",
+            "C": "(7, 4)",
+            "D": "(4, 4)"
+        }
+    },
+    {
+        "question": "A rectangle has corners at (3, 3) and (5, 3). The width is 2 units and height is 2 units. What are the coordinates of the top-right corner?",
+        "answer": "C",
+        "options": {
+            "A": "(3, 5)",
+            "B": "(5, 3)",
+            "C": "(5, 5)",
+            "D": "(5, 5)"
+        }
+    },
+    {
+        "question": "Which point has coordinates (5, 4)? Point D (5, 5), Point B (4, 5), Point A (5, 4), Point C (6, 4).",
+        "answer": "C",
+        "options": {
+            "A": "Point D",
+            "B": "Point B",
+            "C": "Point A",
+            "D": "Point C"
+        }
+    },
+    {
+        "question": "How do you describe the movement from (4, 7) to (8, 2)?",
+        "answer": "D",
+        "options": {
+            "A": "4 units right",
+            "B": "4 units and 5 units",
+            "C": "4 units left and 5 units up",
+            "D": "4 units right and 5 units down"
+        }
+    },
+    {
+        "question": "A triangle has corners at (5, 3) and (7, 3). The third corner is directly above (7, 3) at a height of 2 units. What are its coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(7, 5)",
+            "B": "(7, 5)",
+            "C": "(5, 5)",
+            "D": "(7, 3)"
+        }
+    },
+    {
+        "question": "A point at (6, 7) moves 3 units right and 1 units down. What are the new coordinates?",
+        "answer": "B",
+        "options": {
+            "A": "(3, 8)",
+            "B": "(9, 6)",
+            "C": "(9, 7)",
+            "D": "(6, 6)"
+        }
+    },
+    {
+        "question": "A point at (6, 4) moves 3 units left and 2 units down. What are the new coordinates?",
+        "answer": "D",
+        "options": {
+            "A": "(9, 2)",
+            "B": "(6, 2)",
+            "C": "(3, 4)",
+            "D": "(3, 2)"
+        }
+    },
+    {
+        "question": "What are the coordinates of the point at 6 units across and 7 units up on the grid?",
+        "answer": "D",
+        "options": {
+            "A": "(6, 8)",
+            "B": "(7, 6)",
+            "C": "(7, 7)",
+            "D": "(6, 7)"
+        }
+    },
+    {
+        "question": "A point at (5, 3) moves 1 units right and 3 units up. What are the new coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(6, 6)",
+            "B": "(6, 6)",
+            "C": "(6, 3)",
+            "D": "(4, 6)"
+        }
+    },
+    {
+        "question": "A point at (6, 7) moves 3 units left and 2 units down. What are the new coordinates?",
+        "answer": "C",
+        "options": {
+            "A": "(3, 7)",
+            "B": "(6, 5)",
+            "C": "(3, 5)",
+            "D": "(9, 5)"
+        }
+    },
+    {
+        "question": "A square has corners at (6, 4) and (6, 8). The sides are 4 units long. What are the coordinates of the missing corner to complete the square?",
+        "answer": "A",
+        "options": {
+            "A": "(10, 8)",
+            "B": "(8, 10)",
+            "C": "(10, 4)",
+            "D": "(6, 8)"
+        }
+    },
+    {
+        "question": "A rectangle has corners at (4, 5) and (6, 5). The width is 2 units and height is 3 units. What are the coordinates of the top-right corner?",
+        "answer": "C",
+        "options": {
+            "A": "(6, 5)",
+            "B": "(4, 8)",
+            "C": "(6, 8)",
+            "D": "(7, 7)"
+        }
+    },
+    {
+        "question": "Which point has coordinates (8, 6)? Point A (8, 6), Point D (8, 7), Point B (6, 8), Point C (9, 6).",
+        "answer": "A",
+        "options": {
+            "A": "Point A",
+            "B": "Point D",
+            "C": "Point B",
+            "D": "Point C"
+        }
+    },
+    {
+        "question": "How do you describe the movement from (5, 7) to (4, 9)?",
+        "answer": "D",
+        "options": {
+            "A": "1 units and 2 units",
+            "B": "1 unit left",
+            "C": "1 unit right and 2 units down",
+            "D": "1 unit left and 2 units up"
+        }
+    },
+    {
+        "question": "A triangle has corners at (1, 2) and (5, 2). The third corner is directly above (5, 2) at a height of 3 units. What are its coordinates?",
+        "answer": "C",
+        "options": {
+            "A": "(5, 2)",
+            "B": "(4, 6)",
+            "C": "(5, 5)",
+            "D": "(1, 5)"
+        }
+    },
+    {
+        "question": "A point at (3, 3) moves 1 units right and 2 units down. What are the new coordinates?",
+        "answer": "D",
+        "options": {
+            "A": "(3, 1)",
+            "B": "(4, 3)",
+            "C": "(2, 5)",
+            "D": "(4, 1)"
+        }
+    },
+    {
+        "question": "A point at (9, 8) moves 1 units left and 3 units down. What are the new coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(8, 5)",
+            "B": "(8, 8)",
+            "C": "(10, 5)",
+            "D": "(9, 5)"
+        }
+    },
+    {
+        "question": "What are the coordinates of the point at 4 units across and 3 units up on the grid?",
+        "answer": "D",
+        "options": {
+            "A": "(5, 3)",
+            "B": "(3, 4)",
+            "C": "(4, 4)",
+            "D": "(4, 3)"
+        }
+    },
+    {
+        "question": "A point at (2, 2) moves 4 units right and 1 units up. What are the new coordinates?",
+        "answer": "C",
+        "options": {
+            "A": "(-2, 3)",
+            "B": "(6, 2)",
+            "C": "(6, 3)",
+            "D": "(3, 6)"
+        }
+    },
+    {
+        "question": "A point at (5, 7) moves 3 units left and 3 units down. What are the new coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(2, 4)",
+            "B": "(5, 4)",
+            "C": "(8, 4)",
+            "D": "(2, 7)"
+        }
+    },
+    {
+        "question": "A square has corners at (5, 4) and (5, 6). The sides are 2 units long. What are the coordinates of the missing corner to complete the square?",
+        "answer": "A",
+        "options": {
+            "A": "(7, 6)",
+            "B": "(7, 4)",
+            "C": "(5, 6)",
+            "D": "(6, 7)"
+        }
+    },
+    {
+        "question": "A rectangle has corners at (2, 3) and (6, 3). The width is 4 units and height is 3 units. What are the coordinates of the top-right corner?",
+        "answer": "A",
+        "options": {
+            "A": "(6, 6)",
+            "B": "(5, 7)",
+            "C": "(6, 3)",
+            "D": "(2, 6)"
+        }
+    },
+    {
+        "question": "Which point has coordinates (2, 7)? Point D (2, 8), Point B (7, 2), Point A (2, 7), Point C (3, 7).",
+        "answer": "C",
+        "options": {
+            "A": "Point D",
+            "B": "Point B",
+            "C": "Point A",
+            "D": "Point C"
+        }
+    },
+    {
+        "question": "How do you describe the movement from (4, 4) to (3, 5)?",
+        "answer": "B",
+        "options": {
+            "A": "1 unit right and 1 unit down",
+            "B": "1 unit left and 1 unit up",
+            "C": "1 unit left",
+            "D": "1 units and 1 units"
+        }
+    },
+    {
+        "question": "A triangle has corners at (6, 2) and (8, 2). The third corner is directly above (8, 2) at a height of 3 units. What are its coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(8, 5)",
+            "B": "(9, 4)",
+            "C": "(6, 5)",
+            "D": "(8, 2)"
+        }
+    },
+    {
+        "question": "A point at (6, 3) moves 1 units right and 2 units down. What are the new coordinates?",
+        "answer": "B",
+        "options": {
+            "A": "(5, 5)",
+            "B": "(7, 1)",
+            "C": "(7, 3)",
+            "D": "(6, 1)"
+        }
+    },
+    {
+        "question": "A point at (8, 7) moves 2 units left and 1 units down. What are the new coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(6, 6)",
+            "B": "(8, 6)",
+            "C": "(10, 6)",
+            "D": "(6, 7)"
+        }
+    },
+    {
+        "question": "What are the coordinates of the point at 7 units across and 9 units up on the grid?",
+        "answer": "B",
+        "options": {
+            "A": "(8, 9)",
+            "B": "(7, 9)",
+            "C": "(7, 10)",
+            "D": "(9, 7)"
+        }
+    },
+    {
+        "question": "A point at (3, 4) moves 4 units right and 1 units up. What are the new coordinates?",
+        "answer": "A",
+        "options": {
+            "A": "(7, 5)",
+            "B": "(-1, 5)",
+            "C": "(5, 7)",
+            "D": "(7, 4)"
+        }
+    },
+    {
+        "question": "A point at (9, 5) moves 2 units left and 1 units down. What are the new coordinates?",
+        "answer": "D",
+        "options": {
+            "A": "(7, 5)",
+            "B": "(9, 4)",
+            "C": "(11, 4)",
+            "D": "(7, 4)"
+        }
+    },
+    {
+        "question": "A square has corners at (1, 6) and (1, 9). The sides are 3 units long. What are the coordinates of the missing corner to complete the square?",
+        "answer": "B",
+        "options": {
+            "A": "(4, 6)",
+            "B": "(4, 9)",
+            "C": "(9, 4)",
+            "D": "(1, 9)"
+        }
+    },
+    {
+        "question": "A rectangle has corners at (1, 3) and (4, 3). The width is 3 units and height is 3 units. What are the coordinates of the top-right corner?",
+        "answer": "A",
+        "options": {
+            "A": "(4, 6)",
+            "B": "(4, 6)",
+            "C": "(4, 3)",
+            "D": "(1, 6)"
+        }
+    },
+    {
+        "question": "Which point has coordinates (4, 8)? Point A (4, 8), Point C (5, 8), Point B (8, 4), Point D (4, 9).",
+        "answer": "A",
+        "options": {
+            "A": "Point A",
+            "B": "Point C",
+            "C": "Point B",
+            "D": "Point D"
+        }
+    },
+    {
+        "question": "How do you describe the movement from (4, 2) to (9, 7)?",
+        "answer": "B",
+        "options": {
+            "A": "5 units and 5 units",
+            "B": "5 units right and 5 units up",
+            "C": "5 units right",
+            "D": "5 units left and 5 units down"
+        }
+    },
+    {
+        "question": "A triangle has corners at (6, 1) and (8, 1). The third corner is directly above (8, 1) at a height of 2 units. What are its coordinates?",
+        "answer": "B",
+        "options": {
+            "A": "(8, 1)",
+            "B": "(8, 3)",
+            "C": "(8, 3)",
+            "D": "(6, 3)"
+        }
+    },
+    {
+        "question": "A point at (4, 4) moves 2 units right and 3 units down. What are the new coordinates?",
+        "answer": "D",
+        "options": {
+            "A": "(2, 7)",
+            "B": "(4, 1)",
+            "C": "(6, 4)",
+            "D": "(6, 1)"
+        }
+    },
+    {
+        "question": "A point at (7, 9) moves 2 units left and 2 units down. What are the new coordinates?",
+        "answer": "B",
+        "options": {
+            "A": "(7, 7)",
+            "B": "(5, 7)",
+            "C": "(5, 9)",
+            "D": "(9, 7)"
+        }
+    }
+]
+```
+--- START EVALUATION ---
+Question: What are the coordinates of the point at 2 units across and 1 units up on the grid?
+Status: Success
+
+Question: A point at (2, 6) moves 1 units right and 1 units up. What are the new coordinates?
+Status: Success
+
+Question: A point at (4, 5) moves 1 units left and 3 units down. What are the new coordinates?
+Status: Success
+
+Question: A square has corners at (6, 6) and (6, 10). The sides are 4 units long. What are the coordinates of the missing corner to complete the square?
+Status: Success
+
+Question: A rectangle has corners at (5, 3) and (7, 3). The width is 2 units and height is 2 units. What are the coordinates of the top-right corner?
+Status: Success
+
+Question: Which point has coordinates (3, 3)? Point B (3, 3), Point D (3, 4), Point A (3, 3), Point C (4, 3).
+Status: Success
+
+Question: How do you describe the movement from (5, 2) to (7, 7)?
+Status: Success
+
+Question: A triangle has corners at (5, 1) and (8, 1). The third corner is directly above (8, 1) at a height of 2 units. What are its coordinates?
+Status: Success
+
+Question: A point at (7, 4) moves 3 units right and 1 units down. What are the new coordinates?
+Status: Success
+
+Question: A point at (6, 4) moves 1 units left and 1 units down. What are the new coordinates?
+Status: Success
+
+Question: What are the coordinates of the point at 6 units across and 3 units up on the grid?
+Status: Success
+
+Question: A point at (6, 3) moves 1 units right and 2 units up. What are the new coordinates?
+Status: Success
+
+Question: A point at (7, 6) moves 3 units left and 3 units down. What are the new coordinates?
+Status: Success
+
+Question: A square has corners at (1, 2) and (1, 4). The sides are 2 units long. What are the coordinates of the missing corner to complete the square?
+Status: Success
+
+Question: A rectangle has corners at (1, 2) and (5, 2). The width is 4 units and height is 4 units. What are the coordinates of the top-right corner?
+Status: Success
+
+Question: Which point has coordinates (5, 7)? Point C (6, 7), Point B (7, 5), Point A (5, 7), Point D (5, 8).
+Status: Success
+
+Question: How do you describe the movement from (3, 3) to (6, 8)?
+Status: Success
+
+Question: A triangle has corners at (2, 5) and (5, 5). The third corner is directly above (5, 5) at a height of 2 units. What are its coordinates?
+Status: Success
+
+Question: A point at (4, 6) moves 3 units right and 1 units down. What are the new coordinates?
+Status: Success
+
+Question: A point at (8, 6) moves 3 units left and 1 units down. What are the new coordinates?
+Status: Success
+
+Question: What are the coordinates of the point at 6 units across and 2 units up on the grid?
+Status: Success
+
+Question: A point at (4, 1) moves 3 units right and 2 units up. What are the new coordinates?
+Status: Success
+
+Question: A point at (9, 8) moves 3 units left and 1 units down. What are the new coordinates?
+Status: Success
+
+Question: A square has corners at (5, 5) and (5, 7). The sides are 2 units long. What are the coordinates of the missing corner to complete the square?
+Status: Success
+
+Question: A rectangle has corners at (1, 3) and (4, 3). The width is 3 units and height is 2 units. What are the coordinates of the top-right corner?
+Status: Success
+
+Question: Which point has coordinates (2, 7)? Point B (7, 2), Point C (3, 7), Point A (2, 7), Point D (2, 8).
+Status: Success
+
+Question: How do you describe the movement from (3, 7) to (9, 4)?
+Status: Success
+
+Question: A triangle has corners at (2, 5) and (6, 5). The third corner is directly above (6, 5) at a height of 4 units. What are its coordinates?
+Status: Success
+
+Question: A point at (6, 5) moves 2 units right and 3 units down. What are the new coordinates?
+Status: Success
+
+Question: A point at (5, 4) moves 2 units left and 1 units down. What are the new coordinates?
+Status: Success
+
+Question: What are the coordinates of the point at 1 units across and 2 units up on the grid?
+Status: Success
+
+Question: A point at (1, 3) moves 1 units right and 2 units up. What are the new coordinates?
+Status: Success
+
+Question: A point at (5, 8) moves 1 units left and 3 units down. What are the new coordinates?
+Status: Success
+
+Question: A square has corners at (4, 2) and (4, 4). The sides are 2 units long. What are the coordinates of the missing corner to complete the square?
+Status: Success
+
+Question: A rectangle has corners at (3, 4) and (6, 4). The width is 3 units and height is 3 units. What are the coordinates of the top-right corner?
+Status: Success
+
+Question: Which point has coordinates (2, 5)? Point B (5, 2), Point D (2, 6), Point A (2, 5), Point C (3, 5).
+Status: Success
+
+Question: How do you describe the movement from (3, 3) to (9, 4)?
+Status: Success
+
+Question: A triangle has corners at (4, 2) and (6, 2). The third corner is directly above (6, 2) at a height of 3 units. What are its coordinates?
+Status: Success
+
+Question: A point at (3, 4) moves 1 units right and 2 units down. What are the new coordinates?
+Status: Success
+
+Question: A point at (7, 4) moves 1 units left and 2 units down. What are the new coordinates?
+Status: Success
+
+Question: What are the coordinates of the point at 8 units across and 5 units up on the grid?
+Status: Success
+
+Question: A point at (2, 2) moves 3 units right and 2 units up. What are the new coordinates?
+Status: Success
+
+Question: A point at (9, 6) moves 1 units left and 1 units down. What are the new coordinates?
+Status: Success
+
+Question: A square has corners at (1, 5) and (1, 7). The sides are 2 units long. What are the coordinates of the missing corner to complete the square?
+Status: Success
+
+Question: A rectangle has corners at (2, 4) and (4, 4). The width is 2 units and height is 4 units. What are the coordinates of the top-right corner?
+Status: Success
+
+Question: Which point has coordinates (6, 2)? Point A (6, 2), Point B (2, 6), Point C (7, 2), Point D (6, 3).
+Status: Success
+
+Question: How do you describe the movement from (4, 3) to (7, 5)?
+Status: Success
+
+Question: A triangle has corners at (6, 6) and (9, 6). The third corner is directly above (9, 6) at a height of 3 units. What are its coordinates?
+Status: Success
+
+Question: A point at (6, 7) moves 3 units right and 1 units down. What are the new coordinates?
+Status: Success
+
+Question: A point at (8, 6) moves 1 units left and 2 units down. What are the new coordinates?
+Status: Success
+
+Question: What are the coordinates of the point at 5 units across and 3 units up on the grid?
+Status: Success
+
+Question: A point at (5, 6) moves 1 units right and 3 units up. What are the new coordinates?
+Status: Success
+
+Question: A point at (4, 4) moves 3 units left and 3 units down. What are the new coordinates?
+Status: Success
+
+Question: A square has corners at (5, 2) and (5, 6). The sides are 4 units long. What are the coordinates of the missing corner to complete the square?
+Status: Success
+
+Question: A rectangle has corners at (5, 4) and (8, 4). The width is 3 units and height is 2 units. What are the coordinates of the top-right corner?
+Status: Success
+
+Question: Which point has coordinates (8, 4)? Point C (9, 4), Point B (4, 8), Point D (8, 5), Point A (8, 4).
+Status: Success
+
+Question: How do you describe the movement from (3, 7) to (6, 4)?
+Status: Success
+
+Question: A triangle has corners at (5, 1) and (7, 1). The third corner is directly above (7, 1) at a height of 2 units. What are its coordinates?
+Status: Success
+
+Question: A point at (5, 7) moves 3 units right and 1 units down. What are the new coordinates?
+Status: Success
+
+Question: A point at (6, 6) moves 1 units left and 2 units down. What are the new coordinates?
+Status: Success
+
+Question: What are the coordinates of the point at 2 units across and 6 units up on the grid?
+Status: Success
+
+Question: A point at (2, 2) moves 2 units right and 4 units up. What are the new coordinates?
+Status: Success
+
+Question: A point at (7, 9) moves 3 units left and 1 units down. What are the new coordinates?
+Status: Success
+
+Question: A square has corners at (4, 1) and (4, 4). The sides are 3 units long. What are the coordinates of the missing corner to complete the square?
+Status: Success
+
+Question: A rectangle has corners at (3, 3) and (5, 3). The width is 2 units and height is 2 units. What are the coordinates of the top-right corner?
+Status: Success
+
+Question: Which point has coordinates (5, 4)? Point D (5, 5), Point B (4, 5), Point A (5, 4), Point C (6, 4).
+Status: Success
+
+Question: How do you describe the movement from (4, 7) to (8, 2)?
+Status: Success
+
+Question: A triangle has corners at (5, 3) and (7, 3). The third corner is directly above (7, 3) at a height of 2 units. What are its coordinates?
+Status: Success
+
+Question: A point at (6, 7) moves 3 units right and 1 units down. What are the new coordinates?
+Status: Success
+
+Question: A point at (6, 4) moves 3 units left and 2 units down. What are the new coordinates?
+Status: Success
+
+Question: What are the coordinates of the point at 6 units across and 7 units up on the grid?
+Status: Success
+
+Question: A point at (5, 3) moves 1 units right and 3 units up. What are the new coordinates?
+Status: Success
+
+Question: A point at (6, 7) moves 3 units left and 2 units down. What are the new coordinates?
+Status: Success
+
+Question: A square has corners at (6, 4) and (6, 8). The sides are 4 units long. What are the coordinates of the missing corner to complete the square?
+Status: Success
+
+Question: A rectangle has corners at (4, 5) and (6, 5). The width is 2 units and height is 3 units. What are the coordinates of the top-right corner?
+Status: Success
+
+Question: Which point has coordinates (8, 6)? Point A (8, 6), Point D (8, 7), Point B (6, 8), Point C (9, 6).
+Status: Success
+
+Question: How do you describe the movement from (5, 7) to (4, 9)?
+Status: Success
+
+Question: A triangle has corners at (1, 2) and (5, 2). The third corner is directly above (5, 2) at a height of 3 units. What are its coordinates?
+Status: Success
+
+Question: A point at (3, 3) moves 1 units right and 2 units down. What are the new coordinates?
+Status: Success
+
+Question: A point at (9, 8) moves 1 units left and 3 units down. What are the new coordinates?
+Status: Success
+
+Question: What are the coordinates of the point at 4 units across and 3 units up on the grid?
+Status: Success
+
+Question: A point at (2, 2) moves 4 units right and 1 units up. What are the new coordinates?
+Status: Success
+
+Question: A point at (5, 7) moves 3 units left and 3 units down. What are the new coordinates?
+Status: Success
+
+Question: A square has corners at (5, 4) and (5, 6). The sides are 2 units long. What are the coordinates of the missing corner to complete the square?
+Status: Success
+
+Question: A rectangle has corners at (2, 3) and (6, 3). The width is 4 units and height is 3 units. What are the coordinates of the top-right corner?
+Status: Success
+
+Question: Which point has coordinates (2, 7)? Point D (2, 8), Point B (7, 2), Point A (2, 7), Point C (3, 7).
+Status: Success
+
+Question: How do you describe the movement from (4, 4) to (3, 5)?
+Status: Success
+
+Question: A triangle has corners at (6, 2) and (8, 2). The third corner is directly above (8, 2) at a height of 3 units. What are its coordinates?
+Status: Success
+
+Question: A point at (6, 3) moves 1 units right and 2 units down. What are the new coordinates?
+Status: Success
+
+Question: A point at (8, 7) moves 2 units left and 1 units down. What are the new coordinates?
+Status: Success
+
+Question: What are the coordinates of the point at 7 units across and 9 units up on the grid?
+Status: Success
+
+Question: A point at (3, 4) moves 4 units right and 1 units up. What are the new coordinates?
+Status: Success
+
+Question: A point at (9, 5) moves 2 units left and 1 units down. What are the new coordinates?
+Status: Success
+
+Question: A square has corners at (1, 6) and (1, 9). The sides are 3 units long. What are the coordinates of the missing corner to complete the square?
+Status: Success
+
+Question: A rectangle has corners at (1, 3) and (4, 3). The width is 3 units and height is 3 units. What are the coordinates of the top-right corner?
+Status: Success
+
+Question: Which point has coordinates (4, 8)? Point A (4, 8), Point C (5, 8), Point B (8, 4), Point D (4, 9).
+Status: Success
+
+Question: How do you describe the movement from (4, 2) to (9, 7)?
+Status: Success
+
+Question: A triangle has corners at (6, 1) and (8, 1). The third corner is directly above (8, 1) at a height of 2 units. What are its coordinates?
+Status: Success
+
+Question: A point at (4, 4) moves 2 units right and 3 units down. What are the new coordinates?
+Status: Success
+
+Question: A point at (7, 9) moves 2 units left and 2 units down. What are the new coordinates?
+Status: Success
+```

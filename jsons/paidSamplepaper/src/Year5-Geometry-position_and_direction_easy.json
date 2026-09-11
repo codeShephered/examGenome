@@ -1,0 +1,1602 @@
+[
+    {
+        "qid": 1,
+        "question": "A square is translated 3 units to the right. What are the new coordinates of the point (2, 4)?",
+        "options": {
+            "A": "(5, 4)",
+            "B": "(2, 7)",
+            "C": "(5, 7)",
+            "D": "(0, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the right increases its x-coordinate by the number of units moved. So, (2 + 3, 4) = (5, 4).",
+        "difficulty": "easy",
+        "imgFileName": "1_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 2,
+        "question": "A triangle is reflected over the y-axis. What are the new coordinates of the point (3, 5)?",
+        "options": {
+            "A": "(3, -5)",
+            "B": "(-3, 5)",
+            "C": "(5, 3)",
+            "D": "(3, 5)"
+        },
+        "answer": "B",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-3, 5).",
+        "difficulty": "easy",
+        "imgFileName": "2_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 3,
+        "question": "A rectangle is translated 2 units up. What are the new coordinates of the point (1, 3)?",
+        "options": {
+            "A": "(1, 5)",
+            "B": "(3, 3)",
+            "C": "(1, 1)",
+            "D": "(3, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point up increases its y-coordinate by the number of units moved. So, (1, 3 + 2) = (1, 5).",
+        "difficulty": "easy",
+        "imgFileName": "3_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 4,
+        "question": "A circle is reflected over the x-axis. What are the new coordinates of the point (4, 2)?",
+        "options": {
+            "A": "(4, -2)",
+            "B": "(-4, 2)",
+            "C": "(2, 4)",
+            "D": "(4, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (4, -2).",
+        "difficulty": "easy",
+        "imgFileName": "4_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 5,
+        "question": "A pentagon is translated 4 units to the left. What are the new coordinates of the point (7, 1)?",
+        "options": {
+            "A": "(3, 1)",
+            "B": "(7, 5)",
+            "C": "(11, 1)",
+            "D": "(7, -3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the left decreases its x-coordinate by the number of units moved. So, (7 - 4, 1) = (3, 1).",
+        "difficulty": "easy",
+        "imgFileName": "5_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 6,
+        "question": "A hexagon is reflected over the line y = 3. What are the new coordinates of the point (2, 1)?",
+        "options": {
+            "A": "(2, 5)",
+            "B": "(2, -1)",
+            "C": "(2, 1)",
+            "D": "(4, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 3 means the y-coordinate changes to (2*3 - 1) = 5. So, (2, 5).",
+        "difficulty": "easy",
+        "imgFileName": "6_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 7,
+        "question": "A triangle is translated 1 unit down. What are the new coordinates of the point (5, 6)?",
+        "options": {
+            "A": "(5, 5)",
+            "B": "(6, 5)",
+            "C": "(5, 7)",
+            "D": "(4, 6)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point down decreases its y-coordinate by the number of units moved. So, (5, 6 - 1) = (5, 5).",
+        "difficulty": "easy",
+        "imgFileName": "7_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 8,
+        "question": "A square is reflected over the line x = 2. What are the new coordinates of the point (1, 4)?",
+        "options": {
+            "A": "(3, 4)",
+            "B": "(1, 0)",
+            "C": "(1, 4)",
+            "D": "(0, 4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 2 means the x-coordinate changes to (2*2 - 1) = 3. So, (3, 4).",
+        "difficulty": "easy",
+        "imgFileName": "8_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 9,
+        "question": "A rectangle is translated 2 units to the right and 1 unit up. What are the new coordinates of the point (3, 2)?",
+        "options": {
+            "A": "(5, 3)",
+            "B": "(3, 3)",
+            "C": "(5, 2)",
+            "D": "(1, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the right increases its x-coordinate, and up increases its y-coordinate. So, (3 + 2, 2 + 1) = (5, 3).",
+        "difficulty": "easy",
+        "imgFileName": "9_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 10,
+        "question": "A circle is reflected over the y-axis. What are the new coordinates of the point (-1, 3)?",
+        "options": {
+            "A": "(1, 3)",
+            "B": "(-1, -3)",
+            "C": "(3, -1)",
+            "D": "(-1, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (1, 3).",
+        "difficulty": "easy",
+        "imgFileName": "10_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 11,
+        "question": "A triangle is translated 3 units to the left. What are the new coordinates of the point (6, 4)?",
+        "options": {
+            "A": "(3, 4)",
+            "B": "(6, 7)",
+            "C": "(9, 4)",
+            "D": "(6, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the left decreases its x-coordinate by the number of units moved. So, (6 - 3, 4) = (3, 4).",
+        "difficulty": "easy",
+        "imgFileName": "11_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 12,
+        "question": "A square is reflected over the x-axis. What are the new coordinates of the point (2, -5)?",
+        "options": {
+            "A": "(2, 5)",
+            "B": "(-2, -5)",
+            "C": "(5, -2)",
+            "D": "(2, -5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (2, 5).",
+        "difficulty": "easy",
+        "imgFileName": "12_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 13,
+        "question": "A rectangle is translated 1 unit down and 2 units to the left. What are the new coordinates of the point (4, 3)?",
+        "options": {
+            "A": "(2, 2)",
+            "B": "(6, 4)",
+            "C": "(2, 4)",
+            "D": "(4, 2)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point down decreases its y-coordinate, and to the left decreases its x-coordinate. So, (4 - 2, 3 - 1) = (2, 2).",
+        "difficulty": "easy",
+        "imgFileName": "13_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 14,
+        "question": "A pentagon is reflected over the line y = 1. What are the new coordinates of the point (3, 4)?",
+        "options": {
+            "A": "(3, -2)",
+            "B": "(3, 4)",
+            "C": "(3, 2)",
+            "D": "(1, 4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 1 means the y-coordinate changes to (2*1 - 4) = -2. So, (3, -2).",
+        "difficulty": "easy",
+        "imgFileName": "14_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 15,
+        "question": "A hexagon is translated 5 units to the right. What are the new coordinates of the point (0, 2)?",
+        "options": {
+            "A": "(5, 2)",
+            "B": "(0, 7)",
+            "C": "(5, 7)",
+            "D": "(0, -3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the right increases its x-coordinate by the number of units moved. So, (0 + 5, 2) = (5, 2).",
+        "difficulty": "easy",
+        "imgFileName": "15_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 16,
+        "question": "A triangle is reflected over the line x = 4. What are the new coordinates of the point (2, 3)?",
+        "options": {
+            "A": "(6, 3)",
+            "B": "(2, -3)",
+            "C": "(2, 3)",
+            "D": "(0, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 4 means the x-coordinate changes to (2*4 - 2) = 6. So, (6, 3).",
+        "difficulty": "easy",
+        "imgFileName": "16_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 17,
+        "question": "A square is translated 2 units up and 1 unit to the left. What are the new coordinates of the point (3, 1)?",
+        "options": {
+            "A": "(2, 3)",
+            "B": "(4, 3)",
+            "C": "(2, 1)",
+            "D": "(3, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point up increases its y-coordinate, and to the left decreases its x-coordinate. So, (3 - 1, 1 + 2) = (2, 3).",
+        "difficulty": "easy",
+        "imgFileName": "17_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 18,
+        "question": "A circle is reflected over the y-axis. What are the new coordinates of the point (5, 0)?",
+        "options": {
+            "A": "(-5, 0)",
+            "B": "(5, 0)",
+            "C": "(0, 5)",
+            "D": "(0, -5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-5, 0).",
+        "difficulty": "easy",
+        "imgFileName": "18_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 19,
+        "question": "A rectangle is translated 3 units down. What are the new coordinates of the point (2, 7)?",
+        "options": {
+            "A": "(2, 4)",
+            "B": "(5, 7)",
+            "C": "(2, 10)",
+            "D": "(5, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point down decreases its y-coordinate by the number of units moved. So, (2, 7 - 3) = (2, 4).",
+        "difficulty": "easy",
+        "imgFileName": "19_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 20,
+        "question": "A triangle is reflected over the x-axis. What are the new coordinates of the point (1, -2)?",
+        "options": {
+            "A": "(1, 2)",
+            "B": "(-1, -2)",
+            "C": "(2, -1)",
+            "D": "(1, -2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (1, 2).",
+        "difficulty": "easy",
+        "imgFileName": "20_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 21,
+        "question": "A square is translated 4 units to the left and 2 units up. What are the new coordinates of the point (6, 1)?",
+        "options": {
+            "A": "(2, 3)",
+            "B": "(10, 3)",
+            "C": "(2, -1)",
+            "D": "(6, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the left decreases its x-coordinate, and up increases its y-coordinate. So, (6 - 4, 1 + 2) = (2, 3).",
+        "difficulty": "easy",
+        "imgFileName": "21_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 22,
+        "question": "A circle is reflected over the line y = 2. What are the new coordinates of the point (3, 5)?",
+        "options": {
+            "A": "(3, -1)",
+            "B": "(3, 5)",
+            "C": "(3, 1)",
+            "D": "(1, 5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 2 means the y-coordinate changes to (2*2 - 5) = -1. So, (3, -1).",
+        "difficulty": "easy",
+        "imgFileName": "22_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 23,
+        "question": "A rectangle is translated 1 unit to the right. What are the new coordinates of the point (0, 4)?",
+        "options": {
+            "A": "(1, 4)",
+            "B": "(0, 5)",
+            "C": "(1, 5)",
+            "D": "(0, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the right increases its x-coordinate by the number of units moved. So, (0 + 1, 4) = (1, 4).",
+        "difficulty": "easy",
+        "imgFileName": "23_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 24,
+        "question": "A triangle is reflected over the line x = 1. What are the new coordinates of the point (4, 2)?",
+        "options": {
+            "A": "(-2, 2)",
+            "B": "(4, -2)",
+            "C": "(2, 4)",
+            "D": "(4, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 1 means the x-coordinate changes to (2*1 - 4) = -2. So, (-2, 2).",
+        "difficulty": "easy",
+        "imgFileName": "24_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 25,
+        "question": "A square is translated 2 units down. What are the new coordinates of the point (3, 6)?",
+        "options": {
+            "A": "(3, 4)",
+            "B": "(5, 6)",
+            "C": "(3, 8)",
+            "D": "(1, 6)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point down decreases its y-coordinate by the number of units moved. So, (3, 6 - 2) = (3, 4).",
+        "difficulty": "easy",
+        "imgFileName": "25_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 26,
+        "question": "A pentagon is reflected over the y-axis. What are the new coordinates of the point (-2, 3)?",
+        "options": {
+            "A": "(2, 3)",
+            "B": "(-2, -3)",
+            "C": "(3, -2)",
+            "D": "(-2, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (2, 3).",
+        "difficulty": "easy",
+        "imgFileName": "26_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 27,
+        "question": "A hexagon is translated 3 units up. What are the new coordinates of the point (1, 0)?",
+        "options": {
+            "A": "(1, 3)",
+            "B": "(4, 0)",
+            "C": "(1, -3)",
+            "D": "(4, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point up increases its y-coordinate by the number of units moved. So, (1, 0 + 3) = (1, 3).",
+        "difficulty": "easy",
+        "imgFileName": "27_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 28,
+        "question": "A triangle is reflected over the line y = 4. What are the new coordinates of the point (2, 1)?",
+        "options": {
+            "A": "(2, 7)",
+            "B": "(2, -1)",
+            "C": "(2, 1)",
+            "D": "(6, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 4 means the y-coordinate changes to (2*4 - 1) = 7. So, (2, 7).",
+        "difficulty": "easy",
+        "imgFileName": "28_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 29,
+        "question": "A square is translated 5 units to the right and 1 unit down. What are the new coordinates of the point (0, 5)?",
+        "options": {
+            "A": "(5, 4)",
+            "B": "(0, 6)",
+            "C": "(5, 6)",
+            "D": "(0, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the right increases its x-coordinate, and down decreases its y-coordinate. So, (0 + 5, 5 - 1) = (5, 4).",
+        "difficulty": "easy",
+        "imgFileName": "29_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 30,
+        "question": "A circle is reflected over the x-axis. What are the new coordinates of the point (3, -1)?",
+        "options": {
+            "A": "(3, 1)",
+            "B": "(-3, -1)",
+            "C": "(1, -3)",
+            "D": "(3, -1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (3, 1).",
+        "difficulty": "easy",
+        "imgFileName": "30_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 31,
+        "question": "A rectangle is translated 2 units to the left and 3 units up. What are the new coordinates of the point (4, 1)?",
+        "options": {
+            "A": "(2, 4)",
+            "B": "(6, 4)",
+            "C": "(2, -2)",
+            "D": "(4, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the left decreases its x-coordinate, and up increases its y-coordinate. So, (4 - 2, 1 + 3) = (2, 4).",
+        "difficulty": "easy",
+        "imgFileName": "31_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 32,
+        "question": "A pentagon is reflected over the line x = 3. What are the new coordinates of the point (5, 2)?",
+        "options": {
+            "A": "(1, 2)",
+            "B": "(5, -2)",
+            "C": "(2, 5)",
+            "D": "(5, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 3 means the x-coordinate changes to (2*3 - 5) = 1. So, (1, 2).",
+        "difficulty": "easy",
+        "imgFileName": "32_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 33,
+        "question": "A hexagon is translated 1 unit up. What are the new coordinates of the point (2, 3)?",
+        "options": {
+            "A": "(2, 4)",
+            "B": "(3, 3)",
+            "C": "(2, 2)",
+            "D": "(1, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point up increases its y-coordinate by the number of units moved. So, (2, 3 + 1) = (2, 4).",
+        "difficulty": "easy",
+        "imgFileName": "33_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 34,
+        "question": "A triangle is reflected over the line y = 0. What are the new coordinates of the point (1, 4)?",
+        "options": {
+            "A": "(1, -4)",
+            "B": "(1, 4)",
+            "C": "(-1, 4)",
+            "D": "(4, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 0 (the x-axis) changes the sign of the y-coordinate. So, (1, -4).",
+        "difficulty": "easy",
+        "imgFileName": "34_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 35,
+        "question": "A square is translated 3 units to the right and 2 units down. What are the new coordinates of the point (1, 5)?",
+        "options": {
+            "A": "(4, 3)",
+            "B": "(1, 7)",
+            "C": "(4, 7)",
+            "D": "(1, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the right increases its x-coordinate, and down decreases its y-coordinate. So, (1 + 3, 5 - 2) = (4, 3).",
+        "difficulty": "easy",
+        "imgFileName": "35_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 36,
+        "question": "A circle is reflected over the y-axis. What are the new coordinates of the point (-4, 0)?",
+        "options": {
+            "A": "(4, 0)",
+            "B": "(-4, 0)",
+            "C": "(0, 4)",
+            "D": "(0, -4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (4, 0).",
+        "difficulty": "easy",
+        "imgFileName": "36_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 37,
+        "question": "A rectangle is translated 4 units down. What are the new coordinates of the point (2, 8)?",
+        "options": {
+            "A": "(2, 4)",
+            "B": "(6, 8)",
+            "C": "(2, 12)",
+            "D": "(6, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point down decreases its y-coordinate by the number of units moved. So, (2, 8 - 4) = (2, 4).",
+        "difficulty": "easy",
+        "imgFileName": "37_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 38,
+        "question": "A triangle is reflected over the x-axis. What are the new coordinates of the point (0, -3)?",
+        "options": {
+            "A": "(0, 3)",
+            "B": "(0, -3)",
+            "C": "(3, 0)",
+            "D": "(-3, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (0, 3).",
+        "difficulty": "easy",
+        "imgFileName": "38_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 39,
+        "question": "A square is translated 2 units to the left and 1 unit down. What are the new coordinates of the point (5, 4)?",
+        "options": {
+            "A": "(3, 3)",
+            "B": "(7, 5)",
+            "C": "(3, 5)",
+            "D": "(5, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the left decreases its x-coordinate, and down decreases its y-coordinate. So, (5 - 2, 4 - 1) = (3, 3).",
+        "difficulty": "easy",
+        "imgFileName": "39_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 40,
+        "question": "A circle is reflected over the line y = 5. What are the new coordinates of the point (3, 2)?",
+        "options": {
+            "A": "(3, 8)",
+            "B": "(3, -2)",
+            "C": "(3, 2)",
+            "D": "(7, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 5 means the y-coordinate changes to (2*5 - 2) = 8. So, (3, 8).",
+        "difficulty": "easy",
+        "imgFileName": "40_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 41,
+        "question": "A rectangle is translated 1 unit to the right. What are the new coordinates of the point (4, 0)?",
+        "options": {
+            "A": "(5, 0)",
+            "B": "(4, 1)",
+            "C": "(3, 0)",
+            "D": "(4, -1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the right increases its x-coordinate by the number of units moved. So, (4 + 1, 0) = (5, 0).",
+        "difficulty": "easy",
+        "imgFileName": "41_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 42,
+        "question": "A triangle is reflected over the line x = 0. What are the new coordinates of the point (2, 3)?",
+        "options": {
+            "A": "(-2, 3)",
+            "B": "(2, -3)",
+            "C": "(3, -2)",
+            "D": "(2, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 0 (the y-axis) changes the sign of the x-coordinate. So, (-2, 3).",
+        "difficulty": "easy",
+        "imgFileName": "42_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 43,
+        "question": "A square is translated 3 units up. What are the new coordinates of the point (1, 2)?",
+        "options": {
+            "A": "(1, 5)",
+            "B": "(4, 2)",
+            "C": "(1, -1)",
+            "D": "(4, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point up increases its y-coordinate by the number of units moved. So, (1, 2 + 3) = (1, 5).",
+        "difficulty": "easy",
+        "imgFileName": "43_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 44,
+        "question": "A circle is reflected over the line y = 3. What are the new coordinates of the point (2, 1)?",
+        "options": {
+            "A": "(2, 5)",
+            "B": "(2, -1)",
+            "C": "(2, 1)",
+            "D": "(4, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 3 means the y-coordinate changes to (2*3 - 1) = 5. So, (2, 5).",
+        "difficulty": "easy",
+        "imgFileName": "44_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 45,
+        "question": "A rectangle is translated 2 units to the left. What are the new coordinates of the point (6, 3)?",
+        "options": {
+            "A": "(4, 3)",
+            "B": "(6, 5)",
+            "C": "(8, 3)",
+            "D": "(6, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the left decreases its x-coordinate by the number of units moved. So, (6 - 2, 3) = (4, 3).",
+        "difficulty": "easy",
+        "imgFileName": "45_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 46,
+        "question": "A triangle is reflected over the y-axis. What are the new coordinates of the point (3, 4)?",
+        "options": {
+            "A": "(-3, 4)",
+            "B": "(3, -4)",
+            "C": "(4, -3)",
+            "D": "(3, 4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-3, 4).",
+        "difficulty": "easy",
+        "imgFileName": "46_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 47,
+        "question": "A square is translated 1 unit down and 3 units to the right. What are the new coordinates of the point (0, 4)?",
+        "options": {
+            "A": "(3, 3)",
+            "B": "(0, 7)",
+            "C": "(3, 7)",
+            "D": "(0, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point down decreases its y-coordinate, and to the right increases its x-coordinate. So, (0 + 3, 4 - 1) = (3, 3).",
+        "difficulty": "easy",
+        "imgFileName": "47_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 48,
+        "question": "A circle is reflected over the x-axis. What are the new coordinates of the point (4, 0)?",
+        "options": {
+            "A": "(4, 0)",
+            "B": "(-4, 0)",
+            "C": "(0, 4)",
+            "D": "(0, -4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis does not change its coordinates if it lies on the x-axis. So, (4, 0).",
+        "difficulty": "easy",
+        "imgFileName": "48_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 49,
+        "question": "A rectangle is translated 5 units up. What are the new coordinates of the point (2, 0)?",
+        "options": {
+            "A": "(2, 5)",
+            "B": "(7, 0)",
+            "C": "(2, -5)",
+            "D": "(7, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point up increases its y-coordinate by the number of units moved. So, (2, 0 + 5) = (2, 5).",
+        "difficulty": "easy",
+        "imgFileName": "49_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 50,
+        "question": "A pentagon is reflected over the line x = 5. What are the new coordinates of the point (7, 1)?",
+        "options": {
+            "A": "(3, 1)",
+            "B": "(7, -1)",
+            "C": "(1, 7)",
+            "D": "(7, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 5 means the x-coordinate changes to (2*5 - 7) = 3. So, (3, 1).",
+        "difficulty": "easy",
+        "imgFileName": "50_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 51,
+        "question": "A hexagon is translated 2 units to the right. What are the new coordinates of the point (1, 3)?",
+        "options": {
+            "A": "(3, 3)",
+            "B": "(1, 5)",
+            "C": "(3, 5)",
+            "D": "(1, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the right increases its x-coordinate by the number of units moved. So, (1 + 2, 3) = (3, 3).",
+        "difficulty": "easy",
+        "imgFileName": "51_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 52,
+        "question": "A triangle is reflected over the line y = 2. What are the new coordinates of the point (3, 5)?",
+        "options": {
+            "A": "(3, -1)",
+            "B": "(3, 5)",
+            "C": "(3, 1)",
+            "D": "(1, 5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 2 means the y-coordinate changes to (2*2 - 5) = -1. So, (3, -1).",
+        "difficulty": "easy",
+        "imgFileName": "52_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 53,
+        "question": "A square is translated 3 units down. What are the new coordinates of the point (4, 7)?",
+        "options": {
+            "A": "(4, 4)",
+            "B": "(7, 7)",
+            "C": "(4, 10)",
+            "D": "(1, 7)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point down decreases its y-coordinate by the number of units moved. So, (4, 7 - 3) = (4, 4).",
+        "difficulty": "easy",
+        "imgFileName": "53_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 54,
+        "question": "A circle is reflected over the y-axis. What are the new coordinates of the point (0, 4)?",
+        "options": {
+            "A": "(0, 4)",
+            "B": "(0, -4)",
+            "C": "(4, 0)",
+            "D": "(-4, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis does not change its coordinates if it lies on the y-axis. So, (0, 4).",
+        "difficulty": "easy",
+        "imgFileName": "54_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 55,
+        "question": "A rectangle is translated 1 unit up and 2 units to the left. What are the new coordinates of the point (5, 2)?",
+        "options": {
+            "A": "(3, 3)",
+            "B": "(7, 3)",
+            "C": "(3, 1)",
+            "D": "(5, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point up increases its y-coordinate, and to the left decreases its x-coordinate. So, (5 - 2, 2 + 1) = (3, 3).",
+        "difficulty": "easy",
+        "imgFileName": "55_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 56,
+        "question": "A triangle is reflected over the x-axis. What are the new coordinates of the point (2, 0)?",
+        "options": {
+            "A": "(2, 0)",
+            "B": "(-2, 0)",
+            "C": "(0, 2)",
+            "D": "(0, -2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis does not change its coordinates if it lies on the x-axis. So, (2, 0).",
+        "difficulty": "easy",
+        "imgFileName": "56_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 57,
+        "question": "A square is translated 4 units to the right. What are the new coordinates of the point (1, 1)?",
+        "options": {
+            "A": "(5, 1)",
+            "B": "(1, 5)",
+            "C": "(5, 5)",
+            "D": "(1, -3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the right increases its x-coordinate by the number of units moved. So, (1 + 4, 1) = (5, 1).",
+        "difficulty": "easy",
+        "imgFileName": "57_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 58,
+        "question": "A circle is reflected over the line y = 0. What are the new coordinates of the point (3, 2)?",
+        "options": {
+            "A": "(3, -2)",
+            "B": "(3, 2)",
+            "C": "(-3, 2)",
+            "D": "(2, -3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 0 (the x-axis) changes the sign of the y-coordinate. So, (3, -2).",
+        "difficulty": "easy",
+        "imgFileName": "58_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 59,
+        "question": "A rectangle is translated 2 units down and 1 unit to the right. What are the new coordinates of the point (3, 6)?",
+        "options": {
+            "A": "(4, 4)",
+            "B": "(2, 8)",
+            "C": "(4, 8)",
+            "D": "(2, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point down decreases its y-coordinate, and to the right increases its x-coordinate. So, (3 + 1, 6 - 2) = (4, 4).",
+        "difficulty": "easy",
+        "imgFileName": "59_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 60,
+        "question": "A triangle is reflected over the line x = 2. What are the new coordinates of the point (1, 4)?",
+        "options": {
+            "A": "(3, 4)",
+            "B": "(1, 0)",
+            "C": "(1, 4)",
+            "D": "(0, 4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 2 means the x-coordinate changes to (2*2 - 1) = 3. So, (3, 4).",
+        "difficulty": "easy",
+        "imgFileName": "60_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 61,
+        "question": "A square is translated 3 units up. What are the new coordinates of the point (0, 2)?",
+        "options": {
+            "A": "(0, 5)",
+            "B": "(3, 2)",
+            "C": "(0, -1)",
+            "D": "(3, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point up increases its y-coordinate by the number of units moved. So, (0, 2 + 3) = (0, 5).",
+        "difficulty": "easy",
+        "imgFileName": "61_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 62,
+        "question": "A circle is reflected over the y-axis. What are the new coordinates of the point (4, 3)?",
+        "options": {
+            "A": "(-4, 3)",
+            "B": "(4, -3)",
+            "C": "(3, -4)",
+            "D": "(4, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-4, 3).",
+        "difficulty": "easy",
+        "imgFileName": "62_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 63,
+        "question": "A rectangle is translated 1 unit to the left. What are the new coordinates of the point (2, 5)?",
+        "options": {
+            "A": "(1, 5)",
+            "B": "(2, 6)",
+            "C": "(3, 5)",
+            "D": "(2, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the left decreases its x-coordinate by the number of units moved. So, (2 - 1, 5) = (1, 5).",
+        "difficulty": "easy",
+        "imgFileName": "63_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 64,
+        "question": "A triangle is reflected over the line y = 3. What are the new coordinates of the point (2, 1)?",
+        "options": {
+            "A": "(2, 5)",
+            "B": "(2, -1)",
+            "C": "(2, 1)",
+            "D": "(4, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 3 means the y-coordinate changes to (2*3 - 1) = 5. So, (2, 5).",
+        "difficulty": "easy",
+        "imgFileName": "64_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 65,
+        "question": "A square is translated 2 units to the right and 1 unit down. What are the new coordinates of the point (3, 4)?",
+        "options": {
+            "A": "(5, 3)",
+            "B": "(1, 5)",
+            "C": "(5, 5)",
+            "D": "(1, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the right increases its x-coordinate, and down decreases its y-coordinate. So, (3 + 2, 4 - 1) = (5, 3).",
+        "difficulty": "easy",
+        "imgFileName": "65_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 66,
+        "question": "A circle is reflected over the x-axis. What are the new coordinates of the point (1, -2)?",
+        "options": {
+            "A": "(1, 2)",
+            "B": "(-1, -2)",
+            "C": "(2, -1)",
+            "D": "(1, -2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (1, 2).",
+        "difficulty": "easy",
+        "imgFileName": "66_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 67,
+        "question": "A rectangle is translated 3 units up. What are the new coordinates of the point (4, 0)?",
+        "options": {
+            "A": "(4, 3)",
+            "B": "(7, 0)",
+            "C": "(4, -3)",
+            "D": "(1, 0)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point up increases its y-coordinate by the number of units moved. So, (4, 0 + 3) = (4, 3).",
+        "difficulty": "easy",
+        "imgFileName": "67_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 68,
+        "question": "A triangle is reflected over the line x = 4. What are the new coordinates of the point (2, 3)?",
+        "options": {
+            "A": "(6, 3)",
+            "B": "(2, -3)",
+            "C": "(2, 3)",
+            "D": "(0, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 4 means the x-coordinate changes to (2*4 - 2) = 6. So, (6, 3).",
+        "difficulty": "easy",
+        "imgFileName": "68_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 69,
+        "question": "A square is translated 1 unit up and 2 units to the left. What are the new coordinates of the point (3, 1)?",
+        "options": {
+            "A": "(1, 2)",
+            "B": "(5, 2)",
+            "C": "(1, 0)",
+            "D": "(3, 2)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point up increases its y-coordinate, and to the left decreases its x-coordinate. So, (3 - 2, 1 + 1) = (1, 2).",
+        "difficulty": "easy",
+        "imgFileName": "69_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 70,
+        "question": "A circle is reflected over the y-axis. What are the new coordinates of the point (5, 2)?",
+        "options": {
+            "A": "(-5, 2)",
+            "B": "(5, -2)",
+            "C": "(2, -5)",
+            "D": "(5, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-5, 2).",
+        "difficulty": "easy",
+        "imgFileName": "70_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 71,
+        "question": "A rectangle is translated 2 units down. What are the new coordinates of the point (1, 5)?",
+        "options": {
+            "A": "(1, 3)",
+            "B": "(3, 5)",
+            "C": "(1, 7)",
+            "D": "(3, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point down decreases its y-coordinate by the number of units moved. So, (1, 5 - 2) = (1, 3).",
+        "difficulty": "easy",
+        "imgFileName": "71_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 72,
+        "question": "A triangle is reflected over the x-axis. What are the new coordinates of the point (0, 1)?",
+        "options": {
+            "A": "(0, -1)",
+            "B": "(0, 1)",
+            "C": "(1, 0)",
+            "D": "(-1, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (0, -1).",
+        "difficulty": "easy",
+        "imgFileName": "72_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 73,
+        "question": "A square is translated 4 units to the right. What are the new coordinates of the point (0, 3)?",
+        "options": {
+            "A": "(4, 3)",
+            "B": "(0, 7)",
+            "C": "(4, 7)",
+            "D": "(0, -1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the right increases its x-coordinate by the number of units moved. So, (0 + 4, 3) = (4, 3).",
+        "difficulty": "easy",
+        "imgFileName": "73_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 74,
+        "question": "A circle is reflected over the line y = 1. What are the new coordinates of the point (2, 4)?",
+        "options": {
+            "A": "(2, -2)",
+            "B": "(2, 4)",
+            "C": "(2, 2)",
+            "D": "(4, 4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 1 means the y-coordinate changes to (2*1 - 4) = -2. So, (2, -2).",
+        "difficulty": "easy",
+        "imgFileName": "74_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 75,
+        "question": "A rectangle is translated 1 unit to the left. What are the new coordinates of the point (3, 2)?",
+        "options": {
+            "A": "(2, 2)",
+            "B": "(3, 3)",
+            "C": "(4, 2)",
+            "D": "(3, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the left decreases its x-coordinate by the number of units moved. So, (3 - 1, 2) = (2, 2).",
+        "difficulty": "easy",
+        "imgFileName": "75_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 76,
+        "question": "A triangle is reflected over the line x = 1. What are the new coordinates of the point (3, 2)?",
+        "options": {
+            "A": "(-1, 2)",
+            "B": "(3, -2)",
+            "C": "(2, 3)",
+            "D": "(3, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 1 means the x-coordinate changes to (2*1 - 3) = -1. So, (-1, 2).",
+        "difficulty": "easy",
+        "imgFileName": "76_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 77,
+        "question": "A square is translated 2 units up. What are the new coordinates of the point (4, 1)?",
+        "options": {
+            "A": "(4, 3)",
+            "B": "(6, 1)",
+            "C": "(4, -1)",
+            "D": "(2, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point up increases its y-coordinate by the number of units moved. So, (4, 1 + 2) = (4, 3).",
+        "difficulty": "easy",
+        "imgFileName": "77_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 78,
+        "question": "A circle is reflected over the line y = 2. What are the new coordinates of the point (1, 5)?",
+        "options": {
+            "A": "(1, -1)",
+            "B": "(1, 5)",
+            "C": "(1, 1)",
+            "D": "(5, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 2 means the y-coordinate changes to (2*2 - 5) = -1. So, (1, -1).",
+        "difficulty": "easy",
+        "imgFileName": "78_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 79,
+        "question": "A rectangle is translated 3 units to the right. What are the new coordinates of the point (0, 4)?",
+        "options": {
+            "A": "(3, 4)",
+            "B": "(0, 7)",
+            "C": "(3, 7)",
+            "D": "(0, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the right increases its x-coordinate by the number of units moved. So, (0 + 3, 4) = (3, 4).",
+        "difficulty": "easy",
+        "imgFileName": "79_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 80,
+        "question": "A triangle is reflected over the y-axis. What are the new coordinates of the point (2, 0)?",
+        "options": {
+            "A": "(-2, 0)",
+            "B": "(2, 0)",
+            "C": "(0, 2)",
+            "D": "(0, -2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-2, 0).",
+        "difficulty": "easy",
+        "imgFileName": "80_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 81,
+        "question": "A square is translated 1 unit up and 1 unit to the right. What are the new coordinates of the point (2, 3)?",
+        "options": {
+            "A": "(3, 4)",
+            "B": "(1, 2)",
+            "C": "(3, 2)",
+            "D": "(1, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point up increases its y-coordinate, and to the right increases its x-coordinate. So, (2 + 1, 3 + 1) = (3, 4).",
+        "difficulty": "easy",
+        "imgFileName": "81_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 82,
+        "question": "A circle is reflected over the x-axis. What are the new coordinates of the point (3, 3)?",
+        "options": {
+            "A": "(3, -3)",
+            "B": "(-3, 3)",
+            "C": "(3, 3)",
+            "D": "(-3, -3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (3, -3).",
+        "difficulty": "easy",
+        "imgFileName": "82_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 83,
+        "question": "A rectangle is translated 2 units down. What are the new coordinates of the point (1, 6)?",
+        "options": {
+            "A": "(1, 4)",
+            "B": "(3, 6)",
+            "C": "(1, 8)",
+            "D": "(3, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point down decreases its y-coordinate by the number of units moved. So, (1, 6 - 2) = (1, 4).",
+        "difficulty": "easy",
+        "imgFileName": "83_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 84,
+        "question": "A triangle is reflected over the line y = 4. What are the new coordinates of the point (2, 1)?",
+        "options": {
+            "A": "(2, 7)",
+            "B": "(2, -1)",
+            "C": "(2, 1)",
+            "D": "(6, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 4 means the y-coordinate changes to (2*4 - 1) = 7. So, (2, 7).",
+        "difficulty": "easy",
+        "imgFileName": "84_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 85,
+        "question": "A square is translated 3 units to the left. What are the new coordinates of the point (5, 2)?",
+        "options": {
+            "A": "(2, 2)",
+            "B": "(5, 5)",
+            "C": "(8, 2)",
+            "D": "(5, -1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the left decreases its x-coordinate by the number of units moved. So, (5 - 3, 2) = (2, 2).",
+        "difficulty": "easy",
+        "imgFileName": "85_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 86,
+        "question": "A circle is reflected over the line x = 3. What are the new coordinates of the point (5, 2)?",
+        "options": {
+            "A": "(1, 2)",
+            "B": "(5, -2)",
+            "C": "(2, 5)",
+            "D": "(5, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 3 means the x-coordinate changes to (2*3 - 5) = 1. So, (1, 2).",
+        "difficulty": "easy",
+        "imgFileName": "86_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 87,
+        "question": "A rectangle is translated 1 unit up. What are the new coordinates of the point (3, 0)?",
+        "options": {
+            "A": "(3, 1)",
+            "B": "(4, 0)",
+            "C": "(3, -1)",
+            "D": "(2, 0)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point up increases its y-coordinate by the number of units moved. So, (3, 0 + 1) = (3, 1).",
+        "difficulty": "easy",
+        "imgFileName": "87_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 88,
+        "question": "A triangle is reflected over the y-axis. What are the new coordinates of the point (-1, 2)?",
+        "options": {
+            "A": "(1, 2)",
+            "B": "(-1, -2)",
+            "C": "(2, -1)",
+            "D": "(-1, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (1, 2).",
+        "difficulty": "easy",
+        "imgFileName": "88_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 89,
+        "question": "A square is translated 2 units to the right and 1 unit down. What are the new coordinates of the point (1, 3)?",
+        "options": {
+            "A": "(3, 2)",
+            "B": "(-1, 4)",
+            "C": "(3, 4)",
+            "D": "(1, 2)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the right increases its x-coordinate, and down decreases its y-coordinate. So, (1 + 2, 3 - 1) = (3, 2).",
+        "difficulty": "easy",
+        "imgFileName": "89_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 90,
+        "question": "A circle is reflected over the x-axis. What are the new coordinates of the point (0, 5)?",
+        "options": {
+            "A": "(0, -5)",
+            "B": "(0, 5)",
+            "C": "(5, 0)",
+            "D": "(-5, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (0, -5).",
+        "difficulty": "easy",
+        "imgFileName": "90_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 91,
+        "question": "A rectangle is translated 4 units up. What are the new coordinates of the point (2, 1)?",
+        "options": {
+            "A": "(2, 5)",
+            "B": "(6, 1)",
+            "C": "(2, -3)",
+            "D": "(6, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point up increases its y-coordinate by the number of units moved. So, (2, 1 + 4) = (2, 5).",
+        "difficulty": "easy",
+        "imgFileName": "91_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 92,
+        "question": "A triangle is reflected over the line y = 1. What are the new coordinates of the point (3, 4)?",
+        "options": {
+            "A": "(3, -2)",
+            "B": "(3, 4)",
+            "C": "(3, 2)",
+            "D": "(1, 4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 1 means the y-coordinate changes to (2*1 - 4) = -2. So, (3, -2).",
+        "difficulty": "easy",
+        "imgFileName": "92_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 93,
+        "question": "A square is translated 1 unit to the left. What are the new coordinates of the point (4, 2)?",
+        "options": {
+            "A": "(3, 2)",
+            "B": "(4, 3)",
+            "C": "(5, 2)",
+            "D": "(4, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the left decreases its x-coordinate by the number of units moved. So, (4 - 1, 2) = (3, 2).",
+        "difficulty": "easy",
+        "imgFileName": "93_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 94,
+        "question": "A circle is reflected over the line x = 0. What are the new coordinates of the point (2, 3)?",
+        "options": {
+            "A": "(-2, 3)",
+            "B": "(2, -3)",
+            "C": "(3, -2)",
+            "D": "(2, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 0 (the y-axis) changes the sign of the x-coordinate. So, (-2, 3).",
+        "difficulty": "easy",
+        "imgFileName": "94_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 95,
+        "question": "A rectangle is translated 3 units up. What are the new coordinates of the point (1, 2)?",
+        "options": {
+            "A": "(1, 5)",
+            "B": "(4, 2)",
+            "C": "(1, -1)",
+            "D": "(4, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point up increases its y-coordinate by the number of units moved. So, (1, 2 + 3) = (1, 5).",
+        "difficulty": "easy",
+        "imgFileName": "95_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 96,
+        "question": "A triangle is reflected over the line y = 3. What are the new coordinates of the point (2, 1)?",
+        "options": {
+            "A": "(2, 5)",
+            "B": "(2, -1)",
+            "C": "(2, 1)",
+            "D": "(4, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 3 means the y-coordinate changes to (2*3 - 1) = 5. So, (2, 5).",
+        "difficulty": "easy",
+        "imgFileName": "96_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 97,
+        "question": "A square is translated 2 units to the right and 1 unit up. What are the new coordinates of the point (0, 0)?",
+        "options": {
+            "A": "(2, 1)",
+            "B": "(0, 2)",
+            "C": "(2, -1)",
+            "D": "(0, -2)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point to the right increases its x-coordinate, and up increases its y-coordinate. So, (0 + 2, 0 + 1) = (2, 1).",
+        "difficulty": "easy",
+        "imgFileName": "97_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 98,
+        "question": "A circle is reflected over the y-axis. What are the new coordinates of the point (3, 0)?",
+        "options": {
+            "A": "(-3, 0)",
+            "B": "(3, 0)",
+            "C": "(0, 3)",
+            "D": "(0, -3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-3, 0).",
+        "difficulty": "easy",
+        "imgFileName": "98_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 99,
+        "question": "A rectangle is translated 1 unit down. What are the new coordinates of the point (2, 4)?",
+        "options": {
+            "A": "(2, 3)",
+            "B": "(3, 4)",
+            "C": "(2, 5)",
+            "D": "(1, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point down decreases its y-coordinate by the number of units moved. So, (2, 4 - 1) = (2, 3).",
+        "difficulty": "easy",
+        "imgFileName": "99_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 100,
+        "question": "A triangle is reflected over the x-axis. What are the new coordinates of the point (4, 1)?",
+        "options": {
+            "A": "(4, -1)",
+            "B": "(-4, 1)",
+            "C": "(1, -4)",
+            "D": "(4, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (4, -1).",
+        "difficulty": "easy",
+        "imgFileName": "100_Year5-Geometry-position_and_direction_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    }
+]

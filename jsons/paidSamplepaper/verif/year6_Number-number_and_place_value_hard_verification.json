@@ -1,0 +1,1561 @@
+Here is the evaluation of the provided JSON data structure based on the correctness of the "answer" for each question.
+
+Question: In the number 5,847,392, what is the value of the digit 8?
+Status: Success
+
+Question: Which number is exactly 100,000 more than 6,749,285?
+Status: Success
+
+Question: What number is represented by: (7 × 1,000,000) + (4 × 10,000) + (9 × 100) + (3 × 10)?
+Status: Success
+
+Question: Round 8,476,529 to the nearest hundred thousand.
+Status: Success
+
+Question: Which of these numbers, when rounded to the nearest million, gives 4,000,000?
+Status: Success
+
+Question: The temperature at midnight was -7°C. By noon it had risen by 15°C. What was the temperature at noon?
+Status: Success
+
+Question: What is the interval between -23 and 18?
+Status: Success
+
+Question: Which number is larger: 7,849,362 or 7,894,263?
+Status: Success
+
+Question: A number rounded to the nearest 10,000 is 8,560,000. Which could be the original number?
+Status: Success
+
+Question: In a city, the elevation at the airport is 127 metres above sea level. A submarine in the nearby ocean is at -89 metres. What is the difference in elevation between them?
+Status: Success
+
+Question: Which of these numbers has a 6 in the ten thousands place?
+Status: Error
+Explanation: In the number 4,629,183 (Option A), the digit 6 is in the hundred thousands place, not the ten thousands place. The correct options are B (5,164,729) or D (2,761,834).
+
+Question: Order these numbers from smallest to largest: 9,285,471  9,258,741  9,285,417
+Status: Success
+
+Question: A thermometer shows -12°C. The temperature drops by another 8°C. What does the thermometer show now?
+Status: Success
+
+Question: What is 4,738,926 rounded to the nearest ten thousand?
+Status: Success
+
+Question: In the number 6,045,738, which digit has the smallest value?
+Status: Success
+
+Question: A diver descends from the surface (0 metres) to -34 metres, then rises 19 metres. What is their final depth?
+Status: Success
+
+Question: Which number is 10,000 less than 3,004,567?
+Status: Success
+
+Question: A number has 8 millions, 0 hundred thousands, 4 ten thousands, 7 thousands, 0 hundreds, 9 tens and 2 ones. What is the number?
+Status: Success
+
+Question: At 6am, the temperature was -9°C. By 2pm it was 7°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 5,638,499 to the nearest hundred.
+Status: Success
+
+Question: Three consecutive numbers sum to 8,999,997. What is the middle number?
+Status: Success
+
+Question: A 7-digit number rounds to 3,500,000 when rounded to the nearest 100,000 and to 3,460,000 when rounded to the nearest 10,000. What is the smallest possible value for this number?
+Status: Success
+
+Question: The temperature was -17°C at midnight. It rose by 3°C per hour for 8 hours, then fell by 2°C per hour for 5 hours. What was the final temperature?
+Status: Success
+
+Question: Two numbers have a sum of 9,999,999 and a difference of 1,234,567. What is the larger number?
+Status: Success
+
+Question: Round 7,856,344 to 3 significant figures.
+Status: Success
+
+Question: A number is increased by 25% and the result is 6,250,000. What was the original number?
+Status: Success
+
+Question: A lift starts at floor -12. It moves up 8 floors, down 3 floors, up 15 floors, down 7 floors, then up 4 floors. What floor is it on now?
+Status: Success
+
+Question: What is the value of (9 × 1,000,000) - (3 × 100,000) + (7 × 10,000) - (2 × 1,000) + (5 × 100)?
+Status: Success
+
+Question: A number is 4 times another number. Their sum is 7,500,000. What is the smaller number?
+Status: Success
+
+Question: Round 4,999,999 to the nearest 500,000.
+Status: Success
+
+Question: What is the hundreds digit in the number 10,000,000 - 9,876,543?
+Status: Success
+
+Question: A sequence starts at -45 and increases by 7 each time. What is the 10th term?
+Status: Success
+
+Question: The digit sum of a number is 36. The number rounds to 6,000,000 when rounded to the nearest million. What is the smallest possible value?
+Status: Error
+Explanation: None of the provided options have a digit sum of 36. For example, in Option C (5,500,089), the digit sum is 5+5+0+0+0+8+9 = 27.
+
+Question: What number is exactly halfway between -3,250 and 4,750?
+Status: Success
+
+Question: A 7-digit number uses each of the digits 1, 2, 3, 4, 5, 6, 7 exactly once. What is the difference between the largest and smallest such numbers?
+Status: Error
+Explanation: The largest number is 7,654,321 and the smallest is 1,234,567. The difference is 6,419,754 (Option A). The provided answer B (8,641,974) is mathematically incorrect.
+
+Question: In the number 7,849,362, what is the sum of the values of all digits in the thousands places and above?
+Status: Success
+
+Question: Which number is exactly 1,350,000 more than the difference between 8,926,547 and 2,784,329?
+Status: Success
+
+Question: A number rounds to 5,800,000 when rounded to the nearest hundred thousand, and to 5,840,000 when rounded to the nearest ten thousand. Which could be the number?
+Status: Success
+
+Question: The temperature was -18°C at midnight. It rose by 7°C every 3 hours. What was the temperature at 9am?
+Status: Success
+
+Question: A number has digits that sum to 35. The hundreds digit is twice the tens digit, and the thousands digit is 3 more than the hundreds digit. If the number is between 5,000 and 6,000, what is the number?
+Status: Error
+Explanation: In Option A (5,843), the thousands digit (5) is not 3 more than the hundreds digit (8). Furthermore, the digit sum 5+8+4+3 = 20, not 35.
+
+Question: If you arrange the digits 9, 8, 7, 6, 5, 4, 3 to make the largest possible 7-digit number and subtract the smallest possible 7-digit number (not starting with 0), what is the difference?
+Status: Success
+
+Question: Round 4,857,936 to the nearest ten thousand, then round that result to the nearest hundred thousand. What is the final result?
+Status: Success
+
+Question: A submarine at -285 metres makes three moves: descends 127 metres, ascends 89 metres, then descends 56 metres. What is its final depth?
+Status: Success
+
+Question: In the number 8,394,576, how many times greater is the value of the first digit compared to the sum of the values of the last three digits?
+Status: Error
+Explanation: The value of the first digit is 8,000,000. The sum of the values of the last three digits is 500+70+6 = 576. 8,000,000 / 576 ≈ 13,888.89. The provided answer A (14,035) is incorrect.
+
+Question: Which number becomes 7,000,000 when rounded to the nearest million, 6,900,000 when rounded to the nearest hundred thousand, and 6,850,000 when rounded to the nearest ten thousand?
+Status: Error
+Explanation: Option A (6,847,823) rounded to the nearest hundred thousand is 6,800,000, not 6,900,000. Option B (6,852,491) is the correct answer.
+
+Question: The temperature dropped from 23°C to -17°C over 8 hours. What was the average temperature change per hour?
+Status: Success
+
+Question: What is the value of the digit 6 in 9,386,742 as a percentage of the value of the digit 6 in 6,847,293?
+Status: Success
+
+Question: A number is greater than 5,000,000. When you subtract 1,750,000, then round to the nearest hundred thousand, you get 3,400,000. What is the smallest possible original number?
+Status: Error
+Explanation: The smallest number whose subtraction results in 3,350,000 (which rounds to 3,400,000) is 5,100,000 (Option D). Subtraction: 5,100,000 - 1,750,000 = 3,350,000.
+
+Question: In a 7-digit number, each digit is 1 more than the digit to its right, and the ones digit is 3. What is the number?
+Status: Success
+
+Question: A bank account starts at £450. It experiences these changes: -£680, +£325, -£470, +£825. What is the final balance?
+Status: Success
+
+Question: What is the smallest 7-digit number where each digit is different and the number rounds to 3,000,000 when rounded to the nearest million?
+Status: Success
+
+Question: Round 8,765,432 to the nearest million, then multiply the result by the digit in the ten thousands place of the original number. What is the answer?
+Status: Success
+
+Question: An elevator starts at floor -8, goes up 23 floors, down 15 floors, up 9 floors, then down 18 floors. What floor is it on?
+Status: Success
+
+Question: In the number 6,742,589, what is the ratio of the value of the 7 to the value of the 5?
+Status: Success
+
+Question: A number rounds to 4,500,000 when rounded to the nearest hundred thousand. When you add 275,000 to this number and round to the nearest million, you get 5,000,000. What is the maximum value the original number could be?
+Status: Error
+Explanation: The maximum value that rounds to 4,500,000 (nearest hundred thousand) is 4,549,999. Adding 275,000 to this gives 4,824,999, which rounds to 5,000,000. Therefore, 4,549,999 (Option A) is the maximum.
+
+Question: What is the sum of all the place values in the number 5,203,740 that are greater than 10,000?
+Status: Error
+Explanation: The place values greater than 10,000 are 5,000,000 (millions) and 200,000 (hundred thousands). Their sum is 5,200,000 (Option A). Option B (5,230,000) is incorrect.
+
+Question: A mountain peak is at 4,850m elevation. A cave system extends from 3,200m below the peak to 1,750m below that. What is the elevation of the bottom of the cave?
+Status: Success
+
+Question: In a 6-digit number, the sum of the digits in even positions (2nd, 4th, 6th from left) equals 18, and each is twice the corresponding odd position digit (1st, 3rd, 5th). If the number starts with 2, what is the number?
+Status: Success
+
+Question: If you take a 7-digit number, round it to the nearest hundred thousand to get 6,300,000, then round that result to the nearest million, what is the final result?
+Status: Success
+
+Question: A stock's value changed as follows over 5 days: +£340, -£720, +£185, -£560, +£825. If it started at £680, what is the final value?
+Status: Success
+
+Question: What 7-digit number has the property that when rounded to the nearest ten thousand, hundred thousand, and million, the results are 7,450,000, 7,400,000, and 7,000,000 respectively?
+Status: Success
+
+Question: In the number 9,527,468, what is the product of the place value positions (not values) of all digits greater than 5?
+Status: Error
+Explanation: The digits greater than 5 are 9 (1st pos), 7 (4th pos), 6 (6th pos), and 8 (7th pos). Their product is 1 × 4 × 6 × 7 = 168. Option D (1,680) is incorrect.
+
+Question: The temperature at location A is -32°C and at location B is 14°C. A weather station is positioned exactly one-third of the way from A to B. What is the temperature at the weather station?
+Status: Error
+Explanation: The total interval is 46 degrees. One-third of 46 is ≈15.33. Starting from -32°C and rising by 15.33 gives -16.67°C. Option D (-17.33) is incorrect.
+
+Question: A number has 8 digits. The first four digits form a number that is 2,500,000 more than the number formed by the last four digits. If the entire number rounds to 7,000,000 when rounded to the nearest million, what could the number be?
+Status: Error
+Explanation: In Option D (6,893,4393), the number is 68,934,393. This rounds to 69,000,000 when rounded to the nearest million, not 7,000,000.
+
+Question: What is the largest 7-digit number where the value of each digit equals the product of its two neighboring digits, and the first digit is 2?
+Status: Error
+Explanation: In Option C (2,816,488), the digit 8 (2nd pos) is not the product of neighbors 2 and 1 (2 × 1 = 2). The logic for the "largest" value is flawed in the provided options.
+
+Question: Round 5,847,293 to the nearest ten thousand. Then take that result and round it to the nearest million. Finally, subtract the difference between these two rounded values from the original number. What is the result?
+Status: Error
+Explanation: 5,847,293 to 10k = 5,850,000. Rounding that to million = 6,000,000. Difference = 150,000. Original - 150,000 = 5,697,293. Option B (4,847,293) is incorrect.
+
+Question: A lift travels from floor -12 to floor 35, taking 3 seconds per floor. How many seconds does the journey take?
+Status: Success
+
+Question: In a 7-digit palindrome number (reads same forwards and backwards) that rounds to 8,000,000 when rounded to the nearest million, what is the minimum value of the middle digit?
+Status: Success
+
+Question: What is the value of X if: (X + 2,450,000) rounds to 6,000,000 when rounded to the nearest million, but (X + 2,450,000) rounds to 5,900,000 when rounded to the nearest hundred thousand?
+Status: Success
+
+Question: In the number 6,483,729, if you multiply the values of all odd-positioned digits (from left: 1st, 3rd, 5th, 7th) and divide by the values of all even-positioned digits (2nd, 4th, 6th), what do you get?
+Status: Error
+Explanation: Odd digits are 6, 8, 7, 9. Even digits are 4, 3, 2. (6*8*7*9) / (4*3*2) = 3024 / 24 = 126. Option C (720) is incorrect.
+
+Question: A temperature sensor records: -28°C at midnight, -19°C at 6am, -8°C at noon, and 5°C at 6pm. If this pattern continues, what will be the temperature at midnight?
+Status: Error
+Explanation: The increments are +9, +11, +13. Following this sequence (+15), the next temperature is 5 + 15 = 20°C (Option D). Given answer B is incorrect.
+
+Question: What is the smallest 8-digit number where the first four digits form a number exactly double the number formed by the last four digits?
+Status: Error
+Explanation: In Option A (10,005,002), the first four digits (1000) are not double the last four digits (5002). 
+
+Question: Round 9,376,482 to the nearest hundred thousand. What digit is in the ten thousands place of the rounded number?
+Status: Error
+Explanation: Rounding 9,376,482 to the nearest hundred thousand gives 9,400,000. The digit in the ten thousands place is 0 (Option A). Provided answer C (4) is incorrect.
+
+Question: A water tank's level changed by -340 litres, +185 litres, -520 litres, +745 litres, and -280 litres over 5 hours. If it started at 860 litres, what is the final level?
+Status: Success
+
+Question: In a 7-digit number, the digit in each place value is equal to the number of times that digit appears in the entire number. What is this number?
+Status: Error
+Explanation: In Option A (3,211,000), the digit '3' appears once, yet it is in the millions place (suggesting '3' should appear 3 times).
+
+Question: What is the sum of all 7-digit numbers that can be formed using each of the digits 1, 2, 3, 4, 5, 6, 7 exactly once, divided by the number of such arrangements?
+Status: Success
+
+Question: A diver starts at -47m, descends at 3m per minute for 18 minutes, then ascends at 5m per minute for 12 minutes. What is their final depth?
+Status: Error
+Explanation: -47 - (3*18) + (5*12) = -47 - 54 + 60 = -41m. Option A (-45m) is incorrect.
+
+Question: In the number 8,759,246, what percentage is the value of the digit 5 of the value of the digit 9?
+Status: Error
+Explanation: Value of 5 is 50,000. Value of 9 is 9,000. (50,000 / 9,000) * 100 = 555.56%. Option B (5.56%) is incorrect.
+
+Question: A number rounds to 7,200,000 when rounded to the nearest hundred thousand. When you multiply this number by 2 and round to the nearest million, you get 14,000,000. What is the maximum value the original number could be?
+Status: Error
+Explanation: The maximum value that rounds to 7,200,000 (100k) is 7,249,999. Double this is 14,499,998, which rounds to 14M (million). Therefore, 7,249,999 (Option A) is the maximum.
+
+Question: What is the difference between the largest and smallest 7-digit numbers that round to 5,000,000 when rounded to the nearest million?
+Status: Success
+
+Question: An elevator starts at floor -15, makes 7 trips up of 9 floors each, then makes 5 trips down of 11 floors each. What floor is it on?
+Status: Error
+Explanation: -15 + (7*9) - (5*11) = -15 + 63 - 55 = -7. Option C (Floor 3) is incorrect.
+
+Question: In the number 4,926,837, if you swap the digits in the hundred thousands and hundreds places, then round to the nearest ten thousand, what is the result?
+Status: Error
+Explanation: Swapping 9 and 8 results in 4,826,937. Rounding to the nearest ten thousand gives 4,830,000. Option C (4,930,000) is incorrect.
+
+Question: A stock portfolio had these value changes over 6 months: +£2,350, -£4,720, +£1,890, -£3,240, +£5,100, -£1,650. If it started at £12,500, what is the final value?
+Status: Success
+
+Question: What 7-digit number has the property that when you add the values (not digits) in all odd-numbered positions (1st, 3rd, 5th, 7th from left) and divide by 1,000, you get 7,084?
+Status: Error
+Explanation: For Option C (7,012,345), the sum of values is 7,000,000 + 10,000 + 300 + 5 = 7,010,305. 7,010,305 / 1000 = 7010.305, not 7084.
+
+Question: The temperature varies according to the pattern: -24°C, -16°C, -6°C, 6°C, 20°C. What is the next temperature?
+Status: Success
+
+Question: A 7-digit number is such that the sum of its first three digits equals the sum of its last three digits, and both sums equal 18. The middle digit is 5. What could the number be if all digits are different?
+Status: Error
+Explanation: In Option B (8,465,973), the sum of the last three digits is 9+7+3 = 19, not 18. Option C is the only correct arrangement.
+
+Question: Round 6,482,759 to the nearest thousand. Then add 50,000 to the result and round to the nearest hundred thousand. What is the final answer?
+Status: Success
+
+Question: A mine shaft descends from elevation 850m to -1,750m over a horizontal distance of 3,200m. If a cart travels 1,600m horizontally from the top, what is its approximate elevation?
+Status: Success
+
+Question: In a 6-digit number, each digit (reading left to right) is the sum of the two digits to its right, except the last two. If the last two digits are 3 and 5, what is the number?
+Status: Error
+Explanation: If last digits are 3 and 5, then the digit to the left is 3+5=8. The digit to its left is 8+3=11, which is not a single digit.
+
+Question: What is the sum of all possible values for the hundreds digit in a 7-digit number that rounds to 4,680,000 when rounded to the nearest ten thousand?
+Status: Success
+
+Question: A lift travels from floor -18 to floor 47, stopping at every 5th floor. How many stops does it make (including start and end)?
+Status: Success
+
+Question: In the number 7,538,924, what is the difference between the value of the largest digit and the value of the smallest non-zero digit?
+Status: Error
+Explanation: Largest digit is 9 (value 900). Smallest non-zero is 2 (value 20). 900 - 20 = 880. Provided answer B is incorrect.
+
+Question: A number rounds to 8,300,000 when rounded to the nearest hundred thousand. If you subtract 450,000 and then round to the nearest million, you get 8,000,000. What is the minimum value of the original number?
+Status: Error
+Explanation: Minimum for 8.3M (100k) is 8,250,000. 8,250,000 - 450,000 = 7,800,000, which rounds to 8,000,000. Therefore, 8,250,000 (Option A) is the minimum.
+
+Question: What is the product of all single-digit numbers that appear in the number 9,045,376 when written in words (e.g., 'nine million...')?
+Status: Error
+Explanation: The product of 9, 4, 5, 3, 7, and 6 is 22,680. Option A (0) is incorrect.
+
+Question: A temperature pattern follows: -35°C, -27°C, -17°C, -5°C, 9°C. If this pattern represents readings every 4 hours starting at midnight, what time will the temperature first reach positive values?
+Status: Error
+Explanation: The temperatures are at 12am, 4am, 8am, 12pm, and 4pm. Positive value (9°C) is first reached at 4pm (Option A). Provided answer D is incorrect.
+
+Question: In a 7-digit number, the sum of digits in positions 1, 3, 5, 7 (from left) equals 28, and the sum of digits in positions 2, 4, 6 equals 14. If all digits are different, what is the maximum possible value of this number?
+Status: Error
+Explanation: In Option C (9,867,542), the sum of odd positions (9+6+5+2) is 22, not 28.
+
+Question: Round 5,729,846 to the nearest hundred thousand. Then take that result and round it to the nearest hundred. What is the final result?
+Status: Success
+
+Question: A submarine starts at -340m, makes 8 dives of 45m each, then makes 6 ascents of 62m each. What is its final depth?
+Status: Error
+Explanation: -340 - (8*45) + (6*62) = -328m. Option A (-368m) is incorrect.
+
+Question: In the number 8,264,953, what is the sum of all digit values (place values) that are prime numbers?
+Status: Error
+Explanation: The prime digits are 2, 3, 5. Their values are 200,000, 3, and 50. Sum = 200,053.
+
+Question: A number is such that when rounded to the nearest million, ten thousand, and thousand, the results are 6,000,000, 6,030,000, and 6,028,000 respectively. What could the number be?
+Status: Success
+
+Question: What is the smallest 7-digit palindrome (reads same forwards and backwards) that rounds to 3,000,000 when rounded to the nearest million?
+Status: Success
+
+Question: An investment account experiences these changes: +£4,750, -£8,200, +£2,950, -£6,100, +£9,300, -£3,400. Starting at £8,600, what is the final balance?
+Status: Success
+
+Question: In the number 9,173,625, if you multiply the values of all prime digits (2, 3, 5, 7) by their positions from the left, what is the sum?
+Status: Error
+Explanation: Prime digits are 7 (pos 3), 3 (pos 4), 2 (pos 6), 5 (pos 7). Sum of (value * pos) would be hundreds of thousands.
+
+Question: A temperature sensor records readings every 2 hours: -42°C, -35°C, -26°C, -15°C, -2°C, 13°C. If the pattern continues, how many hours from the start will the temperature reach 30°C?
+Status: Error
+Explanation: To reach 30°C (17 degrees after 13°C), it would follow the increment pattern (+17), reaching it 2 hours after 13°C. Total time = 12 hours.
+
+Question: What is the largest 7-digit number where no digit repeats and the number rounds to 7,500,000 when rounded to the nearest hundred thousand?
+Status: Success
+
+Question: Round 8,436,719 to the nearest ten thousand. What is the product of the thousands digit and the hundreds digit in the rounded number?
+Status: Success
+
+Question: A lift starts at floor -22, goes up 17 floors, down 31 floors, up 25 floors, down 8 floors, then up 19 floors. What floor is it on?
+Status: Success
+
+Question: In the number 5,847,293, what is the ratio of the sum of all even digit values to the sum of all odd digit values?
+Status: Error
+Explanation: The sum of even digit values (800k, 40k, 200) is 840,200. The sum of odd digit values is over 5,000,000. The ratio is approximately 1:6 (Option A). Given answer C is incorrect.
+
+Question: A number rounds to 9,600,000 when rounded to the nearest hundred thousand. When divided by 100 and rounded to the nearest thousand, the result is 96,000. What could the original number be?
+Status: Success
+
+Question: What is the sum of all 7-digit palindromes (reading same forwards and backwards) that are between 5,000,000 and 5,100,000?
+Status: Error
+Explanation: There are 100 such palindromes. The sum is in the hundreds of millions.
+
+Question: In the number 5,847,392, what is the value of the digit 8?
+Status: Success
+
+Question: Which number is exactly 100,000 more than 6,749,285?
+Status: Success
+
+Question: What number is represented by: (7 × 1,000,000) + (4 × 10,000) + (9 × 100) + (3 × 10)?
+Status: Success
+
+Question: Round 8,476,529 to the nearest hundred thousand.
+Status: Success
+
+Question: Which of these numbers, when rounded to the nearest million, gives 4,000,000?
+Status: Success
+
+Question: The temperature at midnight was -7°C. By noon it had risen by 15°C. What was the temperature at noon?
+Status: Success
+
+Question: What is the interval between -23 and 18?
+Status: Success
+
+Question: Which number is larger: 7,849,362 or 7,894,263?
+Status: Success
+
+Question: A number rounded to the nearest 10,000 is 8,560,000. Which could be the original number?
+Status: Success
+
+Question: In a city, the elevation at the airport is 127 metres above sea level. A submarine in the nearby ocean is at -89 metres. What is the difference in elevation between them?
+Status: Success
+
+Question: Which of these numbers has a 6 in the ten thousands place?
+Status: Error
+Explanation: In Option A (4,629,183), the digit 6 is in the hundred thousands place.
+
+Question: Order these numbers from smallest to largest: 9,285,471  9,258,741  9,285,417
+Status: Success
+
+Question: A thermometer shows -12°C. The temperature drops by another 8°C. What does the thermometer show now?
+Status: Success
+
+Question: What is 4,738,926 rounded to the nearest ten thousand?
+Status: Success
+
+Question: In the number 6,045,738, which digit has the smallest value?
+Status: Success
+
+Question: A diver descends from the surface (0 metres) to -34 metres, then rises 19 metres. What is their final depth?
+Status: Success
+
+Question: Which number is 10,000 less than 3,004,567?
+Status: Success
+
+Question: A number has 8 millions, 0 hundred thousands, 4 ten thousands, 7 thousands, 0 hundreds, 9 tens and 2 ones. What is the number?
+Status: Success
+
+Question: At 6am, the temperature was -9°C. By 2pm it was 7°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 5,638,499 to the nearest hundred.
+Status: Success
+
+Question: What is the value of the digit 3 in the number 9,342,876?
+Status: Success
+
+Question: Which number is 1,000,000 more than 5,672,843?
+Status: Success
+
+Question: What number is represented by: (6 × 1,000,000) + (8 × 100,000) + (5 × 1,000) + (7 × 10)?
+Status: Success
+
+Question: Round 7,234,567 to the nearest ten thousand.
+Status: Success
+
+Question: The temperature was 5°C. It then fell by 13°C. What is the new temperature?
+Status: Success
+
+Question: What is the interval between -15 and 27?
+Status: Success
+
+Question: Which number is smaller: 4,567,892 or 4,576,289?
+Status: Success
+
+Question: A number rounded to the nearest 100,000 is 2,700,000. Which could be the original number?
+Status: Error
+Explanation: Rounding 2,649,999 (Option C) to the nearest hundred thousand results in 2,600,000 because the digit in the ten thousands place is 4.
+
+Question: In a mine, a lift starts at ground level (0 metres) and descends to -156 metres. It then descends another 78 metres. What is its final position?
+Status: Success
+
+Question: Which of these numbers has a 4 in the millions place?
+Status: Success
+
+Question: Order these numbers from largest to smallest: 3,872,456  3,827,564  3,872,546
+Status: Success
+
+Question: A thermometer reads -18°C. The temperature rises by 25°C. What does the thermometer show now?
+Status: Success
+
+Question: What is 9,528,341 rounded to the nearest million?
+Status: Success
+
+Question: In the number 7,206,543, which two digits have the same value?
+Status: Success
+
+Question: A submarine at -67 metres rises 42 metres. What is its new position?
+Status: Success
+
+Question: Which number is 50,000 less than 4,023,891?
+Status: Success
+
+Question: A number has 2 millions, 9 hundred thousands, 0 ten thousands, 5 thousands, 8 hundreds, 0 tens and 4 ones. What is the number?
+Status: Success
+
+Question: At midnight, the temperature was -5°C. By midday it was 11°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 6,849,725 to the nearest thousand.
+Status: Success
+
+Question: What is the value of the digit 5 in the number 4,518,692?
+Status: Success
+
+Question: What is the interval between -42 and -17?
+Status: Success
+
+Question: Which number is exactly 200,000 more than 8,156,742?
+Status: Success
+
+Question: What number is represented by: (9 × 1,000,000) + (3 × 100,000) + (7 × 1,000) + (2 × 100)?
+Status: Success
+
+Question: Round 3,562,849 to the nearest hundred thousand.
+Status: Success
+
+Question: The temperature was 3°C. It fell by 11°C. What is the new temperature?
+Status: Success
+
+Question: Which number is larger: 5,729,318 or 5,792,183?
+Status: Success
+
+Question: A number rounded to the nearest 1,000 is 7,458,000. Which could be the original number?
+Status: Success
+
+Question: A balloon rises from ground level (0 metres) to 245 metres, then rises another 137 metres. What is its final height?
+Status: Success
+
+Question: Which of these numbers has a 7 in the thousands place?
+Status: Error
+Explanation: In Option D (6,719,482), the digit 7 is in the hundred thousands place. Option C is the correct answer.
+
+Question: Order these numbers from smallest to largest: 6,453,217  6,435,271  6,453,127
+Status: Success
+
+Question: A thermometer reads -21°C. The temperature rises by 14°C. What does it show now?
+Status: Success
+
+Question: What is 8,374,562 rounded to the nearest ten thousand?
+Status: Success
+
+Question: In the number 5,802,469, what is the combined value of the digits 8 and 4?
+Status: Error
+Explanation: The digit 8 represents 800,000 and the digit 4 represents 400. Their combined value is 800,400 (Option B). Given answer D is incorrect.
+
+Question: A diver at -45 metres descends another 28 metres. What is their new position?
+Status: Success
+
+Question: Which number is 300,000 less than 7,234,819?
+Status: Success
+
+Question: A number has 1 million, 6 hundred thousands, 0 ten thousands, 0 thousands, 9 hundreds, 4 tens and 8 ones. What is the number?
+Status: Success
+
+Question: The temperature at sunrise was -13°C. By sunset it was -2°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 4,927,384 to the nearest hundred.
+Status: Success
+
+Question: What is the value of the digit 9 in the number 2,963,185?
+Status: Success
+
+Question: What is the interval between 35 and -19?
+Status: Success
+
+Question: Which number is exactly 500,000 more than 3,782,164?
+Status: Success
+
+Question: What number is represented by: (5 × 1,000,000) + (2 × 10,000) + (8 × 1,000) + (6 × 10)?
+Status: Success
+
+Question: Round 9,145,628 to the nearest million.
+Status: Success
+
+Question: The temperature was -6°C. It fell by another 9°C. What is the new temperature?
+Status: Success
+
+Question: Which number is smaller: 8,364,729 or 8,346,927?
+Status: Success
+
+Question: A number rounded to the nearest 10,000 is 5,230,000. Which could be the original number?
+Status: Success
+
+Question: A cave explorer descends from ground level (0 metres) to -82 metres, then descends another 47 metres. What is their final position?
+Status: Success
+
+Question: Which of these numbers has a 3 in the ten thousands place?
+Status: Success
+
+Question: Order these numbers from largest to smallest: 7,621,834  7,612,843  7,621,384
+Status: Success
+
+Question: A thermometer reads -16°C. The temperature rises by 22°C. What does it show now?
+Status: Success
+
+Question: What is 6,583,741 rounded to the nearest hundred thousand?
+Status: Success
+
+Question: In the number 8,407,536, which digit represents 400,000?
+Status: Success
+
+Question: A submarine at -58 metres rises 35 metres. What is its new position?
+Status: Success
+
+Question: Which number is 20,000 less than 9,016,472?
+Status: Success
+
+Question: A number has 7 millions, 3 hundred thousands, 0 ten thousands, 2 thousands, 6 hundreds, 5 tens and 0 ones. What is the number?
+Status: Success
+
+Question: At 7am the temperature was -11°C. By 3pm it was 4°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 2,847,519 to the nearest ten thousand.
+Status: Success
+
+Question: What is the value of the digit 6 in the number 1,629,437?
+Status: Success
+
+Question: What is the interval between -31 and 24?
+Status: Success
+
+Question: Which number is exactly 400,000 more than 6,147,823?
+Status: Success
+
+Question: What number is represented by: (4 × 1,000,000) + (9 × 100,000) + (3 × 10,000) + (1 × 100)?
+Status: Success
+
+Question: Round 7,652,143 to the nearest million.
+Status: Success
+
+Question: The temperature was 1°C. It fell by 17°C. What is the new temperature?
+Status: Success
+
+Question: Which number is larger: 3,918,247 or 3,891,724?
+Status: Success
+
+Question: A number rounded to the nearest 100,000 is 4,300,000. Which could be the original number?
+Status: Success
+
+Question: An elevator starts at ground floor (0) and goes down to floor -5, then down another 3 floors. Which floor is it on now?
+Status: Success
+
+Question: Which of these numbers has an 8 in the hundreds place?
+Status: Success
+
+Question: Order these numbers from smallest to largest: 8,736,125  8,736,215  8,763,152
+Status: Success
+
+Question: A thermometer reads -24°C. The temperature rises by 31°C. What does it show now?
+Status: Success
+
+Question: What is 5,418,963 rounded to the nearest thousand?
+Status: Success
+
+Question: In the number 9,573,206, what is the difference in value between the digits 5 and 2?
+Status: Success
+
+Question: A diver at -72 metres rises 38 metres. What is their new depth?
+Status: Success
+
+Question: Which number is 80,000 less than 6,052,341?
+Status: Success
+
+Question: A number has 3 millions, 8 hundred thousands, 5 ten thousands, 0 thousands, 7 hundreds, 2 tens and 9 ones. What is the number?
+Status: Success
+
+Question: The temperature at 5am was -14°C. By 1pm it was -3°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 8,295,847 to the nearest hundred.
+Status: Error
+Explanation: Rounding 8,295,847 to the nearest hundred results in 8,295,800 (Option A) because the digit in the tens place is 4.
+
+Question: What is the value of the digit 7 in the number 6,471,923?
+Status: Success
+
+Question: What is the interval between 16 and -28?
+Status: Success
+
+Question: Which number is exactly 600,000 more than 2,819,534?
+Status: Success
+
+Question: What number is represented by: (8 × 1,000,000) + (6 × 10,000) + (4 × 1,000) + (9 × 100) + (3 × 10)?
+Status: Success
+
+Question: Round 4,738,291 to the nearest hundred thousand.
+Status: Error
+Explanation: Rounding 4,738,291 to the nearest hundred thousand gives 4,700,000 (Option A). Provided answer B (4,800,000) is incorrect.
+
+Question: The temperature was -8°C. It fell by another 12°C. What is the new temperature?
+Status: Success
+
+Question: Which number is smaller: 7,524,863 or 7,542,368?
+Status: Success
+
+Question: A number rounded to the nearest 1,000 is 9,327,000. Which could NOT be the original number?
+Status: Error
+Explanation: All provided options round to 9,327,000. For example, in Option B (9,326,482), rounding to the nearest thousand would give 9,326,000, so it could have been a valid "NOT" answer if the thousand digit were different.
+
+Question: A hot air balloon at 420 metres descends 180 metres, then ascends 95 metres. What is its final height?
+Status: Success
+
+Question: Which of these numbers has a 2 in the hundred thousands place?
+Status: Success
+
+Question: Order these numbers from largest to smallest: 5,194,726  5,194,672  5,149,762
+Status: Success
+
+Question: A thermometer reads -19°C. The temperature rises by 27°C. What does it show now?
+Status: Success
+
+Question: What is 7,165,834 rounded to the nearest ten thousand?
+Status: Success
+
+Question: In the number 5,847,392, what is the value of the digit 8?
+Status: Success
+
+Question: Which number is exactly 100,000 more than 6,749,285?
+Status: Success
+
+Question: What number is represented by: (7 × 1,000,000) + (4 × 10,000) + (9 × 100) + (3 × 10)?
+Status: Success
+
+Question: Round 8,476,529 to the nearest hundred thousand.
+Status: Success
+
+Question: Which of these numbers, when rounded to the nearest million, gives 4,000,000?
+Status: Success
+
+Question: The temperature at midnight was -7°C. By noon it had risen by 15°C. What was the temperature at noon?
+Status: Success
+
+Question: What is the interval between -23 and 18?
+Status: Success
+
+Question: Which number is larger: 7,849,362 or 7,894,263?
+Status: Success
+
+Question: A number rounded to the nearest 10,000 is 8,560,000. Which could be the original number?
+Status: Success
+
+Question: In a city, the elevation at the airport is 127 metres above sea level. A submarine in the nearby ocean is at -89 metres. What is the difference in elevation between them?
+Status: Success
+
+Question: Which of these numbers has a 6 in the ten thousands place?
+Status: Error
+Explanation: In Option A (4,629,183), the digit 6 is in the hundred thousands place.
+
+Question: Order these numbers from smallest to largest: 9,285,471  9,258,741  9,285,417
+Status: Success
+
+Question: A thermometer shows -12°C. The temperature drops by another 8°C. What does the thermometer show now?
+Status: Success
+
+Question: What is 4,738,926 rounded to the nearest ten thousand?
+Status: Success
+
+Question: In the number 6,045,738, which digit has the smallest value?
+Status: Success
+
+Question: A diver descends from the surface (0 metres) to -34 metres, then rises 19 metres. What is their final depth?
+Status: Success
+
+Question: Which number is 10,000 less than 3,004,567?
+Status: Success
+
+Question: A number has 8 millions, 0 hundred thousands, 4 ten thousands, 7 thousands, 0 hundreds, 9 tens and 2 ones. What is the number?
+Status: Success
+
+Question: At 6am, the temperature was -9°C. By 2pm it was 7°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 5,638,499 to the nearest hundred.
+Status: Success
+
+Question: What is the value of the digit 3 in the number 9,342,876?
+Status: Success
+
+Question: Which number is 1,000,000 more than 5,672,843?
+Status: Success
+
+Question: What number is represented by: (6 × 1,000,000) + (8 × 100,000) + (5 × 1,000) + (7 × 10)?
+Status: Success
+
+Question: Round 7,234,567 to the nearest ten thousand.
+Status: Success
+
+Question: The temperature was 5°C. It then fell by 13°C. What is the new temperature?
+Status: Success
+
+Question: What is the interval between -15 and 27?
+Status: Success
+
+Question: Which number is smaller: 4,567,892 or 4,576,289?
+Status: Success
+
+Question: A number rounded to the nearest 100,000 is 2,700,000. Which could be the original number?
+Status: Success
+
+Question: In a mine, a lift starts at ground level (0 metres) and descends to -156 metres. It then descends another 78 metres. What is its final position?
+Status: Success
+
+Question: Which of these numbers has a 4 in the millions place?
+Status: Success
+
+Question: Order these numbers from largest to smallest: 3,872,456  3,827,564  3,872,546
+Status: Success
+
+Question: A thermometer reads -18°C. The temperature rises by 25°C. What does the thermometer show now?
+Status: Success
+
+Question: What is 9,528,341 rounded to the nearest million?
+Status: Success
+
+Question: In the number 7,206,543, how many digits have a value greater than 500?
+Status: Success
+
+Question: A submarine at -67 metres rises 42 metres. What is its new position?
+Status: Success
+
+Question: Which number is 50,000 less than 4,023,891?
+Status: Success
+
+Question: A number has 2 millions, 9 hundred thousands, 0 ten thousands, 5 thousands, 8 hundreds, 0 tens and 4 ones. What is the number?
+Status: Success
+
+Question: At midnight, the temperature was -5°C. By midday it was 11°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 6,849,725 to the nearest thousand.
+Status: Success
+
+Question: What is the value of the digit 5 in the number 4,518,692?
+Status: Success
+
+Question: What is the interval between -42 and -17?
+Status: Success
+
+Question: Which number is exactly 200,000 more than 8,156,742?
+Status: Success
+
+Question: What number is represented by: (9 × 1,000,000) + (3 × 100,000) + (7 × 1,000) + (2 × 100)?
+Status: Success
+
+Question: Round 3,562,849 to the nearest hundred thousand.
+Status: Success
+
+Question: The temperature was 3°C. It fell by 11°C. What is the new temperature?
+Status: Success
+
+Question: Which number is larger: 5,729,318 or 5,792,183?
+Status: Success
+
+Question: A number rounded to the nearest 1,000 is 7,458,000. Which could be the original number?
+Status: Success
+
+Question: A balloon rises from ground level (0 metres) to 245 metres, then rises another 137 metres. What is its final height?
+Status: Success
+
+Question: Which of these numbers has a 7 in the thousands place?
+Status: Success
+
+Question: Order these numbers from smallest to largest: 6,453,217  6,435,271  6,453,127
+Status: Success
+
+Question: A thermometer reads -21°C. The temperature rises by 14°C. What does it show now?
+Status: Success
+
+Question: What is 8,374,562 rounded to the nearest ten thousand?
+Status: Success
+
+Question: In the number 5,802,469, what is the combined value of the digits 8 and 4?
+Status: Success
+
+Question: A diver at -45 metres descends another 28 metres. What is their new position?
+Status: Success
+
+Question: Which number is 300,000 less than 7,234,819?
+Status: Success
+
+Question: A number has 1 million, 6 hundred thousands, 0 ten thousands, 0 thousands, 9 hundreds, 4 tens and 8 ones. What is the number?
+Status: Success
+
+Question: The temperature at sunrise was -13°C. By sunset it was -2°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 4,927,384 to the nearest hundred.
+Status: Success
+
+Question: What is the value of the digit 9 in the number 2,963,185?
+Status: Success
+
+Question: What is the interval between 35 and -19?
+Status: Success
+
+Question: Which number is exactly 500,000 more than 3,782,164?
+Status: Success
+
+Question: What number is represented by: (5 × 1,000,000) + (2 × 10,000) + (8 × 1,000) + (6 × 10)?
+Status: Success
+
+Question: Round 9,145,628 to the nearest million.
+Status: Success
+
+Question: The temperature was -6°C. It fell by another 9°C. What is the new temperature?
+Status: Success
+
+Question: Which number is smaller: 8,364,729 or 8,346,927?
+Status: Success
+
+Question: A number rounded to the nearest 10,000 is 5,230,000. Which could be the original number?
+Status: Success
+
+Question: A cave explorer descends from ground level (0 metres) to -82 metres, then descends another 47 metres. What is their final position?
+Status: Success
+
+Question: Which of these numbers has a 3 in the ten thousands place?
+Status: Success
+
+Question: Order these numbers from largest to smallest: 7,621,834  7,612,843  7,621,384
+Status: Success
+
+Question: A thermometer reads -16°C. The temperature rises by 22°C. What does it show now?
+Status: Success
+
+Question: What is 6,583,741 rounded to the nearest hundred thousand?
+Status: Success
+
+Question: In the number 8,407,536, which digit represents 400,000?
+Status: Success
+
+Question: A submarine at -58 metres rises 35 metres. What is its new position?
+Status: Success
+
+Question: Which number is 20,000 less than 9,016,472?
+Status: Success
+
+Question: A number has 7 millions, 3 hundred thousands, 0 ten thousands, 2 thousands, 6 hundreds, 5 tens and 0 ones. What is the number?
+Status: Success
+
+Question: At 7am the temperature was -11°C. By 3pm it was 4°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 2,847,519 to the nearest ten thousand.
+Status: Success
+
+Question: What is the value of the digit 6 in the number 1,629,437?
+Status: Success
+
+Question: What is the interval between -31 and 24?
+Status: Success
+
+Question: Which number is exactly 400,000 more than 6,147,823?
+Status: Success
+
+Question: What number is represented by: (4 × 1,000,000) + (9 × 100,000) + (3 × 10,000) + (1 × 100)?
+Status: Success
+
+Question: Round 7,652,143 to the nearest million.
+Status: Success
+
+Question: The temperature was 1°C. It fell by 17°C. What is the new temperature?
+Status: Success
+
+Question: Which number is larger: 3,918,247 or 3,891,724?
+Status: Success
+
+Question: A number rounded to the nearest 100,000 is 4,300,000. Which could be the original number?
+Status: Success
+
+Question: An elevator starts at ground floor (0) and goes down to floor -5, then down another 3 floors. Which floor is it on now?
+Status: Success
+
+Question: Which of these numbers has an 8 in the hundreds place?
+Status: Success
+
+Question: Order these numbers from smallest to largest: 8,736,125  8,736,215  8,763,152
+Status: Success
+
+Question: A thermometer reads -24°C. The temperature rises by 31°C. What does it show now?
+Status: Success
+
+Question: What is 5,418,963 rounded to the nearest thousand?
+Status: Success
+
+Question: In the number 9,573,206, what is the difference in value between the digits 5 and 2?
+Status: Success
+
+Question: A diver at -72 metres rises 38 metres. What is their new depth?
+Status: Success
+
+Question: Which number is 80,000 less than 6,052,341?
+Status: Success
+
+Question: A number has 3 millions, 8 hundred thousands, 5 ten thousands, 0 thousands, 7 hundreds, 2 tens and 9 ones. What is the number?
+Status: Success
+
+Question: The temperature at 5am was -14°C. By 1pm it was -3°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 8,295,847 to the nearest hundred.
+Status: Success
+
+Question: What is the value of the digit 7 in the number 6,471,923?
+Status: Success
+
+Question: What is the interval between 16 and -28?
+Status: Success
+
+Question: Which number is exactly 600,000 more than 2,819,534?
+Status: Success
+
+Question: What number is represented by: (8 × 1,000,000) + (6 × 10,000) + (4 × 1,000) + (9 × 100) + (3 × 10)?
+Status: Success
+
+Question: Round 4,738,291 to the nearest hundred thousand.
+Status: Success
+
+Question: The temperature was -8°C. It fell by another 12°C. What is the new temperature?
+Status: Success
+
+Question: Which number is smaller: 7,524,863 or 7,542,368?
+Status: Success
+
+Question: A number rounded to the nearest 1,000 is 9,327,000. Which could NOT be the original number?
+Status: Success
+
+Question: A hot air balloon at 420 metres descends 180 metres, then ascends 95 metres. What is its final height?
+Status: Success
+
+Question: Which of these numbers has a 2 in the hundred thousands place?
+Status: Success
+
+Question: Order these numbers from largest to smallest: 5,194,726  5,194,672  5,149,762
+Status: Success
+
+Question: A thermometer reads -19°C. The temperature rises by 27°C. What does it show now?
+Status: Success
+
+Question: What is 7,165,834 rounded to the nearest ten thousand?
+Status: Success
+
+Question: In the number 3,609,248, how many tens does the digit 4 represent?
+Status: Success
+
+Question: What is the interval between -52 and -18?
+Status: Success
+
+Question: Which number is exactly 750,000 more than 4,523,816?
+Status: Success
+
+Question: What number is represented by: (2 × 1,000,000) + (7 × 100,000) + (8 × 10) + (5 × 1)?
+Status: Success
+
+Question: Round 6,284,506 to the nearest million.
+Status: Success
+
+Question: The temperature was -3°C. It rose by 19°C. What is the new temperature?
+Status: Success
+
+Question: Which number is larger: 9,076,234 or 9,067,324?
+Status: Success
+
+Question: A number rounded to the nearest 50,000 is 3,850,000. Which could be the original number?
+Status: Success
+
+Question: A deep-sea submersible at -340 metres descends another 215 metres, then rises 180 metres. What is its final depth?
+Status: Success
+
+Question: Which of these numbers has a 9 in the tens place?
+Status: Success
+
+Question: Order these numbers from smallest to largest: 4,826,397  4,862,739  4,826,793
+Status: Success
+
+Question: A thermometer reads -27°C. The temperature rises by 35°C. What does it show now?
+Status: Success
+
+Question: What is 9,842,617 rounded to the nearest ten thousand?
+Status: Success
+
+Question: In the number 7,395,128, which digit is in the same place value position as the 4 in 6,542,731?
+Status: Success
+
+Question: What is the interval between 42 and -33?
+Status: Success
+
+Question: In the number 6,923,485, what is the value of the digit 2?
+Status: Success
+
+Question: Which number is exactly 150,000 more than 7,384,219?
+Status: Success
+
+Question: What number is represented by: (3 × 1,000,000) + (6 × 100,000) + (2 × 1,000) + (8 × 100)?
+Status: Success
+
+Question: Round 5,873,264 to the nearest hundred thousand.
+Status: Success
+
+Question: Which of these numbers, when rounded to the nearest million, gives 7,000,000?
+Status: Success
+
+Question: The temperature at dawn was -11°C. By afternoon it had risen by 18°C. What was the temperature in the afternoon?
+Status: Success
+
+Question: What is the interval between -37 and 26?
+Status: Success
+
+Question: Which number is larger: 8,527,649 or 8,572,946?
+Status: Success
+
+Question: A number rounded to the nearest 10,000 is 6,420,000. Which could be the original number?
+Status: Success
+
+Question: A mountain climber is at 215 metres above sea level. A scuba diver is at -47 metres. What is the difference in elevation between them?
+Status: Success
+
+Question: Which of these numbers has a 5 in the ten thousands place?
+Status: Success
+
+Question: Order these numbers from smallest to largest: 7,419,582  7,491,528  7,419,852
+Status: Success
+
+Question: A thermometer shows -15°C. The temperature drops by another 9°C. What does the thermometer show now?
+Status: Success
+
+Question: What is 9,265,738 rounded to the nearest ten thousand?
+Status: Success
+
+Question: In the number 4,802,567, which digit has the largest value?
+Status: Success
+
+Question: A submarine descends from the surface (0 metres) to -52 metres, then rises 27 metres. What is its final depth?
+Status: Success
+
+Question: Which number is 15,000 less than 8,007,342?
+Status: Success
+
+Question: A number has 5 millions, 4 hundred thousands, 0 ten thousands, 8 thousands, 3 hundreds, 0 tens and 6 ones. What is the number?
+Status: Success
+
+Question: At 8am, the temperature was -6°C. By 4pm it was 9°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 3,746,891 to the nearest hundred.
+Status: Success
+
+Question: What is the value of the digit 7 in the number 8,174,629?
+Status: Success
+
+Question: Which number is 2,000,000 more than 4,568,931?
+Status: Success
+
+Question: What number is represented by: (9 × 1,000,000) + (5 × 10,000) + (3 × 1,000) + (7 × 10)?
+Status: Success
+
+Question: Round 6,127,843 to the nearest ten thousand.
+Status: Success
+
+Question: The temperature was 4°C. It then fell by 16°C. What is the new temperature?
+Status: Success
+
+Question: What is the interval between -19 and 34?
+Status: Success
+
+Question: Which number is smaller: 2,846,735 or 2,864,537?
+Status: Success
+
+Question: A number rounded to the nearest 100,000 is 3,400,000. Which could be the original number?
+Status: Success
+
+Question: In a cave system, an explorer descends from ground level (0 metres) to -94 metres. They then descend another 68 metres. What is their final position?
+Status: Success
+
+Question: Which of these numbers has a 9 in the millions place?
+Status: Success
+
+Question: Order these numbers from largest to smallest: 5,728,316  5,782,631  5,728,613
+Status: Success
+
+Question: A thermometer reads -22°C. The temperature rises by 29°C. What does the thermometer show now?
+Status: Success
+
+Question: What is 7,894,526 rounded to the nearest million?
+Status: Success
+
+Question: In the number 9,461,782, how many hundreds are in the value of the digit 7?
+Status: Success
+
+Question: A diver at -81 metres rises 53 metres. What is their new position?
+Status: Success
+
+Question: Which number is 70,000 less than 5,048,762?
+Status: Success
+
+Question: A number has 6 millions, 7 hundred thousands, 0 ten thousands, 4 thousands, 9 hundreds, 2 tens and 5 ones. What is the number?
+Status: Success
+
+Question: At 5am the temperature was -17°C. By 2pm it was -4°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 8,536,279 to the nearest thousand.
+Status: Success
+
+Question: What is the value of the digit 4 in the number 3,241,857?
+Status: Success
+
+Question: What is the interval between -48 and -21?
+Status: Success
+
+Question: Which number is exactly 250,000 more than 7,639,184?
+Status: Success
+
+Question: What number is represented by: (7 × 1,000,000) + (8 × 100,000) + (4 × 10,000) + (2 × 100)?
+Status: Success
+
+Question: Round 4,365,917 to the nearest hundred thousand.
+Status: Success
+
+Question: The temperature was 2°C. It fell by 14°C. What is the new temperature?
+Status: Success
+
+Question: Which number is larger: 6,347,829 or 6,374,928?
+Status: Success
+
+Question: A number rounded to the nearest 1,000 is 8,674,000. Which could be the original number?
+Status: Success
+
+Question: A hot air balloon rises from ground level (0 metres) to 318 metres, then rises another 164 metres. What is its final height?
+Status: Success
+
+Question: Which of these numbers has a 6 in the thousands place?
+Status: Success
+
+Question: Order these numbers from smallest to largest: 9,635,247  9,653,427  9,635,724
+Status: Success
+
+Question: A thermometer reads -26°C. The temperature rises by 19°C. What does it show now?
+Status: Success
+
+Question: What is 5,926,381 rounded to the nearest ten thousand?
+Status: Success
+
+Question: In the number 2,758,413, what is the combined value of the digits 7 and 4?
+Status: Success
+
+Question: A cave diver at -63 metres descends another 39 metres. What is their new position?
+Status: Success
+
+Question: Which number is 400,000 less than 8,526,394?
+Status: Success
+
+Question: A number has 9 millions, 2 hundred thousands, 5 ten thousands, 0 thousands, 3 hundreds, 7 tens and 1 one. What is the number?
+Status: Success
+
+Question: The temperature at 9am was -8°C. By 6pm it was 5°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 7,482,653 to the nearest hundred.
+Status: Success
+
+Question: What is the value of the digit 8 in the number 5,683,247?
+Status: Success
+
+Question: What is the interval between 29 and -41?
+Status: Success
+
+Question: Which number is exactly 800,000 more than 3,647,291?
+Status: Success
+
+Question: What number is represented by: (1 × 1,000,000) + (9 × 100,000) + (6 × 10,000) + (3 × 1,000) + (5 × 10)?
+Status: Success
+
+Question: Round 9,751,428 to the nearest million.
+Status: Success
+
+Question: The temperature was -4°C. It fell by another 13°C. What is the new temperature?
+Status: Success
+
+Question: Which number is smaller: 4,729,158 or 4,792,185?
+Status: Success
+
+Question: A number rounded to the nearest 10,000 is 7,850,000. Which could be the original number?
+Status: Success
+
+Question: A research submarine descends from ground level (0 metres) to -126 metres, then descends another 84 metres. What is its final position?
+Status: Success
+
+Question: Which of these numbers has a 4 in the ten thousands place?
+Status: Success
+
+Question: Order these numbers from largest to smallest: 6,291,475  6,219,547  6,291,574
+Status: Success
+
+Question: A thermometer reads -30°C. The temperature rises by 37°C. What does it show now?
+Status: Success
+
+Question: What is 3,814,792 rounded to the nearest thousand?
+Status: Success
+
+Question: In the number 7,329,568, what is the difference in value between the digits 3 and 5?
+Status: Success
+
+Question: A deep-sea explorer at -95 metres rises 48 metres. What is their new depth?
+Status: Success
+
+Question: Which number is 90,000 less than 7,064,238?
+Status: Success
+
+Question: A number has 4 millions, 9 hundred thousands, 3 ten thousands, 0 thousands, 8 hundreds, 5 tens and 2 ones. What is the number?
+Status: Success
+
+Question: The temperature at 4am was -19°C. By noon it was -7°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 6,593,847 to the nearest ten thousand.
+Status: Success
+
+Question: What is the value of the digit 6 in the number 9,465,123?
+Status: Success
+
+Question: What is the interval between -56 and -29?
+Status: Success
+
+Question: Which number is exactly 350,000 more than 5,892,467?
+Status: Success
+
+Question: What number is represented by: (6 × 1,000,000) + (4 × 100,000) + (7 × 1,000) + (9 × 100) + (2 × 10)?
+Status: Success
+
+Question: Round 8,427,365 to the nearest hundred thousand.
+Status: Success
+
+Question: The temperature was -1°C. It rose by 23°C. What is the new temperature?
+Status: Success
+
+Question: Which number is larger: 7,654,328 or 7,645,382?
+Status: Success
+
+Question: A number rounded to the nearest 100,000 is 5,600,000. Which could be the original number?
+Status: Success
+
+Question: An elevator starts at ground floor (0) and goes down to floor -6, then down another 4 floors. Which floor is it on now?
+Status: Success
+
+Question: Which of these numbers has a 7 in the hundreds place?
+Status: Success
+
+Question: Order these numbers from smallest to largest: 3,527,849  3,572,948  3,527,894
+Status: Success
+
+Question: A thermometer reads -35°C. The temperature rises by 42°C. What does it show now?
+Status: Success
+
+Question: What is 4,672,539 rounded to the nearest ten thousand?
+Status: Success
+
+Question: In the number 8,915,362, which digit is in the same place value position as the 7 in 5,374,821?
+Status: Success
+
+Question: What is the interval between 38 and -47?
+Status: Success
+
+Question: Which number is exactly 550,000 more than 4,763,285?
+Status: Success
+
+Question: What number is represented by: (2 × 1,000,000) + (8 × 100,000) + (5 × 10,000) + (6 × 100) + (4 × 10)?
+Status: Success
+
+Question: Round 5,186,924 to the nearest million.
+Status: Success
+
+Question: The temperature was -10°C. It fell by another 15°C. What is the new temperature?
+Status: Success
+
+Question: Which number is smaller: 9,183,657 or 9,138,756?
+Status: Success
+
+Question: A number rounded to the nearest 1,000 is 6,239,000. Which could NOT be the original number?
+Status: Success
+
+Question: A drone descends from 285 metres to 137 metres, then ascends 96 metres. What is its final height?
+Status: Error
+Explanation: 285 - 137 + 96 = 244 metres (Option A). Provided answer B (233) is incorrect.
+
+Question: Which of these numbers has a 5 in the hundred thousands place?
+Status: Success
+
+Question: Order these numbers from largest to smallest: 4,816,523  4,861,532  4,816,352
+Status: Success
+
+Question: A thermometer reads -28°C. The temperature rises by 34°C. What does it show now?
+Status: Success
+
+Question: What is 9,348,615 rounded to the nearest thousand?
+Status: Success
+
+Question: In the number 6,527,894, how many ten thousands does the digit 2 represent?
+Status: Success
+
+Question: What is the interval between -64 and -35?
+Status: Success
+
+Question: Which number is exactly 900,000 more than 2,574,836?
+Status: Success
+
+Question: What number is represented by: (5 × 1,000,000) + (3 × 100,000) + (9 × 10,000) + (2 × 1,000) + (7 × 10) + (8 × 1)?
+Status: Success
+
+Question: Round 7,938,256 to the nearest hundred thousand.
+Status: Error
+Explanation: Rounding 7,938,256 to the nearest hundred thousand gives 7,900,000 (Option A) because the digit in the ten thousands place is 3. Provided answer B (8,000,000) is incorrect.
+
+Question: The temperature was 6°C. It fell by 20°C. What is the new temperature?
+Status: Success
+
+Question: Which number is larger: 8,436,719 or 8,463,971?
+Status: Success
+
+Question: A number rounded to the nearest 50,000 is 6,950,000. Which could be the original number?
+Status: Success
+
+Question: A submersible at -275 metres descends another 158 metres, then rises 192 metres. What is its final depth?
+Status: Success
+
+Question: In the number 4,186,352, what is the value of the digit 1?
+Status: Success
+
+Question: Which number is exactly 180,000 more than 6,457,829?
+Status: Success
+
+Question: What number is represented by: (8 × 1,000,000) + (7 × 10,000) + (5 × 1,000) + (3 × 100) + (2 × 10)?
+Status: Success
+
+Question: Round 9,682,147 to the nearest hundred thousand.
+Status: Success
+
+Question: Which of these numbers, when rounded to the nearest million, gives 5,000,000?
+Status: Success
+
+Question: The temperature at 3am was -14°C. By 11am it had risen by 21°C. What was the temperature at 11am?
+Status: Success
+
+Question: What is the interval between -44 and 31?
+Status: Success
+
+Question: Which number is larger: 3,627,894 or 3,672,849?
+Status: Success
+
+Question: A number rounded to the nearest 10,000 is 4,780,000. Which could be the original number?
+Status: Success
+
+Question: A helicopter is at 368 metres above sea level. A submarine is at -73 metres. What is the difference in elevation between them?
+Status: Success
+
+Question: Which of these numbers has a 3 in the ten thousands place?
+Status: Success
+
+Question: Order these numbers from smallest to largest: 8,364,527  8,346,725  8,364,257
+Status: Success
+
+Question: A thermometer shows -17°C. The temperature drops by another 11°C. What does the thermometer show now?
+Status: Success
+
+Question: What is 7,548,963 rounded to the nearest ten thousand?
+Status: Success
+
+Question: In the number 9,703,458, which digit represents zero value?
+Status: Success
+
+Question: A diver descends from the surface (0 metres) to -48 metres, then rises 31 metres. What is their final depth?
+Status: Success
+
+Question: Which number is 25,000 less than 9,018,264?
+Status: Success
+
+Question: A number has 7 millions, 5 hundred thousands, 0 ten thousands, 6 thousands, 2 hundreds, 0 tens and 9 ones. What is the number?
+Status: Success
+
+Question: At 7am, the temperature was -10°C. By 5pm it was 6°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 2,958,673 to the nearest hundred.
+Status: Success
+
+Question: What is the value of the digit 9 in the number 6,294,817?
+Status: Success
+
+Question: Which number is 3,000,000 more than 5,284,697?
+Status: Success
+
+Question: What number is represented by: (4 × 1,000,000) + (8 × 100,000) + (2 × 10,000) + (9 × 1,000) + (6 × 10)?
+Status: Success
+
+Question: Round 8,349,562 to the nearest ten thousand.
+Status: Success
+
+Question: The temperature was 7°C. It then fell by 19°C. What is the new temperature?
+Status: Success
+
+Question: What is the interval between -25 and 38?
+Status: Success
+
+Question: Which number is smaller: 5,938,641 or 5,893,614?
+Status: Success
+
+Question: A number rounded to the nearest 100,000 is 7,200,000. Which could be the original number?
+Status: Success
+
+Question: In a mine shaft, a lift starts at ground level (0 metres) and descends to -118 metres. It then descends another 76 metres. What is its final position?
+Status: Success
+
+Question: Which of these numbers has an 8 in the millions place?
+Status: Success
+
+Question: Order these numbers from largest to smallest: 6,543,718  6,534,781  6,543,178
+Status: Success
+
+Question: A thermometer reads -23°C. The temperature rises by 32°C. What does the thermometer show now?
+Status: Success
+
+Question: What is 6,781,429 rounded to the nearest million?
+Status: Success
+
+Question: In the number 5,346,729, how many thousands are in the value of the digit 6?
+Status: Success
+
+Question: A submarine at -74 metres rises 49 metres. What is its new position?
+Status: Success
+
+Question: Which number is 60,000 less than 4,039,571?
+Status: Success
+
+Question: A number has 8 millions, 1 hundred thousands, 9 ten thousands, 0 thousands, 5 hundreds, 3 tens and 7 ones. What is the number?
+Status: Success
+
+Question: The temperature at 10pm was -16°C. By 8am it was -5°C. By how many degrees did the temperature rise?
+Status: Success
+
+Question: Round 9,427,816 to the nearest thousand.
+Status: Success
+
+Question: What is the value of the digit 5 in the number 7,652,348?
+Status: Success
+
+Question: What is the interval between -39 and -14?
+Status: Success
+
+Question: Which number is exactly 450,000 more than 8,372,594?
+Status: Success
+
+Question: What number is represented by: (3 × 1,000,000) + (9 × 100,000) + (6 × 10,000) + (4 × 100) + (8 × 10)?
+Status: Success
+
+Question: Round 5,793,265 to the nearest hundred thousand.
+Status: Success
+
+Question: The temperature was -2°C. It fell by another 18°C. What is the new temperature?
+Status: Success
+
+Question: Which number is larger: 4,817,362 or 4,871,623?
+Status: Success
+
+Question: A number rounded to the nearest 1,000 is 3,856,000. Which could be the original number?
+Status: Success
+
+Question: A weather balloon rises from ground level (0 metres) to 427 metres, then rises another 189 metres. What is its final height?
+Status: Success
+
+Question: Which of these numbers has a 2 in the thousands place?
+Status: Success

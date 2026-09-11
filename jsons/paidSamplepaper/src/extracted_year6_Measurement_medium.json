@@ -1,0 +1,5532 @@
+[
+    {
+        "question": "Convert 2.5 kilometres to metres.",
+        "answer": "C",
+        "options": {
+            "A": "25 m",
+            "B": "250 m",
+            "C": "2500 m",
+            "D": "25000 m"
+        }
+    },
+    {
+        "question": "Convert 750 grams to kilograms.",
+        "answer": "B",
+        "options": {
+            "A": "0.075 kg",
+            "B": "0.75 kg",
+            "C": "7.5 kg",
+            "D": "75 kg"
+        }
+    },
+    {
+        "question": "Convert 3.6 litres to millilitres.",
+        "answer": "C",
+        "options": {
+            "A": "36 ml",
+            "B": "360 ml",
+            "C": "3600 ml",
+            "D": "36000 ml"
+        }
+    },
+    {
+        "question": "Convert 1250 millimetres to metres.",
+        "answer": "B",
+        "options": {
+            "A": "0.125 m",
+            "B": "1.25 m",
+            "C": "12.5 m",
+            "D": "125 m"
+        }
+    },
+    {
+        "question": "Convert 4.2 kilograms to grams.",
+        "answer": "C",
+        "options": {
+            "A": "42 g",
+            "B": "420 g",
+            "C": "4200 g",
+            "D": "42000 g"
+        }
+    },
+    {
+        "question": "Convert 5 miles to kilometres (1 mile \u2248 1.6 km).",
+        "answer": "B",
+        "options": {
+            "A": "3 km",
+            "B": "8 km",
+            "C": "16 km",
+            "D": "80 km"
+        }
+    },
+    {
+        "question": "Convert 16 kilometres to miles (1 mile \u2248 1.6 km).",
+        "answer": "B",
+        "options": {
+            "A": "8 miles",
+            "B": "10 miles",
+            "C": "12 miles",
+            "D": "20 miles"
+        }
+    },
+    {
+        "question": "Which shape has the same area but a different perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "Two squares of the same size",
+            "B": "A 6\u00d74 rectangle and a 8\u00d73 rectangle",
+            "C": "Two identical triangles",
+            "D": "Two identical rectangles"
+        }
+    },
+    {
+        "question": "Which shape has a larger perimeter but the same area?",
+        "answer": "A",
+        "options": {
+            "A": "4\u00d74 square compared to 8\u00d72 rectangle",
+            "B": "Two identical squares",
+            "C": "Two identical rectangles",
+            "D": "Two identical triangles"
+        }
+    },
+    {
+        "question": "Which shape can have its area calculated using a formula?",
+        "answer": "B",
+        "options": {
+            "A": "Circle",
+            "B": "Triangle",
+            "C": "Irregular shape",
+            "D": "Curved shape"
+        }
+    },
+    {
+        "question": "Calculate the area of a triangle with base 10 cm and height 6 cm.",
+        "answer": "A",
+        "options": {
+            "A": "30 cm\u00b2",
+            "B": "60 cm\u00b2",
+            "C": "16 cm\u00b2",
+            "D": "20 cm\u00b2"
+        }
+    },
+    {
+        "question": "Calculate the area of a parallelogram with base 8 cm and height 5 cm.",
+        "answer": "C",
+        "options": {
+            "A": "13 cm\u00b2",
+            "B": "20 cm\u00b2",
+            "C": "40 cm\u00b2",
+            "D": "80 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the volume of a cube with side length 4 cm?",
+        "answer": "B",
+        "options": {
+            "A": "16 cm\u00b3",
+            "B": "64 cm\u00b3",
+            "C": "12 cm\u00b3",
+            "D": "48 cm\u00b3"
+        }
+    },
+    {
+        "question": "What is the volume of a cuboid measuring 6 cm \u00d7 4 cm \u00d7 5 cm?",
+        "answer": "C",
+        "options": {
+            "A": "30 cm\u00b3",
+            "B": "60 cm\u00b3",
+            "C": "120 cm\u00b3",
+            "D": "240 cm\u00b3"
+        }
+    },
+    {
+        "question": "Which unit is best for measuring the volume of a small box?",
+        "answer": "C",
+        "options": {
+            "A": "m\u00b3",
+            "B": "km\u00b3",
+            "C": "cm\u00b3",
+            "D": "litres"
+        }
+    },
+    {
+        "question": "Convert 1 m\u00b3 to cubic centimetres.",
+        "answer": "D",
+        "options": {
+            "A": "1000 cm\u00b3",
+            "B": "10000 cm\u00b3",
+            "C": "100000 cm\u00b3",
+            "D": "1000000 cm\u00b3"
+        }
+    },
+    {
+        "question": "Convert 3.5 kilometres to metres.",
+        "answer": "A",
+        "options": {
+            "A": "3500 m",
+            "B": "35 m",
+            "C": "0.35 m",
+            "D": "300 m"
+        }
+    },
+    {
+        "question": "Convert 4500 grams to kilograms.",
+        "answer": "A",
+        "options": {
+            "A": "4.5 kg",
+            "B": "45 kg",
+            "C": "0.45 kg",
+            "D": "450 kg"
+        }
+    },
+    {
+        "question": "Convert 2.75 litres to millilitres.",
+        "answer": "A",
+        "options": {
+            "A": "2750 ml",
+            "B": "27.5 ml",
+            "C": "250 ml",
+            "D": "275 ml"
+        }
+    },
+    {
+        "question": "Convert 540 seconds to minutes.",
+        "answer": "A",
+        "options": {
+            "A": "9 minutes",
+            "B": "90 minutes",
+            "C": "5.4 minutes",
+            "D": "6 minutes"
+        }
+    },
+    {
+        "question": "Convert 1.2 kilometres to metres.",
+        "answer": "A",
+        "options": {
+            "A": "1200 m",
+            "B": "12 m",
+            "C": "120 m",
+            "D": "1.2 m"
+        }
+    },
+    {
+        "question": "Convert 650 ml to litres.",
+        "answer": "A",
+        "options": {
+            "A": "0.65 L",
+            "B": "6.5 L",
+            "C": "65 L",
+            "D": "0.065 L"
+        }
+    },
+    {
+        "question": "Convert 3 hours 30 minutes into minutes.",
+        "answer": "A",
+        "options": {
+            "A": "210 minutes",
+            "B": "180 minutes",
+            "C": "330 minutes",
+            "D": "150 minutes"
+        }
+    },
+    {
+        "question": "Convert 0.375 kg to grams.",
+        "answer": "A",
+        "options": {
+            "A": "375 g",
+            "B": "37.5 g",
+            "C": "3.75 g",
+            "D": "750 g"
+        }
+    },
+    {
+        "question": "Convert 4.2 metres to centimetres.",
+        "answer": "A",
+        "options": {
+            "A": "420 cm",
+            "B": "42 cm",
+            "C": "4.2 cm",
+            "D": "4200 cm"
+        }
+    },
+    {
+        "question": "1 mile is approximately equal to how many kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "1.6 km",
+            "B": "1.2 km",
+            "C": "2 km",
+            "D": "0.6 km"
+        }
+    },
+    {
+        "question": "Convert 5 miles to kilometres (approximate).",
+        "answer": "A",
+        "options": {
+            "A": "8 km",
+            "B": "5 km",
+            "C": "10 km",
+            "D": "3 km"
+        }
+    },
+    {
+        "question": "Convert 16 kilometres to miles (approximate).",
+        "answer": "A",
+        "options": {
+            "A": "10 miles",
+            "B": "8 miles",
+            "C": "12 miles",
+            "D": "6 miles"
+        }
+    },
+    {
+        "question": "Two rectangles have the same area. What can be different?",
+        "answer": "A",
+        "options": {
+            "A": "Their perimeters",
+            "B": "Their area",
+            "C": "Their width only",
+            "D": "Their shape name"
+        }
+    },
+    {
+        "question": "Which statement is true?",
+        "answer": "A",
+        "options": {
+            "A": "Same perimeter does not always mean same area",
+            "B": "Same perimeter means same area",
+            "C": "Same area means same shape",
+            "D": "Same area means same perimeter"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 10 cm and height 6 cm?",
+        "answer": "A",
+        "options": {
+            "A": "30 cm\u00b2",
+            "B": "60 cm\u00b2",
+            "C": "16 cm\u00b2",
+            "D": "20 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a parallelogram with base 8 m and height 5 m?",
+        "answer": "A",
+        "options": {
+            "A": "40 m\u00b2",
+            "B": "20 m\u00b2",
+            "C": "13 m\u00b2",
+            "D": "80 m\u00b2"
+        }
+    },
+    {
+        "question": "Find the volume of a cube with side length 4 cm.",
+        "answer": "A",
+        "options": {
+            "A": "64 cm\u00b3",
+            "B": "16 cm\u00b3",
+            "C": "12 cm\u00b3",
+            "D": "48 cm\u00b3"
+        }
+    },
+    {
+        "question": "Find the volume of a cuboid measuring 5 cm \u00d7 4 cm \u00d7 3 cm.",
+        "answer": "A",
+        "options": {
+            "A": "60 cm\u00b3",
+            "B": "20 cm\u00b3",
+            "C": "12 cm\u00b3",
+            "D": "45 cm\u00b3"
+        }
+    },
+    {
+        "question": "Which unit is most suitable for measuring the volume of a swimming pool?",
+        "answer": "A",
+        "options": {
+            "A": "m\u00b3",
+            "B": "cm\u00b3",
+            "C": "ml",
+            "D": "mm\u00b3"
+        }
+    },
+    {
+        "question": "Which estimate is most sensible for the mass of an apple?",
+        "answer": "A",
+        "options": {
+            "A": "150 g",
+            "B": "15 kg",
+            "C": "1.5 kg",
+            "D": "15 g"
+        }
+    },
+    {
+        "question": "A jug contains 2.5 litres of water. How many millilitres is this?",
+        "answer": "C",
+        "options": {
+            "A": "25 ml",
+            "B": "250 ml",
+            "C": "2500 ml",
+            "D": "25000 ml"
+        }
+    },
+    {
+        "question": "A bag of sugar weighs 1.75 kg. How many grams is this?",
+        "answer": "B",
+        "options": {
+            "A": "175 g",
+            "B": "1750 g",
+            "C": "17.5 g",
+            "D": "17500 g"
+        }
+    },
+    {
+        "question": "A race is 3.25 kilometres long. How many metres is this?",
+        "answer": "B",
+        "options": {
+            "A": "325 m",
+            "B": "3250 m",
+            "C": "32500 m",
+            "D": "32.5 m"
+        }
+    },
+    {
+        "question": "A bottle holds 0.75 litres. If you pour out 250 ml, how much is left in litres?",
+        "answer": "A",
+        "options": {
+            "A": "0.5 l",
+            "B": "0.25 l",
+            "C": "0.725 l",
+            "D": "0.475 l"
+        }
+    },
+    {
+        "question": "Convert 4500 grams to kilograms.",
+        "answer": "B",
+        "options": {
+            "A": "45 kg",
+            "B": "4.5 kg",
+            "C": "0.45 kg",
+            "D": "450 kg"
+        }
+    },
+    {
+        "question": "A rope is 4.8 metres long. If you cut it into 4 equal pieces, how long is each piece in centimetres?",
+        "answer": "B",
+        "options": {
+            "A": "12 cm",
+            "B": "120 cm",
+            "C": "1.2 cm",
+            "D": "1200 cm"
+        }
+    },
+    {
+        "question": "Convert 3.275 kilometres to metres.",
+        "answer": "B",
+        "options": {
+            "A": "327.5 m",
+            "B": "3275 m",
+            "C": "32750 m",
+            "D": "32.75 m"
+        }
+    },
+    {
+        "question": "A tank contains 5.125 litres of water. How many millilitres is this?",
+        "answer": "B",
+        "options": {
+            "A": "512.5 ml",
+            "B": "5125 ml",
+            "C": "51.25 ml",
+            "D": "51250 ml"
+        }
+    },
+    {
+        "question": "Convert 875 grams to kilograms.",
+        "answer": "B",
+        "options": {
+            "A": "8.75 kg",
+            "B": "0.875 kg",
+            "C": "87.5 kg",
+            "D": "0.0875 kg"
+        }
+    },
+    {
+        "question": "A car travels 2.5 km. How many metres is this?",
+        "answer": "B",
+        "options": {
+            "A": "250 m",
+            "B": "2500 m",
+            "C": "25000 m",
+            "D": "25 m"
+        }
+    },
+    {
+        "question": "Convert 0.625 litres to millilitres.",
+        "answer": "B",
+        "options": {
+            "A": "62.5 ml",
+            "B": "625 ml",
+            "C": "6.25 ml",
+            "D": "6250 ml"
+        }
+    },
+    {
+        "question": "A piece of wood is 3.45 metres long. Convert this to centimetres.",
+        "answer": "B",
+        "options": {
+            "A": "34.5 cm",
+            "B": "345 cm",
+            "C": "3450 cm",
+            "D": "0.345 cm"
+        }
+    },
+    {
+        "question": "A recipe needs 1.125 kg of flour. How many grams is this?",
+        "answer": "B",
+        "options": {
+            "A": "112.5 g",
+            "B": "1125 g",
+            "C": "11250 g",
+            "D": "11.25 g"
+        }
+    },
+    {
+        "question": "Convert 250 millilitres to litres.",
+        "answer": "C",
+        "options": {
+            "A": "25 l",
+            "B": "2.5 l",
+            "C": "0.25 l",
+            "D": "0.025 l"
+        }
+    },
+    {
+        "question": "A swimming pool is 25.5 metres long. How many centimetres is this?",
+        "answer": "B",
+        "options": {
+            "A": "255 cm",
+            "B": "2550 cm",
+            "C": "25500 cm",
+            "D": "2.55 cm"
+        }
+    },
+    {
+        "question": "Convert 50 grams to kilograms.",
+        "answer": "C",
+        "options": {
+            "A": "5 kg",
+            "B": "0.5 kg",
+            "C": "0.05 kg",
+            "D": "0.005 kg"
+        }
+    },
+    {
+        "question": "A bottle contains 0.333 litres of juice. How many millilitres is this?",
+        "answer": "B",
+        "options": {
+            "A": "33.3 ml",
+            "B": "333 ml",
+            "C": "3330 ml",
+            "D": "3.33 ml"
+        }
+    },
+    {
+        "question": "Convert 4.05 kilometres to metres.",
+        "answer": "B",
+        "options": {
+            "A": "405 m",
+            "B": "4050 m",
+            "C": "40500 m",
+            "D": "40.5 m"
+        }
+    },
+    {
+        "question": "A parcel weighs 2.255 kg. How many grams is this?",
+        "answer": "B",
+        "options": {
+            "A": "225.5 g",
+            "B": "2255 g",
+            "C": "22550 g",
+            "D": "22.55 g"
+        }
+    },
+    {
+        "question": "Convert 750 millilitres to litres.",
+        "answer": "B",
+        "options": {
+            "A": "7.5 l",
+            "B": "0.75 l",
+            "C": "0.075 l",
+            "D": "75 l"
+        }
+    },
+    {
+        "question": "A desk is 1.525 metres wide. Convert to centimetres.",
+        "answer": "B",
+        "options": {
+            "A": "15.25 cm",
+            "B": "152.5 cm",
+            "C": "1525 cm",
+            "D": "0.1525 cm"
+        }
+    },
+    {
+        "question": "Convert 125 grams to kilograms.",
+        "answer": "B",
+        "options": {
+            "A": "1.25 kg",
+            "B": "0.125 kg",
+            "C": "12.5 kg",
+            "D": "0.0125 kg"
+        }
+    },
+    {
+        "question": "A can holds 0.44 litres. How many millilitres is this?",
+        "answer": "B",
+        "options": {
+            "A": "44 ml",
+            "B": "440 ml",
+            "C": "4400 ml",
+            "D": "4.4 ml"
+        }
+    },
+    {
+        "question": "Convert 6.5 kilometres to metres.",
+        "answer": "C",
+        "options": {
+            "A": "65 m",
+            "B": "650 m",
+            "C": "6500 m",
+            "D": "65000 m"
+        }
+    },
+    {
+        "question": "A bag weighs 3.075 kg. How many grams is this?",
+        "answer": "B",
+        "options": {
+            "A": "307.5 g",
+            "B": "3075 g",
+            "C": "30750 g",
+            "D": "30.75 g"
+        }
+    },
+    {
+        "question": "Convert 900 millilitres to litres.",
+        "answer": "B",
+        "options": {
+            "A": "9 l",
+            "B": "0.9 l",
+            "C": "0.09 l",
+            "D": "90 l"
+        }
+    },
+    {
+        "question": "A room is 4.25 metres high. How many centimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "425 cm",
+            "B": "42.5 cm",
+            "C": "4250 cm",
+            "D": "0.425 cm"
+        }
+    },
+    {
+        "question": "Convert 25 grams to kilograms.",
+        "answer": "B",
+        "options": {
+            "A": "0.25 kg",
+            "B": "0.025 kg",
+            "C": "2.5 kg",
+            "D": "0.0025 kg"
+        }
+    },
+    {
+        "question": "A container holds 1.001 litres. How many millilitres is this?",
+        "answer": "B",
+        "options": {
+            "A": "100.1 ml",
+            "B": "1001 ml",
+            "C": "10010 ml",
+            "D": "10.01 ml"
+        }
+    },
+    {
+        "question": "Convert 7.75 kilometres to metres.",
+        "answer": "B",
+        "options": {
+            "A": "775 m",
+            "B": "7750 m",
+            "C": "77500 m",
+            "D": "77.5 m"
+        }
+    },
+    {
+        "question": "A box weighs 4.5 kg when full and 0.5 kg when empty. What is the weight of the contents in grams?",
+        "answer": "A",
+        "options": {
+            "A": "4000 g",
+            "B": "4 g",
+            "C": "400 g",
+            "D": "4500 g"
+        }
+    },
+    {
+        "question": "Convert 333 millilitres to litres.",
+        "answer": "B",
+        "options": {
+            "A": "3.33 l",
+            "B": "0.333 l",
+            "C": "0.0333 l",
+            "D": "33.3 l"
+        }
+    },
+    {
+        "question": "A path is 2.125 km long. How many metres is this?",
+        "answer": "B",
+        "options": {
+            "A": "212.5 m",
+            "B": "2125 m",
+            "C": "21250 m",
+            "D": "21.25 m"
+        }
+    },
+    {
+        "question": "Convert 50 millilitres to litres.",
+        "answer": "C",
+        "options": {
+            "A": "5 l",
+            "B": "0.5 l",
+            "C": "0.05 l",
+            "D": "0.005 l"
+        }
+    },
+    {
+        "question": "A metal rod is 0.885 metres long. How long is it in millimetres?",
+        "answer": "C",
+        "options": {
+            "A": "8.85 mm",
+            "B": "88.5 mm",
+            "C": "885 mm",
+            "D": "8850 mm"
+        }
+    },
+    {
+        "question": "A solution requires 0.125 grams of salt per litre. How many milligrams is this per litre?",
+        "answer": "A",
+        "options": {
+            "A": "125 mg",
+            "B": "12.5 mg",
+            "C": "1.25 mg",
+            "D": "1250 mg"
+        }
+    },
+    {
+        "question": "Convert 3 hours 30 minutes to hours.",
+        "answer": "B",
+        "options": {
+            "A": "3.3 hours",
+            "B": "3.5 hours",
+            "C": "3.6 hours",
+            "D": "3.05 hours"
+        }
+    },
+    {
+        "question": "Convert 2.5 hours to minutes.",
+        "answer": "A",
+        "options": {
+            "A": "150 minutes",
+            "B": "250 minutes",
+            "C": "125 minutes",
+            "D": "25 minutes"
+        }
+    },
+    {
+        "question": "How many minutes are in 1.75 hours?",
+        "answer": "B",
+        "options": {
+            "A": "75 minutes",
+            "B": "105 minutes",
+            "C": "115 minutes",
+            "D": "175 minutes"
+        }
+    },
+    {
+        "question": "Convert 450 minutes to hours.",
+        "answer": "B",
+        "options": {
+            "A": "4.5 hours",
+            "B": "7.5 hours",
+            "C": "7 hours",
+            "D": "45 hours"
+        }
+    },
+    {
+        "question": "Convert 3 metres to centimetres.",
+        "answer": "B",
+        "options": {
+            "A": "30 cm",
+            "B": "300 cm",
+            "C": "3000 cm",
+            "D": "0.3 cm"
+        }
+    },
+    {
+        "question": "How many millimetres are in 5 centimetres?",
+        "answer": "A",
+        "options": {
+            "A": "50 mm",
+            "B": "500 mm",
+            "C": "0.5 mm",
+            "D": "5000 mm"
+        }
+    },
+    {
+        "question": "Convert 8 kilograms to grams.",
+        "answer": "B",
+        "options": {
+            "A": "800 g",
+            "B": "8000 g",
+            "C": "80 g",
+            "D": "80000 g"
+        }
+    },
+    {
+        "question": "How many metres are in 3.5 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "350 m",
+            "B": "3500 m",
+            "C": "35 m",
+            "D": "35000 m"
+        }
+    },
+    {
+        "question": "Convert 2 litres to millilitres.",
+        "answer": "C",
+        "options": {
+            "A": "20 ml",
+            "B": "200 ml",
+            "C": "2000 ml",
+            "D": "20000 ml"
+        }
+    },
+    {
+        "question": "Convert 90 minutes to hours.",
+        "answer": "B",
+        "options": {
+            "A": "0.9 hours",
+            "B": "1.5 hours",
+            "C": "9 hours",
+            "D": "1.9 hours"
+        }
+    },
+    {
+        "question": "How many grams are in 0.5 kilograms?",
+        "answer": "B",
+        "options": {
+            "A": "50 g",
+            "B": "500 g",
+            "C": "5 g",
+            "D": "5000 g"
+        }
+    },
+    {
+        "question": "Convert 4.2 metres to centimetres.",
+        "answer": "B",
+        "options": {
+            "A": "42 cm",
+            "B": "420 cm",
+            "C": "4200 cm",
+            "D": "0.42 cm"
+        }
+    },
+    {
+        "question": "Convert 15 millilitres to litres.",
+        "answer": "C",
+        "options": {
+            "A": "1.5 l",
+            "B": "0.15 l",
+            "C": "0.015 l",
+            "D": "0.0015 l"
+        }
+    },
+    {
+        "question": "How many kilometres are in 2500 metres?",
+        "answer": "B",
+        "options": {
+            "A": "25 km",
+            "B": "2.5 km",
+            "C": "0.25 km",
+            "D": "250 km"
+        }
+    },
+    {
+        "question": "Convert 1 hour 15 minutes to hours as a decimal.",
+        "answer": "B",
+        "options": {
+            "A": "1.15 hours",
+            "B": "1.25 hours",
+            "C": "1.5 hours",
+            "D": "1.75 hours"
+        }
+    },
+    {
+        "question": "How many seconds are in 2.5 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "25 seconds",
+            "B": "150 seconds",
+            "C": "250 seconds",
+            "D": "125 seconds"
+        }
+    },
+    {
+        "question": "Convert 5000 grams to kilograms.",
+        "answer": "C",
+        "options": {
+            "A": "500 kg",
+            "B": "50 kg",
+            "C": "5 kg",
+            "D": "0.5 kg"
+        }
+    },
+    {
+        "question": "Convert 75 centimetres to metres.",
+        "answer": "B",
+        "options": {
+            "A": "7.5 m",
+            "B": "0.75 m",
+            "C": "0.075 m",
+            "D": "75 m"
+        }
+    },
+    {
+        "question": "How many millilitres are in 0.25 litres?",
+        "answer": "B",
+        "options": {
+            "A": "25 ml",
+            "B": "250 ml",
+            "C": "2500 ml",
+            "D": "2.5 ml"
+        }
+    },
+    {
+        "question": "Convert 6.5 hours to minutes.",
+        "answer": "B",
+        "options": {
+            "A": "65 minutes",
+            "B": "390 minutes",
+            "C": "360 minutes",
+            "D": "650 minutes"
+        }
+    },
+    {
+        "question": "Convert 1.2 metres to millimetres.",
+        "answer": "C",
+        "options": {
+            "A": "12 mm",
+            "B": "120 mm",
+            "C": "1200 mm",
+            "D": "12000 mm"
+        }
+    },
+    {
+        "question": "How many grams are in 2.25 kilograms?",
+        "answer": "B",
+        "options": {
+            "A": "225 g",
+            "B": "2250 g",
+            "C": "22500 g",
+            "D": "22.5 g"
+        }
+    },
+    {
+        "question": "Convert 3 days to hours.",
+        "answer": "B",
+        "options": {
+            "A": "36 hours",
+            "B": "72 hours",
+            "C": "24 hours",
+            "D": "12 hours"
+        }
+    },
+    {
+        "question": "Convert 2500 millilitres to litres.",
+        "answer": "B",
+        "options": {
+            "A": "25 l",
+            "B": "2.5 l",
+            "C": "0.25 l",
+            "D": "250 l"
+        }
+    },
+    {
+        "question": "How many metres are in 450 centimetres?",
+        "answer": "B",
+        "options": {
+            "A": "45 m",
+            "B": "4.5 m",
+            "C": "0.45 m",
+            "D": "4500 m"
+        }
+    },
+    {
+        "question": "Convert 1.5 kilometres to metres.",
+        "answer": "B",
+        "options": {
+            "A": "150 m",
+            "B": "1500 m",
+            "C": "15 m",
+            "D": "15000 m"
+        }
+    },
+    {
+        "question": "Convert 45 minutes to hours.",
+        "answer": "B",
+        "options": {
+            "A": "0.45 hours",
+            "B": "0.75 hours",
+            "C": "4.5 hours",
+            "D": "1.45 hours"
+        }
+    },
+    {
+        "question": "How many milligrams are in 2 grams?",
+        "answer": "C",
+        "options": {
+            "A": "20 mg",
+            "B": "200 mg",
+            "C": "2000 mg",
+            "D": "0.002 mg"
+        }
+    },
+    {
+        "question": "Convert 3.25 hours to minutes.",
+        "answer": "B",
+        "options": {
+            "A": "205 minutes",
+            "B": "195 minutes",
+            "C": "325 minutes",
+            "D": "155 minutes"
+        }
+    },
+    {
+        "question": "Convert 8 metres to millimetres.",
+        "answer": "C",
+        "options": {
+            "A": "80 mm",
+            "B": "800 mm",
+            "C": "8000 mm",
+            "D": "80000 mm"
+        }
+    },
+    {
+        "question": "How many centimetres are in 0.5 metres?",
+        "answer": "A",
+        "options": {
+            "A": "50 cm",
+            "B": "5 cm",
+            "C": "500 cm",
+            "D": "0.05 cm"
+        }
+    },
+    {
+        "question": "Convert 1.75 litres to millilitres.",
+        "answer": "B",
+        "options": {
+            "A": "175 ml",
+            "B": "1750 ml",
+            "C": "17500 ml",
+            "D": "17.5 ml"
+        }
+    },
+    {
+        "question": "How many days are in 48 hours?",
+        "answer": "C",
+        "options": {
+            "A": "4 days",
+            "B": "3 days",
+            "C": "2 days",
+            "D": "1 day"
+        }
+    },
+    {
+        "question": "Convert 9000 grams to kilograms.",
+        "answer": "C",
+        "options": {
+            "A": "900 kg",
+            "B": "90 kg",
+            "C": "9 kg",
+            "D": "0.9 kg"
+        }
+    },
+    {
+        "question": "Convert 2 weeks to days.",
+        "answer": "B",
+        "options": {
+            "A": "7 days",
+            "B": "14 days",
+            "C": "21 days",
+            "D": "12 days"
+        }
+    },
+    {
+        "question": "How many seconds are in 3 minutes?",
+        "answer": "C",
+        "options": {
+            "A": "60 seconds",
+            "B": "120 seconds",
+            "C": "180 seconds",
+            "D": "300 seconds"
+        }
+    },
+    {
+        "question": "Approximately how many kilometres is 5 miles?",
+        "answer": "B",
+        "options": {
+            "A": "5 km",
+            "B": "8 km",
+            "C": "10 km",
+            "D": "16 km"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 8 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "4 miles",
+            "B": "5 miles",
+            "C": "6 miles",
+            "D": "10 miles"
+        }
+    },
+    {
+        "question": "Convert 10 miles to kilometres.",
+        "answer": "B",
+        "options": {
+            "A": "10 km",
+            "B": "16 km",
+            "C": "8 km",
+            "D": "20 km"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 16 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "8 miles",
+            "B": "10 miles",
+            "C": "12 miles",
+            "D": "16 miles"
+        }
+    },
+    {
+        "question": "Which is longer: 5 miles or 5 kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "5 miles",
+            "B": "5 kilometres",
+            "C": "They are the same",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Convert 15 miles to kilometres.",
+        "answer": "B",
+        "options": {
+            "A": "15 km",
+            "B": "24 km",
+            "C": "18 km",
+            "D": "30 km"
+        }
+    },
+    {
+        "question": "Approximately how many kilometres is 25 miles?",
+        "answer": "B",
+        "options": {
+            "A": "25 km",
+            "B": "40 km",
+            "C": "35 km",
+            "D": "20 km"
+        }
+    },
+    {
+        "question": "Convert 40 kilometres to miles.",
+        "answer": "B",
+        "options": {
+            "A": "20 miles",
+            "B": "25 miles",
+            "C": "32 miles",
+            "D": "40 miles"
+        }
+    },
+    {
+        "question": "Which is shorter: 10 miles or 16 kilometres?",
+        "answer": "C",
+        "options": {
+            "A": "10 miles",
+            "B": "16 kilometres",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Convert 50 miles to kilometres.",
+        "answer": "B",
+        "options": {
+            "A": "50 km",
+            "B": "80 km",
+            "C": "100 km",
+            "D": "60 km"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 32 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "16 miles",
+            "B": "20 miles",
+            "C": "25 miles",
+            "D": "32 miles"
+        }
+    },
+    {
+        "question": "Convert 20 miles to kilometres.",
+        "answer": "B",
+        "options": {
+            "A": "20 km",
+            "B": "32 km",
+            "C": "30 km",
+            "D": "12.5 km"
+        }
+    },
+    {
+        "question": "Which is further: 100 miles or 100 kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "100 miles",
+            "B": "100 kilometres",
+            "C": "They are the same",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Convert 80 kilometres to miles.",
+        "answer": "B",
+        "options": {
+            "A": "40 miles",
+            "B": "50 miles",
+            "C": "60 miles",
+            "D": "128 miles"
+        }
+    },
+    {
+        "question": "Approximately how many kilometres is 30 miles?",
+        "answer": "B",
+        "options": {
+            "A": "30 km",
+            "B": "48 km",
+            "C": "50 km",
+            "D": "60 km"
+        }
+    },
+    {
+        "question": "Convert 160 kilometres to miles.",
+        "answer": "B",
+        "options": {
+            "A": "80 miles",
+            "B": "100 miles",
+            "C": "120 miles",
+            "D": "160 miles"
+        }
+    },
+    {
+        "question": "A sign shows 50 miles to London. Approximately how many kilometres is this?",
+        "answer": "B",
+        "options": {
+            "A": "50 km",
+            "B": "80 km",
+            "C": "30 km",
+            "D": "100 km"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 48 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "24 miles",
+            "B": "30 miles",
+            "C": "40 miles",
+            "D": "50 miles"
+        }
+    },
+    {
+        "question": "Convert 5 miles to kilometres.",
+        "answer": "B",
+        "options": {
+            "A": "3.125 km",
+            "B": "8 km",
+            "C": "5 km",
+            "D": "10 km"
+        }
+    },
+    {
+        "question": "Which distance is approximately 16 km?",
+        "answer": "B",
+        "options": {
+            "A": "5 miles",
+            "B": "10 miles",
+            "C": "15 miles",
+            "D": "20 miles"
+        }
+    },
+    {
+        "question": "Convert 100 miles to kilometres.",
+        "answer": "B",
+        "options": {
+            "A": "100 km",
+            "B": "160 km",
+            "C": "600 km",
+            "D": "60 km"
+        }
+    },
+    {
+        "question": "Approximately how many kilometres is 2 miles?",
+        "answer": "B",
+        "options": {
+            "A": "2 km",
+            "B": "3.2 km",
+            "C": "4 km",
+            "D": "1.25 km"
+        }
+    },
+    {
+        "question": "Convert 64 kilometres to miles.",
+        "answer": "B",
+        "options": {
+            "A": "32 miles",
+            "B": "40 miles",
+            "C": "50 miles",
+            "D": "64 miles"
+        }
+    },
+    {
+        "question": "If a car travels 30 miles, approximately how many kilometres has it travelled?",
+        "answer": "B",
+        "options": {
+            "A": "19 km",
+            "B": "48 km",
+            "C": "30 km",
+            "D": "60 km"
+        }
+    },
+    {
+        "question": "Which is greater: 1 mile or 1 kilometre?",
+        "answer": "A",
+        "options": {
+            "A": "1 mile",
+            "B": "1 kilometre",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Convert 16 miles to kilometres.",
+        "answer": "B",
+        "options": {
+            "A": "16 km",
+            "B": "25.6 km",
+            "C": "26 km",
+            "D": "10 km"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 80 km?",
+        "answer": "B",
+        "options": {
+            "A": "40 miles",
+            "B": "50 miles",
+            "C": "60 miles",
+            "D": "80 miles"
+        }
+    },
+    {
+        "question": "Convert 3 miles to kilometres.",
+        "answer": "B",
+        "options": {
+            "A": "3 km",
+            "B": "4.8 km",
+            "C": "6 km",
+            "D": "1.875 km"
+        }
+    },
+    {
+        "question": "A marathon is 26 miles. Approximately how many kilometres is this?",
+        "answer": "C",
+        "options": {
+            "A": "26 km",
+            "B": "32 km",
+            "C": "42 km",
+            "D": "52 km"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 160 km?",
+        "answer": "B",
+        "options": {
+            "A": "80 miles",
+            "B": "100 miles",
+            "C": "120 miles",
+            "D": "160 miles"
+        }
+    },
+    {
+        "question": "Convert 45 miles to kilometres.",
+        "answer": "B",
+        "options": {
+            "A": "45 km",
+            "B": "72 km",
+            "C": "70 km",
+            "D": "28 km"
+        }
+    },
+    {
+        "question": "Approximately how many kilometres is 35 miles?",
+        "answer": "B",
+        "options": {
+            "A": "35 km",
+            "B": "56 km",
+            "C": "60 km",
+            "D": "22 km"
+        }
+    },
+    {
+        "question": "Convert 120 kilometres to miles.",
+        "answer": "B",
+        "options": {
+            "A": "60 miles",
+            "B": "75 miles",
+            "C": "80 miles",
+            "D": "120 miles"
+        }
+    },
+    {
+        "question": "If a journey is 80 miles, approximately what is it in kilometres?",
+        "answer": "C",
+        "options": {
+            "A": "50 km",
+            "B": "80 km",
+            "C": "128 km",
+            "D": "130 km"
+        }
+    },
+    {
+        "question": "Which is approximately 5 miles?",
+        "answer": "B",
+        "options": {
+            "A": "5 km",
+            "B": "8 km",
+            "C": "10 km",
+            "D": "3 km"
+        }
+    },
+    {
+        "question": "Convert 1.6 kilometres to miles.",
+        "answer": "B",
+        "options": {
+            "A": "0.625 miles",
+            "B": "1 mile",
+            "C": "1.6 miles",
+            "D": "2.56 miles"
+        }
+    },
+    {
+        "question": "Rectangle A is 6cm by 4cm. Rectangle B is 8cm by 3cm. Do they have the same area?",
+        "answer": "A",
+        "options": {
+            "A": "Yes, both 24 cm\u00b2",
+            "B": "No, A is larger",
+            "C": "No, B is larger",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Rectangle A (6cm \u00d7 4cm) and Rectangle B (8cm \u00d7 3cm). Do they have the same perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "Yes",
+            "B": "No, A's perimeter is smaller",
+            "C": "No, B's perimeter is smaller",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "A square has sides of 4cm. A rectangle has sides of 2cm and 8cm. Do they have the same area?",
+        "answer": "A",
+        "options": {
+            "A": "Yes, both 16 cm\u00b2",
+            "B": "No",
+            "C": "Only if they overlap",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Which has the larger perimeter: The 4cm square or the 2cm\u00d78cm rectangle?",
+        "answer": "B",
+        "options": {
+            "A": "The square (16cm)",
+            "B": "The rectangle (20cm)",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "True or False: Two rectangles with the same area always have the same perimeter.",
+        "answer": "B",
+        "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Sometimes",
+            "D": "Always"
+        }
+    },
+    {
+        "question": "True or False: Two shapes with the same perimeter always have the same area.",
+        "answer": "B",
+        "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Only for squares",
+            "D": "Always"
+        }
+    },
+    {
+        "question": "A rectangle measures 10cm by 2cm. Another rectangle measures 5cm by 4cm. Do they have the same area?",
+        "answer": "A",
+        "options": {
+            "A": "Yes, both 20 cm\u00b2",
+            "B": "No",
+            "C": "Yes, both 24 cm\u00b2",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Which has the smaller perimeter: The 10cm\u00d72cm rectangle or the 5cm\u00d74cm rectangle?",
+        "answer": "B",
+        "options": {
+            "A": "10cm\u00d72cm (24cm)",
+            "B": "5cm\u00d74cm (18cm)",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "A shape has a perimeter of 20cm. Can you be sure of its area?",
+        "answer": "B",
+        "options": {
+            "A": "Yes",
+            "B": "No, different shapes with this perimeter can have different areas",
+            "C": "Yes, it is 100 cm\u00b2",
+            "D": "Only if it is a rectangle"
+        }
+    },
+    {
+        "question": "Two shapes both have an area of 36 cm\u00b2. One is a 6cm\u00d76cm square. The other is a 9cm\u00d74cm rectangle. Which has the larger perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "The square (24cm)",
+            "B": "The rectangle (26cm)",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "A 3cm by 3cm square has the same perimeter as which rectangle?",
+        "answer": "A",
+        "options": {
+            "A": "4cm by 2cm",
+            "B": "6cm by 2cm",
+            "C": "5cm by 3cm",
+            "D": "3cm by 4cm"
+        }
+    },
+    {
+        "question": "Can two different rectangles have the same perimeter but different areas?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Only if they are squares",
+            "D": "Only if one is a square"
+        }
+    },
+    {
+        "question": "A rectangle has an area of 12 cm\u00b2. Which dimensions would give the smallest perimeter?",
+        "answer": "C",
+        "options": {
+            "A": "12cm by 1cm",
+            "B": "6cm by 2cm",
+            "C": "4cm by 3cm",
+            "D": "All give same perimeter"
+        }
+    },
+    {
+        "question": "Two rectangles both have a perimeter of 16cm. One is 5cm by 3cm. Which has the same perimeter but a different area?",
+        "answer": "A",
+        "options": {
+            "A": "4cm by 4cm",
+            "B": "7cm by 2cm",
+            "C": "6cm by 4cm",
+            "D": "7cm by 1cm"
+        }
+    },
+    {
+        "question": "A square and a rectangle both have an area of 64 cm\u00b2. The square has sides of 8cm. The rectangle has sides of 16cm and 4cm. Which statement is true?",
+        "answer": "B",
+        "options": {
+            "A": "Both have the same perimeter",
+            "B": "The rectangle has a larger perimeter",
+            "C": "The square has a larger perimeter",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Is it possible for a rectangle to have the same perimeter as a square but a smaller area?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Only if the rectangle is long and thin",
+            "D": "Both A and C are true"
+        }
+    },
+    {
+        "question": "Which pair of shapes have the same perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "5\u00d75 square and 7\u00d73 rectangle",
+            "B": "4\u00d74 square and 3\u00d75 rectangle",
+            "C": "6\u00d76 square and 5\u00d76 rectangle",
+            "D": "3\u00d73 square and 2\u00d73 rectangle"
+        }
+    },
+    {
+        "question": "A garden is 10m by 2m. Another garden is 6m by 6m. Do they have the same perimeter?",
+        "answer": "A",
+        "options": {
+            "A": "Yes, both 24m",
+            "B": "No",
+            "C": "Yes, both 20m",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Two different rectangles both have areas of 48 cm\u00b2. One is 8cm\u00d76cm. Which could be the other?",
+        "answer": "A",
+        "options": {
+            "A": "12cm\u00d74cm",
+            "B": "10cm\u00d75cm",
+            "C": "7cm\u00d77cm",
+            "D": "9cm\u00d76cm"
+        }
+    },
+    {
+        "question": "Which statement is always true about rectangles?",
+        "answer": "C",
+        "options": {
+            "A": "Shapes with the same area have the same perimeter",
+            "B": "Shapes with the same perimeter have the same area",
+            "C": "A square has the smallest perimeter for a given area",
+            "D": "A rectangle always has a larger area than a square"
+        }
+    },
+    {
+        "question": "A rectangle has a perimeter of 24cm and an area of 35cm\u00b2 (7\u00d75). Another rectangle has a perimeter of 24cm. What could its dimensions be?",
+        "answer": "C",
+        "options": {
+            "A": "8cm by 4cm",
+            "B": "9cm by 4cm",
+            "C": "10cm by 2cm",
+            "D": "7cm by 6cm"
+        }
+    },
+    {
+        "question": "Can two squares have the same perimeter but different areas?",
+        "answer": "B",
+        "options": {
+            "A": "Yes",
+            "B": "No, all squares with the same perimeter have the same side length",
+            "C": "Only if they are different sizes",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "A rectangle is 9cm by 4cm (Perim=26, Area=36). A square has the same area. What is its side length?",
+        "answer": "A",
+        "options": {
+            "A": "6cm",
+            "B": "9cm",
+            "C": "4cm",
+            "D": "7cm"
+        }
+    },
+    {
+        "question": "Which rectangle has the same area as a 6cm\u00d76cm square but a different perimeter?",
+        "answer": "A",
+        "options": {
+            "A": "9cm by 4cm",
+            "B": "8cm by 4cm",
+            "C": "12cm by 2cm",
+            "D": "7cm by 6cm"
+        }
+    },
+    {
+        "question": "True or False: If two rectangles have the same perimeter, the one closest to a square shape has the larger area.",
+        "answer": "A",
+        "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Sometimes",
+            "D": "Only for perimeters over 20cm"
+        }
+    },
+    {
+        "question": "A 5cm\u00d75cm square has the same perimeter as which of these rectangles?",
+        "answer": "A",
+        "options": {
+            "A": "6cm by 4cm",
+            "B": "7cm by 2cm",
+            "C": "8cm by 3cm",
+            "D": "9cm by 2cm"
+        }
+    },
+    {
+        "question": "Two rectangles have the same area of 30 cm\u00b2. One is 5cm\u00d76cm. Which could NOT be the other?",
+        "answer": "D",
+        "options": {
+            "A": "10cm\u00d73cm",
+            "B": "15cm\u00d72cm",
+            "C": "30cm\u00d71cm",
+            "D": "7cm\u00d74cm"
+        }
+    },
+    {
+        "question": "Which has the larger area: A rectangle with perimeter 20cm (sides 6&4) or a square with perimeter 20cm (sides 5&5)?",
+        "answer": "B",
+        "options": {
+            "A": "The rectangle (24cm\u00b2)",
+            "B": "The square (25cm\u00b2)",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "A shape has an area of 24 cm\u00b2. Which dimensions give the largest perimeter?",
+        "answer": "D",
+        "options": {
+            "A": "6cm\u00d74cm (Perim=20)",
+            "B": "8cm\u00d73cm (Perim=22)",
+            "C": "12cm\u00d72cm (Perim=28)",
+            "D": "24cm\u00d71cm (Perim=50)"
+        }
+    },
+    {
+        "question": "Can a rectangle have the same perimeter as a square but a larger area?",
+        "answer": "B",
+        "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Only if the rectangle is a square",
+            "D": "Never"
+        }
+    },
+    {
+        "question": "Rectangle A: 7cm\u00d73cm (Area=21, Perim=20). Rectangle B: 5cm\u00d74cm (Area=20, Perim=18). Which has the larger area?",
+        "answer": "A",
+        "options": {
+            "A": "A",
+            "B": "B",
+            "C": "Equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Rectangle A: 7cm\u00d73cm. Rectangle B: 5cm\u00d74cm. Which has the larger perimeter?",
+        "answer": "A",
+        "options": {
+            "A": "A (20cm)",
+            "B": "B (18cm)",
+            "C": "Equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Two shapes have the same perimeter. Can one be a square and one be a rectangle that is not a square?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Only if areas are equal",
+            "D": "Never"
+        }
+    },
+    {
+        "question": "A 4cm\u00d74cm square has area 16cm\u00b2. Which rectangle has the same perimeter but smaller area?",
+        "answer": "A",
+        "options": {
+            "A": "5cm by 3cm (Area=15)",
+            "B": "6cm by 3cm (Area=18)",
+            "C": "2cm by 8cm (Area=16)",
+            "D": "7cm by 2cm (Area=14)"
+        }
+    },
+    {
+        "question": "Which of these pairs of rectangles have the same area but different perimeters?",
+        "answer": "A",
+        "options": {
+            "A": "8\u00d72 and 4\u00d74",
+            "B": "5\u00d73 and 3\u00d75",
+            "C": "6\u00d73 and 9\u00d72",
+            "D": "7\u00d72 and 8\u00d72"
+        }
+    },
+    {
+        "question": "True or False: Doubling the sides of a rectangle doubles the perimeter and doubles the area.",
+        "answer": "B",
+        "options": {
+            "A": "True",
+            "B": "False, perimeter doubles but area quadruples",
+            "C": "False, area doubles but perimeter stays same",
+            "D": "False, both quadruple"
+        }
+    },
+    {
+        "question": "Can you use the formula length \u00d7 width to find the area of a rectangle with sides 5cm and 3cm?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No, you must count squares",
+            "C": "Only if it is a square",
+            "D": "Only if it is drawn on a grid"
+        }
+    },
+    {
+        "question": "Can you use a formula to find the area of an irregular shape drawn on a centimetre square grid?",
+        "answer": "B",
+        "options": {
+            "A": "Yes, use length \u00d7 width",
+            "B": "No, count the squares",
+            "C": "Yes, use base \u00d7 height",
+            "D": "Yes, add up the sides"
+        }
+    },
+    {
+        "question": "To find the volume of a cuboid, can you always use the formula length \u00d7 width \u00d7 height?",
+        "answer": "A",
+        "options": {
+            "A": "Yes, for any cuboid",
+            "B": "No, only if it is a cube",
+            "C": "No, you must count the unit cubes",
+            "D": "Only if the units are centimetres"
+        }
+    },
+    {
+        "question": "Which shape's area can be found using the formula base \u00d7 height?",
+        "answer": "A",
+        "options": {
+            "A": "Parallelogram",
+            "B": "Circle",
+            "C": "Triangle",
+            "D": "Trapezium"
+        }
+    },
+    {
+        "question": "Can you use the formula \u00bd \u00d7 base \u00d7 height to find the area of a triangle with base 8cm and height 4cm?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No, you must count squares",
+            "C": "Only if it is right-angled",
+            "D": "Only if it is drawn on a grid"
+        }
+    },
+    {
+        "question": "Which of these shapes does NOT have a standard formula for area that uses only base and height?",
+        "answer": "C",
+        "options": {
+            "A": "Parallelogram",
+            "B": "Rectangle",
+            "C": "Circle",
+            "D": "Triangle"
+        }
+    },
+    {
+        "question": "Can you use the formula length \u00d7 width \u00d7 height to find the volume of a cube with side 3cm?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No, use side\u00b3",
+            "C": "No, count the cubes",
+            "D": "Only if you know it is a cube"
+        }
+    },
+    {
+        "question": "To find the area of a shape made of two rectangles joined together (compound shape), should you?",
+        "answer": "B",
+        "options": {
+            "A": "Use one formula for the whole shape",
+            "B": "Split into parts, use formula for each part, then add",
+            "C": "Count all squares",
+            "D": "Use base \u00d7 height for the whole shape"
+        }
+    },
+    {
+        "question": "Can you use a formula to find the volume of a sphere?",
+        "answer": "A",
+        "options": {
+            "A": "Yes, (4/3)\u03c0r\u00b3",
+            "B": "No, there is no formula",
+            "C": "Only if you know the diameter",
+            "D": "Only by water displacement"
+        }
+    },
+    {
+        "question": "Which measurement requires the use of a formula rather than direct counting?",
+        "answer": "D",
+        "options": {
+            "A": "Area of a rectangle on a grid",
+            "B": "Volume of a cuboid made of unit cubes",
+            "C": "Area of a parallelogram on a grid",
+            "D": "Volume of a cuboid not made of visible unit cubes"
+        }
+    },
+    {
+        "question": "Which method is most accurate for finding the area of a circle?",
+        "answer": "B",
+        "options": {
+            "A": "Counting squares on a grid",
+            "B": "Using the formula \u03c0r\u00b2",
+            "C": "Measuring the diameter and doubling it",
+            "D": "Estimating by eye"
+        }
+    },
+    {
+        "question": "Is it possible to use a formula to find the perimeter of a rectangle?",
+        "answer": "A",
+        "options": {
+            "A": "Yes, 2\u00d7(l+w)",
+            "B": "No, you must add the sides individually",
+            "C": "Only for squares",
+            "D": "Only if you know the area"
+        }
+    },
+    {
+        "question": "Which shape's area is found by counting squares on a grid?",
+        "answer": "A",
+        "options": {
+            "A": "Irregular shape",
+            "B": "Rectangle",
+            "C": "Parallelogram",
+            "D": "Triangle"
+        }
+    },
+    {
+        "question": "Can you use the formula \u00bd \u00d7 base \u00d7 height to find the area of any triangle?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No, only right-angled triangles",
+            "C": "No, only isosceles triangles",
+            "D": "No, only equilateral triangles"
+        }
+    },
+    {
+        "question": "If a shape is not a standard rectangle, triangle, parallelogram, or cuboid, how do you find its area or volume?",
+        "answer": "B",
+        "options": {
+            "A": "Use a standard formula anyway",
+            "B": "Count squares (area) or cubes (volume) or decompose into standard shapes",
+            "C": "It cannot be found",
+            "D": "Guess"
+        }
+    },
+    {
+        "question": "Which formula would you use to find the area of a parallelogram with base 10cm, height 5cm, and side 6cm?",
+        "answer": "B",
+        "options": {
+            "A": "10 \u00d7 6",
+            "B": "10 \u00d7 5",
+            "C": "(10+6)\u00d72",
+            "D": "10 + 5"
+        }
+    },
+    {
+        "question": "Can you find the volume of a cuboid by counting unit cubes if the dimensions are 5.5cm \u00d7 2cm \u00d7 3cm?",
+        "answer": "B",
+        "options": {
+            "A": "Yes, easily",
+            "B": "No, because of the decimal, use the formula",
+            "C": "Only if the cubes are half-cm size",
+            "D": "You cannot find the volume"
+        }
+    },
+    {
+        "question": "To find the area of a right-angled triangle, can you use \u00bd \u00d7 base \u00d7 height?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No, use base \u00d7 height",
+            "C": "No, use \u00bd \u00d7 base \u00d7 height only for non-right-angled",
+            "D": "No, count squares"
+        }
+    },
+    {
+        "question": "Which requires using the formula for the volume of a cuboid?",
+        "answer": "B",
+        "options": {
+            "A": "Finding how many 1cm cubes fill a box",
+            "B": "Finding the space inside a box with dimensions 2.5cm \u00d7 3cm \u00d7 4cm",
+            "C": "Counting the faces of a box",
+            "D": "Finding the perimeter of a box"
+        }
+    },
+    {
+        "question": "Can you use the formula length \u00d7 width to find the area of a parallelogram?",
+        "answer": "B",
+        "options": {
+            "A": "Yes",
+            "B": "No, use base \u00d7 height",
+            "C": "Only if it is a rectangle",
+            "D": "Yes, but divide by 2"
+        }
+    },
+    {
+        "question": "Is it possible to use a formula to find the surface area of a cuboid?",
+        "answer": "A",
+        "options": {
+            "A": "Yes, 2(lw + lh + wh)",
+            "B": "No, you must count all faces",
+            "C": "Only if it is a cube",
+            "D": "Only if you know the volume"
+        }
+    },
+    {
+        "question": "What method should you use to find the area of an L-shaped room?",
+        "answer": "B",
+        "options": {
+            "A": "One formula for the L-shape",
+            "B": "Split into rectangles, use formula for each, then add",
+            "C": "Use base \u00d7 height of the whole L",
+            "D": "Count the tiles"
+        }
+    },
+    {
+        "question": "If a triangle is drawn on a grid, can you always count the squares to find its exact area?",
+        "answer": "B",
+        "options": {
+            "A": "Yes",
+            "B": "No, use the formula \u00bdbh",
+            "C": "Only if it is right-angled",
+            "D": "Only if the base is on the grid line"
+        }
+    },
+    {
+        "question": "Which shape's volume can be found using the formula side\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Cylinder",
+            "D": "Sphere"
+        }
+    },
+    {
+        "question": "When can you use the formula length \u00d7 width to find the area of a parallelogram?",
+        "answer": "B",
+        "options": {
+            "A": "Always",
+            "B": "Only when it is a rectangle",
+            "C": "Never",
+            "D": "Only when height equals width"
+        }
+    },
+    {
+        "question": "Which formula works for the area of both rectangles and parallelograms?",
+        "answer": "B",
+        "options": {
+            "A": "length \u00d7 width",
+            "B": "base \u00d7 height",
+            "C": "side \u00d7 side",
+            "D": "Both A and B"
+        }
+    },
+    {
+        "question": "To find the volume of a complex shape made of two cuboids joined together, should you?",
+        "answer": "B",
+        "options": {
+            "A": "Use length \u00d7 width \u00d7 height for the whole shape",
+            "B": "Find the volume of each cuboid using the formula and add them together",
+            "C": "Count all the unit cubes",
+            "D": "Use the area formula"
+        }
+    },
+    {
+        "question": "Can you use the formula for the area of a triangle on a parallelogram?",
+        "answer": "B",
+        "options": {
+            "A": "Yes, it always works",
+            "B": "Yes, if the parallelogram is made of two identical triangles",
+            "C": "No, different shapes",
+            "D": "Only if the base is the same"
+        }
+    },
+    {
+        "question": "True or False: You can only use formulae for regular shapes.",
+        "answer": "B",
+        "options": {
+            "A": "True",
+            "B": "False, you can use them for irregular shapes too if you decompose them",
+            "C": "False, but you can only use them for 2D shapes",
+            "D": "True for area but false for volume"
+        }
+    },
+    {
+        "question": "If you know the area of a rectangle and its length, can you use a formula to find the width?",
+        "answer": "A",
+        "options": {
+            "A": "Yes, width = Area \u00f7 length",
+            "B": "No, you must guess",
+            "C": "Only if it is a square",
+            "D": "Only by measuring"
+        }
+    },
+    {
+        "question": "Which statement is true about using formulae for area?",
+        "answer": "B",
+        "options": {
+            "A": "Formulae only work for squares",
+            "B": "Formulae work for standard shapes like rectangles, triangles, and parallelograms",
+            "C": "Formulae never work for volume",
+            "D": "You can only use formulae if the shape is drawn on a grid"
+        }
+    },
+    {
+        "question": "What is the area of a parallelogram with base 8cm and height 5cm?",
+        "answer": "C",
+        "options": {
+            "A": "13 cm\u00b2",
+            "B": "26 cm\u00b2",
+            "C": "40 cm\u00b2",
+            "D": "20 cm\u00b2"
+        }
+    },
+    {
+        "question": "A triangle has a base of 10cm and a height of 4cm. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "40 cm\u00b2",
+            "B": "20 cm\u00b2",
+            "C": "14 cm\u00b2",
+            "D": "28 cm\u00b2"
+        }
+    },
+    {
+        "question": "Find the area of a parallelogram with base 12cm and height 3cm.",
+        "answer": "A",
+        "options": {
+            "A": "36 cm\u00b2",
+            "B": "15 cm\u00b2",
+            "C": "72 cm\u00b2",
+            "D": "30 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 6cm and height 8cm?",
+        "answer": "B",
+        "options": {
+            "A": "48 cm\u00b2",
+            "B": "24 cm\u00b2",
+            "C": "28 cm\u00b2",
+            "D": "14 cm\u00b2"
+        }
+    },
+    {
+        "question": "A parallelogram has base 7.5cm and height 4cm. What is the area?",
+        "answer": "A",
+        "options": {
+            "A": "30 cm\u00b2",
+            "B": "11.5 cm\u00b2",
+            "C": "60 cm\u00b2",
+            "D": "3.5 cm\u00b2"
+        }
+    },
+    {
+        "question": "Calculate the area of a triangle with base 12cm and height 5cm.",
+        "answer": "B",
+        "options": {
+            "A": "60 cm\u00b2",
+            "B": "30 cm\u00b2",
+            "C": "17 cm\u00b2",
+            "D": "34 cm\u00b2"
+        }
+    },
+    {
+        "question": "Find the area of a parallelogram with base 9cm and perpendicular height 6cm.",
+        "answer": "A",
+        "options": {
+            "A": "54 cm\u00b2",
+            "B": "30 cm\u00b2",
+            "C": "15 cm\u00b2",
+            "D": "108 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with a base of 8cm and a height of 7cm?",
+        "answer": "B",
+        "options": {
+            "A": "56 cm\u00b2",
+            "B": "28 cm\u00b2",
+            "C": "30 cm\u00b2",
+            "D": "15 cm\u00b2"
+        }
+    },
+    {
+        "question": "A parallelogram has base 10cm and height 10cm. What is its area?",
+        "answer": "A",
+        "options": {
+            "A": "100 cm\u00b2",
+            "B": "40 cm\u00b2",
+            "C": "20 cm\u00b2",
+            "D": "50 cm\u00b2"
+        }
+    },
+    {
+        "question": "Calculate the area of a triangle with base 15cm and height 4cm.",
+        "answer": "B",
+        "options": {
+            "A": "60 cm\u00b2",
+            "B": "30 cm\u00b2",
+            "C": "19 cm\u00b2",
+            "D": "34 cm\u00b2"
+        }
+    },
+    {
+        "question": "Find the area of a parallelogram with base 5cm and height 12cm.",
+        "answer": "C",
+        "options": {
+            "A": "17 cm\u00b2",
+            "B": "34 cm\u00b2",
+            "C": "60 cm\u00b2",
+            "D": "120 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 20cm and height 3cm?",
+        "answer": "B",
+        "options": {
+            "A": "60 cm\u00b2",
+            "B": "30 cm\u00b2",
+            "C": "23 cm\u00b2",
+            "D": "46 cm\u00b2"
+        }
+    },
+    {
+        "question": "A parallelogram has base 6cm and slanted side 5cm. The perpendicular height is 4cm. What is the area?",
+        "answer": "B",
+        "options": {
+            "A": "30 cm\u00b2",
+            "B": "24 cm\u00b2",
+            "C": "20 cm\u00b2",
+            "D": "11 cm\u00b2"
+        }
+    },
+    {
+        "question": "Calculate the area of a triangle with base 9cm and height 6cm.",
+        "answer": "B",
+        "options": {
+            "A": "54 cm\u00b2",
+            "B": "27 cm\u00b2",
+            "C": "15 cm\u00b2",
+            "D": "30 cm\u00b2"
+        }
+    },
+    {
+        "question": "Find the area of a parallelogram with base 8.5cm and height 2cm.",
+        "answer": "A",
+        "options": {
+            "A": "17 cm\u00b2",
+            "B": "10.5 cm\u00b2",
+            "C": "21 cm\u00b2",
+            "D": "34 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 7cm and height 10cm?",
+        "answer": "B",
+        "options": {
+            "A": "70 cm\u00b2",
+            "B": "35 cm\u00b2",
+            "C": "17 cm\u00b2",
+            "D": "34 cm\u00b2"
+        }
+    },
+    {
+        "question": "A parallelogram has base 11cm and height 5cm. What is its area?",
+        "answer": "A",
+        "options": {
+            "A": "55 cm\u00b2",
+            "B": "32 cm\u00b2",
+            "C": "110 cm\u00b2",
+            "D": "16 cm\u00b2"
+        }
+    },
+    {
+        "question": "Calculate the area of a triangle with base 4cm and height 9cm.",
+        "answer": "B",
+        "options": {
+            "A": "36 cm\u00b2",
+            "B": "18 cm\u00b2",
+            "C": "13 cm\u00b2",
+            "D": "26 cm\u00b2"
+        }
+    },
+    {
+        "question": "Find the area of a parallelogram with base 3cm and height 8cm.",
+        "answer": "A",
+        "options": {
+            "A": "24 cm\u00b2",
+            "B": "11 cm\u00b2",
+            "C": "48 cm\u00b2",
+            "D": "5 cm\u00b2"
+        }
+    },
+    {
+        "question": "A triangle has area 24 cm\u00b2 and base 8cm. What is its height?",
+        "answer": "B",
+        "options": {
+            "A": "3 cm",
+            "B": "6 cm",
+            "C": "12 cm",
+            "D": "48 cm"
+        }
+    },
+    {
+        "question": "A parallelogram has area 36 cm\u00b2 and base 9cm. What is the height?",
+        "answer": "A",
+        "options": {
+            "A": "4 cm",
+            "B": "8 cm",
+            "C": "2 cm",
+            "D": "27 cm"
+        }
+    },
+    {
+        "question": "Calculate the area of a triangle with base 5.5cm and height 4cm.",
+        "answer": "B",
+        "options": {
+            "A": "22 cm\u00b2",
+            "B": "11 cm\u00b2",
+            "C": "9.5 cm\u00b2",
+            "D": "19 cm\u00b2"
+        }
+    },
+    {
+        "question": "Find the area of a parallelogram with base 7cm and height 7cm.",
+        "answer": "A",
+        "options": {
+            "A": "49 cm\u00b2",
+            "B": "28 cm\u00b2",
+            "C": "14 cm\u00b2",
+            "D": "98 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 16cm and height 5cm?",
+        "answer": "B",
+        "options": {
+            "A": "80 cm\u00b2",
+            "B": "40 cm\u00b2",
+            "C": "21 cm\u00b2",
+            "D": "42 cm\u00b2"
+        }
+    },
+    {
+        "question": "A parallelogram has base 4cm and height 15cm. What is its area?",
+        "answer": "A",
+        "options": {
+            "A": "60 cm\u00b2",
+            "B": "19 cm\u00b2",
+            "C": "30 cm\u00b2",
+            "D": "120 cm\u00b2"
+        }
+    },
+    {
+        "question": "Calculate the area of a triangle with base 3cm and height 14cm.",
+        "answer": "B",
+        "options": {
+            "A": "42 cm\u00b2",
+            "B": "21 cm\u00b2",
+            "C": "17 cm\u00b2",
+            "D": "34 cm\u00b2"
+        }
+    },
+    {
+        "question": "Find the area of a parallelogram with base 12.5cm and height 4cm.",
+        "answer": "A",
+        "options": {
+            "A": "50 cm\u00b2",
+            "B": "16.5 cm\u00b2",
+            "C": "100 cm\u00b2",
+            "D": "25 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 11cm and height 4cm?",
+        "answer": "B",
+        "options": {
+            "A": "44 cm\u00b2",
+            "B": "22 cm\u00b2",
+            "C": "15 cm\u00b2",
+            "D": "26 cm\u00b2"
+        }
+    },
+    {
+        "question": "A parallelogram has height 6cm and area 42 cm\u00b2. What is the base?",
+        "answer": "A",
+        "options": {
+            "A": "7 cm",
+            "B": "14 cm",
+            "C": "3.5 cm",
+            "D": "36 cm"
+        }
+    },
+    {
+        "question": "Calculate the area of a triangle with base 9cm and height 8cm.",
+        "answer": "B",
+        "options": {
+            "A": "72 cm\u00b2",
+            "B": "36 cm\u00b2",
+            "C": "17 cm\u00b2",
+            "D": "34 cm\u00b2"
+        }
+    },
+    {
+        "question": "Find the area of a parallelogram with base 6cm and height 9cm.",
+        "answer": "A",
+        "options": {
+            "A": "54 cm\u00b2",
+            "B": "30 cm\u00b2",
+            "C": "108 cm\u00b2",
+            "D": "15 cm\u00b2"
+        }
+    },
+    {
+        "question": "A triangle has height 12cm and area 48 cm\u00b2. What is the base?",
+        "answer": "B",
+        "options": {
+            "A": "4 cm",
+            "B": "8 cm",
+            "C": "16 cm",
+            "D": "24 cm"
+        }
+    },
+    {
+        "question": "What is the area of a parallelogram with base 10cm and height 3.5cm?",
+        "answer": "A",
+        "options": {
+            "A": "35 cm\u00b2",
+            "B": "13.5 cm\u00b2",
+            "C": "70 cm\u00b2",
+            "D": "17 cm\u00b2"
+        }
+    },
+    {
+        "question": "Calculate the area of a triangle with base 7cm and height 6cm.",
+        "answer": "B",
+        "options": {
+            "A": "42 cm\u00b2",
+            "B": "21 cm\u00b2",
+            "C": "13 cm\u00b2",
+            "D": "26 cm\u00b2"
+        }
+    },
+    {
+        "question": "A parallelogram has base 5cm and height 10cm. What is the area?",
+        "answer": "A",
+        "options": {
+            "A": "50 cm\u00b2",
+            "B": "30 cm\u00b2",
+            "C": "15 cm\u00b2",
+            "D": "100 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the volume of a cuboid measuring 3cm \u00d7 4cm \u00d7 5cm?",
+        "answer": "C",
+        "options": {
+            "A": "12 cm\u00b3",
+            "B": "20 cm\u00b3",
+            "C": "60 cm\u00b3",
+            "D": "35 cm\u00b3"
+        }
+    },
+    {
+        "question": "A cube has sides of length 3cm. What is its volume?",
+        "answer": "C",
+        "options": {
+            "A": "9 cm\u00b3",
+            "B": "18 cm\u00b3",
+            "C": "27 cm\u00b3",
+            "D": "36 cm\u00b3"
+        }
+    },
+    {
+        "question": "Calculate the volume of a cuboid with length 6cm, width 5cm, and height 2cm.",
+        "answer": "B",
+        "options": {
+            "A": "13 cm\u00b3",
+            "B": "60 cm\u00b3",
+            "C": "30 cm\u00b3",
+            "D": "120 cm\u00b3"
+        }
+    },
+    {
+        "question": "What is the volume of a cube with side length 5cm?",
+        "answer": "B",
+        "options": {
+            "A": "25 cm\u00b3",
+            "B": "125 cm\u00b3",
+            "C": "15 cm\u00b3",
+            "D": "100 cm\u00b3"
+        }
+    },
+    {
+        "question": "A box measures 10cm \u00d7 5cm \u00d7 4cm. What is its volume in cubic centimetres?",
+        "answer": "B",
+        "options": {
+            "A": "19 cm\u00b3",
+            "B": "200 cm\u00b3",
+            "C": "50 cm\u00b3",
+            "D": "100 cm\u00b3"
+        }
+    },
+    {
+        "question": "Find the volume of a cuboid with dimensions 2cm \u00d7 3cm \u00d7 7cm.",
+        "answer": "A",
+        "options": {
+            "A": "42 cm\u00b3",
+            "B": "12 cm\u00b3",
+            "C": "13 cm\u00b3",
+            "D": "21 cm\u00b3"
+        }
+    },
+    {
+        "question": "A wooden block is 5cm long, 5cm wide and 5cm high. What is its volume?",
+        "answer": "D",
+        "options": {
+            "A": "15 cm\u00b3",
+            "B": "25 cm\u00b3",
+            "C": "75 cm\u00b3",
+            "D": "125 cm\u00b3"
+        }
+    },
+    {
+        "question": "Calculate the volume of a cube with side length 2m.",
+        "answer": "B",
+        "options": {
+            "A": "6 m\u00b3",
+            "B": "8 m\u00b3",
+            "C": "4 m\u00b3",
+            "D": "12 m\u00b3"
+        }
+    },
+    {
+        "question": "What is the volume of a cuboid measuring 8cm \u00d7 3cm \u00d7 2cm?",
+        "answer": "B",
+        "options": {
+            "A": "13 cm\u00b3",
+            "B": "48 cm\u00b3",
+            "C": "24 cm\u00b3",
+            "D": "96 cm\u00b3"
+        }
+    },
+    {
+        "question": "A tank has volume 1 m\u00b3. How many cubic centimetres is this?",
+        "answer": "D",
+        "options": {
+            "A": "1000 cm\u00b3",
+            "B": "10000 cm\u00b3",
+            "C": "100000 cm\u00b3",
+            "D": "1000000 cm\u00b3"
+        }
+    },
+    {
+        "question": "Convert 5000 cm\u00b3 to litres (1 litre = 1000 cm\u00b3).",
+        "answer": "B",
+        "options": {
+            "A": "0.5 litres",
+            "B": "5 litres",
+            "C": "50 litres",
+            "D": "500 litres"
+        }
+    },
+    {
+        "question": "Which has the greater volume: A cube of side 3cm or a cuboid 5cm \u00d7 3cm \u00d7 2cm?",
+        "answer": "B",
+        "options": {
+            "A": "The cube (27 cm\u00b3)",
+            "B": "The cuboid (30 cm\u00b3)",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "How many cubic millimetres are in 1 cubic centimetre?",
+        "answer": "C",
+        "options": {
+            "A": "10 mm\u00b3",
+            "B": "100 mm\u00b3",
+            "C": "1000 mm\u00b3",
+            "D": "1000000 mm\u00b3"
+        }
+    },
+    {
+        "question": "Convert 2 m\u00b3 into cm\u00b3.",
+        "answer": "D",
+        "options": {
+            "A": "2000 cm\u00b3",
+            "B": "20000 cm\u00b3",
+            "C": "200000 cm\u00b3",
+            "D": "2000000 cm\u00b3"
+        }
+    },
+    {
+        "question": "A container holds 5 litres. How many cubic centimetres is this?",
+        "answer": "D",
+        "options": {
+            "A": "5 cm\u00b3",
+            "B": "50 cm\u00b3",
+            "C": "500 cm\u00b3",
+            "D": "5000 cm\u00b3"
+        }
+    },
+    {
+        "question": "What is the volume of a cuboid with length 10cm, width 5cm and height 0.5cm?",
+        "answer": "A",
+        "options": {
+            "A": "25 cm\u00b3",
+            "B": "250 cm\u00b3",
+            "C": "2.5 cm\u00b3",
+            "D": "15.5 cm\u00b3"
+        }
+    },
+    {
+        "question": "A cube has volume 64 cm\u00b3. What is the length of one side?",
+        "answer": "A",
+        "options": {
+            "A": "4 cm",
+            "B": "8 cm",
+            "C": "16 cm",
+            "D": "32 cm"
+        }
+    },
+    {
+        "question": "Estimate the volume of a cube with side length 9.5cm.",
+        "answer": "B",
+        "options": {
+            "A": "Around 500 cm\u00b3",
+            "B": "Around 850 cm\u00b3",
+            "C": "Around 1000 cm\u00b3",
+            "D": "Around 125 cm\u00b3"
+        }
+    },
+    {
+        "question": "Which unit would be best to measure the volume of a classroom?",
+        "answer": "C",
+        "options": {
+            "A": "cm\u00b3",
+            "B": "mm\u00b3",
+            "C": "m\u00b3",
+            "D": "km\u00b3"
+        }
+    },
+    {
+        "question": "A box has volume 120 cm\u00b3. If the length is 5cm and width is 4cm, what is the height?",
+        "answer": "A",
+        "options": {
+            "A": "6 cm",
+            "B": "12 cm",
+            "C": "3 cm",
+            "D": "24 cm"
+        }
+    },
+    {
+        "question": "Compare the volumes: Cuboid A is 4\u00d73\u00d75 cm. Cuboid B is 6\u00d72\u00d75 cm. Which is larger?",
+        "answer": "C",
+        "options": {
+            "A": "A (60 cm\u00b3)",
+            "B": "B (60 cm\u00b3)",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Convert 3.5 m\u00b3 to cm\u00b3.",
+        "answer": "B",
+        "options": {
+            "A": "3500 cm\u00b3",
+            "B": "3500000 cm\u00b3",
+            "C": "350000 cm\u00b3",
+            "D": "35000 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many cubic metres are in 5000000 cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "5 m\u00b3",
+            "B": "50 m\u00b3",
+            "C": "0.5 m\u00b3",
+            "D": "500 m\u00b3"
+        }
+    },
+    {
+        "question": "A medicine bottle holds 250 cm\u00b3. This is the same as:",
+        "answer": "C",
+        "options": {
+            "A": "25 litres",
+            "B": "2.5 litres",
+            "C": "0.25 litres",
+            "D": "2500 litres"
+        }
+    },
+    {
+        "question": "What is the approximate volume of a dice (cube of side 1.5cm)?",
+        "answer": "B",
+        "options": {
+            "A": "1.5 cm\u00b3",
+            "B": "3.375 cm\u00b3",
+            "C": "4.5 cm\u00b3",
+            "D": "2.25 cm\u00b3"
+        }
+    },
+    {
+        "question": "Is 2500 cm\u00b3 larger than 2.5 litres?",
+        "answer": "B",
+        "options": {
+            "A": "Yes",
+            "B": "No, they are equal",
+            "C": "No, 2500 cm\u00b3 is smaller",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "A cuboid has dimensions 2m \u00d7 3m \u00d7 4m. What is its volume in cubic metres?",
+        "answer": "C",
+        "options": {
+            "A": "9 m\u00b3",
+            "B": "14 m\u00b3",
+            "C": "24 m\u00b3",
+            "D": "48 m\u00b3"
+        }
+    },
+    {
+        "question": "How many cubic centimetres are in 0.5 litres?",
+        "answer": "C",
+        "options": {
+            "A": "5 cm\u00b3",
+            "B": "50 cm\u00b3",
+            "C": "500 cm\u00b3",
+            "D": "5000 cm\u00b3"
+        }
+    },
+    {
+        "question": "Which cuboid has a volume of 48 cm\u00b3?",
+        "answer": "C",
+        "options": {
+            "A": "2cm \u00d7 3cm \u00d7 4cm",
+            "B": "4cm \u00d7 4cm \u00d7 4cm",
+            "C": "2cm \u00d7 3cm \u00d7 8cm",
+            "D": "2cm \u00d7 2cm \u00d7 4cm"
+        }
+    },
+    {
+        "question": "A fish tank is 50cm long, 30cm wide and 40cm high. What is its volume in litres?",
+        "answer": "B",
+        "options": {
+            "A": "6 litres",
+            "B": "60 litres",
+            "C": "600 litres",
+            "D": "60000 litres"
+        }
+    },
+    {
+        "question": "Estimate the volume of a shoe box measuring 30cm \u00d7 20cm \u00d7 10cm.",
+        "answer": "C",
+        "options": {
+            "A": "60 cm\u00b3",
+            "B": "600 cm\u00b3",
+            "C": "6000 cm\u00b3",
+            "D": "60000 cm\u00b3"
+        }
+    },
+    {
+        "question": "Convert 1.5 km\u00b3 to m\u00b3.",
+        "answer": "B",
+        "options": {
+            "A": "1500000 m\u00b3",
+            "B": "1500000000 m\u00b3",
+            "C": "1500 m\u00b3",
+            "D": "150000 m\u00b3"
+        }
+    },
+    {
+        "question": "Is 1000 cm\u00b3 the same as 1 litre?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Yes, but only for water",
+            "D": "No, 1 litre = 100 cm\u00b3"
+        }
+    },
+    {
+        "question": "A container holds 0.75 m\u00b3. How many cubic centimetres is this?",
+        "answer": "A",
+        "options": {
+            "A": "750000 cm\u00b3",
+            "B": "7500000 cm\u00b3",
+            "C": "75000 cm\u00b3",
+            "D": "750 cm\u00b3"
+        }
+    },
+    {
+        "question": "What is the volume of a cube with side length 10mm in cm\u00b3?",
+        "answer": "B",
+        "options": {
+            "A": "10 cm\u00b3",
+            "B": "1 cm\u00b3",
+            "C": "100 cm\u00b3",
+            "D": "1000 cm\u00b3"
+        }
+    },
+    {
+        "question": "Convert 2.75 kilograms to grams.",
+        "answer": "B",
+        "options": {
+            "A": "275 g",
+            "B": "2750 g",
+            "C": "27500 g",
+            "D": "27.5 g"
+        }
+    },
+    {
+        "question": "Convert 4.008 kilometres to metres.",
+        "answer": "B",
+        "options": {
+            "A": "400.8 m",
+            "B": "4008 m",
+            "C": "40008 m",
+            "D": "40.08 m"
+        }
+    },
+    {
+        "question": "How many litres are in 3250 millilitres?",
+        "answer": "B",
+        "options": {
+            "A": "32.5 l",
+            "B": "3.25 l",
+            "C": "0.325 l",
+            "D": "325 l"
+        }
+    },
+    {
+        "question": "Convert 0.085 metres to millimetres.",
+        "answer": "B",
+        "options": {
+            "A": "8.5 mm",
+            "B": "85 mm",
+            "C": "850 mm",
+            "D": "0.85 mm"
+        }
+    },
+    {
+        "question": "A ribbon is 1.125 metres long. How many centimetres is this?",
+        "answer": "B",
+        "options": {
+            "A": "11.25 cm",
+            "B": "112.5 cm",
+            "C": "1125 cm",
+            "D": "11250 cm"
+        }
+    },
+    {
+        "question": "Convert 950 grams to kilograms.",
+        "answer": "B",
+        "options": {
+            "A": "9.5 kg",
+            "B": "0.95 kg",
+            "C": "0.095 kg",
+            "D": "95 kg"
+        }
+    },
+    {
+        "question": "A jug contains 1.505 litres. How many millilitres is this?",
+        "answer": "C",
+        "options": {
+            "A": "15.05 ml",
+            "B": "150.5 ml",
+            "C": "1505 ml",
+            "D": "15050 ml"
+        }
+    },
+    {
+        "question": "Convert 6.25 hours to minutes.",
+        "answer": "A",
+        "options": {
+            "A": "375 minutes",
+            "B": "385 minutes",
+            "C": "365 minutes",
+            "D": "625 minutes"
+        }
+    },
+    {
+        "question": "How many hours is 210 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "2.1 hours",
+            "B": "3.5 hours",
+            "C": "2.5 hours",
+            "D": "21 hours"
+        }
+    },
+    {
+        "question": "Convert 3 days 12 hours to hours.",
+        "answer": "C",
+        "options": {
+            "A": "312 hours",
+            "B": "36 hours",
+            "C": "84 hours",
+            "D": "90 hours"
+        }
+    },
+    {
+        "question": "A tank holds 0.625 litres. How many millilitres is this?",
+        "answer": "B",
+        "options": {
+            "A": "62.5 ml",
+            "B": "625 ml",
+            "C": "6.25 ml",
+            "D": "6250 ml"
+        }
+    },
+    {
+        "question": "Convert 4 metres 5 centimetres to metres.",
+        "answer": "B",
+        "options": {
+            "A": "4.5 m",
+            "B": "4.05 m",
+            "C": "45 m",
+            "D": "0.45 m"
+        }
+    },
+    {
+        "question": "How many kilometres are in 550 metres?",
+        "answer": "B",
+        "options": {
+            "A": "5.5 km",
+            "B": "0.55 km",
+            "C": "0.055 km",
+            "D": "55 km"
+        }
+    },
+    {
+        "question": "Convert 2.008 kilograms to grams.",
+        "answer": "B",
+        "options": {
+            "A": "200.8 g",
+            "B": "2008 g",
+            "C": "20080 g",
+            "D": "20.08 g"
+        }
+    },
+    {
+        "question": "A journey takes 90 minutes. How many hours is this?",
+        "answer": "B",
+        "options": {
+            "A": "9 hours",
+            "B": "1.5 hours",
+            "C": "0.9 hours",
+            "D": "1.9 hours"
+        }
+    },
+    {
+        "question": "Convert 750 millimetres to metres.",
+        "answer": "C",
+        "options": {
+            "A": "7.5 m",
+            "B": "75 m",
+            "C": "0.75 m",
+            "D": "0.075 m"
+        }
+    },
+    {
+        "question": "How many millilitres are in 0.088 litres?",
+        "answer": "A",
+        "options": {
+            "A": "88 ml",
+            "B": "8.8 ml",
+            "C": "880 ml",
+            "D": "0.88 ml"
+        }
+    },
+    {
+        "question": "Convert 5.75 kilometres to metres.",
+        "answer": "B",
+        "options": {
+            "A": "575 m",
+            "B": "5750 m",
+            "C": "5075 m",
+            "D": "57500 m"
+        }
+    },
+    {
+        "question": "Convert 45 minutes to hours as a decimal.",
+        "answer": "B",
+        "options": {
+            "A": "0.45 hours",
+            "B": "0.75 hours",
+            "C": "4.5 hours",
+            "D": "1.45 hours"
+        }
+    },
+    {
+        "question": "How many grams are in 3.060 kilograms?",
+        "answer": "B",
+        "options": {
+            "A": "306 g",
+            "B": "3060 g",
+            "C": "30060 g",
+            "D": "30.6 g"
+        }
+    },
+    {
+        "question": "Convert 2 litres 250 millilitres to litres.",
+        "answer": "A",
+        "options": {
+            "A": "2.25 l",
+            "B": "2.025 l",
+            "C": "2.5 l",
+            "D": "22.5 l"
+        }
+    },
+    {
+        "question": "Convert 0.45 metres to centimetres.",
+        "answer": "B",
+        "options": {
+            "A": "4.5 cm",
+            "B": "45 cm",
+            "C": "450 cm",
+            "D": "0.45 cm"
+        }
+    },
+    {
+        "question": "How many kilograms are in 4050 grams?",
+        "answer": "B",
+        "options": {
+            "A": "40.5 kg",
+            "B": "4.05 kg",
+            "C": "405 kg",
+            "D": "0.405 kg"
+        }
+    },
+    {
+        "question": "Convert 1.125 hours to minutes.",
+        "answer": "C",
+        "options": {
+            "A": "72.5 minutes",
+            "B": "112.5 minutes",
+            "C": "67.5 minutes",
+            "D": "75 minutes"
+        }
+    },
+    {
+        "question": "A rope is 3.5 metres long. If you cut off 85 centimetres, how long is the remaining piece in metres?",
+        "answer": "A",
+        "options": {
+            "A": "2.65 m",
+            "B": "3.15 m",
+            "C": "2.15 m",
+            "D": "3.415 m"
+        }
+    },
+    {
+        "question": "Convert 8.05 kilometres to metres.",
+        "answer": "B",
+        "options": {
+            "A": "805 m",
+            "B": "8050 m",
+            "C": "8500 m",
+            "D": "8005 m"
+        }
+    },
+    {
+        "question": "How many millimetres are in 0.009 metres?",
+        "answer": "B",
+        "options": {
+            "A": "0.9 mm",
+            "B": "9 mm",
+            "C": "90 mm",
+            "D": "0.09 mm"
+        }
+    },
+    {
+        "question": "Convert 2.95 kilograms to grams.",
+        "answer": "B",
+        "options": {
+            "A": "295 g",
+            "B": "2950 g",
+            "C": "2050 g",
+            "D": "2905 g"
+        }
+    },
+    {
+        "question": "A bottle contains 1.75 litres. After pouring out 250 ml, how much remains in litres?",
+        "answer": "A",
+        "options": {
+            "A": "1.5 l",
+            "B": "1.25 l",
+            "C": "1.725 l",
+            "D": "1.5 l"
+        }
+    },
+    {
+        "question": "Convert 135 minutes to hours.",
+        "answer": "C",
+        "options": {
+            "A": "1.35 hours",
+            "B": "2.15 hours",
+            "C": "2.25 hours",
+            "D": "13.5 hours"
+        }
+    },
+    {
+        "question": "How many metres are in 3.025 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "302.5 m",
+            "B": "3025 m",
+            "C": "3205 m",
+            "D": "30025 m"
+        }
+    },
+    {
+        "question": "Convert 0.008 kilograms to grams.",
+        "answer": "B",
+        "options": {
+            "A": "0.8 g",
+            "B": "8 g",
+            "C": "80 g",
+            "D": "800 g"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 24 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "12 miles",
+            "B": "15 miles",
+            "C": "48 miles",
+            "D": "20 miles"
+        }
+    },
+    {
+        "question": "Convert 12 miles to kilometres.",
+        "answer": "B",
+        "options": {
+            "A": "7.5 km",
+            "B": "19.2 km",
+            "C": "20 km",
+            "D": "15 km"
+        }
+    },
+    {
+        "question": "Approximately how many kilometres is 7.5 miles?",
+        "answer": "B",
+        "options": {
+            "A": "6 km",
+            "B": "12 km",
+            "C": "10 km",
+            "D": "15 km"
+        }
+    },
+    {
+        "question": "If a sign says London is 20 miles away, approximately how many kilometres is this?",
+        "answer": "C",
+        "options": {
+            "A": "16 km",
+            "B": "25 km",
+            "C": "32 km",
+            "D": "12.5 km"
+        }
+    },
+    {
+        "question": "Convert 48 kilometres to miles.",
+        "answer": "A",
+        "options": {
+            "A": "30 miles",
+            "B": "76.8 miles",
+            "C": "44 miles",
+            "D": "60 miles"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 4 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "2 miles",
+            "B": "2.5 miles",
+            "C": "6.4 miles",
+            "D": "4 miles"
+        }
+    },
+    {
+        "question": "Which is further: 15 miles or 20 kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "15 miles",
+            "B": "20 kilometres",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Convert 2.5 miles to kilometres.",
+        "answer": "B",
+        "options": {
+            "A": "2.5 km",
+            "B": "4 km",
+            "C": "1.56 km",
+            "D": "3.5 km"
+        }
+    },
+    {
+        "question": "A plane flies 400 miles. Approximately how many kilometres is this?",
+        "answer": "C",
+        "options": {
+            "A": "200 km",
+            "B": "250 km",
+            "C": "640 km",
+            "D": "800 km"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 1.6 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "0.625 miles",
+            "B": "1 mile",
+            "C": "1.6 miles",
+            "D": "2.56 miles"
+        }
+    },
+    {
+        "question": "Convert 56 kilometres to miles.",
+        "answer": "A",
+        "options": {
+            "A": "35 miles",
+            "B": "89.6 miles",
+            "C": "40 miles",
+            "D": "50 miles"
+        }
+    },
+    {
+        "question": "Approximately how many kilometres is 12.5 miles?",
+        "answer": "B",
+        "options": {
+            "A": "8 km",
+            "B": "20 km",
+            "C": "10 km",
+            "D": "15 km"
+        }
+    },
+    {
+        "question": "Which distance is approximately 8 km?",
+        "answer": "B",
+        "options": {
+            "A": "3 miles",
+            "B": "5 miles",
+            "C": "6 miles",
+            "D": "8 miles"
+        }
+    },
+    {
+        "question": "Convert 3.2 kilometres to miles.",
+        "answer": "A",
+        "options": {
+            "A": "2 miles",
+            "B": "5.12 miles",
+            "C": "3.2 miles",
+            "D": "1.6 miles"
+        }
+    },
+    {
+        "question": "If a runner completes 10 km, approximately how many miles has she run?",
+        "answer": "B",
+        "options": {
+            "A": "5 miles",
+            "B": "6.25 miles",
+            "C": "8 miles",
+            "D": "16 miles"
+        }
+    },
+    {
+        "question": "Convert 88 kilometres to miles.",
+        "answer": "B",
+        "options": {
+            "A": "50 miles",
+            "B": "55 miles",
+            "C": "140.8 miles",
+            "D": "80 miles"
+        }
+    },
+    {
+        "question": "Approximately how many kilometres is 50 miles?",
+        "answer": "B",
+        "options": {
+            "A": "31.25 km",
+            "B": "80 km",
+            "C": "100 km",
+            "D": "30 km"
+        }
+    },
+    {
+        "question": "Is 8 miles further than 12 kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Convert 7 kilometres to miles.",
+        "answer": "A",
+        "options": {
+            "A": "4.375 miles",
+            "B": "11.2 miles",
+            "C": "7 miles",
+            "D": "3.5 miles"
+        }
+    },
+    {
+        "question": "A map shows 25 miles. This is approximately:",
+        "answer": "C",
+        "options": {
+            "A": "20 km",
+            "B": "30 km",
+            "C": "40 km",
+            "D": "50 km"
+        }
+    },
+    {
+        "question": "Which is the better estimate for 6 miles in kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "6 km",
+            "B": "9.6 km",
+            "C": "10 km",
+            "D": "3.75 km"
+        }
+    },
+    {
+        "question": "Convert 96 kilometres to miles.",
+        "answer": "A",
+        "options": {
+            "A": "60 miles",
+            "B": "50 miles",
+            "C": "153.6 miles",
+            "D": "80 miles"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 1 kilometre?",
+        "answer": "A",
+        "options": {
+            "A": "0.625 miles",
+            "B": "1.6 miles",
+            "C": "0.8 miles",
+            "D": "1 mile"
+        }
+    },
+    {
+        "question": "Rectangle A: 12cm \u00d7 3cm (Area=36, Perim=30). Rectangle B: 9cm \u00d7 4cm (Area=36, Perim=26). Do they have the same perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "Yes",
+            "B": "No, A is larger",
+            "C": "No, B is larger",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "A square has sides of 5cm. A rectangle has sides of 10cm and 2.5cm. Which has the larger perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "The square (20cm)",
+            "B": "The rectangle (25cm)",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "True or False: A 4cm\u00d76cm rectangle has the same perimeter as an 8cm\u00d72cm rectangle.",
+        "answer": "A",
+        "options": {
+            "A": "True, both have perimeter 20cm",
+            "B": "False",
+            "C": "Only if they have the same area",
+            "D": "True, both have perimeter 24cm"
+        }
+    },
+    {
+        "question": "Shape X has perimeter 28cm. Shape Y has perimeter 28cm. Can Shape X have a larger area than Shape Y?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No, same perimeter means same area",
+            "C": "Only if X is a square",
+            "D": "Only if Y is a triangle"
+        }
+    },
+    {
+        "question": "Two rectangles both have area 24cm\u00b2. One is 8cm\u00d73cm (perim=22cm). Which could have perimeter 20cm?",
+        "answer": "A",
+        "options": {
+            "A": "6cm\u00d74cm",
+            "B": "12cm\u00d72cm",
+            "C": "24cm\u00d71cm",
+            "D": "5cm\u00d74cm"
+        }
+    },
+    {
+        "question": "Which rectangle has the same perimeter as a 7cm\u00d75cm rectangle but a smaller area?",
+        "answer": "C",
+        "options": {
+            "A": "8cm\u00d74cm",
+            "B": "6cm\u00d76cm",
+            "C": "10cm\u00d72cm",
+            "D": "7cm\u00d75cm"
+        }
+    },
+    {
+        "question": "Rectangle P is 9cm \u00d7 4cm. Rectangle Q is 12cm \u00d7 3cm. Which statement is true?",
+        "answer": "C",
+        "options": {
+            "A": "P has larger area and larger perimeter",
+            "B": "Same area, Q has larger perimeter",
+            "C": "Same area, P has larger perimeter",
+            "D": "Q has larger area and larger perimeter"
+        }
+    },
+    {
+        "question": "Can two different squares have the same area but different perimeters?",
+        "answer": "B",
+        "options": {
+            "A": "Yes",
+            "B": "No, all squares with same area have same side length",
+            "C": "Only if one is rotated",
+            "D": "Only if they are different colours"
+        }
+    },
+    {
+        "question": "A rectangle has area 18cm\u00b2 and perimeter 18cm. What could its dimensions be?",
+        "answer": "A",
+        "options": {
+            "A": "6cm\u00d73cm",
+            "B": "9cm\u00d72cm",
+            "C": "18cm\u00d71cm",
+            "D": "5cm\u00d74cm"
+        }
+    },
+    {
+        "question": "Which has the smallest area: a rectangle with perimeter 20cm that is 6cm\u00d74cm, or a square with perimeter 20cm?",
+        "answer": "A",
+        "options": {
+            "A": "The rectangle (24cm\u00b2)",
+            "B": "The square (25cm\u00b2)",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Two shapes both have perimeter 32cm. One is a square. What is its area?",
+        "answer": "A",
+        "options": {
+            "A": "64cm\u00b2",
+            "B": "48cm\u00b2",
+            "C": "32cm\u00b2",
+            "D": "128cm\u00b2"
+        }
+    },
+    {
+        "question": "Rectangle A: 5cm\u00d78cm. Rectangle B: 10cm\u00d74cm. Which has greater perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "A (26cm)",
+            "B": "B (28cm)",
+            "C": "They are equal (26cm)",
+            "D": "They are equal (32cm)"
+        }
+    },
+    {
+        "question": "Is it possible for a rectangle to have the same area as a square but a larger perimeter?",
+        "answer": "D",
+        "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Only if the rectangle is long and thin",
+            "D": "Both A and C are true"
+        }
+    },
+    {
+        "question": "A 6cm\u00d76cm square has area 36cm\u00b2. Which rectangle has the same area but perimeter greater than 24cm?",
+        "answer": "D",
+        "options": {
+            "A": "9cm\u00d74cm",
+            "B": "12cm\u00d73cm",
+            "C": "18cm\u00d72cm",
+            "D": "All of these"
+        }
+    },
+    {
+        "question": "Two rectangles have the same perimeter of 16cm. One is 5cm\u00d73cm. Which has the larger area?",
+        "answer": "C",
+        "options": {
+            "A": "The 5cm\u00d73cm rectangle (15cm\u00b2)",
+            "B": "A 6cm\u00d72cm rectangle (12cm\u00b2)",
+            "C": "A 4cm\u00d74cm square (16cm\u00b2)",
+            "D": "Both A and C"
+        }
+    },
+    {
+        "question": "Which statement is always true?",
+        "answer": "C",
+        "options": {
+            "A": "Shapes with same area have same perimeter",
+            "B": "Shapes with same perimeter have same area",
+            "C": "The square has the largest area for a given perimeter",
+            "D": "Rectangles always have smaller area than squares"
+        }
+    },
+    {
+        "question": "Rectangle X is 7cm\u00d73cm. Rectangle Y is 5cm\u00d74cm. Both have perimeter 20cm. Which has larger area?",
+        "answer": "A",
+        "options": {
+            "A": "X (21cm\u00b2)",
+            "B": "Y (20cm\u00b2)",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "A rectangle has width 4cm and perimeter 20cm. What is its length?",
+        "answer": "B",
+        "options": {
+            "A": "5cm",
+            "B": "6cm",
+            "C": "8cm",
+            "D": "16cm"
+        }
+    },
+    {
+        "question": "Can a rectangle have perimeter 20cm and area 25cm\u00b2?",
+        "answer": "A",
+        "options": {
+            "A": "Yes, 5cm\u00d75cm",
+            "B": "Yes, 4cm\u00d76cm",
+            "C": "No, impossible",
+            "D": "Only if it is a square"
+        }
+    },
+    {
+        "question": "Two rectangles have areas of 20cm\u00b2. One is 5cm\u00d74cm (perim=18cm). Which has perimeter 24cm?",
+        "answer": "A",
+        "options": {
+            "A": "10cm\u00d72cm",
+            "B": "20cm\u00d71cm",
+            "C": "2cm\u00d710cm",
+            "D": "4cm\u00d75cm"
+        }
+    },
+    {
+        "question": "Which formula gives the area of a parallelogram?",
+        "answer": "B",
+        "options": {
+            "A": "Length \u00d7 Width",
+            "B": "Base \u00d7 Height",
+            "C": "Side \u00d7 Side",
+            "D": "\u00bd \u00d7 Base \u00d7 Height"
+        }
+    },
+    {
+        "question": "Which formula gives the area of a triangle?",
+        "answer": "B",
+        "options": {
+            "A": "Base \u00d7 Height",
+            "B": "\u00bd \u00d7 Base \u00d7 Height",
+            "C": "Base + Height",
+            "D": "2 \u00d7 Base \u00d7 Height"
+        }
+    },
+    {
+        "question": "Which formula gives the volume of a cuboid?",
+        "answer": "B",
+        "options": {
+            "A": "Length + Width + Height",
+            "B": "Length \u00d7 Width \u00d7 Height",
+            "C": "2\u00d7(Length\u00d7Width + Length\u00d7Height + Width\u00d7Height)",
+            "D": "Length \u00d7 Width"
+        }
+    },
+    {
+        "question": "When finding the area of a parallelogram, which height should you use?",
+        "answer": "B",
+        "options": {
+            "A": "The slanted side length",
+            "B": "The perpendicular height",
+            "C": "The diagonal",
+            "D": "Half the base"
+        }
+    },
+    {
+        "question": "To find the area of a compound shape made of two rectangles, you should:",
+        "answer": "B",
+        "options": {
+            "A": "Use the formula for one rectangle only",
+            "B": "Split it into parts, use the area formula for each, then add",
+            "C": "Multiply all the side lengths together",
+            "D": "Use the perimeter formula"
+        }
+    },
+    {
+        "question": "Which shape's area CANNOT be found using a simple formula?",
+        "answer": "D",
+        "options": {
+            "A": "Rectangle",
+            "B": "Triangle",
+            "C": "Parallelogram",
+            "D": "Irregular blob shape"
+        }
+    },
+    {
+        "question": "If you know the area of a rectangle is 24cm\u00b2 and the length is 6cm, which formula finds the width?",
+        "answer": "D",
+        "options": {
+            "A": "Width = 24 + 6",
+            "B": "Width = 24 - 6",
+            "C": "Width = 24 \u00d7 6",
+            "D": "Width = 24 \u00f7 6"
+        }
+    },
+    {
+        "question": "For which shape is the formula V = s\u00b3 used?",
+        "answer": "B",
+        "options": {
+            "A": "Any cuboid",
+            "B": "Cube only",
+            "C": "Any prism",
+            "D": "Sphere"
+        }
+    },
+    {
+        "question": "Which formula calculates the perimeter of a rectangle?",
+        "answer": "B",
+        "options": {
+            "A": "Length \u00d7 Width",
+            "B": "2 \u00d7 (Length + Width)",
+            "C": "Length + Width",
+            "D": "4 \u00d7 Length"
+        }
+    },
+    {
+        "question": "To find the volume of an irregular solid by displacement, you would:",
+        "answer": "B",
+        "options": {
+            "A": "Use the formula V = l\u00d7w\u00d7h",
+            "B": "Measure the water it displaces",
+            "C": "Count the faces",
+            "D": "Measure its surface area"
+        }
+    },
+    {
+        "question": "Which measurement requires a formula rather than direct counting?",
+        "answer": "C",
+        "options": {
+            "A": "Area of a rectangle on a grid",
+            "B": "Number of cubes in a visible cuboid",
+            "C": "Area of a parallelogram not on a grid",
+            "D": "Counting squares inside a shape"
+        }
+    },
+    {
+        "question": "For a triangle, the height must be:",
+        "answer": "B",
+        "options": {
+            "A": "The same as the base",
+            "B": "Perpendicular to the base",
+            "C parallel": "to the base",
+            "D": "Half the base"
+        }
+    },
+    {
+        "question": "Which expression finds the area of a parallelogram with base 8cm and perpendicular height 3cm?",
+        "answer": "B",
+        "options": {
+            "A": "8 + 3",
+            "B": "8 \u00d7 3",
+            "C": "2 \u00d7 (8 + 3)",
+            "D": "\u00bd \u00d7 8 \u00d7 3"
+        }
+    },
+    {
+        "question": "Calculate the area of a parallelogram with base 10cm and perpendicular height 4cm.",
+        "answer": "B",
+        "options": {
+            "A": "14 cm\u00b2",
+            "B": "40 cm\u00b2",
+            "C": "20 cm\u00b2",
+            "D": "80 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a parallelogram with base 7cm and height 6cm?",
+        "answer": "B",
+        "options": {
+            "A": "13 cm\u00b2",
+            "B": "42 cm\u00b2",
+            "C": "26 cm\u00b2",
+            "D": "21 cm\u00b2"
+        }
+    },
+    {
+        "question": "Find the area of a parallelogram with base 9.5cm and height 2cm.",
+        "answer": "B",
+        "options": {
+            "A": "11.5 cm\u00b2",
+            "B": "19 cm\u00b2",
+            "C": "38 cm\u00b2",
+            "D": "4.75 cm\u00b2"
+        }
+    },
+    {
+        "question": "A parallelogram has base 12cm and area 60cm\u00b2. What is the height?",
+        "answer": "A",
+        "options": {
+            "A": "5cm",
+            "B": "10cm",
+            "C": "6cm",
+            "D": "72cm"
+        }
+    },
+    {
+        "question": "Calculate the area of a triangle with base 10cm and height 5cm.",
+        "answer": "B",
+        "options": {
+            "A": "50 cm\u00b2",
+            "B": "25 cm\u00b2",
+            "C": "15 cm\u00b2",
+            "D": "30 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 8cm and height 7cm?",
+        "answer": "B",
+        "options": {
+            "A": "56 cm\u00b2",
+            "B": "28 cm\u00b2",
+            "C": "30 cm\u00b2",
+            "D": "15 cm\u00b2"
+        }
+    },
+    {
+        "question": "Find the area of a triangle with base 12cm and height 4cm.",
+        "answer": "B",
+        "options": {
+            "A": "48 cm\u00b2",
+            "B": "24 cm\u00b2",
+            "C": "16 cm\u00b2",
+            "D": "32 cm\u00b2"
+        }
+    },
+    {
+        "question": "A triangle has area 30cm\u00b2 and base 10cm. What is the height?",
+        "answer": "B",
+        "options": {
+            "A": "3cm",
+            "B": "6cm",
+            "C": "12cm",
+            "D": "60cm"
+        }
+    },
+    {
+        "question": "Calculate the area of a triangle with base 6.5cm and height 4cm.",
+        "answer": "B",
+        "options": {
+            "A": "26 cm\u00b2",
+            "B": "13 cm\u00b2",
+            "C": "10.5 cm\u00b2",
+            "D": "20.5 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a parallelogram with base 5.5cm and height 4cm?",
+        "answer": "B",
+        "options": {
+            "A": "9.5 cm\u00b2",
+            "B": "22 cm\u00b2",
+            "C": "11 cm\u00b2",
+            "D": "44 cm\u00b2"
+        }
+    },
+    {
+        "question": "A parallelogram has height 8cm and area 48cm\u00b2. What is the base?",
+        "answer": "A",
+        "options": {
+            "A": "6cm",
+            "B": "12cm",
+            "C": "4cm",
+            "D": "24cm"
+        }
+    },
+    {
+        "question": "Find the area of a triangle with base 14cm and height 5cm.",
+        "answer": "B",
+        "options": {
+            "A": "70 cm\u00b2",
+            "B": "35 cm\u00b2",
+            "C": "19 cm\u00b2",
+            "D": "45 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 9cm and height 6cm?",
+        "answer": "B",
+        "options": {
+            "A": "54 cm\u00b2",
+            "B": "27 cm\u00b2",
+            "C": "15 cm\u00b2",
+            "D": "36 cm\u00b2"
+        }
+    },
+    {
+        "question": "Calculate the area of a parallelogram with base 7.25cm and height 4cm.",
+        "answer": "B",
+        "options": {
+            "A": "11.25 cm\u00b2",
+            "B": "29 cm\u00b2",
+            "C": "58 cm\u00b2",
+            "D": "14.5 cm\u00b2"
+        }
+    },
+    {
+        "question": "A triangle has height 10cm and area 40cm\u00b2. What is the base?",
+        "answer": "B",
+        "options": {
+            "A": "4cm",
+            "B": "8cm",
+            "C": "16cm",
+            "D": "20cm"
+        }
+    },
+    {
+        "question": "What is the area of a parallelogram with base 6cm and height 7.5cm?",
+        "answer": "B",
+        "options": {
+            "A": "13.5 cm\u00b2",
+            "B": "45 cm\u00b2",
+            "C": "22.5 cm\u00b2",
+            "D": "90 cm\u00b2"
+        }
+    },
+    {
+        "question": "Find the area of a triangle with base 16cm and height 3cm.",
+        "answer": "B",
+        "options": {
+            "A": "48 cm\u00b2",
+            "B": "24 cm\u00b2",
+            "C": "19 cm\u00b2",
+            "D": "32 cm\u00b2"
+        }
+    },
+    {
+        "question": "Calculate the area of a parallelogram with base 8.5cm and height 6cm.",
+        "answer": "B",
+        "options": {
+            "A": "14.5 cm\u00b2",
+            "B": "51 cm\u00b2",
+            "C": "102 cm\u00b2",
+            "D": "25.5 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 7cm and height 12cm?",
+        "answer": "B",
+        "options": {
+            "A": "84 cm\u00b2",
+            "B": "42 cm\u00b2",
+            "C": "38 cm\u00b2",
+            "D": "21 cm\u00b2"
+        }
+    },
+    {
+        "question": "A parallelogram has base 9cm and slanted side 5cm. The perpendicular height is 4cm. What is the area?",
+        "answer": "B",
+        "options": {
+            "A": "45 cm\u00b2",
+            "B": "36 cm\u00b2",
+            "C": "20 cm\u00b2",
+            "D": "28 cm\u00b2"
+        }
+    },
+    {
+        "question": "Find the area of a triangle with base 11cm and height 4cm.",
+        "answer": "B",
+        "options": {
+            "A": "44 cm\u00b2",
+            "B": "22 cm\u00b2",
+            "C": "15 cm\u00b2",
+            "D": "28 cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the volume of a cuboid measuring 4cm \u00d7 5cm \u00d7 3cm?",
+        "answer": "B",
+        "options": {
+            "A": "12 cm\u00b3",
+            "B": "60 cm\u00b3",
+            "C": "23 cm\u00b3",
+            "D": "47 cm\u00b3"
+        }
+    },
+    {
+        "question": "Calculate the volume of a cube with side length 4cm.",
+        "answer": "C",
+        "options": {
+            "A": "12 cm\u00b3",
+            "B": "16 cm\u00b3",
+            "C": "64 cm\u00b3",
+            "D": "48 cm\u00b3"
+        }
+    },
+    {
+        "question": "A box is 6cm long, 5cm wide and 2cm high. What is its volume?",
+        "answer": "B",
+        "options": {
+            "A": "13 cm\u00b3",
+            "B": "60 cm\u00b3",
+            "C": "30 cm\u00b3",
+            "D": "120 cm\u00b3"
+        }
+    },
+    {
+        "question": "Find the volume of a cuboid with length 3.5cm, width 4cm and height 2cm.",
+        "answer": "B",
+        "options": {
+            "A": "9.5 cm\u00b3",
+            "B": "28 cm\u00b3",
+            "C": "14 cm\u00b3",
+            "D": "56 cm\u00b3"
+        }
+    },
+    {
+        "question": "What is the volume of a cube with side length 6cm?",
+        "answer": "C",
+        "options": {
+            "A": "18 cm\u00b3",
+            "B": "36 cm\u00b3",
+            "C": "216 cm\u00b3",
+            "D": "72 cm\u00b3"
+        }
+    },
+    {
+        "question": "A tank holds 2.5 litres. How many cubic centimetres is this?",
+        "answer": "C",
+        "options": {
+            "A": "25 cm\u00b3",
+            "B": "250 cm\u00b3",
+            "C": "2500 cm\u00b3",
+            "D": "25000 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many cubic millimetres are in 1 cm\u00b3?",
+        "answer": "C",
+        "options": {
+            "A": "10 mm\u00b3",
+            "B": "100 mm\u00b3",
+            "C": "1000 mm\u00b3",
+            "D": "10000 mm\u00b3"
+        }
+    },
+    {
+        "question": "Convert 5 m\u00b3 to cm\u00b3.",
+        "answer": "D",
+        "options": {
+            "A": "5000 cm\u00b3",
+            "B": "50000 cm\u00b3",
+            "C": "500000 cm\u00b3",
+            "D": "5000000 cm\u00b3"
+        }
+    },
+    {
+        "question": "A container has volume 8000 cm\u00b3. How many litres is this?",
+        "answer": "B",
+        "options": {
+            "A": "0.8 litres",
+            "B": "8 litres",
+            "C": "80 litres",
+            "D": "800 litres"
+        }
+    },
+    {
+        "question": "Which has the greater volume: A 3cm cube or a cuboid 4cm\u00d73cm\u00d72cm?",
+        "answer": "A",
+        "options": {
+            "A": "The cube (27cm\u00b3)",
+            "B": "The cuboid (24cm\u00b3)",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "A cube has volume 125cm\u00b3. What is the side length?",
+        "answer": "A",
+        "options": {
+            "A": "5cm",
+            "B": "25cm",
+            "C": "12.5cm",
+            "D": "41.67cm"
+        }
+    },
+    {
+        "question": "Estimate the volume of a cuboid 9.8cm \u00d7 5.1cm \u00d7 4.9cm.",
+        "answer": "C",
+        "options": {
+            "A": "About 100 cm\u00b3",
+            "B": "About 200 cm\u00b3",
+            "C": "About 250 cm\u00b3",
+            "D": "About 500 cm\u00b3"
+        }
+    },
+    {
+        "question": "A box has volume 120cm\u00b3, length 5cm and width 4cm. What is the height?",
+        "answer": "A",
+        "options": {
+            "A": "6cm",
+            "B": "12cm",
+            "C": "3cm",
+            "D": "24cm"
+        }
+    },
+    {
+        "question": "Convert 0.5 m\u00b3 to cm\u00b3.",
+        "answer": "D",
+        "options": {
+            "A": "500 cm\u00b3",
+            "B": "5000 cm\u00b3",
+            "C": "50000 cm\u00b3",
+            "D": "500000 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many cubic metres are in 3,000,000 cm\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "3 m\u00b3",
+            "B": "30 m\u00b3",
+            "C": "300 m\u00b3",
+            "D": "3000 m\u00b3"
+        }
+    },
+    {
+        "question": "A fish tank measures 40cm \u00d7 25cm \u00d7 30cm. What is its volume in litres?",
+        "answer": "B",
+        "options": {
+            "A": "3 litres",
+            "B": "30 litres",
+            "C": "300 litres",
+            "D": "3000 litres"
+        }
+    },
+    {
+        "question": "Which unit would you use for the volume of a sugar cube?",
+        "answer": "B",
+        "options": {
+            "A": "m\u00b3",
+            "B": "cm\u00b3",
+            "C": "km\u00b3",
+            "D": "litres"
+        }
+    },
+    {
+        "question": "A cuboid has dimensions 2m \u00d7 50cm \u00d7 50cm. What is its volume in m\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "0.5 m\u00b3",
+            "B": "0.05 m\u00b3",
+            "C": "0.5 m\u00b3",
+            "D": "5000 m\u00b3"
+        }
+    },
+    {
+        "question": "Is 5000 cm\u00b3 larger than 5 litres?",
+        "answer": "B",
+        "options": {
+            "A": "Yes",
+            "B": "No, they are equal",
+            "C": "No, 5000 cm\u00b3 is smaller",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "A cube has side length 0.5m. What is its volume in m\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "0.125 m\u00b3",
+            "B": "0.25 m\u00b3",
+            "C": "0.5 m\u00b3",
+            "D": "1.5 m\u00b3"
+        }
+    },
+    {
+        "question": "Convert 2.5 km\u00b3 to m\u00b3.",
+        "answer": "B",
+        "options": {
+            "A": "2,500,000 m\u00b3",
+            "B": "2,500,000,000 m\u00b3",
+            "C": "25,000,000 m\u00b3",
+            "D": "250,000,000 m\u00b3"
+        }
+    },
+    {
+        "question": "How many cubic centimetres are in 0.025 m\u00b3?",
+        "answer": "C",
+        "options": {
+            "A": "250 cm\u00b3",
+            "B": "2500 cm\u00b3",
+            "C": "25000 cm\u00b3",
+            "D": "250000 cm\u00b3"
+        }
+    },
+    {
+        "question": "Which cuboid has volume 72 cm\u00b3?",
+        "answer": "C",
+        "options": {
+            "A": "3\u00d74\u00d75 cm",
+            "B": "2\u00d76\u00d76 cm",
+            "C": "3\u00d74\u00d76 cm",
+            "D": "2\u00d73\u00d78 cm"
+        }
+    },
+    {
+        "question": "A storage container is 2m \u00d7 1.5m \u00d7 1m. What is its volume in cubic metres?",
+        "answer": "A",
+        "options": {
+            "A": "3 m\u00b3",
+            "B": "4.5 m\u00b3",
+            "C": "3.5 m\u00b3",
+            "D": "30 m\u00b3"
+        }
+    },
+    {
+        "question": "Estimate: A cereal box is approximately 30cm \u00d7 20cm \u00d7 8cm. Is its volume closest to:",
+        "answer": "B",
+        "options": {
+            "A": "0.5 litres",
+            "B": "5 litres",
+            "C": "50 litres",
+            "D": "500 litres"
+        }
+    },
+    {
+        "question": "A graduated cylinder shows 450 ml. How many cm\u00b3 is this?",
+        "answer": "B",
+        "options": {
+            "A": "45 cm\u00b3",
+            "B": "450 cm\u00b3",
+            "C": "4500 cm\u00b3",
+            "D": "0.45 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many millilitres are in 3.75 litres?",
+        "answer": "B",
+        "options": {
+            "A": "375 ml",
+            "B": "3750 ml",
+            "C": "3075 ml",
+            "D": "30075 ml"
+        }
+    },
+    {
+        "question": "Convert 150 ml to litres.",
+        "answer": "B",
+        "options": {
+            "A": "1.5 l",
+            "B": "0.15 l",
+            "C": "15 l",
+            "D": "0.015 l"
+        }
+    },
+    {
+        "question": "A can contains 330 ml. This is:",
+        "answer": "B",
+        "options": {
+            "A": "3.3 l",
+            "B": "0.33 l",
+            "C": "33 l",
+            "D": "0.033 l"
+        }
+    },
+    {
+        "question": "How many litres are in 7500 ml?",
+        "answer": "B",
+        "options": {
+            "A": "0.75 l",
+            "B": "7.5 l",
+            "C": "75 l",
+            "D": "750 l"
+        }
+    },
+    {
+        "question": "Convert 0.125 litres to millilitres.",
+        "answer": "C",
+        "options": {
+            "A": "1.25 ml",
+            "B": "12.5 ml",
+            "C": "125 ml",
+            "D": "1250 ml"
+        }
+    },
+    {
+        "question": "A bottle holds 1.75 l. How many 250 ml glasses can be filled?",
+        "answer": "B",
+        "options": {
+            "A": "5 glasses",
+            "B": "7 glasses",
+            "C": "8 glasses",
+            "D": "70 glasses"
+        }
+    },
+    {
+        "question": "Convert 4.008 kilograms to grams.",
+        "answer": "B",
+        "options": {
+            "A": "400.8 g",
+            "B": "4008 g",
+            "C": "40008 g",
+            "D": "40.08 g"
+        }
+    },
+    {
+        "question": "How many kilograms are in 250 grams?",
+        "answer": "C",
+        "options": {
+            "A": "25 kg",
+            "B": "2.5 kg",
+            "C": "0.25 kg",
+            "D": "0.025 kg"
+        }
+    },
+    {
+        "question": "A bag weighs 1.5 kg. How many grams is this?",
+        "answer": "C",
+        "options": {
+            "A": "15 g",
+            "B": "150 g",
+            "C": "1500 g",
+            "D": "15000 g"
+        }
+    },
+    {
+        "question": "Convert 0.075 kilograms to grams.",
+        "answer": "C",
+        "options": {
+            "A": "0.75 g",
+            "B": "7.5 g",
+            "C": "75 g",
+            "D": "750 g"
+        }
+    },
+    {
+        "question": "A sack weighs 25 kg. How many grams is this?",
+        "answer": "C",
+        "options": {
+            "A": "250 g",
+            "B": "2500 g",
+            "C": "25000 g",
+            "D": "250000 g"
+        }
+    },
+    {
+        "question": "How many kilometres are in 150 metres?",
+        "answer": "C",
+        "options": {
+            "A": "15 km",
+            "B": "1.5 km",
+            "C": "0.15 km",
+            "D": "0.015 km"
+        }
+    },
+    {
+        "question": "Convert 3.25 metres to centimetres.",
+        "answer": "B",
+        "options": {
+            "A": "32.5 cm",
+            "B": "325 cm",
+            "C": "3025 cm",
+            "D": "3250 cm"
+        }
+    },
+    {
+        "question": "A piece of string is 0.85 metres long. How many centimetres is this?",
+        "answer": "B",
+        "options": {
+            "A": "8.5 cm",
+            "B": "85 cm",
+            "C": "805 cm",
+            "D": "58 cm"
+        }
+    },
+    {
+        "question": "How many metres are in 85 centimetres?",
+        "answer": "B",
+        "options": {
+            "A": "8.5 m",
+            "B": "0.85 m",
+            "C": "0.085 m",
+            "D": "850 m"
+        }
+    },
+    {
+        "question": "Convert 5.75 hours to minutes.",
+        "answer": "A",
+        "options": {
+            "A": "345 minutes",
+            "B": "575 minutes",
+            "C": "300 minutes",
+            "D": "350 minutes"
+        }
+    },
+    {
+        "question": "How many hours is 156 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "1.56 hours",
+            "B": "2.6 hours",
+            "C": "2.56 hours",
+            "D": "2 hours 56 minutes"
+        }
+    },
+    {
+        "question": "Convert 2.5 days to hours.",
+        "answer": "C",
+        "options": {
+            "A": "25 hours",
+            "B": "52 hours",
+            "C": "60 hours",
+            "D": "75 hours"
+        }
+    },
+    {
+        "question": "A film lasts 105 minutes. How long is this in hours?",
+        "answer": "C",
+        "options": {
+            "A": "1.05 hours",
+            "B": "1.5 hours",
+            "C": "1.75 hours",
+            "D": "2.5 hours"
+        }
+    },
+    {
+        "question": "How many seconds are in 4.5 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "45 seconds",
+            "B": "270 seconds",
+            "C": "300 seconds",
+            "D": "450 seconds"
+        }
+    },
+    {
+        "question": "Convert 72 hours to days.",
+        "answer": "B",
+        "options": {
+            "A": "2 days",
+            "B": "3 days",
+            "C": "4 days",
+            "D": "7.2 days"
+        }
+    },
+    {
+        "question": "A rectangle is 9cm by 4cm (Area=36, Perim=26). Which has same perimeter but different area?",
+        "answer": "D",
+        "options": {
+            "A": "8cm\u00d75cm (40cm\u00b2)",
+            "B": "6cm\u00d77cm (42cm\u00b2)",
+            "C": "10cm\u00d73cm (30cm\u00b2)",
+            "D": "12cm\u00d72cm (24cm\u00b2)"
+        }
+    },
+    {
+        "question": "Two rectangles have same area 48cm\u00b2. One is 8\u00d76 (perim=28). Which has perimeter 32cm?",
+        "answer": "A",
+        "options": {
+            "A": "12\u00d74",
+            "B": "16\u00d73",
+            "C": "24\u00d72",
+            "D": "48\u00d71"
+        }
+    },
+    {
+        "question": "A square has perimeter 36cm. What is its area?",
+        "answer": "A",
+        "options": {
+            "A": "81cm\u00b2",
+            "B": "36cm\u00b2",
+            "C": "72cm\u00b2",
+            "D": "18cm\u00b2"
+        }
+    },
+    {
+        "question": "Rectangle A: 10cm\u00d72cm. Rectangle B: 5cm\u00d74cm. Which statement is true?",
+        "answer": "C",
+        "options": {
+            "A": "Same area (20cm\u00b2), same perimeter",
+            "B": "Same area, A has larger perimeter",
+            "C": "Same area, B has smaller perimeter",
+            "D": "Different areas"
+        }
+    },
+    {
+        "question": "Which rectangle with area 32cm\u00b2 has the smallest perimeter?",
+        "answer": "C",
+        "options": {
+            "A": "32\u00d71 (66cm)",
+            "B": "16\u00d72 (36cm)",
+            "C": "8\u00d74 (24cm)",
+            "D": "They are equal"
+        }
+    },
+    {
+        "question": "Can a rectangle have perimeter 22cm and area 30cm\u00b2?",
+        "answer": "A",
+        "options": {
+            "A": "Yes, 5cm\u00d76cm",
+            "B": "Yes, 10cm\u00d72cm",
+            "C": "No, impossible",
+            "D": "Only if it is a square"
+        }
+    },
+    {
+        "question": "Parallelogram: base 8cm, perpendicular height 5cm (slant side 6cm). Area is:",
+        "answer": "A",
+        "options": {
+            "A": "40cm\u00b2",
+            "B": "48cm\u00b2",
+            "C": "30cm\u00b2",
+            "D": "26cm\u00b2"
+        }
+    },
+    {
+        "question": "Triangle: base 14cm, height 4cm. Area is:",
+        "answer": "B",
+        "options": {
+            "A": "56cm\u00b2",
+            "B": "28cm\u00b2",
+            "C": "18cm\u00b2",
+            "D": "36cm\u00b2"
+        }
+    },
+    {
+        "question": "Cuboid: 5cm\u00d75cm\u00d74cm. Volume is:",
+        "answer": "B",
+        "options": {
+            "A": "14cm\u00b3",
+            "B": "100cm\u00b3",
+            "C": "25cm\u00b3",
+            "D": "200cm\u00b3"
+        }
+    },
+    {
+        "question": "Cube: volume 216cm\u00b3. Side length is:",
+        "answer": "A",
+        "options": {
+            "A": "6cm",
+            "B": "12cm",
+            "C": "36cm",
+            "D": "72cm"
+        }
+    },
+    {
+        "question": "Convert 9.75 litres to cm\u00b3.",
+        "answer": "C",
+        "options": {
+            "A": "97.5 cm\u00b3",
+            "B": "975 cm\u00b3",
+            "C": "9750 cm\u00b3",
+            "D": "9050 cm\u00b3"
+        }
+    },
+    {
+        "question": "How many km\u00b3 are in 5,000,000,000 m\u00b3?",
+        "answer": "C",
+        "options": {
+            "A": "0.005 km\u00b3",
+            "B": "0.5 km\u00b3",
+            "C": "5 km\u00b3",
+            "D": "50 km\u00b3"
+        }
+    },
+    {
+        "question": "A container holds 4.5 m\u00b3. How many litres is this?",
+        "answer": "B",
+        "options": {
+            "A": "450 litres",
+            "B": "4500 litres",
+            "C": "45000 litres",
+            "D": "4500000 litres"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 120 km?",
+        "answer": "B",
+        "options": {
+            "A": "60 miles",
+            "B": "75 miles",
+            "C": "192 miles",
+            "D": "200 miles"
+        }
+    },
+    {
+        "question": "Convert 72 miles to km.",
+        "answer": "B",
+        "options": {
+            "A": "45 km",
+            "B": "115.2 km",
+            "C": "120 km",
+            "D": "90 km"
+        }
+    },
+    {
+        "question": "Rectangle: 15cm\u00d72cm vs 5cm\u00d76cm. Which has larger area?",
+        "answer": "C",
+        "options": {
+            "A": "First (30cm\u00b2)",
+            "B": "Second (30cm\u00b2)",
+            "C": "Equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Perimeter of square is 28cm. Area is:",
+        "answer": "A",
+        "options": {
+            "A": "49cm\u00b2",
+            "B": "56cm\u00b2",
+            "C": "196cm\u00b2",
+            "D": "112cm\u00b2"
+        }
+    },
+    {
+        "question": "Triangle with area 24cm\u00b2, base 8cm. Height is:",
+        "answer": "B",
+        "options": {
+            "A": "3cm",
+            "B": "6cm",
+            "C": "12cm",
+            "D": "4cm"
+        }
+    },
+    {
+        "question": "Parallelogram: area 56cm\u00b2, base 7cm. Height is:",
+        "answer": "B",
+        "options": {
+            "A": "4cm",
+            "B": "8cm",
+            "C": "16cm",
+            "D": "28cm"
+        }
+    },
+    {
+        "question": "Volume of 7cm cube is:",
+        "answer": "C",
+        "options": {
+            "A": "21cm\u00b3",
+            "B": "49cm\u00b3",
+            "C": "343cm\u00b3",
+            "D": "210cm\u00b3"
+        }
+    },
+    {
+        "question": "Cuboid volume 240cm\u00b3, length 8cm, width 5cm. Height is:",
+        "answer": "A",
+        "options": {
+            "A": "6cm",
+            "B": "10cm",
+            "C": "15cm",
+            "D": "60cm"
+        }
+    },
+    {
+        "question": "Convert 2.4 kilometres to metres.",
+        "answer": "A",
+        "options": {
+            "A": "2400 m",
+            "B": "24 m",
+            "C": "240 m",
+            "D": "0.24 m"
+        }
+    },
+    {
+        "question": "Convert 3750 grams to kilograms.",
+        "answer": "A",
+        "options": {
+            "A": "3.75 kg",
+            "B": "37.5 kg",
+            "C": "0.375 kg",
+            "D": "375 kg"
+        }
+    },
+    {
+        "question": "Convert 1.65 litres to millilitres.",
+        "answer": "A",
+        "options": {
+            "A": "1650 ml",
+            "B": "165 ml",
+            "C": "16.5 ml",
+            "D": "1500 ml"
+        }
+    },
+    {
+        "question": "Convert 420 seconds to minutes.",
+        "answer": "A",
+        "options": {
+            "A": "7 minutes",
+            "B": "70 minutes",
+            "C": "6 minutes",
+            "D": "4.2 minutes"
+        }
+    },
+    {
+        "question": "Convert 0.48 metres to centimetres.",
+        "answer": "A",
+        "options": {
+            "A": "48 cm",
+            "B": "4.8 cm",
+            "C": "480 cm",
+            "D": "0.048 cm"
+        }
+    },
+    {
+        "question": "Convert 950 ml to litres.",
+        "answer": "A",
+        "options": {
+            "A": "0.95 L",
+            "B": "9.5 L",
+            "C": "95 L",
+            "D": "0.095 L"
+        }
+    },
+    {
+        "question": "Convert 3 hours 45 minutes into minutes.",
+        "answer": "A",
+        "options": {
+            "A": "225 minutes",
+            "B": "180 minutes",
+            "C": "345 minutes",
+            "D": "195 minutes"
+        }
+    },
+    {
+        "question": "Convert 0.625 kg to grams.",
+        "answer": "A",
+        "options": {
+            "A": "625 g",
+            "B": "62.5 g",
+            "C": "6.25 g",
+            "D": "1250 g"
+        }
+    },
+    {
+        "question": "1 mile is approximately equal to how many kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "1.6 km",
+            "B": "1 km",
+            "C": "2 km",
+            "D": "0.6 km"
+        }
+    },
+    {
+        "question": "Convert 8 miles to kilometres (approximate).",
+        "answer": "A",
+        "options": {
+            "A": "12.8 km",
+            "B": "8 km",
+            "C": "16 km",
+            "D": "10 km"
+        }
+    },
+    {
+        "question": "Which shape could have the same area as another but a different perimeter?",
+        "answer": "A",
+        "options": {
+            "A": "Rectangle",
+            "B": "Circle",
+            "C": "Square only",
+            "D": "Triangle only"
+        }
+    },
+    {
+        "question": "Which statement is correct?",
+        "answer": "A",
+        "options": {
+            "A": "Shapes with equal area can have different perimeters",
+            "B": "Equal area means equal perimeter",
+            "C": "Equal perimeter means equal area",
+            "D": "Only squares have area"
+        }
+    },
+    {
+        "question": "Find the area of a triangle with base 12 cm and height 5 cm.",
+        "answer": "A",
+        "options": {
+            "A": "30 cm\u00b2",
+            "B": "60 cm\u00b2",
+            "C": "17 cm\u00b2",
+            "D": "25 cm\u00b2"
+        }
+    },
+    {
+        "question": "Find the area of a parallelogram with base 9 m and height 4 m.",
+        "answer": "A",
+        "options": {
+            "A": "36 m\u00b2",
+            "B": "18 m\u00b2",
+            "C": "13 m\u00b2",
+            "D": "72 m\u00b2"
+        }
+    },
+    {
+        "question": "Find the volume of a cube with side length 6 cm.",
+        "answer": "A",
+        "options": {
+            "A": "216 cm\u00b3",
+            "B": "36 cm\u00b3",
+            "C": "72 cm\u00b3",
+            "D": "180 cm\u00b3"
+        }
+    },
+    {
+        "question": "Find the volume of a cuboid measuring 8 cm \u00d7 5 cm \u00d7 3 cm.",
+        "answer": "A",
+        "options": {
+            "A": "120 cm\u00b3",
+            "B": "40 cm\u00b3",
+            "C": "16 cm\u00b3",
+            "D": "90 cm\u00b3"
+        }
+    },
+    {
+        "question": "Which unit is best for measuring the capacity of a water bottle?",
+        "answer": "A",
+        "options": {
+            "A": "litres",
+            "B": "kilometres",
+            "C": "grams",
+            "D": "square metres"
+        }
+    },
+    {
+        "question": "Which is a sensible estimate for the height of a classroom door?",
+        "answer": "A",
+        "options": {
+            "A": "2 metres",
+            "B": "20 metres",
+            "C": "20 centimetres",
+            "D": "200 metres"
+        }
+    },
+    {
+        "question": "Convert 6.25 kilometres to metres.",
+        "answer": "A",
+        "options": {
+            "A": "6250 m",
+            "B": "62.5 m",
+            "C": "625 m",
+            "D": "6.25 m"
+        }
+    },
+    {
+        "question": "Convert 0.84 metres to centimetres.",
+        "answer": "A",
+        "options": {
+            "A": "84 cm",
+            "B": "8.4 cm",
+            "C": "840 cm",
+            "D": "0.084 cm"
+        }
+    },
+    {
+        "question": "Convert 5200 grams to kilograms.",
+        "answer": "A",
+        "options": {
+            "A": "5.2 kg",
+            "B": "52 kg",
+            "C": "0.52 kg",
+            "D": "520 kg"
+        }
+    },
+    {
+        "question": "Convert 3.6 litres to millilitres.",
+        "answer": "A",
+        "options": {
+            "A": "3600 ml",
+            "B": "36 ml",
+            "C": "360 ml",
+            "D": "3.6 ml"
+        }
+    },
+    {
+        "question": "Convert 900 seconds to minutes.",
+        "answer": "A",
+        "options": {
+            "A": "15 minutes",
+            "B": "90 minutes",
+            "C": "9 minutes",
+            "D": "1.5 minutes"
+        }
+    },
+    {
+        "question": "Convert 0.375 kg to grams.",
+        "answer": "A",
+        "options": {
+            "A": "375 g",
+            "B": "37.5 g",
+            "C": "3.75 g",
+            "D": "750 g"
+        }
+    },
+    {
+        "question": "Convert 1 hour 20 minutes to minutes.",
+        "answer": "A",
+        "options": {
+            "A": "80 minutes",
+            "B": "60 minutes",
+            "C": "120 minutes",
+            "D": "20 minutes"
+        }
+    },
+    {
+        "question": "1 mile is approximately equal to how many kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "1.6 km",
+            "B": "1.4 km",
+            "C": "2 km",
+            "D": "0.6 km"
+        }
+    },
+    {
+        "question": "Convert 12 miles to kilometres (approximate).",
+        "answer": "A",
+        "options": {
+            "A": "19.2 km",
+            "B": "12 km",
+            "C": "24 km",
+            "D": "18 km"
+        }
+    },
+    {
+        "question": "Two shapes have the same perimeter. What could be different?",
+        "answer": "A",
+        "options": {
+            "A": "Their areas",
+            "B": "Their perimeters",
+            "C": "Their number of sides",
+            "D": "Their units"
+        }
+    },
+    {
+        "question": "Which statement is true?",
+        "answer": "A",
+        "options": {
+            "A": "Shapes with the same area can have different perimeters",
+            "B": "Same area means same shape",
+            "C": "Same perimeter means same area",
+            "D": "Only rectangles have area"
+        }
+    },
+    {
+        "question": "Find the area of a triangle with base 14 cm and height 6 cm.",
+        "answer": "A",
+        "options": {
+            "A": "42 cm\u00b2",
+            "B": "84 cm\u00b2",
+            "C": "20 cm\u00b2",
+            "D": "48 cm\u00b2"
+        }
+    },
+    {
+        "question": "Find the area of a parallelogram with base 11 m and height 7 m.",
+        "answer": "A",
+        "options": {
+            "A": "77 m\u00b2",
+            "B": "38.5 m\u00b2",
+            "C": "18 m\u00b2",
+            "D": "154 m\u00b2"
+        }
+    },
+    {
+        "question": "Find the volume of a cube with side length 5 cm.",
+        "answer": "A",
+        "options": {
+            "A": "125 cm\u00b3",
+            "B": "25 cm\u00b3",
+            "C": "75 cm\u00b3",
+            "D": "100 cm\u00b3"
+        }
+    },
+    {
+        "question": "Find the volume of a cuboid measuring 10 cm \u00d7 4 cm \u00d7 2 cm.",
+        "answer": "A",
+        "options": {
+            "A": "80 cm\u00b3",
+            "B": "40 cm\u00b3",
+            "C": "20 cm\u00b3",
+            "D": "160 cm\u00b3"
+        }
+    },
+    {
+        "question": "Which unit is most suitable for measuring the distance between two cities?",
+        "answer": "A",
+        "options": {
+            "A": "kilometres",
+            "B": "metres",
+            "C": "centimetres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "Which is the most sensible estimate for the mass of a school bag?",
+        "answer": "A",
+        "options": {
+            "A": "5 kg",
+            "B": "50 kg",
+            "C": "500 g",
+            "D": "50 g"
+        }
+    },
+    {
+        "question": "Convert 0.035 kilograms to grams.",
+        "answer": "B",
+        "options": {
+            "A": "3.5 g",
+            "B": "35 g",
+            "C": "350 g",
+            "D": "3500 g"
+        }
+    },
+    {
+        "question": "How many millimetres are in 2.005 metres?",
+        "answer": "B",
+        "options": {
+            "A": "200.5 mm",
+            "B": "2005 mm",
+            "C": "205 mm",
+            "D": "20050 mm"
+        }
+    },
+    {
+        "question": "Convert 4750 millilitres to litres.",
+        "answer": "B",
+        "options": {
+            "A": "47.5 l",
+            "B": "4.75 l",
+            "C": "0.475 l",
+            "D": "475 l"
+        }
+    },
+    {
+        "question": "Convert 0.008 kilometres to metres.",
+        "answer": "B",
+        "options": {
+            "A": "0.8 m",
+            "B": "8 m",
+            "C": "80 m",
+            "D": "800 m"
+        }
+    },
+    {
+        "question": "What is 3 hours 15 minutes as a decimal of an hour?",
+        "answer": "B",
+        "options": {
+            "A": "3.15 hours",
+            "B": "3.25 hours",
+            "C": "3.5 hours",
+            "D": "3.75 hours"
+        }
+    },
+    {
+        "question": "Convert 2.4 hours to minutes.",
+        "answer": "B",
+        "options": {
+            "A": "124 minutes",
+            "B": "144 minutes",
+            "C": "156 minutes",
+            "D": "240 minutes"
+        }
+    },
+    {
+        "question": "Convert 650 grams to kilograms.",
+        "answer": "C",
+        "options": {
+            "A": "65 kg",
+            "B": "6.5 kg",
+            "C": "0.65 kg",
+            "D": "0.065 kg"
+        }
+    },
+    {
+        "question": "How many centimetres are in 1.025 metres?",
+        "answer": "B",
+        "options": {
+            "A": "12.5 cm",
+            "B": "102.5 cm",
+            "C": "125 cm",
+            "D": "1025 cm"
+        }
+    },
+    {
+        "question": "Convert 0.125 hours to minutes.",
+        "answer": "B",
+        "options": {
+            "A": "1.25 minutes",
+            "B": "7.5 minutes",
+            "C": "12.5 minutes",
+            "D": "75 minutes"
+        }
+    },
+    {
+        "question": "Convert 4 days 6 hours into hours.",
+        "answer": "B",
+        "options": {
+            "A": "46 hours",
+            "B": "102 hours",
+            "C": "126 hours",
+            "D": "24 hours"
+        }
+    },
+    {
+        "question": "Convert 125 centimetres to metres.",
+        "answer": "B",
+        "options": {
+            "A": "12.5 m",
+            "B": "1.25 m",
+            "C": "0.125 m",
+            "D": "0.0125 m"
+        }
+    },
+    {
+        "question": "Convert 3.008 kilograms to grams.",
+        "answer": "B",
+        "options": {
+            "A": "300.8 g",
+            "B": "3008 g",
+            "C": "3080 g",
+            "D": "30008 g"
+        }
+    },
+    {
+        "question": "Approximately how many kilometres is 25 miles?",
+        "answer": "C",
+        "options": {
+            "A": "16 km",
+            "B": "25 km",
+            "C": "40 km",
+            "D": "60 km"
+        }
+    },
+    {
+        "question": "Convert 32 kilometres to miles.",
+        "answer": "A",
+        "options": {
+            "A": "20 miles",
+            "B": "32 miles",
+            "C": "51.2 miles",
+            "D": "50 miles"
+        }
+    },
+    {
+        "question": "Which distance is greater: 8 miles or 12 kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "8 miles",
+            "B": "12 kilometres",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Convert 6.25 miles to kilometres.",
+        "answer": "B",
+        "options": {
+            "A": "6.25 km",
+            "B": "10 km",
+            "C": "12.5 km",
+            "D": "4 km"
+        }
+    },
+    {
+        "question": "Approximately how many miles is 2.5 kilometres?",
+        "answer": "A",
+        "options": {
+            "A": "1.6 miles",
+            "B": "2.5 miles",
+            "C": "4 miles",
+            "D": "1.25 miles"
+        }
+    },
+    {
+        "question": "Convert 100 kilometres to miles.",
+        "answer": "B",
+        "options": {
+            "A": "60 miles",
+            "B": "62.5 miles",
+            "C": "100 miles",
+            "D": "160 miles"
+        }
+    },
+    {
+        "question": "Rectangle A measures 7cm by 3cm. Rectangle B measures 5cm by 4cm. Which has the larger perimeter?",
+        "answer": "A",
+        "options": {
+            "A": "A (20cm)",
+            "B": "B (18cm)",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Is it possible for two different rectangles to both have a perimeter of 24cm but have different areas?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Only if one is a square",
+            "D": "Only if they are the same shape"
+        }
+    },
+    {
+        "question": "True or False: All rectangles with a perimeter of 20cm have an area of 25cm\u00b2.",
+        "answer": "B",
+        "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Only if they are squares",
+            "D": "Only for some rectangles"
+        }
+    },
+    {
+        "question": "A rectangle has an area of 36cm\u00b2. Which pair of dimensions would give it the largest possible perimeter?",
+        "answer": "D",
+        "options": {
+            "A": "6cm by 6cm",
+            "B": "9cm by 4cm",
+            "C": "12cm by 3cm",
+            "D": "36cm by 1cm"
+        }
+    },
+    {
+        "question": "A 4cm\u00d74cm square and a 7cm\u00d71cm rectangle both have a perimeter of 16cm. Which has the larger area?",
+        "answer": "A",
+        "options": {
+            "A": "The square (16cm\u00b2)",
+            "B": "The rectangle (7cm\u00b2)",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "A square has a perimeter of 36cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "36cm\u00b2",
+            "B": "72cm\u00b2",
+            "C": "81cm\u00b2",
+            "D": "144cm\u00b2"
+        }
+    },
+    {
+        "question": "Which formula correctly calculates the area of a parallelogram?",
+        "answer": "B",
+        "options": {
+            "A": "Base \u00d7 Slanted side",
+            "B": "Base \u00d7 Perpendicular height",
+            "C": "Length \u00d7 Width",
+            "D": "\u00bd \u00d7 Base \u00d7 Height"
+        }
+    },
+    {
+        "question": "Which formula correctly calculates the area of a triangle?",
+        "answer": "B",
+        "options": {
+            "A": "Base \u00d7 Height",
+            "B": "\u00bd \u00d7 Base \u00d7 Height",
+            "C": "Base + Height",
+            "D": "2 \u00d7 Base \u00d7 Height"
+        }
+    },
+    {
+        "question": "To find the area of a compound shape made of two rectangles joined together, you should:",
+        "answer": "B",
+        "options": {
+            "A": "Use the formula for one big rectangle",
+            "B": "Split it into the two rectangles, calculate each area and add them",
+            "C": "Multiply all the side lengths together",
+            "D": "Calculate the perimeter instead"
+        }
+    },
+    {
+        "question": "Can you always use the formula length \u00d7 width \u00d7 height to find the volume of a cube?",
+        "answer": "A",
+        "options": {
+            "A": "Yes, because a cube is a special cuboid",
+            "B": "No, cubes need a different formula",
+            "C": "Only if the sides are less than 10cm",
+            "D": "Only if you know the density"
+        }
+    },
+    {
+        "question": "When calculating the area of a parallelogram, which measurement should you NOT use?",
+        "answer": "C",
+        "options": {
+            "A": "The base",
+            "B": "The perpendicular height",
+            "C": "The slanted side length",
+            "D": "The area of a surrounding rectangle"
+        }
+    },
+    {
+        "question": "For an irregular shape drawn on a centimetre grid, the best way to find the area is to:",
+        "answer": "B",
+        "options": {
+            "A": "Use the formula base \u00d7 height",
+            "B": "Count the whole squares and estimate partial squares",
+            "C": "Multiply the longest length by the widest width",
+            "D": "Use the formula for a triangle"
+        }
+    },
+    {
+        "question": "What is the area of a parallelogram with base 8.5cm and perpendicular height 4cm?",
+        "answer": "C",
+        "options": {
+            "A": "12.5cm\u00b2",
+            "B": "25cm\u00b2",
+            "C": "34cm\u00b2",
+            "D": "68cm\u00b2"
+        }
+    },
+    {
+        "question": "Calculate the area of a triangle with base 16cm and height 3cm.",
+        "answer": "B",
+        "options": {
+            "A": "48cm\u00b2",
+            "B": "24cm\u00b2",
+            "C": "19cm\u00b2",
+            "D": "38cm\u00b2"
+        }
+    },
+    {
+        "question": "A parallelogram has an area of 48cm\u00b2 and a base of 8cm. What is the perpendicular height?",
+        "answer": "B",
+        "options": {
+            "A": "4cm",
+            "B": "6cm",
+            "C": "12cm",
+            "D": "24cm"
+        }
+    },
+    {
+        "question": "A triangle has an area of 28cm\u00b2 and a height of 7cm. What is the length of the base?",
+        "answer": "B",
+        "options": {
+            "A": "4cm",
+            "B": "8cm",
+            "C": "14cm",
+            "D": "56cm"
+        }
+    },
+    {
+        "question": "Calculate the area of a triangle with base 12cm and height 3.5cm.",
+        "answer": "B",
+        "options": {
+            "A": "42cm\u00b2",
+            "B": "21cm\u00b2",
+            "C": "15.5cm\u00b2",
+            "D": "36cm\u00b2"
+        }
+    },
+    {
+        "question": "A parallelogram has a base of 5cm, a slanted side of 4cm, and a perpendicular height of 3cm. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "20cm\u00b2",
+            "B": "15cm\u00b2",
+            "C": "12cm\u00b2",
+            "D": "35cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a triangle with base 10cm and height 4.5cm?",
+        "answer": "B",
+        "options": {
+            "A": "45cm\u00b2",
+            "B": "22.5cm\u00b2",
+            "C": "14.5cm\u00b2",
+            "D": "90cm\u00b2"
+        }
+    },
+    {
+        "question": "Calculate the area of a parallelogram with base 7.5cm and height 3.2cm.",
+        "answer": "B",
+        "options": {
+            "A": "10.7cm\u00b2",
+            "B": "24cm\u00b2",
+            "C": "48cm\u00b2",
+            "D": "23.5cm\u00b2"
+        }
+    },
+    {
+        "question": "Find the area of a triangle with base 5.5cm and height 8cm.",
+        "answer": "B",
+        "options": {
+            "A": "44cm\u00b2",
+            "B": "22cm\u00b2",
+            "C": "13.5cm\u00b2",
+            "D": "26cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the area of a parallelogram with base 12cm and height 2.5cm?",
+        "answer": "B",
+        "options": {
+            "A": "14.5cm\u00b2",
+            "B": "30cm\u00b2",
+            "C": "60cm\u00b2",
+            "D": "24cm\u00b2"
+        }
+    },
+    {
+        "question": "Calculate the area of a triangle with base 9cm and height 6cm.",
+        "answer": "B",
+        "options": {
+            "A": "54cm\u00b2",
+            "B": "27cm\u00b2",
+            "C": "15cm\u00b2",
+            "D": "36cm\u00b2"
+        }
+    },
+    {
+        "question": "Find the area of a parallelogram with base 6.25cm and height 4cm.",
+        "answer": "B",
+        "options": {
+            "A": "10.25cm\u00b2",
+            "B": "25cm\u00b2",
+            "C": "50cm\u00b2",
+            "D": "24cm\u00b2"
+        }
+    },
+    {
+        "question": "What is the volume of a cuboid measuring 4cm by 3cm by 2.5cm?",
+        "answer": "B",
+        "options": {
+            "A": "9.5cm\u00b3",
+            "B": "30cm\u00b3",
+            "C": "24cm\u00b3",
+            "D": "54cm\u00b3"
+        }
+    },
+    {
+        "question": "Calculate the volume of a cube with side length 5cm.",
+        "answer": "C",
+        "options": {
+            "A": "15cm\u00b3",
+            "B": "25cm\u00b3",
+            "C": "125cm\u00b3",
+            "D": "100cm\u00b3"
+        }
+    },
+    {
+        "question": "A cuboid has a volume of 72cm\u00b3. The base measures 6cm by 4cm. What is the height?",
+        "answer": "B",
+        "options": {
+            "A": "2cm",
+            "B": "3cm",
+            "C": "12cm",
+            "D": "18cm"
+        }
+    },
+    {
+        "question": "Calculate the volume of a cuboid with dimensions 2.5cm by 4cm by 4cm.",
+        "answer": "B",
+        "options": {
+            "A": "10.5cm\u00b3",
+            "B": "40cm\u00b3",
+            "C": "32cm\u00b3",
+            "D": "64cm\u00b3"
+        }
+    },
+    {
+        "question": "Convert 0.045 cubic metres to cubic centimetres.",
+        "answer": "C",
+        "options": {
+            "A": "450cm\u00b3",
+            "B": "4500cm\u00b3",
+            "C": "45000cm\u00b3",
+            "D": "45000000cm\u00b3"
+        }
+    },
+    {
+        "question": "How many litres is 3.25 litres in cubic centimetres?",
+        "answer": "B",
+        "options": {
+            "A": "325cm\u00b3",
+            "B": "3250cm\u00b3",
+            "C": "32500cm\u00b3",
+            "D": "325000cm\u00b3"
+        }
+    },
+    {
+        "question": "Convert 8500 cubic centimetres to litres.",
+        "answer": "B",
+        "options": {
+            "A": "0.85 litres",
+            "B": "8.5 litres",
+            "C": "85 litres",
+            "D": "850 litres"
+        }
+    },
+    {
+        "question": "A storage box measures 10cm by 5cm by 20cm. What is its volume in litres?",
+        "answer": "B",
+        "options": {
+            "A": "0.1 litres",
+            "B": "1 litre",
+            "C": "10 litres",
+            "D": "100 litres"
+        }
+    },
+    {
+        "question": "Which is a sensible estimate for the height of a classroom door?",
+        "answer": "B",
+        "options": {
+            "A": "2cm",
+            "B": "2m",
+            "C": "20m",
+            "D": "0.2m"
+        }
+    },
+    {
+        "question": "Which is a sensible weight for a medium-sized apple?",
+        "answer": "B",
+        "options": {
+            "A": "15g",
+            "B": "150g",
+            "C": "1.5kg",
+            "D": "15kg"
+        }
+    },
+    {
+        "question": "Which is a sensible capacity for a tea mug?",
+        "answer": "B",
+        "options": {
+            "A": "35ml",
+            "B": "350ml",
+            "C": "3.5 litres",
+            "D": "35 litres"
+        }
+    },
+    {
+        "question": "Which is a sensible distance for running a marathon?",
+        "answer": "B",
+        "options": {
+            "A": "2.6 miles",
+            "B": "26 miles",
+            "C": "260 miles",
+            "D": "0.26 miles"
+        }
+    },
+    {
+        "question": "Which has the greater area: A parallelogram with base 8cm and height 5cm, or a rectangle measuring 8cm by 5cm?",
+        "answer": "C",
+        "options": {
+            "A": "The parallelogram",
+            "B": "The rectangle",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Which has the greater volume: A 3cm cube or a cuboid measuring 4cm by 3cm by 2cm?",
+        "answer": "A",
+        "options": {
+            "A": "The cube (27cm\u00b3)",
+            "B": "The cuboid (24cm\u00b3)",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Convert 0.256 kilometres to metres.",
+        "answer": "B",
+        "options": {
+            "A": "25.6m",
+            "B": "256m",
+            "C": "2560m",
+            "D": "2.56m"
+        }
+    },
+    {
+        "question": "Convert 3.5 tonnes to kilograms.",
+        "answer": "C",
+        "options": {
+            "A": "35kg",
+            "B": "350kg",
+            "C": "3500kg",
+            "D": "35000kg"
+        }
+    },
+    {
+        "question": "How many hours and minutes is 145 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "1 hour 45 minutes",
+            "B": "2 hours 25 minutes",
+            "C": "2 hours 45 minutes",
+            "D": "1 hour 25 minutes"
+        }
+    },
+    {
+        "question": "A bottle holds 1.25 litres. If you pour out 375 millilitres, how many millilitres remain?",
+        "answer": "A",
+        "options": {
+            "A": "875ml",
+            "B": "975ml",
+            "C": "1125ml",
+            "D": "625ml"
+        }
+    }
+]

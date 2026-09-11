@@ -19,7 +19,7 @@ import matplotlib as mpl
 from matplotlib.patches import Rectangle, Polygon, Circle
 
 # ---------------- Config ----------------
-NUM_QUESTIONS = 1000
+NUM_QUESTIONS = 100
 IMG_DIR = "images"
 JSON_PATH = "questions.json"
 FIGSIZE = (4.5, 4.5)

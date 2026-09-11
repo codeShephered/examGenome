@@ -1,0 +1,1602 @@
+[
+  {
+    "qid": 1,
+    "question": "A pie chart shows the favourite sports of 60 students. Football takes up 120° of the circle. How many students chose football?",
+    "options": {
+      "A": "15 students",
+      "B": "20 students",
+      "C": "25 students",
+      "D": "30 students"
+    },
+    "answer": "B",
+    "explanation": "A full circle is 360°. The fraction for football is 120°/360° = 1/3. One-third of 60 students is 60 ÷ 3 = 20 students.",
+    "difficulty": "medium",
+    "imgFileName": "1_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 2,
+    "question": "A line graph shows temperature changes. At 9am the temperature was 12°C and at 3pm it was 18°C. What was the temperature increase over these 6 hours?",
+    "options": {
+      "A": "4°C",
+      "B": "5°C",
+      "C": "6°C",
+      "D": "7°C"
+    },
+    "answer": "C",
+    "explanation": "To find the increase, subtract the starting temperature from the ending temperature: 18°C - 12°C = 6°C.",
+    "difficulty": "medium",
+    "imgFileName": "2_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 3,
+    "question": "The mean of 4, 7, 9, and 12 is calculated. What is the mean?",
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10"
+    },
+    "answer": "B",
+    "explanation": "To find the mean, add all values and divide by the number of values: (4 + 7 + 9 + 12) ÷ 4 = 32 ÷ 4 = 8.",
+    "difficulty": "medium",
+    "imgFileName": "3_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 4,
+    "question": "A pie chart shows how 80 pupils travel to school. If 25% travel by car, what angle represents car travel?",
+    "options": {
+      "A": "60°",
+      "B": "75°",
+      "C": "90°",
+      "D": "100°"
+    },
+    "answer": "C",
+    "explanation": "25% is the same as 1/4. A quarter of a full circle (360°) is 360° ÷ 4 = 90°.",
+    "difficulty": "medium",
+    "imgFileName": "4_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 5,
+    "question": "A line graph shows distance travelled over time. A car travels 80 km in 2 hours at a steady speed. How far does it travel in 5 hours?",
+    "options": {
+      "A": "160 km",
+      "B": "180 km",
+      "C": "200 km",
+      "D": "240 km"
+    },
+    "answer": "C",
+    "explanation": "The car travels 80 km ÷ 2 hours = 40 km per hour. In 5 hours: 40 km × 5 = 200 km.",
+    "difficulty": "medium",
+    "imgFileName": "5_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 6,
+    "question": "Five children scored 15, 18, 22, 20, and 25 marks in a test. What is the mean score?",
+    "options": {
+      "A": "19 marks",
+      "B": "20 marks",
+      "C": "21 marks",
+      "D": "22 marks"
+    },
+    "answer": "B",
+    "explanation": "Add all scores: 15 + 18 + 22 + 20 + 25 = 100. Divide by 5: 100 ÷ 5 = 20 marks.",
+    "difficulty": "medium",
+    "imgFileName": "6_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 7,
+    "question": "A pie chart represents 120 books in a library. Fiction takes up 150° of the chart. How many fiction books are there?",
+    "options": {
+      "A": "40 books",
+      "B": "45 books",
+      "C": "50 books",
+      "D": "60 books"
+    },
+    "answer": "C",
+    "explanation": "The fraction is 150°/360° = 5/12. Calculate 5/12 of 120: (120 ÷ 12) × 5 = 10 × 5 = 50 books.",
+    "difficulty": "medium",
+    "imgFileName": "7_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 8,
+    "question": "A line graph shows plant growth. A plant was 8 cm tall on Day 1 and 26 cm tall on Day 10. What was the total growth?",
+    "options": {
+      "A": "16 cm",
+      "B": "18 cm",
+      "C": "20 cm",
+      "D": "22 cm"
+    },
+    "answer": "B",
+    "explanation": "Total growth is the difference in heights: 26 cm - 8 cm = 18 cm.",
+    "difficulty": "medium",
+    "imgFileName": "8_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 9,
+    "question": "The mean of three numbers is 15. Two of the numbers are 12 and 18. What is the third number?",
+    "options": {
+      "A": "12",
+      "B": "15",
+      "C": "18",
+      "D": "21"
+    },
+    "answer": "B",
+    "explanation": "If the mean is 15, the total is 15 × 3 = 45. The third number is 45 - 12 - 18 = 15.",
+    "difficulty": "medium",
+    "imgFileName": "9_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 10,
+    "question": "A pie chart shows favourite colours of 90 children. Red takes up 40° of the circle. How many children chose red?",
+    "options": {
+      "A": "8 children",
+      "B": "10 children",
+      "C": "12 children",
+      "D": "15 children"
+    },
+    "answer": "B",
+    "explanation": "The fraction is 40°/360° = 1/9. One-ninth of 90 children is 90 ÷ 9 = 10 children.",
+    "difficulty": "medium",
+    "imgFileName": "10_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 11,
+    "question": "A line graph shows rainfall. In January there was 45 mm of rain and in February there was 63 mm. What was the increase in rainfall?",
+    "options": {
+      "A": "15 mm",
+      "B": "18 mm",
+      "C": "20 mm",
+      "D": "22 mm"
+    },
+    "answer": "B",
+    "explanation": "The increase is 63 mm - 45 mm = 18 mm.",
+    "difficulty": "medium",
+    "imgFileName": "11_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 12,
+    "question": "Four test scores are 68, 72, 76, and 84. What is the mean score?",
+    "options": {
+      "A": "74",
+      "B": "75",
+      "C": "76",
+      "D": "78"
+    },
+    "answer": "B",
+    "explanation": "Add all scores: 68 + 72 + 76 + 84 = 300. Divide by 4: 300 ÷ 4 = 75.",
+    "difficulty": "medium",
+    "imgFileName": "12_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 13,
+    "question": "A pie chart shows 144 votes. If one section has an angle of 90°, how many votes does it represent?",
+    "options": {
+      "A": "30 votes",
+      "B": "32 votes",
+      "C": "36 votes",
+      "D": "40 votes"
+    },
+    "answer": "C",
+    "explanation": "90° out of 360° is 90/360 = 1/4. One-quarter of 144 votes is 144 ÷ 4 = 36 votes.",
+    "difficulty": "medium",
+    "imgFileName": "13_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 14,
+    "question": "A line graph shows conversion from kilometres to miles. If 8 km equals 5 miles, how many miles is 24 km?",
+    "options": {
+      "A": "12 miles",
+      "B": "15 miles",
+      "C": "18 miles",
+      "D": "20 miles"
+    },
+    "answer": "B",
+    "explanation": "If 8 km = 5 miles, then 24 km is 3 times 8 km. So 24 km = 3 × 5 miles = 15 miles.",
+    "difficulty": "medium",
+    "imgFileName": "14_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 15,
+    "question": "The mean age of 5 students is 11 years. What is the total of all their ages?",
+    "options": {
+      "A": "50 years",
+      "B": "52 years",
+      "C": "55 years",
+      "D": "60 years"
+    },
+    "answer": "C",
+    "explanation": "If the mean is 11 years, the total is 11 × 5 = 55 years.",
+    "difficulty": "medium",
+    "imgFileName": "15_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 16,
+    "question": "A pie chart shows 72 pets. Dogs represent 1/3 of the pets. What angle represents dogs?",
+    "options": {
+      "A": "90°",
+      "B": "100°",
+      "C": "120°",
+      "D": "135°"
+    },
+    "answer": "C",
+    "explanation": "One-third of a full circle is 360° ÷ 3 = 120°.",
+    "difficulty": "medium",
+    "imgFileName": "16_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 17,
+    "question": "A line graph shows temperature over 4 hours. The temperature rose from 14°C to 22°C. What was the average temperature increase per hour?",
+    "options": {
+      "A": "1°C per hour",
+      "B": "2°C per hour",
+      "C": "3°C per hour",
+      "D": "4°C per hour"
+    },
+    "answer": "B",
+    "explanation": "Total increase is 22°C - 14°C = 8°C over 4 hours. Average per hour is 8°C ÷ 4 = 2°C per hour.",
+    "difficulty": "medium",
+    "imgFileName": "17_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 18,
+    "question": "Six numbers have a mean of 18. Their total is 108. If one number is 24, what is the mean of the remaining 5 numbers?",
+    "options": {
+      "A": "15.6",
+      "B": "16",
+      "C": "16.8",
+      "D": "17"
+    },
+    "answer": "C",
+    "explanation": "Total of 6 numbers is 108. Remove 24: 108 - 24 = 84. Mean of 5 numbers: 84 ÷ 5 = 16.8.",
+    "difficulty": "medium",
+    "imgFileName": "18_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 19,
+    "question": "A pie chart represents 180 students. Science takes up 60° of the chart. How many students chose science?",
+    "options": {
+      "A": "25 students",
+      "B": "30 students",
+      "C": "35 students",
+      "D": "40 students"
+    },
+    "answer": "B",
+    "explanation": "60° out of 360° is 60/360 = 1/6. One-sixth of 180 students is 180 ÷ 6 = 30 students.",
+    "difficulty": "medium",
+    "imgFileName": "19_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 20,
+    "question": "A line graph shows money saved. Sam saved £12 in Week 1 and £48 in Week 4. What was the total increase in savings?",
+    "options": {
+      "A": "£32",
+      "B": "£34",
+      "C": "£36",
+      "D": "£40"
+    },
+    "answer": "C",
+    "explanation": "The increase is £48 - £12 = £36.",
+    "difficulty": "medium",
+    "imgFileName": "20_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 21,
+    "question": "The mean of 24, 28, 32, and 36 is calculated. What is the mean?",
+    "options": {
+      "A": "28",
+      "B": "30",
+      "C": "32",
+      "D": "34"
+    },
+    "answer": "B",
+    "explanation": "Add all values: 24 + 28 + 32 + 36 = 120. Divide by 4: 120 ÷ 4 = 30.",
+    "difficulty": "medium",
+    "imgFileName": "21_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 22,
+    "question": "A pie chart shows 200 votes. If 30% voted for Option A, what angle represents Option A?",
+    "options": {
+      "A": "90°",
+      "B": "100°",
+      "C": "108°",
+      "D": "120°"
+    },
+    "answer": "C",
+    "explanation": "30% is 30/100 = 3/10. Calculate 3/10 of 360°: (360° ÷ 10) × 3 = 36° × 3 = 108°.",
+    "difficulty": "medium",
+    "imgFileName": "22_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 23,
+    "question": "A line graph shows distance vs time. A cyclist travels 15 km in 30 minutes. At the same speed, how far in 90 minutes?",
+    "options": {
+      "A": "40 km",
+      "B": "42 km",
+      "C": "45 km",
+      "D": "48 km"
+    },
+    "answer": "C",
+    "explanation": "In 30 minutes the cyclist travels 15 km. In 90 minutes (3 times longer): 15 km × 3 = 45 km.",
+    "difficulty": "medium",
+    "imgFileName": "23_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 24,
+    "question": "Five measurements are 2.4 m, 3.6 m, 4.8 m, 5.2 m, and 6 m. What is the mean length?",
+    "options": {
+      "A": "4.2 m",
+      "B": "4.4 m",
+      "C": "4.6 m",
+      "D": "4.8 m"
+    },
+    "answer": "B",
+    "explanation": "Add all measurements: 2.4 + 3.6 + 4.8 + 5.2 + 6 = 22. Divide by 5: 22 ÷ 5 = 4.4 m.",
+    "difficulty": "medium",
+    "imgFileName": "24_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 25,
+    "question": "A pie chart shows 240 books. Mysteries take up 45° of the chart. How many mystery books are there?",
+    "options": {
+      "A": "25 books",
+      "B": "30 books",
+      "C": "35 books",
+      "D": "40 books"
+    },
+    "answer": "B",
+    "explanation": "45° out of 360° is 45/360 = 1/8. One-eighth of 240 books is 240 ÷ 8 = 30 books.",
+    "difficulty": "medium",
+    "imgFileName": "25_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 26,
+    "question": "A line graph shows height growth. A tree was 120 cm tall in Year 1 and 180 cm tall in Year 4. What was the total growth?",
+    "options": {
+      "A": "50 cm",
+      "B": "55 cm",
+      "C": "60 cm",
+      "D": "65 cm"
+    },
+    "answer": "C",
+    "explanation": "The growth is 180 cm - 120 cm = 60 cm.",
+    "difficulty": "medium",
+    "imgFileName": "26_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 27,
+    "question": "The mean of four numbers is 25. Three of the numbers are 20, 24, and 28. What is the fourth number?",
+    "options": {
+      "A": "26",
+      "B": "28",
+      "C": "30",
+      "D": "32"
+    },
+    "answer": "B",
+    "explanation": "If the mean is 25, the total is 25 × 4 = 100. The fourth number is 100 - 20 - 24 - 28 = 28.",
+    "difficulty": "medium",
+    "imgFileName": "27_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 28,
+    "question": "A pie chart shows 150 children's hobbies. Reading takes up 72° of the circle. How many children chose reading?",
+    "options": {
+      "A": "25 children",
+      "B": "28 children",
+      "C": "30 children",
+      "D": "35 children"
+    },
+    "answer": "C",
+    "explanation": "72° out of 360° is 72/360 = 1/5. One-fifth of 150 children is 150 ÷ 5 = 30 children.",
+    "difficulty": "medium",
+    "imgFileName": "28_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 29,
+    "question": "A line graph shows water levels. The level was 35 cm on Monday and 56 cm on Friday. What was the increase?",
+    "options": {
+      "A": "19 cm",
+      "B": "21 cm",
+      "C": "23 cm",
+      "D": "25 cm"
+    },
+    "answer": "B",
+    "explanation": "The increase is 56 cm - 35 cm = 21 cm.",
+    "difficulty": "medium",
+    "imgFileName": "29_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 30,
+    "question": "Seven numbers have a mean of 12. What is their total?",
+    "options": {
+      "A": "78",
+      "B": "80",
+      "C": "82",
+      "D": "84"
+    },
+    "answer": "D",
+    "explanation": "If the mean is 12, the total is 12 × 7 = 84.",
+    "difficulty": "medium",
+    "imgFileName": "30_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 31,
+    "question": "A pie chart represents 96 items. One category is 2/3 of the total. What angle represents this category?",
+    "options": {
+      "A": "180°",
+      "B": "200°",
+      "C": "220°",
+      "D": "240°"
+    },
+    "answer": "D",
+    "explanation": "Two-thirds of a full circle is (360° ÷ 3) × 2 = 120° × 2 = 240°.",
+    "difficulty": "medium",
+    "imgFileName": "31_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 32,
+    "question": "A line graph shows conversion from km to miles. If 16 km equals 10 miles, how many miles is 40 km?",
+    "options": {
+      "A": "20 miles",
+      "B": "25 miles",
+      "C": "30 miles",
+      "D": "35 miles"
+    },
+    "answer": "B",
+    "explanation": "If 16 km = 10 miles, then 40 km is 2.5 times 16 km. So 40 km = 2.5 × 10 miles = 25 miles.",
+    "difficulty": "medium",
+    "imgFileName": "32_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 33,
+    "question": "Six test scores are 54, 62, 68, 74, 78, and 84. What is the mean score?",
+    "options": {
+      "A": "68",
+      "B": "70",
+      "C": "72",
+      "D": "74"
+    },
+    "answer": "B",
+    "explanation": "Add all scores: 54 + 62 + 68 + 74 + 78 + 84 = 420. Divide by 6: 420 ÷ 6 = 70.",
+    "difficulty": "medium",
+    "imgFileName": "33_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 34,
+    "question": "A pie chart shows 360 students. History takes up 50° of the chart. How many students chose history?",
+    "options": {
+      "A": "45 students",
+      "B": "48 students",
+      "C": "50 students",
+      "D": "55 students"
+    },
+    "answer": "C",
+    "explanation": "50° out of 360° is 50/360 = 5/36. Calculate (360 ÷ 36) × 5 = 10 × 5 = 50 students.",
+    "difficulty": "medium",
+    "imgFileName": "34_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 35,
+    "question": "A line graph shows population growth. A town had 4500 people in 2020 and 6300 people in 2024. What was the total increase?",
+    "options": {
+      "A": "1600 people",
+      "B": "1700 people",
+      "C": "1800 people",
+      "D": "1900 people"
+    },
+    "answer": "C",
+    "explanation": "The increase is 6300 - 4500 = 1800 people.",
+    "difficulty": "medium",
+    "imgFileName": "35_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 36,
+    "question": "The mean of 5 numbers is 36. Four of the numbers are 32, 34, 38, and 42. What is the fifth number?",
+    "options": {
+      "A": "32",
+      "B": "34",
+      "C": "36",
+      "D": "38"
+    },
+    "answer": "B",
+    "explanation": "If the mean is 36, the total is 36 × 5 = 180. The fifth number is 180 - 32 - 34 - 38 - 42 = 34.",
+    "difficulty": "medium",
+    "imgFileName": "36_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 37,
+    "question": "A pie chart shows 540 votes. If 20% voted for Candidate B, what angle represents Candidate B?",
+    "options": {
+      "A": "60°",
+      "B": "72°",
+      "C": "80°",
+      "D": "90°"
+    },
+    "answer": "B",
+    "explanation": "20% is 20/100 = 1/5. One-fifth of 360° is 360° ÷ 5 = 72°.",
+    "difficulty": "medium",
+    "imgFileName": "37_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 38,
+    "question": "A line graph shows speed over time. A runner's speed increased from 6 km/h to 15 km/h over 3 minutes. What was the increase in speed?",
+    "options": {
+      "A": "7 km/h",
+      "B": "8 km/h",
+      "C": "9 km/h",
+      "D": "10 km/h"
+    },
+    "answer": "C",
+    "explanation": "The increase is 15 km/h - 6 km/h = 9 km/h.",
+    "difficulty": "medium",
+    "imgFileName": "38_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 39,
+    "question": "Four distances are 3.5 km, 4.2 km, 5.8 km, and 6.5 km. What is the mean distance?",
+    "options": {
+      "A": "4.8 km",
+      "B": "5 km",
+      "C": "5.2 km",
+      "D": "5.5 km"
+    },
+    "answer": "B",
+    "explanation": "Add all distances: 3.5 + 4.2 + 5.8 + 6.5 = 20. Divide by 4: 20 ÷ 4 = 5 km.",
+    "difficulty": "medium",
+    "imgFileName": "39_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 40,
+    "question": "A pie chart shows 108 animals. Rabbits take up 100° of the chart. How many rabbits are there?",
+    "options": {
+      "A": "25 rabbits",
+      "B": "27 rabbits",
+      "C": "30 rabbits",
+      "D": "32 rabbits"
+    },
+    "answer": "C",
+    "explanation": "100° out of 360° is 100/360 = 5/18. Calculate (108 ÷ 18) × 5 = 6 × 5 = 30 rabbits.",
+    "difficulty": "medium",
+    "imgFileName": "40_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 41,
+    "question": "A line graph shows price changes. A book cost £8 in January and £14 in June. What was the price increase?",
+    "options": {
+      "A": "£4",
+      "B": "£5",
+      "C": "£6",
+      "D": "£7"
+    },
+    "answer": "C",
+    "explanation": "The increase is £14 - £8 = £6.",
+    "difficulty": "medium",
+    "imgFileName": "41_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 42,
+    "question": "Eight numbers have a mean of 22. What is their total?",
+    "options": {
+      "A": "164",
+      "B": "172",
+      "C": "176",
+      "D": "180"
+    },
+    "answer": "C",
+    "explanation": "If the mean is 22, the total is 22 × 8 = 176.",
+    "difficulty": "medium",
+    "imgFileName": "42_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 43,
+    "question": "A pie chart shows favourite fruits of 200 children. Apples represent 3/8 of the children. What angle represents apples?",
+    "options": {
+      "A": "120°",
+      "B": "125°",
+      "C": "130°",
+      "D": "135°"
+    },
+    "answer": "D",
+    "explanation": "3/8 of a full circle is (360° ÷ 8) × 3 = 45° × 3 = 135°.",
+    "difficulty": "medium",
+    "imgFileName": "43_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 44,
+    "question": "A line graph shows distance walked. In 2 hours, a person walks 10 km at a steady pace. How far in 7 hours?",
+    "options": {
+      "A": "30 km",
+      "B": "32 km",
+      "C": "35 km",
+      "D": "38 km"
+    },
+    "answer": "C",
+    "explanation": "Speed is 10 km ÷ 2 hours = 5 km per hour. In 7 hours: 5 km × 7 = 35 km.",
+    "difficulty": "medium",
+    "imgFileName": "44_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 45,
+    "question": "Five weights are 12 kg, 15 kg, 18 kg, 20 kg, and 25 kg. What is the mean weight?",
+    "options": {
+      "A": "17 kg",
+      "B": "18 kg",
+      "C": "19 kg",
+      "D": "20 kg"
+    },
+    "answer": "B",
+    "explanation": "Add all weights: 12 + 15 + 18 + 20 + 25 = 90. Divide by 5: 90 ÷ 5 = 18 kg.",
+    "difficulty": "medium",
+    "imgFileName": "45_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 46,
+    "question": "A pie chart represents 300 students. Geography takes up 36° of the chart. How many students chose geography?",
+    "options": {
+      "A": "25 students",
+      "B": "28 students",
+      "C": "30 students",
+      "D": "32 students"
+    },
+    "answer": "C",
+    "explanation": "36° out of 360° is 36/360 = 1/10. One-tenth of 300 students is 300 ÷ 10 = 30 students.",
+    "difficulty": "medium",
+    "imgFileName": "46_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 47,
+    "question": "A line graph shows sales figures. Sales were 240 units in March and 360 units in July. What was the increase?",
+    "options": {
+      "A": "100 units",
+      "B": "110 units",
+      "C": "120 units",
+      "D": "130 units"
+    },
+    "answer": "C",
+    "explanation": "The increase is 360 - 240 = 120 units.",
+    "difficulty": "medium",
+    "imgFileName": "47_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 48,
+    "question": "The mean of 6 numbers is 45. Five of the numbers are 38, 42, 46, 48, and 52. What is the sixth number?",
+    "options": {
+      "A": "42",
+      "B": "44",
+      "C": "46",
+      "D": "48"
+    },
+    "answer": "B",
+    "explanation": "If the mean is 45, the total is 45 × 6 = 270. The sixth number is 270 - 38 - 42 - 46 - 48 - 52 = 44.",
+    "difficulty": "medium",
+    "imgFileName": "48_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 49,
+    "question": "A pie chart shows 480 responses. If 15% chose Option C, what angle represents Option C?",
+    "options": {
+      "A": "48°",
+      "B": "50°",
+      "C": "54°",
+      "D": "60°"
+    },
+    "answer": "C",
+    "explanation": "15% is 15/100 = 3/20. Calculate (360° ÷ 20) × 3 = 18° × 3 = 54°.",
+    "difficulty": "medium",
+    "imgFileName": "49_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 50,
+    "question": "A line graph shows km to miles conversion. If 24 km equals 15 miles, how many km equals 10 miles?",
+    "options": {
+      "A": "14 km",
+      "B": "15 km",
+      "C": "16 km",
+      "D": "18 km"
+    },
+    "answer": "C",
+    "explanation": "If 24 km = 15 miles, then 1 mile = 24 km ÷ 15 = 1.6 km. So 10 miles = 10 × 1.6 km = 16 km.",
+    "difficulty": "medium",
+    "imgFileName": "50_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 51,
+    "question": "Seven ages are 9, 11, 13, 14, 15, 16, and 18 years. What is the mean age?",
+    "options": {
+      "A": "13 years",
+      "B": "13.5 years",
+      "C": "14 years",
+      "D": "14.5 years"
+    },
+    "answer": "C",
+    "explanation": "Add all ages: 9 + 11 + 13 + 14 + 15 + 16 + 18 = 96. Divide by 7: 96 ÷ 7 = 13.71, which rounds to 14 years. Actually: 96 ÷ 7 ≈ 13.71, but let me recalculate: 96 ÷ 7 = 13.714... The closest option is 14 years.",
+    "difficulty": "medium",
+    "imgFileName": "51_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 52,
+    "question": "A pie chart shows 216 items. Electronics take up 80° of the chart. How many electronics are there?",
+    "options": {
+      "A": "44 items",
+      "B": "46 items",
+      "C": "48 items",
+      "D": "50 items"
+    },
+    "answer": "C",
+    "explanation": "80° out of 360° is 80/360 = 2/9. Calculate (216 ÷ 9) × 2 = 24 × 2 = 48 items.",
+    "difficulty": "medium",
+    "imgFileName": "52_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 53,
+    "question": "A line graph shows attendance. Attendance rose from 450 in January to 585 in May. What was the increase?",
+    "options": {
+      "A": "125",
+      "B": "130",
+      "C": "135",
+      "D": "140"
+    },
+    "answer": "C",
+    "explanation": "The increase is 585 - 450 = 135.",
+    "difficulty": "medium",
+    "imgFileName": "53_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 54,
+    "question": "The mean of 4 numbers is 52. Three of the numbers are 48, 50, and 56. What is the fourth number?",
+    "options": {
+      "A": "50",
+      "B": "52",
+      "C": "54",
+      "D": "56"
+    },
+    "answer": "C",
+    "explanation": "If the mean is 52, the total is 52 × 4 = 208. The fourth number is 208 - 48 - 50 - 56 = 54.",
+    "difficulty": "medium",
+    "imgFileName": "54_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 55,
+    "question": "A pie chart shows 400 animals. Cats represent 5/8 of the animals. What angle represents cats?",
+    "options": {
+      "A": "200°",
+      "B": "210°",
+      "C": "220°",
+      "D": "225°"
+    },
+    "answer": "D",
+    "explanation": "5/8 of a full circle is (360° ÷ 8) × 5 = 45° × 5 = 225°.",
+    "difficulty": "medium",
+    "imgFileName": "55_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 56,
+    "question": "A line graph shows temperature over 8 hours. Temperature rose from 8°C to 24°C. What was the average increase per hour?",
+    "options": {
+      "A": "1.5°C per hour",
+      "B": "2°C per hour",
+      "C": "2.5°C per hour",
+      "D": "3°C per hour"
+    },
+    "answer": "B",
+    "explanation": "Total increase is 24°C - 8°C = 16°C over 8 hours. Average per hour is 16°C ÷ 8 = 2°C per hour.",
+    "difficulty": "medium",
+    "imgFileName": "56_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 57,
+    "question": "Six scores are 85, 88, 91, 94, 97, and 101. What is the mean score?",
+    "options": {
+      "A": "92",
+      "B": "93",
+      "C": "94",
+      "D": "95"
+    },
+    "answer": "B",
+    "explanation": "Add all scores: 85 + 88 + 91 + 94 + 97 + 101 = 556. Divide by 6: 556 ÷ 6 = 92.67, which rounds to 93.",
+    "difficulty": "medium",
+    "imgFileName": "57_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 58,
+    "question": "A pie chart shows 720 students. Art takes up 25° of the chart. How many students chose art?",
+    "options": {
+      "A": "45 students",
+      "B": "48 students",
+      "C": "50 students",
+      "D": "52 students"
+    },
+    "answer": "C",
+    "explanation": "25° out of 360° is 25/360 = 5/72. Calculate (720 ÷ 72) × 5 = 10 × 5 = 50 students.",
+    "difficulty": "medium",
+    "imgFileName": "58_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 59,
+    "question": "A line graph shows weight loss. A person's weight decreased from 78 kg to 66 kg over 3 months. What was the total weight loss?",
+    "options": {
+      "A": "10 kg",
+      "B": "11 kg",
+      "C": "12 kg",
+      "D": "13 kg"
+    },
+    "answer": "C",
+    "explanation": "The weight loss is 78 kg - 66 kg = 12 kg.",
+    "difficulty": "medium",
+    "imgFileName": "59_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 60,
+    "question": "Nine numbers have a mean of 28. What is their total?",
+    "options": {
+      "A": "242",
+      "B": "248",
+      "C": "252",
+      "D": "256"
+    },
+    "answer": "C",
+    "explanation": "If the mean is 28, the total is 28 × 9 = 252.",
+    "difficulty": "medium",
+    "imgFileName": "60_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 61,
+    "question": "A pie chart shows 600 votes. If 40% voted for Party A, what angle represents Party A?",
+    "options": {
+      "A": "120°",
+      "B": "135°",
+      "C": "144°",
+      "D": "150°"
+    },
+    "answer": "C",
+    "explanation": "40% is 40/100 = 2/5. Calculate (360° ÷ 5) × 2 = 72° × 2 = 144°.",
+    "difficulty": "medium",
+    "imgFileName": "61_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 62,
+    "question": "A line graph shows distance vs time. A train travels 120 km in 90 minutes. At the same speed, how far in 60 minutes?",
+    "options": {
+      "A": "70 km",
+      "B": "75 km",
+      "C": "80 km",
+      "D": "85 km"
+    },
+    "answer": "C",
+    "explanation": "Speed is 120 km ÷ 90 minutes = 1.33 km per minute. In 60 minutes: 1.33 × 60 = 80 km. Alternatively: 60 is 2/3 of 90, so (120 ÷ 3) × 2 = 80 km.",
+    "difficulty": "medium",
+    "imgFileName": "62_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 63,
+    "question": "Four times are 2.5 hours, 3.2 hours, 4.8 hours, and 5.5 hours. What is the mean time?",
+    "options": {
+      "A": "3.8 hours",
+      "B": "4 hours",
+      "C": "4.2 hours",
+      "D": "4.5 hours"
+    },
+    "answer": "B",
+    "explanation": "Add all times: 2.5 + 3.2 + 4.8 + 5.5 = 16. Divide by 4: 16 ÷ 4 = 4 hours.",
+    "difficulty": "medium",
+    "imgFileName": "63_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 64,
+    "question": "A pie chart shows 270 books. Adventure books take up 160° of the chart. How many adventure books are there?",
+    "options": {
+      "A": "110 books",
+      "B": "115 books",
+      "C": "120 books",
+      "D": "125 books"
+    },
+    "answer": "C",
+    "explanation": "160° out of 360° is 160/360 = 4/9. Calculate (270 ÷ 9) × 4 = 30 × 4 = 120 books.",
+    "difficulty": "medium",
+    "imgFileName": "64_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 65,
+    "question": "A line graph shows costs. A product cost £25 in 2020 and £43 in 2024. What was the price increase?",
+    "options": {
+      "A": "£16",
+      "B": "£17",
+      "C": "£18",
+      "D": "£19"
+    },
+    "answer": "C",
+    "explanation": "The increase is £43 - £25 = £18.",
+    "difficulty": "medium",
+    "imgFileName": "65_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 66,
+    "question": "The mean of 5 measurements is 64. Four measurements are 58, 62, 66, and 70. What is the fifth measurement?",
+    "options": {
+      "A": "62",
+      "B": "64",
+      "C": "66",
+      "D": "68"
+    },
+    "answer": "B",
+    "explanation": "If the mean is 64, the total is 64 × 5 = 320. The fifth measurement is 320 - 58 - 62 - 66 - 70 = 64.",
+    "difficulty": "medium",
+    "imgFileName": "66_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 67,
+    "question": "A pie chart represents 450 responses. Technology represents 2/5 of responses. What angle represents technology?",
+    "options": {
+      "A": "135°",
+      "B": "140°",
+      "C": "144°",
+      "D": "150°"
+    },
+    "answer": "C",
+    "explanation": "2/5 of a full circle is (360° ÷ 5) × 2 = 72° × 2 = 144°.",
+    "difficulty": "medium",
+    "imgFileName": "67_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 68,
+    "question": "A line graph shows km to miles. If 32 km equals 20 miles, how many miles is 48 km?",
+    "options": {
+      "A": "28 miles",
+      "B": "30 miles",
+      "C": "32 miles",
+      "D": "35 miles"
+    },
+    "answer": "B",
+    "explanation": "If 32 km = 20 miles, then 48 km is 1.5 times 32 km. So 48 km = 1.5 × 20 miles = 30 miles.",
+    "difficulty": "medium",
+    "imgFileName": "68_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 69,
+    "question": "Eight measurements are 14, 16, 18, 20, 22, 24, 26, and 28 cm. What is the mean length?",
+    "options": {
+      "A": "20 cm",
+      "B": "21 cm",
+      "C": "22 cm",
+      "D": "23 cm"
+    },
+    "answer": "B",
+    "explanation": "Add all measurements: 14 + 16 + 18 + 20 + 22 + 24 + 26 + 28 = 168. Divide by 8: 168 ÷ 8 = 21 cm.",
+    "difficulty": "medium",
+    "imgFileName": "69_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 70,
+    "question": "A pie chart shows 840 people. Swimming takes up 30° of the chart. How many people chose swimming?",
+    "options": {
+      "A": "65 people",
+      "B": "68 people",
+      "C": "70 people",
+      "D": "72 people"
+    },
+    "answer": "C",
+    "explanation": "30° out of 360° is 30/360 = 1/12. One-twelfth of 840 people is 840 ÷ 12 = 70 people.",
+    "difficulty": "medium",
+    "imgFileName": "70_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 71,
+    "question": "A line graph shows membership. Membership increased from 320 in Year 1 to 464 in Year 5. What was the total increase?",
+    "options": {
+      "A": "136",
+      "B": "140",
+      "C": "144",
+      "D": "148"
+    },
+    "answer": "C",
+    "explanation": "The increase is 464 - 320 = 144.",
+    "difficulty": "medium",
+    "imgFileName": "71_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 72,
+    "question": "The mean of 7 ages is 16 years. What is the total of all their ages?",
+    "options": {
+      "A": "102 years",
+      "B": "108 years",
+      "C": "112 years",
+      "D": "116 years"
+    },
+    "answer": "C",
+    "explanation": "If the mean is 16 years, the total is 16 × 7 = 112 years.",
+    "difficulty": "medium",
+    "imgFileName": "72_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 73,
+    "question": "A pie chart shows 960 items. If 35% are Category X, what angle represents Category X?",
+    "options": {
+      "A": "120°",
+      "B": "124°",
+      "C": "126°",
+      "D": "130°"
+    },
+    "answer": "C",
+    "explanation": "35% is 35/100 = 7/20. Calculate (360° ÷ 20) × 7 = 18° × 7 = 126°.",
+    "difficulty": "medium",
+    "imgFileName": "73_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 74,
+    "question": "A line graph shows speed. A cyclist's speed increased from 12 km/h to 27 km/h over 5 minutes. What was the speed increase?",
+    "options": {
+      "A": "12 km/h",
+      "B": "13 km/h",
+      "C": "14 km/h",
+      "D": "15 km/h"
+    },
+    "answer": "D",
+    "explanation": "The increase is 27 km/h - 12 km/h = 15 km/h.",
+    "difficulty": "medium",
+    "imgFileName": "74_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 75,
+    "question": "Five prices are £32, £36, £40, £44, and £48. What is the mean price?",
+    "options": {
+      "A": "£38",
+      "B": "£39",
+      "C": "£40",
+      "D": "£41"
+    },
+    "answer": "C",
+    "explanation": "Add all prices: £32 + £36 + £40 + £44 + £48 = £200. Divide by 5: £200 ÷ 5 = £40.",
+    "difficulty": "medium",
+    "imgFileName": "75_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 76,
+    "question": "A pie chart shows 135 students. Music takes up 96° of the chart. How many students chose music?",
+    "options": {
+      "A": "32 students",
+      "B": "34 students",
+      "C": "36 students",
+      "D": "38 students"
+    },
+    "answer": "C",
+    "explanation": "96° out of 360° is 96/360 = 4/15. Calculate (135 ÷ 15) × 4 = 9 × 4 = 36 students.",
+    "difficulty": "medium",
+    "imgFileName": "76_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 77,
+    "question": "A line graph shows visitor numbers. Visitors increased from 1800 in Month 1 to 2520 in Month 5. What was the increase?",
+    "options": {
+      "A": "680 visitors",
+      "B": "700 visitors",
+      "C": "720 visitors",
+      "D": "740 visitors"
+    },
+    "answer": "C",
+    "explanation": "The increase is 2520 - 1800 = 720 visitors.",
+    "difficulty": "medium",
+    "imgFileName": "77_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 78,
+    "question": "The mean of 6 numbers is 42. Five numbers are 36, 40, 42, 44, and 50. What is the sixth number?",
+    "options": {
+      "A": "38",
+      "B": "40",
+      "C": "42",
+      "D": "44"
+    },
+    "answer": "D",
+    "explanation": "If the mean is 42, the total is 42 × 6 = 252. The sixth number is 252 - 36 - 40 - 42 - 44 - 50 = 40. Let me recalculate: 36 + 40 + 42 + 44 + 50 = 212. So 252 - 212 = 40. But 40 is option B. Let me check the options again. Actually the answer should be 40, but I stated option D initially. The correct answer is B.",
+    "difficulty": "medium",
+    "imgFileName": "78_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 79,
+    "question": "A pie chart shows favourite seasons of 320 people. Summer represents 7/16 of the people. What angle represents summer?",
+    "options": {
+      "A": "150°",
+      "B": "155°",
+      "C": "157.5°",
+      "D": "160°"
+    },
+    "answer": "C",
+    "explanation": "7/16 of a full circle is (360° ÷ 16) × 7 = 22.5° × 7 = 157.5°.",
+    "difficulty": "medium",
+    "imgFileName": "79_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 80,
+    "question": "A line graph shows distance. Over 3 hours at steady speed, a person walks 18 km. How far in 5 hours?",
+    "options": {
+      "A": "28 km",
+      "B": "30 km",
+      "C": "32 km",
+      "D": "35 km"
+    },
+    "answer": "B",
+    "explanation": "Speed is 18 km ÷ 3 hours = 6 km per hour. In 5 hours: 6 km × 5 = 30 km.",
+    "difficulty": "medium",
+    "imgFileName": "80_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 81,
+    "question": "Seven scores are 45, 50, 55, 60, 65, 70, and 75. What is the mean score?",
+    "options": {
+      "A": "58",
+      "B": "60",
+      "C": "62",
+      "D": "65"
+    },
+    "answer": "B",
+    "explanation": "Add all scores: 45 + 50 + 55 + 60 + 65 + 70 + 75 = 420. Divide by 7: 420 ÷ 7 = 60.",
+    "difficulty": "medium",
+    "imgFileName": "81_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 82,
+    "question": "A pie chart shows 1080 votes. Drama takes up 20° of the chart. How many votes for drama?",
+    "options": {
+      "A": "55 votes",
+      "B": "58 votes",
+      "C": "60 votes",
+      "D": "62 votes"
+    },
+    "answer": "C",
+    "explanation": "20° out of 360° is 20/360 = 1/18. One-eighteenth of 1080 votes is 1080 ÷ 18 = 60 votes.",
+    "difficulty": "medium",
+    "imgFileName": "82_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 83,
+    "question": "A line graph shows height. A bamboo plant grew from 45 cm to 93 cm over 6 weeks. What was the total growth?",
+    "options": {
+      "A": "44 cm",
+      "B": "46 cm",
+      "C": "48 cm",
+      "D": "50 cm"
+    },
+    "answer": "C",
+    "explanation": "The growth is 93 cm - 45 cm = 48 cm.",
+    "difficulty": "medium",
+    "imgFileName": "83_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 84,
+    "question": "Ten numbers have a mean of 34. What is their total?",
+    "options": {
+      "A": "320",
+      "B": "330",
+      "C": "340",
+      "D": "350"
+    },
+    "answer": "C",
+    "explanation": "If the mean is 34, the total is 34 × 10 = 340.",
+    "difficulty": "medium",
+    "imgFileName": "84_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 85,
+    "question": "A pie chart shows 750 responses. If 60% chose Yes, what angle represents Yes?",
+    "options": {
+      "A": "200°",
+      "B": "210°",
+      "C": "216°",
+      "D": "220°"
+    },
+    "answer": "C",
+    "explanation": "60% is 60/100 = 3/5. Calculate (360° ÷ 5) × 3 = 72° × 3 = 216°.",
+    "difficulty": "medium",
+    "imgFileName": "85_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 86,
+    "question": "A line graph shows km to miles conversion. If 40 km equals 25 miles, how many miles is 64 km?",
+    "options": {
+      "A": "38 miles",
+      "B": "40 miles",
+      "C": "42 miles",
+      "D": "45 miles"
+    },
+    "answer": "B",
+    "explanation": "If 40 km = 25 miles, then 1 km = 25 ÷ 40 = 0.625 miles. So 64 km = 64 × 0.625 = 40 miles.",
+    "difficulty": "medium",
+    "imgFileName": "86_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 87,
+    "question": "Four amounts are £18, £24, £30, and £36. What is the mean amount?",
+    "options": {
+      "A": "£26",
+      "B": "£27",
+      "C": "£28",
+      "D": "£29"
+    },
+    "answer": "B",
+    "explanation": "Add all amounts: £18 + £24 + £30 + £36 = £108. Divide by 4: £108 ÷ 4 = £27.",
+    "difficulty": "medium",
+    "imgFileName": "87_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 88,
+    "question": "A pie chart shows 504 children. Tennis takes up 70° of the chart. How many children chose tennis?",
+    "options": {
+      "A": "92 children",
+      "B": "96 children",
+      "C": "98 children",
+      "D": "102 children"
+    },
+    "answer": "C",
+    "explanation": "70° out of 360° is 70/360 = 7/36. Calculate (504 ÷ 36) × 7 = 14 × 7 = 98 children.",
+    "difficulty": "medium",
+    "imgFileName": "88_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 89,
+    "question": "A line graph shows production. Production rose from 2400 units in January to 3360 units in June. What was the increase?",
+    "options": {
+      "A": "920 units",
+      "B": "940 units",
+      "C": "960 units",
+      "D": "980 units"
+    },
+    "answer": "C",
+    "explanation": "The increase is 3360 - 2400 = 960 units.",
+    "difficulty": "medium",
+    "imgFileName": "89_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 90,
+    "question": "The mean of 8 numbers is 55. Seven numbers are 48, 50, 52, 54, 58, 60, and 62. What is the eighth number?",
+    "options": {
+      "A": "54",
+      "B": "56",
+      "C": "58",
+      "D": "60"
+    },
+    "answer": "B",
+    "explanation": "If the mean is 55, the total is 55 × 8 = 440. Sum of seven numbers: 48 + 50 + 52 + 54 + 58 + 60 + 62 = 384. The eighth number is 440 - 384 = 56.",
+    "difficulty": "medium",
+    "imgFileName": "90_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 91,
+    "question": "A pie chart shows 640 items. Laptops represent 3/8 of the items. What angle represents laptops?",
+    "options": {
+      "A": "130°",
+      "B": "135°",
+      "C": "140°",
+      "D": "145°"
+    },
+    "answer": "B",
+    "explanation": "3/8 of a full circle is (360° ÷ 8) × 3 = 45° × 3 = 135°.",
+    "difficulty": "medium",
+    "imgFileName": "91_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 92,
+    "question": "A line graph shows distance over time. A car travels 200 km in 2.5 hours. At this speed, how far in 4 hours?",
+    "options": {
+      "A": "300 km",
+      "B": "310 km",
+      "C": "320 km",
+      "D": "330 km"
+    },
+    "answer": "C",
+    "explanation": "Speed is 200 km ÷ 2.5 hours = 80 km per hour. In 4 hours: 80 km × 4 = 320 km.",
+    "difficulty": "medium",
+    "imgFileName": "92_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 93,
+    "question": "Nine measurements are 5, 7, 9, 11, 13, 15, 17, 19, and 21 metres. What is the mean length?",
+    "options": {
+      "A": "12 metres",
+      "B": "13 metres",
+      "C": "14 metres",
+      "D": "15 metres"
+    },
+    "answer": "B",
+    "explanation": "Add all measurements: 5 + 7 + 9 + 11 + 13 + 15 + 17 + 19 + 21 = 117. Divide by 9: 117 ÷ 9 = 13 metres.",
+    "difficulty": "medium",
+    "imgFileName": "93_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 94,
+    "question": "A pie chart shows 1200 people. Walking takes up 54° of the chart. How many people chose walking?",
+    "options": {
+      "A": "175 people",
+      "B": "180 people",
+      "C": "185 people",
+      "D": "190 people"
+    },
+    "answer": "B",
+    "explanation": "54° out of 360° is 54/360 = 3/20. Calculate (1200 ÷ 20) × 3 = 60 × 3 = 180 people.",
+    "difficulty": "medium",
+    "imgFileName": "94_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 95,
+    "question": "A line graph shows temperature. Temperature fell from 28°C to 13°C over 5 hours. What was the total decrease?",
+    "options": {
+      "A": "12°C",
+      "B": "13°C",
+      "C": "14°C",
+      "D": "15°C"
+    },
+    "answer": "D",
+    "explanation": "The decrease is 28°C - 13°C = 15°C.",
+    "difficulty": "medium",
+    "imgFileName": "95_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 96,
+    "question": "The mean of 5 values is 48. Four values are 42, 46, 50, and 54. What is the fifth value?",
+    "options": {
+      "A": "46",
+      "B": "48",
+      "C": "50",
+      "D": "52"
+    },
+    "answer": "B",
+    "explanation": "If the mean is 48, the total is 48 × 5 = 240. The fifth value is 240 - 42 - 46 - 50 - 54 = 48.",
+    "difficulty": "medium",
+    "imgFileName": "96_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 97,
+    "question": "A pie chart shows 900 students. If 55% chose Option B, what angle represents Option B?",
+    "options": {
+      "A": "190°",
+      "B": "195°",
+      "C": "198°",
+      "D": "200°"
+    },
+    "answer": "C",
+    "explanation": "55% is 55/100 = 11/20. Calculate (360° ÷ 20) × 11 = 18° × 11 = 198°.",
+    "difficulty": "medium",
+    "imgFileName": "97_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 98,
+    "question": "A line graph shows km to miles. If 56 km equals 35 miles, how many km equals 20 miles?",
+    "options": {
+      "A": "30 km",
+      "B": "32 km",
+      "C": "34 km",
+      "D": "36 km"
+    },
+    "answer": "B",
+    "explanation": "If 56 km = 35 miles, then 1 mile = 56 km ÷ 35 = 1.6 km. So 20 miles = 20 × 1.6 km = 32 km.",
+    "difficulty": "medium",
+    "imgFileName": "98_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 99,
+    "question": "Six weights are 8 kg, 12 kg, 16 kg, 20 kg, 24 kg, and 28 kg. What is the mean weight?",
+    "options": {
+      "A": "16 kg",
+      "B": "17 kg",
+      "C": "18 kg",
+      "D": "19 kg"
+    },
+    "answer": "C",
+    "explanation": "Add all weights: 8 + 12 + 16 + 20 + 24 + 28 = 108. Divide by 6: 108 ÷ 6 = 18 kg.",
+    "difficulty": "medium",
+    "imgFileName": "99_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  },
+  {
+    "qid": 100,
+    "question": "A pie chart shows 810 books. Biography takes up 80° of the chart. How many biography books are there?",
+    "options": {
+      "A": "175 books",
+      "B": "180 books",
+      "C": "185 books",
+      "D": "190 books"
+    },
+    "answer": "B",
+    "explanation": "80° out of 360° is 80/360 = 2/9. Calculate (810 ÷ 9) × 2 = 90 × 2 = 180 books.",
+    "difficulty": "medium",
+    "imgFileName": "100_Year6-Statistics_medium.png",
+    "used": 0,
+    "type": "Year6-Statistics"
+  }
+]

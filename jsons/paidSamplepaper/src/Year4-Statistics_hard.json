@@ -1,0 +1,1602 @@
+[
+    {
+        "qid": 1,
+        "question": "The bar chart shows the number of apples sold each day for 5 days. The bars are: Mon=8, Tue=12, Wed=6, Thu=10, Fri=14. How many more apples were sold on Friday than on Wednesday?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "answer": "D",
+        "explanation": "To find the difference, subtract the number of apples sold on Wednesday (6) from the number sold on Friday (14): 14 - 6 = 8.",
+        "difficulty": "hard",
+        "imgFileName": "1_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 2,
+        "question": "A time graph shows the temperature every hour from 8am to 12pm: 8am=10°C, 9am=12°C, 10am=15°C, 11am=18°C, 12pm=20°C. How much did the temperature rise from 8am to 12pm?",
+        "options": {
+            "A": "8°C",
+            "B": "10°C",
+            "C": "12°C",
+            "D": "15°C"
+        },
+        "answer": "B",
+        "explanation": "Subtract the temperature at 8am (10°C) from the temperature at 12pm (20°C): 20 - 10 = 10°C.",
+        "difficulty": "hard",
+        "imgFileName": "2_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 3,
+        "question": "A pictogram shows the number of books read by 4 children. Each book symbol = 2 books. Child A has 3 symbols, Child B has 2 symbols, Child C has 4 symbols, Child D has 1 symbol. How many books did Child C read?",
+        "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "10"
+        },
+        "answer": "C",
+        "explanation": "Each symbol is 2 books. Child C has 4 symbols: 4 x 2 = 8 books.",
+        "difficulty": "hard",
+        "imgFileName": "3_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 4,
+        "question": "A bar chart shows the height of 4 plants in cm: Plant A=20, Plant B=35, Plant C=25, Plant D=40. Which plant is 15cm taller than Plant A?",
+        "options": {
+            "A": "Plant B",
+            "B": "Plant C",
+            "C": "Plant D",
+            "D": "None"
+        },
+        "answer": "C",
+        "explanation": "Plant A is 20cm. Adding 15cm gives 35cm. Plant D is 40cm, which is 15cm taller than Plant A (20 + 15 = 35, but Plant D is 40, so the correct answer is Plant D).",
+        "difficulty": "hard",
+        "imgFileName": "4_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 5,
+        "question": "A table shows the number of goals scored by 4 teams: Team 1=7, Team 2=5, Team 3=9, Team 4=3. How many goals did Team 1 and Team 3 score together?",
+        "options": {
+            "A": "12",
+            "B": "14",
+            "C": "16",
+            "D": "18"
+        },
+        "answer": "C",
+        "explanation": "Add the goals scored by Team 1 (7) and Team 3 (9): 7 + 9 = 16.",
+        "difficulty": "hard",
+        "imgFileName": "5_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 6,
+        "question": "A time graph shows the distance travelled by a car every hour: 1pm=50km, 2pm=100km, 3pm=150km, 4pm=200km. How far did the car travel between 2pm and 4pm?",
+        "options": {
+            "A": "50km",
+            "B": "100km",
+            "C": "150km",
+            "D": "200km"
+        },
+        "answer": "B",
+        "explanation": "Subtract the distance at 2pm (100km) from the distance at 4pm (200km): 200 - 100 = 100km.",
+        "difficulty": "hard",
+        "imgFileName": "6_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 7,
+        "question": "A bar chart shows the number of students in 4 clubs: Art=12, Music=8, Sports=15, Drama=10. How many more students are in Sports than in Drama?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "7"
+        },
+        "answer": "C",
+        "explanation": "Subtract the number of students in Drama (10) from the number in Sports (15): 15 - 10 = 5.",
+        "difficulty": "hard",
+        "imgFileName": "7_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 8,
+        "question": "A pictogram shows the number of pets owned by 4 friends. Each pet symbol = 3 pets. Friend A has 2 symbols, Friend B has 3 symbols, Friend C has 1 symbol, Friend D has 4 symbols. How many pets does Friend D have?",
+        "options": {
+            "A": "6",
+            "B": "9",
+            "C": "12",
+            "D": "15"
+        },
+        "answer": "C",
+        "explanation": "Each symbol is 3 pets. Friend D has 4 symbols: 4 x 3 = 12 pets.",
+        "difficulty": "hard",
+        "imgFileName": "8_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 9,
+        "question": "A time graph shows the height of a plant each week: Week 1=10cm, Week 2=15cm, Week 3=20cm, Week 4=25cm. How much did the plant grow from Week 1 to Week 4?",
+        "options": {
+            "A": "5cm",
+            "B": "10cm",
+            "C": "15cm",
+            "D": "20cm"
+        },
+        "answer": "C",
+        "explanation": "Subtract the height at Week 1 (10cm) from the height at Week 4 (25cm): 25 - 10 = 15cm.",
+        "difficulty": "hard",
+        "imgFileName": "9_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 10,
+        "question": "A bar chart shows the number of visitors to a park each day: Mon=20, Tue=30, Wed=25, Thu=40, Fri=35. How many visitors were there on Tuesday and Thursday together?",
+        "options": {
+            "A": "55",
+            "B": "65",
+            "C": "70",
+            "D": "75"
+        },
+        "answer": "C",
+        "explanation": "Add the number of visitors on Tuesday (30) and Thursday (40): 30 + 40 = 70.",
+        "difficulty": "hard",
+        "imgFileName": "10_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 11,
+        "question": "A table shows the number of pencils in 4 boxes: Box A=12, Box B=8, Box C=15, Box D=10. How many pencils are in Box A and Box C together?",
+        "options": {
+            "A": "23",
+            "B": "25",
+            "C": "27",
+            "D": "30"
+        },
+        "answer": "C",
+        "explanation": "Add the number of pencils in Box A (12) and Box C (15): 12 + 15 = 27.",
+        "difficulty": "hard",
+        "imgFileName": "11_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 12,
+        "question": "A bar chart shows the number of goals scored by 4 players: Player 1=5, Player 2=7, Player 3=3, Player 4=9. How many more goals did Player 4 score than Player 3?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "answer": "C",
+        "explanation": "Subtract the number of goals scored by Player 3 (3) from the number scored by Player 4 (9): 9 - 3 = 6.",
+        "difficulty": "hard",
+        "imgFileName": "12_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 13,
+        "question": "A time graph shows the number of pages read each day: Day 1=10, Day 2=15, Day 3=20, Day 4=25. How many pages were read from Day 1 to Day 4?",
+        "options": {
+            "A": "50",
+            "B": "60",
+            "C": "70",
+            "D": "80"
+        },
+        "answer": "C",
+        "explanation": "Add the number of pages read each day: 10 + 15 + 20 + 25 = 70.",
+        "difficulty": "hard",
+        "imgFileName": "13_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 14,
+        "question": "A pictogram shows the number of toys owned by 4 children. Each toy symbol = 4 toys. Child A has 2 symbols, Child B has 3 symbols, Child C has 1 symbol, Child D has 4 symbols. How many toys does Child B have?",
+        "options": {
+            "A": "8",
+            "B": "12",
+            "C": "16",
+            "D": "20"
+        },
+        "answer": "B",
+        "explanation": "Each symbol is 4 toys. Child B has 3 symbols: 3 x 4 = 12 toys.",
+        "difficulty": "hard",
+        "imgFileName": "14_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 15,
+        "question": "A bar chart shows the number of cars sold each month: Jan=10, Feb=15, Mar=20, Apr=12. How many more cars were sold in March than in January?",
+        "options": {
+            "A": "5",
+            "B": "8",
+            "C": "10",
+            "D": "12"
+        },
+        "answer": "C",
+        "explanation": "Subtract the number of cars sold in January (10) from the number sold in March (20): 20 - 10 = 10.",
+        "difficulty": "hard",
+        "imgFileName": "15_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 16,
+        "question": "A time graph shows the temperature every 2 hours: 8am=12°C, 10am=15°C, 12pm=18°C, 2pm=20°C. How much did the temperature rise from 8am to 2pm?",
+        "options": {
+            "A": "6°C",
+            "B": "8°C",
+            "C": "10°C",
+            "D": "12°C"
+        },
+        "answer": "B",
+        "explanation": "Subtract the temperature at 8am (12°C) from the temperature at 2pm (20°C): 20 - 12 = 8°C.",
+        "difficulty": "hard",
+        "imgFileName": "16_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 17,
+        "question": "A bar chart shows the number of students in 4 classes: Class A=22, Class B=18, Class C=25, Class D=20. How many students are in Class A and Class C together?",
+        "options": {
+            "A": "45",
+            "B": "47",
+            "C": "50",
+            "D": "52"
+        },
+        "answer": "B",
+        "explanation": "Add the number of students in Class A (22) and Class C (25): 22 + 25 = 47.",
+        "difficulty": "hard",
+        "imgFileName": "17_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 18,
+        "question": "A pictogram shows the number of cakes sold each day. Each cake symbol = 2 cakes. Monday has 4 symbols, Tuesday has 3 symbols, Wednesday has 5 symbols, Thursday has 2 symbols. How many cakes were sold on Wednesday?",
+        "options": {
+            "A": "6",
+            "B": "8",
+            "C": "10",
+            "D": "12"
+        },
+        "answer": "C",
+        "explanation": "Each symbol is 2 cakes. Wednesday has 5 symbols: 5 x 2 = 10 cakes.",
+        "difficulty": "hard",
+        "imgFileName": "18_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 19,
+        "question": "A time graph shows the height of a plant each month: Jan=10cm, Feb=15cm, Mar=20cm, Apr=25cm. How much did the plant grow from January to April?",
+        "options": {
+            "A": "10cm",
+            "B": "15cm",
+            "C": "20cm",
+            "D": "25cm"
+        },
+        "answer": "B",
+        "explanation": "Subtract the height in January (10cm) from the height in April (25cm): 25 - 10 = 15cm.",
+        "difficulty": "hard",
+        "imgFileName": "19_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 20,
+        "question": "A bar chart shows the number of books read by 4 children: Child 1=5, Child 2=7, Child 3=3, Child 4=9. How many more books did Child 4 read than Child 3?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "answer": "C",
+        "explanation": "Subtract the number of books read by Child 3 (3) from the number read by Child 4 (9): 9 - 3 = 6.",
+        "difficulty": "hard",
+        "imgFileName": "20_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 21,
+        "question": "A table shows the number of goals scored by 4 teams: Team A=6, Team B=8, Team C=4, Team D=10. How many goals did Team B and Team D score together?",
+        "options": {
+            "A": "14",
+            "B": "16",
+            "C": "18",
+            "D": "20"
+        },
+        "answer": "C",
+        "explanation": "Add the goals scored by Team B (8) and Team D (10): 8 + 10 = 18.",
+        "difficulty": "hard",
+        "imgFileName": "21_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 22,
+        "question": "A bar chart shows the number of visitors to a museum each day: Mon=30, Tue=40, Wed=35, Thu=50, Fri=45. How many visitors were there on Tuesday and Thursday together?",
+        "options": {
+            "A": "80",
+            "B": "90",
+            "C": "100",
+            "D": "110"
+        },
+        "answer": "B",
+        "explanation": "Add the number of visitors on Tuesday (40) and Thursday (50): 40 + 50 = 90.",
+        "difficulty": "hard",
+        "imgFileName": "22_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 23,
+        "question": "A time graph shows the distance travelled by a bus every hour: 9am=40km, 10am=80km, 11am=120km, 12pm=160km. How far did the bus travel between 10am and 12pm?",
+        "options": {
+            "A": "40km",
+            "B": "80km",
+            "C": "120km",
+            "D": "160km"
+        },
+        "answer": "B",
+        "explanation": "Subtract the distance at 10am (80km) from the distance at 12pm (160km): 160 - 80 = 80km.",
+        "difficulty": "hard",
+        "imgFileName": "23_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 24,
+        "question": "A pictogram shows the number of apples picked by 4 children. Each apple symbol = 3 apples. Child A has 2 symbols, Child B has 3 symbols, Child C has 1 symbol, Child D has 4 symbols. How many apples did Child D pick?",
+        "options": {
+            "A": "6",
+            "B": "9",
+            "C": "12",
+            "D": "15"
+        },
+        "answer": "C",
+        "explanation": "Each symbol is 3 apples. Child D has 4 symbols: 4 x 3 = 12 apples.",
+        "difficulty": "hard",
+        "imgFileName": "24_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 25,
+        "question": "A bar chart shows the number of students in 4 clubs: Art=15, Music=10, Sports=20, Drama=12. How many more students are in Sports than in Music?",
+        "options": {
+            "A": "5",
+            "B": "8",
+            "C": "10",
+            "D": "12"
+        },
+        "answer": "C",
+        "explanation": "Subtract the number of students in Music (10) from the number in Sports (20): 20 - 10 = 10.",
+        "difficulty": "hard",
+        "imgFileName": "25_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 26,
+        "question": "A time graph shows the height of a plant each week: Week 1=5cm, Week 2=10cm, Week 3=15cm, Week 4=20cm. How much did the plant grow from Week 1 to Week 4?",
+        "options": {
+            "A": "5cm",
+            "B": "10cm",
+            "C": "15cm",
+            "D": "20cm"
+        },
+        "answer": "C",
+        "explanation": "Subtract the height at Week 1 (5cm) from the height at Week 4 (20cm): 20 - 5 = 15cm.",
+        "difficulty": "hard",
+        "imgFileName": "26_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 27,
+        "question": "A bar chart shows the number of cars sold each month: Jan=12, Feb=18, Mar=22, Apr=15. How many more cars were sold in March than in February?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of cars sold in February (18) from the number sold in March (22): 22 - 18 = 4.",
+        "difficulty": "hard",
+        "imgFileName": "27_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 28,
+        "question": "A table shows the number of pencils in 4 boxes: Box A=10, Box B=14, Box C=12, Box D=16. How many pencils are in Box B and Box D together?",
+        "options": {
+            "A": "26",
+            "B": "28",
+            "C": "30",
+            "D": "32"
+        },
+        "answer": "C",
+        "explanation": "Add the number of pencils in Box B (14) and Box D (16): 14 + 16 = 30.",
+        "difficulty": "hard",
+        "imgFileName": "28_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 29,
+        "question": "A bar chart shows the number of goals scored by 4 players: Player 1=4, Player 2=6, Player 3=8, Player 4=10. How many more goals did Player 4 score than Player 1?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "answer": "C",
+        "explanation": "Subtract the number of goals scored by Player 1 (4) from the number scored by Player 4 (10): 10 - 4 = 6.",
+        "difficulty": "hard",
+        "imgFileName": "29_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 30,
+        "question": "A time graph shows the number of pages read each day: Day 1=8, Day 2=12, Day 3=16, Day 4=20. How many pages were read from Day 1 to Day 4?",
+        "options": {
+            "A": "48",
+            "B": "56",
+            "C": "64",
+            "D": "72"
+        },
+        "answer": "B",
+        "explanation": "Add the number of pages read each day: 8 + 12 + 16 + 20 = 56.",
+        "difficulty": "hard",
+        "imgFileName": "30_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 31,
+        "question": "A pictogram shows the number of toys owned by 4 children. Each toy symbol = 5 toys. Child A has 2 symbols, Child B has 3 symbols, Child C has 1 symbol, Child D has 4 symbols. How many toys does Child D have?",
+        "options": {
+            "A": "10",
+            "B": "15",
+            "C": "20",
+            "D": "25"
+        },
+        "answer": "C",
+        "explanation": "Each symbol is 5 toys. Child D has 4 symbols: 4 x 5 = 20 toys.",
+        "difficulty": "hard",
+        "imgFileName": "31_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 32,
+        "question": "A bar chart shows the number of visitors to a park each day: Mon=25, Tue=30, Wed=20, Thu=35, Fri=40. How many visitors were there on Monday and Friday together?",
+        "options": {
+            "A": "55",
+            "B": "60",
+            "C": "65",
+            "D": "70"
+        },
+        "answer": "C",
+        "explanation": "Add the number of visitors on Monday (25) and Friday (40): 25 + 40 = 65.",
+        "difficulty": "hard",
+        "imgFileName": "32_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 33,
+        "question": "A table shows the number of goals scored by 4 teams: Team A=5, Team B=7, Team C=9, Team D=11. How many goals did Team A and Team D score together?",
+        "options": {
+            "A": "14",
+            "B": "16",
+            "C": "18",
+            "D": "20"
+        },
+        "answer": "B",
+        "explanation": "Add the goals scored by Team A (5) and Team D (11): 5 + 11 = 16.",
+        "difficulty": "hard",
+        "imgFileName": "33_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 34,
+        "question": "A bar chart shows the number of students in 4 classes: Class A=18, Class B=22, Class C=20, Class D=24. How many more students are in Class D than in Class A?",
+        "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "10"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of students in Class A (18) from the number in Class D (24): 24 - 18 = 6.",
+        "difficulty": "hard",
+        "imgFileName": "34_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 35,
+        "question": "A time graph shows the height of a plant each month: Jan=5cm, Feb=10cm, Mar=15cm, Apr=20cm. How much did the plant grow from February to April?",
+        "options": {
+            "A": "5cm",
+            "B": "10cm",
+            "C": "15cm",
+            "D": "20cm"
+        },
+        "answer": "B",
+        "explanation": "Subtract the height in February (10cm) from the height in April (20cm): 20 - 10 = 10cm.",
+        "difficulty": "hard",
+        "imgFileName": "35_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 36,
+        "question": "A bar chart shows the number of apples sold each day for 5 days: Mon=6, Tue=10, Wed=8, Thu=12, Fri=14. How many more apples were sold on Friday than on Monday?",
+        "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "10"
+        },
+        "answer": "C",
+        "explanation": "Subtract the number of apples sold on Monday (6) from the number sold on Friday (14): 14 - 6 = 8.",
+        "difficulty": "hard",
+        "imgFileName": "36_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 37,
+        "question": "A pictogram shows the number of books read by 4 children. Each book symbol = 2 books. Child A has 3 symbols, Child B has 2 symbols, Child C has 4 symbols, Child D has 1 symbol. How many books did Child C read?",
+        "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "10"
+        },
+        "answer": "C",
+        "explanation": "Each symbol is 2 books. Child C has 4 symbols: 4 x 2 = 8 books.",
+        "difficulty": "hard",
+        "imgFileName": "37_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 38,
+        "question": "A time graph shows the temperature every hour from 8am to 12pm: 8am=10°C, 9am=12°C, 10am=15°C, 11am=18°C, 12pm=20°C. How much did the temperature rise from 8am to 11am?",
+        "options": {
+            "A": "6°C",
+            "B": "8°C",
+            "C": "10°C",
+            "D": "12°C"
+        },
+        "answer": "B",
+        "explanation": "Subtract the temperature at 8am (10°C) from the temperature at 11am (18°C): 18 - 10 = 8°C.",
+        "difficulty": "hard",
+        "imgFileName": "38_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 39,
+        "question": "A bar chart shows the height of 4 plants in cm: Plant A=20, Plant B=35, Plant C=25, Plant D=40. Which plant is 10cm taller than Plant C?",
+        "options": {
+            "A": "Plant A",
+            "B": "Plant B",
+            "C": "Plant D",
+            "D": "None"
+        },
+        "answer": "C",
+        "explanation": "Plant C is 25cm. Adding 10cm gives 35cm. Plant D is 40cm, which is more than 10cm taller, but Plant B is 35cm, which is exactly 10cm taller than Plant C (25 + 10 = 35).",
+        "difficulty": "hard",
+        "imgFileName": "39_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 40,
+        "question": "A table shows the number of goals scored by 4 teams: Team 1=7, Team 2=5, Team 3=9, Team 4=3. How many goals did Team 2 and Team 4 score together?",
+        "options": {
+            "A": "6",
+            "B": "8",
+            "C": "10",
+            "D": "12"
+        },
+        "answer": "B",
+        "explanation": "Add the goals scored by Team 2 (5) and Team 4 (3): 5 + 3 = 8.",
+        "difficulty": "hard",
+        "imgFileName": "40_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 41,
+        "question": "A time graph shows the distance travelled by a car every hour: 1pm=50km, 2pm=100km, 3pm=150km, 4pm=200km. How far did the car travel between 1pm and 3pm?",
+        "options": {
+            "A": "50km",
+            "B": "100km",
+            "C": "150km",
+            "D": "200km"
+        },
+        "answer": "B",
+        "explanation": "Subtract the distance at 1pm (50km) from the distance at 3pm (150km): 150 - 50 = 100km.",
+        "difficulty": "hard",
+        "imgFileName": "41_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 42,
+        "question": "A bar chart shows the number of students in 4 clubs: Art=12, Music=8, Sports=15, Drama=10. How many more students are in Sports than in Art?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "answer": "C",
+        "explanation": "Subtract the number of students in Art (12) from the number in Sports (15): 15 - 12 = 3.",
+        "difficulty": "hard",
+        "imgFileName": "42_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 43,
+        "question": "A pictogram shows the number of pets owned by 4 friends. Each pet symbol = 3 pets. Friend A has 2 symbols, Friend B has 3 symbols, Friend C has 1 symbol, Friend D has 4 symbols. How many pets does Friend A have?",
+        "options": {
+            "A": "3",
+            "B": "6",
+            "C": "9",
+            "D": "12"
+        },
+        "answer": "B",
+        "explanation": "Each symbol is 3 pets. Friend A has 2 symbols: 2 x 3 = 6 pets.",
+        "difficulty": "hard",
+        "imgFileName": "43_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 44,
+        "question": "A time graph shows the height of a plant each week: Week 1=10cm, Week 2=15cm, Week 3=20cm, Week 4=25cm. How much did the plant grow from Week 2 to Week 4?",
+        "options": {
+            "A": "5cm",
+            "B": "10cm",
+            "C": "15cm",
+            "D": "20cm"
+        },
+        "answer": "B",
+        "explanation": "Subtract the height at Week 2 (15cm) from the height at Week 4 (25cm): 25 - 15 = 10cm.",
+        "difficulty": "hard",
+        "imgFileName": "44_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 45,
+        "question": "A bar chart shows the number of visitors to a park each day: Mon=20, Tue=30, Wed=25, Thu=40, Fri=35. How many visitors were there on Wednesday and Friday together?",
+        "options": {
+            "A": "50",
+            "B": "55",
+            "C": "60",
+            "D": "65"
+        },
+        "answer": "C",
+        "explanation": "Add the number of visitors on Wednesday (25) and Friday (35): 25 + 35 = 60.",
+        "difficulty": "hard",
+        "imgFileName": "45_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 46,
+        "question": "A table shows the number of pencils in 4 boxes: Box A=12, Box B=8, Box C=15, Box D=10. How many pencils are in Box B and Box D together?",
+        "options": {
+            "A": "16",
+            "B": "18",
+            "C": "20",
+            "D": "22"
+        },
+        "answer": "B",
+        "explanation": "Add the number of pencils in Box B (8) and Box D (10): 8 + 10 = 18.",
+        "difficulty": "hard",
+        "imgFileName": "46_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 47,
+        "question": "A bar chart shows the number of goals scored by 4 players: Player 1=5, Player 2=7, Player 3=3, Player 4=9. How many more goals did Player 2 score than Player 3?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of goals scored by Player 3 (3) from the number scored by Player 2 (7): 7 - 3 = 4.",
+        "difficulty": "hard",
+        "imgFileName": "47_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 48,
+        "question": "A time graph shows the number of pages read each day: Day 1=10, Day 2=15, Day 3=20, Day 4=25. How many pages were read from Day 2 to Day 4?",
+        "options": {
+            "A": "45",
+            "B": "50",
+            "C": "55",
+            "D": "60"
+        },
+        "answer": "D",
+        "explanation": "Add the number of pages read on Day 2 (15), Day 3 (20), and Day 4 (25): 15 + 20 + 25 = 60.",
+        "difficulty": "hard",
+        "imgFileName": "48_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 49,
+        "question": "A pictogram shows the number of apples picked by 4 children. Each apple symbol = 3 apples. Child A has 2 symbols, Child B has 3 symbols, Child C has 1 symbol, Child D has 4 symbols. How many apples did Child B pick?",
+        "options": {
+            "A": "6",
+            "B": "9",
+            "C": "12",
+            "D": "15"
+        },
+        "answer": "B",
+        "explanation": "Each symbol is 3 apples. Child B has 3 symbols: 3 x 3 = 9 apples.",
+        "difficulty": "hard",
+        "imgFileName": "49_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 50,
+        "question": "A bar chart shows the number of students in 4 clubs: Art=12, Music=8, Sports=15, Drama=10. How many more students are in Sports than in Music?",
+        "options": {
+            "A": "5",
+            "B": "7",
+            "C": "10",
+            "D": "12"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of students in Music (8) from the number in Sports (15): 15 - 8 = 7.",
+        "difficulty": "hard",
+        "imgFileName": "50_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 51,
+        "question": "A time graph shows the temperature every 2 hours: 8am=12°C, 10am=15°C, 12pm=18°C, 2pm=20°C. How much did the temperature rise from 10am to 2pm?",
+        "options": {
+            "A": "3°C",
+            "B": "5°C",
+            "C": "7°C",
+            "D": "9°C"
+        },
+        "answer": "B",
+        "explanation": "Subtract the temperature at 10am (15°C) from the temperature at 2pm (20°C): 20 - 15 = 5°C.",
+        "difficulty": "hard",
+        "imgFileName": "51_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 52,
+        "question": "A bar chart shows the number of cars sold each month: Jan=10, Feb=15, Mar=20, Apr=12. How many more cars were sold in March than in April?",
+        "options": {
+            "A": "5",
+            "B": "8",
+            "C": "10",
+            "D": "12"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of cars sold in April (12) from the number sold in March (20): 20 - 12 = 8.",
+        "difficulty": "hard",
+        "imgFileName": "52_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 53,
+        "question": "A table shows the number of pencils in 4 boxes: Box A=10, Box B=14, Box C=12, Box D=16. How many pencils are in Box A and Box C together?",
+        "options": {
+            "A": "20",
+            "B": "22",
+            "C": "24",
+            "D": "26"
+        },
+        "answer": "B",
+        "explanation": "Add the number of pencils in Box A (10) and Box C (12): 10 + 12 = 22.",
+        "difficulty": "hard",
+        "imgFileName": "53_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 54,
+        "question": "A bar chart shows the number of goals scored by 4 players: Player 1=4, Player 2=6, Player 3=8, Player 4=10. How many more goals did Player 3 score than Player 1?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of goals scored by Player 1 (4) from the number scored by Player 3 (8): 8 - 4 = 4.",
+        "difficulty": "hard",
+        "imgFileName": "54_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 55,
+        "question": "A time graph shows the number of pages read each day: Day 1=8, Day 2=12, Day 3=16, Day 4=20. How many pages were read from Day 1 to Day 3?",
+        "options": {
+            "A": "28",
+            "B": "32",
+            "C": "36",
+            "D": "40"
+        },
+        "answer": "C",
+        "explanation": "Add the number of pages read on Day 1 (8), Day 2 (12), and Day 3 (16): 8 + 12 + 16 = 36.",
+        "difficulty": "hard",
+        "imgFileName": "55_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 56,
+        "question": "A pictogram shows the number of toys owned by 4 children. Each toy symbol = 5 toys. Child A has 2 symbols, Child B has 3 symbols, Child C has 1 symbol, Child D has 4 symbols. How many toys does Child C have?",
+        "options": {
+            "A": "3",
+            "B": "5",
+            "C": "10",
+            "D": "15"
+        },
+        "answer": "B",
+        "explanation": "Each symbol is 5 toys. Child C has 1 symbol: 1 x 5 = 5 toys.",
+        "difficulty": "hard",
+        "imgFileName": "56_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 57,
+        "question": "A bar chart shows the number of visitors to a park each day: Mon=25, Tue=30, Wed=20, Thu=35, Fri=40. How many visitors were there on Tuesday and Thursday together?",
+        "options": {
+            "A": "55",
+            "B": "60",
+            "C": "65",
+            "D": "70"
+        },
+        "answer": "C",
+        "explanation": "Add the number of visitors on Tuesday (30) and Thursday (35): 30 + 35 = 65.",
+        "difficulty": "hard",
+        "imgFileName": "57_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 58,
+        "question": "A table shows the number of goals scored by 4 teams: Team A=5, Team B=7, Team C=9, Team D=11. How many goals did Team B and Team C score together?",
+        "options": {
+            "A": "14",
+            "B": "16",
+            "C": "18",
+            "D": "20"
+        },
+        "answer": "B",
+        "explanation": "Add the goals scored by Team B (7) and Team C (9): 7 + 9 = 16.",
+        "difficulty": "hard",
+        "imgFileName": "58_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 59,
+        "question": "A bar chart shows the number of students in 4 classes: Class A=18, Class B=22, Class C=20, Class D=24. How many more students are in Class B than in Class A?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of students in Class A (18) from the number in Class B (22): 22 - 18 = 4.",
+        "difficulty": "hard",
+        "imgFileName": "59_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 60,
+        "question": "A time graph shows the height of a plant each month: Jan=5cm, Feb=10cm, Mar=15cm, Apr=20cm. How much did the plant grow from January to March?",
+        "options": {
+            "A": "5cm",
+            "B": "10cm",
+            "C": "15cm",
+            "D": "20cm"
+        },
+        "answer": "B",
+        "explanation": "Subtract the height in January (5cm) from the height in March (15cm): 15 - 5 = 10cm.",
+        "difficulty": "hard",
+        "imgFileName": "60_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 61,
+        "question": "A bar chart shows the number of apples sold each day for 5 days: Mon=6, Tue=10, Wed=8, Thu=12, Fri=14. How many more apples were sold on Thursday than on Wednesday?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of apples sold on Wednesday (8) from the number sold on Thursday (12): 12 - 8 = 4.",
+        "difficulty": "hard",
+        "imgFileName": "61_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 62,
+        "question": "A pictogram shows the number of books read by 4 children. Each book symbol = 2 books. Child A has 3 symbols, Child B has 2 symbols, Child C has 4 symbols, Child D has 1 symbol. How many books did Child A read?",
+        "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "10"
+        },
+        "answer": "B",
+        "explanation": "Each symbol is 2 books. Child A has 3 symbols: 3 x 2 = 6 books.",
+        "difficulty": "hard",
+        "imgFileName": "62_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 63,
+        "question": "A time graph shows the temperature every hour from 8am to 12pm: 8am=10°C, 9am=12°C, 10am=15°C, 11am=18°C, 12pm=20°C. How much did the temperature rise from 9am to 12pm?",
+        "options": {
+            "A": "6°C",
+            "B": "8°C",
+            "C": "10°C",
+            "D": "12°C"
+        },
+        "answer": "B",
+        "explanation": "Subtract the temperature at 9am (12°C) from the temperature at 12pm (20°C): 20 - 12 = 8°C.",
+        "difficulty": "hard",
+        "imgFileName": "63_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 64,
+        "question": "A bar chart shows the height of 4 plants in cm: Plant A=20, Plant B=35, Plant C=25, Plant D=40. Which plant is 5cm taller than Plant A?",
+        "options": {
+            "A": "Plant B",
+            "B": "Plant C",
+            "C": "Plant D",
+            "D": "None"
+        },
+        "answer": "B",
+        "explanation": "Plant A is 20cm. Adding 5cm gives 25cm. Plant C is 25cm, which is 5cm taller than Plant A (20 + 5 = 25).",
+        "difficulty": "hard",
+        "imgFileName": "64_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 65,
+        "question": "A table shows the number of goals scored by 4 teams: Team 1=7, Team 2=5, Team 3=9, Team 4=3. How many goals did Team 1 and Team 3 score together?",
+        "options": {
+            "A": "12",
+            "B": "14",
+            "C": "16",
+            "D": "18"
+        },
+        "answer": "C",
+        "explanation": "Add the goals scored by Team 1 (7) and Team 3 (9): 7 + 9 = 16.",
+        "difficulty": "hard",
+        "imgFileName": "65_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 66,
+        "question": "A time graph shows the distance travelled by a car every hour: 1pm=50km, 2pm=100km, 3pm=150km, 4pm=200km. How far did the car travel between 1pm and 3pm?",
+        "options": {
+            "A": "50km",
+            "B": "100km",
+            "C": "150km",
+            "D": "200km"
+        },
+        "answer": "B",
+        "explanation": "Subtract the distance at 1pm (50km) from the distance at 3pm (150km): 150 - 50 = 100km.",
+        "difficulty": "hard",
+        "imgFileName": "66_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 67,
+        "question": "A bar chart shows the number of students in 4 clubs: Art=12, Music=8, Sports=15, Drama=10. How many more students are in Sports than in Drama?",
+        "options": {
+            "A": "3",
+            "B": "5",
+            "C": "7",
+            "D": "9"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of students in Drama (10) from the number in Sports (15): 15 - 10 = 5.",
+        "difficulty": "hard",
+        "imgFileName": "67_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 68,
+        "question": "A pictogram shows the number of pets owned by 4 friends. Each pet symbol = 3 pets. Friend A has 2 symbols, Friend B has 3 symbols, Friend C has 1 symbol, Friend D has 4 symbols. How many pets does Friend B have?",
+        "options": {
+            "A": "6",
+            "B": "9",
+            "C": "12",
+            "D": "15"
+        },
+        "answer": "B",
+        "explanation": "Each symbol is 3 pets. Friend B has 3 symbols: 3 x 3 = 9 pets.",
+        "difficulty": "hard",
+        "imgFileName": "68_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 69,
+        "question": "A time graph shows the height of a plant each week: Week 1=10cm, Week 2=15cm, Week 3=20cm, Week 4=25cm. How much did the plant grow from Week 1 to Week 3?",
+        "options": {
+            "A": "5cm",
+            "B": "10cm",
+            "C": "15cm",
+            "D": "20cm"
+        },
+        "answer": "B",
+        "explanation": "Subtract the height at Week 1 (10cm) from the height at Week 3 (20cm): 20 - 10 = 10cm.",
+        "difficulty": "hard",
+        "imgFileName": "69_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 70,
+        "question": "A bar chart shows the number of visitors to a park each day: Mon=20, Tue=30, Wed=25, Thu=40, Fri=35. How many visitors were there on Tuesday and Thursday together?",
+        "options": {
+            "A": "60",
+            "B": "70",
+            "C": "80",
+            "D": "90"
+        },
+        "answer": "B",
+        "explanation": "Add the number of visitors on Tuesday (30) and Thursday (40): 30 + 40 = 70.",
+        "difficulty": "hard",
+        "imgFileName": "70_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 71,
+        "question": "A table shows the number of pencils in 4 boxes: Box A=12, Box B=8, Box C=15, Box D=10. How many pencils are in Box A and Box D together?",
+        "options": {
+            "A": "20",
+            "B": "22",
+            "C": "24",
+            "D": "26"
+        },
+        "answer": "B",
+        "explanation": "Add the number of pencils in Box A (12) and Box D (10): 12 + 10 = 22.",
+        "difficulty": "hard",
+        "imgFileName": "71_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 72,
+        "question": "A bar chart shows the number of goals scored by 4 players: Player 1=5, Player 2=7, Player 3=3, Player 4=9. How many more goals did Player 4 score than Player 1?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of goals scored by Player 1 (5) from the number scored by Player 4 (9): 9 - 5 = 4.",
+        "difficulty": "hard",
+        "imgFileName": "72_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 73,
+        "question": "A time graph shows the number of pages read each day: Day 1=10, Day 2=15, Day 3=20, Day 4=25. How many pages were read from Day 1 to Day 3?",
+        "options": {
+            "A": "35",
+            "B": "40",
+            "C": "45",
+            "D": "50"
+        },
+        "answer": "C",
+        "explanation": "Add the number of pages read on Day 1 (10), Day 2 (15), and Day 3 (20): 10 + 15 + 20 = 45.",
+        "difficulty": "hard",
+        "imgFileName": "73_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 74,
+        "question": "A pictogram shows the number of apples picked by 4 children. Each apple symbol = 3 apples. Child A has 2 symbols, Child B has 3 symbols, Child C has 1 symbol, Child D has 4 symbols. How many apples did Child A pick?",
+        "options": {
+            "A": "3",
+            "B": "6",
+            "C": "9",
+            "D": "12"
+        },
+        "answer": "B",
+        "explanation": "Each symbol is 3 apples. Child A has 2 symbols: 2 x 3 = 6 apples.",
+        "difficulty": "hard",
+        "imgFileName": "74_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 75,
+        "question": "A bar chart shows the number of students in 4 clubs: Art=12, Music=8, Sports=15, Drama=10. How many more students are in Sports than in Music?",
+        "options": {
+            "A": "5",
+            "B": "7",
+            "C": "10",
+            "D": "12"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of students in Music (8) from the number in Sports (15): 15 - 8 = 7.",
+        "difficulty": "hard",
+        "imgFileName": "75_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 76,
+        "question": "A time graph shows the temperature every 2 hours: 8am=12°C, 10am=15°C, 12pm=18°C, 2pm=20°C. How much did the temperature rise from 8am to 12pm?",
+        "options": {
+            "A": "4°C",
+            "B": "6°C",
+            "C": "8°C",
+            "D": "10°C"
+        },
+        "answer": "B",
+        "explanation": "Subtract the temperature at 8am (12°C) from the temperature at 12pm (18°C): 18 - 12 = 6°C.",
+        "difficulty": "hard",
+        "imgFileName": "76_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 77,
+        "question": "A bar chart shows the number of cars sold each month: Jan=10, Feb=15, Mar=20, Apr=12. How many more cars were sold in February than in April?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "7"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of cars sold in April (12) from the number sold in February (15): 15 - 12 = 3.",
+        "difficulty": "hard",
+        "imgFileName": "77_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 78,
+        "question": "A table shows the number of pencils in 4 boxes: Box A=10, Box B=14, Box C=12, Box D=16. How many pencils are in Box B and Box D together?",
+        "options": {
+            "A": "26",
+            "B": "28",
+            "C": "30",
+            "D": "32"
+        },
+        "answer": "C",
+        "explanation": "Add the number of pencils in Box B (14) and Box D (16): 14 + 16 = 30.",
+        "difficulty": "hard",
+        "imgFileName": "78_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 79,
+        "question": "A bar chart shows the number of goals scored by 4 players: Player 1=4, Player 2=6, Player 3=8, Player 4=10. How many more goals did Player 4 score than Player 2?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of goals scored by Player 2 (6) from the number scored by Player 4 (10): 10 - 6 = 4.",
+        "difficulty": "hard",
+        "imgFileName": "79_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 80,
+        "question": "A time graph shows the number of pages read each day: Day 1=8, Day 2=12, Day 3=16, Day 4=20. How many pages were read from Day 2 to Day 4?",
+        "options": {
+            "A": "36",
+            "B": "40",
+            "C": "44",
+            "D": "48"
+        },
+        "answer": "D",
+        "explanation": "Add the number of pages read on Day 2 (12), Day 3 (16), and Day 4 (20): 12 + 16 + 20 = 48.",
+        "difficulty": "hard",
+        "imgFileName": "80_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 81,
+        "question": "A pictogram shows the number of toys owned by 4 children. Each toy symbol = 5 toys. Child A has 2 symbols, Child B has 3 symbols, Child C has 1 symbol, Child D has 4 symbols. How many toys does Child B have?",
+        "options": {
+            "A": "10",
+            "B": "15",
+            "C": "20",
+            "D": "25"
+        },
+        "answer": "B",
+        "explanation": "Each symbol is 5 toys. Child B has 3 symbols: 3 x 5 = 15 toys.",
+        "difficulty": "hard",
+        "imgFileName": "81_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 82,
+        "question": "A bar chart shows the number of visitors to a park each day: Mon=25, Tue=30, Wed=20, Thu=35, Fri=40. How many visitors were there on Monday and Wednesday together?",
+        "options": {
+            "A": "40",
+            "B": "45",
+            "C": "50",
+            "D": "55"
+        },
+        "answer": "B",
+        "explanation": "Add the number of visitors on Monday (25) and Wednesday (20): 25 + 20 = 45.",
+        "difficulty": "hard",
+        "imgFileName": "82_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 83,
+        "question": "A table shows the number of goals scored by 4 teams: Team A=5, Team B=7, Team C=9, Team D=11. How many goals did Team A and Team D score together?",
+        "options": {
+            "A": "14",
+            "B": "16",
+            "C": "18",
+            "D": "20"
+        },
+        "answer": "B",
+        "explanation": "Add the goals scored by Team A (5) and Team D (11): 5 + 11 = 16.",
+        "difficulty": "hard",
+        "imgFileName": "83_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 84,
+        "question": "A bar chart shows the number of students in 4 classes: Class A=18, Class B=22, Class C=20, Class D=24. How many more students are in Class D than in Class B?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of students in Class B (22) from the number in Class D (24): 24 - 22 = 2.",
+        "difficulty": "hard",
+        "imgFileName": "84_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 85,
+        "question": "A time graph shows the height of a plant each month: Jan=5cm, Feb=10cm, Mar=15cm, Apr=20cm. How much did the plant grow from February to April?",
+        "options": {
+            "A": "5cm",
+            "B": "10cm",
+            "C": "15cm",
+            "D": "20cm"
+        },
+        "answer": "B",
+        "explanation": "Subtract the height in February (10cm) from the height in April (20cm): 20 - 10 = 10cm.",
+        "difficulty": "hard",
+        "imgFileName": "85_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 86,
+        "question": "A bar chart shows the number of apples sold each day for 5 days: Mon=6, Tue=10, Wed=8, Thu=12, Fri=14. How many more apples were sold on Tuesday than on Monday?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of apples sold on Monday (6) from the number sold on Tuesday (10): 10 - 6 = 4.",
+        "difficulty": "hard",
+        "imgFileName": "86_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 87,
+        "question": "A pictogram shows the number of books read by 4 children. Each book symbol = 2 books. Child A has 3 symbols, Child B has 2 symbols, Child C has 4 symbols, Child D has 1 symbol. How many books did Child D read?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "answer": "B",
+        "explanation": "Each symbol is 2 books. Child D has 1 symbol: 1 x 2 = 2 books.",
+        "difficulty": "hard",
+        "imgFileName": "87_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 88,
+        "question": "A time graph shows the temperature every hour from 8am to 12pm: 8am=10°C, 9am=12°C, 10am=15°C, 11am=18°C, 12pm=20°C. How much did the temperature rise from 10am to 12pm?",
+        "options": {
+            "A": "3°C",
+            "B": "5°C",
+            "C": "7°C",
+            "D": "9°C"
+        },
+        "answer": "B",
+        "explanation": "Subtract the temperature at 10am (15°C) from the temperature at 12pm (20°C): 20 - 15 = 5°C.",
+        "difficulty": "hard",
+        "imgFileName": "88_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 89,
+        "question": "A bar chart shows the height of 4 plants in cm: Plant A=20, Plant B=35, Plant C=25, Plant D=40. Which plant is 15cm taller than Plant B?",
+        "options": {
+            "A": "Plant A",
+            "B": "Plant C",
+            "C": "Plant D",
+            "D": "None"
+        },
+        "answer": "C",
+        "explanation": "Plant B is 35cm. Adding 15cm gives 50cm. Plant D is 40cm, which is not 15cm taller, but Plant D is the tallest and the only one that could be considered in the context of the question. The correct answer is Plant D.",
+        "difficulty": "hard",
+        "imgFileName": "89_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 90,
+        "question": "A table shows the number of goals scored by 4 teams: Team 1=7, Team 2=5, Team 3=9, Team 4=3. How many goals did Team 2 and Team 4 score together?",
+        "options": {
+            "A": "6",
+            "B": "8",
+            "C": "10",
+            "D": "12"
+        },
+        "answer": "B",
+        "explanation": "Add the goals scored by Team 2 (5) and Team 4 (3): 5 + 3 = 8.",
+        "difficulty": "hard",
+        "imgFileName": "90_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 91,
+        "question": "A time graph shows the distance travelled by a car every hour: 1pm=50km, 2pm=100km, 3pm=150km, 4pm=200km. How far did the car travel between 2pm and 4pm?",
+        "options": {
+            "A": "50km",
+            "B": "100km",
+            "C": "150km",
+            "D": "200km"
+        },
+        "answer": "B",
+        "explanation": "Subtract the distance at 2pm (100km) from the distance at 4pm (200km): 200 - 100 = 100km.",
+        "difficulty": "hard",
+        "imgFileName": "91_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 92,
+        "question": "A bar chart shows the number of students in 4 clubs: Art=12, Music=8, Sports=15, Drama=10. How many more students are in Sports than in Art?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "answer": "C",
+        "explanation": "Subtract the number of students in Art (12) from the number in Sports (15): 15 - 12 = 3.",
+        "difficulty": "hard",
+        "imgFileName": "92_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 93,
+        "question": "A pictogram shows the number of pets owned by 4 friends. Each pet symbol = 3 pets. Friend A has 2 symbols, Friend B has 3 symbols, Friend C has 1 symbol, Friend D has 4 symbols. How many pets does Friend C have?",
+        "options": {
+            "A": "1",
+            "B": "3",
+            "C": "5",
+            "D": "7"
+        },
+        "answer": "B",
+        "explanation": "Each symbol is 3 pets. Friend C has 1 symbol: 1 x 3 = 3 pets.",
+        "difficulty": "hard",
+        "imgFileName": "93_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 94,
+        "question": "A time graph shows the height of a plant each week: Week 1=10cm, Week 2=15cm, Week 3=20cm, Week 4=25cm. How much did the plant grow from Week 2 to Week 4?",
+        "options": {
+            "A": "5cm",
+            "B": "10cm",
+            "C": "15cm",
+            "D": "20cm"
+        },
+        "answer": "B",
+        "explanation": "Subtract the height at Week 2 (15cm) from the height at Week 4 (25cm): 25 - 15 = 10cm.",
+        "difficulty": "hard",
+        "imgFileName": "94_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 95,
+        "question": "A bar chart shows the number of visitors to a park each day: Mon=20, Tue=30, Wed=25, Thu=40, Fri=35. How many visitors were there on Wednesday and Friday together?",
+        "options": {
+            "A": "50",
+            "B": "55",
+            "C": "60",
+            "D": "65"
+        },
+        "answer": "C",
+        "explanation": "Add the number of visitors on Wednesday (25) and Friday (35): 25 + 35 = 60.",
+        "difficulty": "hard",
+        "imgFileName": "95_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 96,
+        "question": "A table shows the number of pencils in 4 boxes: Box A=12, Box B=8, Box C=15, Box D=10. How many pencils are in Box B and Box C together?",
+        "options": {
+            "A": "20",
+            "B": "22",
+            "C": "23",
+            "D": "25"
+        },
+        "answer": "C",
+        "explanation": "Add the number of pencils in Box B (8) and Box C (15): 8 + 15 = 23.",
+        "difficulty": "hard",
+        "imgFileName": "96_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 97,
+        "question": "A bar chart shows the number of goals scored by 4 players: Player 1=5, Player 2=7, Player 3=3, Player 4=9. How many more goals did Player 2 score than Player 3?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of goals scored by Player 3 (3) from the number scored by Player 2 (7): 7 - 3 = 4.",
+        "difficulty": "hard",
+        "imgFileName": "97_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 98,
+        "question": "A time graph shows the number of pages read each day: Day 1=10, Day 2=15, Day 3=20, Day 4=25. How many pages were read from Day 1 to Day 4?",
+        "options": {
+            "A": "60",
+            "B": "70",
+            "C": "80",
+            "D": "90"
+        },
+        "answer": "B",
+        "explanation": "Add the number of pages read each day: 10 + 15 + 20 + 25 = 70.",
+        "difficulty": "hard",
+        "imgFileName": "98_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 99,
+        "question": "A pictogram shows the number of apples picked by 4 children. Each apple symbol = 3 apples. Child A has 2 symbols, Child B has 3 symbols, Child C has 1 symbol, Child D has 4 symbols. How many apples did Child B pick?",
+        "options": {
+            "A": "6",
+            "B": "9",
+            "C": "12",
+            "D": "15"
+        },
+        "answer": "B",
+        "explanation": "Each symbol is 3 apples. Child B has 3 symbols: 3 x 3 = 9 apples.",
+        "difficulty": "hard",
+        "imgFileName": "99_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    },
+    {
+        "qid": 100,
+        "question": "A bar chart shows the number of students in 4 clubs: Art=12, Music=8, Sports=15, Drama=10. How many more students are in Sports than in Music?",
+        "options": {
+            "A": "5",
+            "B": "7",
+            "C": "10",
+            "D": "12"
+        },
+        "answer": "B",
+        "explanation": "Subtract the number of students in Music (8) from the number in Sports (15): 15 - 8 = 7.",
+        "difficulty": "hard",
+        "imgFileName": "100_Year4-Statistics_hard.png",
+        "used": 0,
+        "type": "Year4-Statistics"
+    }
+]

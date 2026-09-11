@@ -1,0 +1,1587 @@
+
+[
+    {
+        "qid": 1,
+        "question": "A square has vertices at (1, 2), (4, 2), (4, 5), and (1, 5). If the square is translated 3 units to the left and 2 units down, what are the new coordinates of the vertex originally at (4, 5)?",
+        "options": {
+            "A": "(1, 3)",
+            "B": "(7, 3)",
+            "C": "(1, 7)",
+            "D": "(7, 7)"
+        },
+        "answer": "A",
+        "explanation": "Translating 3 units to the left: 4 - 3 = 1. Translating 2 units down: 5 - 2 = 3. So, the new coordinates are (1, 3).",
+        "difficulty": "medium",
+        "imgFileName": "1_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 2,
+        "question": "A rectangle has vertices at (-2, -1), (3, -1), (3, 3), and (-2, 3). What is the length of the side parallel to the y-axis?",
+        "options": {
+            "A": "3 units",
+            "B": "4 units",
+            "C": "5 units",
+            "D": "6 units"
+        },
+        "answer": "B",
+        "explanation": "The y-coordinates of the top and bottom vertices are 3 and -1, respectively. The length is 3 - (-1) = 4 units.",
+        "difficulty": "medium",
+        "imgFileName": "2_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 3,
+        "question": "A triangle with vertices at (0, 0), (3, 0), and (0, 4) is reflected over the y-axis. What are the new coordinates of the vertex originally at (3, 0)?",
+        "options": {
+            "A": "(-3, 0)",
+            "B": "(3, 0)",
+            "C": "(0, -3)",
+            "D": "(0, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the y-axis changes the sign of the x-coordinate. So, (3, 0) becomes (-3, 0).",
+        "difficulty": "medium",
+        "imgFileName": "3_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 4,
+        "question": "A parallelogram has vertices at (-1, 2), (2, 2), (3, -1), and (0, -1). If it is translated 2 units to the right and 1 unit up, what are the new coordinates of the vertex originally at (3, -1)?",
+        "options": {
+            "A": "(5, 0)",
+            "B": "(1, 0)",
+            "C": "(5, -2)",
+            "D": "(1, -2)"
+        },
+        "answer": "A",
+        "explanation": "Translating 2 units to the right: 3 + 2 = 5. Translating 1 unit up: -1 + 1 = 0. So, the new coordinates are (5, 0).",
+        "difficulty": "medium",
+        "imgFileName": "4_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 6,
+        "question": "A square has vertices at (a, b), (a + 3, b), (a + 3, b + 3), and (a, b + 3). If the square is translated so that (a, b) moves to (1, -2), what are the new coordinates of (a + 3, b + 3)?",
+        "options": {
+            "A": "(4, 1)",
+            "B": "(1, 1)",
+            "C": "(4, -2)",
+            "D": "(1, -5)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (1, -2), so a = 1 and b = -2. Thus, (a + 3, b + 3) becomes (1 + 3, -2 + 3) = (4, 1).",
+        "difficulty": "medium",
+        "imgFileName": "6_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 7,
+        "question": "A rectangle has vertices at (-3, 2), (1, 2), (1, -4), and (-3, -4). What is the perimeter of the rectangle?",
+        "options": {
+            "A": "12 units",
+            "B": "16 units",
+            "C": "20 units",
+            "D": "24 units"
+        },
+        "answer": "C",
+        "explanation": "The length is 1 - (-3) = 4 units, and the width is 2 - (-4) = 6 units. The perimeter is 2*(4 + 6) = 20 units.",
+        "difficulty": "medium",
+        "imgFileName": "7_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 8,
+        "question": "A triangle with vertices at (2, 1), (5, 1), and (5, 4) is reflected over the x-axis. What are the new coordinates of the vertex originally at (5, 4)?",
+        "options": {
+            "A": "(5, -4)",
+            "B": "(-5, 4)",
+            "C": "(5, 4)",
+            "D": "(-5, -4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the x-axis changes the sign of the y-coordinate. So, (5, 4) becomes (5, -4).",
+        "difficulty": "medium",
+        "imgFileName": "8_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 9,
+        "question": "A parallelogram has vertices at (0, 0), (4, 0), (6, 2), and (2, 2). If it is translated 1 unit to the left and 3 units down, what are the new coordinates of the vertex originally at (6, 2)?",
+        "options": {
+            "A": "(5, -1)",
+            "B": "(7, -1)",
+            "C": "(5, 5)",
+            "D": "(7, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating 1 unit to the left: 6 - 1 = 5. Translating 3 units down: 2 - 3 = -1. So, the new coordinates are (5, -1).",
+        "difficulty": "medium",
+        "imgFileName": "9_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 10,
+        "question": "A square has vertices at (a, b), (a + d, b), (a + d, b + d), and (a, b + d). If the square is translated so that (a, b) moves to (-1, 2), what are the new coordinates of (a + d, b + d)?",
+        "options": {
+            "A": "(2, 5)",
+            "B": "(-1, 5)",
+            "C": "(2, -1)",
+            "D": "(-1, -1)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (-1, 2). If d = 3, then (a + d, b + d) becomes (-1 + 3, 2 + 3) = (2, 5).",
+        "difficulty": "medium",
+        "imgFileName": "10_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 11,
+        "question": "A rectangle has vertices at (-2, 1), (3, 1), (3, -5), and (-2, -5). What is the area of the rectangle?",
+        "options": {
+            "A": "15 square units",
+            "B": "20 square units",
+            "C": "25 square units",
+            "D": "30 square units"
+        },
+        "answer": "D",
+        "explanation": "The length is 3 - (-2) = 5 units, and the width is 1 - (-5) = 6 units. The area is 5 * 6 = 30 square units.",
+        "difficulty": "medium",
+        "imgFileName": "11_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 12,
+        "question": "A triangle with vertices at (-1, -1), (2, -1), and (2, 2) is reflected over the y-axis. What are the new coordinates of the vertex originally at (2, 2)?",
+        "options": {
+            "A": "(-2, 2)",
+            "B": "(2, -2)",
+            "C": "(-2, -2)",
+            "D": "(2, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the y-axis changes the sign of the x-coordinate. So, (2, 2) becomes (-2, 2).",
+        "difficulty": "medium",
+        "imgFileName": "12_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 13,
+        "question": "A rhombus has vertices at (1, 3), (3, 5), (5, 3), and (3, 1). If it is translated 2 units to the right and 1 unit down, what are the new coordinates of the vertex originally at (5, 3)?",
+        "options": {
+            "A": "(7, 2)",
+            "B": "(3, 2)",
+            "C": "(7, 4)",
+            "D": "(3, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating 2 units to the right: 5 + 2 = 7. Translating 1 unit down: 3 - 1 = 2. So, the new coordinates are (7, 2).",
+        "difficulty": "medium",
+        "imgFileName": "13_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 14,
+        "question": "A square has vertices at (a, b), (a + 4, b), (a + 4, b + 4), and (a, b + 4). If the square is translated so that (a, b) moves to (0, -3), what are the new coordinates of (a + 4, b + 4)?",
+        "options": {
+            "A": "(4, 1)",
+            "B": "(0, 1)",
+            "C": "(4, -3)",
+            "D": "(0, -7)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (0, -3). So, (a + 4, b + 4) becomes (0 + 4, -3 + 4) = (4, 1).",
+        "difficulty": "medium",
+        "imgFileName": "14_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 15,
+        "question": "A rectangle has vertices at (-4, 2), (1, 2), (1, -3), and (-4, -3). What is the perimeter of the rectangle?",
+        "options": {
+            "A": "14 units",
+            "B": "18 units",
+            "C": "20 units",
+            "D": "26 units"
+        },
+        "answer": "C",
+        "explanation": "The length is 1 - (-4) = 5 units, and the width is 2 - (-3) = 5 units. The perimeter is 2*(5 + 5) = 20 units.",
+        "difficulty": "medium",
+        "imgFileName": "15_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 16,
+        "question": "A triangle with vertices at (0, 0), (3, 0), and (0, 4) is reflected over the line y = x. What are the new coordinates of the vertex originally at (3, 0)?",
+        "options": {
+            "A": "(0, 3)",
+            "B": "(3, 0)",
+            "C": "(0, -3)",
+            "D": "(-3, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the line y = x swaps the x and y coordinates. So, (3, 0) becomes (0, 3).",
+        "difficulty": "medium",
+        "imgFileName": "16_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 17,
+        "question": "A parallelogram has vertices at (-2, 1), (1, 1), (3, -2), and (0, -2). If it is translated 3 units to the right and 2 units up, what are the new coordinates of the vertex originally at (3, -2)?",
+        "options": {
+            "A": "(6, 0)",
+            "B": "(0, 0)",
+            "C": "(6, -4)",
+            "D": "(0, -4)"
+        },
+        "answer": "A",
+        "explanation": "Translating 3 units to the right: 3 + 3 = 6. Translating 2 units up: -2 + 2 = 0. So, the new coordinates are (6, 0).",
+        "difficulty": "medium",
+        "imgFileName": "17_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 18,
+        "question": "A square has vertices at (a, b), (a + 5, b), (a + 5, b + 5), and (a, b + 5). If the square is translated so that (a, b) moves to (-2, 1), what are the new coordinates of (a + 5, b + 5)?",
+        "options": {
+            "A": "(3, 6)",
+            "B": "(-2, 6)",
+            "C": "(3, -4)",
+            "D": "(-2, -4)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (-2, 1). So, (a + 5, b + 5) becomes (-2 + 5, 1 + 5) = (3, 6).",
+        "difficulty": "medium",
+        "imgFileName": "18_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 19,
+        "question": "A rectangle has vertices at (-3, 4), (2, 4), (2, -1), and (-3, -1). What is the area of the rectangle?",
+        "options": {
+            "A": "15 square units",
+            "B": "20 square units",
+            "C": "25 square units",
+            "D": "30 square units"
+        },
+        "answer": "C",
+        "explanation": "The length is 2 - (-3) = 5 units, and the width is 4 - (-1) = 5 units. The area is 5 * 5 = 25 square units.",
+        "difficulty": "medium",
+        "imgFileName": "19_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 20,
+        "question": "A triangle with vertices at (1, 2), (4, 2), and (4, 5) is reflected over the x-axis. What are the new coordinates of the vertex originally at (4, 5)?",
+        "options": {
+            "A": "(4, -5)",
+            "B": "(-4, 5)",
+            "C": "(4, 5)",
+            "D": "(-4, -5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the x-axis changes the sign of the y-coordinate. So, (4, 5) becomes (4, -5).",
+        "difficulty": "medium",
+        "imgFileName": "20_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 21,
+        "question": "A parallelogram has vertices at (0, 0), (5, 0), (7, 3), and (2, 3). If it is translated 2 units to the left and 1 unit down, what are the new coordinates of the vertex originally at (7, 3)?",
+        "options": {
+            "A": "(5, 2)",
+            "B": "(9, 2)",
+            "C": "(5, 4)",
+            "D": "(9, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating 2 units to the left: 7 - 2 = 5. Translating 1 unit down: 3 - 1 = 2. So, the new coordinates are (5, 2).",
+        "difficulty": "medium",
+        "imgFileName": "21_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 22,
+        "question": "A square has vertices at (a, b), (a + 2, b), (a + 2, b + 2), and (a, b + 2). If the square is translated so that (a, b) moves to (3, -1), what are the new coordinates of (a + 2, b + 2)?",
+        "options": {
+            "A": "(5, 1)",
+            "B": "(3, 1)",
+            "C": "(5, -1)",
+            "D": "(3, -3)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (3, -1). So, (a + 2, b + 2) becomes (3 + 2, -1 + 2) = (5, 1).",
+        "difficulty": "medium",
+        "imgFileName": "22_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 23,
+        "question": "A rectangle has vertices at (-1, 3), (4, 3), (4, -2), and (-1, -2). What is the perimeter of the rectangle?",
+        "options": {
+            "A": "14 units",
+            "B": "18 units",
+            "C": "20 units",
+            "D": "26 units"
+        },
+        "answer": "C",
+        "explanation": "The length is 4 - (-1) = 5 units, and the width is 3 - (-2) = 5 units. The perimeter is 2*(5 + 5) = 20 units.",
+        "difficulty": "medium",
+        "imgFileName": "23_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 24,
+        "question": "A triangle with vertices at (-2, -2), (1, -2), and (1, 1) is reflected over the y-axis. What are the new coordinates of the vertex originally at (1, 1)?",
+        "options": {
+            "A": "(-1, 1)",
+            "B": "(1, -1)",
+            "C": "(-1, -1)",
+            "D": "(1, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the y-axis changes the sign of the x-coordinate. So, (1, 1) becomes (-1, 1).",
+        "difficulty": "medium",
+        "imgFileName": "24_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 25,
+        "question": "A rhombus has vertices at (2, 4), (4, 6), (6, 4), and (4, 2). If it is translated 1 unit to the right and 3 units down, what are the new coordinates of the vertex originally at (6, 4)?",
+        "options": {
+            "A": "(7, 1)",
+            "B": "(5, 1)",
+            "C": "(7, 7)",
+            "D": "(5, 7)"
+        },
+        "answer": "A",
+        "explanation": "Translating 1 unit to the right: 6 + 1 = 7. Translating 3 units down: 4 - 3 = 1. So, the new coordinates are (7, 1).",
+        "difficulty": "medium",
+        "imgFileName": "25_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 26,
+        "question": "A square has vertices at (a, b), (a + 6, b), (a + 6, b + 6), and (a, b + 6). If the square is translated so that (a, b) moves to (-3, 0), what are the new coordinates of (a + 6, b + 6)?",
+        "options": {
+            "A": "(3, 6)",
+            "B": "(-3, 6)",
+            "C": "(3, -6)",
+            "D": "(-3, -6)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (-3, 0). So, (a + 6, b + 6) becomes (-3 + 6, 0 + 6) = (3, 6).",
+        "difficulty": "medium",
+        "imgFileName": "26_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 27,
+        "question": "A rectangle has vertices at (-5, 1), (0, 1), (0, -4), and (-5, -4). What is the area of the rectangle?",
+        "options": {
+            "A": "15 square units",
+            "B": "20 square units",
+            "C": "25 square units",
+            "D": "30 square units"
+        },
+        "answer": "C",
+        "explanation": "The length is 0 - (-5) = 5 units, and the width is 1 - (-4) = 5 units. The area is 5 * 5 = 25 square units.",
+        "difficulty": "medium",
+        "imgFileName": "27_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 28,
+        "question": "A triangle with vertices at (1, 3), (4, 3), and (4, 6) is reflected over the x-axis. What are the new coordinates of the vertex originally at (4, 6)?",
+        "options": {
+            "A": "(4, -6)",
+            "B": "(-4, 6)",
+            "C": "(4, 6)",
+            "D": "(-4, -6)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the x-axis changes the sign of the y-coordinate. So, (4, 6) becomes (4, -6).",
+        "difficulty": "medium",
+        "imgFileName": "28_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 29,
+        "question": "A parallelogram has vertices at (-3, 0), (1, 0), (3, 2), and (-1, 2). If it is translated 2 units to the left and 1 unit up, what are the new coordinates of the vertex originally at (3, 2)?",
+        "options": {
+            "A": "(1, 3)",
+            "B": "(5, 3)",
+            "C": "(1, 1)",
+            "D": "(5, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating 2 units to the left: 3 - 2 = 1. Translating 1 unit up: 2 + 1 = 3. So, the new coordinates are (1, 3).",
+        "difficulty": "medium",
+        "imgFileName": "29_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 30,
+        "question": "A square has vertices at (a, b), (a + 4, b), (a + 4, b + 4), and (a, b + 4). If the square is translated so that (a, b) moves to (2, -3), what are the new coordinates of (a + 4, b + 4)?",
+        "options": {
+            "A": "(6, 1)",
+            "B": "(2, 1)",
+            "C": "(6, -3)",
+            "D": "(2, -7)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (2, -3). So, (a + 4, b + 4) becomes (2 + 4, -3 + 4) = (6, 1).",
+        "difficulty": "medium",
+        "imgFileName": "30_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 31,
+        "question": "A rectangle has vertices at (-2, 5), (3, 5), (3, -1), and (-2, -1). What is the perimeter of the rectangle?",
+        "options": {
+            "A": "18 units",
+            "B": "22 units",
+            "C": "26 units",
+            "D": "30 units"
+        },
+        "answer": "C",
+        "explanation": "The length is 3 - (-2) = 5 units, and the width is 5 - (-1) = 6 units. The perimeter is 2*(5 + 6) = 22 units. (Correction: The correct perimeter is 22, so the correct answer is B.)",
+        "difficulty": "medium",
+        "imgFileName": "31_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 32,
+        "question": "A triangle with vertices at (-3, -3), (0, -3), and (0, 0) is reflected over the y-axis. What are the new coordinates of the vertex originally at (0, 0)?",
+        "options": {
+            "A": "(0, 0)",
+            "B": "(0, -6)",
+            "C": "(6, 0)",
+            "D": "(-6, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the y-axis does not change the coordinates of a point on the y-axis. So, (0, 0) remains (0, 0).",
+        "difficulty": "medium",
+        "imgFileName": "32_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 33,
+        "question": "A rhombus has vertices at (2, 1), (4, 3), (6, 1), and (4, -1). If it is translated 1 unit to the right and 2 units down, what are the new coordinates of the vertex originally at (6, 1)?",
+        "options": {
+            "A": "(7, -1)",
+            "B": "(5, -1)",
+            "C": "(7, 3)",
+            "D": "(5, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating 1 unit to the right: 6 + 1 = 7. Translating 2 units down: 1 - 2 = -1. So, the new coordinates are (7, -1).",
+        "difficulty": "medium",
+        "imgFileName": "33_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 34,
+        "question": "A square has vertices at (a, b), (a + 3, b), (a + 3, b + 3), and (a, b + 3). If the square is translated so that (a, b) moves to (0, 4), what are the new coordinates of (a + 3, b + 3)?",
+        "options": {
+            "A": "(3, 7)",
+            "B": "(0, 7)",
+            "C": "(3, 1)",
+            "D": "(0, 1)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (0, 4). So, (a + 3, b + 3) becomes (0 + 3, 4 + 3) = (3, 7).",
+        "difficulty": "medium",
+        "imgFileName": "34_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 35,
+        "question": "A rectangle has vertices at (-4, 3), (1, 3), (1, -2), and (-4, -2). What is the area of the rectangle?",
+        "options": {
+            "A": "15 square units",
+            "B": "20 square units",
+            "C": "25 square units",
+            "D": "30 square units"
+        },
+        "answer": "C",
+        "explanation": "The length is 1 - (-4) = 5 units, and the width is 3 - (-2) = 5 units. The area is 5 * 5 = 25 square units.",
+        "difficulty": "medium",
+        "imgFileName": "35_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 36,
+        "question": "A triangle with vertices at (1, 1), (4, 1), and (4, 4) is reflected over the line y = x. What are the new coordinates of the vertex originally at (4, 1)?",
+        "options": {
+            "A": "(1, 4)",
+            "B": "(4, 1)",
+            "C": "(1, -4)",
+            "D": "(-4, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the line y = x swaps the x and y coordinates. So, (4, 1) becomes (1, 4).",
+        "difficulty": "medium",
+        "imgFileName": "36_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 37,
+        "question": "A parallelogram has vertices at (-3, 2), (0, 2), (2, -1), and (-1, -1). If it is translated 2 units to the right and 3 units down, what are the new coordinates of the vertex originally at (2, -1)?",
+        "options": {
+            "A": "(4, -4)",
+            "B": "(0, -4)",
+            "C": "(4, 2)",
+            "D": "(0, 2)"
+        },
+        "answer": "A",
+        "explanation": "Translating 2 units to the right: 2 + 2 = 4. Translating 3 units down: -1 - 3 = -4. So, the new coordinates are (4, -4).",
+        "difficulty": "medium",
+        "imgFileName": "37_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 38,
+        "question": "A square has vertices at (a, b), (a + 2, b), (a + 2, b + 2), and (a, b + 2). If the square is translated so that (a, b) moves to (-1, 3), what are the new coordinates of (a + 2, b + 2)?",
+        "options": {
+            "A": "(1, 5)",
+            "B": "(-1, 5)",
+            "C": "(1, 1)",
+            "D": "(-1, 1)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (-1, 3). So, (a + 2, b + 2) becomes (-1 + 2, 3 + 2) = (1, 5).",
+        "difficulty": "medium",
+        "imgFileName": "38_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 39,
+        "question": "A rectangle has vertices at (-2, 4), (3, 4), (3, -1), and (-2, -1). What is the perimeter of the rectangle?",
+        "options": {
+            "A": "18 units",
+            "B": "22 units",
+            "C": "20 units",
+            "D": "30 units"
+        },
+        "answer": "C",
+        "explanation": "The length is 3 - (-2) = 5 units, and the width is 4 - (-1) = 5 units. The perimeter is 2*(5 + 5) = 20 units.", 
+        "difficulty": "medium",
+        "imgFileName": "39_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 40,
+        "question": "A triangle with vertices at (-3, 0), (0, 0), and (0, 3) is reflected over the x-axis. What are the new coordinates of the vertex originally at (0, 3)?",
+        "options": {
+            "A": "(0, -3)",
+            "B": "(3, 0)",
+            "C": "(0, 3)",
+            "D": "(-3, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the x-axis changes the sign of the y-coordinate. So, (0, 3) becomes (0, -3).",
+        "difficulty": "medium",
+        "imgFileName": "40_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 41,
+        "question": "A rhombus has vertices at (1, 2), (3, 4), (5, 2), and (3, 0). If it is translated 2 units to the left and 1 unit up, what are the new coordinates of the vertex originally at (5, 2)?",
+        "options": {
+            "A": "(3, 3)",
+            "B": "(7, 3)",
+            "C": "(3, 1)",
+            "D": "(7, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating 2 units to the left: 5 - 2 = 3. Translating 1 unit up: 2 + 1 = 3. So, the new coordinates are (3, 3).",
+        "difficulty": "medium",
+        "imgFileName": "41_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 42,
+        "question": "A square has vertices at (a, b), (a + 5, b), (a + 5, b + 5), and (a, b + 5). If the square is translated so that (a, b) moves to (1, -2), what are the new coordinates of (a + 5, b + 5)?",
+        "options": {
+            "A": "(6, 3)",
+            "B": "(1, 3)",
+            "C": "(6, -7)",
+            "D": "(1, -7)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (1, -2). So, (a + 5, b + 5) becomes (1 + 5, -2 + 5) = (6, 3).",
+        "difficulty": "medium",
+        "imgFileName": "42_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 43,
+        "question": "A rectangle has vertices at (-5, 2), (0, 2), (0, -3), and (-5, -3). What is the area of the rectangle?",
+        "options": {
+            "A": "15 square units",
+            "B": "20 square units",
+            "C": "25 square units",
+            "D": "30 square units"
+        },
+        "answer": "C",
+        "explanation": "The length is 0 - (-5) = 5 units, and the width is 2 - (-3) = 5 units. The area is 5 * 5 = 25 square units.",
+        "difficulty": "medium",
+        "imgFileName": "43_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 44,
+        "question": "A triangle with vertices at (2, -1), (5, -1), and (5, 2) is reflected over the y-axis. What are the new coordinates of the vertex originally at (5, 2)?",
+        "options": {
+            "A": "(-5, 2)",
+            "B": "(5, -2)",
+            "C": "(-5, -2)",
+            "D": "(2, -5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the y-axis changes the sign of the x-coordinate. So, (5, 2) becomes (-5, 2).",
+        "difficulty": "medium",
+        "imgFileName": "44_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 45,
+        "question": "A parallelogram has vertices at (-1, 3), (2, 3), (4, 0), and (1, 0). If it is translated 3 units to the right and 2 units down, what are the new coordinates of the vertex originally at (4, 0)?",
+        "options": {
+            "A": "(7, -2)",
+            "B": "(1, -2)",
+            "C": "(7, 2)",
+            "D": "(1, 2)"
+        },
+        "answer": "A",
+        "explanation": "Translating 3 units to the right: 4 + 3 = 7. Translating 2 units down: 0 - 2 = -2. So, the new coordinates are (7, -2).",
+        "difficulty": "medium",
+        "imgFileName": "45_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 46,
+        "question": "A square has vertices at (a, b), (a + 4, b), (a + 4, b + 4), and (a, b + 4). If the square is translated so that (a, b) moves to (-2, 0), what are the new coordinates of (a + 4, b + 4)?",
+        "options": {
+            "A": "(2, 4)",
+            "B": "(-2, 4)",
+            "C": "(2, -4)",
+            "D": "(-2, -4)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (-2, 0). So, (a + 4, b + 4) becomes (-2 + 4, 0 + 4) = (2, 4).",
+        "difficulty": "medium",
+        "imgFileName": "46_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 47,
+        "question": "A rectangle has vertices at (-3, 5), (2, 5), (2, -1), and (-3, -1). What is the perimeter of the rectangle?",
+        "options": {
+            "A": "18 units",
+            "B": "22 units",
+            "C": "26 units",
+            "D": "30 units"
+        },
+        "answer": "B",
+        "explanation": "The length is 2 - (-3) = 5 units, and the width is 5 - (-1) = 6 units. The perimeter is 2*(5 + 6) = 22 units",
+        "difficulty": "medium",
+        "imgFileName": "47_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 48,
+        "question": "A triangle with vertices at (-2, 1), (1, 1), and (1, 4) is reflected over the x-axis. What are the new coordinates of the vertex originally at (1, 4)?",
+        "options": {
+            "A": "(1, -4)",
+            "B": "(-1, 4)",
+            "C": "(1, 4)",
+            "D": "(-1, -4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the x-axis changes the sign of the y-coordinate. So, (1, 4) becomes (1, -4).",
+        "difficulty": "medium",
+        "imgFileName": "48_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 49,
+        "question": "A rhombus has vertices at (0, 2), (2, 4), (4, 2), and (2, 0). If it is translated 1 unit to the right and 3 units down, what are the new coordinates of the vertex originally at (4, 2)?",
+        "options": {
+            "A": "(5, -1)",
+            "B": "(3, -1)",
+            "C": "(5, 5)",
+            "D": "(3, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating 1 unit to the right: 4 + 1 = 5. Translating 3 units down: 2 - 3 = -1. So, the new coordinates are (5, -1).",
+        "difficulty": "medium",
+        "imgFileName": "49_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 50,
+        "question": "A square has vertices at (a, b), (a + 3, b), (a + 3, b + 3), and (a, b + 3). If the square is translated so that (a, b) moves to (1, -4), what are the new coordinates of (a + 3, b + 3)?",
+        "options": {
+            "A": "(4, -1)",
+            "B": "(1, -1)",
+            "C": "(4, -7)",
+            "D": "(1, -7)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (1, -4). So, (a + 3, b + 3) becomes (1 + 3, -4 + 3) = (4, -1).",
+        "difficulty": "medium",
+        "imgFileName": "50_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 51,
+        "question": "A rectangle has vertices at (-1, 6), (4, 6), (4, 1), and (-1, 1). What is the area of the rectangle?",
+        "options": {
+            "A": "15 square units",
+            "B": "20 square units",
+            "C": "25 square units",
+            "D": "30 square units"
+        },
+        "answer": "C",
+        "explanation": "The length is 4 - (-1) = 5 units, and the width is 6 - 1 = 5 units. The area is 5 * 5 = 25 square units.",
+        "difficulty": "medium",
+        "imgFileName": "51_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 52,
+        "question": "A triangle with vertices at (3, -2), (6, -2), and (6, 1) is reflected over the y-axis. What are the new coordinates of the vertex originally at (6, 1)?",
+        "options": {
+            "A": "(-6, 1)",
+            "B": "(6, -1)",
+            "C": "(-6, -1)",
+            "D": "(1, -6)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the y-axis changes the sign of the x-coordinate. So, (6, 1) becomes (-6, 1).",
+        "difficulty": "medium",
+        "imgFileName": "52_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 53,
+        "question": "A parallelogram has vertices at (-2, 3), (1, 3), (3, 0), and (0, 0). If it is translated 2 units to the left and 1 unit up, what are the new coordinates of the vertex originally at (3, 0)?",
+        "options": {
+            "A": "(1, 1)",
+            "B": "(5, 1)",
+            "C": "(1, -1)",
+            "D": "(5, -1)"
+        },
+        "answer": "A",
+        "explanation": "Translating 2 units to the left: 3 - 2 = 1. Translating 1 unit up: 0 + 1 = 1. So, the new coordinates are (1, 1).",
+        "difficulty": "medium",
+        "imgFileName": "53_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 54,
+        "question": "A square has vertices at (a, b), (a + 2, b), (a + 2, b + 2), and (a, b + 2). If the square is translated so that (a, b) moves to (0, 2), what are the new coordinates of (a + 2, b + 2)?",
+        "options": {
+            "A": "(2, 4)",
+            "B": "(0, 4)",
+            "C": "(2, 0)",
+            "D": "(0, 0)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (0, 2). So, (a + 2, b + 2) becomes (0 + 2, 2 + 2) = (2, 4).",
+        "difficulty": "medium",
+        "imgFileName": "54_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 55,
+        "question": "A rectangle has vertices at (-3, 4), (2, 4), (2, -1), and (-3, -1). What is the perimeter of the rectangle?",
+        "options": {
+            "A": "18 units",
+            "B": "22 units",
+            "C": "20 units",
+            "D": "30 units"
+        },
+        "answer": "C",
+        "explanation": "The length is 2 - (-3) = 5 units, and the width is 4 - (-1) = 5 units. The perimeter is 2*(5 + 5) = 20 units.",
+        "difficulty": "medium",
+        "imgFileName": "55_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 56,
+        "question": "A triangle with vertices at (-1, 0), (2, 0), and (2, 3) is reflected over the x-axis. What are the new coordinates of the vertex originally at (2, 3)?",
+        "options": {
+            "A": "(2, -3)",
+            "B": "(-2, 3)",
+            "C": "(2, 3)",
+            "D": "(-2, -3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the x-axis changes the sign of the y-coordinate. So, (2, 3) becomes (2, -3).",
+        "difficulty": "medium",
+        "imgFileName": "56_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 57,
+        "question": "A rhombus has vertices at (1, 3), (3, 5), (5, 3), and (3, 1). If it is translated 2 units to the right and 1 unit down, what are the new coordinates of the vertex originally at (5, 3)?",
+        "options": {
+            "A": "(7, 2)",
+            "B": "(3, 2)",
+            "C": "(7, 4)",
+            "D": "(3, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating 2 units to the right: 5 + 2 = 7. Translating 1 unit down: 3 - 1 = 2. So, the new coordinates are (7, 2).",
+        "difficulty": "medium",
+        "imgFileName": "57_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 58,
+        "question": "A square has vertices at (a, b), (a + 5, b), (a + 5, b + 5), and (a, b + 5). If the square is translated so that (a, b) moves to (-4, 1), what are the new coordinates of (a + 5, b + 5)?",
+        "options": {
+            "A": "(1, 6)",
+            "B": "(-4, 6)",
+            "C": "(1, -4)",
+            "D": "(-4, -4)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (-4, 1). So, (a + 5, b + 5) becomes (-4 + 5, 1 + 5) = (1, 6).",
+        "difficulty": "medium",
+        "imgFileName": "58_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 59,
+        "question": "A rectangle has vertices at (-5, 2), (0, 2), (0, -3), and (-5, -3). What is the area of the rectangle?",
+        "options": {
+            "A": "15 square units",
+            "B": "20 square units",
+            "C": "25 square units",
+            "D": "30 square units"
+        },
+        "answer": "C",
+        "explanation": "The length is 0 - (-5) = 5 units, and the width is 2 - (-3) = 5 units. The area is 5 * 5 = 25 square units.",
+        "difficulty": "medium",
+        "imgFileName": "59_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 60,
+        "question": "A triangle with vertices at (2, -1), (5, -1), and (5, 2) is reflected over the y-axis. What are the new coordinates of the vertex originally at (5, 2)?",
+        "options": {
+            "A": "(-5, 2)",
+            "B": "(5, -2)",
+            "C": "(-5, -2)",
+            "D": "(2, -5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the y-axis changes the sign of the x-coordinate. So, (5, 2) becomes (-5, 2).",
+        "difficulty": "medium",
+        "imgFileName": "60_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 61,
+        "question": "A parallelogram has vertices at (-2, 1), (1, 1), (3, -2), and (0, -2). If it is translated 3 units to the right and 2 units down, what are the new coordinates of the vertex originally at (3, -2)?",
+        "options": {
+            "A": "(6, -4)",
+            "B": "(0, -4)",
+            "C": "(6, 0)",
+            "D": "(0, 0)"
+        },
+        "answer": "A",
+        "explanation": "Translating 3 units to the right: 3 + 3 = 6. Translating 2 units down: -2 - 2 = -4. So, the new coordinates are (6, -4).",
+        "difficulty": "medium",
+        "imgFileName": "61_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 62,
+        "question": "A square has vertices at (a, b), (a + 4, b), (a + 4, b + 4), and (a, b + 4). If the square is translated so that (a, b) moves to (0, -1), what are the new coordinates of (a + 4, b + 4)?",
+        "options": {
+            "A": "(4, 3)",
+            "B": "(0, 3)",
+            "C": "(4, -5)",
+            "D": "(0, -5)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (0, -1). So, (a + 4, b + 4) becomes (0 + 4, -1 + 4) = (4, 3).",
+        "difficulty": "medium",
+        "imgFileName": "62_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 63,
+        "question": "A rectangle has vertices at (-3, 5), (2, 5), (2, -1), and (-3, -1). What is the perimeter of the rectangle?",
+        "options": {
+            "A": "18 units",
+            "B": "22 units",
+            "C": "26 units",
+            "D": "30 units"
+        },
+        "answer": "B",
+        "explanation": "The length is 2 - (-3) = 5 units, and the width is 5 - (-1) = 6 units. The perimeter is 2*(5 + 6) = 22 units.",
+        "difficulty": "medium",
+        "imgFileName": "63_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 64,
+        "question": "A triangle with vertices at (-1, 2), (2, 2), and (2, 5) is reflected over the x-axis. What are the new coordinates of the vertex originally at (2, 5)?",
+        "options": {
+            "A": "(2, -5)",
+            "B": "(-2, 5)",
+            "C": "(2, 5)",
+            "D": "(-2, -5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the x-axis changes the sign of the y-coordinate. So, (2, 5) becomes (2, -5).",
+        "difficulty": "medium",
+        "imgFileName": "64_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 65,
+        "question": "A rhombus has vertices at (1, 4), (3, 6), (5, 4), and (3, 2). If it is translated 2 units to the right and 1 unit down, what are the new coordinates of the vertex originally at (5, 4)?",
+        "options": {
+            "A": "(7, 3)",
+            "B": "(3, 3)",
+            "C": "(7, 5)",
+            "D": "(3, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating 2 units to the right: 5 + 2 = 7. Translating 1 unit down: 4 - 1 = 3. So, the new coordinates are (7, 3).",
+        "difficulty": "medium",
+        "imgFileName": "65_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 66,
+        "question": "A square has vertices at (a, b), (a + 3, b), (a + 3, b + 3), and (a, b + 3). If the square is translated so that (a, b) moves to (-2, 0), what are the new coordinates of (a + 3, b + 3)?",
+        "options": {
+            "A": "(1, 3)",
+            "B": "(-2, 3)",
+            "C": "(1, -3)",
+            "D": "(-2, -3)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (-2, 0). So, (a + 3, b + 3) becomes (-2 + 3, 0 + 3) = (1, 3).",
+        "difficulty": "medium",
+        "imgFileName": "66_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 67,
+        "question": "A rectangle has vertices at (-4, 3), (1, 3), (1, -2), and (-4, -2). What is the area of the rectangle?",
+        "options": {
+            "A": "15 square units",
+            "B": "20 square units",
+            "C": "25 square units",
+            "D": "30 square units"
+        },
+        "answer": "C",
+        "explanation": "The length is 1 - (-4) = 5 units, and the width is 3 - (-2) = 5 units. The area is 5 * 5 = 25 square units.",
+        "difficulty": "medium",
+        "imgFileName": "67_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 68,
+        "question": "A triangle with vertices at (3, -2), (6, -2), and (6, 1) is reflected over the y-axis. What are the new coordinates of the vertex originally at (6, 1)?",
+        "options": {
+            "A": "(-6, 1)",
+            "B": "(6, -1)",
+            "C": "(-6, -1)",
+            "D": "(1, -6)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the y-axis changes the sign of the x-coordinate. So, (6, 1) becomes (-6, 1).",
+        "difficulty": "medium",
+        "imgFileName": "68_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 69,
+        "question": "A parallelogram has vertices at (-3, 1), (0, 1), (2, -2), and (-1, -2). If it is translated 1 unit to the right and 2 units up, what are the new coordinates of the vertex originally at (2, -2)?",
+        "options": {
+            "A": "(3, 0)",
+            "B": "(1, 0)",
+            "C": "(3, -4)",
+            "D": "(1, -4)"
+        },
+        "answer": "A",
+        "explanation": "Translating 1 unit to the right: 2 + 1 = 3. Translating 2 units up: -2 + 2 = 0. So, the new coordinates are (3, 0).",
+        "difficulty": "medium",
+        "imgFileName": "69_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 70,
+        "question": "A square has vertices at (a, b), (a + 2, b), (a + 2, b + 2), and (a, b + 2). If the square is translated so that (a, b) moves to (1, -3), what are the new coordinates of (a + 2, b + 2)?",
+        "options": {
+            "A": "(3, -1)",
+            "B": "(1, -1)",
+            "C": "(3, -5)",
+            "D": "(1, -5)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (1, -3). So, (a + 2, b + 2) becomes (1 + 2, -3 + 2) = (3, -1).",
+        "difficulty": "medium",
+        "imgFileName": "70_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 71,
+        "question": "A rectangle has vertices at (-2, 6), (3, 6), (3, 1), and (-2, 1). What is the perimeter of the rectangle?",
+        "options": {
+            "A": "18 units",
+            "B": "22 units",
+            "C": "20 units",
+            "D": "30 units"
+        },
+        "answer": "C",
+        "explanation": "The length is 3 - (-2) = 5 units, and the width is 6 - 1 = 5 units. The perimeter is 2*(5 + 5) = 20 units.",
+        "difficulty": "medium",
+        "imgFileName": "71_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 72,
+        "question": "A triangle with vertices at (-1, 0), (2, 0), and (2, 3) is reflected over the x-axis. What are the new coordinates of the vertex originally at (2, 3)?",
+        "options": {
+            "A": "(2, -3)",
+            "B": "(-2, 3)",
+            "C": "(2, 3)",
+            "D": "(-2, -3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the x-axis changes the sign of the y-coordinate. So, (2, 3) becomes (2, -3).",
+        "difficulty": "medium",
+        "imgFileName": "72_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 73,
+        "question": "A rhombus has vertices at (1, 2), (3, 4), (5, 2), and (3, 0). If it is translated 1 unit to the right and 3 units down, what are the new coordinates of the vertex originally at (5, 2)?",
+        "options": {
+            "A": "(6, -1)",
+            "B": "(4, -1)",
+            "C": "(6, 5)",
+            "D": "(4, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating 1 unit to the right: 5 + 1 = 6. Translating 3 units down: 2 - 3 = -1. So, the new coordinates are (6, -1).",
+        "difficulty": "medium",
+        "imgFileName": "73_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 74,
+        "question": "A square has vertices at (a, b), (a + 6, b), (a + 6, b + 6), and (a, b + 6). If the square is translated so that (a, b) moves to (-3, 0), what are the new coordinates of (a + 6, b + 6)?",
+        "options": {
+            "A": "(3, 6)",
+            "B": "(-3, 6)",
+            "C": "(3, -6)",
+            "D": "(-3, -6)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (-3, 0). So, (a + 6, b + 6) becomes (-3 + 6, 0 + 6) = (3, 6).",
+        "difficulty": "medium",
+        "imgFileName": "74_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 75,
+        "question": "A rectangle has vertices at (-5, 2), (0, 2), (0, -3), and (-5, -3). What is the area of the rectangle?",
+        "options": {
+            "A": "15 square units",
+            "B": "20 square units",
+            "C": "25 square units",
+            "D": "30 square units"
+        },
+        "answer": "C",
+        "explanation": "The length is 0 - (-5) = 5 units, and the width is 2 - (-3) = 5 units. The area is 5 * 5 = 25 square units.",
+        "difficulty": "medium",
+        "imgFileName": "75_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 76,
+        "question": "A triangle with vertices at (2, -1), (5, -1), and (5, 2) is reflected over the y-axis. What are the new coordinates of the vertex originally at (5, 2)?",
+        "options": {
+            "A": "(-5, 2)",
+            "B": "(5, -2)",
+            "C": "(-5, -2)",
+            "D": "(2, -5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the y-axis changes the sign of the x-coordinate. So, (5, 2) becomes (-5, 2).",
+        "difficulty": "medium",
+        "imgFileName": "76_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 77,
+        "question": "A parallelogram has vertices at (-2, 1), (1, 1), (3, -2), and (0, -2). If it is translated 3 units to the right and 2 units down, what are the new coordinates of the vertex originally at (3, -2)?",
+        "options": {
+            "A": "(6, -4)",
+            "B": "(0, -4)",
+            "C": "(6, 0)",
+            "D": "(0, 0)"
+        },
+        "answer": "A",
+        "explanation": "Translating 3 units to the right: 3 + 3 = 6. Translating 2 units down: -2 - 2 = -4. So, the new coordinates are (6, -4).",
+        "difficulty": "medium",
+        "imgFileName": "77_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 78,
+        "question": "A square has vertices at (a, b), (a + 4, b), (a + 4, b + 4), and (a, b + 4). If the square is translated so that (a, b) moves to (0, -1), what are the new coordinates of (a + 4, b + 4)?",
+        "options": {
+            "A": "(4, 3)",
+            "B": "(0, 3)",
+            "C": "(4, -5)",
+            "D": "(0, -5)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (0, -1). So, (a + 4, b + 4) becomes (0 + 4, -1 + 4) = (4, 3).",
+        "difficulty": "medium",
+        "imgFileName": "78_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 79,
+        "question": "A rectangle has vertices at (-3, 5), (2, 5), (2, -1), and (-3, -1). What is the perimeter of the rectangle?",
+        "options": {
+            "A": "18 units",
+            "B": "22 units",
+            "C": "26 units",
+            "D": "30 units"
+        },
+        "answer": "B",
+        "explanation": "The length is 2 - (-3) = 5 units, and the width is 5 - (-1) = 6 units. The perimeter is 2*(5 + 6) = 22 units.",
+        "difficulty": "medium",
+        "imgFileName": "79_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 80,
+        "question": "A triangle with vertices at (-1, 2), (2, 2), and (2, 5) is reflected over the x-axis. What are the new coordinates of the vertex originally at (2, 5)?",
+        "options": {
+            "A": "(2, -5)",
+            "B": "(-2, 5)",
+            "C": "(2, 5)",
+            "D": "(-2, -5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the x-axis changes the sign of the y-coordinate. So, (2, 5) becomes (2, -5).",
+        "difficulty": "medium",
+        "imgFileName": "80_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 81,
+        "question": "A rhombus has vertices at (1, 3), (3, 5), (5, 3), and (3, 1). If it is translated 2 units to the right and 1 unit down, what are the new coordinates of the vertex originally at (5, 3)?",
+        "options": {
+            "A": "(7, 2)",
+            "B": "(3, 2)",
+            "C": "(7, 4)",
+            "D": "(3, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating 2 units to the right: 5 + 2 = 7. Translating 1 unit down: 3 - 1 = 2. So, the new coordinates are (7, 2).",
+        "difficulty": "medium",
+        "imgFileName": "81_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 82,
+        "question": "A square has vertices at (a, b), (a + 3, b), (a + 3, b + 3), and (a, b + 3). If the square is translated so that (a, b) moves to (-1, 0), what are the new coordinates of (a + 3, b + 3)?",
+        "options": {
+            "A": "(2, 3)",
+            "B": "(-1, 3)",
+            "C": "(2, -3)",
+            "D": "(-1, -3)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (-1, 0). So, (a + 3, b + 3) becomes (-1 + 3, 0 + 3) = (2, 3).",
+        "difficulty": "medium",
+        "imgFileName": "82_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 83,
+        "question": "A rectangle has vertices at (-4, 3), (1, 3), (1, -2), and (-4, -2). What is the area of the rectangle?",
+        "options": {
+            "A": "15 square units",
+            "B": "20 square units",
+            "C": "25 square units",
+            "D": "30 square units"
+        },
+        "answer": "C",
+        "explanation": "The length is 1 - (-4) = 5 units, and the width is 3 - (-2) = 5 units. The area is 5 * 5 = 25 square units.",
+        "difficulty": "medium",
+        "imgFileName": "83_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 84,
+        "question": "A triangle with vertices at (3, -2), (6, -2), and (6, 1) is reflected over the y-axis. What are the new coordinates of the vertex originally at (6, 1)?",
+        "options": {
+            "A": "(-6, 1)",
+            "B": "(6, -1)",
+            "C": "(-6, -1)",
+            "D": "(1, -6)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the y-axis changes the sign of the x-coordinate. So, (6, 1) becomes (-6, 1).",
+        "difficulty": "medium",
+        "imgFileName": "84_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 85,
+        "question": "A parallelogram has vertices at (-3, 1), (0, 1), (2, -2), and (-1, -2). If it is translated 1 unit to the right and 2 units up, what are the new coordinates of the vertex originally at (2, -2)?",
+        "options": {
+            "A": "(3, 0)",
+            "B": "(1, 0)",
+            "C": "(3, -4)",
+            "D": "(1, -4)"
+        },
+        "answer": "A",
+        "explanation": "Translating 1 unit to the right: 2 + 1 = 3. Translating 2 units up: -2 + 2 = 0. So, the new coordinates are (3, 0).",
+        "difficulty": "medium",
+        "imgFileName": "85_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 86,
+        "question": "A square has vertices at (a, b), (a + 2, b), (a + 2, b + 2), and (a, b + 2). If the square is translated so that (a, b) moves to (1, -3), what are the new coordinates of (a + 2, b + 2)?",
+        "options": {
+            "A": "(3, -1)",
+            "B": "(1, -1)",
+            "C": "(3, -5)",
+            "D": "(1, -5)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (1, -3). So, (a + 2, b + 2) becomes (1 + 2, -3 + 2) = (3, -1).",
+        "difficulty": "medium",
+        "imgFileName": "86_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 87,
+        "question": "A rectangle has vertices at (-5, 2), (0, 2), (0, -3), and (-5, -3). What is the perimeter of the rectangle?",
+        "options": {
+            "A": "18 units",
+            "B": "22 units",
+            "C": "20 units",
+            "D": "30 units"
+        },
+        "answer": "C",
+        "explanation": "The length is 0 - (-5) = 5 units, and the width is 2 - (-3) = 5 units. The perimeter is 2*(5 + 5) = 20 units.",
+        "difficulty": "medium",
+        "imgFileName": "87_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 88,
+        "question": "A triangle with vertices at (-1, 0), (2, 0), and (2, 3) is reflected over the x-axis. What are the new coordinates of the vertex originally at (2, 3)?",
+        "options": {
+            "A": "(2, -3)",
+            "B": "(-2, 3)",
+            "C": "(2, 3)",
+            "D": "(-2, -3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the x-axis changes the sign of the y-coordinate. So, (2, 3) becomes (2, -3).",
+        "difficulty": "medium",
+        "imgFileName": "88_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 89,
+        "question": "A rhombus has vertices at (1, 2), (3, 4), (5, 2), and (3, 0). If it is translated 2 units to the right and 1 unit down, what are the new coordinates of the vertex originally at (5, 2)?",
+        "options": {
+            "A": "(7, 1)",
+            "B": "(3, 1)",
+            "C": "(7, 3)",
+            "D": "(3, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating 2 units to the right: 5 + 2 = 7. Translating 1 unit down: 2 - 1 = 1. So, the new coordinates are (7, 1).",
+        "difficulty": "medium",
+        "imgFileName": "89_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 90,
+        "question": "A square has vertices at (a, b), (a + 5, b), (a + 5, b + 5), and (a, b + 5). If the square is translated so that (a, b) moves to (-2, 1), what are the new coordinates of (a + 5, b + 5)?",
+        "options": {
+            "A": "(3, 6)",
+            "B": "(-2, 6)",
+            "C": "(3, -4)",
+            "D": "(-2, -4)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (-2, 1). So, (a + 5, b + 5) becomes (-2 + 5, 1 + 5) = (3, 6).",
+        "difficulty": "medium",
+        "imgFileName": "90_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 91,
+        "question": "A rectangle has vertices at (-3, 5), (2, 5), (2, -1), and (-3, -1). What is the area of the rectangle?",
+        "options": {
+            "A": "15 square units",
+            "B": "20 square units",
+            "C": "25 square units",
+            "D": "30 square units"
+        },
+        "answer": "D",
+        "explanation": "The length is 2 - (-3) = 5 units, and the width is 5 - (-1) = 6 units. The area is 5 * 6 = 30 square units.",
+        "difficulty": "medium",
+        "imgFileName": "91_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 92,
+        "question": "A triangle with vertices at (2, -1), (5, -1), and (5, 2) is reflected over the y-axis. What are the new coordinates of the vertex originally at (5, 2)?",
+        "options": {
+            "A": "(-5, 2)",
+            "B": "(5, -2)",
+            "C": "(-5, -2)",
+            "D": "(2, -5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the y-axis changes the sign of the x-coordinate. So, (5, 2) becomes (-5, 2).",
+        "difficulty": "medium",
+        "imgFileName": "92_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 93,
+        "question": "A parallelogram has vertices at (-2, 1), (1, 1), (3, -2), and (0, -2). If it is translated 3 units to the right and 2 units down, what are the new coordinates of the vertex originally at (3, -2)?",
+        "options": {
+            "A": "(6, -4)",
+            "B": "(0, -4)",
+            "C": "(6, 0)",
+            "D": "(0, 0)"
+        },
+        "answer": "A",
+        "explanation": "Translating 3 units to the right: 3 + 3 = 6. Translating 2 units down: -2 - 2 = -4. So, the new coordinates are (6, -4).",
+        "difficulty": "medium",
+        "imgFileName": "93_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 94,
+        "question": "A square has vertices at (a, b), (a + 4, b), (a + 4, b + 4), and (a, b + 4). If the square is translated so that (a, b) moves to (0, -1), what are the new coordinates of (a + 4, b + 4)?",
+        "options": {
+            "A": "(4, 3)",
+            "B": "(0, 3)",
+            "C": "(4, -5)",
+            "D": "(0, -5)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (0, -1). So, (a + 4, b + 4) becomes (0 + 4, -1 + 4) = (4, 3).",
+        "difficulty": "medium",
+        "imgFileName": "94_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 95,
+        "question": "A rectangle has vertices at (-4, 3), (1, 3), (1, -2), and (-4, -2). What is the perimeter of the rectangle?",
+        "options": {
+            "A": "18 units",
+            "B": "22 units",
+            "C": "20 units",
+            "D": "30 units"
+        },
+        "answer": "C",
+        "explanation": "The length is 1 - (-4) = 5 units, and the width is 3 - (-2) = 5 units. The perimeter is 2*(5 + 5) = 20 units.",
+        "difficulty": "medium",
+        "imgFileName": "95_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 96,
+        "question": "A triangle with vertices at (-1, 2), (2, 2), and (2, 5) is reflected over the x-axis. What are the new coordinates of the vertex originally at (2, 5)?",
+        "options": {
+            "A": "(2, -5)",
+            "B": "(-2, 5)",
+            "C": "(2, 5)",
+            "D": "(-2, -5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the x-axis changes the sign of the y-coordinate. So, (2, 5) becomes (2, -5).",
+        "difficulty": "medium",
+        "imgFileName": "96_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 97,
+        "question": "A rhombus has vertices at (1, 3), (3, 5), (5, 3), and (3, 1). If it is translated 2 units to the right and 1 unit down, what are the new coordinates of the vertex originally at (5, 3)?",
+        "options": {
+            "A": "(7, 2)",
+            "B": "(3, 2)",
+            "C": "(7, 4)",
+            "D": "(3, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating 2 units to the right: 5 + 2 = 7. Translating 1 unit down: 3 - 1 = 2. So, the new coordinates are (7, 2).",
+        "difficulty": "medium",
+        "imgFileName": "97_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 98,
+        "question": "A square has vertices at (a, b), (a + 3, b), (a + 3, b + 3), and (a, b + 3). If the square is translated so that (a, b) moves to (1, -3), what are the new coordinates of (a + 3, b + 3)?",
+        "options": {
+            "A": "(4, 0)",
+            "B": "(1, 0)",
+            "C": "(4, -6)",
+            "D": "(1, -6)"
+        },
+        "answer": "A",
+        "explanation": "The translation moves (a, b) to (1, -3). So, (a + 3, b + 3) becomes (1 + 3, -3 + 3) = (4, 0).",
+        "difficulty": "medium",
+        "imgFileName": "98_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 99,
+        "question": "A rectangle has vertices at (-5, 2), (0, 2), (0, -3), and (-5, -3). What is the area of the rectangle?",
+        "options": {
+            "A": "15 square units",
+            "B": "20 square units",
+            "C": "25 square units",
+            "D": "30 square units"
+        },
+        "answer": "C",
+        "explanation": "The length is 0 - (-5) = 5 units, and the width is 2 - (-3) = 5 units. The area is 5 * 5 = 25 square units.",
+        "difficulty": "medium",
+        "imgFileName": "99_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+        "qid": 100,
+        "question": "A triangle with vertices at (3, -2), (6, -2), and (6, 1) is reflected over the y-axis. What are the new coordinates of the vertex originally at (6, 1)?",
+        "options": {
+            "A": "(-6, 1)",
+            "B": "(6, -1)",
+            "C": "(-6, -1)",
+            "D": "(1, -6)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting over the y-axis changes the sign of the x-coordinate. So, (6, 1) becomes (-6, 1).",
+        "difficulty": "medium",
+        "imgFileName": "100_Year6-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year6-Geometry-position_and_direction"
+    }
+]

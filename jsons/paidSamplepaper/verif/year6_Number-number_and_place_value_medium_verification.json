@@ -1,0 +1,906 @@
+Question: What is the value of the digit 3 in the number 5,327,894?
+Status: Success
+
+Question: Which number is 10,000 more than 4,567,892?
+Status: Success
+
+Question: Round 4,567,834 to the nearest 10,000.
+Status: Success
+
+Question: The temperature changed from -8°C to 5°C. By how many degrees did it rise?
+Status: Success
+
+Question: Order these numbers from smallest to largest: 3,456,789; 3,465,789; 3,456,798
+Status: Success
+
+Question: A number rounded to the nearest 1000 is 36,000. Which of these could be the original number?
+Status: Success
+
+Question: What is the difference between 8 million and 7,650,000?
+Status: Success
+
+Question: The temperature at 6am was -12°C. By noon it had risen to -3°C. How many degrees did it rise?
+Status: Success
+
+Question: Which digit is in the ten thousands place in 9,274,368?
+Status: Success
+
+Question: Round 8,234,567 to the nearest 100,000.
+Status: Success
+
+Question: A lift starts at floor -5 and moves up 12 floors. What floor does it reach?
+Status: Success
+
+Question: What number is 100,000 less than 5,234,678?
+Status: Success
+
+Question: Which of these numbers is closest to 7 million?
+Status: Success
+
+Question: The temperature dropped from 4°C to -9°C. By how many degrees did it fall?
+Status: Success
+
+Question: Write in digits: Seven million, three hundred and forty-five thousand, six hundred and seventy-eight.
+Status: Success
+
+Question: Round 5,678,234 to the nearest thousand.
+Status: Success
+
+Question: What is the value of the digit 6 in 2,634,891?
+Status: Success
+
+Question: A deep-sea submersible descends from -250 metres to -400 metres. How far did it descend?
+Status: Success
+
+Question: Which number is exactly halfway between 3,200,000 and 3,800,000?
+Status: Success
+
+Question: Compare: Which symbol makes this statement true? 8,456,789 ___ 8,465,789
+Status: Success
+
+Question: Round 9,876,543 to 1 significant figure.
+Status: Success
+
+Question: What is 50,000 more than 3,478,621?
+Status: Success
+
+Question: A diver at -35 metres swims up to -18 metres. How far up did they swim?
+Status: Success
+
+Question: What is the smallest 7-digit number that rounds to 4,500,000 when rounded to the nearest 100,000?
+Status: Success
+
+Question: Which digit needs to change to make 6,234,567 become 6,294,567?
+Status: Success
+
+Question: The interval between two temperatures is 23 degrees. If the higher temperature is 8°C, what is the lower temperature?
+Status: Success
+
+Question: Round 7,456,789 to 2 significant figures.
+Status: Success
+
+Question: Which number is 1,000,000 more than 2,456,789?
+Status: Success
+
+Question: Order these numbers from largest to smallest: 5,678,901; 5,687,901; 5,678,910
+Status: Success
+
+Question: What is the difference in value between the two 5s in 5,567,895?
+Status: Error
+Explanation: In the number 5,567,895, the 5s are in the millions, hundred-thousands, and ones places. The difference between the 5 in the millions place (5,000,000) and the 5 in the hundred-thousands place (500,000) is 4,500,000, which corresponds to option A. The designated answer B (4,950,000) is incorrect.
+
+Question: A mountain peak is 2,845 metres above sea level. A submarine is 1,675 metres below sea level. What is the vertical distance between them?
+Status: Success
+
+Question: Round 3,849,672 to the nearest ten thousand.
+Status: Success
+
+Question: What number is represented by: (4 × 1,000,000) + (5 × 100,000) + (6 × 10,000) + (7 × 1,000)?
+Status: Success
+
+Question: The temperature rose from -14°C to 3°C over 5 hours. What was the average rise per hour?
+Status: Success
+
+Question: Which number, when rounded to the nearest million, gives 6,000,000?
+Status: Success
+
+Question: What is 250,000 less than 4,123,567?
+Status: Success
+
+Question: A number has 8 in the millions place, 0 in the hundred thousands place, 4 in the ten thousands place, 5 in the thousands place, 2 in the hundreds place, 6 in the tens place, and 1 in the ones place. What is the number?
+Status: Success
+
+Question: Between which two consecutive whole numbers does -5.7 lie?
+Status: Success
+
+Question: Round 2,345,678 to the nearest hundred thousand.
+Status: Success
+
+Question: What is the sum of 3,456,789 and 1,234,567?
+Status: Success
+
+Question: A lift moves from floor 8 to floor -3. How many floors has it descended?
+Status: Success
+
+Question: Which of these is equal to 6,000,000 + 500,000 + 40,000 + 3,000 + 200 + 10 + 5?
+Status: Success
+
+Question: By how much is 5,678,901 greater than 5,578,901?
+Status: Success
+
+Question: The lowest temperature recorded in a week was -18°C and the highest was 7°C. What is the temperature range?
+Status: Success
+
+Question: Round 9,456,789 to the nearest 50,000.
+Status: Success
+
+Question: What number is 10 times larger than 678,945?
+Status: Success
+
+Question: A plane is at an altitude of 8,500 metres. It descends to 2,750 metres. Then it climbs 1,200 metres. What is its final altitude?
+Status: Success
+
+Question: Which is the largest: 9,876,543; 9,867,543; 9,876,534?
+Status: Success
+
+Question: Round 4,567,234 to 3 significant figures.
+Status: Success
+
+Question: What value must be added to 7,234,567 to make 7,300,000?
+Status: Success
+
+Question: The temperature was -6°C. It then changed by -8 degrees. What is the new temperature?
+Status: Success
+
+Question: Write 5,400,000 in words.
+Status: Success
+
+Question: How many times larger is the digit 7 in the millions place than the digit 7 in the thousands place in the number 7,234,789?
+Status: Error
+Explanation: In the number 7,234,789, there is no digit 7 in the thousands place (the thousands digit is 4). There is a digit 7 in the hundreds place. Comparing the millions place (7,000,000) to the hundreds place (700) results in a factor of 10,000. If the question intended to compare millions to thousands, the factor would be 1,000, but the thousands digit is not 7.
+
+Question: A glacier's surface was at 1,850 metres altitude. Over time, it melted and the surface lowered by 275 metres. What is the new altitude?
+Status: Success
+
+Question: Round 6,789,345 to the nearest million.
+Status: Success
+
+Question: What is the value of (8 × 100,000) + (3 × 10,000) + (5 × 100)?
+Status: Success
+
+Question: Two numbers have a sum of 10,000,000. If one number is 6,234,567, what is the other?
+Status: Success
+
+Question: The depth of a mine shaft is -485 metres (below ground). A lift at the bottom rises 312 metres. What is the lift's new position?
+Status: Success
+
+Question: Round 8,345,678 to the nearest ten thousand.
+Status: Success
+
+Question: Which number is exactly 500,000 less than 5 million?
+Status: Success
+
+Question: Compare 3,456,789 and 3,456,798. What is the difference between them?
+Status: Success
+
+Question: A bank account balance changed from £-250 to £180. What was the change in balance?
+Status: Success
+
+Question: What number has 3 millions, 0 hundred thousands, 8 ten thousands, 4 thousands, 0 hundreds, 5 tens, and 9 ones?
+Status: Success
+
+Question: Round 1,999,999 to the nearest million.
+Status: Success
+
+Question: What is 100 times larger than 45,678?
+Status: Success
+
+Question: The altitude of a hot air balloon changed from 450 metres to -15 metres (below ground in a valley). Through what distance did it descend?
+Status: Success
+
+Question: Which of these numbers rounds to 3,000,000 when rounded to the nearest million?
+Status: Success
+
+Question: What is the product of 1,000 and 5,432?
+Status: Success
+
+Question: Round 7,654,321 to the nearest hundred thousand.
+Status: Success
+
+Question: A number when divided by 10 gives 234,567. What is the original number?
+Status: Success
+
+Question: The population of a city is 2,345,678. The population of another city is 890,234 more. What is the population of the second city?
+Status: Success
+
+Question: What is the interval between -27 and 15?
+Status: Success
+
+Question: Round 5,555,555 to 1 significant figure.
+Status: Success
+
+Question: Which number is 10,000 less than 1,000,000?
+Status: Success
+
+Question: A scuba diver starts at the surface (0 metres) and dives to -45 metres, then ascends 28 metres. What is their final depth?
+Status: Success
+
+Question: What is the largest 7-digit number that rounds to 8,500,000 when rounded to the nearest 100,000?
+Status: Success
+
+Question: Which operation is needed to change 6,234,567 to 6,334,567?
+Status: Success
+
+Question: Round 9,999,999 to the nearest ten thousand.
+Status: Success
+
+Question: What is the value of the expression: 5,000,000 - 234,567?
+Status: Success
+
+Question: A company's profit was -£125,000 (a loss) last year. This year it is £340,000. What is the improvement?
+Status: Success
+
+Question: Which number is represented by (9 × 1,000,000) + (8 × 10,000) + (7 × 100)?
+Status: Success
+
+Question: Round 3,456,789 to 2 significant figures.
+Status: Success
+
+Question: What is half of 7,654,320?
+Status: Success
+
+Question: A mountain peak is at 3,250 metres. A base camp is at -150 metres (below sea level). What is the total vertical distance?
+Status: Success
+
+Question: Round 4,999,999 to the nearest million.
+Status: Success
+
+Question: Which number is 1,000 times smaller than 8,456,000?
+Status: Success
+
+Question: What is the sum of the place values of all the 5s in 5,567,895?
+Status: Error
+Explanation: In the number 5,567,895, the values of the 5s are 5,000,000, 500,000, and 5. Their sum is 5,500,005. Option A (5,050,005) is incorrect.
+
+Question: A submarine at -320 metres descends another 145 metres. What is its new depth?
+Status: Success
+
+Question: Round 6,543,210 to the nearest ten thousand.
+Status: Success
+
+Question: What number is halfway between 4,000,000 and 5,000,000?
+Status: Success
+
+Question: By how much does 9,876,543 exceed 9,678,543?
+Status: Success
+
+Question: The coldest temperature recorded was -42°C. The warmest was 18°C. What is the difference between them?
+Status: Success
+
+Question: What is the value of (7 × 1,000,000) + (6 × 100,000) + (5 × 1,000) + (4 × 10)?
+Status: Success
+
+Question: Round 8,888,888 to the nearest hundred thousand.
+Status: Success
+
+Question: A lift is at floor 12. It descends 8 floors, then descends another 9 floors. What floor is it on?
+Status: Success
+
+Question: What is triple the value of 1,234,567?
+Status: Success
+
+Question: Round 2,468,135 to the nearest thousand.
+Status: Success
+
+Question: A cave entrance is at -85 metres. The deepest point explored is 234 metres lower. What is the depth of the deepest point?
+Status: Success
+
+Question: Which number is 200,000 more than 4,567,890?
+Status: Success
+
+Question: Round 9,234,567 to 3 significant figures.
+Status: Success
+
+Question: What is the difference between 10,000,000 and 8,765,432?
+Status: Success
+
+Question: An account balance started at -£380, had £520 deposited, then £75 withdrawn. What is the final balance?
+Status: Success
+
+Question: What is the value of the digit 4 in the number 6,243,789?
+Status: Success
+
+Question: Which number is exactly 100,000 more than 3,847,652?
+Status: Success
+
+Question: Round 7,456,328 to the nearest hundred thousand.
+Status: Error
+Explanation: In the number 7,456,328, the digit in the ten-thousands place is 5. According to rounding rules, we round up. The correct answer should be 7,500,000 (Option B). The provided answer A (7,400,000) is incorrect.
+
+Question: The temperature was -7°C in the morning and rose by 15°C by noon. What was the temperature at noon?
+Status: Success
+
+Question: A number has 5 in the millions place, 8 in the hundred thousands place, and 3 in the tens place. Which of these could be the number?
+Status: Success
+
+Question: Which number lies exactly halfway between 4,200,000 and 4,400,000?
+Status: Success
+
+Question: Round 3,849,500 to the nearest ten thousand.
+Status: Success
+
+Question: A diver is at -45 metres. They descend another 28 metres, then ascend 37 metres. What is their final depth?
+Status: Success
+
+Question: What is the difference in value between the digit 6 in the number 6,543,210 and the digit 6 in the number 2,468,135?
+Status: Success
+
+Question: Order these numbers from smallest to largest: 8,765,432 | 8,756,432 | 8,765,342
+Status: Success
+
+Question: What number is 250,000 less than 5,000,000?
+Status: Success
+
+Question: Round 9,876,543 to the nearest million.
+Status: Success
+
+Question: The temperature dropped from 12°C to -8°C overnight. By how many degrees did the temperature fall?
+Status: Success
+
+Question: In the number 7,825,436, how many times greater is the value of the 8 compared to the value of the 4?
+Status: Success
+
+Question: Which number, when rounded to the nearest hundred thousand, gives 2,300,000?
+Status: Success
+
+Question: A submarine at -125 metres rises 68 metres. What is its new depth?
+Status: Success
+
+Question: What is the smallest 7-digit number that can be made using the digits 3, 0, 8, 5, 1, 9, 2 (using each digit only once)?
+Status: Success
+
+Question: Round 6,547,832 to the nearest ten thousand.
+Status: Success
+
+Question: A bank account has a balance of -£340. After a deposit, the balance becomes £85. How much was deposited?
+Status: Success
+
+Question: What is the largest number that rounds to 4,700,000 when rounded to the nearest hundred thousand?
+Status: Success
+
+Question: In which number does the digit 7 have a value of 700,000?
+Status: Success
+
+Question: Compare these numbers and choose the correct statement: 5,678,234 ___ 5,678,243
+Status: Success
+
+Question: Round 8,295,600 to the nearest million.
+Status: Success
+
+Question: The temperature at midnight was -15°C. By noon it was 8°C. What was the total temperature rise?
+Status: Success
+
+Question: What number is represented by: 4 millions + 7 hundred thousands + 2 thousands + 9 tens?
+Status: Success
+
+Question: Which number is 350,000 more than 2,784,500?
+Status: Success
+
+Question: Round 5,555,555 to the nearest hundred thousand.
+Status: Success
+
+Question: A climber is at -78 metres (below sea level). They climb up 124 metres. What is their new elevation?
+Status: Success
+
+Question: Which of these numbers has a 9 in the ten thousands place?
+Status: Error
+Explanation: In the number 5,392,876 (Option A), the digit 9 is in the ten-thousands place. In 5,923,876 (Option B), the digit 9 is in the hundred-thousands place. The correct answer is A, but the JSON provides B.
+
+Question: What is the smallest number that rounds to 7,000,000 when rounded to the nearest million?
+Status: Success
+
+Question: Round 4,368,927 to the nearest ten thousand.
+Status: Success
+
+Question: A thermometer reads -23°C. The temperature increases by 35°C. What is the new temperature?
+Status: Success
+
+Question: What is the difference between 6,000,000 and 5,647,832?
+Status: Success
+
+Question: Which number is exactly 1,000,000 less than 7,825,463?
+Status: Success
+
+Question: Round 2,945,678 to the nearest hundred thousand.
+Status: Error
+Explanation: In the number 2,945,678, the digit in the ten-thousands place is 4, which is less than 5. Therefore, we round down to 2,900,000 (Option A). The provided answer B (3,000,000) is incorrect.
+
+Question: A diver starts at sea level (0 metres), descends 85 metres, then descends another 47 metres. What is their final position?
+Status: Success
+
+Question: In the number 9,374,156, what is the value of the digit in the hundred thousands place?
+Status: Success
+
+Question: What number is 425,000 less than 3,000,000?
+Status: Success
+
+Question: Round 7,777,777 to the nearest ten thousand.
+Status: Success
+
+Question: The temperature changed from -18°C to -5°C. By how many degrees did it change?
+Status: Success
+
+Question: Which two numbers have a difference of exactly 500,000?
+Status: Success
+
+Question: What is the largest 6-digit number with 8 in the ten thousands place and 5 in the hundreds place?
+Status: Success
+
+Question: Round 1,234,567 to the nearest million.
+Status: Success
+
+Question: A submarine at -95 metres descends 38 metres, then ascends 67 metres. What is its final depth?
+Status: Success
+
+Question: In which of these numbers is the digit 6 worth 60,000?
+Status: Success
+
+Question: What number is halfway between 5,600,000 and 6,000,000?
+Status: Success
+
+Question: Round 8,456,321 to the nearest hundred thousand.
+Status: Success
+
+Question: The overnight low was -11°C and the daytime high was 6°C. What is the difference between these temperatures?
+Status: Success
+
+Question: Write the number that is 3 millions, 5 hundred thousands, 0 ten thousands, 4 thousands, 6 hundreds, 2 tens, and 8 ones.
+Status: Success
+
+Question: Which number is 750,000 more than 4,382,156?
+Status: Success
+
+Question: Round 6,666,666 to the nearest ten thousand.
+Status: Success
+
+Question: An elevator starts at floor 8, goes down 15 floors to the basement, then up 9 floors. What floor is it on?
+Status: Success
+
+Question: In the number 4,987,653, how many times greater is the value of the 9 compared to the value of the 6?
+Status: Success
+
+Question: What is the smallest number that rounds to 9,000,000 when rounded to the nearest million?
+Status: Success
+
+Question: Round 3,749,999 to the nearest hundred thousand.
+Status: Error
+Explanation: In the number 3,749,999, the digit in the ten-thousands place is 4, which is less than 5. Therefore, we round down to 3,700,000 (Option A). The provided answer B (3,800,000) is incorrect.
+
+Question: A stock price dropped from £45 to -£12 (debt). By how much did it fall?
+Status: Success
+
+Question: Order these numbers from largest to smallest: 9,876,543 | 9,867,543 | 9,876,453
+Status: Success
+
+Question: What is the difference in place value between the two 5s in the number 5,432,576?
+Status: Error
+Explanation: In the number 5,432,576, the two 5s are in the millions place (5,000,000) and the hundreds place (500). The difference is 4,999,500. None of the provided options match this value.
+
+Question: Round 5,678,432 to the nearest ten thousand.
+Status: Success
+
+Question: A cave explorer descends from ground level (0m) to -156 metres, then descends another 89 metres. What is their depth?
+Status: Success
+
+Question: Which digit is in the hundred thousands place in the number 7,291,854?
+Status: Success
+
+Question: What number is 880,000 less than 4,500,000?
+Status: Success
+
+Question: Round 9,999,999 to the nearest million.
+Status: Success
+
+Question: The temperature was -9°C at 6am, rose to 4°C at noon, then dropped to -2°C by midnight. What was the total temperature change from 6am to midnight?
+Status: Success
+
+Question: What is the value represented by 6 ten thousands + 8 thousands + 4 hundreds?
+Status: Success
+
+Question: Which number, when rounded to the nearest ten thousand, gives 4,560,000?
+Status: Success
+
+Question: A mountain base is at 2,450m. A cave entrance is 3,280m below the base. What is the elevation of the cave entrance?
+Status: Success
+
+Question: In which number does the digit 3 have the greatest value?
+Status: Success
+
+Question: Round 2,384,567 to the nearest hundred thousand.
+Status: Success
+
+Question: A bank account balance changes from £250 to -£175. By how much did the balance decrease?
+Status: Success
+
+Question: What is the largest number that rounds to 5,800,000 when rounded to the nearest hundred thousand?
+Status: Success
+
+Question: Which number is exactly between 7,300,000 and 7,900,000?
+Status: Success
+
+Question: Round 4,321,876 to the nearest ten thousand.
+Status: Success
+
+Question: The temperature rose from -14°C to 9°C, then dropped by 6°C. What is the final temperature?
+Status: Success
+
+Question: What number is represented by: 8 millions + 3 hundred thousands + 7 tens + 5 ones?
+Status: Success
+
+Question: Which number is 925,000 more than 6,158,437?
+Status: Success
+
+Question: Round 8,888,888 to the nearest hundred thousand.
+Status: Success
+
+Question: A lift starts at floor -3, goes up 18 floors, then down 7 floors. What floor is it on?
+Status: Success
+
+Question: In the number 5,728,914, what is 100 times the value of the digit in the thousands place?
+Status: Success
+
+Question: What is the smallest 7-digit number that rounds to 3,000,000 when rounded to the nearest million?
+Status: Success
+
+Question: Round 6,182,439 to the nearest ten thousand.
+Status: Success
+
+Question: The water level in a reservoir changed from 45m above sea level to 12m below sea level. By how much did it drop?
+Status: Success
+
+Question: Compare: In which number is the digit 4 in the greatest place value position? 4,567,891 | 7,456,891 | 7,894,561
+Status: Success
+
+Question: What number is 1,500,000 less than 8,234,567?
+Status: Success
+
+Question: Round 7,555,555 to the nearest million.
+Status: Success
+
+Question: A diver at -68 metres ascends 92 metres, then descends 31 metres. What is their final depth?
+Status: Success
+
+Question: In the number 9,365,271, which digit is in the ten thousands place?
+Status: Success
+
+Question: What number is 640,000 less than 5,000,000?
+Status: Success
+
+Question: Round 3,333,333 to the nearest hundred thousand.
+Status: Success
+
+Question: The temperature was 5°C, dropped by 19°C, then rose by 8°C. What is the final temperature?
+Status: Success
+
+Question: Write the number: 9 millions + 4 ten thousands + 3 hundreds + 6 ones.
+Status: Success
+
+Question: Which number is 835,000 more than 3,476,924?
+Status: Success
+
+Question: Round 1,111,111 to the nearest ten thousand.
+Status: Success
+
+Question: An aircraft at 8,500m descends 9,200m. What is its altitude?
+Status: Success
+
+Question: In the number 2,847,915, how many times greater is the value of the 8 than the value of the 9?
+Status: Error
+Explanation: In the number 2,847,915, the digit 8 is in the hundred-thousands place (800,000) and the digit 9 is in the hundreds place (900). Dividing 800,000 by 900 gives approximately 888.89. None of the options match this calculation.
+
+Question: What is the smallest number that rounds to 6,000,000 when rounded to the nearest hundred thousand?
+Status: Success
+
+Question: Round 9,127,654 to the nearest ten thousand.
+Status: Success
+
+Question: A company's profit changed from £380,000 to a loss of £95,000. What was the total change?
+Status: Success
+
+Question: Order these numbers from smallest to largest: 4,387,652 | 4,378,652 | 4,387,562
+Status: Success
+
+Question: What number is halfway between 3,400,000 and 4,200,000?
+Status: Success
+
+Question: Round 5,098,743 to the nearest hundred thousand.
+Status: Success
+
+Question: A submarine at -115 metres rises 78 metres, then descends 34 metres. What is its final depth?
+Status: Success
+
+Question: What is the value of the digit 4 in the number 7,492,156?
+Status: Success
+
+Question: Which number is 20,000 less than 6,845,321?
+Status: Success
+
+Question: Round 3,789,456 to the nearest 100,000.
+Status: Success
+
+Question: The temperature changed from 7°C to -11°C. By how many degrees did it fall?
+Status: Success
+
+Question: Order these numbers from largest to smallest: 6,789,012; 6,798,012; 6,789,102
+Status: Success
+
+Question: A number rounded to the nearest 10,000 is 850,000. Which could be the original number?
+Status: Success
+
+Question: What is the difference between 9 million and 8,345,678?
+Status: Success
+
+Question: The temperature at midnight was -16°C. By 9am it had risen to -4°C. How many degrees did it rise?
+Status: Success
+
+Question: Which digit is in the hundred thousands place in 5,836,247?
+Status: Success
+
+Question: Round 7,123,456 to the nearest 10,000.
+Status: Success
+
+Question: A lift starts at floor -8 and moves up 15 floors. What floor does it reach?
+Status: Success
+
+Question: What number is 500,000 more than 3,678,945?
+Status: Success
+
+Question: Which of these numbers is closest to 5 million?
+Status: Success
+
+Question: The temperature rose from -19°C to 6°C. By how many degrees did it rise?
+Status: Success
+
+Question: Write in digits: Six million, two hundred and thirty-four thousand, five hundred and sixty-seven.
+Status: Success
+
+Question: Round 4,567,890 to the nearest thousand.
+Status: Success
+
+Question: What is the value of the digit 9 in 1,923,456?
+Status: Success
+
+Question: A deep-sea submersible descends from -180 metres to -350 metres. How far did it descend?
+Status: Success
+
+Question: Which number is exactly halfway between 2,400,000 and 3,200,000?
+Status: Success
+
+Question: Compare: Which symbol makes this statement true? 7,345,678 ___ 7,354,678
+Status: Success
+
+Question: Round 8,765,432 to 1 significant figure.
+Status: Success
+
+Question: What is 80,000 more than 2,567,891?
+Status: Success
+
+Question: A diver at -58 metres swims up to -31 metres. How far up did they swim?
+Status: Success
+
+Question: What is the smallest 7-digit number that rounds to 5,600,000 when rounded to the nearest 100,000?
+Status: Success
+
+Question: Which digit needs to change to make 5,123,456 become 5,223,456?
+Status: Success
+
+Question: The interval between two temperatures is 31 degrees. If the higher temperature is 12°C, what is the lower temperature?
+Status: Success
+
+Question: Round 6,234,567 to 2 significant figures.
+Status: Success
+
+Question: Which number is 2,000,000 more than 3,456,789?
+Status: Success
+
+Question: Order these numbers from smallest to largest: 4,567,890; 4,576,890; 4,567,980
+Status: Success
+
+Question: What is the difference in value between the two 7s in 7,456,789?
+Status: Error
+Explanation: In the number 7,456,789, the 7s are in the millions place (7,000,000) and the hundreds place (700). The difference is 6,999,300. None of the options match. Option A (6,930,000) corresponds to the difference between 7,000,000 and 70,000 (ten-thousands), which is not where the second 7 is located.
+
+Question: A helicopter is at 1,850 metres altitude. It descends to 425 metres, then climbs 650 metres. What is its final altitude?
+Status: Success
+
+Question: Round 2,678,345 to the nearest ten thousand.
+Status: Success
+
+Question: What number is represented by: (3 × 1,000,000) + (7 × 100,000) + (8 × 10,000) + (9 × 1,000)?
+Status: Success
+
+Question: The temperature fell from -7°C to -23°C over 4 hours. What was the average fall per hour?
+Status: Success
+
+Question: Which number, when rounded to the nearest million, gives 8,000,000?
+Status: Success
+
+Question: What is 350,000 less than 5,234,678?
+Status: Success
+
+Question: A number has 6 in the millions place, 0 in the hundred thousands place, 3 in the ten thousands place, 8 in the thousands place, 4 in the hundreds place, 7 in the tens place, and 2 in the ones place. What is the number?
+Status: Success
+
+Question: Between which two consecutive whole numbers does -8.3 lie?
+Status: Success
+
+Question: Round 1,456,789 to the nearest hundred thousand.
+Status: Success
+
+Question: What is the sum of 2,345,678 and 3,456,789?
+Status: Success
+
+Question: A lift moves from floor 6 to floor -5. How many floors has it descended?
+Status: Success
+
+Question: Which of these is equal to 4,000,000 + 700,000 + 50,000 + 6,000 + 300 + 20 + 8?
+Status: Success
+
+Question: By how much is 6,789,012 greater than 6,689,012?
+Status: Success
+
+Question: The lowest temperature recorded in a month was -22°C and the highest was 9°C. What is the temperature range?
+Status: Success
+
+Question: Round 8,567,890 to the nearest 50,000.
+Status: Success
+
+Question: What number is 10 times larger than 456,789?
+Status: Success
+
+Question: A plane is at an altitude of 7,200 metres. It descends to 3,450 metres. Then it climbs 1,800 metres. What is its final altitude?
+Status: Success
+
+Question: Which is the smallest: 8,765,432; 8,756,432; 8,765,423?
+Status: Success
+
+Question: Round 5,678,901 to 3 significant figures.
+Status: Success
+
+Question: What value must be added to 6,123,456 to make 6,200,000?
+Status: Success
+
+Question: The temperature was -9°C. It then changed by -7 degrees. What is the new temperature?
+Status: Success
+
+Question: Write 8,300,000 in words.
+Status: Success
+
+Question: How many times larger is the digit 6 in the millions place than the digit 6 in the thousands place in the number 6,123,678?
+Status: Error
+Explanation: In the number 6,123,678, there is no digit 6 in the thousands place (the thousands digit is 3). The digits 6 are in the millions and hundreds places.
+
+Question: A mountain's peak was at 2,350 metres altitude. Due to erosion, it lowered by 185 metres. What is the new altitude?
+Status: Success
+
+Question: Round 5,890,123 to the nearest million.
+Status: Success
+
+Question: What is the value of (9 × 100,000) + (4 × 10,000) + (7 × 100)?
+Status: Success
+
+Question: Two numbers have a sum of 8,000,000. If one number is 4,567,890, what is the other?
+Status: Success
+
+Question: The depth of a mine shaft is -620 metres (below ground). A lift at the bottom rises 385 metres. What is the lift's new position?
+Status: Success
+
+Question: Round 9,456,789 to the nearest ten thousand.
+Status: Success
+
+Question: Which number is exactly 600,000 less than 6 million?
+Status: Success
+
+Question: Compare 2,345,678 and 2,345,687. What is the difference between them?
+Status: Success
+
+Question: A bank account balance changed from £-420 to £265. What was the change in balance?
+Status: Success
+
+Question: What number has 2 millions, 0 hundred thousands, 5 ten thousands, 7 thousands, 0 hundreds, 8 tens, and 3 ones?
+Status: Success
+
+Question: Round 2,999,999 to the nearest million.
+Status: Success
+
+Question: What is 100 times larger than 67,890?
+Status: Success
+
+Question: The altitude of a balloon changed from 650 metres to -25 metres (in a valley). Through what distance did it descend?
+Status: Success
+
+Question: Which of these numbers rounds to 4,000,000 when rounded to the nearest million?
+Status: Success
+
+Question: What is the product of 1,000 and 8,765?
+Status: Success
+
+Question: Round 6,765,432 to the nearest hundred thousand.
+Status: Success
+
+Question: A number when divided by 10 gives 345,678. What is the original number?
+Status: Success
+
+Question: The population of a town is 1,456,789. The population of another town is 678,345 more. What is the population of the second town?
+Status: Success
+
+Question: What is the interval between -34 and 18?
+Status: Success
+
+Question: Round 4,444,444 to 1 significant figure.
+Status: Success
+
+Question: Which number is 15,000 less than 2,000,000?
+Status: Success
+
+Question: A scuba diver starts at the surface (0 metres) and dives to -52 metres, then ascends 34 metres. What is their final depth?
+Status: Success
+
+Question: What is the largest 7-digit number that rounds to 7,200,000 when rounded to the nearest 100,000?
+Status: Success
+
+Question: Which operation is needed to change 5,123,456 to 5,423,456?
+Status: Success
+
+Question: Round 7,777,777 to the nearest ten thousand.
+Status: Success
+
+Question: What is the value of the expression: 7,000,000 - 456,789?
+Status: Success
+
+Question: A company's profit was -£185,000 (a loss) last year. This year it is £420,000. What is the improvement?
+Status: Success
+
+Question: Which number is represented by (8 × 1,000,000) + (5 × 10,000) + (3 × 100)?
+Status: Success
+
+Question: Round 2,567,890 to 2 significant figures.
+Status: Success
+
+Question: What is half of 6,543,210?
+Status: Success
+
+Question: A mountain peak is at 4,180 metres. A research station is at -240 metres (below sea level). What is the total vertical distance?
+Status: Success
+
+Question: Round 3,888,888 to the nearest million.
+Status: Success
+
+Question: Which number is 1,000 times smaller than 7,890,000?
+Status: Success
+
+Question: What is the sum of the place values of all the 3s in 3,456,783?
+Status: Success
+
+Question: A submarine at -450 metres descends another 175 metres. What is its new depth?
+Status: Success
+
+Question: Round 5,432,109 to the nearest ten thousand.
+Status: Success
+
+Question: What number is halfway between 6,000,000 and 7,000,000?
+Status: Success
+
+Question: By how much does 8,765,432 exceed 8,567,432?
+Status: Success
+
+Question: The coldest temperature recorded was -38°C. The warmest was 21°C. What is the difference between them?
+Status: Success
+
+Question: What is the value of (6 × 1,000,000) + (8 × 100,000) + (4 × 1,000) + (2 × 10)?
+Status: Success
+
+Question: Round 7,777,777 to the nearest hundred thousand.
+Status: Success
+
+Question: A lift is at floor 15. It descends 9 floors, then descends another 12

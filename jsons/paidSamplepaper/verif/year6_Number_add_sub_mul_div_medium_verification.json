@@ -1,0 +1,1546 @@
+Based on the mathematical evaluation of each object in the provided JSON data, here is the status for each:
+
+Question: What is 3,567 × 47 using long multiplication?
+Status: Success
+
+Question: Calculate 2,849 × 56.
+Status: Success
+
+Question: What is 4,728 × 63?
+Status: Success
+
+Question: Calculate 5,432 × 78.
+Status: Success
+
+Question: What is 6,915 × 84?
+Status: Success
+
+Question: Calculate 7,264 × 59.
+Status: Success
+
+Question: What is 8,523 × 72?
+Status: Success
+
+Question: Calculate 9,157 × 65.
+Status: Success
+
+Question: What is 3,845 × 91?
+Status: Success
+
+Question: Calculate 4,976 × 83.
+Status: Success
+
+Question: What is 2,567 × 96?
+Status: Success
+
+Question: Calculate 6,834 × 77.
+Status: Success
+
+Question: What is 7,469 × 88?
+Status: Success
+
+Question: Calculate 8,125 × 94.
+Status: Success
+
+Question: What is 9,238 × 67?
+Status: Success
+
+Question: What is 4,536 ÷ 63 using long division?
+Status: Success
+
+Question: Calculate 5,824 ÷ 76.
+Status: Success
+
+Question: What is 6,912 ÷ 48?
+Status: Success
+
+Question: Calculate 7,248 ÷ 57.
+Status: Success
+
+Question: What is 8,470 ÷ 85?
+Status: Success
+
+Question: Calculate 9,576 ÷ 84.
+Status: Success
+
+Question: What is 3,978 ÷ 51?
+Status: Success
+
+Question: Calculate 5,265 ÷ 65.
+Status: Success
+
+Question: What is 6,384 ÷ 76?
+Status: Success
+
+Question: Calculate 7,935 ÷ 93.
+Status: Success
+
+Question: What is 8,742 ÷ 97?
+Status: Success
+
+Question: Calculate 4,623 ÷ 69.
+Status: Success
+
+Question: What is 5,712 ÷ 72?
+Status: Success
+
+Question: Calculate 9,345 ÷ 89.
+Status: Success
+
+Question: What is 3,876 ÷ 68?
+Status: Success
+
+Question: If 347 ÷ 43 = 8 remainder 3, express the answer as a mixed number.
+Status: Success
+
+Question: What is 567 ÷ 74, expressed as a mixed number?
+Status: Error
+Explanation: 567 divided by 74 is 7 with a remainder of 49 ($7 \times 74 = 518$; $567 - 518 = 49$). The mixed number should be $7 \frac{49}{74}$. Option A ($7 \frac{41}{74}$) is mathematically incorrect.
+
+Question: If 893 ÷ 58 has a remainder, express the answer as a decimal rounded to 1 decimal place.
+Status: Success
+
+Question: What is 1,245 ÷ 67, expressed as a mixed number?
+Status: Success
+
+Question: If 2,376 ÷ 86 = 27 remainder 54, express the remainder as a simplified fraction.
+Status: Success
+
+Question: What is 3,524 ÷ 95, rounded to the nearest whole number?
+Status: Success
+
+Question: If 4,782 ÷ 73 has a remainder, what is the remainder as a whole number?
+Status: Error
+Explanation: 4,782 divided by 73 is 65 with a remainder of 37 ($73 \times 65 = 4745$; $4782 - 4745 = 37$). Option A (24) is incorrect.
+
+Question: What is 5,638 ÷ 89, rounded to the nearest whole number?
+Status: Success
+
+Question: If 6,957 ÷ 92 = 75 remainder 57, express the answer as a mixed number.
+Status: Success
+
+Question: What is 7,425 ÷ 78, expressed as a mixed number?
+Status: Success
+
+Question: Calculate 1,836 ÷ 27 using short division.
+Status: Success
+
+Question: What is 2,964 ÷ 39?
+Status: Success
+
+Question: Calculate 4,185 ÷ 45.
+Status: Success
+
+Question: What is 5,376 ÷ 56?
+Status: Success
+
+Question: Calculate 6,552 ÷ 84.
+Status: Success
+
+Question: What is 350 × 240?
+Status: Success
+
+Question: Calculate 625 × 16 mentally.
+Status: Success
+
+Question: What is 297 × 8?
+Status: Success
+
+Question: Calculate 175 + 248 - 156 mentally.
+Status: Success
+
+Question: What is 540 ÷ 18?
+Status: Success
+
+Question: Calculate 756 + 389 - 245 + 127 mentally.
+Status: Success
+
+Question: What is 85 × 24?
+Status: Success
+
+Question: Calculate 1,350 - 675 mentally.
+Status: Success
+
+Question: What is 144 × 25?
+Status: Success
+
+Question: Calculate 720 ÷ 16 mentally.
+Status: Success
+
+Question: What is 495 × 6?
+Status: Success
+
+Question: Calculate 875 + 466 mentally.
+Status: Success
+
+Question: What is 192 × 15?
+Status: Success
+
+Question: Calculate 1,200 - 567 mentally.
+Status: Success
+
+Question: What is 168 × 12?
+Status: Success
+
+Question: What are the common factors of 48 and 72?
+Status: Success
+
+Question: What is the greatest common factor of 56 and 84?
+Status: Success
+
+Question: What is the lowest common multiple of 12 and 18?
+Status: Success
+
+Question: What are all the prime numbers between 40 and 60?
+Status: Success
+
+Question: What are the common factors of 60 and 90?
+Status: Success
+
+Question: What is the lowest common multiple of 15 and 25?
+Status: Success
+
+Question: Which of these numbers is a prime number?
+Status: Success
+
+Question: What is the greatest common factor of 45 and 75?
+Status: Success
+
+Question: What is the lowest common multiple of 8 and 12?
+Status: Success
+
+Question: What are the common factors of 36 and 54?
+Status: Success
+
+Question: Which of these is NOT a prime number?
+Status: Success
+
+Question: What is the greatest common factor of 72 and 96?
+Status: Success
+
+Question: What is the lowest common multiple of 9 and 15?
+Status: Success
+
+Question: What are all the prime numbers between 70 and 90?
+Status: Success
+
+Question: What are the common factors of 42 and 63?
+Status: Success
+
+Question: Calculate 12 + 8 × 5 - 6.
+Status: Success
+
+Question: What is 36 - 18 ÷ 3 + 7?
+Status: Success
+
+Question: Calculate (15 + 9) × 6 - 20.
+Status: Success
+
+Question: What is 48 ÷ 8 + 12 × 3?
+Status: Success
+
+Question: Calculate 9 × 7 - 24 ÷ 4.
+Status: Success
+
+Question: What is (42 - 18) ÷ 6 × 5?
+Status: Success
+
+Question: Calculate 18 ÷ 6 × 9 + 12.
+Status: Success
+
+Question: What is 8 + 15 × 4 - 36 ÷ 6?
+Status: Success
+
+Question: Calculate (27 + 18) ÷ 9 + 14.
+Status: Success
+
+Question: What is 56 - 32 ÷ 8 × 3?
+Status: Success
+
+Question: Calculate 7 × (12 - 5) + 18.
+Status: Success
+
+Question: What is 72 ÷ 9 + 6 × 8 - 15?
+Status: Success
+
+Question: Calculate (36 ÷ 4 + 5) × 7.
+Status: Success
+
+Question: What is 25 + 40 ÷ 8 × 6 - 12?
+Status: Success
+
+Question: Calculate 11 × 9 - (45 - 18).
+Status: Success
+
+Question: A store has 456 books. They sell 178 books on Monday and 234 books on Tuesday. On Wednesday, they receive a delivery of 389 books. How many books does the store have now?
+Status: Success
+
+Question: Maya saves £45 each week. After 12 weeks, she spends £187 on a phone and £95 on headphones. How much money does she have left?
+Status: Success
+
+Question: A factory produces 324 toys each day for 15 days. If each box holds 18 toys, how many boxes are needed for all the toys?
+Status: Success
+
+Question: A swimming pool contains 8,560 litres of water. 2,345 litres leak out, then 1,875 litres are added. Later, 3,250 litres are drained for cleaning. How many litres remain?
+Status: Success
+
+Question: Ben buys 18 packs of trading cards with 36 cards in each pack. He gives 145 cards to his friends and sells 278 cards. How many cards does he have left?
+Status: Success
+
+Question: A school has 1,248 students arranged into classes of 26 students each. If each class needs 3 teachers, how many teachers are needed in total?
+Status: Success
+
+Question: Emma has £675. She buys 8 books at £12 each, 5 magazines at £7 each, and a bag for £48. How much money does she have left?
+Status: Success
+
+Question: A farmer plants 45 rows of vegetables with 68 plants in each row. Birds eat 245 plants and 378 plants get damaged by weather. How many healthy plants remain?
+Status: Success
+
+Question: A cinema has 2,184 seats. For a movie showing, 1,567 tickets are sold. If each ticket costs £8.50, what is the total revenue? (Round to the nearest pound)
+Status: Success
+
+Question: Oliver has 2,856 marbles to share equally among 34 friends. After sharing, he finds 12 more marbles. How many marbles does Oliver have for himself?
+Status: Success
+
+Question: If 4,567 × 89 = 406,463, what is a good estimate for 4,520 × 89?
+Status: Success
+
+Question: Round 47,685 to the nearest 1,000.
+Status: Success
+
+Question: Estimate 3,876 + 4,234 by rounding to the nearest 1,000.
+Status: Success
+
+Question: Round 23,549 to the nearest 500.
+Status: Success
+
+Question: If 567 × 84 = 47,628, which calculation could help check this answer?
+Status: Success
+
+Question: Estimate 7,856 - 3,247 by rounding to the nearest 1,000.
+Status: Success
+
+Question: Round 65,432 to the nearest 100.
+Status: Success
+
+Question: If 8,736 ÷ 96 = 91, which calculation could help check this answer?
+Status: Success
+
+Question: Estimate 234 × 187 by rounding to the nearest 100.
+Status: Success
+
+Question: Round 89,765 to the nearest 10,000.
+Status: Success
+
+Question: Estimate 6,345 + 2,876 + 4,123 by rounding to the nearest 1,000.
+Status: Success
+
+Question: Round 34,567 to the nearest 250.
+Status: Success
+
+Question: If 9,456 ÷ 72 = 131 remainder 24, is it more accurate to round the answer to 131 or 132?
+Status: Success
+
+Question: Estimate 897 - 456 by rounding to the nearest 100.
+Status: Success
+
+Question: Round 156,789 to the nearest 5,000.
+Status: Success
+
+Question: If the product of two numbers is 5,632 and one number is 64, which calculation finds the other number?
+Status: Success
+
+Question: What is 5,346 × 58 using long multiplication?
+Status: Success
+
+Question: Calculate 4,825 × 73.
+Status: Success
+
+Question: What is 6,759 × 64?
+Status: Success
+
+Question: Calculate 7,284 × 89.
+Status: Success
+
+Question: What is 3,967 × 76?
+Status: Success
+
+Question: Calculate 8,456 × 92.
+Status: Success
+
+Question: What is 2,793 × 85?
+Status: Success
+
+Question: Calculate 9,638 × 57.
+Status: Success
+
+Question: What is 5,874 × 68?
+Status: Success
+
+Question: Calculate 4,527 × 93.
+Status: Success
+
+Question: What is 6,185 × 74?
+Status: Success
+
+Question: Calculate 7,962 × 86.
+Status: Success
+
+Question: What is 3,458 × 97?
+Status: Success
+
+Question: Calculate 8,219 × 65.
+Status: Success
+
+Question: What is 9,346 × 79?
+Status: Success
+
+Question: What is 5,796 ÷ 69 using long division?
+Status: Success
+
+Question: Calculate 7,254 ÷ 83.
+Status: Success
+
+Question: What is 8,928 ÷ 96?
+Status: Success
+
+Question: Calculate 6,435 ÷ 75.
+Status: Success
+
+Question: What is 9,152 ÷ 88?
+Status: Success
+
+Question: Calculate 4,872 ÷ 58.
+Status: Success
+
+Question: What is 7,668 ÷ 91?
+Status: Success
+
+Question: Calculate 5,568 ÷ 64.
+Status: Success
+
+Question: What is 8,346 ÷ 79?
+Status: Success
+
+Question: Calculate 6,912 ÷ 72.
+Status: Success
+
+Question: What is 9,576 ÷ 87?
+Status: Success
+
+Question: Calculate 3,978 ÷ 63.
+Status: Success
+
+Question: What is 7,425 ÷ 95?
+Status: Success
+
+Question: Calculate 5,264 ÷ 68.
+Status: Success
+
+Question: What is 8,874 ÷ 94?
+Status: Success
+
+Question: If 529 ÷ 67 = 7 remainder 60, express the answer as a mixed number.
+Status: Success
+
+Question: What is 763 ÷ 82, expressed as a mixed number?
+Status: Success
+
+Question: If 1,456 ÷ 93 has a remainder, express the answer as a decimal rounded to 1 decimal place.
+Status: Success
+
+Question: What is 2,187 ÷ 78, expressed as a mixed number?
+Status: Success
+
+Question: If 3,845 ÷ 97 = 39 remainder 62, express the remainder as a simplified fraction.
+Status: Success
+
+Question: What is 4,725 ÷ 84, rounded to the nearest whole number?
+Status: Success
+
+Question: If 5,934 ÷ 86 has a remainder, what is the remainder as a whole number?
+Status: Success
+
+Question: What is 6,827 ÷ 91, rounded to the nearest whole number?
+Status: Success
+
+Question: If 7,956 ÷ 88 = 90 remainder 36, express the answer as a mixed number.
+Status: Success
+
+Question: What is 8,645 ÷ 95, expressed as a mixed number?
+Status: Success
+
+Question: Calculate 2,736 ÷ 38 using short division.
+Status: Success
+
+Question: What is 3,864 ÷ 46?
+Status: Success
+
+Question: Calculate 5,292 ÷ 63.
+Status: Success
+
+Question: What is 6,728 ÷ 74?
+Status: Success
+
+Question: Calculate 7,956 ÷ 87.
+Status: Success
+
+Question: What is 450 × 360?
+Status: Success
+
+Question: Calculate 875 × 32 mentally.
+Status: Success
+
+Question: What is 398 × 12?
+Status: Success
+
+Question: Calculate 285 + 347 - 189 + 156 mentally.
+Status: Success
+
+Question: What is 810 ÷ 27?
+Status: Success
+
+Question: Calculate 945 + 678 - 423 + 259 mentally.
+Status: Success
+
+Question: What is 125 × 72?
+Status: Success
+
+Question: Calculate 2,450 - 1,375 mentally.
+Status: Success
+
+Question: What is 216 × 25?
+Status: Success
+
+Question: Calculate 960 ÷ 32 mentally.
+Status: Success
+
+Question: What is 597 × 9?
+Status: Success
+
+Question: Calculate 1,375 + 846 mentally.
+Status: Success
+
+Question: What is 276 × 18?
+Status: Success
+
+Question: Calculate 1,800 - 947 mentally.
+Status: Success
+
+Question: What is 345 × 14?
+Status: Success
+
+Question: What are the common factors of 64 and 96?
+Status: Success
+
+Question: What is the greatest common factor of 63 and 105?
+Status: Success
+
+Question: What is the lowest common multiple of 14 and 21?
+Status: Success
+
+Question: What are all the prime numbers between 50 and 70?
+Status: Success
+
+Question: What are the common factors of 75 and 100?
+Status: Success
+
+Question: What is the lowest common multiple of 16 and 24?
+Status: Success
+
+Question: Which of these numbers is a prime number?
+Status: Success
+
+Question: What is the greatest common factor of 54 and 81?
+Status: Success
+
+Question: What is the lowest common multiple of 10 and 15?
+Status: Success
+
+Question: What are the common factors of 50 and 80?
+Status: Success
+
+Question: Which of these is NOT a prime number?
+Status: Success
+
+Question: What is the greatest common factor of 88 and 132?
+Status: Success
+
+Question: What is the lowest common multiple of 18 and 24?
+Status: Success
+
+Question: What are all the prime numbers between 80 and 100?
+Status: Success
+
+Question: What are the common factors of 56 and 98?
+Status: Success
+
+Question: Calculate 18 + 14 × 6 - 9.
+Status: Success
+
+Question: What is 54 - 27 ÷ 9 + 12?
+Status: Success
+
+Question: Calculate (24 + 16) × 8 - 35.
+Status: Success
+
+Question: What is 63 ÷ 9 + 18 × 4?
+Status: Success
+
+Question: Calculate 13 × 8 - 36 ÷ 6.
+Status: Success
+
+Question: What is (56 - 28) ÷ 7 × 9?
+Status: Success
+
+Question: Calculate 28 ÷ 4 × 7 + 18.
+Status: Success
+
+Question: What is 12 + 20 × 5 - 48 ÷ 8?
+Status: Success
+
+Question: Calculate (35 + 25) ÷ 12 + 17.
+Status: Success
+
+Question: What is 72 - 45 ÷ 9 × 4?
+Status: Success
+
+Question: Calculate 9 × (16 - 7) + 24.
+Status: Success
+
+Question: What is 96 ÷ 12 + 8 × 9 - 21?
+Status: Success
+
+Question: Calculate (48 ÷ 6 + 8) × 9.
+Status: Success
+
+Question: What is 35 + 54 ÷ 9 × 7 - 18?
+Status: Success
+
+Question: Calculate 15 × 11 - (60 - 24).
+Status: Success
+
+Question: A warehouse has 687 boxes. They ship out 245 boxes on Monday, 189 boxes on Tuesday, and 156 boxes on Wednesday. On Thursday, they receive a delivery of 523 boxes. How many boxes does the warehouse have now?
+Status: Success
+
+Question: Sophie saves £68 each week. After 15 weeks, she spends £345 on a tablet and £127 on accessories. How much money does she have left?
+Status: Success
+
+Question: A bakery produces 456 cupcakes each day for 18 days. If each box holds 24 cupcakes, how many boxes are needed for all the cupcakes?
+Status: Success
+
+Question: A water tank contains 12,450 litres of water. 3,678 litres leak out, then 2,945 litres are added. Later, 4,567 litres are used. How many litres remain?
+Status: Success
+
+Question: Oliver buys 24 packs of stickers with 48 stickers in each pack. He gives 267 stickers to friends and sells 389 stickers. How many stickers does he have left?
+Status: Success
+
+Question: A school has 1,584 students arranged into classes of 33 students each. If each class needs 2 teaching assistants, how many teaching assistants are needed in total?
+Status: Success
+
+Question: Emma has £945. She buys 12 books at £15 each, 8 notebooks at £6 each, and a backpack for £67. How much money does she have left?
+Status: Success
+
+Question: A gardener plants 56 rows of flowers with 87 plants in each row. Wind damages 456 plants and insects destroy 389 plants. How many healthy plants remain?
+Status: Success
+
+Question: A theater has 2,856 seats. For a performance, 2,178 tickets are sold. If each ticket costs £12.50, what is the total revenue? (Round to the nearest pound)
+Status: Success
+
+Question: Ben has 3,432 stamps to share equally among 39 friends. After sharing, he finds 18 more stamps. How many stamps does Ben keep for himself?
+Status: Success
+
+Question: If 6,789 × 94 = 638,166, what is a good estimate for 6,750 × 94?
+Status: Success
+
+Question: Round 58,732 to the nearest 1,000.
+Status: Success
+
+Question: Estimate 5,234 + 6,789 by rounding to the nearest 1,000.
+Status: Success
+
+Question: Round 34,678 to the nearest 500.
+Status: Success
+
+Question: If 734 × 96 = 70,464, which calculation could help check this answer?
+Status: Success
+
+Question: Estimate 9,567 - 4,238 by rounding to the nearest 1,000.
+Status: Success
+
+Question: Round 87,345 to the nearest 100.
+Status: Success
+
+Question: If 9,648 ÷ 84 = 115 remainder 48, which calculation could help check this answer?
+Status: Success
+
+Question: Estimate 345 × 278 by rounding to the nearest 100.
+Status: Success
+
+Question: Round 123,456 to the nearest 10,000.
+Status: Success
+
+Question: Estimate 8,765 + 3,456 + 5,289 by rounding to the nearest 1,000.
+Status: Success
+
+Question: Round 45,678 to the nearest 250.
+Status: Success
+
+Question: If 12,768 ÷ 96 = 133, is it more accurate to round the answer to 133 or 134?
+Status: Success
+
+Question: Estimate 1,234 - 567 by rounding to the nearest 100.
+Status: Success
+
+Question: Round 234,567 to the nearest 5,000.
+Status: Success
+
+Question: If the product of two numbers is 8,736 and one number is 91, which calculation finds the other number?
+Status: Success
+
+Question: What is 4,738 × 62 using long multiplication?
+Status: Success
+
+Question: Calculate 6,517 × 81.
+Status: Success
+
+Question: What is 7,895 × 54?
+Status: Success
+
+Question: Calculate 3,642 × 97.
+Status: Success
+
+Question: What is 5,283 × 76?
+Status: Success
+
+Question: Calculate 8,169 × 63.
+Status: Success
+
+Question: What is 4,956 × 88?
+Status: Success
+
+Question: Calculate 7,214 × 95.
+Status: Success
+
+Question: What is 9,427 × 69?
+Status: Success
+
+Question: Calculate 2,865 × 74.
+Status: Success
+
+Question: What is 6,378 × 82?
+Status: Success
+
+Question: Calculate 5,491 × 67.
+Status: Success
+
+Question: What is 8,632 × 75?
+Status: Success
+
+Question: Calculate 3,754 × 93.
+Status: Success
+
+Question: What is 9,145 × 86?
+Status: Success
+
+Question: What is 6,384 ÷ 57 using long division?
+Status: Success
+
+Question: Calculate 8,526 ÷ 94.
+Status: Success
+
+Question: What is 7,452 ÷ 78?
+Status: Success
+
+Question: Calculate 5,928 ÷ 62.
+Status: Success
+
+Question: What is 9,246 ÷ 99?
+Status: Success
+
+Question: Calculate 4,368 ÷ 52.
+Status: Success
+
+Question: What is 7,839 ÷ 87?
+Status: Success
+
+Question: Calculate 6,195 ÷ 73.
+Status: Success
+
+Question: What is 8,064 ÷ 96?
+Status: Success
+
+Question: Calculate 5,472 ÷ 64.
+Status: Success
+
+Question: What is 9,576 ÷ 92?
+Status: Success
+
+Question: Calculate 3,744 ÷ 48.
+Status: Success
+
+Question: What is 7,104 ÷ 74?
+Status: Success
+
+Question: Calculate 8,235 ÷ 85.
+Status: Success
+
+Question: What is 6,678 ÷ 93?
+Status: Success
+
+Question: If 643 ÷ 79 = 8 remainder 11, express the answer as a mixed number.
+Status: Success
+
+Question: What is 856 ÷ 94, expressed as a mixed number?
+Status: Success
+
+Question: If 1,738 ÷ 86 has a remainder, express the answer as a decimal rounded to 1 decimal place.
+Status: Success
+
+Question: What is 2,945 ÷ 89, expressed as a mixed number?
+Status: Error
+Explanation: 2,945 divided by 89 is 33 with a remainder of 8 ($89 \times 33 = 2937$; $2945 - 2937 = 8$). The mixed number should be $33 \frac{8}{89}$. Option A ($33 \frac{6}{89}$) is incorrect.
+
+Question: If 4,567 ÷ 92 = 49 remainder 59, express the remainder as a simplified fraction.
+Status: Success
+
+Question: What is 5,836 ÷ 97, rounded to the nearest whole number?
+Status: Success
+
+Question: If 6,947 ÷ 83 has a remainder, what is the remainder as a whole number?
+Status: Error
+Explanation: 6,947 divided by 83 is 83 with a remainder of 58 ($83 \times 83 = 6889$; $6947 - 6889 = 58$). Option A (66) is incorrect.
+
+Question: What is 7,285 ÷ 95, rounded to the nearest whole number?
+Status: Success
+
+Question: If 8,456 ÷ 88 = 96 remainder 8, express the answer as a mixed number.
+Status: Success
+
+Question: What is 9,127 ÷ 91, expressed as a mixed number?
+Status: Success
+
+Question: Calculate 3,596 ÷ 47 using short division.
+Status: Success
+
+Question: What is 4,914 ÷ 59?
+Status: Success
+
+Question: Calculate 6,237 ÷ 71.
+Status: Success
+
+Question: What is 7,568 ÷ 86?
+Status: Success
+
+Question: Calculate 8,835 ÷ 95.
+Status: Success
+
+Question: What is 560 × 280?
+Status: Success
+
+Question: Calculate 625 × 48 mentally.
+Status: Success
+
+Question: What is 496 × 15?
+Status: Success
+
+Question: Calculate 394 + 567 - 238 + 195 mentally.
+Status: Success
+
+Question: What is 1,080 ÷ 36?
+Status: Success
+
+Question: Calculate 1,267 + 845 - 523 + 378 mentally.
+Status: Success
+
+Question: What is 175 × 64?
+Status: Success
+
+Question: Calculate 3,250 - 1,875 mentally.
+Status: Success
+
+Question: What is 324 × 25?
+Status: Success
+
+Question: Calculate 1,440 ÷ 48 mentally.
+Status: Success
+
+Question: What is 693 × 7?
+Status: Success
+
+Question: Calculate 1,645 + 978 mentally.
+Status: Success
+
+Question: What is 387 × 16?
+Status: Success
+
+Question: Calculate 2,100 - 1,347 mentally.
+Status: Success
+
+Question: What is 456 × 13?
+Status: Success
+
+Question: What are the common factors of 80 and 120?
+Status: Success
+
+Question: What is the greatest common factor of 78 and 117?
+Status: Success
+
+Question: What is the lowest common multiple of 20 and 30?
+Status: Success
+
+Question: What are all the prime numbers between 30 and 50?
+Status: Success
+
+Question: What are the common factors of 84 and 108?
+Status: Success
+
+Question: What is the lowest common multiple of 28 and 42?
+Status: Success
+
+Question: Which of these numbers is a prime number?
+Status: Success
+
+Question: What is the greatest common factor of 66 and 99?
+Status: Success
+
+Question: What is the lowest common multiple of 27 and 36?
+Status: Success
+
+Question: What are the common factors of 91 and 143?
+Status: Success
+
+Question: Which of these is NOT a prime number?
+Status: Success
+
+Question: What is the greatest common factor of 104 and 156?
+Status: Success
+
+Question: What is the lowest common multiple of 22 and 33?
+Status: Success
+
+Question: What are all the prime numbers between 100 and 120?
+Status: Success
+
+Question: What are the common factors of 70 and 105?
+Status: Success
+
+Question: Calculate 21 + 16 × 7 - 13.
+Status: Success
+
+Question: What is 68 - 36 ÷ 12 + 15?
+Status: Success
+
+Question: Calculate (32 + 18) × 9 - 47.
+Status: Success
+
+Question: What is 84 ÷ 12 + 21 × 5?
+Status: Success
+
+Question: Calculate 17 × 9 - 48 ÷ 8.
+Status: Success
+
+Question: What is (63 - 35) ÷ 7 × 8?
+Status: Success
+
+Question: Calculate 35 ÷ 7 × 11 + 24.
+Status: Success
+
+Question: What is 16 + 24 × 6 - 56 ÷ 7?
+Status: Success
+
+Question: Calculate (45 + 30) ÷ 15 + 23.
+Status: Success
+
+Question: What is 96 - 54 ÷ 9 × 5?
+Status: Success
+
+Question: Calculate 11 × (19 - 8) + 32.
+Status: Success
+
+Question: What is 108 ÷ 18 + 9 × 12 - 27?
+Status: Success
+
+Question: Calculate (54 ÷ 9 + 11) × 8.
+Status: Error
+Explanation: Following the order of operations, the parentheses are solved first: $6 + 11 = 17$. Then, $17 \times 8 = 136$. Option A (128) is incorrect.
+
+Question: What is 42 + 63 ÷ 9 × 8 - 24?
+Status: Success
+
+Question: Calculate 18 × 13 - (72 - 28).
+Status: Success
+
+Question: A warehouse has 834 boxes. They ship out 298 boxes on Monday, 247 boxes on Tuesday, and 189 boxes on Wednesday. On Thursday, they receive a delivery of 678 boxes. How many boxes does the warehouse have now?
+Status: Success
+
+Question: Lucas saves £82 each week. After 17 weeks, he spends £467 on a laptop and £189 on software. How much money does he have left?
+Status: Success
+
+Question: A toy factory produces 578 toys each day for 21 days. If each container holds 33 toys, how many containers are needed for all the toys?
+Status: Success
+
+Question: A reservoir contains 15,670 litres of water. 4,892 litres are used for irrigation, then 3,745 litres are added. Later, 5,638 litres are pumped out. How many litres remain?
+Status: Success
+
+Question: Mia buys 27 packs of markers with 56 markers in each pack. She gives 389 markers to classmates and sells 467 markers. How many markers does she have left?
+Status: Success
+
+Question: A school has 2,016 students arranged into classes of 42 students each. If each class needs 3 teaching assistants, how many teaching assistants are needed in total?
+Status: Success
+
+Question: Sophia has £1,235. She buys 16 books at £18 each, 11 notebooks at £9 each, and a desk lamp for £84. How much money does she have left?
+Status: Success
+
+Question: A farmer plants 68 rows of corn with 94 plants in each row. Drought damages 567 plants and pests destroy 845 plants. How many healthy plants remain?
+Status: Success
+
+Question: A concert hall has 3,456 seats. For a performance, 2,867 tickets are sold. If each ticket costs £15.50, what is the total revenue? (Round to the nearest pound)
+Status: Success
+
+Question: Noah has 4,536 coins to share equally among 54 friends. After sharing, he finds 27 more coins. How many coins does Noah keep for himself?
+Status: Success
+
+Question: If 8,234 × 87 = 716,358, what is a good estimate for 8,200 × 87?
+Status: Success
+
+Question: Round 72,486 to the nearest 1,000.
+Status: Success
+
+Question: Estimate 6,789 + 8,456 by rounding to the nearest 1,000.
+Status: Success
+
+Question: Round 47,856 to the nearest 500.
+Status: Success
+
+Question: If 846 × 92 = 77,832, which calculation could help check this answer?
+Status: Success
+
+Question: Estimate 12,345 - 5,678 by rounding to the nearest 1,000.
+Status: Success
+
+Question: Round 96,234 to the nearest 100.
+Status: Success
+
+Question: If 11,376 ÷ 94 = 121 remainder 2, which calculation could help check this answer?
+Status: Success
+
+Question: Estimate 456 × 389 by rounding to the nearest 100.
+Status: Success
+
+Question: Round 165,789 to the nearest 10,000.
+Status: Success
+
+Question: Estimate 9,456 + 4,678 + 6,234 by rounding to the nearest 1,000.
+Status: Success
+
+Question: Round 56,789 to the nearest 250.
+Status: Success
+
+Question: If 15,456 ÷ 128 = 120 remainder 96, is it more accurate to round the answer to 120 or 121?
+Status: Success
+
+Question: Estimate 2,345 - 876 by rounding to the nearest 100.
+Status: Success
+
+Question: Round 345,678 to the nearest 5,000.
+Status: Success
+
+Question: If the product of two numbers is 11,232 and one number is 117, which calculation finds the other number?
+Status: Success
+
+Question: What is 324 × 26?
+Status: Success
+
+Question: Calculate 408 × 34.
+Status: Success
+
+Question: What is 726 × 18?
+Status: Success
+
+Question: Calculate 4,032 ÷ 24.
+Status: Success
+
+Question: What is 3,456 ÷ 27?
+Status: Error
+Explanation: 3,456 divided by 27 is exactly 128. Option B (126) provided in the answer key is incorrect; Option C is the correct value.
+
+Question: A ribbon is 2,750 cm long. It is cut into pieces of 24 cm. How many full pieces are there?
+Status: Error
+Explanation: 2,750 divided by 24 is $114.583...$. This means there are 114 full pieces. Option B (115) is incorrect.
+
+Question: What is the remainder when 3,982 is divided by 31?
+Status: Success
+
+Question: Which is the correct estimate for 3,942 ÷ 19?
+Status: Success
+
+Question: What is the correct answer to 6 + 24 ÷ 6?
+Status: Success
+
+Question: What is the value of (6 + 24) ÷ 6?
+Status: Success
+
+Question: Which number is a common factor of 24 and 36?
+Status: Success
+
+Question: Which number is a common multiple of 6 and 8?
+Status: Success
+
+Question: Which number is prime?
+Status: Success
+
+Question: What is 7,204 − 3,968?
+Status: Success
+
+Question: What is 4,685 + 2,749?
+Status: Success
+
+Question: A box holds 48 pencils. How many pencils are in 26 boxes?
+Status: Success
+
+Question: A school orders 3,960 books packed equally into boxes of 18. How many boxes are needed?
+Status: Success
+
+Question: Which calculation shows the correct order of operations?
+Status: Success
+
+Question: Round 4,782 to the nearest 50.
+Status: Success
+
+Question: What is 2,784 ÷ 24?
+Status: Success
+
+Question: Calculate 635 × 47.
+Status: Success
+
+Question: What is the remainder when 4,519 is divided by 32?
+Status: Error
+Explanation: 4,519 divided by 32 is 141 with a remainder of 7 ($32 \times 141 = 4512$; $4519 - 4512 = 7$). Option B (15) is incorrect.
+
+Question: Which is the best estimate for 5,102 ÷ 49?
+Status: Success
+
+Question: What is the value of 18 − 6 × 2?
+Status: Error
+Explanation: Multiplication is performed first: $6 \times 2 = 12$. Then, $18 - 12 = 6$. Option A (12) is incorrect.
+
+Question: What is the value of (18 − 6) × 2?
+Status: Success
+
+Question: Which number is a common factor of 30 and 45?
+Status: Success
+
+Question: Which number is a common multiple of 9 and 12?
+Status: Success
+
+Question: Which number is prime?
+Status: Success
+
+Question: What is 8,304 − 5,687?
+Status: Success
+
+Question: What is 6,458 + 3,786?
+Status: Success
+
+Question: A factory produces 125 boxes each day for 28 days. How many boxes are produced?
+Status: Success
+
+Question: 4,536 sweets are shared equally among 36 children. How many sweets does each child get?
+Status: Success
+
+Question: Round 6,473 to the nearest 100.
+Status: Success
+
+Question: Which calculation equals 42?
+Status: Success
+
+Question: Calculate 784 × 23.
+Status: Success
+
+Question: What is 3,696 ÷ 28?
+Status: Success
+
+Question: A coach has 4,275 passengers shared equally among 35 buses. How many passengers are on each bus?
+Status: Error
+Explanation: 4,275 divided by 35 is approximately 122.14. It is not exactly 123. The answer key Option C (123) is incorrect.
+
+Question: What is the remainder when 2,945 is divided by 26?
+Status: Error
+Explanation: 2,945 divided by 26 is 113 with a remainder of 7 ($26 \times 113 = 2938$; $2945 - 2938 = 7$). Option B (11) is incorrect.
+
+Question: Which is the best estimate for 7,812 ÷ 41?
+Status: Success
+
+Question: What is the value of 25 − 15 ÷ 3?
+Status: Success
+
+Question: What is the value of (25 − 15) ÷ 3?
+Status: Error
+Explanation: $(25 - 15) \div 3 = 10 \div 3 = 3.33...$. Option B (5) is incorrect.
+
+Question: Which number is a common factor of 48 and 64?
+Status: Success
+
+Question: Which number is a common multiple of 7 and 9?
+Status: Success
+
+Question: Which number is prime?
+Status: Success
+
+Question: What is 9,204 − 6,758?
+Status: Success
+
+Question: What is 5,879 + 4,368?
+Status: Success
+
+Question: A warehouse packs 72 cartons onto each pallet. How many cartons are on 45 pallets?
+Status: Success
+
+Question: 3,888 apples are packed equally into boxes of 36. How many boxes are needed?
+Status: Success
+
+Question: Round 8,764 to the nearest 10.
+Status: Error
+Explanation: 8,764 rounded to the nearest 10 is 8,760. Option B (8,770) is incorrect.
+
+Question: Which calculation equals 56?
+Status: Success
+
+Question: Calculate 672 × 24.
+Status: Success
+
+Question: What is 4,536 ÷ 27?
+Status: Success
+
+Question: What is the remainder when 3,275 is divided by 24?
+Status: Success
+
+Question: Estimate the answer to 5,912 ÷ 31.
+Status: Success
+
+Question: What is the value of 9 + 36 ÷ 6?
+Status: Error
+Explanation: Division is performed first: $36 \div 6 = 6$. Then, $9 + 6 = 15$. Option B (21) is incorrect.
+
+Question: What is the value of (9 + 36) ÷ 6?
+Status: Error
+Explanation: $(9 + 36) \div 6 = 45 \div 6 = 7.5$. The answer key Option B (7) is incorrect.
+
+Question: Which number is a common factor of 36 and 54?
+Status: Success
+
+Question: Which number is a common multiple of 5 and 12?
+Status: Success
+
+Question: Which number is prime?
+Status: Success
+
+Question: What is 8,402 − 3,769?
+Status: Success
+
+Question: What is 5,684 + 2,759?
+Status: Error
+Explanation: $5,684 + 2,759 = 8,443$. Option C (8,453) is incorrect.
+
+Question: A cinema sells 48 tickets per row. How many tickets are sold in 36 rows?
+Status: Success
+
+Question: 4,410 biscuits are packed equally into boxes of 21. How many boxes are needed?
+Status: Success
+
+Question: Round 7,438 to the nearest 50.
+Status: Success
+
+Question: Which calculation equals 64?
+Status: Success
+
+Question: Calculate 438 × 26.
+Status: Success
+
+Question: Calculate 672 × 34.
+Status: Success
+
+Question: What is 4,536 ÷ 28?
+Status: Success
+
+Question: What is the remainder when 3,487 is divided by 32?
+Status: Error
+Explanation: 3,487 divided by 32 is 108 with a remainder of 31 ($32 \times 108 = 3456$; $3487 - 3456 = 31$). Option B (17) is incorrect.
+
+Question: Estimate 6,021 ÷ 29.
+Status: Success
+
+Question: What is the value of 18 + 24 ÷ 6?
+Status: Error
+Explanation: Division is performed first: $24 \div 6 = 4$. Then, $18 + 4 = 22$. Option C (26) is incorrect.
+
+Question: What is the value of (18 + 24) ÷ 6?
+Status: Error
+Explanation: $(18 + 24) \div 6 = 42 \div 6 = 7$. Option C (8) is incorrect.
+
+Question: Which number is a common factor of 42 and 56?
+Status: Success
+
+Question: Which number is a common multiple of 6 and 15?
+Status: Success
+
+Question: Which number is prime?
+Status: Success
+
+Question: Calculate 384 × 27.
+Status: Success
+
+Question: Calculate 6,048 ÷ 24.
+Status: Success
+
+Question: What is the remainder when 3,917 is divided by 31?
+Status: Error
+Explanation: 3,917 divided by 31 is 126 with a remainder of 11 ($31 \times 126 = 3906$; $3917 - 3906 = 11$). Option B (7) is incorrect.
+
+Question: Estimate the answer to 7,392 ÷ 38.
+Status: Success
+
+Question: What is the value of 20 − 4 × 3?
+Status: Success
+
+Question: What is the value of (20 − 4) × 3?
+Status: Success
+
+Question: Which number is a common factor of 36 and 60?
+Status: Success
+
+Question: Which number is a common multiple of 8 and 12?
+Status: Success
+
+Question: Which number is prime?
+Status: Success
+
+Question: What is 7,405 − 3,968?
+Status: Success
+
+Question: What is 4,786 + 3,459?
+Status: Success
+
+Question: A school buys 48 packs of stickers. Each pack has 36 stickers. How many stickers are bought?
+Status: Success
+
+Question: 3,780 oranges are packed into boxes of 30. How many boxes are needed?
+Status: Success
+
+Question: Round 6,472 to the nearest 100.
+Status: Success
+
+Question: Which calculation equals 54?
+Status: Success
+
+Question: Calculate 456 × 28.
+Status: Success
+
+Question: Calculate 7,560 ÷ 36.
+Status: Success
+
+Question: What is the remainder when 4,825 is divided by 32?
+Status: Error
+Explanation: 4,825 divided by 32 is 150 with a remainder of 25 ($32 \times 150 = 4800$; $4825 - 4800 = 25$). Option B (17) is incorrect.
+
+Question: Estimate the answer to 8,104 ÷ 39.
+Status: Success
+
+Question: What is the value of 30 − 12 ÷ 3?
+Status: Success
+
+Question: What is the value of (30 − 12) ÷ 3?
+Status: Success
+
+Question: Which number is a common factor of 45 and 60?
+Status: Success
+
+Question: Which number is a common multiple of 9 and 10?
+Status: Success
+
+Question: Which number is prime?
+Status: Success
+
+Question: What is 9,208 − 4,679?
+Status: Success
+
+Question: What is 6,745 + 2,896?
+Status: Success
+
+Question: A farmer packs 64 eggs into each box. How many eggs are in 38 boxes?
+Status: Success
+
+Question: 4,896 marbles are shared equally among 48 children. How many marbles does each child get?
+Status: Error
+Explanation: 4,896 divided by 48 is exactly 102. Option B (96) is incorrect.
+
+Question: Round 8,473 to the nearest 50.
+Status: Success
+
+Question: Which calculation equals 72?
+Status: Success
+
+Question: Calculate 528 × 24.
+Status: Success
+
+Question: Calculate 7,488 ÷ 32.
+Status: Error
+Explanation: 7,488 divided by 32 is exactly 234. Option A (224) is incorrect.
+
+Question: What is the remainder when 4,193 is divided by 27?
+Status: Error
+Explanation: 4,193 divided by 27 is 155 with a remainder of 8 ($27 \times 155 = 4185$; $4193 - 4185 = 8$). Option B (10) is incorrect.
+
+Question: Estimate the answer to 6,214 ÷ 31.
+Status: Success
+
+Question: What is the value of 40 − 18 ÷ 3?
+Status: Error
+Explanation: Division is performed first: $18 \div 3 = 6$. Then, $40 - 6 = 34$. Option B (22) is incorrect.
+
+Question: What is the value of (40 − 18) ÷ 3?
+Status: Success
+
+Question: Which number is a common factor of 54 and 72?
+Status: Success
+
+Question: Which number is a common multiple of 6 and 14?
+Status: Success
+
+Question: Which number is prime?
+Status: Success
+
+Question: What is 8,903 − 4,587?
+Status: Success
+
+Question: What is 5,468 + 4,739?
+Status: Success
+
+Question: A lorry carries 72 crates. How many crates are carried by 46 lorries?
+Status: Success
+
+Question: 4,620 pencils are shared equally among 42 pupils. How many pencils does each pupil get?
+Status: Success
+
+Question: Round 9,284 to the nearest 100.
+Status: Success
+
+Question: Which calculation equals 81?
+Status: Success
+
+Question: Calculate 624 × 23.
+Status: Success
+
+Question: Calculate 748 × 36.
+Status: Success
+
+Question: Calculate 8,064 ÷ 32.
+Status: Success
+
+Question: Calculate 5,712 ÷ 28.
+Status: Success
+
+Question: What is the remainder when 4,389 is divided by 34?
+Status: Error
+Explanation: 4,389 divided by 34 is 129 with a remainder of 3 ($34 \times 129 = 4386$; $4389 - 4386 = 3$). Option B (7) is incorrect.
+
+Question: Estimate the answer to 7,980 ÷ 41.
+Status: Success
+
+Question: What is the value of 16 + 24 ÷ 6?
+Status: Success
+
+Question: What is the value of (16 + 24) ÷ 8?
+Status: Success
+
+Question: Which number is a common factor of 48 and 72?
+Status: Success
+
+Question: Which number is a common multiple of 9 and 14?
+Status: Success
+
+Question: Which number is prime?
+Status: Success
+
+Question: What is 9,604 − 4,879?
+Status: Success
+
+Question: What is 6,358 + 2,947?
+Status: Success
+
+Question: A delivery van carries 48 boxes. How many boxes are carried by 37 vans?
+Status: Success
+
+Question: 4,536 beads are shared equally among 42 children. How many beads does each child get?
+Status: Success
+
+Question: Round 7,684 to the nearest 50.
+Status: Success
+
+Question: Round 8,249 to the nearest 100.
+Status: Success
+
+Question: Which calculation equals 63?
+Status: Success
+
+Question: Which calculation equals 45?
+Status: Success
+
+Question: Calculate 684 × 27.
+Status: Error
+Explanation: $684 \times 27 = 18,468$. Option C (18,768) is incorrect.
+
+Question: Calculate 736 × 42.
+Status: Success
+
+Question: Calculate 9,072 ÷ 36.
+Status: Success
+
+Question: Calculate 6,384 ÷ 24.
+Status: Error
+Explanation: 6,384 divided by 24 is exactly 266. Option B (256) is incorrect.
+
+Question: What is the remainder when 4,725 is divided by 36?
+Status: Success
+
+Question: Estimate the answer to 8,212 ÷ 39.
+Status: Success
+
+Question: What is the value of 25 + 36 ÷ 6?
+Status: Error
+Explanation: Division is performed first: $36 \div 6 = 6$. Then, $25 + 6 = 31$. Option B (41) is incorrect.
+
+Question: What is the value of (25 + 36) ÷ 3?
+Status: Error
+Explanation: $(25 + 36) \div 3 = 61 \div 3 = 20.33...$. Option C (21) is incorrect.
+
+Question: Which number is a common factor of 36 and 54?
+Status: Success
+
+Question: Which number is a common multiple of 8 and 15?
+Status: Success
+
+Question: Which number is prime?
+Status: Success
+
+Question: What is 8,452 − 3,769?
+Status: Success
+
+Question: What is 7,284 + 1,968?
+Status: Success
+
+Question: A school orders 64 chairs for each classroom. How many chairs are needed for 39 classrooms?
+Status: Success
+
+Question: 5,040 stickers are shared equally among 48 pupils. How many stickers does each pupil get?
+Status: Success
+
+Question: Round 6,873 to the nearest 100.
+Status: Success
+
+Question: Round 9,126 to the nearest 50.
+Status: Success
+
+Question: Which calculation equals 96?
+Status: Success

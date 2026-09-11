@@ -1,0 +1,5192 @@
+[
+    {
+        "question": "Simplify the fraction 18/24.",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "6/8",
+            "C": "9/12",
+            "D": "12/18"
+        }
+    },
+    {
+        "question": "Express 3/4 and 5/8 with a common denominator.",
+        "answer": "B",
+        "options": {
+            "A": "6/8 and 5/8",
+            "B": "12/16 and 10/16",
+            "C": "9/12 and 5/12",
+            "D": "3/8 and 5/8"
+        }
+    },
+    {
+        "question": "Which fraction is larger: 7/8 or 5/6?",
+        "answer": "A",
+        "options": {
+            "A": "7/8",
+            "B": "5/6",
+            "C": "They are equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 3/4 + 5/6.",
+        "answer": "A",
+        "options": {
+            "A": "19/12",
+            "B": "10/12",
+            "C": "8/12",
+            "D": "1/12"
+        }
+    },
+    {
+        "question": "Subtract 7/8 \u2212 2/3.",
+        "answer": "B",
+        "options": {
+            "A": "5/24",
+            "B": "11/24",
+            "C": "13/24",
+            "D": "1/24"
+        }
+    },
+    {
+        "question": "Multiply 3/5 \u00d7 7/8 and simplify.",
+        "answer": "A",
+        "options": {
+            "A": "21/40",
+            "B": "10/40",
+            "C": "21/35",
+            "D": "3/13"
+        }
+    },
+    {
+        "question": "Divide 3/4 \u00f7 2.",
+        "answer": "A",
+        "options": {
+            "A": "3/8",
+            "B": "3/6",
+            "C": "6/8",
+            "D": "3/2"
+        }
+    },
+    {
+        "question": "Write 3/8 as a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.375",
+            "B": "0.38",
+            "C": "0.35",
+            "D": "0.385"
+        }
+    },
+    {
+        "question": "Write 0.625 as a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "5/8",
+            "B": "3/4",
+            "C": "7/8",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Identify the value of 6 in 4.673.",
+        "answer": "B",
+        "options": {
+            "A": "0.6",
+            "B": "0.06",
+            "C": "6",
+            "D": "0.006"
+        }
+    },
+    {
+        "question": "Multiply 0.7 \u00d7 6.",
+        "answer": "A",
+        "options": {
+            "A": "4.2",
+            "B": "0.42",
+            "C": "42",
+            "D": "4.02"
+        }
+    },
+    {
+        "question": "Divide 4.8 \u00f7 2.",
+        "answer": "A",
+        "options": {
+            "A": "2.4",
+            "B": "2.8",
+            "C": "2.0",
+            "D": "2.6"
+        }
+    },
+    {
+        "question": "Round 3.476 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "3.48",
+            "B": "3.47",
+            "C": "3.476",
+            "D": "3.5"
+        }
+    },
+    {
+        "question": "Express 3/5 as a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "60%",
+            "B": "50%",
+            "C": "75%",
+            "D": "65%"
+        }
+    },
+    {
+        "question": "Convert 0.45 to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "9/20",
+            "B": "45/100",
+            "C": "1/2",
+            "D": "4/9"
+        }
+    },
+    {
+        "question": "Which fraction is equivalent to 0.875?",
+        "answer": "A",
+        "options": {
+            "A": "7/8",
+            "B": "3/4",
+            "C": "5/8",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Compare: 9/10 or 0.91?",
+        "answer": "A",
+        "options": {
+            "A": "0.91",
+            "B": "9/10",
+            "C": "They are equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 2/3 + 3/8.",
+        "answer": "A",
+        "options": {
+            "A": "25/24",
+            "B": "7/11",
+            "C": "17/24",
+            "D": "23/24"
+        }
+    },
+    {
+        "question": "Subtract 7/6 \u2212 3/4.",
+        "answer": "C",
+        "options": {
+            "A": "11/12",
+            "B": "10/12",
+            "C": "13/12",
+            "D": "1/12"
+        }
+    },
+    {
+        "question": "Multiply 5/6 \u00d7 2/3.",
+        "answer": "A",
+        "options": {
+            "A": "5/9",
+            "B": "10/18",
+            "C": "7/9",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Divide 2/5 \u00f7 4.",
+        "answer": "C",
+        "options": {
+            "A": "1/10",
+            "B": "1/9",
+            "C": "1/20",
+            "D": "1/5"
+        }
+    },
+    {
+        "question": "Multiply 0.36 \u00d7 7.",
+        "answer": "A",
+        "options": {
+            "A": "2.52",
+            "B": "2.46",
+            "C": "2.62",
+            "D": "2.42"
+        }
+    },
+    {
+        "question": "Divide 3.6 \u00f7 4.",
+        "answer": "A",
+        "options": {
+            "A": "0.9",
+            "B": "0.8",
+            "C": "1.0",
+            "D": "1.1"
+        }
+    },
+    {
+        "question": "Round 2.647 to 1 decimal place.",
+        "answer": "B",
+        "options": {
+            "A": "2.6",
+            "B": "2.7",
+            "C": "2.64",
+            "D": "2.65"
+        }
+    },
+    {
+        "question": "Express 7/20 as a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "35%",
+            "B": "25%",
+            "C": "30%",
+            "D": "40%"
+        }
+    },
+    {
+        "question": "Convert 0.08 to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "2/25",
+            "B": "8/100",
+            "C": "1/12",
+            "D": "1/8"
+        }
+    },
+    {
+        "question": "Compare: 3/7 or 0.42?",
+        "answer": "A",
+        "options": {
+            "A": "0.42",
+            "B": "3/7",
+            "C": "They are equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Simplify the fraction 24/36 to its lowest terms.",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "3/4",
+            "C": "4/6",
+            "D": "12/18"
+        }
+    },
+    {
+        "question": "What is 48/64 in its simplest form?",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "6/8",
+            "C": "12/16",
+            "D": "24/32"
+        }
+    },
+    {
+        "question": "Simplify 35/45 using common factors.",
+        "answer": "A",
+        "options": {
+            "A": "7/9",
+            "B": "5/6",
+            "C": "3/4",
+            "D": "2/3"
+        }
+    },
+    {
+        "question": "Express 2/3 and 3/4 with the same denominator.",
+        "answer": "A",
+        "options": {
+            "A": "8/12 and 9/12",
+            "B": "6/9 and 9/12",
+            "C": "4/6 and 6/8",
+            "D": "10/15 and 12/16"
+        }
+    },
+    {
+        "question": "What is the lowest common denominator for 3/5 and 2/7?",
+        "answer": "A",
+        "options": {
+            "A": "35",
+            "B": "12",
+            "C": "70",
+            "D": "15"
+        }
+    },
+    {
+        "question": "Express 5/6 and 3/8 with the same denominator.",
+        "answer": "A",
+        "options": {
+            "A": "20/24 and 9/24",
+            "B": "15/18 and 9/24",
+            "C": "10/12 and 6/16",
+            "D": "25/30 and 15/40"
+        }
+    },
+    {
+        "question": "Order these fractions from smallest to largest: 3/4, 2/3, 5/6",
+        "answer": "A",
+        "options": {
+            "A": "2/3, 3/4, 5/6",
+            "B": "3/4, 2/3, 5/6",
+            "C": "5/6, 3/4, 2/3",
+            "D": "2/3, 5/6, 3/4"
+        }
+    },
+    {
+        "question": "Which fraction is between 1/2 and 3/4?",
+        "answer": "A",
+        "options": {
+            "A": "5/8",
+            "B": "1/3",
+            "C": "7/8",
+            "D": "1/4"
+        }
+    },
+    {
+        "question": "Compare: Which is larger, 7/8 or 5/6?",
+        "answer": "A",
+        "options": {
+            "A": "7/8",
+            "B": "5/6",
+            "C": "They are equal",
+            "D": "Cannot be determined"
+        }
+    },
+    {
+        "question": "Order these fractions from largest to smallest: 7/5, 9/10, 11/10",
+        "answer": "A",
+        "options": {
+            "A": "7/5, 11/10, 9/10",
+            "B": "9/10, 11/10, 7/5",
+            "C": "11/10, 7/5, 9/10",
+            "D": "7/5, 9/10, 11/10"
+        }
+    },
+    {
+        "question": "Which improper fraction is equal to 2 1/4?",
+        "answer": "A",
+        "options": {
+            "A": "9/4",
+            "B": "8/4",
+            "C": "7/4",
+            "D": "10/4"
+        }
+    },
+    {
+        "question": "Calculate 2/5 + 3/10",
+        "answer": "A",
+        "options": {
+            "A": "7/10",
+            "B": "5/15",
+            "C": "1/2",
+            "D": "5/10"
+        }
+    },
+    {
+        "question": "What is 3/4 + 1/6?",
+        "answer": "A",
+        "options": {
+            "A": "11/12",
+            "B": "4/10",
+            "C": "5/8",
+            "D": "7/12"
+        }
+    },
+    {
+        "question": "Calculate 5/6 - 1/3",
+        "answer": "A",
+        "options": {
+            "A": "1/2",
+            "B": "4/3",
+            "C": "2/3",
+            "D": "1/6"
+        }
+    },
+    {
+        "question": "What is 7/8 - 1/2?",
+        "answer": "A",
+        "options": {
+            "A": "3/8",
+            "B": "6/6",
+            "C": "5/8",
+            "D": "1/4"
+        }
+    },
+    {
+        "question": "Calculate 2/3 + 1/4",
+        "answer": "A",
+        "options": {
+            "A": "11/12",
+            "B": "3/7",
+            "C": "5/12",
+            "D": "3/12"
+        }
+    },
+    {
+        "question": "What is 4/5 - 2/3?",
+        "answer": "A",
+        "options": {
+            "A": "2/15",
+            "B": "2/2",
+            "C": "6/15",
+            "D": "1/5"
+        }
+    },
+    {
+        "question": "Calculate 3 2/5 + 1 1/5",
+        "answer": "A",
+        "options": {
+            "A": "4 3/5",
+            "B": "4 2/5",
+            "C": "5",
+            "D": "4 1/5"
+        }
+    },
+    {
+        "question": "What is 2 3/4 + 1 1/2?",
+        "answer": "A",
+        "options": {
+            "A": "4 1/4",
+            "B": "3 5/4",
+            "C": "3 1/4",
+            "D": "4 1/2"
+        }
+    },
+    {
+        "question": "Calculate 5 1/3 - 2 2/3",
+        "answer": "A",
+        "options": {
+            "A": "2 2/3",
+            "B": "3 2/3",
+            "C": "2 1/3",
+            "D": "3 1/3"
+        }
+    },
+    {
+        "question": "What is 4 1/6 - 1 5/6?",
+        "answer": "A",
+        "options": {
+            "A": "2 2/6 or 2 1/3",
+            "B": "3 4/6",
+            "C": "2 4/6",
+            "D": "3 2/6"
+        }
+    },
+    {
+        "question": "Calculate 1 2/3 + 2 3/4",
+        "answer": "A",
+        "options": {
+            "A": "4 5/12",
+            "B": "3 5/7",
+            "C": "4 1/2",
+            "D": "3 11/12"
+        }
+    },
+    {
+        "question": "What is 3 5/8 - 1 3/4?",
+        "answer": "A",
+        "options": {
+            "A": "1 7/8",
+            "B": "2 1/8",
+            "C": "1 2/8",
+            "D": "2 7/8"
+        }
+    },
+    {
+        "question": "Calculate 2/5 \u00d7 3/4 in simplest form",
+        "answer": "A",
+        "options": {
+            "A": "3/10",
+            "B": "6/20",
+            "C": "5/9",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "What is 3/5 \u00d7 2/3 in simplest form?",
+        "answer": "A",
+        "options": {
+            "A": "2/5",
+            "B": "6/15",
+            "C": "5/8",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "Calculate 4/5 \u00d7 5/8",
+        "answer": "A",
+        "options": {
+            "A": "1/2",
+            "B": "20/40",
+            "C": "9/13",
+            "D": "4/8"
+        }
+    },
+    {
+        "question": "What is 2/7 \u00d7 3/5 in simplest form?",
+        "answer": "A",
+        "options": {
+            "A": "6/35",
+            "B": "5/12",
+            "C": "1/5",
+            "D": "6/12"
+        }
+    },
+    {
+        "question": "Calculate 5/6 \u00d7 3/10",
+        "answer": "A",
+        "options": {
+            "A": "1/4",
+            "B": "15/60",
+            "C": "8/16",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "What is 3/8 \u00d7 4/9 in simplest form?",
+        "answer": "A",
+        "options": {
+            "A": "1/6",
+            "B": "12/72",
+            "C": "7/17",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "Calculate 2/3 \u00f7 4",
+        "answer": "A",
+        "options": {
+            "A": "1/6",
+            "B": "2/12",
+            "C": "8/3",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "What is 3/4 \u00f7 6?",
+        "answer": "A",
+        "options": {
+            "A": "1/8",
+            "B": "3/24",
+            "C": "18/4",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Calculate 5/6 \u00f7 5",
+        "answer": "A",
+        "options": {
+            "A": "1/6",
+            "B": "5/30",
+            "C": "25/6",
+            "D": "1/30"
+        }
+    },
+    {
+        "question": "What is 3/5 \u00f7 6?",
+        "answer": "A",
+        "options": {
+            "A": "1/10",
+            "B": "3/30",
+            "C": "18/5",
+            "D": "1/5"
+        }
+    },
+    {
+        "question": "Calculate 7/8 \u00f7 7",
+        "answer": "A",
+        "options": {
+            "A": "1/8",
+            "B": "7/56",
+            "C": "49/8",
+            "D": "1/56"
+        }
+    },
+    {
+        "question": "What is 5/8 as a decimal?",
+        "answer": "A",
+        "options": {
+            "A": "0.625",
+            "B": "0.58",
+            "C": "0.5",
+            "D": "0.8"
+        }
+    },
+    {
+        "question": "Convert 7/8 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.875",
+            "B": "0.78",
+            "C": "0.7",
+            "D": "0.8"
+        }
+    },
+    {
+        "question": "What is 3/16 as a decimal?",
+        "answer": "A",
+        "options": {
+            "A": "0.1875",
+            "B": "0.316",
+            "C": "0.3",
+            "D": "0.16"
+        }
+    },
+    {
+        "question": "Convert 7/20 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.35",
+            "B": "0.72",
+            "C": "0.7",
+            "D": "0.2"
+        }
+    },
+    {
+        "question": "What is 9/25 as a decimal?",
+        "answer": "A",
+        "options": {
+            "A": "0.36",
+            "B": "0.925",
+            "C": "0.9",
+            "D": "0.25"
+        }
+    },
+    {
+        "question": "In the number 12.458, what is the value of the digit 5?",
+        "answer": "A",
+        "options": {
+            "A": "5 hundredths or 0.05",
+            "B": "5 tenths or 0.5",
+            "C": "5 thousandths or 0.005",
+            "D": "5 units"
+        }
+    },
+    {
+        "question": "In the number 27.834, what is the value of the digit 3?",
+        "answer": "A",
+        "options": {
+            "A": "3 hundredths or 0.03",
+            "B": "3 tenths or 0.3",
+            "C": "3 thousandths or 0.003",
+            "D": "3 units"
+        }
+    },
+    {
+        "question": "What is 4.567 \u00d7 10?",
+        "answer": "A",
+        "options": {
+            "A": "45.67",
+            "B": "4.567",
+            "C": "0.4567",
+            "D": "456.7"
+        }
+    },
+    {
+        "question": "Calculate 0.234 \u00d7 100",
+        "answer": "A",
+        "options": {
+            "A": "23.4",
+            "B": "2.34",
+            "C": "234",
+            "D": "0.234"
+        }
+    },
+    {
+        "question": "What is 0.0456 \u00d7 1,000?",
+        "answer": "A",
+        "options": {
+            "A": "45.6",
+            "B": "4.56",
+            "C": "456",
+            "D": "0.456"
+        }
+    },
+    {
+        "question": "Calculate 456 \u00f7 100",
+        "answer": "A",
+        "options": {
+            "A": "4.56",
+            "B": "45.6",
+            "C": "0.456",
+            "D": "4,560"
+        }
+    },
+    {
+        "question": "What is 7,850 \u00f7 1,000?",
+        "answer": "A",
+        "options": {
+            "A": "7.85",
+            "B": "78.5",
+            "C": "0.785",
+            "D": "785"
+        }
+    },
+    {
+        "question": "Calculate 3.45 \u00d7 10",
+        "answer": "A",
+        "options": {
+            "A": "34.5",
+            "B": "3.45",
+            "C": "0.345",
+            "D": "345"
+        }
+    },
+    {
+        "question": "What is 1.23 \u00d7 6?",
+        "answer": "A",
+        "options": {
+            "A": "7.38",
+            "B": "7.29",
+            "C": "6.23",
+            "D": "1.29"
+        }
+    },
+    {
+        "question": "Calculate 2.45 \u00d7 3",
+        "answer": "A",
+        "options": {
+            "A": "7.35",
+            "B": "7.45",
+            "C": "6.45",
+            "D": "5.45"
+        }
+    },
+    {
+        "question": "What is 3.56 \u00d7 4?",
+        "answer": "A",
+        "options": {
+            "A": "14.24",
+            "B": "14.56",
+            "C": "12.24",
+            "D": "7.56"
+        }
+    },
+    {
+        "question": "Calculate 4.32 \u00d7 5",
+        "answer": "A",
+        "options": {
+            "A": "21.6",
+            "B": "21.32",
+            "C": "20.6",
+            "D": "9.32"
+        }
+    },
+    {
+        "question": "What is 5.67 \u00d7 8?",
+        "answer": "A",
+        "options": {
+            "A": "45.36",
+            "B": "45.67",
+            "C": "40.36",
+            "D": "13.67"
+        }
+    },
+    {
+        "question": "Calculate 6.84 \u00d7 7",
+        "answer": "A",
+        "options": {
+            "A": "47.88",
+            "B": "47.84",
+            "C": "42.88",
+            "D": "13.84"
+        }
+    },
+    {
+        "question": "If 1/3 of a length is 18 cm, what is the whole length?",
+        "answer": "A",
+        "options": {
+            "A": "54 cm",
+            "B": "21 cm",
+            "C": "6 cm",
+            "D": "36 cm"
+        }
+    },
+    {
+        "question": "If 1/6 of a number is 15, what is the number?",
+        "answer": "A",
+        "options": {
+            "A": "90",
+            "B": "21",
+            "C": "9",
+            "D": "75"
+        }
+    },
+    {
+        "question": "If 1/8 of a quantity is 9, what is the whole quantity?",
+        "answer": "A",
+        "options": {
+            "A": "72",
+            "B": "17",
+            "C": "1.125",
+            "D": "64"
+        }
+    },
+    {
+        "question": "If 2/5 of a number is 20, what is the number?",
+        "answer": "A",
+        "options": {
+            "A": "50",
+            "B": "8",
+            "C": "40",
+            "D": "25"
+        }
+    },
+    {
+        "question": "If 3/4 of a length is 24 cm, what is the whole length?",
+        "answer": "A",
+        "options": {
+            "A": "32 cm",
+            "B": "18 cm",
+            "C": "27 cm",
+            "D": "96 cm"
+        }
+    },
+    {
+        "question": "Round 12.3456 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "12.35",
+            "B": "12.34",
+            "C": "12.3",
+            "D": "12.346"
+        }
+    },
+    {
+        "question": "Round 8.7638 to 1 decimal place.",
+        "answer": "A",
+        "options": {
+            "A": "8.8",
+            "B": "8.7",
+            "C": "8.76",
+            "D": "9.0"
+        }
+    },
+    {
+        "question": "Round 15.4274 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "15.43",
+            "B": "15.42",
+            "C": "15.4",
+            "D": "15.427"
+        }
+    },
+    {
+        "question": "Round 23.8951 to the nearest tenth.",
+        "answer": "A",
+        "options": {
+            "A": "23.9",
+            "B": "23.8",
+            "C": "23.90",
+            "D": "24.0"
+        }
+    },
+    {
+        "question": "What percentage is equivalent to 7/10?",
+        "answer": "A",
+        "options": {
+            "A": "70%",
+            "B": "7%",
+            "C": "17%",
+            "D": "0.7%"
+        }
+    },
+    {
+        "question": "Convert 3/20 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "15%",
+            "B": "3%",
+            "C": "20%",
+            "D": "30%"
+        }
+    },
+    {
+        "question": "What is 7/20 as a percentage?",
+        "answer": "A",
+        "options": {
+            "A": "35%",
+            "B": "7%",
+            "C": "20%",
+            "D": "70%"
+        }
+    },
+    {
+        "question": "Convert 9/20 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "45%",
+            "B": "9%",
+            "C": "20%",
+            "D": "90%"
+        }
+    },
+    {
+        "question": "What is 13/20 as a percentage?",
+        "answer": "A",
+        "options": {
+            "A": "65%",
+            "B": "13%",
+            "C": "20%",
+            "D": "130%"
+        }
+    },
+    {
+        "question": "Convert 17/20 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "85%",
+            "B": "17%",
+            "C": "20%",
+            "D": "170%"
+        }
+    },
+    {
+        "question": "What fraction is equivalent to 40%?",
+        "answer": "A",
+        "options": {
+            "A": "2/5",
+            "B": "4/10",
+            "C": "40/100",
+            "D": "1/4"
+        }
+    },
+    {
+        "question": "Convert 60% to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "3/5",
+            "B": "60/100",
+            "C": "6/10",
+            "D": "12/20"
+        }
+    },
+    {
+        "question": "What fraction is equivalent to 80%?",
+        "answer": "A",
+        "options": {
+            "A": "4/5",
+            "B": "8/10",
+            "C": "80/100",
+            "D": "16/20"
+        }
+    },
+    {
+        "question": "Convert 35% to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "7/20",
+            "B": "35/100",
+            "C": "7/10",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "What is 0.35 as a percentage?",
+        "answer": "A",
+        "options": {
+            "A": "35%",
+            "B": "3.5%",
+            "C": "0.35%",
+            "D": "350%"
+        }
+    },
+    {
+        "question": "Convert 0.65 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "65%",
+            "B": "6.5%",
+            "C": "0.65%",
+            "D": "650%"
+        }
+    },
+    {
+        "question": "What is 0.85 as a percentage?",
+        "answer": "A",
+        "options": {
+            "A": "85%",
+            "B": "8.5%",
+            "C": "0.85%",
+            "D": "850%"
+        }
+    },
+    {
+        "question": "Convert 0.45 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "45%",
+            "B": "4.5%",
+            "C": "0.45%",
+            "D": "450%"
+        }
+    },
+    {
+        "question": "What decimal is equivalent to 15%?",
+        "answer": "A",
+        "options": {
+            "A": "0.15",
+            "B": "1.5",
+            "C": "15",
+            "D": "0.015"
+        }
+    },
+    {
+        "question": "Convert 35% to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.35",
+            "B": "3.5",
+            "C": "35",
+            "D": "0.035"
+        }
+    },
+    {
+        "question": "What is 65% as a decimal?",
+        "answer": "A",
+        "options": {
+            "A": "0.65",
+            "B": "6.5",
+            "C": "65",
+            "D": "0.065"
+        }
+    },
+    {
+        "question": "Convert 85% to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.85",
+            "B": "8.5",
+            "C": "85",
+            "D": "0.085"
+        }
+    },
+    {
+        "question": "Simplify 42/56 to its lowest terms.",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "21/28",
+            "C": "6/8",
+            "D": "7/9"
+        }
+    },
+    {
+        "question": "What is 63/81 in its simplest form?",
+        "answer": "A",
+        "options": {
+            "A": "7/9",
+            "B": "21/27",
+            "C": "3/4",
+            "D": "9/11"
+        }
+    },
+    {
+        "question": "Express 3/5 and 5/8 with the same denominator.",
+        "answer": "A",
+        "options": {
+            "A": "24/40 and 25/40",
+            "B": "15/25 and 25/40",
+            "C": "6/10 and 10/16",
+            "D": "9/15 and 15/24"
+        }
+    },
+    {
+        "question": "What is the lowest common denominator for 2/9 and 5/12?",
+        "answer": "A",
+        "options": {
+            "A": "36",
+            "B": "21",
+            "C": "108",
+            "D": "24"
+        }
+    },
+    {
+        "question": "Order these fractions from smallest to largest: 5/8, 2/3, 7/12",
+        "answer": "A",
+        "options": {
+            "A": "7/12, 5/8, 2/3",
+            "B": "2/3, 5/8, 7/12",
+            "C": "5/8, 7/12, 2/3",
+            "D": "7/12, 2/3, 5/8"
+        }
+    },
+    {
+        "question": "Which fraction is between 2/3 and 3/4?",
+        "answer": "A",
+        "options": {
+            "A": "17/24",
+            "B": "1/2",
+            "C": "7/8",
+            "D": "5/12"
+        }
+    },
+    {
+        "question": "Convert 1 3/5 to an improper fraction.",
+        "answer": "A",
+        "options": {
+            "A": "8/5",
+            "B": "4/5",
+            "C": "13/5",
+            "D": "7/5"
+        }
+    },
+    {
+        "question": "What is 13/8 as a mixed number?",
+        "answer": "A",
+        "options": {
+            "A": "1 5/8",
+            "B": "1 3/8",
+            "C": "2 5/8",
+            "D": "1 1/8"
+        }
+    },
+    {
+        "question": "Calculate 3/8 + 5/12",
+        "answer": "A",
+        "options": {
+            "A": "19/24",
+            "B": "8/20",
+            "C": "15/24",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "What is 5/6 - 3/8?",
+        "answer": "A",
+        "options": {
+            "A": "11/24",
+            "B": "2/2",
+            "C": "1/2",
+            "D": "13/24"
+        }
+    },
+    {
+        "question": "Calculate 2 3/5 + 1 4/5",
+        "answer": "A",
+        "options": {
+            "A": "4 2/5",
+            "B": "3 7/5",
+            "C": "3 2/5",
+            "D": "4 7/10"
+        }
+    },
+    {
+        "question": "What is 4 2/3 - 1 5/6?",
+        "answer": "A",
+        "options": {
+            "A": "2 5/6",
+            "B": "3 1/2",
+            "C": "2 1/2",
+            "D": "3 5/6"
+        }
+    },
+    {
+        "question": "Calculate 1 5/8 + 2 7/8",
+        "answer": "A",
+        "options": {
+            "A": "4 1/2",
+            "B": "3 12/8",
+            "C": "4 4/8",
+            "D": "3 1/2"
+        }
+    },
+    {
+        "question": "Calculate 4/7 \u00d7 3/5 in simplest form",
+        "answer": "A",
+        "options": {
+            "A": "12/35",
+            "B": "7/12",
+            "C": "1/2",
+            "D": "3/7"
+        }
+    },
+    {
+        "question": "What is 5/9 \u00d7 3/10 in simplest form?",
+        "answer": "A",
+        "options": {
+            "A": "1/6",
+            "B": "15/90",
+            "C": "8/19",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "Calculate 7/10 \u00d7 5/14",
+        "answer": "A",
+        "options": {
+            "A": "1/4",
+            "B": "35/140",
+            "C": "12/24",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "What is 4/9 \u00f7 8?",
+        "answer": "A",
+        "options": {
+            "A": "1/18",
+            "B": "4/72",
+            "C": "32/9",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Calculate 5/12 \u00f7 5",
+        "answer": "A",
+        "options": {
+            "A": "1/12",
+            "B": "5/60",
+            "C": "25/12",
+            "D": "1/60"
+        }
+    },
+    {
+        "question": "What is 9/10 \u00f7 9?",
+        "answer": "A",
+        "options": {
+            "A": "1/10",
+            "B": "9/90",
+            "C": "81/10",
+            "D": "1/90"
+        }
+    },
+    {
+        "question": "Convert 11/16 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.6875",
+            "B": "0.1116",
+            "C": "0.68",
+            "D": "0.69"
+        }
+    },
+    {
+        "question": "What is 13/16 as a decimal?",
+        "answer": "A",
+        "options": {
+            "A": "0.8125",
+            "B": "0.1316",
+            "C": "0.81",
+            "D": "0.82"
+        }
+    },
+    {
+        "question": "Convert 17/25 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.68",
+            "B": "0.1725",
+            "C": "0.17",
+            "D": "0.25"
+        }
+    },
+    {
+        "question": "What is 19/25 as a decimal?",
+        "answer": "A",
+        "options": {
+            "A": "0.76",
+            "B": "0.1925",
+            "C": "0.19",
+            "D": "0.25"
+        }
+    },
+    {
+        "question": "Calculate 2.34 \u00d7 12",
+        "answer": "A",
+        "options": {
+            "A": "28.08",
+            "B": "28.34",
+            "C": "24.08",
+            "D": "14.34"
+        }
+    },
+    {
+        "question": "What is 3.56 \u00d7 15?",
+        "answer": "A",
+        "options": {
+            "A": "53.4",
+            "B": "53.56",
+            "C": "50.4",
+            "D": "18.56"
+        }
+    },
+    {
+        "question": "Calculate 4.78 \u00d7 9",
+        "answer": "A",
+        "options": {
+            "A": "43.02",
+            "B": "43.78",
+            "C": "42.02",
+            "D": "13.78"
+        }
+    },
+    {
+        "question": "If 2/7 of a number is 14, what is the number?",
+        "answer": "A",
+        "options": {
+            "A": "49",
+            "B": "4",
+            "C": "28",
+            "D": "21"
+        }
+    },
+    {
+        "question": "If 3/5 of a length is 30 cm, what is the whole length?",
+        "answer": "A",
+        "options": {
+            "A": "50 cm",
+            "B": "18 cm",
+            "C": "90 cm",
+            "D": "45 cm"
+        }
+    },
+    {
+        "question": "If 4/9 of a quantity is 36, what is the whole quantity?",
+        "answer": "A",
+        "options": {
+            "A": "81",
+            "B": "16",
+            "C": "144",
+            "D": "45"
+        }
+    },
+    {
+        "question": "Round 18.6743 to 1 decimal place.",
+        "answer": "A",
+        "options": {
+            "A": "18.7",
+            "B": "18.6",
+            "C": "18.67",
+            "D": "19.0"
+        }
+    },
+    {
+        "question": "Round 25.3482 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "25.35",
+            "B": "25.34",
+            "C": "25.3",
+            "D": "25.348"
+        }
+    },
+    {
+        "question": "Round 47.2951 to the nearest hundredth.",
+        "answer": "A",
+        "options": {
+            "A": "47.30",
+            "B": "47.29",
+            "C": "47.3",
+            "D": "47.295"
+        }
+    },
+    {
+        "question": "What percentage is equivalent to 11/20?",
+        "answer": "A",
+        "options": {
+            "A": "55%",
+            "B": "11%",
+            "C": "20%",
+            "D": "110%"
+        }
+    },
+    {
+        "question": "Convert 19/25 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "76%",
+            "B": "19%",
+            "C": "25%",
+            "D": "190%"
+        }
+    },
+    {
+        "question": "What is 23/25 as a percentage?",
+        "answer": "A",
+        "options": {
+            "A": "92%",
+            "B": "23%",
+            "C": "25%",
+            "D": "230%"
+        }
+    },
+    {
+        "question": "Convert 7/25 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "28%",
+            "B": "7%",
+            "C": "25%",
+            "D": "70%"
+        }
+    },
+    {
+        "question": "What fraction is equivalent to 45%?",
+        "answer": "A",
+        "options": {
+            "A": "9/20",
+            "B": "45/100",
+            "C": "9/10",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Convert 55% to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "11/20",
+            "B": "55/100",
+            "C": "11/10",
+            "D": "5/10"
+        }
+    },
+    {
+        "question": "What fraction is equivalent to 70%?",
+        "answer": "A",
+        "options": {
+            "A": "7/10",
+            "B": "70/100",
+            "C": "14/20",
+            "D": "35/50"
+        }
+    },
+    {
+        "question": "Convert 90% to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "9/10",
+            "B": "90/100",
+            "C": "18/20",
+            "D": "45/50"
+        }
+    },
+    {
+        "question": "What is 0.55 as a percentage?",
+        "answer": "A",
+        "options": {
+            "A": "55%",
+            "B": "5.5%",
+            "C": "0.55%",
+            "D": "550%"
+        }
+    },
+    {
+        "question": "Convert 0.95 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "95%",
+            "B": "9.5%",
+            "C": "0.95%",
+            "D": "950%"
+        }
+    },
+    {
+        "question": "What is 0.08 as a percentage?",
+        "answer": "A",
+        "options": {
+            "A": "8%",
+            "B": "0.8%",
+            "C": "80%",
+            "D": "0.08%"
+        }
+    },
+    {
+        "question": "Convert 0.12 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "12%",
+            "B": "1.2%",
+            "C": "120%",
+            "D": "0.12%"
+        }
+    },
+    {
+        "question": "What decimal is equivalent to 45%?",
+        "answer": "A",
+        "options": {
+            "A": "0.45",
+            "B": "4.5",
+            "C": "45",
+            "D": "0.045"
+        }
+    },
+    {
+        "question": "Convert 55% to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.55",
+            "B": "5.5",
+            "C": "55",
+            "D": "0.055"
+        }
+    },
+    {
+        "question": "What is 95% as a decimal?",
+        "answer": "A",
+        "options": {
+            "A": "0.95",
+            "B": "9.5",
+            "C": "95",
+            "D": "0.095"
+        }
+    },
+    {
+        "question": "Convert 8% to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.08",
+            "B": "0.8",
+            "C": "8",
+            "D": "0.008"
+        }
+    },
+    {
+        "question": "Simplify 54/72 to its lowest terms.",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "27/36",
+            "C": "9/12",
+            "D": "6/8"
+        }
+    },
+    {
+        "question": "What is 75/100 in its simplest form?",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "15/20",
+            "C": "25/33",
+            "D": "5/6"
+        }
+    },
+    {
+        "question": "Express 4/9 and 5/12 with the same denominator.",
+        "answer": "A",
+        "options": {
+            "A": "16/36 and 15/36",
+            "B": "8/18 and 10/24",
+            "C": "12/27 and 15/36",
+            "D": "20/45 and 25/60"
+        }
+    },
+    {
+        "question": "Compare: Which is larger, 11/12 or 9/10?",
+        "answer": "A",
+        "options": {
+            "A": "11/12",
+            "B": "9/10",
+            "C": "They are equal",
+            "D": "Cannot be determined"
+        }
+    },
+    {
+        "question": "Order from largest to smallest: 13/10, 6/5, 11/10",
+        "answer": "A",
+        "options": {
+            "A": "13/10, 6/5, 11/10",
+            "B": "6/5, 13/10, 11/10",
+            "C": "11/10, 13/10, 6/5",
+            "D": "6/5, 11/10, 13/10"
+        }
+    },
+    {
+        "question": "Calculate 5/12 + 7/18",
+        "answer": "A",
+        "options": {
+            "A": "29/36",
+            "B": "12/30",
+            "C": "1/2",
+            "D": "19/36"
+        }
+    },
+    {
+        "question": "What is 7/9 - 5/12?",
+        "answer": "A",
+        "options": {
+            "A": "13/36",
+            "B": "2/3",
+            "C": "1/4",
+            "D": "23/36"
+        }
+    },
+    {
+        "question": "Calculate 3 5/6 + 2 2/3",
+        "answer": "A",
+        "options": {
+            "A": "6 1/2",
+            "B": "5 1/2",
+            "C": "6 7/9",
+            "D": "5 7/6"
+        }
+    },
+    {
+        "question": "What is 5 1/4 - 2 5/8?",
+        "answer": "A",
+        "options": {
+            "A": "2 5/8",
+            "B": "3 3/8",
+            "C": "2 3/4",
+            "D": "3 5/8"
+        }
+    },
+    {
+        "question": "Calculate 6/7 \u00d7 7/12 in simplest form",
+        "answer": "A",
+        "options": {
+            "A": "1/2",
+            "B": "42/84",
+            "C": "13/19",
+            "D": "6/12"
+        }
+    },
+    {
+        "question": "What is 8/15 \u00d7 5/12 in simplest form?",
+        "answer": "A",
+        "options": {
+            "A": "2/9",
+            "B": "40/180",
+            "C": "13/27",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "Simplify the fraction 24/36.",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "3/4",
+            "C": "4/6",
+            "D": "6/9"
+        }
+    },
+    {
+        "question": "Express 5/6 and 7/8 with a common denominator.",
+        "answer": "C",
+        "options": {
+            "A": "20/24 and 21/24",
+            "B": "40/48 and 42/48",
+            "C": "35/48 and 42/48",
+            "D": "5/8 and 7/8"
+        }
+    },
+    {
+        "question": "Which fraction is larger: 11/12 or 7/8?",
+        "answer": "A",
+        "options": {
+            "A": "11/12",
+            "B": "7/8",
+            "C": "They are equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 5/6 + 3/4.",
+        "answer": "D",
+        "options": {
+            "A": "19/12",
+            "B": "10/12",
+            "C": "11/12",
+            "D": "17/12"
+        }
+    },
+    {
+        "question": "Subtract 9/8 \u2212 5/6.",
+        "answer": "B",
+        "options": {
+            "A": "17/24",
+            "B": "19/24",
+            "C": "11/24",
+            "D": "1/24"
+        }
+    },
+    {
+        "question": "Multiply 4/5 \u00d7 3/7 and simplify.",
+        "answer": "A",
+        "options": {
+            "A": "12/35",
+            "B": "7/15",
+            "C": "12/30",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Divide 5/8 \u00f7 5.",
+        "answer": "A",
+        "options": {
+            "A": "1/8",
+            "B": "1/10",
+            "C": "1/5",
+            "D": "5/40"
+        }
+    },
+    {
+        "question": "Write 7/16 as a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.4375",
+            "B": "0.475",
+            "C": "0.44",
+            "D": "0.45"
+        }
+    },
+    {
+        "question": "Write 0.55 as a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "11/20",
+            "B": "5/9",
+            "C": "55/100",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Identify the value of 3 in 5.384.",
+        "answer": "B",
+        "options": {
+            "A": "0.3",
+            "B": "0.03",
+            "C": "3",
+            "D": "0.003"
+        }
+    },
+    {
+        "question": "Multiply 0.25 \u00d7 8.",
+        "answer": "B",
+        "options": {
+            "A": "2",
+            "B": "2.0",
+            "C": "2.5",
+            "D": "3"
+        }
+    },
+    {
+        "question": "Divide 3.2 \u00f7 4.",
+        "answer": "A",
+        "options": {
+            "A": "0.8",
+            "B": "0.9",
+            "C": "0.7",
+            "D": "0.6"
+        }
+    },
+    {
+        "question": "Round 4.678 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "4.68",
+            "B": "4.67",
+            "C": "4.7",
+            "D": "4.679"
+        }
+    },
+    {
+        "question": "Express 3/8 as a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "37.5%",
+            "B": "38%",
+            "C": "35%",
+            "D": "40%"
+        }
+    },
+    {
+        "question": "Convert 0.2 to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "1/5",
+            "B": "2/10",
+            "C": "1/4",
+            "D": "2/5"
+        }
+    },
+    {
+        "question": "Which fraction is equivalent to 0.6?",
+        "answer": "A",
+        "options": {
+            "A": "3/5",
+            "B": "2/5",
+            "C": "1/2",
+            "D": "6/10"
+        }
+    },
+    {
+        "question": "Compare: 4/9 or 0.44?",
+        "answer": "A",
+        "options": {
+            "A": "4/9",
+            "B": "0.44",
+            "C": "They are equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 7/12 + 5/18.",
+        "answer": "C",
+        "options": {
+            "A": "19/18",
+            "B": "14/30",
+            "C": "29/36",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "Subtract 11/10 \u2212 7/20.",
+        "answer": "B",
+        "options": {
+            "A": "15/20",
+            "B": "19/20",
+            "C": "13/20",
+            "D": "12/20"
+        }
+    },
+    {
+        "question": "Multiply 7/9 \u00d7 3/4.",
+        "answer": "B",
+        "options": {
+            "A": "7/12",
+            "B": "21/36",
+            "C": "7/6",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Simplify the fraction 18/24.",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "6/8",
+            "C": "2/3",
+            "D": "9/12"
+        }
+    },
+    {
+        "question": "Simplify the fraction 45/60.",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "4/5",
+            "C": "2/3",
+            "D": "5/6"
+        }
+    },
+    {
+        "question": "Express 2/3 and 3/4 with a common denominator.",
+        "answer": "A",
+        "options": {
+            "A": "8/12 and 9/12",
+            "B": "6/9 and 9/12",
+            "C": "4/6 and 3/4",
+            "D": "2/6 and 3/8"
+        }
+    },
+    {
+        "question": "Which fraction is larger: 5/8 or 7/12?",
+        "answer": "A",
+        "options": {
+            "A": "5/8",
+            "B": "7/12",
+            "C": "They are equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Order these fractions from smallest to largest: 3/5, 4/7, 5/6.",
+        "answer": "A",
+        "options": {
+            "A": "4/7, 3/5, 5/6",
+            "B": "3/5, 4/7, 5/6",
+            "C": "5/6, 3/5, 4/7",
+            "D": "4/7, 5/6, 3/5"
+        }
+    },
+    {
+        "question": "Add 3/4 + 5/6.",
+        "answer": "A",
+        "options": {
+            "A": "19/12",
+            "B": "8/10",
+            "C": "1 1/2",
+            "D": "7/10"
+        }
+    },
+    {
+        "question": "Subtract 7/8 \u2212 2/3.",
+        "answer": "B",
+        "options": {
+            "A": "5/24",
+            "B": "11/24",
+            "C": "1/2",
+            "D": "7/24"
+        }
+    },
+    {
+        "question": "Add 1 2/5 + 2 3/4.",
+        "answer": "A",
+        "options": {
+            "A": "4 3/20",
+            "B": "3 1/2",
+            "C": "4 1/2",
+            "D": "5"
+        }
+    },
+    {
+        "question": "Multiply 2/3 \u00d7 3/5.",
+        "answer": "A",
+        "options": {
+            "A": "2/5",
+            "B": "3/8",
+            "C": "1/2",
+            "D": "6/15"
+        }
+    },
+    {
+        "question": "Multiply 4/7 \u00d7 7/9.",
+        "answer": "A",
+        "options": {
+            "A": "4/9",
+            "B": "1/2",
+            "C": "1/3",
+            "D": "28/63"
+        }
+    },
+    {
+        "question": "Divide 3/5 \u00f7 3.",
+        "answer": "A",
+        "options": {
+            "A": "1/5",
+            "B": "1/3",
+            "C": "2/5",
+            "D": "3/15"
+        }
+    },
+    {
+        "question": "Divide 7/8 \u00f7 2.",
+        "answer": "A",
+        "options": {
+            "A": "7/16",
+            "B": "7/10",
+            "C": "1/2",
+            "D": "7/4"
+        }
+    },
+    {
+        "question": "Convert 3/8 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.375",
+            "B": "0.35",
+            "C": "0.38",
+            "D": "0.4"
+        }
+    },
+    {
+        "question": "Convert 5/8 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.625",
+            "B": "0.6250",
+            "C": "0.65",
+            "D": "0.6"
+        }
+    },
+    {
+        "question": "Convert 7/10 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.7",
+            "B": "0.07",
+            "C": "0.75",
+            "D": "0.77"
+        }
+    },
+    {
+        "question": "Write 0.375 as a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "3/8",
+            "B": "37/100",
+            "C": "3/10",
+            "D": "7/20"
+        }
+    },
+    {
+        "question": "Write 0.6 as a fraction.",
+        "answer": "A",
+        "options": {
+            "A": "3/5",
+            "B": "6/10",
+            "C": "2/5",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Simplify the fraction 12/18.",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "3/2",
+            "C": "6/9",
+            "D": "4/9"
+        }
+    },
+    {
+        "question": "Which fraction is equivalent to 3/4?",
+        "answer": "A",
+        "options": {
+            "A": "6/8",
+            "B": "3/8",
+            "C": "4/3",
+            "D": "9/16"
+        }
+    },
+    {
+        "question": "Put these fractions in ascending order: 1/2, 3/4, 2/3.",
+        "answer": "A",
+        "options": {
+            "A": "1/2, 2/3, 3/4",
+            "B": "1/2, 3/4, 2/3",
+            "C": "2/3, 1/2, 3/4",
+            "D": "3/4, 2/3, 1/2"
+        }
+    },
+    {
+        "question": "Which fraction is greater than 1?",
+        "answer": "A",
+        "options": {
+            "A": "5/4",
+            "B": "3/5",
+            "C": "4/5",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "Calculate 1/2 + 1/8.",
+        "answer": "A",
+        "options": {
+            "A": "5/8",
+            "B": "2/10",
+            "C": "3/8",
+            "D": "1/16"
+        }
+    },
+    {
+        "question": "Work out 3/4 \u2212 1/3.",
+        "answer": "A",
+        "options": {
+            "A": "5/12",
+            "B": "2/1",
+            "C": "1/12",
+            "D": "1/4"
+        }
+    },
+    {
+        "question": "Calculate 1 1/2 + 2 1/4.",
+        "answer": "A",
+        "options": {
+            "A": "3 3/4",
+            "B": "3 1/4",
+            "C": "4",
+            "D": "2 3/4"
+        }
+    },
+    {
+        "question": "Calculate 1/4 \u00d7 1/2.",
+        "answer": "A",
+        "options": {
+            "A": "1/8",
+            "B": "1/6",
+            "C": "2/6",
+            "D": "1/4"
+        }
+    },
+    {
+        "question": "Calculate 1/3 \u00f7 2.",
+        "answer": "A",
+        "options": {
+            "A": "1/6",
+            "B": "2/3",
+            "C": "1/5",
+            "D": "2/6"
+        }
+    },
+    {
+        "question": "What is the decimal equivalent of 3/8?",
+        "answer": "A",
+        "options": {
+            "A": "0.375",
+            "B": "0.38",
+            "C": "0.35",
+            "D": "0.325"
+        }
+    },
+    {
+        "question": "What is the value of the 6 in 4.762?",
+        "answer": "A",
+        "options": {
+            "A": "Six hundredths",
+            "B": "Six tenths",
+            "C": "Six thousandths",
+            "D": "Six ones"
+        }
+    },
+    {
+        "question": "Calculate 3.4 \u00d7 10.",
+        "answer": "A",
+        "options": {
+            "A": "34",
+            "B": "0.34",
+            "C": "3.04",
+            "D": "304"
+        }
+    },
+    {
+        "question": "Calculate 5.6 \u00f7 100.",
+        "answer": "A",
+        "options": {
+            "A": "0.056",
+            "B": "0.56",
+            "C": "56",
+            "D": "5.06"
+        }
+    },
+    {
+        "question": "Calculate 0.8 \u00d7 7.",
+        "answer": "A",
+        "options": {
+            "A": "5.6",
+            "B": "56",
+            "C": "0.56",
+            "D": "6.2"
+        }
+    },
+    {
+        "question": "Calculate 4.2 \u00f7 6.",
+        "answer": "A",
+        "options": {
+            "A": "0.7",
+            "B": "7",
+            "C": "0.42",
+            "D": "0.6"
+        }
+    },
+    {
+        "question": "Round 3.746 to two decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "3.75",
+            "B": "3.74",
+            "C": "3.70",
+            "D": "3.76"
+        }
+    },
+    {
+        "question": "Which is equivalent to 25%?",
+        "answer": "A",
+        "options": {
+            "A": "1/4",
+            "B": "1/5",
+            "C": "0.5",
+            "D": "3/4"
+        }
+    },
+    {
+        "question": "Which decimal is equal to 3/5?",
+        "answer": "A",
+        "options": {
+            "A": "0.6",
+            "B": "0.35",
+            "C": "0.75",
+            "D": "0.3"
+        }
+    },
+    {
+        "question": "Which percentage is equal to 0.2?",
+        "answer": "A",
+        "options": {
+            "A": "20%",
+            "B": "2%",
+            "C": "200%",
+            "D": "12%"
+        }
+    },
+    {
+        "question": "One quarter of a rope is 36 cm. What is the full length?",
+        "answer": "A",
+        "options": {
+            "A": "144 cm",
+            "B": "72 cm",
+            "C": "108 cm",
+            "D": "36 cm"
+        }
+    },
+    {
+        "question": "Simplify the fraction 36/54.",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "3/4",
+            "C": "4/6",
+            "D": "6/9"
+        }
+    },
+    {
+        "question": "Express 2/3 and 5/8 with a common denominator.",
+        "answer": "A",
+        "options": {
+            "A": "16/24 and 15/24",
+            "B": "8/12 and 5/12",
+            "C": "2/8 and 5/8",
+            "D": "6/9 and 5/8"
+        }
+    },
+    {
+        "question": "Which is larger: 5/6 or 4/5?",
+        "answer": "A",
+        "options": {
+            "A": "5/6",
+            "B": "4/5",
+            "C": "Equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 3/5 + 7/10.",
+        "answer": "A",
+        "options": {
+            "A": "13/10",
+            "B": "1",
+            "C": "17/10",
+            "D": "5/10"
+        }
+    },
+    {
+        "question": "Subtract 7/8 \u2212 5/12.",
+        "answer": "C",
+        "options": {
+            "A": "11/24",
+            "B": "13/24",
+            "C": "19/24",
+            "D": "17/24"
+        }
+    },
+    {
+        "question": "Multiply 2/3 \u00d7 3/5.",
+        "answer": "B",
+        "options": {
+            "A": "6/15",
+            "B": "2/5",
+            "C": "5/6",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Divide 4/7 \u00f7 2.",
+        "answer": "A",
+        "options": {
+            "A": "2/7",
+            "B": "4/14",
+            "C": "1/7",
+            "D": "4/9"
+        }
+    },
+    {
+        "question": "Convert 5/16 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.3125",
+            "B": "0.32",
+            "C": "0.315",
+            "D": "0.35"
+        }
+    },
+    {
+        "question": "Write 0.875 as a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "7/8",
+            "B": "8/9",
+            "C": "35/40",
+            "D": "7/9"
+        }
+    },
+    {
+        "question": "What is the value of 6 in 4.672?",
+        "answer": "B",
+        "options": {
+            "A": "0.06",
+            "B": "0.6",
+            "C": "6",
+            "D": "0.006"
+        }
+    },
+    {
+        "question": "Multiply 0.36 \u00d7 5.",
+        "answer": "A",
+        "options": {
+            "A": "1.8",
+            "B": "18",
+            "C": "0.81",
+            "D": "1.26"
+        }
+    },
+    {
+        "question": "Divide 2.4 \u00f7 6.",
+        "answer": "A",
+        "options": {
+            "A": "0.4",
+            "B": "0.6",
+            "C": "0.04",
+            "D": "1.4"
+        }
+    },
+    {
+        "question": "Round 3.467 to 1 decimal place.",
+        "answer": "A",
+        "options": {
+            "A": "3.5",
+            "B": "3.4",
+            "C": "3.47",
+            "D": "3.46"
+        }
+    },
+    {
+        "question": "Convert 7/20 to a percentage.",
+        "answer": "B",
+        "options": {
+            "A": "35%",
+            "B": "37.5%",
+            "C": "36%",
+            "D": "34%"
+        }
+    },
+    {
+        "question": "Convert 0.45 to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "9/20",
+            "B": "45/100",
+            "C": "4/9",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Which fraction equals 0.75?",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "7/10",
+            "C": "1/2",
+            "D": "2/5"
+        }
+    },
+    {
+        "question": "Compare: 5/8 or 0.6?",
+        "answer": "A",
+        "options": {
+            "A": "5/8",
+            "B": "0.6",
+            "C": "Equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 2/3 + 3/4.",
+        "answer": "A",
+        "options": {
+            "A": "17/12",
+            "B": "5/7",
+            "C": "13/12",
+            "D": "1 1/4"
+        }
+    },
+    {
+        "question": "Subtract 5/6 \u2212 2/9.",
+        "answer": "B",
+        "options": {
+            "A": "11/18",
+            "B": "13/18",
+            "C": "12/18",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "Multiply 0.4 \u00d7 7.",
+        "answer": "A",
+        "options": {
+            "A": "2.8",
+            "B": "3.1",
+            "C": "2.4",
+            "D": "3.5"
+        }
+    },
+    {
+        "question": "Multiply 0.25 \u00d7 8.",
+        "answer": "A",
+        "options": {
+            "A": "2",
+            "B": "2.5",
+            "C": "3",
+            "D": "1.5"
+        }
+    },
+    {
+        "question": "Multiply 0.6 \u00d7 9.",
+        "answer": "A",
+        "options": {
+            "A": "5.4",
+            "B": "4.5",
+            "C": "6",
+            "D": "5"
+        }
+    },
+    {
+        "question": "Divide 2.4 \u00f7 4.",
+        "answer": "A",
+        "options": {
+            "A": "0.6",
+            "B": "0.5",
+            "C": "0.4",
+            "D": "0.7"
+        }
+    },
+    {
+        "question": "Divide 3.75 \u00f7 5.",
+        "answer": "A",
+        "options": {
+            "A": "0.75",
+            "B": "0.85",
+            "C": "0.7",
+            "D": "1"
+        }
+    },
+    {
+        "question": "Round 4.678 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "4.68",
+            "B": "4.67",
+            "C": "4.7",
+            "D": "4.679"
+        }
+    },
+    {
+        "question": "Round 0.3461 to 2 decimal places.",
+        "answer": "B",
+        "options": {
+            "A": "0.35",
+            "B": "0.34",
+            "C": "0.346",
+            "D": "0.36"
+        }
+    },
+    {
+        "question": "Write 3/4 as a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "75%",
+            "B": "25%",
+            "C": "60%",
+            "D": "80%"
+        }
+    },
+    {
+        "question": "Write 7/10 as a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "70%",
+            "B": "7%",
+            "C": "75%",
+            "D": "60%"
+        }
+    },
+    {
+        "question": "Convert 0.25 to a fraction.",
+        "answer": "A",
+        "options": {
+            "A": "1/4",
+            "B": "1/3",
+            "C": "2/5",
+            "D": "3/4"
+        }
+    },
+    {
+        "question": "Convert 0.6 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "60%",
+            "B": "6%",
+            "C": "0.6%",
+            "D": "6.0%"
+        }
+    },
+    {
+        "question": "Convert 3/5 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.6",
+            "B": "0.5",
+            "C": "0.3",
+            "D": "0.8"
+        }
+    },
+    {
+        "question": "Multiply 0.8 \u00d7 6.",
+        "answer": "A",
+        "options": {
+            "A": "4.8",
+            "B": "5",
+            "C": "4.6",
+            "D": "5.2"
+        }
+    },
+    {
+        "question": "Divide 1.2 \u00f7 3.",
+        "answer": "A",
+        "options": {
+            "A": "0.4",
+            "B": "0.3",
+            "C": "0.5",
+            "D": "0.6"
+        }
+    },
+    {
+        "question": "Which fraction is equivalent to 2/5?",
+        "answer": "A",
+        "options": {
+            "A": "4/10",
+            "B": "3/10",
+            "C": "3/5",
+            "D": "2/10"
+        }
+    },
+    {
+        "question": "Simplify 16/20.",
+        "answer": "A",
+        "options": {
+            "A": "4/5",
+            "B": "8/10",
+            "C": "2/3",
+            "D": "3/4"
+        }
+    },
+    {
+        "question": "Add 5/12 + 1/3.",
+        "answer": "A",
+        "options": {
+            "A": "9/12",
+            "B": "6/12",
+            "C": "7/12",
+            "D": "5/15"
+        }
+    },
+    {
+        "question": "Subtract 7/10 \u2212 2/5.",
+        "answer": "A",
+        "options": {
+            "A": "3/10",
+            "B": "5/10",
+            "C": "1/2",
+            "D": "2/5"
+        }
+    },
+    {
+        "question": "Multiply 3/4 \u00d7 2/3.",
+        "answer": "A",
+        "options": {
+            "A": "1/2",
+            "B": "1/3",
+            "C": "1/4",
+            "D": "2/3"
+        }
+    },
+    {
+        "question": "Divide 5/6 \u00f7 5.",
+        "answer": "A",
+        "options": {
+            "A": "1/6",
+            "B": "1/5",
+            "C": "5/30",
+            "D": "5/1"
+        }
+    },
+    {
+        "question": "Convert 0.875 to a fraction.",
+        "answer": "A",
+        "options": {
+            "A": "7/8",
+            "B": "8/10",
+            "C": "3/4",
+            "D": "5/8"
+        }
+    },
+    {
+        "question": "Round 0.462 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "0.46",
+            "B": "0.47",
+            "C": "0.462",
+            "D": "0.45"
+        }
+    },
+    {
+        "question": "Convert 3/20 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.15",
+            "B": "0.13",
+            "C": "0.12",
+            "D": "0.2"
+        }
+    },
+    {
+        "question": "Convert 1/8 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "12.5%",
+            "B": "8%",
+            "C": "10%",
+            "D": "15%"
+        }
+    },
+    {
+        "question": "Multiply 0.05 \u00d7 9.",
+        "answer": "A",
+        "options": {
+            "A": "0.45",
+            "B": "0.5",
+            "C": "0.9",
+            "D": "0.4"
+        }
+    },
+    {
+        "question": "Divide 0.72 \u00f7 8.",
+        "answer": "A",
+        "options": {
+            "A": "0.09",
+            "B": "0.08",
+            "C": "0.1",
+            "D": "0.12"
+        }
+    },
+    {
+        "question": "Express 6/8 in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "2/3",
+            "C": "6/8",
+            "D": "4/5"
+        }
+    },
+    {
+        "question": "Simplify the fraction 12/18.",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "3/2",
+            "C": "6/9",
+            "D": "4/9"
+        }
+    },
+    {
+        "question": "Which fraction is equivalent to 5/6?",
+        "answer": "A",
+        "options": {
+            "A": "10/12",
+            "B": "5/12",
+            "C": "6/5",
+            "D": "15/18"
+        }
+    },
+    {
+        "question": "Simplify 20/30.",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "3/2",
+            "C": "10/15",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "Which is equivalent to 3/5?",
+        "answer": "A",
+        "options": {
+            "A": "6/10",
+            "B": "9/10",
+            "C": "5/3",
+            "D": "15/20"
+        }
+    },
+    {
+        "question": "Simplify 16/24.",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "4/6",
+            "C": "8/12",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "Which fraction equals 7/8?",
+        "answer": "A",
+        "options": {
+            "A": "14/16",
+            "B": "21/32",
+            "C": "7/16",
+            "D": "28/24"
+        }
+    },
+    {
+        "question": "Simplify 18/27.",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "3/2",
+            "C": "6/9",
+            "D": "1/9"
+        }
+    },
+    {
+        "question": "Which fraction is the same as 4/9?",
+        "answer": "A",
+        "options": {
+            "A": "8/18",
+            "B": "12/18",
+            "C": "4/18",
+            "D": "16/36"
+        }
+    },
+    {
+        "question": "Simplify 21/28.",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "4/3",
+            "C": "7/9",
+            "D": "6/8"
+        }
+    },
+    {
+        "question": "Which fraction equals 9/10?",
+        "answer": "A",
+        "options": {
+            "A": "18/20",
+            "B": "27/30",
+            "C": "9/20",
+            "D": "30/90"
+        }
+    },
+    {
+        "question": "Which is greater?",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "2/3",
+            "C": "5/8",
+            "D": "7/12"
+        }
+    },
+    {
+        "question": "Order from smallest to largest: 1/2, 2/3, 3/4.",
+        "answer": "A",
+        "options": {
+            "A": "1/2, 2/3, 3/4",
+            "B": "3/4, 2/3, 1/2",
+            "C": "2/3, 1/2, 3/4",
+            "D": "1/2, 3/4, 2/3"
+        }
+    },
+    {
+        "question": "Which fraction is more than 1?",
+        "answer": "A",
+        "options": {
+            "A": "6/5",
+            "B": "5/6",
+            "C": "4/7",
+            "D": "3/8"
+        }
+    },
+    {
+        "question": "Which is the smallest?",
+        "answer": "A",
+        "options": {
+            "A": "3/8",
+            "B": "1/2",
+            "C": "5/8",
+            "D": "7/8"
+        }
+    },
+    {
+        "question": "Which is larger: 4/5 or 7/10?",
+        "answer": "A",
+        "options": {
+            "A": "4/5",
+            "B": "7/10",
+            "C": "Equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Order from largest: 2/3, 5/6, 3/4.",
+        "answer": "A",
+        "options": {
+            "A": "5/6, 3/4, 2/3",
+            "B": "2/3, 3/4, 5/6",
+            "C": "3/4, 5/6, 2/3",
+            "D": "3/4, 2/3, 5/6"
+        }
+    },
+    {
+        "question": "Calculate 1/2 + 1/4.",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "2/6",
+            "C": "1/6",
+            "D": "1/8"
+        }
+    },
+    {
+        "question": "Calculate 3/4 \u2212 1/8.",
+        "answer": "A",
+        "options": {
+            "A": "5/8",
+            "B": "2/8",
+            "C": "3/8",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Calculate 2/3 + 1/6.",
+        "answer": "A",
+        "options": {
+            "A": "5/6",
+            "B": "3/6",
+            "C": "1",
+            "D": "4/6"
+        }
+    },
+    {
+        "question": "Calculate 5/6 \u2212 1/3.",
+        "answer": "A",
+        "options": {
+            "A": "1/2",
+            "B": "4/6",
+            "C": "2/6",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "Calculate 1 1/2 + 1/4.",
+        "answer": "A",
+        "options": {
+            "A": "1 3/4",
+            "B": "2",
+            "C": "1 1/4",
+            "D": "2 1/4"
+        }
+    },
+    {
+        "question": "Calculate 2 \u00d7 1/3.",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "1/6",
+            "C": "3/2",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "Calculate 1/4 \u00d7 3/5.",
+        "answer": "A",
+        "options": {
+            "A": "3/20",
+            "B": "3/9",
+            "C": "4/15",
+            "D": "1/20"
+        }
+    },
+    {
+        "question": "Calculate 1/3 \u00f7 3.",
+        "answer": "A",
+        "options": {
+            "A": "1/9",
+            "B": "1/6",
+            "C": "3/1",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "What is 3/5 as a decimal?",
+        "answer": "A",
+        "options": {
+            "A": "0.6",
+            "B": "0.35",
+            "C": "0.75",
+            "D": "0.3"
+        }
+    },
+    {
+        "question": "What percentage is 0.25?",
+        "answer": "A",
+        "options": {
+            "A": "25%",
+            "B": "2.5%",
+            "C": "250%",
+            "D": "12.5%"
+        }
+    },
+    {
+        "question": "Which fraction equals 40%?",
+        "answer": "A",
+        "options": {
+            "A": "2/5",
+            "B": "4/10",
+            "C": "1/5",
+            "D": "3/5"
+        }
+    },
+    {
+        "question": "Round 6.347 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "6.35",
+            "B": "6.34",
+            "C": "6.30",
+            "D": "6.37"
+        }
+    },
+    {
+        "question": "What is the value of the 7 in 4.372?",
+        "answer": "A",
+        "options": {
+            "A": "Seven hundredths",
+            "B": "Seven tenths",
+            "C": "Seven thousandths",
+            "D": "Seven ones"
+        }
+    },
+    {
+        "question": "Calculate 0.6 \u00d7 8.",
+        "answer": "A",
+        "options": {
+            "A": "4.8",
+            "B": "48",
+            "C": "0.48",
+            "D": "6.8"
+        }
+    },
+    {
+        "question": "Calculate 4.5 \u00f7 5.",
+        "answer": "A",
+        "options": {
+            "A": "0.9",
+            "B": "9",
+            "C": "0.45",
+            "D": "1.1"
+        }
+    },
+    {
+        "question": "Half of a number is 18. What is the number?",
+        "answer": "A",
+        "options": {
+            "A": "36",
+            "B": "9",
+            "C": "24",
+            "D": "30"
+        }
+    },
+    {
+        "question": "One third of a rope is 50 cm. How long is the rope?",
+        "answer": "A",
+        "options": {
+            "A": "150 cm",
+            "B": "100 cm",
+            "C": "75 cm",
+            "D": "200 cm"
+        }
+    },
+    {
+        "question": "Which is equal to 0.75?",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "1/4",
+            "C": "2/3",
+            "D": "7/10"
+        }
+    },
+    {
+        "question": "What is 20% of 60?",
+        "answer": "A",
+        "options": {
+            "A": "12",
+            "B": "20",
+            "C": "6",
+            "D": "30"
+        }
+    },
+    {
+        "question": "Which is greater: 0.4 or 3/10?",
+        "answer": "A",
+        "options": {
+            "A": "0.4",
+            "B": "3/10",
+            "C": "Equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Round 12.864 to the nearest whole number.",
+        "answer": "A",
+        "options": {
+            "A": "13",
+            "B": "12",
+            "C": "12.8",
+            "D": "14"
+        }
+    },
+    {
+        "question": "Convert 1/8 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.125",
+            "B": "0.18",
+            "C": "0.25",
+            "D": "0.012"
+        }
+    },
+    {
+        "question": "Which percentage equals 1/2?",
+        "answer": "A",
+        "options": {
+            "A": "50%",
+            "B": "25%",
+            "C": "75%",
+            "D": "10%"
+        }
+    },
+    {
+        "question": "Calculate 2.4 \u00d7 3.",
+        "answer": "A",
+        "options": {
+            "A": "7.2",
+            "B": "0.72",
+            "C": "24",
+            "D": "6.2"
+        }
+    },
+    {
+        "question": "Calculate 6 \u00f7 0.5.",
+        "answer": "A",
+        "options": {
+            "A": "12",
+            "B": "3",
+            "C": "6",
+            "D": "0.3"
+        }
+    },
+    {
+        "question": "Add 2/3 + 1/6.",
+        "answer": "A",
+        "options": {
+            "A": "5/6",
+            "B": "3/6",
+            "C": "1/2",
+            "D": "2/9"
+        }
+    },
+    {
+        "question": "Subtract 9/10 \u2212 3/5.",
+        "answer": "A",
+        "options": {
+            "A": "3/10",
+            "B": "6/10",
+            "C": "1/2",
+            "D": "2/5"
+        }
+    },
+    {
+        "question": "Multiply 5/6 \u00d7 3/4.",
+        "answer": "A",
+        "options": {
+            "A": "5/8",
+            "B": "15/24",
+            "C": "3/10",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Divide 7/8 \u00f7 7.",
+        "answer": "A",
+        "options": {
+            "A": "1/8",
+            "B": "7/56",
+            "C": "1/7",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Simplify 12/16.",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "6/8",
+            "C": "2/3",
+            "D": "4/5"
+        }
+    },
+    {
+        "question": "Compare: Which is greater, 7/10 or 3/4?",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "7/10",
+            "C": "They are equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Order these fractions from smallest to largest: 1/2, 2/3, 3/4.",
+        "answer": "A",
+        "options": {
+            "A": "1/2, 2/3, 3/4",
+            "B": "2/3, 1/2, 3/4",
+            "C": "3/4, 2/3, 1/2",
+            "D": "1/2, 3/4, 2/3"
+        }
+    },
+    {
+        "question": "Convert 5/8 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.625",
+            "B": "0.58",
+            "C": "0.6",
+            "D": "0.65"
+        }
+    },
+    {
+        "question": "Convert 0.875 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "87.5%",
+            "B": "85%",
+            "C": "8.75%",
+            "D": "80%"
+        }
+    },
+    {
+        "question": "Convert 3/20 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "15%",
+            "B": "20%",
+            "C": "12%",
+            "D": "10%"
+        }
+    },
+    {
+        "question": "Multiply 0.75 \u00d7 4.",
+        "answer": "A",
+        "options": {
+            "A": "3",
+            "B": "2.5",
+            "C": "3.5",
+            "D": "4"
+        }
+    },
+    {
+        "question": "Divide 1.2 \u00f7 6.",
+        "answer": "B",
+        "options": {
+            "A": "0.2",
+            "B": "0.3",
+            "C": "0.5",
+            "D": "0.4"
+        }
+    },
+    {
+        "question": "Write 7/25 as a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.28",
+            "B": "0.27",
+            "C": "0.3",
+            "D": "0.25"
+        }
+    },
+    {
+        "question": "Round 0.786 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "0.79",
+            "B": "0.78",
+            "C": "0.8",
+            "D": "0.77"
+        }
+    },
+    {
+        "question": "Convert 11/20 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.55",
+            "B": "0.5",
+            "C": "0.6",
+            "D": "0.45"
+        }
+    },
+    {
+        "question": "Convert 0.4 to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "2/5",
+            "B": "4/10",
+            "C": "1/4",
+            "D": "3/5"
+        }
+    },
+    {
+        "question": "Simplify 18/24.",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "6/8",
+            "C": "2/3",
+            "D": "4/5"
+        }
+    },
+    {
+        "question": "Add 3/8 + 5/8.",
+        "answer": "A",
+        "options": {
+            "A": "1",
+            "B": "8/8",
+            "C": "7/8",
+            "D": "3/4"
+        }
+    },
+    {
+        "question": "Subtract 13/20 \u2212 1/4.",
+        "answer": "A",
+        "options": {
+            "A": "8/20",
+            "B": "12/20",
+            "C": "3/20",
+            "D": "10/20"
+        }
+    },
+    {
+        "question": "Multiply 7/10 \u00d7 5/7.",
+        "answer": "A",
+        "options": {
+            "A": "1/2",
+            "B": "1/3",
+            "C": "5/14",
+            "D": "7/10"
+        }
+    },
+    {
+        "question": "Divide 3/4 \u00f7 3.",
+        "answer": "A",
+        "options": {
+            "A": "1/4",
+            "B": "1/3",
+            "C": "3/12",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Simplify the fraction 18/27.",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "3/4",
+            "C": "6/9",
+            "D": "3/6"
+        }
+    },
+    {
+        "question": "Express 3/4 and 5/6 with a common denominator.",
+        "answer": "A",
+        "options": {
+            "A": "9/12 and 10/12",
+            "B": "6/8 and 5/6",
+            "C": "3/6 and 5/6",
+            "D": "12/16 and 15/16"
+        }
+    },
+    {
+        "question": "Which fraction is larger: 7/8 or 5/6?",
+        "answer": "A",
+        "options": {
+            "A": "7/8",
+            "B": "5/6",
+            "C": "Equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 5/12 + 7/18.",
+        "answer": "A",
+        "options": {
+            "A": "23/36",
+            "B": "12/30",
+            "C": "1",
+            "D": "11/18"
+        }
+    },
+    {
+        "question": "Subtract 9/10 \u2212 2/5.",
+        "answer": "D",
+        "options": {
+            "A": "5/10",
+            "B": "1/2",
+            "C": "1/5",
+            "D": "7/10"
+        }
+    },
+    {
+        "question": "Multiply 3/7 \u00d7 2/5.",
+        "answer": "A",
+        "options": {
+            "A": "6/35",
+            "B": "5/14",
+            "C": "2/12",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Divide 5/6 \u00f7 3.",
+        "answer": "A",
+        "options": {
+            "A": "5/18",
+            "B": "1/2",
+            "C": "5/9",
+            "D": "3/6"
+        }
+    },
+    {
+        "question": "Convert 7/20 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.35",
+            "B": "0.37",
+            "C": "0.375",
+            "D": "0.36"
+        }
+    },
+    {
+        "question": "Write 0.625 as a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "5/8",
+            "B": "3/5",
+            "C": "625/1000",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Identify the value of 8 in 6.482.",
+        "answer": "B",
+        "options": {
+            "A": "0.08",
+            "B": "0.8",
+            "C": "8",
+            "D": "0.008"
+        }
+    },
+    {
+        "question": "Multiply 0.42 \u00d7 6.",
+        "answer": "A",
+        "options": {
+            "A": "2.52",
+            "B": "2.62",
+            "C": "25.2",
+            "D": "0.252"
+        }
+    },
+    {
+        "question": "Divide 1.44 \u00f7 3.",
+        "answer": "A",
+        "options": {
+            "A": "0.48",
+            "B": "0.42",
+            "C": "0.4",
+            "D": "0.12"
+        }
+    },
+    {
+        "question": "Round 2.678 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "2.68",
+            "B": "2.67",
+            "C": "2.7",
+            "D": "2.679"
+        }
+    },
+    {
+        "question": "Convert 9/25 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "36%",
+            "B": "35%",
+            "C": "37%",
+            "D": "34%"
+        }
+    },
+    {
+        "question": "Convert 0.2 to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "1/5",
+            "B": "2/10",
+            "C": "1/2",
+            "D": "2/5"
+        }
+    },
+    {
+        "question": "Which fraction equals 0.8?",
+        "answer": "A",
+        "options": {
+            "A": "4/5",
+            "B": "2/3",
+            "C": "8/10",
+            "D": "3/4"
+        }
+    },
+    {
+        "question": "Compare: 11/15 or 0.72?",
+        "answer": "A",
+        "options": {
+            "A": "11/15",
+            "B": "0.72",
+            "C": "Equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 3/8 + 5/12.",
+        "answer": "C",
+        "options": {
+            "A": "11/12",
+            "B": "13/24",
+            "C": "19/24",
+            "D": "1"
+        }
+    },
+    {
+        "question": "Subtract 7/9 \u2212 2/3.",
+        "answer": "B",
+        "options": {
+            "A": "1/9",
+            "B": "5/9",
+            "C": "7/9",
+            "D": "2/9"
+        }
+    },
+    {
+        "question": "Simplify the fraction 24/36.",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "3/4",
+            "C": "4/6",
+            "D": "6/9"
+        }
+    },
+    {
+        "question": "Express 3/5 and 4/7 with a common denominator.",
+        "answer": "A",
+        "options": {
+            "A": "21/35 and 20/35",
+            "B": "15/25 and 16/25",
+            "C": "3/7 and 4/5",
+            "D": "12/20 and 16/20"
+        }
+    },
+    {
+        "question": "Which is larger: 7/10 or 3/4?",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "7/10",
+            "C": "Equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 2/3 + 5/9.",
+        "answer": "A",
+        "options": {
+            "A": "11/9",
+            "B": "7/12",
+            "C": "1",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "Subtract 5/6 \u2212 1/4.",
+        "answer": "A",
+        "options": {
+            "A": "7/12",
+            "B": "4/12",
+            "C": "2/3",
+            "D": "5/12"
+        }
+    },
+    {
+        "question": "Multiply 2/5 \u00d7 3/4.",
+        "answer": "A",
+        "options": {
+            "A": "3/10",
+            "B": "1/2",
+            "C": "5/12",
+            "D": "6/20"
+        }
+    },
+    {
+        "question": "Divide 3/8 \u00f7 2.",
+        "answer": "A",
+        "options": {
+            "A": "3/16",
+            "B": "1/4",
+            "C": "1/8",
+            "D": "3/4"
+        }
+    },
+    {
+        "question": "Convert 7/8 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.875",
+            "B": "0.78",
+            "C": "0.87",
+            "D": "0.88"
+        }
+    },
+    {
+        "question": "Write 0.3 as a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "3/10",
+            "B": "3/100",
+            "C": "1/3",
+            "D": "30/100"
+        }
+    },
+    {
+        "question": "Identify the value of 2 in 5.627.",
+        "answer": "B",
+        "options": {
+            "A": "0.2",
+            "B": "0.02",
+            "C": "2",
+            "D": "0.002"
+        }
+    },
+    {
+        "question": "Multiply 0.45 \u00d7 4.",
+        "answer": "A",
+        "options": {
+            "A": "1.8",
+            "B": "1.9",
+            "C": "0.18",
+            "D": "18"
+        }
+    },
+    {
+        "question": "Divide 1.2 \u00f7 3.",
+        "answer": "A",
+        "options": {
+            "A": "0.4",
+            "B": "0.36",
+            "C": "0.42",
+            "D": "0.03"
+        }
+    },
+    {
+        "question": "Round 4.376 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "4.38",
+            "B": "4.37",
+            "C": "4.4",
+            "D": "4.376"
+        }
+    },
+    {
+        "question": "Convert 3/20 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "15%",
+            "B": "14%",
+            "C": "16%",
+            "D": "12%"
+        }
+    },
+    {
+        "question": "Convert 0.75 to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "7/10",
+            "C": "1/2",
+            "D": "3/5"
+        }
+    },
+    {
+        "question": "Which fraction equals 0.6?",
+        "answer": "A",
+        "options": {
+            "A": "3/5",
+            "B": "6/10",
+            "C": "2/5",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Compare 4/7 and 0.55.",
+        "answer": "A",
+        "options": {
+            "A": "4/7",
+            "B": "0.55",
+            "C": "Equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 5/8 + 7/16.",
+        "answer": "A",
+        "options": {
+            "A": "17/16",
+            "B": "12/16",
+            "C": "15/16",
+            "D": "1"
+        }
+    },
+    {
+        "question": "Subtract 11/12 \u2212 5/8.",
+        "answer": "A",
+        "options": {
+            "A": "7/24",
+            "B": "6/24",
+            "C": "5/12",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Simplify the fraction 24/36.",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "3/4",
+            "C": "4/6",
+            "D": "6/9"
+        }
+    },
+    {
+        "question": "Express 2/3 and 5/8 with a common denominator.",
+        "answer": "A",
+        "options": {
+            "A": "16/24 and 15/24",
+            "B": "4/6 and 5/8",
+            "C": "8/12 and 5/8",
+            "D": "6/9 and 5/8"
+        }
+    },
+    {
+        "question": "Which fraction is larger: 9/10 or 7/8?",
+        "answer": "A",
+        "options": {
+            "A": "9/10",
+            "B": "7/8",
+            "C": "Equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 2/5 + 3/10.",
+        "answer": "A",
+        "options": {
+            "A": "7/10",
+            "B": "1/2",
+            "C": "5/15",
+            "D": "1"
+        }
+    },
+    {
+        "question": "Subtract 5/6 \u2212 1/3.",
+        "answer": "C",
+        "options": {
+            "A": "1/2",
+            "B": "1/3",
+            "C": "2/3",
+            "D": "1/6"
+        }
+    },
+    {
+        "question": "Multiply 2/3 \u00d7 3/4.",
+        "answer": "A",
+        "options": {
+            "A": "1/2",
+            "B": "1/4",
+            "C": "1/3",
+            "D": "1/6"
+        }
+    },
+    {
+        "question": "Divide 3/5 \u00f7 3.",
+        "answer": "C",
+        "options": {
+            "A": "1/5",
+            "B": "1/3",
+            "C": "1/15",
+            "D": "1/8"
+        }
+    },
+    {
+        "question": "Convert 3/8 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.375",
+            "B": "0.38",
+            "C": "0.35",
+            "D": "0.36"
+        }
+    },
+    {
+        "question": "Write 0.45 as a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "9/20",
+            "B": "45/100",
+            "C": "1/2",
+            "D": "4/9"
+        }
+    },
+    {
+        "question": "Identify the value of 6 in 4.768.",
+        "answer": "B",
+        "options": {
+            "A": "0.6",
+            "B": "0.06",
+            "C": "6",
+            "D": "0.006"
+        }
+    },
+    {
+        "question": "Multiply 0.36 \u00d7 5.",
+        "answer": "A",
+        "options": {
+            "A": "1.8",
+            "B": "0.18",
+            "C": "18",
+            "D": "0.036"
+        }
+    },
+    {
+        "question": "Divide 2.25 \u00f7 5.",
+        "answer": "A",
+        "options": {
+            "A": "0.45",
+            "B": "0.4",
+            "C": "0.55",
+            "D": "0.025"
+        }
+    },
+    {
+        "question": "Round 3.786 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "3.79",
+            "B": "3.78",
+            "C": "3.8",
+            "D": "3.787"
+        }
+    },
+    {
+        "question": "Convert 7/20 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "35%",
+            "B": "36%",
+            "C": "32%",
+            "D": "30%"
+        }
+    },
+    {
+        "question": "Convert 0.3 to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "3/10",
+            "B": "1/3",
+            "C": "3/100",
+            "D": "1/10"
+        }
+    },
+    {
+        "question": "Which fraction equals 0.6?",
+        "answer": "A",
+        "options": {
+            "A": "3/5",
+            "B": "2/3",
+            "C": "1/2",
+            "D": "5/6"
+        }
+    },
+    {
+        "question": "Compare: 7/12 or 0.58?",
+        "answer": "A",
+        "options": {
+            "A": "7/12",
+            "B": "0.58",
+            "C": "Equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 5/6 + 2/9.",
+        "answer": "B",
+        "options": {
+            "A": "16/18",
+            "B": "17/18",
+            "C": "7/9",
+            "D": "1"
+        }
+    },
+    {
+        "question": "Subtract 11/12 \u2212 2/3.",
+        "answer": "B",
+        "options": {
+            "A": "1/12",
+            "B": "5/12",
+            "C": "7/12",
+            "D": "3/12"
+        }
+    },
+    {
+        "question": "Multiply 5/8 \u00d7 3/5.",
+        "answer": "A",
+        "options": {
+            "A": "3/8",
+            "B": "1/2",
+            "C": "5/24",
+            "D": "8/15"
+        }
+    },
+    {
+        "question": "Simplify the fraction 24/36.",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "3/4",
+            "C": "12/18",
+            "D": "4/9"
+        }
+    },
+    {
+        "question": "Simplify the fraction 35/49.",
+        "answer": "A",
+        "options": {
+            "A": "5/7",
+            "B": "7/5",
+            "C": "15/21",
+            "D": "1/7"
+        }
+    },
+    {
+        "question": "Which fraction is equivalent to 4/6?",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "3/4",
+            "C": "4/12",
+            "D": "6/4"
+        }
+    },
+    {
+        "question": "Express 2/5 and 3/10 with a common denominator.",
+        "answer": "A",
+        "options": {
+            "A": "4/10 and 3/10",
+            "B": "2/10 and 3/10",
+            "C": "6/20 and 4/20",
+            "D": "10/25 and 15/25"
+        }
+    },
+    {
+        "question": "Which fraction is larger: 9/10 or 7/8?",
+        "answer": "A",
+        "options": {
+            "A": "9/10",
+            "B": "7/8",
+            "C": "Equal",
+            "D": "Cannot be compared"
+        }
+    },
+    {
+        "question": "Order the fractions from smallest to largest: 5/6, 3/4, 2/3.",
+        "answer": "A",
+        "options": {
+            "A": "2/3, 3/4, 5/6",
+            "B": "3/4, 2/3, 5/6",
+            "C": "5/6, 3/4, 2/3",
+            "D": "2/3, 5/6, 3/4"
+        }
+    },
+    {
+        "question": "Add 7/12 + 1/6.",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "8/18",
+            "C": "7/18",
+            "D": "5/6"
+        }
+    },
+    {
+        "question": "Subtract 11/12 \u2212 1/4.",
+        "answer": "D",
+        "options": {
+            "A": "2/3",
+            "B": "5/12",
+            "C": "3/4",
+            "D": "7/12"
+        }
+    },
+    {
+        "question": "Multiply 4/9 \u00d7 3/5.",
+        "answer": "A",
+        "options": {
+            "A": "4/15",
+            "B": "12/45",
+            "C": "7/14",
+            "D": "3/20"
+        }
+    },
+    {
+        "question": "Divide 3/4 \u00f7 2.",
+        "answer": "A",
+        "options": {
+            "A": "3/8",
+            "B": "3/2",
+            "C": "1/4",
+            "D": "1/8"
+        }
+    },
+    {
+        "question": "Convert 9/16 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.5625",
+            "B": "0.56",
+            "C": "0.59",
+            "D": "0.625"
+        }
+    },
+    {
+        "question": "What is the value of the digit 3 in 7.348?",
+        "answer": "B",
+        "options": {
+            "A": "0.3",
+            "B": "0.03",
+            "C": "0.003",
+            "D": "3"
+        }
+    },
+    {
+        "question": "Multiply 5/6 \u00d7 3/7.",
+        "answer": "A",
+        "options": {
+            "A": "15/42",
+            "B": "8/13",
+            "C": "5/13",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Divide 7/10 \u00f7 5.",
+        "answer": "A",
+        "options": {
+            "A": "7/50",
+            "B": "7/5",
+            "C": "1/2",
+            "D": "7/15"
+        }
+    },
+    {
+        "question": "Convert 5/8 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.625",
+            "B": "0.58",
+            "C": "0.65",
+            "D": "0.6"
+        }
+    },
+    {
+        "question": "Write 0.45 as a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "9/20",
+            "B": "45/100",
+            "C": "4/9",
+            "D": "9/10"
+        }
+    },
+    {
+        "question": "Identify the value of 6 in 3.768.",
+        "answer": "B",
+        "options": {
+            "A": "0.06",
+            "B": "0.6",
+            "C": "6",
+            "D": "0.006"
+        }
+    },
+    {
+        "question": "Multiply 0.38 \u00d7 5.",
+        "answer": "A",
+        "options": {
+            "A": "1.9",
+            "B": "1.8",
+            "C": "0.19",
+            "D": "3.8"
+        }
+    },
+    {
+        "question": "Divide 2.16 \u00f7 4.",
+        "answer": "A",
+        "options": {
+            "A": "0.54",
+            "B": "0.56",
+            "C": "0.52",
+            "D": "0.6"
+        }
+    },
+    {
+        "question": "Round 7.835 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "7.84",
+            "B": "7.83",
+            "C": "7.85",
+            "D": "7.8"
+        }
+    },
+    {
+        "question": "Convert 11/25 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "44%",
+            "B": "45%",
+            "C": "43%",
+            "D": "40%"
+        }
+    },
+    {
+        "question": "Convert 0.125 to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "1/8",
+            "B": "1/4",
+            "C": "12/100",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Which fraction equals 0.25?",
+        "answer": "A",
+        "options": {
+            "A": "1/4",
+            "B": "2/5",
+            "C": "1/5",
+            "D": "3/4"
+        }
+    },
+    {
+        "question": "Compare 5/9 and 0.55.",
+        "answer": "B",
+        "options": {
+            "A": "5/9",
+            "B": "0.55",
+            "C": "Equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 7/12 + 5/8.",
+        "answer": "A",
+        "options": {
+            "A": "31/24",
+            "B": "12/20",
+            "C": "1",
+            "D": "11/24"
+        }
+    },
+    {
+        "question": "Subtract 3/4 \u2212 2/5.",
+        "answer": "B",
+        "options": {
+            "A": "7/20",
+            "B": "11/20",
+            "C": "1/2",
+            "D": "1/4"
+        }
+    },
+    {
+        "question": "Multiply 7/8 \u00d7 4/5.",
+        "answer": "A",
+        "options": {
+            "A": "28/40",
+            "B": "7/10",
+            "C": "32/40",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Divide 9/10 \u00f7 3.",
+        "answer": "A",
+        "options": {
+            "A": "3/10",
+            "B": "3/30",
+            "C": "9/30",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "Convert 7/20 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.35",
+            "B": "0.37",
+            "C": "0.36",
+            "D": "0.34"
+        }
+    },
+    {
+        "question": "Write 0.875 as a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "7/8",
+            "B": "8/9",
+            "C": "1/8",
+            "D": "87/100"
+        }
+    },
+    {
+        "question": "Identify the value of 5 in 6.253.",
+        "answer": "A",
+        "options": {
+            "A": "0.05",
+            "B": "0.5",
+            "C": "5",
+            "D": "0.005"
+        }
+    },
+    {
+        "question": "Multiply 0.56 \u00d7 7.",
+        "answer": "A",
+        "options": {
+            "A": "3.92",
+            "B": "3.82",
+            "C": "4.2",
+            "D": "0.392"
+        }
+    },
+    {
+        "question": "Divide 7/8 \u00f7 2.",
+        "answer": "A",
+        "options": {
+            "A": "7/16",
+            "B": "7/4",
+            "C": "1/4",
+            "D": "7/10"
+        }
+    },
+    {
+        "question": "Convert 5/16 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.3125",
+            "B": "0.315",
+            "C": "0.32",
+            "D": "0.3"
+        }
+    },
+    {
+        "question": "Write 0.875 as a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "7/8",
+            "B": "7/10",
+            "C": "87/100",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Identify the value of 5 in 2.356.",
+        "answer": "B",
+        "options": {
+            "A": "0.5",
+            "B": "0.05",
+            "C": "5",
+            "D": "0.005"
+        }
+    },
+    {
+        "question": "Multiply 0.28 \u00d7 7.",
+        "answer": "A",
+        "options": {
+            "A": "1.96",
+            "B": "1.92",
+            "C": "19.6",
+            "D": "0.196"
+        }
+    },
+    {
+        "question": "Divide 0.81 \u00f7 3.",
+        "answer": "A",
+        "options": {
+            "A": "0.27",
+            "B": "0.28",
+            "C": "0.3",
+            "D": "0.25"
+        }
+    },
+    {
+        "question": "Round 4.276 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "4.28",
+            "B": "4.27",
+            "C": "4.3",
+            "D": "4.276"
+        }
+    },
+    {
+        "question": "Convert 11/25 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "44%",
+            "B": "45%",
+            "C": "40%",
+            "D": "42%"
+        }
+    },
+    {
+        "question": "Convert 0.75 to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "7/10",
+            "C": "75/100",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Which fraction equals 0.25?",
+        "answer": "A",
+        "options": {
+            "A": "1/4",
+            "B": "2/5",
+            "C": "3/4",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Compare: 5/6 or 0.82?",
+        "answer": "A",
+        "options": {
+            "A": "5/6",
+            "B": "0.82",
+            "C": "Equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 7/12 + 1/6.",
+        "answer": "A",
+        "options": {
+            "A": "3/4",
+            "B": "2/3",
+            "C": "5/6",
+            "D": "7/18"
+        }
+    },
+    {
+        "question": "Subtract 9/10 \u2212 1/5.",
+        "answer": "A",
+        "options": {
+            "A": "7/10",
+            "B": "8/10",
+            "C": "1/2",
+            "D": "3/10"
+        }
+    },
+    {
+        "question": "Multiply 4/5 \u00d7 5/6.",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "1/2",
+            "C": "20/30",
+            "D": "3/4"
+        }
+    },
+    {
+        "question": "Divide 7/9 \u00f7 7.",
+        "answer": "A",
+        "options": {
+            "A": "1/9",
+            "B": "1/7",
+            "C": "7/63",
+            "D": "9/7"
+        }
+    },
+    {
+        "question": "Convert 9/40 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.225",
+            "B": "0.22",
+            "C": "0.24",
+            "D": "0.25"
+        }
+    },
+    {
+        "question": "Write 0.6 as a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "3/5",
+            "B": "6/10",
+            "C": "1/2",
+            "D": "2/3"
+        }
+    },
+    {
+        "question": "Identify the value of 2 in 5.742.",
+        "answer": "A",
+        "options": {
+            "A": "0.02",
+            "B": "0.2",
+            "C": "2",
+            "D": "0.002"
+        }
+    },
+    {
+        "question": "Multiply 0.47 \u00d7 8.",
+        "answer": "A",
+        "options": {
+            "A": "3.76",
+            "B": "3.74",
+            "C": "37.6",
+            "D": "0.376"
+        }
+    },
+    {
+        "question": "Divide 1.32 \u00f7 4.",
+        "answer": "A",
+        "options": {
+            "A": "0.33",
+            "B": "0.34",
+            "C": "0.32",
+            "D": "0.3"
+        }
+    },
+    {
+        "question": "Round 6.789 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "6.79",
+            "B": "6.78",
+            "C": "6.8",
+            "D": "6.789"
+        }
+    },
+    {
+        "question": "Divide 5/6 \u00f7 2.",
+        "answer": "A",
+        "options": {
+            "A": "5/12",
+            "B": "1/3",
+            "C": "5/3",
+            "D": "3/5"
+        }
+    },
+    {
+        "question": "Multiply 3/4 \u00d7 2/3.",
+        "answer": "A",
+        "options": {
+            "A": "1/2",
+            "B": "5/6",
+            "C": "1/3",
+            "D": "2/3"
+        }
+    },
+    {
+        "question": "Convert 9/16 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.5625",
+            "B": "0.59",
+            "C": "0.56",
+            "D": "0.6"
+        }
+    },
+    {
+        "question": "Write 0.625 as a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "5/8",
+            "B": "3/5",
+            "C": "5/6",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Identify the value of 3 in 4.739.",
+        "answer": "A",
+        "options": {
+            "A": "0.03",
+            "B": "0.3",
+            "C": "3",
+            "D": "0.003"
+        }
+    },
+    {
+        "question": "Multiply 0.72 \u00d7 3.",
+        "answer": "A",
+        "options": {
+            "A": "2.16",
+            "B": "2.12",
+            "C": "2.26",
+            "D": "2.06"
+        }
+    },
+    {
+        "question": "Divide 3.6 \u00f7 4.",
+        "answer": "A",
+        "options": {
+            "A": "0.9",
+            "B": "0.8",
+            "C": "1",
+            "D": "0.86"
+        }
+    },
+    {
+        "question": "Round 8.946 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "8.95",
+            "B": "8.94",
+            "C": "8.96",
+            "D": "8.9"
+        }
+    },
+    {
+        "question": "Convert 13/20 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "65%",
+            "B": "60%",
+            "C": "66%",
+            "D": "63%"
+        }
+    },
+    {
+        "question": "Convert 0.2 to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "1/5",
+            "B": "2/10",
+            "C": "1/2",
+            "D": "2/5"
+        }
+    },
+    {
+        "question": "Which fraction equals 0.8?",
+        "answer": "A",
+        "options": {
+            "A": "4/5",
+            "B": "8/10",
+            "C": "3/5",
+            "D": "2/3"
+        }
+    },
+    {
+        "question": "Compare 11/20 and 0.55.",
+        "answer": "B",
+        "options": {
+            "A": "11/20",
+            "B": "0.55",
+            "C": "Equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 9/10 + 7/20.",
+        "answer": "A",
+        "options": {
+            "A": "25/20",
+            "B": "16/20",
+            "C": "17/20",
+            "D": "1"
+        }
+    },
+    {
+        "question": "Subtract 7/8 \u2212 5/12.",
+        "answer": "A",
+        "options": {
+            "A": "13/24",
+            "B": "14/24",
+            "C": "1/2",
+            "D": "1/4"
+        }
+    },
+    {
+        "question": "Multiply 11/12 \u00d7 3/5.",
+        "answer": "A",
+        "options": {
+            "A": "33/60",
+            "B": "14/15",
+            "C": "3/5",
+            "D": "11/15"
+        }
+    },
+    {
+        "question": "Divide 7/8 \u00f7 7.",
+        "answer": "C",
+        "options": {
+            "A": "1/8",
+            "B": "1",
+            "C": "7/56",
+            "D": "7/7"
+        }
+    },
+    {
+        "question": "Convert 17/50 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.34",
+            "B": "0.35",
+            "C": "0.33",
+            "D": "0.32"
+        }
+    },
+    {
+        "question": "Write 0.375 as a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "3/8",
+            "B": "3/5",
+            "C": "37/100",
+            "D": "3/4"
+        }
+    },
+    {
+        "question": "Identify the value of 9 in 8.496.",
+        "answer": "B",
+        "options": {
+            "A": "0.09",
+            "B": "0.9",
+            "C": "9",
+            "D": "0.009"
+        }
+    },
+    {
+        "question": "Multiply 0.33 \u00d7 6.",
+        "answer": "A",
+        "options": {
+            "A": "1.98",
+            "B": "1.8",
+            "C": "1.96",
+            "D": "2.0"
+        }
+    },
+    {
+        "question": "Divide 2.7 \u00f7 3.",
+        "answer": "A",
+        "options": {
+            "A": "0.9",
+            "B": "0.8",
+            "C": "1",
+            "D": "0.95"
+        }
+    },
+    {
+        "question": "Round 5.687 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "5.69",
+            "B": "5.68",
+            "C": "5.7",
+            "D": "5.68"
+        }
+    },
+    {
+        "question": "Convert 3/8 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "37.5%",
+            "B": "38%",
+            "C": "35%",
+            "D": "30%"
+        }
+    },
+    {
+        "question": "Convert 0.6 to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "3/5",
+            "B": "6/10",
+            "C": "1/2",
+            "D": "2/3"
+        }
+    },
+    {
+        "question": "Which fraction equals 0.125?",
+        "answer": "A",
+        "options": {
+            "A": "1/8",
+            "B": "1/4",
+            "C": "1/2",
+            "D": "1/5"
+        }
+    },
+    {
+        "question": "Compare 3/7 and 0.42.",
+        "answer": "B",
+        "options": {
+            "A": "3/7",
+            "B": "0.42",
+            "C": "Equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 11/15 + 7/10.",
+        "answer": "A",
+        "options": {
+            "A": "37/30",
+            "B": "18/25",
+            "C": "29/25",
+            "D": "1"
+        }
+    },
+    {
+        "question": "Convert 13/20 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.65",
+            "B": "0.6",
+            "C": "0.625",
+            "D": "0.7"
+        }
+    },
+    {
+        "question": "Write 0.875 as a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "87.5%",
+            "B": "85%",
+            "C": "88%",
+            "D": "8.75%"
+        }
+    },
+    {
+        "question": "Simplify the fraction 24/36.",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "3/4",
+            "C": "4/6",
+            "D": "6/9"
+        }
+    },
+    {
+        "question": "Express 2/3 and 5/8 with a common denominator.",
+        "answer": "A",
+        "options": {
+            "A": "16/24 and 15/24",
+            "B": "6/9 and 5/8",
+            "C": "2/8 and 5/8",
+            "D": "12/18 and 10/16"
+        }
+    },
+    {
+        "question": "Which fraction is larger: 9/10 or 11/12?",
+        "answer": "A",
+        "options": {
+            "A": "11/12",
+            "B": "9/10",
+            "C": "Equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 7/10 + 2/5.",
+        "answer": "A",
+        "options": {
+            "A": "11/10",
+            "B": "9/10",
+            "C": "1",
+            "D": "12/15"
+        }
+    },
+    {
+        "question": "Subtract 5/6 \u2212 1/4.",
+        "answer": "A",
+        "options": {
+            "A": "7/12",
+            "B": "2/3",
+            "C": "3/4",
+            "D": "5/12"
+        }
+    },
+    {
+        "question": "Multiply 5/8 \u00d7 3/4.",
+        "answer": "A",
+        "options": {
+            "A": "15/32",
+            "B": "8/12",
+            "C": "3/8",
+            "D": "5/12"
+        }
+    },
+    {
+        "question": "Divide 2/5 \u00f7 4.",
+        "answer": "C",
+        "options": {
+            "A": "1/10",
+            "B": "1/5",
+            "C": "1/20",
+            "D": "2/20"
+        }
+    },
+    {
+        "question": "Convert 3/16 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.1875",
+            "B": "0.18",
+            "C": "0.2",
+            "D": "0.175"
+        }
+    },
+    {
+        "question": "Write 0.45 as a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "9/20",
+            "B": "45/100",
+            "C": "4/9",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Identify the value of 7 in 3.476.",
+        "answer": "A",
+        "options": {
+            "A": "0.07",
+            "B": "0.7",
+            "C": "7",
+            "D": "0.007"
+        }
+    },
+    {
+        "question": "Multiply 0.36 \u00d7 5.",
+        "answer": "A",
+        "options": {
+            "A": "1.8",
+            "B": "1.75",
+            "C": "18",
+            "D": "0.18"
+        }
+    },
+    {
+        "question": "Divide 2.25 \u00f7 5.",
+        "answer": "A",
+        "options": {
+            "A": "0.45",
+            "B": "0.5",
+            "C": "0.4",
+            "D": "0.35"
+        }
+    },
+    {
+        "question": "Round 3.849 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "3.85",
+            "B": "3.84",
+            "C": "3.8",
+            "D": "3.849"
+        }
+    },
+    {
+        "question": "Convert 17/50 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "34%",
+            "B": "33%",
+            "C": "35%",
+            "D": "36%"
+        }
+    },
+    {
+        "question": "Convert 0.6 to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "3/5",
+            "B": "6/10",
+            "C": "1/2",
+            "D": "2/3"
+        }
+    },
+    {
+        "question": "Which fraction equals 0.9?",
+        "answer": "A",
+        "options": {
+            "A": "9/10",
+            "B": "9/9",
+            "C": "1/10",
+            "D": "4/5"
+        }
+    },
+    {
+        "question": "Compare: 13/20 or 0.65?",
+        "answer": "A",
+        "options": {
+            "A": "Equal",
+            "B": "13/20 larger",
+            "C": "0.65 larger",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Simplify the fraction 24/36.",
+        "answer": "A",
+        "options": {
+            "A": "2/3",
+            "B": "3/4",
+            "C": "4/6",
+            "D": "6/9"
+        }
+    },
+    {
+        "question": "Express 2/3 and 3/4 with a common denominator.",
+        "answer": "A",
+        "options": {
+            "A": "8/12 and 9/12",
+            "B": "6/9 and 3/4",
+            "C": "2/6 and 3/4",
+            "D": "4/6 and 9/12"
+        }
+    },
+    {
+        "question": "Which fraction is larger: 5/6 or 7/8?",
+        "answer": "A",
+        "options": {
+            "A": "7/8",
+            "B": "5/6",
+            "C": "Equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 2/5 + 3/10.",
+        "answer": "A",
+        "options": {
+            "A": "7/10",
+            "B": "1/2",
+            "C": "5/10",
+            "D": "3/5"
+        }
+    },
+    {
+        "question": "Subtract 7/12 \u2212 1/4.",
+        "answer": "B",
+        "options": {
+            "A": "4/12",
+            "B": "5/12",
+            "C": "6/12",
+            "D": "3/12"
+        }
+    },
+    {
+        "question": "Multiply 2/3 \u00d7 3/5.",
+        "answer": "A",
+        "options": {
+            "A": "6/15",
+            "B": "1/5",
+            "C": "5/6",
+            "D": "2/8"
+        }
+    },
+    {
+        "question": "Divide 3/4 \u00f7 2.",
+        "answer": "A",
+        "options": {
+            "A": "3/8",
+            "B": "1/2",
+            "C": "3/2",
+            "D": "1/4"
+        }
+    },
+    {
+        "question": "Convert 7/8 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.875",
+            "B": "0.78",
+            "C": "0.87",
+            "D": "0.85"
+        }
+    },
+    {
+        "question": "Write 0.45 as a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "9/20",
+            "B": "45/100",
+            "C": "1/2",
+            "D": "4/9"
+        }
+    },
+    {
+        "question": "Identify the value of 5 in 3.256.",
+        "answer": "B",
+        "options": {
+            "A": "0.05",
+            "B": "0.5",
+            "C": "5",
+            "D": "0.005"
+        }
+    },
+    {
+        "question": "Multiply 0.6 \u00d7 7.",
+        "answer": "A",
+        "options": {
+            "A": "4.2",
+            "B": "42",
+            "C": "0.42",
+            "D": "3.2"
+        }
+    },
+    {
+        "question": "Divide 2.7 \u00f7 3.",
+        "answer": "A",
+        "options": {
+            "A": "0.9",
+            "B": "0.8",
+            "C": "0.7",
+            "D": "1.0"
+        }
+    },
+    {
+        "question": "Round 4.678 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "4.68",
+            "B": "4.67",
+            "C": "4.7",
+            "D": "4.679"
+        }
+    },
+    {
+        "question": "Convert 3/20 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "15%",
+            "B": "12%",
+            "C": "13%",
+            "D": "20%"
+        }
+    },
+    {
+        "question": "Convert 0.4 to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "2/5",
+            "B": "4/10",
+            "C": "1/4",
+            "D": "1/5"
+        }
+    },
+    {
+        "question": "Which fraction equals 0.6?",
+        "answer": "A",
+        "options": {
+            "A": "3/5",
+            "B": "2/3",
+            "C": "6/10",
+            "D": "1/2"
+        }
+    },
+    {
+        "question": "Compare: 5/8 or 0.62?",
+        "answer": "A",
+        "options": {
+            "A": "5/8",
+            "B": "0.62",
+            "C": "Equal",
+            "D": "Cannot compare"
+        }
+    },
+    {
+        "question": "Add 7/12 + 5/18.",
+        "answer": "B",
+        "options": {
+            "A": "13/18",
+            "B": "29/36",
+            "C": "1",
+            "D": "19/36"
+        }
+    },
+    {
+        "question": "Subtract 11/15 \u2212 2/5.",
+        "answer": "A",
+        "options": {
+            "A": "7/15",
+            "B": "5/15",
+            "C": "9/15",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "Multiply 4/9 \u00d7 3/8.",
+        "answer": "A",
+        "options": {
+            "A": "1/6",
+            "B": "12/72",
+            "C": "1/3",
+            "D": "3/12"
+        }
+    },
+    {
+        "question": "Divide 7/10 \u00f7 7.",
+        "answer": "A",
+        "options": {
+            "A": "1/10",
+            "B": "7/17",
+            "C": "1/7",
+            "D": "10/7"
+        }
+    },
+    {
+        "question": "Convert 9/16 to a decimal.",
+        "answer": "A",
+        "options": {
+            "A": "0.5625",
+            "B": "0.56",
+            "C": "0.563",
+            "D": "0.55"
+        }
+    },
+    {
+        "question": "Write 0.875 as a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "7/8",
+            "B": "7/10",
+            "C": "8/10",
+            "D": "5/8"
+        }
+    },
+    {
+        "question": "Identify the value of 6 in 4.368.",
+        "answer": "B",
+        "options": {
+            "A": "0.06",
+            "B": "0.6",
+            "C": "6",
+            "D": "0.006"
+        }
+    },
+    {
+        "question": "Multiply 0.75 \u00d7 8.",
+        "answer": "A",
+        "options": {
+            "A": "6",
+            "B": "7.5",
+            "C": "60",
+            "D": "0.6"
+        }
+    },
+    {
+        "question": "Divide 3.6 \u00f7 4.",
+        "answer": "A",
+        "options": {
+            "A": "0.9",
+            "B": "0.8",
+            "C": "0.7",
+            "D": "1"
+        }
+    },
+    {
+        "question": "Round 5.437 to 2 decimal places.",
+        "answer": "A",
+        "options": {
+            "A": "5.44",
+            "B": "5.43",
+            "C": "5.47",
+            "D": "5.4"
+        }
+    },
+    {
+        "question": "Convert 11/20 to a percentage.",
+        "answer": "A",
+        "options": {
+            "A": "55%",
+            "B": "50%",
+            "C": "60%",
+            "D": "45%"
+        }
+    },
+    {
+        "question": "Convert 0.125 to a fraction in simplest form.",
+        "answer": "A",
+        "options": {
+            "A": "1/8",
+            "B": "1/4",
+            "C": "1/2",
+            "D": "3/8"
+        }
+    },
+    {
+        "question": "Which fraction equals 0.25?",
+        "answer": "A",
+        "options": {
+            "A": "1/4",
+            "B": "2/5",
+            "C": "3/4",
+            "D": "1/3"
+        }
+    },
+    {
+        "question": "Compare: 13/20 or 0.64?",
+        "answer": "A",
+        "options": {
+            "A": "13/20",
+            "B": "0.64",
+            "C": "Equal",
+            "D": "Cannot compare"
+        }
+    }
+]

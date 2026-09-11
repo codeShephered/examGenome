@@ -1,0 +1,1289 @@
+```json
+[
+    {
+        "question": "What is the value of the digit 7 in 2,704,516?",
+        "answer": "B",
+        "options": {
+            "A": "70,000",
+            "B": "700,000",
+            "C": "7,000,000",
+            "D": "700"
+        }
+    },
+    {
+        "question": "Which number is 30,000 more than 875,421?",
+        "answer": "B",
+        "options": {
+            "A": "878,421",
+            "B": "905,421",
+            "C": "885,421",
+            "D": "905,421"
+        }
+    },
+    {
+        "question": "Order these numbers from smallest to largest: 1,000,001; 999,999; 1,000,000.",
+        "answer": "A",
+        "options": {
+            "A": "999,999; 1,000,000; 1,000,001",
+            "B": "1,000,001; 1,000,000; 999,999",
+            "C": "1,000,000; 999,999; 1,000,001",
+            "D": "999,999; 1,000,001; 1,000,000"
+        }
+    },
+    {
+        "question": "Count forwards from 456,789 in steps of 10,000. What is the third number?",
+        "answer": "B",
+        "options": {
+            "A": "466,789",
+            "B": "476,789",
+            "C": "486,789",
+            "D": "496,789"
+        }
+    },
+    {
+        "question": "Count backwards from 902,500 in steps of 100,000. What is the second number?",
+        "answer": "A",
+        "options": {
+            "A": "802,500",
+            "B": "702,500",
+            "C": "902,400",
+            "D": "892,500"
+        }
+    },
+    {
+        "question": "Which number is 100,000 less than 1,050,000?",
+        "answer": "A",
+        "options": {
+            "A": "950,000",
+            "B": "1,040,000",
+            "C": "900,000",
+            "D": "1,000,000"
+        }
+    },
+    {
+        "question": "The temperature at 6 a.m. was \u20133\u00b0C. By 9 a.m., it had risen by 8\u00b0C. What was the temperature at 9 a.m.?",
+        "answer": "A",
+        "options": {
+            "A": "5\u00b0C",
+            "B": "\u201311\u00b0C",
+            "C": "11\u00b0C",
+            "D": "\u20135\u00b0C"
+        }
+    },
+    {
+        "question": "What is the result of counting backwards from \u20132 through zero for 5 steps?",
+        "answer": "A",
+        "options": {
+            "A": "3",
+            "B": "\u20137",
+            "C": "7",
+            "D": "\u20133"
+        }
+    },
+    {
+        "question": "Which number lies exactly halfway between \u201310 and 6?",
+        "answer": "A",
+        "options": {
+            "A": "\u20132",
+            "B": "\u20134",
+            "C": "2",
+            "D": "0"
+        }
+    },
+    {
+        "question": "Round 784,562 to the nearest 10,000.",
+        "answer": "A",
+        "options": {
+            "A": "780,000",
+            "B": "790,000",
+            "C": "784,000",
+            "D": "785,000"
+        }
+    },
+    {
+        "question": "Round 256,789 to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "200,000",
+            "B": "300,000",
+            "C": "250,000",
+            "D": "260,000"
+        }
+    },
+    {
+        "question": "A number rounds to 450,000 when rounded to the nearest 10,000. Which could be the original number?",
+        "answer": "B",
+        "options": {
+            "A": "444,999",
+            "B": "454,999",
+            "C": "455,000",
+            "D": "440,000"
+        }
+    },
+    {
+        "question": "Round 999,500 to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "900,000",
+            "B": "1,000,000",
+            "C": "990,000",
+            "D": "1,100,000"
+        }
+    },
+    {
+        "question": "Which number, when rounded to the nearest 1,000, gives 678,000?",
+        "answer": "C",
+        "options": {
+            "A": "678,501",
+            "B": "677,499",
+            "C": "677,500",
+            "D": "678,999"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 894?",
+        "answer": "A",
+        "options": {
+            "A": "DCCCXCIV",
+            "B": "CMXCIV",
+            "C": "DCCCLXXXXIV",
+            "D": "DCDXCIV"
+        }
+    },
+    {
+        "question": "Which year is represented by MCMLXXXIX?",
+        "answer": "A",
+        "options": {
+            "A": "1989",
+            "B": "1889",
+            "C": "1979",
+            "D": "2089"
+        }
+    },
+    {
+        "question": "What number does the Roman numeral CDXLIV represent?",
+        "answer": "A",
+        "options": {
+            "A": "444",
+            "B": "666",
+            "C": "464",
+            "D": "544"
+        }
+    },
+    {
+        "question": "Which Roman numeral represents 949?",
+        "answer": "A",
+        "options": {
+            "A": "CMXLIX",
+            "B": "CMLXXXXIX",
+            "C": "DCDXLIX",
+            "D": "CMIL"
+        }
+    },
+    {
+        "question": "What is the largest number you can write using the Roman numerals D, C, L, X, V, I exactly once each?",
+        "answer": "A",
+        "options": {
+            "A": "666",
+            "B": "616",
+            "C": "661",
+            "D": "611"
+        }
+    },
+    {
+        "question": "What is the value of the digit 3 in 1,302,456?",
+        "answer": "B",
+        "options": {
+            "A": "30,000",
+            "B": "300,000",
+            "C": "3,000,000",
+            "D": "300"
+        }
+    },
+    {
+        "question": "Which number is two hundred fifty thousand more than 678,901?",
+        "answer": "B",
+        "options": {
+            "A": "878,901",
+            "B": "928,901",
+            "C": "728,901",
+            "D": "679,151"
+        }
+    },
+    {
+        "question": "Compare: 1,000,000 \u2013 1 ___ 999,999 + 1",
+        "answer": "B",
+        "options": {
+            "A": ">",
+            "B": "<",
+            "C": "=",
+            "D": "\u2265"
+        }
+    },
+    {
+        "question": "Write the number that has 7 in the millions place, 0 in the hundred thousands, 5 in the ten thousands, and 2 in the units place.",
+        "answer": "A",
+        "options": {
+            "A": "7,050,002",
+            "B": "7,500,002",
+            "C": "705,002",
+            "D": "7,005,002"
+        }
+    },
+    {
+        "question": "Count forwards from 234,567 in steps of 100,000. What is the fourth number?",
+        "answer": "C",
+        "options": {
+            "A": "334,567",
+            "B": "434,567",
+            "C": "534,567",
+            "D": "634,567"
+        }
+    },
+    {
+        "question": "Count backwards from 1,000,000 in steps of 10,000. What is the fifth number?",
+        "answer": "A",
+        "options": {
+            "A": "960,000",
+            "B": "950,000",
+            "C": "990,000",
+            "D": "900,000"
+        }
+    },
+    {
+        "question": "Which number is 50,000 less than 1,025,000?",
+        "answer": "A",
+        "options": {
+            "A": "975,000",
+            "B": "1,020,000",
+            "C": "950,000",
+            "D": "1,000,000"
+        }
+    },
+    {
+        "question": "At midnight, the temperature was \u20137\u00b0C. It rose steadily and reached 9\u00b0C at noon. How many degrees did it rise?",
+        "answer": "C",
+        "options": {
+            "A": "2\u00b0C",
+            "B": "9\u00b0C",
+            "C": "16\u00b0C",
+            "D": "7\u00b0C"
+        }
+    },
+    {
+        "question": "What is \u201315 + 8?",
+        "answer": "A",
+        "options": {
+            "A": "\u20137",
+            "B": "7",
+            "C": "\u201323",
+            "D": "23"
+        }
+    },
+    {
+        "question": "Which number is 12 less than \u20133?",
+        "answer": "B",
+        "options": {
+            "A": "9",
+            "B": "\u201315",
+            "C": "\u20139",
+            "D": "15"
+        }
+    },
+    {
+        "question": "Round 456,789 to the nearest 100.",
+        "answer": "B",
+        "options": {
+            "A": "456,700",
+            "B": "456,800",
+            "C": "457,000",
+            "D": "456,790"
+        }
+    },
+    {
+        "question": "A number rounds to 700,000 to the nearest 100,000. Which could NOT be the number?",
+        "answer": "C",
+        "options": {
+            "A": "650,000",
+            "B": "749,999",
+            "C": "649,999",
+            "D": "700,000"
+        }
+    },
+    {
+        "question": "Round 899,999 to the nearest 10,000.",
+        "answer": "B",
+        "options": {
+            "A": "890,000",
+            "B": "900,000",
+            "C": "899,000",
+            "D": "1,000,000"
+        }
+    },
+    {
+        "question": "Which number, when rounded to the nearest 100, gives 123,500?",
+        "answer": "C",
+        "options": {
+            "A": "123,449",
+            "B": "123,550",
+            "C": "123,450",
+            "D": "123,599"
+        }
+    },
+    {
+        "question": "Round 1,000,000 to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "900,000",
+            "B": "1,000,000",
+            "C": "1,100,000",
+            "D": "0"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 749?",
+        "answer": "A",
+        "options": {
+            "A": "DCCXLIX",
+            "B": "DCCLXXXXIX",
+            "C": "CCMXLIX",
+            "D": "DCCCXLIX"
+        }
+    },
+    {
+        "question": "Which year is MCMXCV?",
+        "answer": "A",
+        "options": {
+            "A": "1995",
+            "B": "1895",
+            "C": "2095",
+            "D": "1985"
+        }
+    },
+    {
+        "question": "What number does CMXLVIII represent?",
+        "answer": "A",
+        "options": {
+            "A": "948",
+            "B": "1,048",
+            "C": "848",
+            "D": "952"
+        }
+    },
+    {
+        "question": "Which Roman numeral represents 694?",
+        "answer": "A",
+        "options": {
+            "A": "DCXCIV",
+            "B": "DCXCVI",
+            "C": "DCCXCIV",
+            "D": "DCCLXXXXIV"
+        }
+    },
+    {
+        "question": "What is the smallest number you can write using D, C, L, X, V, I exactly once?",
+        "answer": "A",
+        "options": {
+            "A": "166",
+            "B": "156",
+            "C": "165",
+            "D": "155"
+        }
+    },
+    {
+        "question": "What is the value of the digit 8 in 3,080,405?",
+        "answer": "C",
+        "options": {
+            "A": "80",
+            "B": "8,000",
+            "C": "80,000",
+            "D": "800,000"
+        }
+    },
+    {
+        "question": "Which number is 175,000 less than 1,000,000?",
+        "answer": "A",
+        "options": {
+            "A": "825,000",
+            "B": "875,000",
+            "C": "800,000",
+            "D": "850,000"
+        }
+    },
+    {
+        "question": "Which is larger: 1,000,000 \u00f7 2 or 499,999 + 2?",
+        "answer": "B",
+        "options": {
+            "A": "1,000,000 \u00f7 2",
+            "B": "499,999 + 2",
+            "C": "They are equal",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "Write the number with 4 in the hundred thousands place, 7 in the thousands, and 9 in the tens.",
+        "answer": "A",
+        "options": {
+            "A": "407,090",
+            "B": "470,090",
+            "C": "400,790",
+            "D": "470,009"
+        }
+    },
+    {
+        "question": "Count forwards from 123,456 in steps of 10,000. What is the fifth number?",
+        "answer": "A",
+        "options": {
+            "A": "163,456",
+            "B": "173,456",
+            "C": "153,456",
+            "D": "183,456"
+        }
+    },
+    {
+        "question": "Count backwards from 800,000 in steps of 100,000. What is the fourth number?",
+        "answer": "A",
+        "options": {
+            "A": "500,000",
+            "B": "400,000",
+            "C": "600,000",
+            "D": "700,000"
+        }
+    },
+    {
+        "question": "Which number is 250,000 more than 750,000?",
+        "answer": "A",
+        "options": {
+            "A": "1,000,000",
+            "B": "900,000",
+            "C": "1,050,000",
+            "D": "950,000"
+        }
+    },
+    {
+        "question": "The temperature dropped from 5\u00b0C to \u201312\u00b0C overnight. How many degrees did it fall?",
+        "answer": "C",
+        "options": {
+            "A": "7\u00b0C",
+            "B": "12\u00b0C",
+            "C": "17\u00b0C",
+            "D": "5\u00b0C"
+        }
+    },
+    {
+        "question": "What is \u20138 \u2013 6?",
+        "answer": "C",
+        "options": {
+            "A": "\u20132",
+            "B": "2",
+            "C": "\u201314",
+            "D": "14"
+        }
+    },
+    {
+        "question": "Which number is 9 more than \u201315?",
+        "answer": "A",
+        "options": {
+            "A": "\u20136",
+            "B": "6",
+            "C": "\u201324",
+            "D": "24"
+        }
+    },
+    {
+        "question": "Round 678,901 to the nearest 1,000.",
+        "answer": "B",
+        "options": {
+            "A": "678,000",
+            "B": "679,000",
+            "C": "680,000",
+            "D": "678,900"
+        }
+    },
+    {
+        "question": "A number rounds to 500,000 to the nearest 10,000. Which could be the number?",
+        "answer": "C",
+        "options": {
+            "A": "494,999",
+            "B": "505,000",
+            "C": "495,000",
+            "D": "505,001"
+        }
+    },
+    {
+        "question": "Round 123,456 to the nearest 10.",
+        "answer": "B",
+        "options": {
+            "A": "123,450",
+            "B": "123,460",
+            "C": "123,500",
+            "D": "123,400"
+        }
+    },
+    {
+        "question": "Which number, when rounded to the nearest 100,000, gives 1,000,000?",
+        "answer": "B",
+        "options": {
+            "A": "949,999",
+            "B": "950,000",
+            "C": "1,050,000",
+            "D": "899,999"
+        }
+    },
+    {
+        "question": "Round 500,000 to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "400,000",
+            "B": "500,000",
+            "C": "600,000",
+            "D": "0"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 599?",
+        "answer": "A",
+        "options": {
+            "A": "DXCIX",
+            "B": "DCXCIX",
+            "C": "DXCVIIII",
+            "D": "DCCXCIX"
+        }
+    },
+    {
+        "question": "Which year is MDCCCXCIX?",
+        "answer": "A",
+        "options": {
+            "A": "1899",
+            "B": "1799",
+            "C": "1999",
+            "D": "1699"
+        }
+    },
+    {
+        "question": "What number does DCCCXLV represent?",
+        "answer": "A",
+        "options": {
+            "A": "845",
+            "B": "745",
+            "C": "855",
+            "D": "945"
+        }
+    },
+    {
+        "question": "Which Roman numeral represents 494?",
+        "answer": "A",
+        "options": {
+            "A": "CDXCIV",
+            "B": "CDCXCIV",
+            "C": "XDIV",
+            "D": "CCCLXXXXIV"
+        }
+    },
+    {
+        "question": "What is the value of the digit 5 in 2,503,004?",
+        "answer": "B",
+        "options": {
+            "A": "50,000",
+            "B": "500,000",
+            "C": "5,000,000",
+            "D": "5,000"
+        }
+    },
+    {
+        "question": "Which number is 420,000 more than 580,000?",
+        "answer": "A",
+        "options": {
+            "A": "1,000,000",
+            "B": "900,000",
+            "C": "1,020,000",
+            "D": "980,000"
+        }
+    },
+    {
+        "question": "Order: 999,999; 1,000,000 \u2013 2; 1,000,001 \u2013 3",
+        "answer": "A",
+        "options": {
+            "A": "999,998; 999,998; 999,999",
+            "B": "999,998; 999,999; 999,998",
+            "C": "All equal",
+            "D": "999,999; 999,998; 999,998"
+        }
+    },
+    {
+        "question": "Write the number with 6 in the millions, 0 in the hundred thousands, 0 in the ten thousands, 8 in the thousands, and 1 in the units.",
+        "answer": "A",
+        "options": {
+            "A": "6,008,001",
+            "B": "6,080,001",
+            "C": "6,800,001",
+            "D": "6,000,801"
+        }
+    },
+    {
+        "question": "Count forwards from 500,000 in steps of 10,000. What is the sixth number?",
+        "answer": "A",
+        "options": {
+            "A": "550,000",
+            "B": "560,000",
+            "C": "600,000",
+            "D": "540,000"
+        }
+    },
+    {
+        "question": "Count backwards from 950,000 in steps of 100,000. What is the third number?",
+        "answer": "B",
+        "options": {
+            "A": "850,000",
+            "B": "750,000",
+            "C": "900,000",
+            "D": "800,000"
+        }
+    },
+    {
+        "question": "Which number is 75,000 less than 1,000,000?",
+        "answer": "A",
+        "options": {
+            "A": "925,000",
+            "B": "825,000",
+            "C": "950,000",
+            "D": "875,000"
+        }
+    },
+    {
+        "question": "The temperature was \u20135\u00b0C in the morning and \u201312\u00b0C at night. How much did it fall?",
+        "answer": "A",
+        "options": {
+            "A": "7\u00b0C",
+            "B": "12\u00b0C",
+            "C": "17\u00b0C",
+            "D": "5\u00b0C"
+        }
+    },
+    {
+        "question": "What is \u201320 + 13?",
+        "answer": "A",
+        "options": {
+            "A": "\u20137",
+            "B": "7",
+            "C": "\u201333",
+            "D": "33"
+        }
+    },
+    {
+        "question": "Which number is 15 less than \u20135?",
+        "answer": "B",
+        "options": {
+            "A": "10",
+            "B": "\u201320",
+            "C": "\u201310",
+            "D": "20"
+        }
+    },
+    {
+        "question": "Round 987,654 to the nearest 100.",
+        "answer": "B",
+        "options": {
+            "A": "987,600",
+            "B": "987,700",
+            "C": "988,000",
+            "D": "987,650"
+        }
+    },
+    {
+        "question": "A number rounds to 800,000 to the nearest 100,000. Which could NOT be the number?",
+        "answer": "C",
+        "options": {
+            "A": "750,000",
+            "B": "849,999",
+            "C": "749,999",
+            "D": "800,000"
+        }
+    },
+    {
+        "question": "Round 123,999 to the nearest 1,000.",
+        "answer": "B",
+        "options": {
+            "A": "123,000",
+            "B": "124,000",
+            "C": "120,000",
+            "D": "130,000"
+        }
+    },
+    {
+        "question": "Which number, when rounded to the nearest 10, gives 567,890?",
+        "answer": "C",
+        "options": {
+            "A": "567,884",
+            "B": "567,895",
+            "C": "567,885",
+            "D": "567,896"
+        }
+    },
+    {
+        "question": "Round 0 to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "\u2013100,000",
+            "B": "0",
+            "C": "100,000",
+            "D": "Not possible"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 999?",
+        "answer": "A",
+        "options": {
+            "A": "CMXCIX",
+            "B": "IM",
+            "C": "DCCCCLXXXXVIIII",
+            "D": "XMIX"
+        }
+    },
+    {
+        "question": "Which year is MCMXCIX?",
+        "answer": "A",
+        "options": {
+            "A": "1999",
+            "B": "1899",
+            "C": "2099",
+            "D": "1989"
+        }
+    },
+    {
+        "question": "What number does CDXCVI represent?",
+        "answer": "A",
+        "options": {
+            "A": "496",
+            "B": "596",
+            "C": "486",
+            "D": "504"
+        }
+    },
+    {
+        "question": "Which Roman numeral represents 888?",
+        "answer": "A",
+        "options": {
+            "A": "DCCCLXXXVIII",
+            "B": "DCCCXXCVIII",
+            "C": "CMXXXVIII",
+            "D": "DCCCLXXXVII"
+        }
+    },
+    {
+        "question": "What is the largest number less than 1,000 that uses only the Roman numerals C, L, X, V, I?",
+        "answer": "A",
+        "options": {
+            "A": "999",
+            "B": "888",
+            "C": "994",
+            "D": "Cannot be determined"
+        }
+    },
+    {
+        "question": "What is the value of the digit 8 in 3,842,615?",
+        "answer": "B",
+        "options": {
+            "A": "80,000",
+            "B": "800,000",
+            "C": "8,000",
+            "D": "800"
+        }
+    },
+    {
+        "question": "Count forwards in steps of 10,000 from 487,500. What is the next number?",
+        "answer": "B",
+        "options": {
+            "A": "487,510",
+            "B": "497,500",
+            "C": "587,500",
+            "D": "488,500"
+        }
+    },
+    {
+        "question": "The temperature at midnight was \u20133\u00b0C. By noon, it had risen by 8\u00b0C. What was the temperature at noon?",
+        "answer": "C",
+        "options": {
+            "A": "\u201311\u00b0C",
+            "B": "\u20135\u00b0C",
+            "C": "5\u00b0C",
+            "D": "11\u00b0C"
+        }
+    },
+    {
+        "question": "Round 784,629 to the nearest 10,000.",
+        "answer": "A",
+        "options": {
+            "A": "780,000",
+            "B": "785,000",
+            "C": "790,000",
+            "D": "800,000"
+        }
+    },
+    {
+        "question": "What year is represented by the Roman numerals MCMXLVIII?",
+        "answer": "A",
+        "options": {
+            "A": "1948",
+            "B": "2048",
+            "C": "1848",
+            "D": "1958"
+        }
+    },
+    {
+        "question": "Which digit is in the ten thousands place in 5,678,901?",
+        "answer": "B",
+        "options": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "9"
+        }
+    },
+    {
+        "question": "Write the number four million, sixty-two thousand and five in digits.",
+        "answer": "B",
+        "options": {
+            "A": "4,620,005",
+            "B": "4,062,005",
+            "C": "4,602,005",
+            "D": "40,620,005"
+        }
+    },
+    {
+        "question": "Count backwards in steps of 100,000 from 850,000. What is the next number?",
+        "answer": "B",
+        "options": {
+            "A": "840,000",
+            "B": "750,000",
+            "C": "800,000",
+            "D": "700,000"
+        }
+    },
+    {
+        "question": "A submarine is at a depth of 150 m below sea level. It rises 75 m. What is its new position relative to sea level?",
+        "answer": "B",
+        "options": {
+            "A": "\u2013225 m",
+            "B": "\u201375 m",
+            "C": "75 m",
+            "D": "225 m"
+        }
+    },
+    {
+        "question": "Round 345,678 to the nearest 1,000.",
+        "answer": "B",
+        "options": {
+            "A": "345,000",
+            "B": "346,000",
+            "C": "350,000",
+            "D": "340,000"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 444?",
+        "answer": "A",
+        "options": {
+            "A": "CDXLIV",
+            "B": "CCCCXXXXIIII",
+            "C": "DCXLIV",
+            "D": "CDLXIV"
+        }
+    },
+    {
+        "question": "Order these numbers from smallest to largest: 1,234,567; 1,234,657; 1,234,576.",
+        "answer": "A",
+        "options": {
+            "A": "1,234,567; 1,234,576; 1,234,657",
+            "B": "1,234,567; 1,234,657; 1,234,576",
+            "C": "1,234,576; 1,234,567; 1,234,657",
+            "D": "1,234,657; 1,234,576; 1,234,567"
+        }
+    },
+    {
+        "question": "What is the value of the digit 5 in 6,052,341?",
+        "answer": "D",
+        "options": {
+            "A": "50",
+            "B": "500",
+            "C": "5,000",
+            "D": "50,000"
+        }
+    },
+    {
+        "question": "Count forwards in steps of 1,000 from 998,500. What is the next number?",
+        "answer": "B",
+        "options": {
+            "A": "998,501",
+            "B": "999,500",
+            "C": "1,000,500",
+            "D": "997,500"
+        }
+    },
+    {
+        "question": "If you count backwards from 5 through zero, what is the 8th number you say?",
+        "answer": "A",
+        "options": {
+            "A": "\u20132",
+            "B": "\u20133",
+            "C": "\u20134",
+            "D": "\u20135"
+        }
+    },
+    {
+        "question": "If you count backwards from 5 through zero, what is the 8th number you say?",
+        "answer": "A",
+        "options": {
+            "A": "\u20132",
+            "B": "\u20133",
+            "C": "\u20134",
+            "D": "\u20135"
+        }
+    },
+    {
+        "question": "Round 892,475 to the nearest 100.",
+        "answer": "B",
+        "options": {
+            "A": "892,400",
+            "B": "892,500",
+            "C": "892,470",
+            "D": "892,480"
+        }
+    },
+    {
+        "question": "Which year is MCMLXXXIX?",
+        "answer": "A",
+        "options": {
+            "A": "1989",
+            "B": "2089",
+            "C": "1889",
+            "D": "1999"
+        }
+    },
+    {
+        "question": "What number is 250,000 more than 675,432?",
+        "answer": "B",
+        "options": {
+            "A": "675,682",
+            "B": "925,432",
+            "C": "677,932",
+            "D": "1,025,432"
+        }
+    },
+    {
+        "question": "What is the largest 7-digit number that ends with 5?",
+        "answer": "A",
+        "options": {
+            "A": "9,999,995",
+            "B": "5,000,005",
+            "C": "9,999,999",
+            "D": "1,000,005"
+        }
+    },
+    {
+        "question": "Count backwards in steps of 10 from 1,000,005. What is the next number?",
+        "answer": "C",
+        "options": {
+            "A": "1,000,004",
+            "B": "1,000,000",
+            "C": "999,995",
+            "D": "999,990"
+        }
+    },
+    {
+        "question": "The temperature dropped from 4\u00b0C to \u20136\u00b0C overnight. By how many degrees did it fall?",
+        "answer": "C",
+        "options": {
+            "A": "2\u00b0C",
+            "B": "6\u00b0C",
+            "C": "10\u00b0C",
+            "D": "12\u00b0C"
+        }
+    },
+    {
+        "question": "Round 456,789 to the nearest 100,000.",
+        "answer": "C",
+        "options": {
+            "A": "400,000",
+            "B": "450,000",
+            "C": "500,000",
+            "D": "460,000"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 888?",
+        "answer": "A",
+        "options": {
+            "A": "DCCCLXXXVIII",
+            "B": "CCMXLVIII",
+            "C": "DCCCXXXVIII",
+            "D": "DCCCLXXXVII"
+        }
+    },
+    {
+        "question": "What is the value of the digit 2 in 7,204,568?",
+        "answer": "B",
+        "options": {
+            "A": "20,000",
+            "B": "200,000",
+            "C": "2,000",
+            "D": "200"
+        }
+    },
+    {
+        "question": "Which number is the smallest: 3,001,234; 3,001,324; 3,001,243; 3,001,423?",
+        "answer": "A",
+        "options": {
+            "A": "3,001,234",
+            "B": "3,001,243",
+            "C": "3,001,324",
+            "D": "3,001,423"
+        }
+    },
+    {
+        "question": "Count forwards in steps of 100 from 999,850. What is the next number?",
+        "answer": "B",
+        "options": {
+            "A": "999,860",
+            "B": "999,950",
+            "C": "1,000,000",
+            "D": "1,000,850"
+        }
+    },
+    {
+        "question": "A bank account has a balance of \u2013\u00a325 (overdrawn by \u00a325). A deposit of \u00a340 is made. What is the new balance?",
+        "answer": "C",
+        "options": {
+            "A": "\u2013\u00a365",
+            "B": "\u2013\u00a315",
+            "C": "\u00a315",
+            "D": "\u00a365"
+        }
+    },
+    {
+        "question": "Round 678,912 to the nearest 10.",
+        "answer": "A",
+        "options": {
+            "A": "678,910",
+            "B": "678,920",
+            "C": "678,900",
+            "D": "679,000"
+        }
+    },
+    {
+        "question": "What year is MMCDXLIV?",
+        "answer": "A",
+        "options": {
+            "A": "2444",
+            "B": "2544",
+            "C": "2344",
+            "D": "2454"
+        }
+    },
+    {
+        "question": "What number is 375,000 less than 1,000,000?",
+        "answer": "A",
+        "options": {
+            "A": "625,000",
+            "B": "725,000",
+            "C": "635,000",
+            "D": "1,375,000"
+        }
+    },
+    {
+        "question": "Which digit is in the millions place in 4,567,890?",
+        "answer": "A",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+        }
+    },
+    {
+        "question": "Count backwards in steps of 1,000 from 1,000,500. What is the next number?",
+        "answer": "A",
+        "options": {
+            "A": "999,500",
+            "B": "1,000,400",
+            "C": "990,500",
+            "D": "999,900"
+        }
+    },
+    {
+        "question": "What is the result of \u201312 + 7?",
+        "answer": "B",
+        "options": {
+            "A": "\u201319",
+            "B": "\u20135",
+            "C": "5",
+            "D": "19"
+        }
+    },
+    {
+        "question": "Round 234,567 to the nearest 1,000.",
+        "answer": "B",
+        "options": {
+            "A": "234,000",
+            "B": "235,000",
+            "C": "230,000",
+            "D": "240,000"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 777?",
+        "answer": "A",
+        "options": {
+            "A": "DCCLXXVII",
+            "B": "CCCLXXVII",
+            "C": "DCCLXXXVII",
+            "D": "DCCCLXXVII"
+        }
+    },
+    {
+        "question": "Which number is 420,000 more than 580,000?",
+        "answer": "B",
+        "options": {
+            "A": "900,000",
+            "B": "1,000,000",
+            "C": "1,020,000",
+            "D": "1,100,000"
+        }
+    },
+    {
+        "question": "What is the smallest 7-digit number that ends with 9?",
+        "answer": "A",
+        "options": {
+            "A": "1,000,009",
+            "B": "9,000,009",
+            "C": "1,000,000",
+            "D": "999,999"
+        }
+    },
+    {
+        "question": "Count forwards in steps of 1 from \u20133 through to positive numbers. What is the 7th number you say?",
+        "answer": "B",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        }
+    },
+    {
+        "question": "Which number lies exactly halfway between \u201310 and 6?",
+        "answer": "B",
+        "options": {
+            "A": "\u20134",
+            "B": "\u20132",
+            "C": "0",
+            "D": "2"
+        }
+    },
+    {
+        "question": "Round 789,456 to the nearest 10,000.",
+        "answer": "B",
+        "options": {
+            "A": "780,000",
+            "B": "790,000",
+            "C": "789,000",
+            "D": "800,000"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 666?",
+        "answer": "A",
+        "options": {
+            "A": "DCLXVI",
+            "B": "DCCLXVI",
+            "C": "DCLXXVI",
+            "D": "DCCLXIV"
+        }
+    },
+    {
+        "question": "What is the value of the digit 9 in 5,903,214?",
+        "answer": "B",
+        "options": {
+            "A": "90,000",
+            "B": "900,000",
+            "C": "9,000",
+            "D": "900"
+        }
+    },
+    {
+        "question": "Order these numbers from largest to smallest: 2,000,123; 2,000,321; 2,000,213.",
+        "answer": "A",
+        "options": {
+            "A": "2,000,321; 2,000,213; 2,000,123",
+            "B": "2,000,123; 2,000,213; 2,000,321",
+            "C": "2,000,213; 2,000,321; 2,000,123",
+            "D": "2,000,321; 2,000,123; 2,000,213"
+        }
+    },
+    {
+        "question": "Count backwards in steps of 100 from 1,000,100. What is the next number?",
+        "answer": "A",
+        "options": {
+            "A": "1,000,000",
+            "B": "999,900",
+            "C": "999,000",
+            "D": "900,100"
+        }
+    },
+    {
+        "question": "What is the result of \u20138 \u2013 5?",
+        "answer": "A",
+        "options": {
+            "A": "\u201313",
+            "B": "\u20133",
+            "C": "3",
+            "D": "13"
+        }
+    },
+    {
+        "question": "Round 567,891 to the nearest 100.",
+        "answer": "B",
+        "options": {
+            "A": "567,800",
+            "B": "567,900",
+            "C": "567,890",
+            "D": "568,000"
+        }
+    },
+    {
+        "question": "Which year is MMDCCCLXXXVIII?",
+        "answer": "A",
+        "options": {
+            "A": "2888",
+            "B": "2788",
+            "C": "2878",
+            "D": "2988"
+        }
+    },
+    {
+        "question": "What number is 125,000 less than 750,000?",
+        "answer": "A",
+        "options": {
+            "A": "625,000",
+            "B": "635,000",
+            "C": "875,000",
+            "D": "525,000"
+        }
+    },
+    {
+        "question": "What digit is in the hundred thousands place in 7,890,123?",
+        "answer": "B",
+        "options": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "0"
+        }
+    },
+    {
+        "question": "Count forwards in steps of 10,000 from 950,000. What is the number after two steps?",
+        "answer": "B",
+        "options": {
+            "A": "960,000",
+            "B": "970,000",
+            "C": "1,00

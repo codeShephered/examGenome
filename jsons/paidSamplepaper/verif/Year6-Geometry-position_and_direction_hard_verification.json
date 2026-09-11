@@ -1,0 +1,304 @@
+Question: Point A is at coordinates (3, -2). If you translate point A by moving 5 units left and 4 units up, what are the new coordinates?
+Status: Success
+
+Question: A rectangle has vertices at A(-3, 2), B(4, 2), and C(4, -1). What are the coordinates of the fourth vertex D?
+Status: Success
+
+Question: Point P is at (-4, 5). When reflected in the x-axis, what are the new coordinates of P'?
+Status: Success
+
+Question: A square has opposite vertices at (2, 3) and (6, 7). What is the length of one side of the square?
+Status: Error
+Explanation: The distance between opposite vertices (2, 3) and (6, 7) is the diagonal length ($d$). Calculating $d = \sqrt{(6-2)^2 + (7-3)^2} = \sqrt{4^2 + 4^2} = \sqrt{32} = 4\sqrt{2}$. In a square, the side length $s$ is related to the diagonal by $s = d / \sqrt{2}$. Thus, $s = 4\sqrt{2} / \sqrt{2} = 4$. The correct answer is 4 units (Option B), but the provided answer is D (2√2 units).
+
+Question: Point Q(-2, -3) is translated using the rule (x, y) → (x + 6, y - 4). What are the coordinates of Q'?
+Status: Success
+
+Question: When point R(5, -2) is reflected in the y-axis, what are the coordinates of R'?
+Status: Success
+
+Question: A parallelogram has vertices at A(-2, 1), B(3, 1), and C(5, 4). If ABCD is a parallelogram, what are the coordinates of vertex D?
+Status: Success
+
+Question: Triangle ABC has vertices at A(-3, -2), B(-3, 4), and C(2, 4). What is the area of this triangle in square units?
+Status: Success
+
+Question: Point S(a, b) is translated to S'(a - 3, b + 5). If S' is at (-1, 2), what are the coordinates of S?
+Status: Success
+
+Question: A rhombus has vertices at P(-2, -1), Q(1, 3), and R(4, -1). What are the coordinates of the fourth vertex S?
+Status: Success
+
+Question: Point T is at (4, -6). It is reflected in the x-axis and then reflected in the y-axis. What are the final coordinates?
+Status: Success
+
+Question: A rectangle has one vertex at (-5, -3) and the opposite vertex at (1, 4). What is the perimeter of this rectangle?
+Status: Success
+
+Question: Point U(-3, 4) is translated by vector (7, -9). What are the new coordinates?
+Status: Success
+
+Question: A square has vertices at (a, b), (a + 4, b), (a + 4, b + 4), and (a, b + 4). If one vertex is at (-2, -3), what is the area of the square?
+Status: Success
+
+Question: Point V is at (6, -4). When reflected in the line y = x, what are the coordinates of V'?
+Status: Success
+
+Question: A parallelogram has three vertices at (-4, 2), (-1, 6), and (3, 6). What is the x-coordinate of the fourth vertex?
+Status: Success
+
+Question: Triangle PQR has vertices P(-2, -5), Q(4, -5), and R(1, 1). What is the length of the base PQ?
+Status: Success
+
+Question: Point W(3, 5) is translated using the rule (x, y) → (x - 7, y + 2). What quadrant is W' located in?
+Status: Success
+
+Question: A square has opposite vertices at (-3, -2) and (5, 6). What is the perimeter of the square?
+Status: Error
+Explanation: The distance between opposite vertices (-3, -2) and (5, 6) is the diagonal length ($d$). $d = \sqrt{(5 - (-3))^2 + (6 - (-2))^2} = \sqrt{8^2 + 8^2} = \sqrt{128} = 8\sqrt{2}$. The side length $s$ is $d / \sqrt{2} = 8$. The perimeter of the square is $4 \times s = 4 \times 8 = 32$ units. The correct answer is 32 units (Option B), but the provided answer is A (16√2 units).
+
+Question: Point X is reflected in the x-axis to give X'(2, 5). What were the original coordinates of X?
+Status: Success
+
+Question: A rectangle has vertices at A(2, -3), B(2, 4), C(-5, 4), and D(-5, -3). What is the area of this rectangle?
+Status: Success
+
+Question: Point Y(-5, 3) is translated 8 units right and 6 units down. What are the new coordinates?
+Status: Success
+
+Question: A rhombus has consecutive vertices at (0, 0), (5, 0), and (7, 4). What are the coordinates of the fourth vertex?
+Status: Success
+
+Question: Point Z is at (4, -7). When reflected in the y-axis and then the x-axis, what are the final coordinates?
+Status: Success
+
+Question: A square has one vertex at (a, b) and an adjacent vertex at (a + 6, b). If another vertex is at (a, b + 6), what is the area of the square?
+Status: Success
+
+Question: Triangle ABC has vertices at A(-6, 2), B(0, 2), and C(-3, 8). What is the height of the triangle from vertex C to base AB?
+Status: Success
+
+Question: Point M(a, b) is translated to M'(a + 4, b - 7). If M is at (-3, 5), what are the coordinates of M'?
+Status: Success
+
+Question: A parallelogram has vertices at (1, -2), (5, -2), (7, 3), and a fourth vertex. What is the y-coordinate of the fourth vertex?
+Status: Success
+
+Question: Point N(-4, -6) is reflected in the line y = -x. What are the coordinates of N'?
+Status: Success
+
+Question: A rectangle has diagonal endpoints at (-3, -4) and (5, 2). What is the length of the diagonal?
+Status: Success
+
+Question: Point P is at (7, -3). It is translated by vector (-9, 8). What are the new coordinates?
+Status: Success
+
+Question: A square has vertices at (2, 1), (7, 1), (7, 6), and (2, 6). What is the perimeter of the square?
+Status: Success
+
+Question: Point Q is reflected in the x-axis to give Q'(-3, 4). What were the original coordinates of Q?
+Status: Success
+
+Question: A rhombus has vertices at (0, 2), (4, 6), (8, 2), and a fourth vertex. What are the coordinates of the fourth vertex?
+Status: Success
+
+Question: Triangle DEF has vertices D(-4, -3), E(2, -3), and F(-1, 5). What is the area of the triangle?
+Status: Success
+
+Question: Point R(5, 8) is translated using the rule (x, y) → (x - 8, y - 11). In which quadrant is R' located?
+Status: Success
+
+Question: A parallelogram has vertices at (-3, 1), (2, 1), (4, 5), and D. What is the x-coordinate of vertex D?
+Status: Success
+
+Question: Point S is at (-6, 4). When reflected in the y-axis, what are the coordinates of S'?
+Status: Success
+
+Question: A square has opposite vertices at (-4, -5) and (2, 1). What is the side length of the square?
+Status: Error
+Explanation: The distance between opposite vertices (-4, -5) and (2, 1) is the diagonal $d = \sqrt{(2 - (-4))^2 + (1 - (-5))^2} = \sqrt{6^2 + 6^2} = 6\sqrt{2}$. The side length $s$ is $d / \sqrt{2} = 6$. The correct answer is 6 units (Option B), but the provided answer is A (3√2 units).
+
+Question: Point T(a, b) is translated to T'(a - 5, b + 3). If T' is at (2, -1), what were the original coordinates of T?
+Status: Success
+
+Question: Rectangle ABCD has vertices A(-2, -6), B(5, -6), C(5, 1), and D(-2, 1). What is the perimeter?
+Status: Success
+
+Question: Point U is at (3, -5). It is reflected in the x-axis and then translated by vector (4, 6). What are the final coordinates?
+Status: Success
+
+Question: A rhombus has consecutive vertices at (-1, -3), (3, -1), and (5, -5). What is the y-coordinate of the fourth vertex?
+Status: Success
+
+Question: Point V(-7, 2) is translated 9 units right and 5 units down. What are the new coordinates?
+Status: Success
+
+Question: Triangle GHI has vertices G(0, 0), H(6, 0), and I(3, 4). What is the area of the triangle?
+Status: Success
+
+Question: Point W is at (8, -2). When reflected in the line y = x, what are the coordinates of W'?
+Status: Success
+
+Question: A parallelogram has vertices at (1, 2), (6, 2), (8, 7), and K. What are the coordinates of vertex K?
+Status: Success
+
+Question: A square has one vertex at (a, b) and an opposite vertex at (a + d, b + d). If d = 5 and one vertex is at (2, -3), what is the area?
+Status: Error
+Explanation: If opposite vertices are (a, b) and (a + d, b + d), the horizontal and vertical distance between them is $d$. This means the sides of the square are parallel to the axes with length $d$. The area of the square is $s^2 = d^2 = 5^2 = 25$ square units. The correct answer is 25 square units (Option A), but the provided answer is C (12.5 square units).
+
+Question: Point X is reflected in the y-axis to give X'(4, -7). What were the original coordinates of X?
+Status: Success
+
+Question: Point Y(6, 3) is translated by vector (-10, -8). What quadrant is Y' in?
+Status: Success
+
+Question: Rectangle PQRS has vertices P(-3, 2), Q(4, 2), and R(4, -5). What is the area of the rectangle?
+Status: Success
+
+Question: Point Z is at (-5, -8). It is reflected in both axes. What are the final coordinates?
+Status: Success
+
+Question: A rhombus has vertices at (2, 0), (0, 3), (-2, 0), and L. What are the coordinates of vertex L?
+Status: Success
+
+Question: Triangle JKL has vertices J(-5, 1), K(1, 1), and L(-2, 7). What is the length of base JK?
+Status: Success
+
+Question: Point A(4, 5) is translated using the rule (x, y) → (x - 9, y + 3). What are the coordinates of A'?
+Status: Success
+
+Question: A square has vertices at (-2, -4), (3, -4), (3, 1), and (-2, 1). What is the perimeter of the square?
+Status: Success
+
+Question: Point B(-3, 6) is reflected in the line y = -x. What are the coordinates of B'?
+Status: Success
+
+Question: A parallelogram has vertices at (-2, -3), (3, -3), (5, 2), and M. What is the x-coordinate of vertex M?
+Status: Success
+
+Question: Point C is at (7, -4). It is translated 11 units left and 9 units up. What are the new coordinates?
+Status: Success
+
+Question: Triangle MNO has vertices M(0, -2), N(8, -2), and O(4, 6). What is the area of the triangle?
+Status: Success
+
+Question: Point D is at (-8, 5). When reflected in the x-axis, what are the coordinates of D'?
+Status: Success
+
+Question: A rectangle has opposite corners at (-6, -2) and (2, 5). What is the perimeter?
+Status: Success
+
+Question: Point E(a, b) is translated to E'(a + 7, b - 4). If E' is at (3, -6), what were the original coordinates of E?
+Status: Success
+
+Question: A rhombus has consecutive vertices at (1, 1), (5, 4), and (9, 1). What is the y-coordinate of the fourth vertex?
+Status: Success
+
+Question: Point F is at (9, -7). When reflected in the y-axis, what are the coordinates of F'?
+Status: Success
+
+Question: A square has one vertex at (a, b) and the opposite vertex at (a + 8, b + 8). What is the area of the square?
+Status: Error
+Explanation: The horizontal and vertical distance between opposite vertices $(a, b)$ and $(a + 8, b + 8)$ is 8 units. This means the side length of the square is 8 units. The area is $s^2 = 8^2 = 64$ square units. The correct answer is 64 square units (Option B), but the provided answer is A (32 square units).
+
+Question: Point G(-2, 8) is translated by vector (5, -12). What are the new coordinates?
+Status: Success
+
+Question: A parallelogram has vertices at (0, 0), (7, 0), (10, 5), and N. What are the coordinates of vertex N?
+Status: Success
+
+Question: Triangle PQR has vertices P(-3, -4), Q(5, -4), and R(1, 4). What is the height of the triangle from vertex R to base PQ?
+Status: Success
+
+Question: Point H is at (5, 3). It is reflected in the line y = x. What are the coordinates of H'?
+Status: Success
+
+Question: Point I(-4, -5) is translated 6 units right and 8 units up. In which quadrant is I' located?
+Status: Success
+
+Question: A square has vertices at (1, -2), (6, -2), (6, 3), and (1, 3). What is the area of the square?
+Status: Success
+
+Question: Point J is reflected in the x-axis to give J'(4, -8). What were the original coordinates of J?
+Status: Success
+
+Question: A rhombus has vertices at (-3, 0), (0, 4), (3, 0), and O. What are the coordinates of vertex O?
+Status: Success
+
+Question: Rectangle STUV has vertices S(-4, 3), T(3, 3), U(3, -4), and V(-4, -4). What is the perimeter?
+Status: Success
+
+Question: Point K(6, -9) is translated using the rule (x, y) → (x - 10, y + 14). What are the coordinates of K'?
+Status: Success
+
+Question: A parallelogram has vertices at (-5, -2), (1, -2), (4, 3), and P. What is the y-coordinate of vertex P?
+Status: Success
+
+Question: Point L is at (-7, 6). It is reflected in the y-axis and then in the x-axis. What are the final coordinates?
+Status: Success
+
+Question: Triangle ABC has vertices A(-7, 0), B(5, 0), and C(-1, 9). What is the area of the triangle?
+Status: Success
+
+Question: Point M(a, b) is translated to M'(a - 8, b + 6). If M' is at (-3, 2), what were the original coordinates?
+Status: Success
+
+Question: Point N is at (8, -10). When reflected in the line y = -x, what are the coordinates of N'?
+Status: Success
+
+Question: A square has opposite vertices at (-5, -6) and (3, 2). What is the length of the diagonal?
+Status: Success
+
+Question: Point O(-9, 4) is translated 12 units right and 7 units down. What are the new coordinates?
+Status: Success
+
+Question: A rhombus has consecutive vertices at (2, -1), (7, 2), and (12, -1). What is the x-coordinate of the fourth vertex?
+Status: Success
+
+Question: Rectangle WXYZ has vertices W(0, -5), X(9, -5), Y(9, 2), and Z(0, 2). What is the area?
+Status: Success
+
+Question: Point P is reflected in the y-axis to give P'(-6, 9). What were the original coordinates of P?
+Status: Success
+
+Question: A parallelogram has vertices at (2, 3), (8, 3), (11, 8), and Q. What are the coordinates of vertex Q?
+Status: Success
+
+Question: Point Q(10, 7) is translated by vector (-15, -12). In which quadrant is Q' located?
+Status: Success
+
+Question: Triangle DEF has vertices D(-8, -3), E(4, -3), and F(-2, 9). What is the length of base DE?
+Status: Success
+
+Question: Point R is at (-11, 8). It is reflected in the x-axis and then translated by vector (7, -3). What are the final coordinates?
+Status: Success
+
+Question: A square has one vertex at (a, b) and an adjacent vertex at (a + 7, b). If another vertex is at (a, b + 7), what is the perimeter?
+Status: Success
+
+Question: Point S(3, -12) is translated using the rule (x, y) → (x + 5, y + 16). What are the coordinates of S'?
+Status: Success
+
+Question: A rhombus has vertices at (-4, 1), (0, 5), (4, 1), and R. What are the coordinates of vertex R?
+Status: Success
+
+Question: Point T is at (6, 11). When reflected in the line y = x, what are the coordinates of T'?
+Status: Success
+
+Question: Rectangle ABCD has vertices A(-5, -7), B(3, -7), C(3, 0), and D(-5, 0). What is the perimeter?
+Status: Success
+
+Question: Point U(a, b) is translated to U'(a + 9, b - 11). If U is at (-6, 4), what are the coordinates of U'?
+Status: Success
+
+Question: Triangle GHI has vertices G(0, -6), H(10, -6), and I(5, 6). What is the area of the triangle?
+Status: Success
+
+Question: Point V is reflected in the x-axis to give V'(7, -5). What were the original coordinates of V?
+Status: Success
+
+Question: A parallelogram has vertices at (-6, -4), (0, -4), (3, 2), and W. What is the y-coordinate of vertex W?
+Status: Success
+
+Question: Point X(-10, 15) is translated 14 units right and 20 units down. What are the new coordinates?
+Status: Success

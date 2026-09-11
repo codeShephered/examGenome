@@ -25,8 +25,8 @@ from reportlab.platypus import (
 )
 
 # === Configuration ===
-INPUT_FILE = "../../jsons/year456/src/y6Number_Number_number_and_place_value.json"  # Folder where your *.json files are stored
-OUTPUT_PREFIX = "Year6 - Number Place value"  # Prefix for output PDF files
+INPUT_FILE = "../../jsons/year456/src/y4Number_mulDiv_extracted_data.json"  # Folder where your *.json files are stored
+OUTPUT_PREFIX = "Year4 - Number Multiplication, Division"  # Prefix for output PDF files
 content_output = f"{OUTPUT_PREFIX}"
 TOTAL_PER_PDF = 30  # Questions per PDF
 LOGO_PATH = "/Users/rd/examGenome.png"
@@ -499,9 +499,9 @@ def select_questions(all_data, used, filters, count):
                 #print("Q : "+str(q))
 
     #random.shuffle(pool)
-    #print("Pool :"+str(pool))
+    print("Pool :"+str(pool))
     selected = [(s,q) for s, q in pool if s not in used]
-    #print("Sel : "+str(selected))
+    print("Sel : "+str(selected))
     temp_list = [(s, q) for s, q in selected[:count]]
     #print(temp_list)
     
@@ -575,6 +575,7 @@ def create_multiple_pdfs(all_data):
         # --- 1️⃣ First 7 questions: simpleNumeric + easy difficulty ---
         #numeric_type = random.choice(simpleNumeric)
         #print("Numeric :" +str(simpleNumeric))
+        print("data : "+str(all_data))
         section1 = select_questions(
             all_data,
             used_questions,

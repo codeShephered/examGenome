@@ -1,0 +1,1602 @@
+[
+    {
+      "qid": 1,
+      "question": "Point A is at coordinates (3, -2). If you translate point A by moving 5 units left and 4 units up, what are the new coordinates?",
+      "options": {
+        "A": "(-2, 2)",
+        "B": "(8, 2)",
+        "C": "(-2, -6)",
+        "D": "(8, -6)"
+      },
+      "answer": "A",
+      "explanation": "Moving 5 units left means subtracting 5 from the x-coordinate: 3 - 5 = -2. Moving 4 units up means adding 4 to the y-coordinate: -2 + 4 = 2. The new coordinates are (-2, 2).",
+      "difficulty": "hard",
+      "imgFileName": "1_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 2,
+      "question": "A rectangle has vertices at A(-3, 2), B(4, 2), and C(4, -1). What are the coordinates of the fourth vertex D?",
+      "options": {
+        "A": "(-3, -1)",
+        "B": "(4, -3)",
+        "C": "(-3, 1)",
+        "D": "(3, -1)"
+      },
+      "answer": "A",
+      "explanation": "In a rectangle, opposite sides are parallel and equal. Vertex D must have the same x-coordinate as A (-3) and the same y-coordinate as C (-1), giving D(-3, -1).",
+      "difficulty": "hard",
+      "imgFileName": "2_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 3,
+      "question": "Point P is at (-4, 5). When reflected in the x-axis, what are the new coordinates of P'?",
+      "options": {
+        "A": "(-4, -5)",
+        "B": "(4, 5)",
+        "C": "(4, -5)",
+        "D": "(-4, 5)"
+      },
+      "answer": "A",
+      "explanation": "Reflecting in the x-axis keeps the x-coordinate the same but changes the sign of the y-coordinate. So (-4, 5) becomes (-4, -5).",
+      "difficulty": "hard",
+      "imgFileName": "3_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 4,
+      "question": "A square has opposite vertices at (2, 3) and (6, 7). What is the length of one side of the square?",
+      "options": {
+        "A": "4√2 units",
+        "B": "4 units",
+        "C": "8 units",
+        "D": "2√2 units"
+      },
+      "answer": "B",
+      "explanation": "The distance between opposite vertices (2, 3) and (6, 7) is the diagonal length ($d$). Calculating $d = \sqrt{(6-2)^2 + (7-3)^2} = \sqrt{4^2 + 4^2} = \sqrt{32} = 4\sqrt{2}$. In a square, the side length $s$ is related to the diagonal by $s = d / \sqrt{2}$. Thus, $s = 4\sqrt{2} / \sqrt{2} = 4$. The correct answer is 4 units (Option B).",
+      "difficulty": "hard",
+      "imgFileName": "4_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 5,
+      "question": "Point Q(-2, -3) is translated using the rule (x, y) → (x + 6, y - 4). What are the coordinates of Q'?",
+      "options": {
+        "A": "(4, -7)",
+        "B": "(-8, 1)",
+        "C": "(4, 1)",
+        "D": "(-8, -7)"
+      },
+      "answer": "A",
+      "explanation": "Apply the translation rule: x' = -2 + 6 = 4, y' = -3 - 4 = -7. The new coordinates are (4, -7).",
+      "difficulty": "hard",
+      "imgFileName": "5_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 6,
+      "question": "When point R(5, -2) is reflected in the y-axis, what are the coordinates of R'?",
+      "options": {
+        "A": "(-5, -2)",
+        "B": "(5, 2)",
+        "C": "(-5, 2)",
+        "D": "(5, -2)"
+      },
+      "answer": "A",
+      "explanation": "Reflecting in the y-axis changes the sign of the x-coordinate but keeps the y-coordinate the same. So (5, -2) becomes (-5, -2).",
+      "difficulty": "hard",
+      "imgFileName": "6_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 7,
+      "question": "A parallelogram has vertices at A(-2, 1), B(3, 1), and C(5, 4). If ABCD is a parallelogram, what are the coordinates of vertex D?",
+      "options": {
+        "A": "(0, 4)",
+        "B": "(-4, 4)",
+        "C": "(0, -2)",
+        "D": "(7, 4)"
+      },
+      "answer": "A",
+      "explanation": "In a parallelogram, opposite sides are parallel and equal. Vector AB = (5, 0). Vector DC must equal AB, so from C(5, 4): D = C - AB = (5-5, 4-0) = (0, 4).",
+      "difficulty": "hard",
+      "imgFileName": "7_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 8,
+      "question": "Triangle ABC has vertices at A(-3, -2), B(-3, 4), and C(2, 4). What is the area of this triangle in square units?",
+      "options": {
+        "A": "15 square units",
+        "B": "30 square units",
+        "C": "12 square units",
+        "D": "18 square units"
+      },
+      "answer": "A",
+      "explanation": "This is a right triangle with base AB (vertical line from -2 to 4 = 6 units) and height from B to C (horizontal line from -3 to 2 = 5 units). Area = ½ × base × height = ½ × 6 × 5 = 15 square units.",
+      "difficulty": "hard",
+      "imgFileName": "8_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 9,
+      "question": "Point S(a, b) is translated to S'(a - 3, b + 5). If S' is at (-1, 2), what are the coordinates of S?",
+      "options": {
+        "A": "(2, -3)",
+        "B": "(-4, 7)",
+        "C": "(2, 7)",
+        "D": "(-4, -3)"
+      },
+      "answer": "A",
+      "explanation": "Working backwards: if a - 3 = -1, then a = 2. If b + 5 = 2, then b = -3. The original coordinates are (2, -3).",
+      "difficulty": "hard",
+      "imgFileName": "9_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 10,
+      "question": "A rhombus has vertices at P(-2, -1), Q(1, 3), and R(4, -1). What are the coordinates of the fourth vertex S?",
+      "options": {
+        "A": "(1, -5)",
+        "B": "(1, 5)",
+        "C": "(-1, -5)",
+        "D": "(3, -5)"
+      },
+      "answer": "A",
+      "explanation": "In a rhombus, diagonals bisect each other. The midpoint of PR is (1, -1). This must also be the midpoint of QS. If Q is (1, 3), then S must be at (1, -5) so that midpoint = [(1+1)/2, (3-5)/2] = (1, -1).",
+      "difficulty": "hard",
+      "imgFileName": "10_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 11,
+      "question": "Point T is at (4, -6). It is reflected in the x-axis and then reflected in the y-axis. What are the final coordinates?",
+      "options": {
+        "A": "(-4, 6)",
+        "B": "(4, 6)",
+        "C": "(-4, -6)",
+        "D": "(4, -6)"
+      },
+      "answer": "A",
+      "explanation": "First reflection in x-axis: (4, -6) → (4, 6). Second reflection in y-axis: (4, 6) → (-4, 6). Final coordinates are (-4, 6).",
+      "difficulty": "hard",
+      "imgFileName": "11_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 12,
+      "question": "A rectangle has one vertex at (-5, -3) and the opposite vertex at (1, 4). What is the perimeter of this rectangle?",
+      "options": {
+        "A": "26 units",
+        "B": "42 units",
+        "C": "20 units",
+        "D": "13 units"
+      },
+      "answer": "A",
+      "explanation": "The length is |1 - (-5)| = 6 units and the width is |4 - (-3)| = 7 units. Perimeter = 2(length + width) = 2(6 + 7) = 26 units.",
+      "difficulty": "hard",
+      "imgFileName": "12_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 13,
+      "question": "Point U(-3, 4) is translated by vector (7, -9). What are the new coordinates?",
+      "options": {
+        "A": "(4, -5)",
+        "B": "(-10, 13)",
+        "C": "(4, 13)",
+        "D": "(-10, -5)"
+      },
+      "answer": "A",
+      "explanation": "Add the translation vector: x' = -3 + 7 = 4, y' = 4 + (-9) = -5. The new coordinates are (4, -5).",
+      "difficulty": "hard",
+      "imgFileName": "13_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 14,
+      "question": "A square has vertices at (a, b), (a + 4, b), (a + 4, b + 4), and (a, b + 4). If one vertex is at (-2, -3), what is the area of the square?",
+      "options": {
+        "A": "16 square units",
+        "B": "8 square units",
+        "C": "12 square units",
+        "D": "20 square units"
+      },
+      "answer": "A",
+      "explanation": "The side length of the square is 4 units (the difference in x or y coordinates). Area = side² = 4² = 16 square units.",
+      "difficulty": "hard",
+      "imgFileName": "14_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 15,
+      "question": "Point V is at (6, -4). When reflected in the line y = x, what are the coordinates of V'?",
+      "options": {
+        "A": "(-4, 6)",
+        "B": "(6, 4)",
+        "C": "(-6, 4)",
+        "D": "(4, -6)"
+      },
+      "answer": "A",
+      "explanation": "When reflecting in the line y = x, the x and y coordinates swap. So (6, -4) becomes (-4, 6).",
+      "difficulty": "hard",
+      "imgFileName": "15_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 16,
+      "question": "A parallelogram has three vertices at (-4, 2), (-1, 6), and (3, 6). What is the x-coordinate of the fourth vertex?",
+      "options": {
+        "A": "0",
+        "B": "6",
+        "C": "-2",
+        "D": "2"
+      },
+      "answer": "A",
+      "explanation": "In a parallelogram, opposite sides are parallel. The vector from (-4, 2) to (-1, 6) is (3, 4). The fourth vertex must be at (3, 6) - (3, 4) = (0, 2). The x-coordinate is 0.",
+      "difficulty": "hard",
+      "imgFileName": "16_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 17,
+      "question": "Triangle PQR has vertices P(-2, -5), Q(4, -5), and R(1, 1). What is the length of the base PQ?",
+      "options": {
+        "A": "6 units",
+        "B": "5 units",
+        "C": "8 units",
+        "D": "3 units"
+      },
+      "answer": "A",
+      "explanation": "Since P and Q have the same y-coordinate (-5), PQ is horizontal. Length = |4 - (-2)| = 6 units.",
+      "difficulty": "hard",
+      "imgFileName": "17_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 18,
+      "question": "Point W(3, 5) is translated using the rule (x, y) → (x - 7, y + 2). What quadrant is W' located in?",
+      "options": {
+        "A": "Quadrant II",
+        "B": "Quadrant I",
+        "C": "Quadrant III",
+        "D": "Quadrant IV"
+      },
+      "answer": "A",
+      "explanation": "Applying the rule: W' = (3 - 7, 5 + 2) = (-4, 7). Since x is negative and y is positive, W' is in Quadrant II.",
+      "difficulty": "hard",
+      "imgFileName": "18_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 19,
+      "question": "A square has opposite vertices at (-3, -2) and (5, 6). What is the perimeter of the square?",
+      "options": {
+        "A": "16√2 units",
+        "B": "32 units",
+        "C": "8√2 units",
+        "D": "64 units"
+      },
+      "answer": "B",
+      "explanation": "The diagonal length is √[(5-(-3))² + (6-(-2))²] = √[64 + 64] = 8√2. For a square, side = diagonal/√2 = 8√2/√2 = 8. Perimeter = 4 × 8 = 32. But checking: this gives 32. Option A is 16√2 = 16 × 1.414 ≈ 22.6. Let me recalculate: diagonal = 8√2, side = 8, perimeter = 32. The correct answer should be B.",
+      "difficulty": "hard",
+      "imgFileName": "19_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 20,
+      "question": "Point X is reflected in the x-axis to give X'(2, 5). What were the original coordinates of X?",
+      "options": {
+        "A": "(2, -5)",
+        "B": "(-2, 5)",
+        "C": "(-2, -5)",
+        "D": "(2, 5)"
+      },
+      "answer": "A",
+      "explanation": "Reflection in the x-axis changes the sign of the y-coordinate. If X' is (2, 5), then X was at (2, -5).",
+      "difficulty": "hard",
+      "imgFileName": "20_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 21,
+      "question": "A rectangle has vertices at A(2, -3), B(2, 4), C(-5, 4), and D(-5, -3). What is the area of this rectangle?",
+      "options": {
+        "A": "49 square units",
+        "B": "35 square units",
+        "C": "28 square units",
+        "D": "14 square units"
+      },
+      "answer": "A",
+      "explanation": "Length = |4 - (-3)| = 7 units. Width = |2 - (-5)| = 7 units. Area = 7 × 7 = 49 square units.",
+      "difficulty": "hard",
+      "imgFileName": "21_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 22,
+      "question": "Point Y(-5, 3) is translated 8 units right and 6 units down. What are the new coordinates?",
+      "options": {
+        "A": "(3, -3)",
+        "B": "(-13, -3)",
+        "C": "(3, 9)",
+        "D": "(-13, 9)"
+      },
+      "answer": "A",
+      "explanation": "Right 8 units: -5 + 8 = 3. Down 6 units: 3 - 6 = -3. New coordinates are (3, -3).",
+      "difficulty": "hard",
+      "imgFileName": "22_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 23,
+      "question": "A rhombus has consecutive vertices at (0, 0), (5, 0), and (7, 4). What are the coordinates of the fourth vertex?",
+      "options": {
+        "A": "(2, 4)",
+        "B": "(3, 4)",
+        "C": "(2, -4)",
+        "D": "(5, 4)"
+      },
+      "answer": "A",
+      "explanation": "In a rhombus, opposite sides are parallel and equal. Vector from (0,0) to (5,0) is (5,0). From (7,4), subtract this vector: (7-5, 4-0) = (2, 4).",
+      "difficulty": "hard",
+      "imgFileName": "23_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 24,
+      "question": "Point Z is at (4, -7). When reflected in the y-axis and then the x-axis, what are the final coordinates?",
+      "options": {
+        "A": "(-4, 7)",
+        "B": "(4, 7)",
+        "C": "(-4, -7)",
+        "D": "(4, -7)"
+      },
+      "answer": "A",
+      "explanation": "Reflect in y-axis: (4, -7) → (-4, -7). Reflect in x-axis: (-4, -7) → (-4, 7). Final coordinates are (-4, 7).",
+      "difficulty": "hard",
+      "imgFileName": "24_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 25,
+      "question": "A square has one vertex at (a, b) and an adjacent vertex at (a + 6, b). If another vertex is at (a, b + 6), what is the area of the square?",
+      "options": {
+        "A": "36 square units",
+        "B": "12 square units",
+        "C": "24 square units",
+        "D": "18 square units"
+      },
+      "answer": "A",
+      "explanation": "The side length is 6 units (from the coordinates given). Area = side² = 6² = 36 square units.",
+      "difficulty": "hard",
+      "imgFileName": "25_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 26,
+      "question": "Triangle ABC has vertices at A(-6, 2), B(0, 2), and C(-3, 8). What is the height of the triangle from vertex C to base AB?",
+      "options": {
+        "A": "6 units",
+        "B": "8 units",
+        "C": "3 units",
+        "D": "4 units"
+      },
+      "answer": "A",
+      "explanation": "The base AB is horizontal at y = 2. The height is the vertical distance from C to this line: |8 - 2| = 6 units.",
+      "difficulty": "hard",
+      "imgFileName": "26_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 27,
+      "question": "Point M(a, b) is translated to M'(a + 4, b - 7). If M is at (-3, 5), what are the coordinates of M'?",
+      "options": {
+        "A": "(1, -2)",
+        "B": "(-7, 12)",
+        "C": "(1, 12)",
+        "D": "(-7, -2)"
+      },
+      "answer": "A",
+      "explanation": "Apply the translation: x' = -3 + 4 = 1, y' = 5 - 7 = -2. M' is at (1, -2).",
+      "difficulty": "hard",
+      "imgFileName": "27_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 28,
+      "question": "A parallelogram has vertices at (1, -2), (5, -2), (7, 3), and a fourth vertex. What is the y-coordinate of the fourth vertex?",
+      "options": {
+        "A": "3",
+        "B": "-2",
+        "C": "5",
+        "D": "1"
+      },
+      "answer": "A",
+      "explanation": "In a parallelogram, opposite sides are parallel. The vector from (1, -2) to (5, -2) is (4, 0). From (7, 3), subtract (4, 0) to get (3, 3). The y-coordinate is 3.",
+      "difficulty": "hard",
+      "imgFileName": "28_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 29,
+      "question": "Point N(-4, -6) is reflected in the line y = -x. What are the coordinates of N'?",
+      "options": {
+        "A": "(6, 4)",
+        "B": "(-6, -4)",
+        "C": "(4, 6)",
+        "D": "(-4, 6)"
+      },
+      "answer": "A",
+      "explanation": "Reflection in y = -x swaps coordinates and changes both signs: (-4, -6) becomes (6, 4).",
+      "difficulty": "hard",
+      "imgFileName": "29_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 30,
+      "question": "A rectangle has diagonal endpoints at (-3, -4) and (5, 2). What is the length of the diagonal?",
+      "options": {
+        "A": "10 units",
+        "B": "8 units",
+        "C": "12 units",
+        "D": "14 units"
+      },
+      "answer": "A",
+      "explanation": "Diagonal length = √[(5-(-3))² + (2-(-4))²] = √[64 + 36] = √100 = 10 units.",
+      "difficulty": "hard",
+      "imgFileName": "30_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 31,
+      "question": "Point P is at (7, -3). It is translated by vector (-9, 8). What are the new coordinates?",
+      "options": {
+        "A": "(-2, 5)",
+        "B": "(16, 5)",
+        "C": "(-2, -11)",
+        "D": "(16, -11)"
+      },
+      "answer": "A",
+      "explanation": "Add the vector: x' = 7 + (-9) = -2, y' = -3 + 8 = 5. New coordinates are (-2, 5).",
+      "difficulty": "hard",
+      "imgFileName": "31_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 32,
+      "question": "A square has vertices at (2, 1), (7, 1), (7, 6), and (2, 6). What is the perimeter of the square?",
+      "options": {
+        "A": "20 units",
+        "B": "25 units",
+        "C": "15 units",
+        "D": "10 units"
+      },
+      "answer": "A",
+      "explanation": "The side length is |7 - 2| = 5 units. Perimeter = 4 × 5 = 20 units.",
+      "difficulty": "hard",
+      "imgFileName": "32_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 33,
+      "question": "Point Q is reflected in the x-axis to give Q'(-3, 4). What were the original coordinates of Q?",
+      "options": {
+        "A": "(-3, -4)",
+        "B": "(3, 4)",
+        "C": "(3, -4)",
+        "D": "(-3, 4)"
+      },
+      "answer": "A",
+      "explanation": "Reflection in the x-axis changes the sign of the y-coordinate. If Q' is (-3, 4), then Q was at (-3, -4).",
+      "difficulty": "hard",
+      "imgFileName": "33_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 34,
+      "question": "A rhombus has vertices at (0, 2), (4, 6), (8, 2), and a fourth vertex. What are the coordinates of the fourth vertex?",
+      "options": {
+        "A": "(4, -2)",
+        "B": "(4, 2)",
+        "C": "(0, -2)",
+        "D": "(8, -2)"
+      },
+      "answer": "A",
+      "explanation": "In a rhombus, diagonals bisect each other. Midpoint of (0, 2) and (8, 2) is (4, 2). This is also the midpoint of (4, 6) and the fourth vertex, which must be (4, -2).",
+      "difficulty": "hard",
+      "imgFileName": "34_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 35,
+      "question": "Triangle DEF has vertices D(-4, -3), E(2, -3), and F(-1, 5). What is the area of the triangle?",
+      "options": {
+        "A": "24 square units",
+        "B": "48 square units",
+        "C": "12 square units",
+        "D": "36 square units"
+      },
+      "answer": "A",
+      "explanation": "Base DE is horizontal with length |2 - (-4)| = 6 units. Height from F to base is |5 - (-3)| = 8 units. Area = ½ × 6 × 8 = 24 square units.",
+      "difficulty": "hard",
+      "imgFileName": "35_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 36,
+      "question": "Point R(5, 8) is translated using the rule (x, y) → (x - 8, y - 11). In which quadrant is R' located?",
+      "options": {
+        "A": "Quadrant III",
+        "B": "Quadrant I",
+        "C": "Quadrant II",
+        "D": "Quadrant IV"
+      },
+      "answer": "A",
+      "explanation": "R' = (5 - 8, 8 - 11) = (-3, -3). Both coordinates are negative, so R' is in Quadrant III.",
+      "difficulty": "hard",
+      "imgFileName": "36_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 37,
+      "question": "A parallelogram has vertices at (-3, 1), (2, 1), (4, 5), and D. What is the x-coordinate of vertex D?",
+      "options": {
+        "A": "-1",
+        "B": "1",
+        "C": "0",
+        "D": "3"
+      },
+      "answer": "A",
+      "explanation": "Vector from (-3, 1) to (2, 1) is (5, 0). From (4, 5), subtract this vector: (4 - 5, 5 - 0) = (-1, 5). The x-coordinate is -1.",
+      "difficulty": "hard",
+      "imgFileName": "37_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 38,
+      "question": "Point S is at (-6, 4). When reflected in the y-axis, what are the coordinates of S'?",
+      "options": {
+        "A": "(6, 4)",
+        "B": "(-6, -4)",
+        "C": "(6, -4)",
+        "D": "(-6, 4)"
+      },
+      "answer": "A",
+      "explanation": "Reflection in the y-axis changes the sign of the x-coordinate: (-6, 4) becomes (6, 4).",
+      "difficulty": "hard",
+      "imgFileName": "38_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 39,
+      "question": "A square has opposite vertices at (-4, -5) and (2, 1). What is the side length of the square?",
+      "options": {
+        "A": "3√2 units",
+        "B": "6 units",
+        "C": "3 units",
+        "D": "6√2 units"
+      },
+      "answer": "B",
+      "explanation": "Diagonal = √[(2-(-4))² + (1-(-5))²] = √[36 + 36] = 6√2. Side = diagonal/√2 = 6√2/√2 = 6. But answer shows 3√2. Rechecking: diagonal = 6√2, so side = 6.",
+      "difficulty": "hard",
+      "imgFileName": "39_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 40,
+      "question": "Point T(a, b) is translated to T'(a - 5, b + 3). If T' is at (2, -1), what were the original coordinates of T?",
+      "options": {
+        "A": "(7, -4)",
+        "B": "(-3, 2)",
+        "C": "(7, 2)",
+        "D": "(-3, -4)"
+      },
+      "answer": "A",
+      "explanation": "Working backwards: if a - 5 = 2, then a = 7. If b + 3 = -1, then b = -4. Original coordinates are (7, -4).",
+      "difficulty": "hard",
+      "imgFileName": "40_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 41,
+      "question": "Rectangle ABCD has vertices A(-2, -6), B(5, -6), C(5, 1), and D(-2, 1). What is the perimeter?",
+      "options": {
+        "A": "28 units",
+        "B": "49 square units",
+        "C": "14 units",
+        "D": "21 units"
+      },
+      "answer": "A",
+      "explanation": "Length = |5 - (-2)| = 7 units. Width = |1 - (-6)| = 7 units. Perimeter = 2(7 + 7) = 28 units.",
+      "difficulty": "hard",
+      "imgFileName": "41_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 42,
+      "question": "Point U is at (3, -5). It is reflected in the x-axis and then translated by vector (4, 6). What are the final coordinates?",
+      "options": {
+        "A": "(7, 11)",
+        "B": "(-1, 11)",
+        "C": "(7, -1)",
+        "D": "(-1, -1)"
+      },
+      "answer": "A",
+      "explanation": "Reflect in x-axis: (3, -5) → (3, 5). Translate by (4, 6): (3 + 4, 5 + 6) = (7, 11).",
+      "difficulty": "hard",
+      "imgFileName": "42_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 43,
+      "question": "A rhombus has consecutive vertices at (-1, -3), (3, -1), and (5, -5). What is the y-coordinate of the fourth vertex?",
+      "options": {
+        "A": "-7",
+        "B": "-3",
+        "C": "-5",
+        "D": "-1"
+      },
+      "answer": "A",
+      "explanation": "Vector from (-1, -3) to (3, -1) is (4, 2). From (5, -5), subtract this vector: (5 - 4, -5 - 2) = (1, -7). The y-coordinate is -7.",
+      "difficulty": "hard",
+      "imgFileName": "43_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 44,
+      "question": "Point V(-7, 2) is translated 9 units right and 5 units down. What are the new coordinates?",
+      "options": {
+        "A": "(2, -3)",
+        "B": "(-16, -3)",
+        "C": "(2, 7)",
+        "D": "(-16, 7)"
+      },
+      "answer": "A",
+      "explanation": "Right 9 units: -7 + 9 = 2. Down 5 units: 2 - 5 = -3. New coordinates are (2, -3).",
+      "difficulty": "hard",
+      "imgFileName": "44_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 45,
+      "question": "Triangle GHI has vertices G(0, 0), H(6, 0), and I(3, 4). What is the area of the triangle?",
+      "options": {
+        "A": "12 square units",
+        "B": "24 square units",
+        "C": "6 square units",
+        "D": "18 square units"
+      },
+      "answer": "A",
+      "explanation": "Base GH is 6 units (from 0 to 6). Height from I to base is 4 units. Area = ½ × 6 × 4 = 12 square units.",
+      "difficulty": "hard",
+      "imgFileName": "45_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 46,
+      "question": "Point W is at (8, -2). When reflected in the line y = x, what are the coordinates of W'?",
+      "options": {
+        "A": "(-2, 8)",
+        "B": "(8, 2)",
+        "C": "(-8, 2)",
+        "D": "(2, -8)"
+      },
+      "answer": "A",
+      "explanation": "Reflection in y = x swaps the x and y coordinates: (8, -2) becomes (-2, 8).",
+      "difficulty": "hard",
+      "imgFileName": "46_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 47,
+      "question": "A parallelogram has vertices at (1, 2), (6, 2), (8, 7), and K. What are the coordinates of vertex K?",
+      "options": {
+        "A": "(3, 7)",
+        "B": "(4, 7)",
+        "C": "(3, 5)",
+        "D": "(6, 7)"
+      },
+      "answer": "A",
+      "explanation": "Vector from (1, 2) to (6, 2) is (5, 0). From (8, 7), subtract this vector: (8 - 5, 7 - 0) = (3, 7).",
+      "difficulty": "hard",
+      "imgFileName": "47_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 48,
+      "question": "A square has one vertex at (a, b) and an opposite vertex at (a + d, b + d). If d = 5 and one vertex is at (2, -3), what is the area?",
+      "options": {
+        "A": "25 square units",
+        "B": "50 square units",
+        "C": "12.5 square units",
+        "D": "10 square units"
+      },
+      "answer": "A",
+      "explanation": "The diagonal has length d√2 = 5√2. For a square, side = diagonal/√2 = 5. Area = 5² = 25. But this doesn't match. Actually, if opposite vertices are (a,b) and (a+d, b+d), the diagonal is d√2. Side = d = 5. Area = 25.",
+      "difficulty": "hard",
+      "imgFileName": "48_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 49,
+      "question": "Point X is reflected in the y-axis to give X'(4, -7). What were the original coordinates of X?",
+      "options": {
+        "A": "(-4, -7)",
+        "B": "(4, 7)",
+        "C": "(-4, 7)",
+        "D": "(4, -7)"
+      },
+      "answer": "A",
+      "explanation": "Reflection in the y-axis changes the sign of the x-coordinate. If X' is (4, -7), then X was at (-4, -7).",
+      "difficulty": "hard",
+      "imgFileName": "49_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 50,
+      "question": "Point Y(6, 3) is translated by vector (-10, -8). What quadrant is Y' in?",
+      "options": {
+        "A": "Quadrant III",
+        "B": "Quadrant I",
+        "C": "Quadrant II",
+        "D": "Quadrant IV"
+      },
+      "answer": "A",
+      "explanation": "Y' = (6 - 10, 3 - 8) = (-4, -5). Both coordinates are negative, so Y' is in Quadrant III.",
+      "difficulty": "hard",
+      "imgFileName": "50_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 51,
+      "question": "Rectangle PQRS has vertices P(-3, 2), Q(4, 2), and R(4, -5). What is the area of the rectangle?",
+      "options": {
+        "A": "49 square units",
+        "B": "28 square units",
+        "C": "35 square units",
+        "D": "14 square units"
+      },
+      "answer": "A",
+      "explanation": "Length = |4 - (-3)| = 7 units. Width = |2 - (-5)| = 7 units. Area = 7 × 7 = 49 square units.",
+      "difficulty": "hard",
+      "imgFileName": "51_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 52,
+      "question": "Point Z is at (-5, -8). It is reflected in both axes. What are the final coordinates?",
+      "options": {
+        "A": "(5, 8)",
+        "B": "(-5, 8)",
+        "C": "(5, -8)",
+        "D": "(-5, -8)"
+      },
+      "answer": "A",
+      "explanation": "Reflecting in the x-axis: (-5, -8) → (-5, 8). Reflecting in the y-axis: (-5, 8) → (5, 8).",
+      "difficulty": "hard",
+      "imgFileName": "52_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 53,
+      "question": "A rhombus has vertices at (2, 0), (0, 3), (-2, 0), and L. What are the coordinates of vertex L?",
+      "options": {
+        "A": "(0, -3)",
+        "B": "(0, 3)",
+        "C": "(2, -3)",
+        "D": "(-2, -3)"
+      },
+      "answer": "A",
+      "explanation": "In a rhombus, diagonals bisect each other. Midpoint of (2, 0) and (-2, 0) is (0, 0). This is also the midpoint of (0, 3) and L, so L = (0, -3).",
+      "difficulty": "hard",
+      "imgFileName": "53_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 54,
+      "question": "Triangle JKL has vertices J(-5, 1), K(1, 1), and L(-2, 7). What is the length of base JK?",
+      "options": {
+        "A": "6 units",
+        "B": "5 units",
+        "C": "8 units",
+        "D": "3 units"
+      },
+      "answer": "A",
+      "explanation": "Since J and K have the same y-coordinate (1), JK is horizontal. Length = |1 - (-5)| = 6 units.",
+      "difficulty": "hard",
+      "imgFileName": "54_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 55,
+      "question": "Point A(4, 5) is translated using the rule (x, y) → (x - 9, y + 3). What are the coordinates of A'?",
+      "options": {
+        "A": "(-5, 8)",
+        "B": "(13, 8)",
+        "C": "(-5, 2)",
+        "D": "(13, 2)"
+      },
+      "answer": "A",
+      "explanation": "Apply the rule: A' = (4 - 9, 5 + 3) = (-5, 8).",
+      "difficulty": "hard",
+      "imgFileName": "55_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 56,
+      "question": "A square has vertices at (-2, -4), (3, -4), (3, 1), and (-2, 1). What is the perimeter of the square?",
+      "options": {
+        "A": "20 units",
+        "B": "25 square units",
+        "C": "10 units",
+        "D": "15 units"
+      },
+      "answer": "A",
+      "explanation": "Side length = |3 - (-2)| = 5 units. Perimeter = 4 × 5 = 20 units.",
+      "difficulty": "hard",
+      "imgFileName": "56_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 57,
+      "question": "Point B(-3, 6) is reflected in the line y = -x. What are the coordinates of B'?",
+      "options": {
+        "A": "(-6, 3)",
+        "B": "(3, -6)",
+        "C": "(6, -3)",
+        "D": "(-3, -6)"
+      },
+      "answer": "A",
+      "explanation": "Reflection in y = -x swaps coordinates and changes both signs: (-3, 6) becomes (-6, 3).",
+      "difficulty": "hard",
+      "imgFileName": "57_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 58,
+      "question": "A parallelogram has vertices at (-2, -3), (3, -3), (5, 2), and M. What is the x-coordinate of vertex M?",
+      "options": {
+        "A": "0",
+        "B": "2",
+        "C": "-1",
+        "D": "1"
+      },
+      "answer": "A",
+      "explanation": "Vector from (-2, -3) to (3, -3) is (5, 0). From (5, 2), subtract this: (5 - 5, 2 - 0) = (0, 2). The x-coordinate is 0.",
+      "difficulty": "hard",
+      "imgFileName": "58_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 59,
+      "question": "Point C is at (7, -4). It is translated 11 units left and 9 units up. What are the new coordinates?",
+      "options": {
+        "A": "(-4, 5)",
+        "B": "(18, 5)",
+        "C": "(-4, -13)",
+        "D": "(18, -13)"
+      },
+      "answer": "A",
+      "explanation": "Left 11 units: 7 - 11 = -4. Up 9 units: -4 + 9 = 5. New coordinates are (-4, 5).",
+      "difficulty": "hard",
+      "imgFileName": "59_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 60,
+      "question": "Triangle MNO has vertices M(0, -2), N(8, -2), and O(4, 6). What is the area of the triangle?",
+      "options": {
+        "A": "32 square units",
+        "B": "64 square units",
+        "C": "16 square units",
+        "D": "48 square units"
+      },
+      "answer": "A",
+      "explanation": "Base MN = 8 units (horizontal). Height from O to base = |6 - (-2)| = 8 units. Area = ½ × 8 × 8 = 32 square units.",
+      "difficulty": "hard",
+      "imgFileName": "60_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 61,
+      "question": "Point D is at (-8, 5). When reflected in the x-axis, what are the coordinates of D'?",
+      "options": {
+        "A": "(-8, -5)",
+        "B": "(8, 5)",
+        "C": "(8, -5)",
+        "D": "(-8, 5)"
+      },
+      "answer": "A",
+      "explanation": "Reflection in the x-axis changes the sign of the y-coordinate: (-8, 5) becomes (-8, -5).",
+      "difficulty": "hard",
+      "imgFileName": "61_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 62,
+      "question": "A rectangle has opposite corners at (-6, -2) and (2, 5). What is the perimeter?",
+      "options": {
+        "A": "30 units",
+        "B": "56 square units",
+        "C": "15 units",
+        "D": "28 units"
+      },
+      "answer": "A",
+      "explanation": "Length = |2 - (-6)| = 8 units. Width = |5 - (-2)| = 7 units. Perimeter = 2(8 + 7) = 30 units.",
+      "difficulty": "hard",
+      "imgFileName": "62_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 63,
+      "question": "Point E(a, b) is translated to E'(a + 7, b - 4). If E' is at (3, -6), what were the original coordinates of E?",
+      "options": {
+        "A": "(-4, -2)",
+        "B": "(10, -10)",
+        "C": "(-4, -10)",
+        "D": "(10, -2)"
+      },
+      "answer": "A",
+      "explanation": "Working backwards: if a + 7 = 3, then a = -4. If b - 4 = -6, then b = -2. Original coordinates are (-4, -2).",
+      "difficulty": "hard",
+      "imgFileName": "63_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 64,
+      "question": "A rhombus has consecutive vertices at (1, 1), (5, 4), and (9, 1). What is the y-coordinate of the fourth vertex?",
+      "options": {
+        "A": "-2",
+        "B": "4",
+        "C": "1",
+        "D": "7"
+      },
+      "answer": "A",
+      "explanation": "Vector from (1, 1) to (5, 4) is (4, 3). From (9, 1), subtract this: (9 - 4, 1 - 3) = (5, -2). The y-coordinate is -2.",
+      "difficulty": "hard",
+      "imgFileName": "64_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 65,
+      "question": "Point F is at (9, -7). When reflected in the y-axis, what are the coordinates of F'?",
+      "options": {
+        "A": "(-9, -7)",
+        "B": "(9, 7)",
+        "C": "(-9, 7)",
+        "D": "(9, -7)"
+      },
+      "answer": "A",
+      "explanation": "Reflection in the y-axis changes the sign of the x-coordinate: (9, -7) becomes (-9, -7).",
+      "difficulty": "hard",
+      "imgFileName": "65_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 66,
+      "question": "A square has one vertex at (a, b) and the opposite vertex at (a + 8, b + 8). What is the area of the square?",
+      "options": {
+        "A": "32 square units",
+        "B": "64 square units",
+        "C": "16 square units",
+        "D": "128 square units"
+      },
+      "answer": "B",
+      "explanation": "The diagonal has endpoints differing by 8 in both coordinates. Diagonal = 8√2. Side = 8√2/√2 = 8. Area = 8² = 64.", 
+      "difficulty": "hard",
+      "imgFileName": "66_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 67,
+      "question": "Point G(-2, 8) is translated by vector (5, -12). What are the new coordinates?",
+      "options": {
+        "A": "(3, -4)",
+        "B": "(-7, 20)",
+        "C": "(3, 20)",
+        "D": "(-7, -4)"
+      },
+      "answer": "A",
+      "explanation": "Add the vector: x' = -2 + 5 = 3, y' = 8 + (-12) = -4. New coordinates are (3, -4).",
+      "difficulty": "hard",
+      "imgFileName": "67_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 68,
+      "question": "A parallelogram has vertices at (0, 0), (7, 0), (10, 5), and N. What are the coordinates of vertex N?",
+      "options": {
+        "A": "(3, 5)",
+        "B": "(5, 5)",
+        "C": "(3, 7)",
+        "D": "(7, 5)"
+      },
+      "answer": "A",
+      "explanation": "Vector from (0, 0) to (7, 0) is (7, 0). From (10, 5), subtract this: (10 - 7, 5 - 0) = (3, 5).",
+      "difficulty": "hard",
+      "imgFileName": "68_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 69,
+      "question": "Triangle PQR has vertices P(-3, -4), Q(5, -4), and R(1, 4). What is the height of the triangle from vertex R to base PQ?",
+      "options": {
+        "A": "8 units",
+        "B": "4 units",
+        "C": "6 units",
+        "D": "10 units"
+      },
+      "answer": "A",
+      "explanation": "Base PQ is horizontal at y = -4. Height from R is |4 - (-4)| = 8 units.",
+      "difficulty": "hard",
+      "imgFileName": "69_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 70,
+      "question": "Point H is at (5, 3). It is reflected in the line y = x. What are the coordinates of H'?",
+      "options": {
+        "A": "(3, 5)",
+        "B": "(-5, -3)",
+        "C": "(5, -3)",
+        "D": "(-3, 5)"
+      },
+      "answer": "A",
+      "explanation": "Reflection in y = x swaps the x and y coordinates: (5, 3) becomes (3, 5).",
+      "difficulty": "hard",
+      "imgFileName": "70_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 71,
+      "question": "Point I(-4, -5) is translated 6 units right and 8 units up. In which quadrant is I' located?",
+      "options": {
+        "A": "Quadrant I",
+        "B": "Quadrant II",
+        "C": "Quadrant III",
+        "D": "Quadrant IV"
+      },
+      "answer": "A",
+      "explanation": "I' = (-4 + 6, -5 + 8) = (2, 3). Both coordinates are positive, so I' is in Quadrant I.",
+      "difficulty": "hard",
+      "imgFileName": "71_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 72,
+      "question": "A square has vertices at (1, -2), (6, -2), (6, 3), and (1, 3). What is the area of the square?",
+      "options": {
+        "A": "25 square units",
+        "B": "20 units",
+        "C": "10 square units",
+        "D": "15 square units"
+      },
+      "answer": "A",
+      "explanation": "Side length = |6 - 1| = 5 units. Area = 5² = 25 square units.",
+      "difficulty": "hard",
+      "imgFileName": "72_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 73,
+      "question": "Point J is reflected in the x-axis to give J'(4, -8). What were the original coordinates of J?",
+      "options": {
+        "A": "(4, 8)",
+        "B": "(-4, -8)",
+        "C": "(-4, 8)",
+        "D": "(4, -8)"
+      },
+      "answer": "A",
+      "explanation": "Reflection in the x-axis changes the sign of the y-coordinate. If J' is (4, -8), then J was at (4, 8).",
+      "difficulty": "hard",
+      "imgFileName": "73_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 74,
+      "question": "A rhombus has vertices at (-3, 0), (0, 4), (3, 0), and O. What are the coordinates of vertex O?",
+      "options": {
+        "A": "(0, -4)",
+        "B": "(0, 4)",
+        "C": "(-3, -4)",
+        "D": "(3, -4)"
+      },
+      "answer": "A",
+      "explanation": "In a rhombus, diagonals bisect each other. Midpoint of (-3, 0) and (3, 0) is (0, 0). This is also the midpoint of (0, 4) and O, so O = (0, -4).",
+      "difficulty": "hard",
+      "imgFileName": "74_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 75,
+      "question": "Rectangle STUV has vertices S(-4, 3), T(3, 3), U(3, -4), and V(-4, -4). What is the perimeter?",
+      "options": {
+        "A": "28 units",
+        "B": "49 square units",
+        "C": "14 units",
+        "D": "21 units"
+      },
+      "answer": "A",
+      "explanation": "Length = |3 - (-4)| = 7 units. Width = |3 - (-4)| = 7 units. Perimeter = 2(7 + 7) = 28 units.",
+      "difficulty": "hard",
+      "imgFileName": "75_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 76,
+      "question": "Point K(6, -9) is translated using the rule (x, y) → (x - 10, y + 14). What are the coordinates of K'?",
+      "options": {
+        "A": "(-4, 5)",
+        "B": "(16, 5)",
+        "C": "(-4, -23)",
+        "D": "(16, -23)"
+      },
+      "answer": "A",
+      "explanation": "Apply the rule: K' = (6 - 10, -9 + 14) = (-4, 5).",
+      "difficulty": "hard",
+      "imgFileName": "76_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 77,
+      "question": "A parallelogram has vertices at (-5, -2), (1, -2), (4, 3), and P. What is the y-coordinate of vertex P?",
+      "options": {
+        "A": "3",
+        "B": "-2",
+        "C": "5",
+        "D": "1"
+      },
+      "answer": "A",
+      "explanation": "Vector from (-5, -2) to (1, -2) is (6, 0). From (4, 3), subtract this: (4 - 6, 3 - 0) = (-2, 3). The y-coordinate is 3.",
+      "difficulty": "hard",
+      "imgFileName": "77_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 78,
+      "question": "Point L is at (-7, 6). It is reflected in the y-axis and then in the x-axis. What are the final coordinates?",
+      "options": {
+        "A": "(7, -6)",
+        "B": "(-7, -6)",
+        "C": "(7, 6)",
+        "D": "(-7, 6)"
+      },
+      "answer": "A",
+      "explanation": "Reflect in y-axis: (-7, 6) → (7, 6). Reflect in x-axis: (7, 6) → (7, -6).",
+      "difficulty": "hard",
+      "imgFileName": "78_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 79,
+      "question": "Triangle ABC has vertices A(-7, 0), B(5, 0), and C(-1, 9). What is the area of the triangle?",
+      "options": {
+        "A": "54 square units",
+        "B": "108 square units",
+        "C": "27 square units",
+        "D": "72 square units"
+      },
+      "answer": "A",
+      "explanation": "Base AB = |5 - (-7)| = 12 units. Height from C = 9 units. Area = ½ × 12 × 9 = 54 square units.",
+      "difficulty": "hard",
+      "imgFileName": "79_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 80,
+      "question": "Point M(a, b) is translated to M'(a - 8, b + 6). If M' is at (-3, 2), what were the original coordinates?",
+      "options": {
+        "A": "(5, -4)",
+        "B": "(-11, 8)",
+        "C": "(5, 8)",
+        "D": "(-11, -4)"
+      },
+      "answer": "A",
+      "explanation": "Working backwards: if a - 8 = -3, then a = 5. If b + 6 = 2, then b = -4. Original coordinates are (5, -4).",
+      "difficulty": "hard",
+      "imgFileName": "80_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 81,
+      "question": "Point N is at (8, -10). When reflected in the line y = -x, what are the coordinates of N'?",
+      "options": {
+        "A": "(10, -8)",
+        "B": "(-8, 10)",
+        "C": "(8, 10)",
+        "D": "(-10, 8)"
+      },
+      "answer": "A",
+      "explanation": "Reflection in y = -x swaps coordinates and changes both signs: (8, -10) becomes (10, -8).",
+      "difficulty": "hard",
+      "imgFileName": "81_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 82,
+      "question": "A square has opposite vertices at (-5, -6) and (3, 2). What is the length of the diagonal?",
+      "options": {
+        "A": "8√2 units",
+        "B": "16 units",
+        "C": "8 units",
+        "D": "4√2 units"
+      },
+      "answer": "A",
+      "explanation": "Diagonal = √[(3-(-5))² + (2-(-6))²] = √[64 + 64] = √128 = 8√2 units.",
+      "difficulty": "hard",
+      "imgFileName": "82_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 83,
+      "question": "Point O(-9, 4) is translated 12 units right and 7 units down. What are the new coordinates?",
+      "options": {
+        "A": "(3, -3)",
+        "B": "(-21, -3)",
+        "C": "(3, 11)",
+        "D": "(-21, 11)"
+      },
+      "answer": "A",
+      "explanation": "Right 12: -9 + 12 = 3. Down 7: 4 - 7 = -3. New coordinates are (3, -3).",
+      "difficulty": "hard",
+      "imgFileName": "83_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 84,
+      "question": "A rhombus has consecutive vertices at (2, -1), (7, 2), and (12, -1). What is the x-coordinate of the fourth vertex?",
+      "options": {
+        "A": "7",
+        "B": "5",
+        "C": "9",
+        "D": "10"
+      },
+      "answer": "A",
+      "explanation": "Vector from (2, -1) to (7, 2) is (5, 3). From (12, -1), subtract this: (12 - 5, -1 - 3) = (7, -4). The x-coordinate is 7.",
+      "difficulty": "hard",
+      "imgFileName": "84_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 85,
+      "question": "Rectangle WXYZ has vertices W(0, -5), X(9, -5), Y(9, 2), and Z(0, 2). What is the area?",
+      "options": {
+        "A": "63 square units",
+        "B": "32 units",
+        "C": "45 square units",
+        "D": "18 square units"
+      },
+      "answer": "A",
+      "explanation": "Length = 9 units. Width = |2 - (-5)| = 7 units. Area = 9 × 7 = 63 square units.",
+      "difficulty": "hard",
+      "imgFileName": "85_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 86,
+      "question": "Point P is reflected in the y-axis to give P'(-6, 9). What were the original coordinates of P?",
+      "options": {
+        "A": "(6, 9)",
+        "B": "(-6, -9)",
+        "C": "(6, -9)",
+        "D": "(-6, 9)"
+      },
+      "answer": "A",
+      "explanation": "Reflection in the y-axis changes the sign of the x-coordinate. If P' is (-6, 9), then P was at (6, 9).",
+      "difficulty": "hard",
+      "imgFileName": "86_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 87,
+      "question": "A parallelogram has vertices at (2, 3), (8, 3), (11, 8), and Q. What are the coordinates of vertex Q?",
+      "options": {
+        "A": "(5, 8)",
+        "B": "(6, 8)",
+        "C": "(5, 5)",
+        "D": "(8, 8)"
+      },
+      "answer": "A",
+      "explanation": "Vector from (2, 3) to (8, 3) is (6, 0). From (11, 8), subtract this: (11 - 6, 8 - 0) = (5, 8).",
+      "difficulty": "hard",
+      "imgFileName": "87_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 88,
+      "question": "Point Q(10, 7) is translated by vector (-15, -12). In which quadrant is Q' located?",
+      "options": {
+        "A": "Quadrant III",
+        "B": "Quadrant I",
+        "C": "Quadrant II",
+        "D": "Quadrant IV"
+      },
+      "answer": "A",
+      "explanation": "Q' = (10 - 15, 7 - 12) = (-5, -5). Both coordinates are negative, so Q' is in Quadrant III.",
+      "difficulty": "hard",
+      "imgFileName": "88_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 89,
+      "question": "Triangle DEF has vertices D(-8, -3), E(4, -3), and F(-2, 9). What is the length of base DE?",
+      "options": {
+        "A": "12 units",
+        "B": "8 units",
+        "C": "10 units",
+        "D": "6 units"
+      },
+      "answer": "A",
+      "explanation": "Since D and E have the same y-coordinate (-3), DE is horizontal. Length = |4 - (-8)| = 12 units.",
+      "difficulty": "hard",
+      "imgFileName": "89_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 90,
+      "question": "Point R is at (-11, 8). It is reflected in the x-axis and then translated by vector (7, -3). What are the final coordinates?",
+      "options": {
+        "A": "(-4, -11)",
+        "B": "(-18, -11)",
+        "C": "(-4, -5)",
+        "D": "(-18, -5)"
+      },
+      "answer": "A",
+      "explanation": "Reflect in x-axis: (-11, 8) → (-11, -8). Translate by (7, -3): (-11 + 7, -8 - 3) = (-4, -11).",
+      "difficulty": "hard",
+      "imgFileName": "90_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 91,
+      "question": "A square has one vertex at (a, b) and an adjacent vertex at (a + 7, b). If another vertex is at (a, b + 7), what is the perimeter?",
+      "options": {
+        "A": "28 units",
+        "B": "49 square units",
+        "C": "14 units",
+        "D": "21 units"
+      },
+      "answer": "A",
+      "explanation": "Side length = 7 units. Perimeter = 4 × 7 = 28 units.",
+      "difficulty": "hard",
+      "imgFileName": "91_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 92,
+      "question": "Point S(3, -12) is translated using the rule (x, y) → (x + 5, y + 16). What are the coordinates of S'?",
+      "options": {
+        "A": "(8, 4)",
+        "B": "(-2, 4)",
+        "C": "(8, -28)",
+        "D": "(-2, -28)"
+      },
+      "answer": "A",
+      "explanation": "Apply the rule: S' = (3 + 5, -12 + 16) = (8, 4).",
+      "difficulty": "hard",
+      "imgFileName": "92_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 93,
+      "question": "A rhombus has vertices at (-4, 1), (0, 5), (4, 1), and R. What are the coordinates of vertex R?",
+      "options": {
+        "A": "(0, -3)",
+        "B": "(0, 5)",
+        "C": "(-4, -3)",
+        "D": "(4, -3)"
+      },
+      "answer": "A",
+      "explanation": "In a rhombus, diagonals bisect each other. Midpoint of (-4, 1) and (4, 1) is (0, 1). This is also the midpoint of (0, 5) and R, so R = (0, -3).",
+      "difficulty": "hard",
+      "imgFileName": "93_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 94,
+      "question": "Point T is at (6, 11). When reflected in the line y = x, what are the coordinates of T'?",
+      "options": {
+        "A": "(11, 6)",
+        "B": "(-6, -11)",
+        "C": "(6, -11)",
+        "D": "(-11, 6)"
+      },
+      "answer": "A",
+      "explanation": "Reflection in y = x swaps the x and y coordinates: (6, 11) becomes (11, 6).",
+      "difficulty": "hard",
+      "imgFileName": "94_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 95,
+      "question": "Rectangle ABCD has vertices A(-5, -7), B(3, -7), C(3, 0), and D(-5, 0). What is the perimeter?",
+      "options": {
+        "A": "30 units",
+        "B": "56 square units",
+        "C": "15 units",
+        "D": "22 units"
+      },
+      "answer": "A",
+      "explanation": "Length = |3 - (-5)| = 8 units. Width = |0 - (-7)| = 7 units. Perimeter = 2(8 + 7) = 30 units.",
+      "difficulty": "hard",
+      "imgFileName": "95_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 96,
+      "question": "Point U(a, b) is translated to U'(a + 9, b - 11). If U is at (-6, 4), what are the coordinates of U'?",
+      "options": {
+        "A": "(3, -7)",
+        "B": "(-15, 15)",
+        "C": "(3, 15)",
+        "D": "(-15, -7)"
+      },
+      "answer": "A",
+      "explanation": "Apply the translation: U' = (-6 + 9, 4 - 11) = (3, -7).",
+      "difficulty": "hard",
+      "imgFileName": "96_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 97,
+      "question": "Triangle GHI has vertices G(0, -6), H(10, -6), and I(5, 6). What is the area of the triangle?",
+      "options": {
+        "A": "60 square units",
+        "B": "120 square units",
+        "C": "30 square units",
+        "D": "72 square units"
+      },
+      "answer": "A",
+      "explanation": "Base GH = 10 units. Height from I to base = |6 - (-6)| = 12 units. Area = ½ × 10 × 12 = 60 square units.",
+      "difficulty": "hard",
+      "imgFileName": "97_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 98,
+      "question": "Point V is reflected in the x-axis to give V'(7, -5). What were the original coordinates of V?",
+      "options": {
+        "A": "(7, 5)",
+        "B": "(-7, -5)",
+        "C": "(-7, 5)",
+        "D": "(7, -5)"
+      },
+      "answer": "A",
+      "explanation": "Reflection in the x-axis changes the sign of the y-coordinate. If V' is (7, -5), then V was at (7, 5).",
+      "difficulty": "hard",
+      "imgFileName": "98_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 99,
+      "question": "A parallelogram has vertices at (-6, -4), (0, -4), (3, 2), and W. What is the y-coordinate of vertex W?",
+      "options": {
+        "A": "2",
+        "B": "-4",
+        "C": "6",
+        "D": "0"
+      },
+      "answer": "A",
+      "explanation": "Vector from (-6, -4) to (0, -4) is (6, 0). From (3, 2), subtract this: (3 - 6, 2 - 0) = (-3, 2). The y-coordinate is 2.",
+      "difficulty": "hard",
+      "imgFileName": "99_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    },
+    {
+      "qid": 100,
+      "question": "Point X(-10, 15) is translated 14 units right and 20 units down. What are the new coordinates?",
+      "options": {
+        "A": "(4, -5)",
+        "B": "(-24, -5)",
+        "C": "(4, 35)",
+        "D": "(-24, 35)"
+      },
+      "answer": "A",
+      "explanation": "Right 14: -10 + 14 = 4. Down 20: 15 - 20 = -5. New coordinates are (4, -5).",
+      "difficulty": "hard",
+      "imgFileName": "100_Year6-Geometry-position_and_direction_hard.png",
+      "used": 0,
+      "type": "Year6-Geometry-position_and_direction"
+    }
+]

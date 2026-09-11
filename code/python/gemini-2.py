@@ -2,8 +2,9 @@ import json
 import os
 
 # --- Configuration ---
-INPUT_FILE = '../../jsons/year456/src/y4Number_mulDiv.json'
-OUTPUT_FILE = '../../jsons/year456/src/y4Number_mulDiv_extracted_data.json' # Optional: name for saving the extracted data
+INPUT_FILE = '../../jsons/year456/src/y3Number_placevalue.json'
+#INPUT_FILE = '../../jsons/paidSamplepaper/src/year4-Number_Fractions_hard.json'
+OUTPUT_FILE = '../../jsons/year456/src/extracted_y3Number_placevalue.json' # Optional: name for saving the extracted data
 
 def extract_qa_data(input_filename):
     """
@@ -21,8 +22,8 @@ def extract_qa_data(input_filename):
     try:
         with open(input_filename, 'r', encoding='utf-8') as f:
             data = json.load(f)
-    except json.JSONDecodeError:
-        print(f"Error: Could not decode JSON from '{input_filename}'. Check file integrity.")
+    except json.JSONDecodeError as e:
+        print(f"Error: '{e}' Could not decode JSON from '{input_filename}'. Check file integrity.")
         return []
     except Exception as e:
         print(f"An unexpected error occurred during file reading: {e}")
@@ -47,14 +48,16 @@ def extract_qa_data(input_filename):
         
         question = item.get('question')
         answer = item.get('answer')
-        options = item.get('options')#Added to extract option data
+        difficulty = item.get('difficulty')
+        options = item.get('options') #Added to extract option data
         
         # Only process if both key fields are present
         if question is not None and answer is not None:
             new_object = {
                 "question": question,
                 "answer": answer,
-                "options": options#Added to extract option data
+		        "difficulty": difficulty,
+                "options": options #Added to extract option data
             }
             extracted_data.append(new_object)
         else:

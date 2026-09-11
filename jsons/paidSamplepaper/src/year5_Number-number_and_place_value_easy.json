@@ -1,0 +1,7016 @@
+[
+    {
+      "question": "What is the value of the digit 7 in the number 573,284?",
+      "options": {
+        "A": "70",
+        "B": "700",
+        "C": "7,000",
+        "D": "70,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 7 is in the ten thousands place, so its value is 7 × 10,000 = 70,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is greater: 482,615 or 482,599?",
+      "options": {
+        "A": "482,599",
+        "B": "482,615",
+        "C": "They are equal",
+        "D": "Not enough information"
+      },
+      "answer": "B",
+      "explanation": "Both numbers have the same digits up to the hundreds place. In the tens place, 1 (in 615) is greater than 9 (in 599), so 482,615 is larger.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count forwards in steps of 10,000 from 230,000. What is the next number?",
+      "options": {
+        "A": "230,010",
+        "B": "231,000",
+        "C": "240,000",
+        "D": "330,000"
+      },
+      "answer": "C",
+      "explanation": "Adding 10,000 to 230,000 gives 240,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the temperature if it is 5 degrees below zero?",
+      "options": {
+        "A": "5°C",
+        "B": "0°C",
+        "C": "–5°C",
+        "D": "10°C"
+      },
+      "answer": "C",
+      "explanation": "Below zero is represented by a negative number, so 5 degrees below zero is –5°C.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 47,632 to the nearest 1,000.",
+      "options": {
+        "A": "47,000",
+        "B": "48,000",
+        "C": "47,600",
+        "D": "50,000"
+      },
+      "answer": "B",
+      "explanation": "The hundreds digit is 6, which is 5 or more, so we round up: 47,632 → 48,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 500?",
+      "options": {
+        "A": "C",
+        "B": "D",
+        "C": "L",
+        "D": "M"
+      },
+      "answer": "B",
+      "explanation": "In Roman numerals, D stands for 500.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which digit is in the hundred thousands place in 842,156?",
+      "options": {
+        "A": "8",
+        "B": "4",
+        "C": "2",
+        "D": "1"
+      },
+      "answer": "A",
+      "explanation": "The number 842,156 has 8 in the hundred thousands place (800,000).",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Write the number six hundred twenty-five thousand and forty-three in digits.",
+      "options": {
+        "A": "625,430",
+        "B": "625,043",
+        "C": "600,250,043",
+        "D": "62,543"
+      },
+      "answer": "B",
+      "explanation": "Six hundred twenty-five thousand = 625,000; plus forty-three = 625,043.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count backwards in steps of 100,000 from 900,000. What is the next number?",
+      "options": {
+        "A": "890,000",
+        "B": "800,000",
+        "C": "90,000",
+        "D": "899,900"
+      },
+      "answer": "B",
+      "explanation": "Subtracting 100,000 from 900,000 gives 800,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What number comes just before –3 when counting backwards?",
+      "options": {
+        "A": "–4",
+        "B": "–2",
+        "C": "0",
+        "D": "3"
+      },
+      "answer": "A",
+      "explanation": "Counting backwards: …, –4, –3, –2, … So the number before –3 is –4.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 834,721 to the nearest 10,000.",
+      "options": {
+        "A": "830,000",
+        "B": "835,000",
+        "C": "840,000",
+        "D": "800,000"
+      },
+      "answer": "A",
+      "explanation": "The thousands digit is 4, which is less than 5, so we round down: 834,721 → 830,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What year is written as MMXX in Roman numerals?",
+      "options": {
+        "A": "1920",
+        "B": "2020",
+        "C": "2120",
+        "D": "2220"
+      },
+      "answer": "B",
+      "explanation": "M = 1,000, so MM = 2,000. XX = 20. So MMXX = 2,020.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is the smallest: 309,876, 309,786, 309,867, or 309,768?",
+      "options": {
+        "A": "309,876",
+        "B": "309,786",
+        "C": "309,867",
+        "D": "309,768"
+      },
+      "answer": "D",
+      "explanation": "All start with 309,000. Compare the hundreds: all have 7 or 8. The tens and units show 309,768 is smallest.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the value of the digit 9 in 1,049,325?",
+      "options": {
+        "A": "9",
+        "B": "90",
+        "C": "900",
+        "D": "9,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 9 is in the thousands place, so its value is 9 × 1,000 = 9,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count forwards in steps of 1,000 from 785,000. What is the next number?",
+      "options": {
+        "A": "785,001",
+        "B": "786,000",
+        "C": "795,000",
+        "D": "885,000"
+      },
+      "answer": "B",
+      "explanation": "Adding 1,000 to 785,000 gives 786,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "If the temperature rises from –4°C to 3°C, how many degrees did it rise?",
+      "options": {
+        "A": "3 degrees",
+        "B": "4 degrees",
+        "C": "7 degrees",
+        "D": "8 degrees"
+      },
+      "answer": "C",
+      "explanation": "From –4 to 0 is 4 degrees; from 0 to 3 is 3 degrees; total = 4 + 3 = 7 degrees.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 156,842 to the nearest 100.",
+      "options": {
+        "A": "156,800",
+        "B": "156,900",
+        "C": "157,000",
+        "D": "160,000"
+      },
+      "answer": "A",
+      "explanation": "The tens digit is 4, which is less than 5, so we round down: 156,842 → 156,800.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 90?",
+      "options": {
+        "A": "XC",
+        "B": "LXXXX",
+        "C": "IC",
+        "D": "LX"
+      },
+      "answer": "A",
+      "explanation": "In Roman numerals, 90 is written as XC (100 – 10).",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is one hundred thousand more than 427,500?",
+      "options": {
+        "A": "428,500",
+        "B": "527,500",
+        "C": "437,500",
+        "D": "1,427,500"
+      },
+      "answer": "B",
+      "explanation": "Add 100,000 to 427,500: 427,500 + 100,000 = 527,500.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the largest 6-digit number?",
+      "options": {
+        "A": "999,999",
+        "B": "1,000,000",
+        "C": "999,990",
+        "D": "900,000"
+      },
+      "answer": "A",
+      "explanation": "The largest 6-digit number uses the highest digit (9) in all places: 999,999.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count backwards in steps of 10 from 503,280. What is the next number?",
+      "options": {
+        "A": "503,270",
+        "B": "503,279",
+        "C": "502,280",
+        "D": "493,280"
+      },
+      "answer": "A",
+      "explanation": "Subtracting 10 from 503,280 gives 503,270.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is between –1 and 1?",
+      "options": {
+        "A": "–2",
+        "B": "0",
+        "C": "2",
+        "D": "1"
+      },
+      "answer": "B",
+      "explanation": "Zero is between –1 and 1 on the number line.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 987,654 to the nearest 100,000.",
+      "options": {
+        "A": "900,000",
+        "B": "980,000",
+        "C": "990,000",
+        "D": "1,000,000"
+      },
+      "answer": "D",
+      "explanation": "The ten thousands digit is 8 (≥5), so we round up: 987,654 → 1,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 400?",
+      "options": {
+        "A": "CCCC",
+        "B": "CD",
+        "C": "DC",
+        "D": "LD"
+      },
+      "answer": "B",
+      "explanation": "In Roman numerals, 400 is written as CD (500 – 100).",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the value of the digit 2 in 6,204,189?",
+      "options": {
+        "A": "20",
+        "B": "200",
+        "C": "2,000",
+        "D": "200,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 2 is in the hundred thousands place, so its value is 2 × 100,000 = 200,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Order these numbers from smallest to largest: 205,001; 205,100; 205,010.",
+      "options": {
+        "A": "205,001; 205,010; 205,100",
+        "B": "205,010; 205,001; 205,100",
+        "C": "205,100; 205,010; 205,001",
+        "D": "205,001; 205,100; 205,010"
+      },
+      "answer": "A",
+      "explanation": "Compare digits from left to right: all start with 205,0__. The tens and units determine order: 001 < 010 < 100.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count forwards in steps of 100 from 899,900. What is the next number?",
+      "options": {
+        "A": "899,901",
+        "B": "900,000",
+        "C": "899,800",
+        "D": "900,900"
+      },
+      "answer": "B",
+      "explanation": "899,900 + 100 = 900,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is 3 more than –5?",
+      "options": {
+        "A": "–8",
+        "B": "–2",
+        "C": "2",
+        "D": "8"
+      },
+      "answer": "B",
+      "explanation": "–5 + 3 = –2.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 45,123 to the nearest 10.",
+      "options": {
+        "A": "45,000",
+        "B": "45,100",
+        "C": "45,120",
+        "D": "45,130"
+      },
+      "answer": "C",
+      "explanation": "The units digit is 3 (<5), so we round down: 45,123 → 45,120.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which year is MCMXCIX?",
+      "options": {
+        "A": "1999",
+        "B": "2009",
+        "C": "1899",
+        "D": "2101"
+      },
+      "answer": "A",
+      "explanation": "M = 1000, CM = 900, XC = 90, IX = 9. Total = 1000 + 900 + 90 + 9 = 1999.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What number is ten thousand less than 500,000?",
+      "options": {
+        "A": "400,000",
+        "B": "490,000",
+        "C": "499,000",
+        "D": "499,990"
+      },
+      "answer": "B",
+      "explanation": "500,000 – 10,000 = 490,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which digit is in the millions place in 3,456,789?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "answer": "A",
+      "explanation": "The number is 3 million, so 3 is in the millions place.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count backwards in steps of 1,000 from 1,000,000. What is the next number?",
+      "options": {
+        "A": "999,999",
+        "B": "999,000",
+        "C": "900,000",
+        "D": "990,000"
+      },
+      "answer": "B",
+      "explanation": "1,000,000 – 1,000 = 999,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the result of –2 – 3?",
+      "options": {
+        "A": "–5",
+        "B": "–1",
+        "C": "1",
+        "D": "5"
+      },
+      "answer": "A",
+      "explanation": "Moving 3 steps left from –2 on the number line gives –5.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 789,456 to the nearest 1,000.",
+      "options": {
+        "A": "789,000",
+        "B": "789,500",
+        "C": "790,000",
+        "D": "800,000"
+      },
+      "answer": "A",
+      "explanation": "The hundreds digit is 4 (<5), so we round down: 789,456 → 789,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 60?",
+      "options": {
+        "A": "LX",
+        "B": "XL",
+        "C": "XXXXXX",
+        "D": "VL"
+      },
+      "answer": "A",
+      "explanation": "L = 50, X = 10, so LX = 50 + 10 = 60.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is two hundred thousand more than 345,678?",
+      "options": {
+        "A": "347,678",
+        "B": "545,678",
+        "C": "365,678",
+        "D": "2,345,678"
+      },
+      "answer": "B",
+      "explanation": "345,678 + 200,000 = 545,678.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the smallest 6-digit number?",
+      "options": {
+        "A": "100,000",
+        "B": "000,001",
+        "C": "99,999",
+        "D": "1,000,000"
+      },
+      "answer": "A",
+      "explanation": "The smallest 6-digit number is 100,000 (it has exactly six digits).",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count forwards in steps of 10,000 from 670,000. What is the next number?",
+      "options": {
+        "A": "670,010",
+        "B": "680,000",
+        "C": "770,000",
+        "D": "671,000"
+      },
+      "answer": "B",
+      "explanation": "670,000 + 10,000 = 680,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What number is halfway between –4 and 2?",
+      "options": {
+        "A": "–2",
+        "B": "–1",
+        "C": "0",
+        "D": "1"
+      },
+      "answer": "B",
+      "explanation": "The difference is 6, so halfway is 3 from –4: –4 + 3 = –1.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 234,567 to the nearest 10,000.",
+      "options": {
+        "A": "230,000",
+        "B": "235,000",
+        "C": "240,000",
+        "D": "200,000"
+      },
+      "answer": "A",
+      "explanation": "The thousands digit is 4 (<5), so we round down: 234,567 → 230,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 900?",
+      "options": {
+        "A": "CM",
+        "B": "MC",
+        "C": "DCCCC",
+        "D": "XM"
+      },
+      "answer": "A",
+      "explanation": "CM means 1,000 – 100 = 900.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the value of the digit 5 in 8,503,214?",
+      "options": {
+        "A": "50",
+        "B": "500",
+        "C": "5,000",
+        "D": "500,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 5 is in the hundred thousands place, so its value is 5 × 100,000 = 500,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is the greatest: 1,000,000; 999,999; 1,000,001; or 999,990?",
+      "options": {
+        "A": "999,990",
+        "B": "999,999",
+        "C": "1,000,000",
+        "D": "1,000,001"
+      },
+      "answer": "D",
+      "explanation": "1,000,001 is larger than 1,000,000 and all 6-digit numbers.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count backwards in steps of 100 from 500,100. What is the next number?",
+      "options": {
+        "A": "500,090",
+        "B": "500,000",
+        "C": "499,900",
+        "D": "490,100"
+      },
+      "answer": "B",
+      "explanation": "500,100 – 100 = 500,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is 5 less than –1?",
+      "options": {
+        "A": "4",
+        "B": "–4",
+        "C": "6",
+        "D": "–6"
+      },
+      "answer": "D",
+      "explanation": "–1 – 5 = –6.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 678,901 to the nearest 100.",
+      "options": {
+        "A": "678,900",
+        "B": "679,000",
+        "C": "678,800",
+        "D": "680,000"
+      },
+      "answer": "A",
+      "explanation": "The tens digit is 0 (<5), so we round down: 678,901 → 678,900.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 1,000?",
+      "options": {
+        "A": "C",
+        "B": "D",
+        "C": "M",
+        "D": "Y"
+      },
+      "answer": "C",
+      "explanation": "M is the Roman numeral for 1,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is fifty thousand less than 720,000?",
+      "options": {
+        "A": "670,000",
+        "B": "715,000",
+        "C": "700,000",
+        "D": "620,000"
+      },
+      "answer": "A",
+      "explanation": "720,000 – 50,000 = 670,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What digit is in the ten thousands place in 456,789?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "answer": "B",
+      "explanation": "The number is 4 hundred thousands, 5 ten thousands, etc., so 5 is in the ten thousands place.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count forwards in steps of 100,000 from 300,000. What is the next number?",
+      "options": {
+        "A": "310,000",
+        "B": "400,000",
+        "C": "301,000",
+        "D": "1,300,000"
+      },
+      "answer": "B",
+      "explanation": "300,000 + 100,000 = 400,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is greater: –10 or –5?",
+      "options": {
+        "A": "–10",
+        "B": "–5",
+        "C": "They are equal",
+        "D": "Neither is greater"
+      },
+      "answer": "B",
+      "explanation": "On the number line, –5 is to the right of –10, so it is greater.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 123,456 to the nearest 100,000.",
+      "options": {
+        "A": "100,000",
+        "B": "120,000",
+        "C": "123,000",
+        "D": "200,000"
+      },
+      "answer": "A",
+      "explanation": "The ten thousands digit is 2 (<5), so we round down: 123,456 → 100,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 40?",
+      "options": {
+        "A": "XXXX",
+        "B": "XL",
+        "C": "LX",
+        "D": "IL"
+      },
+      "answer": "B",
+      "explanation": "XL means 50 – 10 = 40.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the value of the digit 8 in 2,084,561?",
+      "options": {
+        "A": "80",
+        "B": "800",
+        "C": "8,000",
+        "D": "80,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 8 is in the ten thousands place, so its value is 8 × 10,000 = 80,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Order these numbers from largest to smallest: 501,234; 501,324; 501,243.",
+      "options": {
+        "A": "501,324; 501,243; 501,234",
+        "B": "501,234; 501,243; 501,324",
+        "C": "501,243; 501,324; 501,234",
+        "D": "501,324; 501,234; 501,243"
+      },
+      "answer": "A",
+      "explanation": "Compare the hundreds, then tens: 324 > 243 > 234.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count backwards in steps of 1,000 from 850,000. What is the next number?",
+      "options": {
+        "A": "849,000",
+        "B": "840,000",
+        "C": "750,000",
+        "D": "849,999"
+      },
+      "answer": "A",
+      "explanation": "850,000 – 1,000 = 849,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the result of 0 – 7?",
+      "options": {
+        "A": "7",
+        "B": "0",
+        "C": "–7",
+        "D": "–1"
+      },
+      "answer": "C",
+      "explanation": "Starting at 0 and moving 7 steps left gives –7.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 345,678 to the nearest 10.",
+      "options": {
+        "A": "345,670",
+        "B": "345,680",
+        "C": "345,700",
+        "D": "346,000"
+      },
+      "answer": "B",
+      "explanation": "The units digit is 8 (≥5), so we round up: 345,678 → 345,680.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which year is MDCCCCLXXXXVIIII? (Note: This is an old form; modern form is MCMXCIX.)",
+      "options": {
+        "A": "1999",
+        "B": "2000",
+        "C": "1899",
+        "D": "1900"
+      },
+      "answer": "A",
+      "explanation": "Although not standard today, this adds to 1000+500+400+90+9 = 1999. Modern form is MCMXCIX.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What number is one million more than 2,345,678?",
+      "options": {
+        "A": "2,346,678",
+        "B": "3,345,678",
+        "C": "2,445,678",
+        "D": "12,345,678"
+      },
+      "answer": "B",
+      "explanation": "2,345,678 + 1,000,000 = 3,345,678.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "How many digits are in the number 1,000,000?",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "1"
+      },
+      "answer": "B",
+      "explanation": "1,000,000 has seven digits: 1 followed by six zeros.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count forwards in steps of 10 from 999,990. What is the next number?",
+      "options": {
+        "A": "999,991",
+        "B": "1,000,000",
+        "C": "999,900",
+        "D": "1,000,010"
+      },
+      "answer": "B",
+      "explanation": "999,990 + 10 = 1,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What number is 4 less than 0?",
+      "options": {
+        "A": "4",
+        "B": "–4",
+        "C": "0",
+        "D": "–1"
+      },
+      "answer": "B",
+      "explanation": "0 – 4 = –4.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 999,999 to the nearest 100,000.",
+      "options": {
+        "A": "900,000",
+        "B": "990,000",
+        "C": "1,000,000",
+        "D": "999,000"
+      },
+      "answer": "C",
+      "explanation": "The ten thousands digit is 9 (≥5), so we round up: 999,999 → 1,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 700?",
+      "options": {
+        "A": "DCC",
+        "B": "CCC",
+        "C": "DC",
+        "D": "CCD"
+      },
+      "answer": "A",
+      "explanation": "D = 500, C = 100, so DCC = 500 + 100 + 100 = 700.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the value of the digit 3 in 3,456,789?",
+      "options": {
+        "A": "3",
+        "B": "30",
+        "C": "300,000",
+        "D": "3,000,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 3 is in the millions place, so its value is 3 × 1,000,000 = 3,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is the least: 1,000,000; 999,999; 1,000,001; or 999,000?",
+      "options": {
+        "A": "999,000",
+        "B": "999,999",
+        "C": "1,000,000",
+        "D": "1,000,001"
+      },
+      "answer": "A",
+      "explanation": "999,000 is smaller than all the others.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count backwards in steps of 10,000 from 500,000. What is the next number?",
+      "options": {
+        "A": "490,000",
+        "B": "499,000",
+        "C": "400,000",
+        "D": "499,990"
+      },
+      "answer": "A",
+      "explanation": "500,000 – 10,000 = 490,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is 2 more than –7?",
+      "options": {
+        "A": "–9",
+        "B": "–5",
+        "C": "5",
+        "D": "9"
+      },
+      "answer": "B",
+      "explanation": "–7 + 2 = –5.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 555,555 to the nearest 1,000.",
+      "options": {
+        "A": "555,000",
+        "B": "556,000",
+        "C": "550,000",
+        "D": "560,000"
+      },
+      "answer": "B",
+      "explanation": "The hundreds digit is 5 (≥5), so we round up: 555,555 → 556,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 80?",
+      "options": {
+        "A": "LXXX",
+        "B": "XXC",
+        "C": "LXX",
+        "D": "CXX"
+      },
+      "answer": "A",
+      "explanation": "L = 50, XXX = 30, so LXXX = 50 + 30 = 80.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is thirty thousand more than 678,901?",
+      "options": {
+        "A": "679,201",
+        "B": "708,901",
+        "C": "688,901",
+        "D": "978,901"
+      },
+      "answer": "B",
+      "explanation": "678,901 + 30,000 = 708,901.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the place value of the digit 6 in 7,654,321?",
+      "options": {
+        "A": "hundreds",
+        "B": "thousands",
+        "C": "ten thousands",
+        "D": "hundred thousands"
+      },
+      "answer": "D",
+      "explanation": "The digit 6 is in the hundred thousands place (600,000).",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count forwards in steps of 1,000 from 999,000. What is the next number?",
+      "options": {
+        "A": "999,001",
+        "B": "1,000,000",
+        "C": "998,000",
+        "D": "1,001,000"
+      },
+      "answer": "B",
+      "explanation": "999,000 + 1,000 = 1,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is between –10 and –5?",
+      "options": {
+        "A": "–12",
+        "B": "–7",
+        "C": "0",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "–7 is greater than –10 and less than –5.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 876,543 to the nearest 10,000.",
+      "options": {
+        "A": "870,000",
+        "B": "880,000",
+        "C": "876,000",
+        "D": "877,000"
+      },
+      "answer": "B",
+      "explanation": "The thousands digit is 6 (≥5), so we round up: 876,543 → 880,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 200?",
+      "options": {
+        "A": "CC",
+        "B": "LL",
+        "C": "DD",
+        "D": "MM"
+      },
+      "answer": "A",
+      "explanation": "C = 100, so CC = 100 + 100 = 200.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the value of the digit 4 in 4,000,000?",
+      "options": {
+        "A": "4",
+        "B": "40,000",
+        "C": "400,000",
+        "D": "4,000,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 4 is in the millions place, so its value is 4,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place"
+    },
+    {
+      "question": "What is the value of the digit 9 in 9,876,543?",
+      "options": {
+        "A": "900",
+        "B": "9,000",
+        "C": "900,000",
+        "D": "9,000,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 9 is in the millions place, so its value is 9 × 1,000,000 = 9,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is smaller: 2,000,001 or 1,999,999?",
+      "options": {
+        "A": "2,000,001",
+        "B": "1,999,999",
+        "C": "They are equal",
+        "D": "Not enough information"
+      },
+      "answer": "B",
+      "explanation": "1,999,999 has fewer digits in the millions place (1 vs. 2), so it is smaller.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count forwards in steps of 100 from 999,900. What is the next number?",
+      "options": {
+        "A": "999,901",
+        "B": "1,000,000",
+        "C": "999,800",
+        "D": "1,000,100"
+      },
+      "answer": "B",
+      "explanation": "999,900 + 100 = 1,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "If the temperature drops from 2°C to –3°C, how many degrees did it fall?",
+      "options": {
+        "A": "2 degrees",
+        "B": "3 degrees",
+        "C": "5 degrees",
+        "D": "6 degrees"
+      },
+      "answer": "C",
+      "explanation": "From 2°C to 0°C is 2 degrees; from 0°C to –3°C is 3 degrees; total = 2 + 3 = 5 degrees.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 678,432 to the nearest 1,000.",
+      "options": {
+        "A": "678,000",
+        "B": "679,000",
+        "C": "678,400",
+        "D": "680,000"
+      },
+      "answer": "A",
+      "explanation": "The hundreds digit is 4 (<5), so we round down: 678,432 → 678,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 300?",
+      "options": {
+        "A": "CCC",
+        "B": "LLC",
+        "C": "DDC",
+        "D": "MMM"
+      },
+      "answer": "A",
+      "explanation": "C = 100, so CCC = 100 + 100 + 100 = 300.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which digit is in the millions place in 5,678,901?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "answer": "A",
+      "explanation": "The number is 5 million, so 5 is in the millions place.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Write the number two million five hundred thousand in digits.",
+      "options": {
+        "A": "250,000",
+        "B": "2,050,000",
+        "C": "2,500,000",
+        "D": "25,000,000"
+      },
+      "answer": "C",
+      "explanation": "Two million = 2,000,000; five hundred thousand = 500,000; total = 2,500,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count backwards in steps of 1,000 from 1,000,000. What is the next number?",
+      "options": {
+        "A": "999,999",
+        "B": "999,000",
+        "C": "900,000",
+        "D": "990,000"
+      },
+      "answer": "B",
+      "explanation": "1,000,000 – 1,000 = 999,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What number comes just after –5 when counting forwards?",
+      "options": {
+        "A": "–6",
+        "B": "–4",
+        "C": "0",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "Counting forwards: …, –5, –4, –3, … So the number after –5 is –4.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 456,789 to the nearest 10,000.",
+      "options": {
+        "A": "450,000",
+        "B": "460,000",
+        "C": "456,000",
+        "D": "457,000"
+      },
+      "answer": "B",
+      "explanation": "The thousands digit is 6 (≥5), so we round up: 456,789 → 460,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What year is written as MCMXC?",
+      "options": {
+        "A": "1990",
+        "B": "2000",
+        "C": "1890",
+        "D": "2100"
+      },
+      "answer": "A",
+      "explanation": "M = 1000, CM = 900, XC = 90. Total = 1000 + 900 + 90 = 1990.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is the smallest: 1,234,567; 1,234,576; 1,234,657; or 1,234,756?",
+      "options": {
+        "A": "1,234,567",
+        "B": "1,234,576",
+        "C": "1,234,657",
+        "D": "1,234,756"
+      },
+      "answer": "A",
+      "explanation": "All start with 1,234,5__. Compare the tens: 6 < 7, so 1,234,567 is smallest.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the value of the digit 1 in 1,234,567?",
+      "options": {
+        "A": "1",
+        "B": "10",
+        "C": "100,000",
+        "D": "1,000,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 1 is in the millions place, so its value is 1 × 1,000,000 = 1,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count forwards in steps of 10,000 from 890,000. What is the next number?",
+      "options": {
+        "A": "890,010",
+        "B": "900,000",
+        "C": "891,000",
+        "D": "990,000"
+      },
+      "answer": "B",
+      "explanation": "890,000 + 10,000 = 900,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "If you count backwards from 0, what is the third number you say?",
+      "options": {
+        "A": "–1",
+        "B": "–2",
+        "C": "–3",
+        "D": "3"
+      },
+      "answer": "C",
+      "explanation": "Counting backwards: 0, –1, –2, –3… so the third number is –3.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 789,123 to the nearest 100.",
+      "options": {
+        "A": "789,100",
+        "B": "789,200",
+        "C": "789,000",
+        "D": "790,000"
+      },
+      "answer": "A",
+      "explanation": "The tens digit is 2 (<5), so we round down: 789,123 → 789,100.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 50?",
+      "options": {
+        "A": "XXXXX",
+        "B": "L",
+        "C": "V",
+        "D": "C"
+      },
+      "answer": "B",
+      "explanation": "L is the Roman numeral for 50.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What number is one hundred thousand less than 1,000,000?",
+      "options": {
+        "A": "900,000",
+        "B": "990,000",
+        "C": "999,000",
+        "D": "100,000"
+      },
+      "answer": "A",
+      "explanation": "1,000,000 – 100,000 = 900,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the largest 7-digit number?",
+      "options": {
+        "A": "9,999,999",
+        "B": "10,000,000",
+        "C": "9,000,000",
+        "D": "999,999"
+      },
+      "answer": "A",
+      "explanation": "The largest 7-digit number uses 9 in all places: 9,999,999.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count backwards in steps of 100 from 1,000,000. What is the next number?",
+      "options": {
+        "A": "999,990",
+        "B": "999,900",
+        "C": "999,000",
+        "D": "900,000"
+      },
+      "answer": "B",
+      "explanation": "1,000,000 – 100 = 999,900.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is between –2 and 0?",
+      "options": {
+        "A": "–3",
+        "B": "–1",
+        "C": "1",
+        "D": "2"
+      },
+      "answer": "B",
+      "explanation": "–1 is greater than –2 and less than 0.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 234,567 to the nearest 100,000.",
+      "options": {
+        "A": "200,000",
+        "B": "230,000",
+        "C": "240,000",
+        "D": "300,000"
+      },
+      "answer": "A",
+      "explanation": "The ten thousands digit is 3 (<5), so we round down: 234,567 → 200,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 600?",
+      "options": {
+        "A": "DC",
+        "B": "CD",
+        "C": "CCCC",
+        "D": "LD"
+      },
+      "answer": "A",
+      "explanation": "D = 500, C = 100, so DC = 500 + 100 = 600.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the value of the digit 7 in 7,000,000?",
+      "options": {
+        "A": "7",
+        "B": "70,000",
+        "C": "700,000",
+        "D": "7,000,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 7 is in the millions place, so its value is 7,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Order these numbers from smallest to largest: 3,001,000; 3,000,100; 3,000,010.",
+      "options": {
+        "A": "3,000,010; 3,000,100; 3,001,000",
+        "B": "3,000,100; 3,000,010; 3,001,000",
+        "C": "3,001,000; 3,000,100; 3,000,010",
+        "D": "3,000,010; 3,001,000; 3,000,100"
+      },
+      "answer": "A",
+      "explanation": "Compare from left: all start with 3,000,___. The last three digits determine order: 010 < 100 < 1,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count forwards in steps of 1,000 from 998,000. What is the next number?",
+      "options": {
+        "A": "998,001",
+        "B": "999,000",
+        "C": "1,000,000",
+        "D": "997,000"
+      },
+      "answer": "B",
+      "explanation": "998,000 + 1,000 = 999,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is 4 more than –6?",
+      "options": {
+        "A": "–10",
+        "B": "–2",
+        "C": "2",
+        "D": "10"
+      },
+      "answer": "B",
+      "explanation": "–6 + 4 = –2.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 567,890 to the nearest 10.",
+      "options": {
+        "A": "567,880",
+        "B": "567,890",
+        "C": "567,900",
+        "D": "568,000"
+      },
+      "answer": "B",
+      "explanation": "The units digit is 0 (<5), so we round down: 567,890 → 567,890.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which year is MCMLXXXIV?",
+      "options": {
+        "A": "1984",
+        "B": "2084",
+        "C": "1884",
+        "D": "1994"
+      },
+      "answer": "A",
+      "explanation": "M = 1000, CM = 900, LXXX = 80, IV = 4. Total = 1000 + 900 + 80 + 4 = 1984.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What number is fifty thousand more than 950,000?",
+      "options": {
+        "A": "955,000",
+        "B": "1,000,000",
+        "C": "900,000",
+        "D": "1,050,000"
+      },
+      "answer": "B",
+      "explanation": "950,000 + 50,000 = 1,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which digit is in the hundred thousands place in 2,345,678?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "answer": "B",
+      "explanation": "The number is 2 million, 3 hundred thousands, etc., so 3 is in the hundred thousands place.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count backwards in steps of 10,000 from 1,000,000. What is the next number?",
+      "options": {
+        "A": "990,000",
+        "B": "999,000",
+        "C": "900,000",
+        "D": "999,990"
+      },
+      "answer": "A",
+      "explanation": "1,000,000 – 10,000 = 990,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the result of –3 + 5?",
+      "options": {
+        "A": "–8",
+        "B": "–2",
+        "C": "2",
+        "D": "8"
+      },
+      "answer": "C",
+      "explanation": "Starting at –3 and moving 5 steps right gives 2.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 876,543 to the nearest 1,000.",
+      "options": {
+        "A": "876,000",
+        "B": "877,000",
+        "C": "876,500",
+        "D": "880,000"
+      },
+      "answer": "B",
+      "explanation": "The hundreds digit is 5 (≥5), so we round up: 876,543 → 877,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 800?",
+      "options": {
+        "A": "DCCC",
+        "B": "CCD",
+        "C": "MMM",
+        "D": "LLC"
+      },
+      "answer": "A",
+      "explanation": "D = 500, CCC = 300, so DCCC = 500 + 300 = 800.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is two million less than 5,000,000?",
+      "options": {
+        "A": "3,000,000",
+        "B": "4,000,000",
+        "C": "5,002,000",
+        "D": "7,000,000"
+      },
+      "answer": "A",
+      "explanation": "5,000,000 – 2,000,000 = 3,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the smallest 7-digit number?",
+      "options": {
+        "A": "1,000,000",
+        "B": "0",
+        "C": "999,999",
+        "D": "10,000,000"
+      },
+      "answer": "A",
+      "explanation": "The smallest 7-digit number is 1,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count forwards in steps of 100,000 from 500,000. What is the next number?",
+      "options": {
+        "A": "510,000",
+        "B": "600,000",
+        "C": "501,000",
+        "D": "1,500,000"
+      },
+      "answer": "B",
+      "explanation": "500,000 + 100,000 = 600,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What number is halfway between –6 and 4?",
+      "options": {
+        "A": "–2",
+        "B": "–1",
+        "C": "0",
+        "D": "1"
+      },
+      "answer": "B",
+      "explanation": "The difference is 10, so halfway is 5 from –6: –6 + 5 = –1.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 345,678 to the nearest 10,000.",
+      "options": {
+        "A": "340,000",
+        "B": "350,000",
+        "C": "345,000",
+        "D": "346,000"
+      },
+      "answer": "B",
+      "explanation": "The thousands digit is 5 (≥5), so we round up: 345,678 → 350,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 900?",
+      "options": {
+        "A": "CM",
+        "B": "MC",
+        "C": "DCCCC",
+        "D": "XM"
+      },
+      "answer": "A",
+      "explanation": "CM means 1,000 – 100 = 900.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the value of the digit 2 in 2,345,678?",
+      "options": {
+        "A": "2",
+        "B": "20,000",
+        "C": "200,000",
+        "D": "2,000,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 2 is in the millions place, so its value is 2,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is the greatest: 999,999; 1,000,000; 1,000,001; or 999,990?",
+      "options": {
+        "A": "999,990",
+        "B": "999,999",
+        "C": "1,000,000",
+        "D": "1,000,001"
+      },
+      "answer": "D",
+      "explanation": "1,000,001 is larger than all others.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count backwards in steps of 1,000 from 1,000,000. What is the number after two steps?",
+      "options": {
+        "A": "999,000",
+        "B": "998,000",
+        "C": "990,000",
+        "D": "900,000"
+      },
+      "answer": "B",
+      "explanation": "Step 1: 1,000,000 – 1,000 = 999,000. Step 2: 999,000 – 1,000 = 998,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is 6 less than –2?",
+      "options": {
+        "A": "4",
+        "B": "–4",
+        "C": "8",
+        "D": "–8"
+      },
+      "answer": "D",
+      "explanation": "–2 – 6 = –8.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 123,456 to the nearest 100.",
+      "options": {
+        "A": "123,400",
+        "B": "123,500",
+        "C": "123,450",
+        "D": "123,460"
+      },
+      "answer": "B",
+      "explanation": "The tens digit is 5 (≥5), so we round up: 123,456 → 123,500.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 123,456 to the nearest 100.",
+      "options": {
+        "A": "123,400",
+        "B": "123,500",
+        "C": "123,450",
+        "D": "123,460"
+      },
+      "answer": "B",
+      "explanation": "The tens digit is 5 (≥5), so we round up: 123,456 → 123,500.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 100?",
+      "options": {
+        "A": "L",
+        "B": "X",
+        "C": "C",
+        "D": "D"
+      },
+      "answer": "C",
+      "explanation": "C is the Roman numeral for 100.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What number is one million less than 3,500,000?",
+      "options": {
+        "A": "2,500,000",
+        "B": "3,400,000",
+        "C": "3,499,000",
+        "D": "4,500,000"
+      },
+      "answer": "A",
+      "explanation": "3,500,000 – 1,000,000 = 2,500,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What digit is in the ten thousands place in 7,654,321?",
+      "options": {
+        "A": "6",
+        "B": "5",
+        "C": "4",
+        "D": "3"
+      },
+      "answer": "B",
+      "explanation": "The number is 7 million, 6 hundred thousands, 5 ten thousands, etc., so 5 is in the ten thousands place.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count forwards in steps of 10 from 999,995. What is the next number?",
+      "options": {
+        "A": "999,996",
+        "B": "1,000,000",
+        "C": "1,000,005",
+        "D": "999,985"
+      },
+      "answer": "C",
+      "explanation": "999,995 + 10 = 1,000,005.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is greater: –1 or –100?",
+      "options": {
+        "A": "–100",
+        "B": "–1",
+        "C": "They are equal",
+        "D": "Neither"
+      },
+      "answer": "B",
+      "explanation": "–1 is closer to zero, so it is greater than –100.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 987,654 to the nearest 100,000.",
+      "options": {
+        "A": "900,000",
+        "B": "980,000",
+        "C": "990,000",
+        "D": "1,000,000"
+      },
+      "answer": "D",
+      "explanation": "The ten thousands digit is 8 (≥5), so we round up: 987,654 → 1,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 20?",
+      "options": {
+        "A": "XX",
+        "B": "VV",
+        "C": "XV",
+        "D": "IX"
+      },
+      "answer": "A",
+      "explanation": "X = 10, so XX = 10 + 10 = 20.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the value of the digit 5 in 5,000,000?",
+      "options": {
+        "A": "5",
+        "B": "50,000",
+        "C": "500,000",
+        "D": "5,000,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 5 is in the millions place, so its value is 5,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Order these numbers from largest to smallest: 2,000,001; 2,000,010; 2,000,100.",
+      "options": {
+        "A": "2,000,100; 2,000,010; 2,000,001",
+        "B": "2,000,001; 2,000,010; 2,000,100",
+        "C": "2,000,010; 2,000,100; 2,000,001",
+        "D": "2,000,100; 2,000,001; 2,000,010"
+      },
+      "answer": "A",
+      "explanation": "Compare the last three digits: 100 > 010 > 001.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count backwards in steps of 100 from 1,000,000. What is the number after two steps?",
+      "options": {
+        "A": "999,900",
+        "B": "999,800",
+        "C": "998,000",
+        "D": "900,000"
+      },
+      "answer": "B",
+      "explanation": "Step 1: 1,000,000 – 100 = 999,900. Step 2: 999,900 – 100 = 999,800.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the result of 0 + (–5)?",
+      "options": {
+        "A": "5",
+        "B": "0",
+        "C": "–5",
+        "D": "–1"
+      },
+      "answer": "C",
+      "explanation": "Adding a negative is like subtracting: 0 + (–5) = –5.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 456,789 to the nearest 10.",
+      "options": {
+        "A": "456,780",
+        "B": "456,790",
+        "C": "456,800",
+        "D": "457,000"
+      },
+      "answer": "B",
+      "explanation": "The units digit is 9 (≥5), so we round up: 456,789 → 456,790.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which year is MMXIX?",
+      "options": {
+        "A": "2019",
+        "B": "2119",
+        "C": "2009",
+        "D": "1919"
+      },
+      "answer": "A",
+      "explanation": "MM = 2000, X = 10, IX = 9. Total = 2000 + 10 + 9 = 2019.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What number is two hundred thousand more than 800,000?",
+      "options": {
+        "A": "820,000",
+        "B": "1,000,000",
+        "C": "802,000",
+        "D": "1,200,000"
+      },
+      "answer": "B",
+      "explanation": "800,000 + 200,000 = 1,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "How many digits are in the number 9,999,999?",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      },
+      "answer": "B",
+      "explanation": "9,999,999 has seven digits.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count forwards in steps of 1 from –3. What is the third number?",
+      "options": {
+        "A": "–2",
+        "B": "–1",
+        "C": "0",
+        "D": "1"
+      },
+      "answer": "C",
+      "explanation": "Sequence: –3 (start), –2 (1st), –1 (2nd), 0 (3rd). So the third number after starting is 0.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count forwards in steps of 1 from –3. What is the third number you say?",
+      "options": {
+        "A": "–2",
+        "B": "–1",
+        "C": "0",
+        "D": "1"
+      },
+      "answer": "B",
+      "explanation": "The sequence is: –3 (1st), –2 (2nd), –1 (3rd). So the third number is –1.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What number is 5 less than 0?",
+      "options": {
+        "A": "5",
+        "B": "–5",
+        "C": "0",
+        "D": "–1"
+      },
+      "answer": "B",
+      "explanation": "0 – 5 = –5.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 654,321 to the nearest 100,000.",
+      "options": {
+        "A": "600,000",
+        "B": "650,000",
+        "C": "700,000",
+        "D": "654,000"
+      },
+      "answer": "C",
+      "explanation": "The ten thousands digit is 5 (≥5), so we round up: 654,321 → 700,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 70?",
+      "options": {
+        "A": "LXX",
+        "B": "XXX",
+        "C": "LX",
+        "D": "XXL"
+      },
+      "answer": "A",
+      "explanation": "L = 50, XX = 20, so LXX = 50 + 20 = 70.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the value of the digit 8 in 8,000,000?",
+      "options": {
+        "A": "8",
+        "B": "80,000",
+        "C": "800,000",
+        "D": "8,000,000"
+      },
+      "answer": "D",
+      "explanation": "The digit 8 is in the millions place, so its value is 8,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is the least: 2,000,000; 1,999,999; 2,000,001; or 1,000,000?",
+      "options": {
+        "A": "1,000,000",
+        "B": "1,999,999",
+        "C": "2,000,000",
+        "D": "2,000,001"
+      },
+      "answer": "A",
+      "explanation": "1,000,000 is smaller than all the others.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Count backwards in steps of 100,000 from 1,000,000. What is the next number?",
+      "options": {
+        "A": "900,000",
+        "B": "990,000",
+        "C": "999,000",
+        "D": "100,000"
+      },
+      "answer": "A",
+      "explanation": "1,000,000 – 100,000 = 900,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is 3 more than –8?",
+      "options": {
+        "A": "–11",
+        "B": "–5",
+        "C": "5",
+        "D": "11"
+      },
+      "answer": "B",
+      "explanation": "–8 + 3 = –5.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Round 789,012 to the nearest 1,000.",
+      "options": {
+        "A": "789,000",
+        "B": "790,000",
+        "C": "789,100",
+        "D": "788,000"
+      },
+      "answer": "A",
+      "explanation": "The hundreds digit is 0 (<5), so we round down: 789,012 → 789,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the Roman numeral for 90?",
+      "options": {
+        "A": "XC",
+        "B": "LXXXX",
+        "C": "IC",
+        "D": "LX"
+      },
+      "answer": "A",
+      "explanation": "XC means 100 – 10 = 90.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "Which number is forty thousand more than 960,000?",
+      "options": {
+        "A": "964,000",
+        "B": "1,000,000",
+        "C": "900,000",
+        "D": "1,040,000"
+      },
+      "answer": "B",
+      "explanation": "960,000 + 40,000 = 1,000,000.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+    {
+      "question": "What is the place value of the digit 9 in 9,000,000?",
+      "options": {
+        "A": "hundreds",
+        "B": "thousands",
+        "C": "millions",
+        "D": "ten millions"
+      },
+      "answer": "C",
+      "explanation": "The digit 9 is in the millions place.",
+      "difficulty": "easy",
+      "used": 0,
+      "type": "Year5 - Number - number and place value"
+    },
+  {
+    "question": "Which number is forty thousand more than 960,000?",
+    "options": {
+      "A": "964,000",
+      "B": "1,000,000",
+      "C": "900,000",
+      "D": "1,040,000"
+    },
+    "answer": "B",
+    "explanation": "960,000 + 40,000 = 1,000,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 4 in 842,109?",
+    "options": {
+      "A": "40",
+      "B": "400",
+      "C": "4,000",
+      "D": "40,000"
+    },
+    "answer": "D",
+    "explanation": "The digit 4 is in the ten thousands place, so its value is 4 × 10,000 = 40,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is the smallest?",
+    "options": {
+      "A": "305,678",
+      "B": "305,768",
+      "C": "305,687",
+      "D": "305,876"
+    },
+    "answer": "A",
+    "explanation": "All numbers begin with 305, but 305,678 has the smallest tens and units digits.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "How do you write seven hundred five thousand twenty-three in numerals?",
+    "options": {
+      "A": "750,023",
+      "B": "705,230",
+      "C": "705,023",
+      "D": "75,023"
+    },
+    "answer": "C",
+    "explanation": "Seven hundred five thousand = 705,000; twenty-three = 23; so the number is 705,023.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number comes next? 100,000; 200,000; 300,000; ___",
+    "options": {
+      "A": "350,000",
+      "B": "400,000",
+      "C": "500,000",
+      "D": "310,000"
+    },
+    "answer": "B",
+    "explanation": "The sequence increases by 100,000 each time, so 300,000 + 100,000 = 400,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count backwards from 600,000 in steps of 10,000. What is the next number?",
+    "options": {
+      "A": "590,000",
+      "B": "500,000",
+      "C": "599,000",
+      "D": "580,000"
+    },
+    "answer": "A",
+    "explanation": "Subtracting 10,000 from 600,000 gives 590,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 100,000 less than 850,000?",
+    "options": {
+      "A": "750,000",
+      "B": "840,000",
+      "C": "851,000",
+      "D": "950,000"
+    },
+    "answer": "A",
+    "explanation": "850,000 – 100,000 = 750,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which situation uses a negative number?",
+    "options": {
+      "A": "A car travels 150 km.",
+      "B": "A building is 25 floors tall.",
+      "C": "The temperature is –5°C.",
+      "D": "A book costs £12."
+    },
+    "answer": "C",
+    "explanation": "Temperatures below zero are written as negative numbers, like –5°C.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the next number in this sequence: –4, –3, –2, ___?",
+    "options": {
+      "A": "–1",
+      "B": "0",
+      "C": "1",
+      "D": "–5"
+    },
+    "answer": "A",
+    "explanation": "The sequence counts forwards by 1 each time: –4, –3, –2, –1.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is –2 + 3?",
+    "options": {
+      "A": "–5",
+      "B": "1",
+      "C": "–1",
+      "D": "5"
+    },
+    "answer": "B",
+    "explanation": "Starting at –2 and moving 3 steps forward on the number line lands on 1.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 45,678 to the nearest 1,000.",
+    "options": {
+      "A": "45,000",
+      "B": "46,000",
+      "C": "45,700",
+      "D": "50,000"
+    },
+    "answer": "B",
+    "explanation": "The hundreds digit is 6 (≥5), so round up: 45,678 → 46,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 782,345 to the nearest 10,000.",
+    "options": {
+      "A": "780,000",
+      "B": "790,000",
+      "C": "782,000",
+      "D": "800,000"
+    },
+    "answer": "A",
+    "explanation": "The thousands digit is 2 (<5), so round down: 782,345 → 780,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 123,456 to the nearest 100.",
+    "options": {
+      "A": "123,400",
+      "B": "123,500",
+      "C": "123,460",
+      "D": "123,000"
+    },
+    "answer": "B",
+    "explanation": "The tens digit is 5, so round up: 123,456 → 123,500.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 987,654 to the nearest 100,000.",
+    "options": {
+      "A": "900,000",
+      "B": "1,000,000",
+      "C": "980,000",
+      "D": "990,000"
+    },
+    "answer": "B",
+    "explanation": "The ten thousands digit is 8 (≥5), so round up: 987,654 → 1,000,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 505,505 to the nearest 10.",
+    "options": {
+      "A": "505,500",
+      "B": "505,510",
+      "C": "505,000",
+      "D": "506,000"
+    },
+    "answer": "B",
+    "explanation": "The units digit is 5, so round up: 505,505 → 505,510.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral represents 500?",
+    "options": {
+      "A": "C",
+      "B": "L",
+      "C": "D",
+      "D": "M"
+    },
+    "answer": "C",
+    "explanation": "In Roman numerals, D = 500.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number does the Roman numeral 'M' represent?",
+    "options": {
+      "A": "100",
+      "B": "500",
+      "C": "1,000",
+      "D": "10,000"
+    },
+    "answer": "C",
+    "explanation": "M is the Roman numeral for 1,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral means 100?",
+    "options": {
+      "A": "X",
+      "B": "L",
+      "C": "C",
+      "D": "D"
+    },
+    "answer": "C",
+    "explanation": "C is the Roman numeral for 100.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 10?",
+    "options": {
+      "A": "V",
+      "B": "X",
+      "C": "I",
+      "D": "L"
+    },
+    "answer": "B",
+    "explanation": "X represents 10 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which year is written as 'MMXX' in Roman numerals?",
+    "options": {
+      "A": "2010",
+      "B": "2020",
+      "C": "1920",
+      "D": "2220"
+    },
+    "answer": "B",
+    "explanation": "M = 1,000, so MM = 2,000; XX = 20; therefore MMXX = 2,020.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 9 in 198,765?",
+    "options": {
+      "A": "9",
+      "B": "90",
+      "C": "9,000",
+      "D": "90,000"
+    },
+    "answer": "D",
+    "explanation": "The digit 9 is in the ten thousands place, so its value is 90,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is greater: 678,901 or 678,910?",
+    "options": {
+      "A": "678,901",
+      "B": "678,910",
+      "C": "They are equal",
+      "D": "Not enough information"
+    },
+    "answer": "B",
+    "explanation": "Both numbers are the same until the tens place: 1 vs 0, so 678,910 is larger.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Write 402,030 in words.",
+    "options": {
+      "A": "Four hundred two thousand thirty",
+      "B": "Four hundred twenty thousand thirty",
+      "C": "Forty-two thousand thirty",
+      "D": "Four million two thousand thirty"
+    },
+    "answer": "A",
+    "explanation": "402,030 = four hundred two thousand and thirty.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 10,000 more than 290,000?",
+    "options": {
+      "A": "291,000",
+      "B": "300,000",
+      "C": "290,100",
+      "D": "310,000"
+    },
+    "answer": "B",
+    "explanation": "290,000 + 10,000 = 300,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count forwards from 450,000 in steps of 100,000. What is the next number?",
+    "options": {
+      "A": "460,000",
+      "B": "500,000",
+      "C": "550,000",
+      "D": "451,000"
+    },
+    "answer": "C",
+    "explanation": "Adding 100,000 to 450,000 gives 550,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 1,000 less than 501,000?",
+    "options": {
+      "A": "500,000",
+      "B": "501,100",
+      "C": "499,000",
+      "D": "502,000"
+    },
+    "answer": "A",
+    "explanation": "501,000 – 1,000 = 500,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "If the temperature drops from 2°C to –3°C, how many degrees did it fall?",
+    "options": {
+      "A": "1°C",
+      "B": "3°C",
+      "C": "5°C",
+      "D": "6°C"
+    },
+    "answer": "C",
+    "explanation": "From 2°C to 0°C is 2°, and from 0°C to –3°C is 3°, so total drop is 5°C.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is 0 – 4?",
+    "options": {
+      "A": "4",
+      "B": "0",
+      "C": "–4",
+      "D": "–1"
+    },
+    "answer": "C",
+    "explanation": "Subtracting 4 from 0 gives –4.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number comes between –1 and 1?",
+    "options": {
+      "A": "–2",
+      "B": "0",
+      "C": "2",
+      "D": "–0"
+    },
+    "answer": "B",
+    "explanation": "On the number line, 0 is between –1 and 1.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 234,567 to the nearest 100,000.",
+    "options": {
+      "A": "200,000",
+      "B": "230,000",
+      "C": "235,000",
+      "D": "300,000"
+    },
+    "answer": "A",
+    "explanation": "The ten thousands digit is 3 (<5), so round down to 200,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 876,543 to the nearest 1,000.",
+    "options": {
+      "A": "876,000",
+      "B": "877,000",
+      "C": "876,500",
+      "D": "880,000"
+    },
+    "answer": "B",
+    "explanation": "The hundreds digit is 5, so round up: 876,543 → 877,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 109,876 to the nearest 10,000.",
+    "options": {
+      "A": "100,000",
+      "B": "110,000",
+      "C": "109,000",
+      "D": "120,000"
+    },
+    "answer": "B",
+    "explanation": "The thousands digit is 9 (≥5), so round up: 109,876 → 110,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 555,555 to the nearest 100.",
+    "options": {
+      "A": "555,500",
+      "B": "555,600",
+      "C": "555,550",
+      "D": "556,000"
+    },
+    "answer": "B",
+    "explanation": "The tens digit is 5, so round up: 555,555 → 555,600.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 999,999 to the nearest 100,000.",
+    "options": {
+      "A": "900,000",
+      "B": "1,000,000",
+      "C": "990,000",
+      "D": "999,000"
+    },
+    "answer": "B",
+    "explanation": "The ten thousands digit is 9 (≥5), so round up to 1,000,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 50?",
+    "options": {
+      "A": "X",
+      "B": "L",
+      "C": "C",
+      "D": "V"
+    },
+    "answer": "B",
+    "explanation": "L represents 50 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral stands for 5?",
+    "options": {
+      "A": "I",
+      "B": "V",
+      "C": "X",
+      "D": "L"
+    },
+    "answer": "B",
+    "explanation": "V is the Roman numeral for 5.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is represented by the Roman numeral 'CXX'?",
+    "options": {
+      "A": "110",
+      "B": "120",
+      "C": "130",
+      "D": "102"
+    },
+    "answer": "B",
+    "explanation": "C = 100, X = 10, so CXX = 100 + 10 + 10 = 120.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 2023?",
+    "options": {
+      "A": "MMXXIII",
+      "B": "MMXXXIII",
+      "C": "MCCXXIII",
+      "D": "MMCCXXIII"
+    },
+    "answer": "A",
+    "explanation": "MM = 2000, XX = 20, III = 3, so 2023 = MMXXIII.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral is 900?",
+    "options": {
+      "A": "CM",
+      "B": "DC",
+      "C": "CD",
+      "D": "MC"
+    },
+    "answer": "A",
+    "explanation": "CM means 1000 – 100 = 900.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 2 in 2,000,000?",
+    "options": {
+      "A": "200,000",
+      "B": "2,000,000",
+      "C": "20,000",
+      "D": "200"
+    },
+    "answer": "B",
+    "explanation": "The digit 2 is in the millions place, so its value is 2,000,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is one million?",
+    "options": {
+      "A": "100,000",
+      "B": "1,000,000",
+      "C": "10,000,000",
+      "D": "1,000"
+    },
+    "answer": "B",
+    "explanation": "One million is written as 1,000,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Order these numbers from smallest to largest: 500,100; 500,010; 501,000.",
+    "options": {
+      "A": "500,010; 500,100; 501,000",
+      "B": "501,000; 500,100; 500,010",
+      "C": "500,100; 500,010; 501,000",
+      "D": "500,010; 501,000; 500,100"
+    },
+    "answer": "A",
+    "explanation": "500,010 < 500,100 < 501,000 based on comparing digits from left to right.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 100,000 more than 899,000?",
+    "options": {
+      "A": "900,000",
+      "B": "999,000",
+      "C": "1,000,000",
+      "D": "899,100"
+    },
+    "answer": "B",
+    "explanation": "899,000 + 100,000 = 999,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count backwards from 1,000,000 in steps of 100,000. What is the next number?",
+    "options": {
+      "A": "900,000",
+      "B": "990,000",
+      "C": "999,000",
+      "D": "800,000"
+    },
+    "answer": "A",
+    "explanation": "1,000,000 – 100,000 = 900,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 10 less than 500,010?",
+    "options": {
+      "A": "500,000",
+      "B": "499,990",
+      "C": "500,020",
+      "D": "490,010"
+    },
+    "answer": "A",
+    "explanation": "500,010 – 10 = 500,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "If you go from –5°C to 3°C, how much did the temperature rise?",
+    "options": {
+      "A": "2°C",
+      "B": "5°C",
+      "C": "8°C",
+      "D": "3°C"
+    },
+    "answer": "C",
+    "explanation": "From –5 to 0 is 5°, and 0 to 3 is 3°, so total rise is 8°C.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is –6 + 6?",
+    "options": {
+      "A": "–12",
+      "B": "0",
+      "C": "12",
+      "D": "6"
+    },
+    "answer": "B",
+    "explanation": "Adding a number and its opposite gives zero: –6 + 6 = 0.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is halfway between –4 and 2?",
+    "options": {
+      "A": "–1",
+      "B": "0",
+      "C": "1",
+      "D": "–2"
+    },
+    "answer": "A",
+    "explanation": "The distance from –4 to 2 is 6, so halfway is 3 units from –4: –4 + 3 = –1.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 12,345 to the nearest 1,000.",
+    "options": {
+      "A": "12,000",
+      "B": "13,000",
+      "C": "12,300",
+      "D": "10,000"
+    },
+    "answer": "A",
+    "explanation": "The hundreds digit is 3 (<5), so round down to 12,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 99,999 to the nearest 10,000.",
+    "options": {
+      "A": "90,000",
+      "B": "100,000",
+      "C": "99,000",
+      "D": "110,000"
+    },
+    "answer": "B",
+    "explanation": "The thousands digit is 9 (≥5), so round up to 100,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 450,000 to the nearest 100,000.",
+    "options": {
+      "A": "400,000",
+      "B": "500,000",
+      "C": "450,000",
+      "D": "460,000"
+    },
+    "answer": "B",
+    "explanation": "The ten thousands digit is 5, so round up to 500,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 705,050 to the nearest 100.",
+    "options": {
+      "A": "705,000",
+      "B": "705,100",
+      "C": "705,050",
+      "D": "706,000"
+    },
+    "answer": "B",
+    "explanation": "The tens digit is 5, so round up: 705,050 → 705,100.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 345,678 to the nearest 10.",
+    "options": {
+      "A": "345,670",
+      "B": "345,680",
+      "C": "345,700",
+      "D": "346,000"
+    },
+    "answer": "B",
+    "explanation": "The units digit is 8 (≥5), so round up to 345,680.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 40?",
+    "options": {
+      "A": "XXXX",
+      "B": "XL",
+      "C": "LX",
+      "D": "XX"
+    },
+    "answer": "B",
+    "explanation": "XL means 50 – 10 = 40.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral is 90?",
+    "options": {
+      "A": "XC",
+      "B": "LXXXX",
+      "C": "CX",
+      "D": "IC"
+    },
+    "answer": "A",
+    "explanation": "XC means 100 – 10 = 90.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 'CD' in Roman numerals?",
+    "options": {
+      "A": "600",
+      "B": "400",
+      "C": "500",
+      "D": "100"
+    },
+    "answer": "B",
+    "explanation": "CD means 500 – 100 = 400.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 1999?",
+    "options": {
+      "A": "MCMXCIX",
+      "B": "MDCCCCLXXXXVIIII",
+      "C": "MIM",
+      "D": "MXCMXC"
+    },
+    "answer": "A",
+    "explanation": "M = 1000, CM = 900, XC = 90, IX = 9 → 1999 = MCMXCIX.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which year is 'MCM'?",
+    "options": {
+      "A": "1900",
+      "B": "2100",
+      "C": "1800",
+      "D": "2000"
+    },
+    "answer": "A",
+    "explanation": "M = 1000, CM = 900, so MCM = 1900.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 6 in 678,901?",
+    "options": {
+      "A": "600",
+      "B": "6,000",
+      "C": "60,000",
+      "D": "600,000"
+    },
+    "answer": "D",
+    "explanation": "The digit 6 is in the hundred thousands place, so its value is 600,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is the same as six hundred thousand and six?",
+    "options": {
+      "A": "600,060",
+      "B": "600,006",
+      "C": "606,000",
+      "D": "660,000"
+    },
+    "answer": "B",
+    "explanation": "Six hundred thousand = 600,000; and six = 6; so 600,006.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Compare: 700,000 ___ 700,001",
+    "options": {
+      "A": ">",
+      "B": "<",
+      "C": "=",
+      "D": "≥"
+    },
+    "answer": "B",
+    "explanation": "700,000 is less than 700,001.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 100 more than 999,900?",
+    "options": {
+      "A": "999,000",
+      "B": "1,000,000",
+      "C": "999,901",
+      "D": "999,800"
+    },
+    "answer": "B",
+    "explanation": "999,900 + 100 = 1,000,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count forwards from 250,000 in steps of 10,000. What is the third number?",
+    "options": {
+      "A": "260,000",
+      "B": "270,000",
+      "C": "280,000",
+      "D": "275,000"
+    },
+    "answer": "B",
+    "explanation": "250,000 → 260,000 → 270,000 (third number).",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 10,000 more than 990,000?",
+    "options": {
+      "A": "1,000,000",
+      "B": "991,000",
+      "C": "1,010,000",
+      "D": "900,000"
+    },
+    "answer": "A",
+    "explanation": "990,000 + 10,000 = 1,000,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "At night, the temperature was –2°C. In the morning, it was 5°C. How much did it rise?",
+    "options": {
+      "A": "3°C",
+      "B": "5°C",
+      "C": "7°C",
+      "D": "2°C"
+    },
+    "answer": "C",
+    "explanation": "From –2 to 0 is 2°, and 0 to 5 is 5°, so total rise is 7°C.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is –10 + 4?",
+    "options": {
+      "A": "–6",
+      "B": "6",
+      "C": "–14",
+      "D": "14"
+    },
+    "answer": "A",
+    "explanation": "Starting at –10 and moving 4 steps forward gives –6.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is greater: –5 or –2?",
+    "options": {
+      "A": "–5",
+      "B": "–2",
+      "C": "They are equal",
+      "D": "Neither"
+    },
+    "answer": "B",
+    "explanation": "On the number line, –2 is to the right of –5, so it is greater.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 550,000 to the nearest 100,000.",
+    "options": {
+      "A": "500,000",
+      "B": "600,000",
+      "C": "550,000",
+      "D": "560,000"
+    },
+    "answer": "B",
+    "explanation": "The ten thousands digit is 5, so round up to 600,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 899,999 to the nearest 1,000.",
+    "options": {
+      "A": "899,000",
+      "B": "900,000",
+      "C": "899,900",
+      "D": "1,000,000"
+    },
+    "answer": "B",
+    "explanation": "The hundreds digit is 9 (≥5), so round up: 899,999 → 900,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 123,999 to the nearest 100.",
+    "options": {
+      "A": "123,900",
+      "B": "124,000",
+      "C": "123,000",
+      "D": "124,100"
+    },
+    "answer": "B",
+    "explanation": "The tens digit is 9 (≥5), so round up: 123,999 → 124,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 750,000 to the nearest 10,000.",
+    "options": {
+      "A": "700,000",
+      "B": "750,000",
+      "C": "760,000",
+      "D": "800,000"
+    },
+    "answer": "B",
+    "explanation": "The thousands digit is 0 (<5), so it stays 750,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 300,001 to the nearest 100,000.",
+    "options": {
+      "A": "300,000",
+      "B": "400,000",
+      "C": "200,000",
+      "D": "350,000"
+    },
+    "answer": "A",
+    "explanation": "The ten thousands digit is 0 (<5), so round down to 300,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 600?",
+    "options": {
+      "A": "DC",
+      "B": "CD",
+      "C": "CM",
+      "D": "C"
+    },
+    "answer": "A",
+    "explanation": "D = 500, C = 100, so DC = 600.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is 'DCC' in numbers?",
+    "options": {
+      "A": "600",
+      "B": "700",
+      "C": "800",
+      "D": "500"
+    },
+    "answer": "B",
+    "explanation": "D = 500, C = 100, so DCC = 500 + 100 + 100 = 700.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral is 800?",
+    "options": {
+      "A": "DCCC",
+      "B": "CCM",
+      "C": "CM",
+      "D": "DC"
+    },
+    "answer": "A",
+    "explanation": "D = 500, CCC = 300, so DCCC = 800.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 1984?",
+    "options": {
+      "A": "MCMLXXXIV",
+      "B": "MDCCCCLXXXIIII",
+      "C": "MCMXXXIV",
+      "D": "MXCMXXXIV"
+    },
+    "answer": "A",
+    "explanation": "M = 1000, CM = 900, LXXX = 80, IV = 4 → 1984 = MCMLXXXIV.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which year is 'MDCLXVI'?",
+    "options": {
+      "A": "1666",
+      "B": "1566",
+      "C": "1766",
+      "D": "1656"
+    },
+    "answer": "A",
+    "explanation": "M=1000, D=500, C=100, L=50, X=10, V=5, I=1 → 1000+500+100+50+10+5+1=1666.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 0 in 102,345?",
+    "options": {
+      "A": "0",
+      "B": "10,000",
+      "C": "100,000",
+      "D": "1,000"
+    },
+    "answer": "A",
+    "explanation": "The digit 0 holds the ten thousands place but has no value itself.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is nine hundred ninety-nine thousand nine hundred ninety-nine?",
+    "options": {
+      "A": "999,999",
+      "B": "999,990",
+      "C": "990,999",
+      "D": "909,999"
+    },
+    "answer": "A",
+    "explanation": "This is the standard form of 999,999.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 1 more than 999,999?",
+    "options": {
+      "A": "1,000,000",
+      "B": "999,998",
+      "C": "1,000,001",
+      "D": "990,000"
+    },
+    "answer": "A",
+    "explanation": "999,999 + 1 = 1,000,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count backwards from 500,000 in steps of 100,000. What is the third number?",
+    "options": {
+      "A": "400,000",
+      "B": "300,000",
+      "C": "200,000",
+      "D": "100,000"
+    },
+    "answer": "B",
+    "explanation": "500,000 → 400,000 → 300,000 (third number).",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 1,000 more than 999,000?",
+    "options": {
+      "A": "1,000,000",
+      "B": "999,001",
+      "C": "1,001,000",
+      "D": "990,000"
+    },
+    "answer": "A",
+    "explanation": "999,000 + 1,000 = 1,000,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "The temperature was –7°C at dawn and rose to 2°C by noon. How much did it rise?",
+    "options": {
+      "A": "5°C",
+      "B": "7°C",
+      "C": "9°C",
+      "D": "2°C"
+    },
+    "answer": "C",
+    "explanation": "From –7 to 0 is 7°, and 0 to 2 is 2°, so total rise is 9°C.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is 3 – 8?",
+    "options": {
+      "A": "5",
+      "B": "–5",
+      "C": "11",
+      "D": "–11"
+    },
+    "answer": "B",
+    "explanation": "3 – 8 = –5.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is between –10 and –8?",
+    "options": {
+      "A": "–9",
+      "B": "–7",
+      "C": "–11",
+      "D": "0"
+    },
+    "answer": "A",
+    "explanation": "–9 is between –10 and –8 on the number line.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 499,999 to the nearest 100,000.",
+    "options": {
+      "A": "400,000",
+      "B": "500,000",
+      "C": "490,000",
+      "D": "600,000"
+    },
+    "answer": "B",
+    "explanation": "The ten thousands digit is 9 (≥5), so round up to 500,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 200,050 to the nearest 1,000.",
+    "options": {
+      "A": "200,000",
+      "B": "201,000",
+      "C": "200,100",
+      "D": "199,000"
+    },
+    "answer": "A",
+    "explanation": "The hundreds digit is 0 (<5), so round down to 200,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 849,500 to the nearest 10,000.",
+    "options": {
+      "A": "840,000",
+      "B": "850,000",
+      "C": "849,000",
+      "D": "860,000"
+    },
+    "answer": "B",
+    "explanation": "The thousands digit is 9 (≥5), so round up to 850,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 600,049 to the nearest 100.",
+    "options": {
+      "A": "600,000",
+      "B": "600,100",
+      "C": "600,050",
+      "D": "600,040"
+    },
+    "answer": "A",
+    "explanation": "The tens digit is 4 (<5), so round down to 600,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 123,450 to the nearest 10.",
+    "options": {
+      "A": "123,450",
+      "B": "123,460",
+      "C": "123,440",
+      "D": "123,500"
+    },
+    "answer": "A",
+    "explanation": "The units digit is 0, so it remains 123,450.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 30?",
+    "options": {
+      "A": "XXX",
+      "B": "XX",
+      "C": "XL",
+      "D": "L"
+    },
+    "answer": "A",
+    "explanation": "XXX = 10 + 10 + 10 = 30.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is 'LXX' in numbers?",
+    "options": {
+      "A": "60",
+      "B": "70",
+      "C": "80",
+      "D": "50"
+    },
+    "answer": "B",
+    "explanation": "L = 50, XX = 20, so LXX = 70.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral is 200?",
+    "options": {
+      "A": "CC",
+      "B": "DD",
+      "C": "MM",
+      "D": "LL"
+    },
+    "answer": "A",
+    "explanation": "C = 100, so CC = 200.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 1950?",
+    "options": {
+      "A": "MCML",
+      "B": "MDCCCCL",
+      "C": "MCMC",
+      "D": "MLM"
+    },
+    "answer": "A",
+    "explanation": "M = 1000, CM = 900, L = 50 → 1950 = MCML.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which year is 'MCMXC'?",
+    "options": {
+      "A": "1990",
+      "B": "1980",
+      "C": "2000",
+      "D": "1890"
+    },
+    "answer": "A",
+    "explanation": "M = 1000, CM = 900, XC = 90 → 1990.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 8 in 384,201?",
+    "options": {
+      "A": "80",
+      "B": "800",
+      "C": "8,000",
+      "D": "80,000"
+    },
+    "answer": "D",
+    "explanation": "The digit 8 is in the ten thousands place, so its value is 8 × 10,000 = 80,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is the largest?",
+    "options": {
+      "A": "720,456",
+      "B": "720,465",
+      "C": "720,546",
+      "D": "720,564"
+    },
+    "answer": "D",
+    "explanation": "All numbers start with 720, but 720,564 has the highest digits in the tens and units places.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "How do you write five hundred thirty-two thousand seven hundred one in numerals?",
+    "options": {
+      "A": "532,710",
+      "B": "532,701",
+      "C": "502,701",
+      "D": "532,071"
+    },
+    "answer": "B",
+    "explanation": "Five hundred thirty-two thousand = 532,000; seven hundred one = 701; so 532,701.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number comes next? 400,000; 500,000; 600,000; ___",
+    "options": {
+      "A": "650,000",
+      "B": "700,000",
+      "C": "610,000",
+      "D": "800,000"
+    },
+    "answer": "B",
+    "explanation": "The sequence increases by 100,000 each time, so 600,000 + 100,000 = 700,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count backwards from 900,000 in steps of 10,000. What is the next number?",
+    "options": {
+      "A": "890,000",
+      "B": "800,000",
+      "C": "899,000",
+      "D": "880,000"
+    },
+    "answer": "A",
+    "explanation": "900,000 – 10,000 = 890,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 10,000 less than 630,000?",
+    "options": {
+      "A": "620,000",
+      "B": "629,000",
+      "C": "640,000",
+      "D": "631,000"
+    },
+    "answer": "A",
+    "explanation": "630,000 – 10,000 = 620,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which situation uses a negative number?",
+    "options": {
+      "A": "A football team scores 3 goals.",
+      "B": "A submarine is 200 m below sea level.",
+      "C": "A tree is 15 m tall.",
+      "D": "A book has 250 pages."
+    },
+    "answer": "B",
+    "explanation": "Depths below sea level are represented with negative numbers, e.g., –200 m.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the next number in this sequence: –5, –4, –3, ___?",
+    "options": {
+      "A": "–2",
+      "B": "–1",
+      "C": "0",
+      "D": "–6"
+    },
+    "answer": "A",
+    "explanation": "The sequence counts forwards by 1: –5, –4, –3, –2.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is –3 + 5?",
+    "options": {
+      "A": "–8",
+      "B": "2",
+      "C": "–2",
+      "D": "8"
+    },
+    "answer": "B",
+    "explanation": "Starting at –3 and moving 5 steps forward on the number line gives 2.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 67,890 to the nearest 1,000.",
+    "options": {
+      "A": "67,000",
+      "B": "68,000",
+      "C": "67,900",
+      "D": "70,000"
+    },
+    "answer": "B",
+    "explanation": "The hundreds digit is 8 (≥5), so round up: 67,890 → 68,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 432,156 to the nearest 10,000.",
+    "options": {
+      "A": "430,000",
+      "B": "440,000",
+      "C": "432,000",
+      "D": "400,000"
+    },
+    "answer": "A",
+    "explanation": "The thousands digit is 2 (<5), so round down: 432,156 → 430,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 256,789 to the nearest 100.",
+    "options": {
+      "A": "256,700",
+      "B": "256,800",
+      "C": "256,790",
+      "D": "257,000"
+    },
+    "answer": "B",
+    "explanation": "The tens digit is 8 (≥5), so round up: 256,789 → 256,800.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 876,543 to the nearest 100,000.",
+    "options": {
+      "A": "800,000",
+      "B": "900,000",
+      "C": "870,000",
+      "D": "880,000"
+    },
+    "answer": "B",
+    "explanation": "The ten thousands digit is 7 (≥5), so round up: 876,543 → 900,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 405,678 to the nearest 10.",
+    "options": {
+      "A": "405,670",
+      "B": "405,680",
+      "C": "405,700",
+      "D": "406,000"
+    },
+    "answer": "B",
+    "explanation": "The units digit is 8 (≥5), so round up to 405,680.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral represents 1,000?",
+    "options": {
+      "A": "C",
+      "B": "D",
+      "C": "M",
+      "D": "L"
+    },
+    "answer": "C",
+    "explanation": "M is the Roman numeral for 1,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number does the Roman numeral 'D' represent?",
+    "options": {
+      "A": "100",
+      "B": "500",
+      "C": "1,000",
+      "D": "50"
+    },
+    "answer": "B",
+    "explanation": "D = 500 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral means 10?",
+    "options": {
+      "A": "I",
+      "B": "V",
+      "C": "X",
+      "D": "L"
+    },
+    "answer": "C",
+    "explanation": "X = 10 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 5?",
+    "options": {
+      "A": "I",
+      "B": "IIIII",
+      "C": "V",
+      "D": "X"
+    },
+    "answer": "C",
+    "explanation": "V = 5 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which year is written as 'MCMX' in Roman numerals?",
+    "options": {
+      "A": "1910",
+      "B": "1900",
+      "C": "1810",
+      "D": "2010"
+    },
+    "answer": "A",
+    "explanation": "M = 1000, CM = 900, X = 10 → 1000 + 900 + 10 = 1910.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 5 in 592,341?",
+    "options": {
+      "A": "50",
+      "B": "5,000",
+      "C": "50,000",
+      "D": "500,000"
+    },
+    "answer": "D",
+    "explanation": "The digit 5 is in the hundred thousands place, so its value is 500,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is smaller: 801,234 or 801,243?",
+    "options": {
+      "A": "801,234",
+      "B": "801,243",
+      "C": "They are equal",
+      "D": "Not enough information"
+    },
+    "answer": "A",
+    "explanation": "Both numbers are the same until the tens place: 3 vs 4, so 801,234 is smaller.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Write 703,020 in words.",
+    "options": {
+      "A": "Seven hundred three thousand twenty",
+      "B": "Seven hundred thirty thousand twenty",
+      "C": "Seventy-three thousand twenty",
+      "D": "Seven million three thousand twenty"
+    },
+    "answer": "A",
+    "explanation": "703,020 = seven hundred three thousand and twenty.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 100,000 more than 350,000?",
+    "options": {
+      "A": "360,000",
+      "B": "450,000",
+      "C": "351,000",
+      "D": "400,000"
+    },
+    "answer": "B",
+    "explanation": "350,000 + 100,000 = 450,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count forwards from 120,000 in steps of 100,000. What is the next number?",
+    "options": {
+      "A": "130,000",
+      "B": "200,000",
+      "C": "220,000",
+      "D": "121,000"
+    },
+    "answer": "C",
+    "explanation": "120,000 + 100,000 = 220,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 1,000 less than 600,000?",
+    "options": {
+      "A": "599,000",
+      "B": "601,000",
+      "C": "590,000",
+      "D": "500,000"
+    },
+    "answer": "A",
+    "explanation": "600,000 – 1,000 = 599,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "If the temperature rises from –4°C to 3°C, how many degrees did it rise?",
+    "options": {
+      "A": "4°C",
+      "B": "3°C",
+      "C": "7°C",
+      "D": "1°C"
+    },
+    "answer": "C",
+    "explanation": "From –4 to 0 is 4°, and 0 to 3 is 3°, so total rise is 7°C.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is 0 – 7?",
+    "options": {
+      "A": "7",
+      "B": "0",
+      "C": "–7",
+      "D": "–1"
+    },
+    "answer": "C",
+    "explanation": "Subtracting 7 from 0 gives –7.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number comes between –3 and –1?",
+    "options": {
+      "A": "–4",
+      "B": "0",
+      "C": "–2",
+      "D": "1"
+    },
+    "answer": "C",
+    "explanation": "On the number line, –2 is between –3 and –1.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 345,678 to the nearest 100,000.",
+    "options": {
+      "A": "300,000",
+      "B": "350,000",
+      "C": "400,000",
+      "D": "340,000"
+    },
+    "answer": "A",
+    "explanation": "The ten thousands digit is 4 (<5), so round down to 300,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 987,123 to the nearest 1,000.",
+    "options": {
+      "A": "987,000",
+      "B": "988,000",
+      "C": "987,100",
+      "D": "990,000"
+    },
+    "answer": "A",
+    "explanation": "The hundreds digit is 1 (<5), so round down to 987,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 219,876 to the nearest 10,000.",
+    "options": {
+      "A": "210,000",
+      "B": "220,000",
+      "C": "219,000",
+      "D": "230,000"
+    },
+    "answer": "B",
+    "explanation": "The thousands digit is 9 (≥5), so round up: 219,876 → 220,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 654,321 to the nearest 100.",
+    "options": {
+      "A": "654,300",
+      "B": "654,400",
+      "C": "654,320",
+      "D": "655,000"
+    },
+    "answer": "A",
+    "explanation": "The tens digit is 2 (<5), so round down to 654,300.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 899,999 to the nearest 100,000.",
+    "options": {
+      "A": "800,000",
+      "B": "900,000",
+      "C": "890,000",
+      "D": "1,000,000"
+    },
+    "answer": "B",
+    "explanation": "The ten thousands digit is 9 (≥5), so round up to 900,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 100?",
+    "options": {
+      "A": "L",
+      "B": "X",
+      "C": "C",
+      "D": "D"
+    },
+    "answer": "C",
+    "explanation": "C = 100 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral stands for 50?",
+    "options": {
+      "A": "X",
+      "B": "L",
+      "C": "C",
+      "D": "V"
+    },
+    "answer": "B",
+    "explanation": "L = 50 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is represented by 'CL'?",
+    "options": {
+      "A": "105",
+      "B": "150",
+      "C": "60",
+      "D": "510"
+    },
+    "answer": "B",
+    "explanation": "C = 100, L = 50, so CL = 150.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 2021?",
+    "options": {
+      "A": "MMXXI",
+      "B": "MMXIX",
+      "C": "MMXXXI",
+      "D": "MCCXXI"
+    },
+    "answer": "A",
+    "explanation": "MM = 2000, XX = 20, I = 1 → 2021 = MMXXI.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral is 400?",
+    "options": {
+      "A": "CD",
+      "B": "DC",
+      "C": "CCCC",
+      "D": "CM"
+    },
+    "answer": "A",
+    "explanation": "CD = 500 – 100 = 400.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 3 in 1,300,000?",
+    "options": {
+      "A": "30,000",
+      "B": "300,000",
+      "C": "3,000,000",
+      "D": "300"
+    },
+    "answer": "B",
+    "explanation": "The digit 3 is in the hundred thousands place, so its value is 300,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is one hundred thousand?",
+    "options": {
+      "A": "10,000",
+      "B": "100,000",
+      "C": "1,000,000",
+      "D": "1,000"
+    },
+    "answer": "B",
+    "explanation": "One hundred thousand is written as 100,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Order these numbers from smallest to largest: 401,002; 401,020; 400,201.",
+    "options": {
+      "A": "400,201; 401,002; 401,020",
+      "B": "401,020; 401,002; 400,201",
+      "C": "401,002; 400,201; 401,020",
+      "D": "400,201; 401,020; 401,002"
+    },
+    "answer": "A",
+    "explanation": "400,201 < 401,002 < 401,020 when comparing digit by digit.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 10,000 more than 780,000?",
+    "options": {
+      "A": "781,000",
+      "B": "790,000",
+      "C": "880,000",
+      "D": "770,000"
+    },
+    "answer": "B",
+    "explanation": "780,000 + 10,000 = 790,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count backwards from 500,000 in steps of 100,000. What is the next number?",
+    "options": {
+      "A": "400,000",
+      "B": "490,000",
+      "C": "499,000",
+      "D": "300,000"
+    },
+    "answer": "A",
+    "explanation": "500,000 – 100,000 = 400,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 100 less than 200,100?",
+    "options": {
+      "A": "200,000",
+      "B": "199,900",
+      "C": "200,200",
+      "D": "190,100"
+    },
+    "answer": "A",
+    "explanation": "200,100 – 100 = 200,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "If you go from –6°C to 4°C, how much did the temperature rise?",
+    "options": {
+      "A": "2°C",
+      "B": "6°C",
+      "C": "10°C",
+      "D": "4°C"
+    },
+    "answer": "C",
+    "explanation": "From –6 to 0 is 6°, and 0 to 4 is 4°, so total rise is 10°C.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is –8 + 8?",
+    "options": {
+      "A": "–16",
+      "B": "0",
+      "C": "16",
+      "D": "8"
+    },
+    "answer": "B",
+    "explanation": "Adding a number and its opposite gives zero.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is halfway between –6 and 0?",
+    "options": {
+      "A": "–3",
+      "B": "–2",
+      "C": "3",
+      "D": "–4"
+    },
+    "answer": "A",
+    "explanation": "Half of 6 is 3, so –6 + 3 = –3.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 23,456 to the nearest 1,000.",
+    "options": {
+      "A": "23,000",
+      "B": "24,000",
+      "C": "23,500",
+      "D": "20,000"
+    },
+    "answer": "A",
+    "explanation": "The hundreds digit is 4 (<5), so round down to 23,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 88,888 to the nearest 10,000.",
+    "options": {
+      "A": "80,000",
+      "B": "90,000",
+      "C": "88,000",
+      "D": "100,000"
+    },
+    "answer": "B",
+    "explanation": "The thousands digit is 8 (≥5), so round up to 90,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 550,001 to the nearest 100,000.",
+    "options": {
+      "A": "500,000",
+      "B": "600,000",
+      "C": "550,000",
+      "D": "560,000"
+    },
+    "answer": "B",
+    "explanation": "The ten thousands digit is 5, so round up to 600,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 605,050 to the nearest 100.",
+    "options": {
+      "A": "605,000",
+      "B": "605,100",
+      "C": "605,050",
+      "D": "606,000"
+    },
+    "answer": "B",
+    "explanation": "The tens digit is 5, so round up to 605,100.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 456,789 to the nearest 10.",
+    "options": {
+      "A": "456,780",
+      "B": "456,790",
+      "C": "456,800",
+      "D": "457,000"
+    },
+    "answer": "B",
+    "explanation": "The units digit is 9 (≥5), so round up to 456,790.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 90?",
+    "options": {
+      "A": "LXXXX",
+      "B": "XC",
+      "C": "CX",
+      "D": "IC"
+    },
+    "answer": "B",
+    "explanation": "XC = 100 – 10 = 90.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral is 40?",
+    "options": {
+      "A": "XL",
+      "B": "XXXX",
+      "C": "LX",
+      "D": "XX"
+    },
+    "answer": "A",
+    "explanation": "XL = 50 – 10 = 40.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 'CM' in Roman numerals?",
+    "options": {
+      "A": "600",
+      "B": "900",
+      "C": "1,100",
+      "D": "400"
+    },
+    "answer": "B",
+    "explanation": "CM = 1000 – 100 = 900.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 1990?",
+    "options": {
+      "A": "MCMXC",
+      "B": "MDCCCCLXXXX",
+      "C": "MCMC",
+      "D": "MXCM"
+    },
+    "answer": "A",
+    "explanation": "M = 1000, CM = 900, XC = 90 → 1990 = MCMXC.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which year is 'MCML'?",
+    "options": {
+      "A": "1950",
+      "B": "2050",
+      "C": "1850",
+      "D": "1940"
+    },
+    "answer": "A",
+    "explanation": "M = 1000, CM = 900, L = 50 → 1950.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 7 in 701,234?",
+    "options": {
+      "A": "70",
+      "B": "7,000",
+      "C": "70,000",
+      "D": "700,000"
+    },
+    "answer": "D",
+    "explanation": "The digit 7 is in the hundred thousands place, so its value is 700,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is the same as eight hundred thousand and eight?",
+    "options": {
+      "A": "800,080",
+      "B": "800,008",
+      "C": "808,000",
+      "D": "880,000"
+    },
+    "answer": "B",
+    "explanation": "Eight hundred thousand = 800,000; and eight = 8; so 800,008.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Compare: 500,000 ___ 499,999",
+    "options": {
+      "A": ">",
+      "B": "<",
+      "C": "=",
+      "D": "≤"
+    },
+    "answer": "A",
+    "explanation": "500,000 is greater than 499,999.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 100 more than 899,900?",
+    "options": {
+      "A": "899,000",
+      "B": "900,000",
+      "C": "899,901",
+      "D": "899,800"
+    },
+    "answer": "B",
+    "explanation": "899,900 + 100 = 900,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count forwards from 300,000 in steps of 10,000. What is the third number?",
+    "options": {
+      "A": "310,000",
+      "B": "320,000",
+      "C": "330,000",
+      "D": "325,000"
+    },
+    "answer": "B",
+    "explanation": "300,000 → 310,000 → 320,000 (third number).",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 10,000 more than 980,000?",
+    "options": {
+      "A": "990,000",
+      "B": "981,000",
+      "C": "1,000,000",
+      "D": "970,000"
+    },
+    "answer": "A",
+    "explanation": "980,000 + 10,000 = 990,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+},
+  {
+    "question": "What is the value of the digit 8 in 384,201?",
+    "options": {
+      "A": "80",
+      "B": "800",
+      "C": "8,000",
+      "D": "80,000"
+    },
+    "answer": "D",
+    "explanation": "The digit 8 is in the ten thousands place, so its value is 8 × 10,000 = 80,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is the largest?",
+    "options": {
+      "A": "720,456",
+      "B": "720,465",
+      "C": "720,546",
+      "D": "720,564"
+    },
+    "answer": "D",
+    "explanation": "All numbers start with 720, but 720,564 has the highest digits in the tens and units places.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "How do you write five hundred thirty-two thousand seven hundred one in numerals?",
+    "options": {
+      "A": "532,710",
+      "B": "532,701",
+      "C": "502,701",
+      "D": "532,071"
+    },
+    "answer": "B",
+    "explanation": "Five hundred thirty-two thousand = 532,000; seven hundred one = 701; so 532,701.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number comes next? 400,000; 500,000; 600,000; ___",
+    "options": {
+      "A": "650,000",
+      "B": "700,000",
+      "C": "610,000",
+      "D": "800,000"
+    },
+    "answer": "B",
+    "explanation": "The sequence increases by 100,000 each time, so 600,000 + 100,000 = 700,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count backwards from 900,000 in steps of 10,000. What is the next number?",
+    "options": {
+      "A": "890,000",
+      "B": "800,000",
+      "C": "899,000",
+      "D": "880,000"
+    },
+    "answer": "A",
+    "explanation": "900,000 – 10,000 = 890,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 10,000 less than 630,000?",
+    "options": {
+      "A": "620,000",
+      "B": "629,000",
+      "C": "640,000",
+      "D": "631,000"
+    },
+    "answer": "A",
+    "explanation": "630,000 – 10,000 = 620,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which situation uses a negative number?",
+    "options": {
+      "A": "A football team scores 3 goals.",
+      "B": "A submarine is 200 m below sea level.",
+      "C": "A tree is 15 m tall.",
+      "D": "A book has 250 pages."
+    },
+    "answer": "B",
+    "explanation": "Depths below sea level are represented with negative numbers, e.g., –200 m.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the next number in this sequence: –5, –4, –3, ___?",
+    "options": {
+      "A": "–2",
+      "B": "–1",
+      "C": "0",
+      "D": "–6"
+    },
+    "answer": "A",
+    "explanation": "The sequence counts forwards by 1: –5, –4, –3, –2.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is –3 + 5?",
+    "options": {
+      "A": "–8",
+      "B": "2",
+      "C": "–2",
+      "D": "8"
+    },
+    "answer": "B",
+    "explanation": "Starting at –3 and moving 5 steps forward on the number line gives 2.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 67,890 to the nearest 1,000.",
+    "options": {
+      "A": "67,000",
+      "B": "68,000",
+      "C": "67,900",
+      "D": "70,000"
+    },
+    "answer": "B",
+    "explanation": "The hundreds digit is 8 (≥5), so round up: 67,890 → 68,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 432,156 to the nearest 10,000.",
+    "options": {
+      "A": "430,000",
+      "B": "440,000",
+      "C": "432,000",
+      "D": "400,000"
+    },
+    "answer": "A",
+    "explanation": "The thousands digit is 2 (<5), so round down: 432,156 → 430,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 256,789 to the nearest 100.",
+    "options": {
+      "A": "256,700",
+      "B": "256,800",
+      "C": "256,790",
+      "D": "257,000"
+    },
+    "answer": "B",
+    "explanation": "The tens digit is 8 (≥5), so round up: 256,789 → 256,800.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 876,543 to the nearest 100,000.",
+    "options": {
+      "A": "800,000",
+      "B": "900,000",
+      "C": "870,000",
+      "D": "880,000"
+    },
+    "answer": "B",
+    "explanation": "The ten thousands digit is 7 (≥5), so round up: 876,543 → 900,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 405,678 to the nearest 10.",
+    "options": {
+      "A": "405,670",
+      "B": "405,680",
+      "C": "405,700",
+      "D": "406,000"
+    },
+    "answer": "B",
+    "explanation": "The units digit is 8 (≥5), so round up to 405,680.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral represents 1,000?",
+    "options": {
+      "A": "C",
+      "B": "D",
+      "C": "M",
+      "D": "L"
+    },
+    "answer": "C",
+    "explanation": "M is the Roman numeral for 1,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number does the Roman numeral 'D' represent?",
+    "options": {
+      "A": "100",
+      "B": "500",
+      "C": "1,000",
+      "D": "50"
+    },
+    "answer": "B",
+    "explanation": "D = 500 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral means 10?",
+    "options": {
+      "A": "I",
+      "B": "V",
+      "C": "X",
+      "D": "L"
+    },
+    "answer": "C",
+    "explanation": "X = 10 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 5?",
+    "options": {
+      "A": "I",
+      "B": "IIIII",
+      "C": "V",
+      "D": "X"
+    },
+    "answer": "C",
+    "explanation": "V = 5 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which year is written as 'MCMX' in Roman numerals?",
+    "options": {
+      "A": "1910",
+      "B": "1900",
+      "C": "1810",
+      "D": "2010"
+    },
+    "answer": "A",
+    "explanation": "M = 1000, CM = 900, X = 10 → 1000 + 900 + 10 = 1910.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 5 in 592,341?",
+    "options": {
+      "A": "50",
+      "B": "5,000",
+      "C": "50,000",
+      "D": "500,000"
+    },
+    "answer": "D",
+    "explanation": "The digit 5 is in the hundred thousands place, so its value is 500,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is smaller: 801,234 or 801,243?",
+    "options": {
+      "A": "801,234",
+      "B": "801,243",
+      "C": "They are equal",
+      "D": "Not enough information"
+    },
+    "answer": "A",
+    "explanation": "Both numbers are the same until the tens place: 3 vs 4, so 801,234 is smaller.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Write 703,020 in words.",
+    "options": {
+      "A": "Seven hundred three thousand twenty",
+      "B": "Seven hundred thirty thousand twenty",
+      "C": "Seventy-three thousand twenty",
+      "D": "Seven million three thousand twenty"
+    },
+    "answer": "A",
+    "explanation": "703,020 = seven hundred three thousand and twenty.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 100,000 more than 350,000?",
+    "options": {
+      "A": "360,000",
+      "B": "450,000",
+      "C": "351,000",
+      "D": "400,000"
+    },
+    "answer": "B",
+    "explanation": "350,000 + 100,000 = 450,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count forwards from 120,000 in steps of 100,000. What is the next number?",
+    "options": {
+      "A": "130,000",
+      "B": "200,000",
+      "C": "220,000",
+      "D": "121,000"
+    },
+    "answer": "C",
+    "explanation": "120,000 + 100,000 = 220,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 1,000 less than 600,000?",
+    "options": {
+      "A": "599,000",
+      "B": "601,000",
+      "C": "590,000",
+      "D": "500,000"
+    },
+    "answer": "A",
+    "explanation": "600,000 – 1,000 = 599,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "If the temperature rises from –4°C to 3°C, how many degrees did it rise?",
+    "options": {
+      "A": "4°C",
+      "B": "3°C",
+      "C": "7°C",
+      "D": "1°C"
+    },
+    "answer": "C",
+    "explanation": "From –4 to 0 is 4°, and 0 to 3 is 3°, so total rise is 7°C.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is 0 – 7?",
+    "options": {
+      "A": "7",
+      "B": "0",
+      "C": "–7",
+      "D": "–1"
+    },
+    "answer": "C",
+    "explanation": "Subtracting 7 from 0 gives –7.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number comes between –3 and –1?",
+    "options": {
+      "A": "–4",
+      "B": "0",
+      "C": "–2",
+      "D": "1"
+    },
+    "answer": "C",
+    "explanation": "On the number line, –2 is between –3 and –1.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 345,678 to the nearest 100,000.",
+    "options": {
+      "A": "300,000",
+      "B": "350,000",
+      "C": "400,000",
+      "D": "340,000"
+    },
+    "answer": "A",
+    "explanation": "The ten thousands digit is 4 (<5), so round down to 300,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 987,123 to the nearest 1,000.",
+    "options": {
+      "A": "987,000",
+      "B": "988,000",
+      "C": "987,100",
+      "D": "990,000"
+    },
+    "answer": "A",
+    "explanation": "The hundreds digit is 1 (<5), so round down to 987,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 219,876 to the nearest 10,000.",
+    "options": {
+      "A": "210,000",
+      "B": "220,000",
+      "C": "219,000",
+      "D": "230,000"
+    },
+    "answer": "B",
+    "explanation": "The thousands digit is 9 (≥5), so round up: 219,876 → 220,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 654,321 to the nearest 100.",
+    "options": {
+      "A": "654,300",
+      "B": "654,400",
+      "C": "654,320",
+      "D": "655,000"
+    },
+    "answer": "A",
+    "explanation": "The tens digit is 2 (<5), so round down to 654,300.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 899,999 to the nearest 100,000.",
+    "options": {
+      "A": "800,000",
+      "B": "900,000",
+      "C": "890,000",
+      "D": "1,000,000"
+    },
+    "answer": "B",
+    "explanation": "The ten thousands digit is 9 (≥5), so round up to 900,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 100?",
+    "options": {
+      "A": "L",
+      "B": "X",
+      "C": "C",
+      "D": "D"
+    },
+    "answer": "C",
+    "explanation": "C = 100 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral stands for 50?",
+    "options": {
+      "A": "X",
+      "B": "L",
+      "C": "C",
+      "D": "V"
+    },
+    "answer": "B",
+    "explanation": "L = 50 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is represented by 'CL'?",
+    "options": {
+      "A": "105",
+      "B": "150",
+      "C": "60",
+      "D": "510"
+    },
+    "answer": "B",
+    "explanation": "C = 100, L = 50, so CL = 150.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 2021?",
+    "options": {
+      "A": "MMXXI",
+      "B": "MMXIX",
+      "C": "MMXXXI",
+      "D": "MCCXXI"
+    },
+    "answer": "A",
+    "explanation": "MM = 2000, XX = 20, I = 1 → 2021 = MMXXI.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral is 400?",
+    "options": {
+      "A": "CD",
+      "B": "DC",
+      "C": "CCCC",
+      "D": "CM"
+    },
+    "answer": "A",
+    "explanation": "CD = 500 – 100 = 400.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 3 in 1,300,000?",
+    "options": {
+      "A": "30,000",
+      "B": "300,000",
+      "C": "3,000,000",
+      "D": "300"
+    },
+    "answer": "B",
+    "explanation": "The digit 3 is in the hundred thousands place, so its value is 300,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is one hundred thousand?",
+    "options": {
+      "A": "10,000",
+      "B": "100,000",
+      "C": "1,000,000",
+      "D": "1,000"
+    },
+    "answer": "B",
+    "explanation": "One hundred thousand is written as 100,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Order these numbers from smallest to largest: 401,002; 401,020; 400,201.",
+    "options": {
+      "A": "400,201; 401,002; 401,020",
+      "B": "401,020; 401,002; 400,201",
+      "C": "401,002; 400,201; 401,020",
+      "D": "400,201; 401,020; 401,002"
+    },
+    "answer": "A",
+    "explanation": "400,201 < 401,002 < 401,020 when comparing digit by digit.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 10,000 more than 780,000?",
+    "options": {
+      "A": "781,000",
+      "B": "790,000",
+      "C": "880,000",
+      "D": "770,000"
+    },
+    "answer": "B",
+    "explanation": "780,000 + 10,000 = 790,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count backwards from 500,000 in steps of 100,000. What is the next number?",
+    "options": {
+      "A": "400,000",
+      "B": "490,000",
+      "C": "499,000",
+      "D": "300,000"
+    },
+    "answer": "A",
+    "explanation": "500,000 – 100,000 = 400,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 100 less than 200,100?",
+    "options": {
+      "A": "200,000",
+      "B": "199,900",
+      "C": "200,200",
+      "D": "190,100"
+    },
+    "answer": "A",
+    "explanation": "200,100 – 100 = 200,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "If you go from –6°C to 4°C, how much did the temperature rise?",
+    "options": {
+      "A": "2°C",
+      "B": "6°C",
+      "C": "10°C",
+      "D": "4°C"
+    },
+    "answer": "C",
+    "explanation": "From –6 to 0 is 6°, and 0 to 4 is 4°, so total rise is 10°C.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is –8 + 8?",
+    "options": {
+      "A": "–16",
+      "B": "0",
+      "C": "16",
+      "D": "8"
+    },
+    "answer": "B",
+    "explanation": "Adding a number and its opposite gives zero.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is halfway between –6 and 0?",
+    "options": {
+      "A": "–3",
+      "B": "–2",
+      "C": "3",
+      "D": "–4"
+    },
+    "answer": "A",
+    "explanation": "Half of 6 is 3, so –6 + 3 = –3.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 23,456 to the nearest 1,000.",
+    "options": {
+      "A": "23,000",
+      "B": "24,000",
+      "C": "23,500",
+      "D": "20,000"
+    },
+    "answer": "A",
+    "explanation": "The hundreds digit is 4 (<5), so round down to 23,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 88,888 to the nearest 10,000.",
+    "options": {
+      "A": "80,000",
+      "B": "90,000",
+      "C": "88,000",
+      "D": "100,000"
+    },
+    "answer": "B",
+    "explanation": "The thousands digit is 8 (≥5), so round up to 90,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 550,001 to the nearest 100,000.",
+    "options": {
+      "A": "500,000",
+      "B": "600,000",
+      "C": "550,000",
+      "D": "560,000"
+    },
+    "answer": "B",
+    "explanation": "The ten thousands digit is 5, so round up to 600,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 605,050 to the nearest 100.",
+    "options": {
+      "A": "605,000",
+      "B": "605,100",
+      "C": "605,050",
+      "D": "606,000"
+    },
+    "answer": "B",
+    "explanation": "The tens digit is 5, so round up to 605,100.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 456,789 to the nearest 10.",
+    "options": {
+      "A": "456,780",
+      "B": "456,790",
+      "C": "456,800",
+      "D": "457,000"
+    },
+    "answer": "B",
+    "explanation": "The units digit is 9 (≥5), so round up to 456,790.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 90?",
+    "options": {
+      "A": "LXXXX",
+      "B": "XC",
+      "C": "CX",
+      "D": "IC"
+    },
+    "answer": "B",
+    "explanation": "XC = 100 – 10 = 90.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral is 40?",
+    "options": {
+      "A": "XL",
+      "B": "XXXX",
+      "C": "LX",
+      "D": "XX"
+    },
+    "answer": "A",
+    "explanation": "XL = 50 – 10 = 40.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 'CM' in Roman numerals?",
+    "options": {
+      "A": "600",
+      "B": "900",
+      "C": "1,100",
+      "D": "400"
+    },
+    "answer": "B",
+    "explanation": "CM = 1000 – 100 = 900.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 1990?",
+    "options": {
+      "A": "MCMXC",
+      "B": "MDCCCCLXXXX",
+      "C": "MCMC",
+      "D": "MXCM"
+    },
+    "answer": "A",
+    "explanation": "M = 1000, CM = 900, XC = 90 → 1990 = MCMXC.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which year is 'MCML'?",
+    "options": {
+      "A": "1950",
+      "B": "2050",
+      "C": "1850",
+      "D": "1940"
+    },
+    "answer": "A",
+    "explanation": "M = 1000, CM = 900, L = 50 → 1950.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 7 in 701,234?",
+    "options": {
+      "A": "70",
+      "B": "7,000",
+      "C": "70,000",
+      "D": "700,000"
+    },
+    "answer": "D",
+    "explanation": "The digit 7 is in the hundred thousands place, so its value is 700,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is the same as eight hundred thousand and eight?",
+    "options": {
+      "A": "800,080",
+      "B": "800,008",
+      "C": "808,000",
+      "D": "880,000"
+    },
+    "answer": "B",
+    "explanation": "Eight hundred thousand = 800,000; and eight = 8; so 800,008.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Compare: 500,000 ___ 499,999",
+    "options": {
+      "A": ">",
+      "B": "<",
+      "C": "=",
+      "D": "≤"
+    },
+    "answer": "A",
+    "explanation": "500,000 is greater than 499,999.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 100 more than 899,900?",
+    "options": {
+      "A": "899,000",
+      "B": "900,000",
+      "C": "899,901",
+      "D": "899,800"
+    },
+    "answer": "B",
+    "explanation": "899,900 + 100 = 900,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count forwards from 300,000 in steps of 10,000. What is the third number?",
+    "options": {
+      "A": "310,000",
+      "B": "320,000",
+      "C": "330,000",
+      "D": "325,000"
+    },
+    "answer": "B",
+    "explanation": "300,000 → 310,000 → 320,000 (third number).",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 10,000 more than 980,000?",
+    "options": {
+      "A": "990,000",
+      "B": "981,000",
+      "C": "1,000,000",
+      "D": "970,000"
+    },
+    "answer": "A",
+    "explanation": "980,000 + 10,000 = 990,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "At midnight, the temperature was –3°C. At sunrise, it was 4°C. How much did it rise?",
+    "options": {
+      "A": "1°C",
+      "B": "4°C",
+      "C": "7°C",
+      "D": "3°C"
+    },
+    "answer": "C",
+    "explanation": "From –3 to 0 is 3°, and 0 to 4 is 4°, so total rise is 7°C.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is –9 + 5?",
+    "options": {
+      "A": "–4",
+      "B": "4",
+      "C": "–14",
+      "D": "14"
+    },
+    "answer": "A",
+    "explanation": "Starting at –9 and moving 5 steps forward gives –4.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is greater: –10 or –1?",
+    "options": {
+      "A": "–10",
+      "B": "–1",
+      "C": "They are equal",
+      "D": "Neither"
+    },
+    "answer": "B",
+    "explanation": "On the number line, –1 is to the right of –10, so it is greater.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 650,000 to the nearest 100,000.",
+    "options": {
+      "A": "600,000",
+      "B": "700,000",
+      "C": "650,000",
+      "D": "660,000"
+    },
+    "answer": "B",
+    "explanation": "The ten thousands digit is 5, so round up to 700,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 799,999 to the nearest 1,000.",
+    "options": {
+      "A": "799,000",
+      "B": "800,000",
+      "C": "799,900",
+      "D": "790,000"
+    },
+    "answer": "B",
+    "explanation": "The hundreds digit is 9 (≥5), so round up to 800,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 129,999 to the nearest 100.",
+    "options": {
+      "A": "129,900",
+      "B": "130,000",
+      "C": "129,000",
+      "D": "130,100"
+    },
+    "answer": "B",
+    "explanation": "The tens digit is 9 (≥5), so round up to 130,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 850,000 to the nearest 10,000.",
+    "options": {
+      "A": "800,000",
+      "B": "850,000",
+      "C": "860,000",
+      "D": "900,000"
+    },
+    "answer": "B",
+    "explanation": "The thousands digit is 0 (<5), so it stays 850,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 400,001 to the nearest 100,000.",
+    "options": {
+      "A": "400,000",
+      "B": "500,000",
+      "C": "300,000",
+      "D": "450,000"
+    },
+    "answer": "A",
+    "explanation": "The ten thousands digit is 0 (<5), so round down to 400,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 700?",
+    "options": {
+      "A": "DCC",
+      "B": "CDC",
+      "C": "CM",
+      "D": "CCD"
+    },
+    "answer": "A",
+    "explanation": "D = 500, CC = 200, so DCC = 700.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is 'CCC' in numbers?",
+    "options": {
+      "A": "100",
+      "B": "200",
+      "C": "300",
+      "D": "400"
+    },
+    "answer": "C",
+    "explanation": "C = 100, so CCC = 300.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral is 900?",
+    "options": {
+      "A": "CM",
+      "B": "MC",
+      "C": "DCCCC",
+      "D": "CD"
+    },
+    "answer": "A",
+    "explanation": "CM = 1000 – 100 = 900.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 1975?",
+    "options": {
+      "A": "MCMLXXV",
+      "B": "MDCCCCLXXV",
+      "C": "MCMXXV",
+      "D": "MXCMXXV"
+    },
+    "answer": "A",
+    "explanation": "M=1000, CM=900, LXX=70, V=5 → 1975 = MCMLXXV.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which year is 'MDCCC'?",
+    "options": {
+      "A": "1800",
+      "B": "1900",
+      "C": "1700",
+      "D": "1600"
+    },
+    "answer": "A",
+    "explanation": "M=1000, D=500, CCC=300 → 1000+500+300=1800.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 0 in 205,678?",
+    "options": {
+      "A": "0",
+      "B": "20,000",
+      "C": "200,000",
+      "D": "2,000"
+    },
+    "answer": "A",
+    "explanation": "The digit 0 holds the ten thousands place but has no value itself.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is eight hundred eighty-eight thousand eight hundred eighty-eight?",
+    "options": {
+      "A": "888,888",
+      "B": "888,880",
+      "C": "880,888",
+      "D": "808,888"
+    },
+    "answer": "A",
+    "explanation": "This is the standard form of 888,888.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 1 more than 899,999?",
+    "options": {
+      "A": "900,000",
+      "B": "899,998",
+      "C": "900,001",
+      "D": "890,000"
+    },
+    "answer": "A",
+    "explanation": "899,999 + 1 = 900,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count backwards from 700,000 in steps of 100,000. What is the third number?",
+    "options": {
+      "A": "600,000",
+      "B": "500,000",
+      "C": "400,000",
+      "D": "300,000"
+    },
+    "answer": "B",
+    "explanation": "700,000 → 600,000 → 500,000 (third number).",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 1,000 more than 899,000?",
+    "options": {
+      "A": "900,000",
+      "B": "899,001",
+      "C": "901,000",
+      "D": "890,000"
+    },
+    "answer": "A",
+    "explanation": "899,000 + 1,000 = 900,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "The temperature was –9°C at night and rose to 1°C by afternoon. How much did it rise?",
+    "options": {
+      "A": "8°C",
+      "B": "9°C",
+      "C": "10°C",
+      "D": "1°C"
+    },
+    "answer": "C",
+    "explanation": "From –9 to 0 is 9°, and 0 to 1 is 1°, so total rise is 10°C.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is 5 – 9?",
+    "options": {
+      "A": "4",
+      "B": "–4",
+      "C": "14",
+      "D": "–14"
+    },
+    "answer": "B",
+    "explanation": "5 – 9 = –4.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is between –7 and –5?",
+    "options": {
+      "A": "–6",
+      "B": "–4",
+      "C": "–8",
+      "D": "0"
+    },
+    "answer": "A",
+    "explanation": "–6 is between –7 and –5 on the number line.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 501,000 to the nearest 100,000.",
+    "options": {
+      "A": "500,000",
+      "B": "600,000",
+      "C": "400,000",
+      "D": "510,000"
+    },
+    "answer": "A",
+    "explanation": "The ten thousands digit is 0 (<5), so round down to 500,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 300,049 to the nearest 1,000.",
+    "options": {
+      "A": "300,000",
+      "B": "301,000",
+      "C": "300,100",
+      "D": "299,000"
+    },
+    "answer": "A",
+    "explanation": "The hundreds digit is 0 (<5), so round down to 300,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 759,500 to the nearest 10,000.",
+    "options": {
+      "A": "750,000",
+      "B": "760,000",
+      "C": "759,000",
+      "D": "770,000"
+    },
+    "answer": "B",
+    "explanation": "The thousands digit is 9 (≥5), so round up to 760,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 500,049 to the nearest 100.",
+    "options": {
+      "A": "500,000",
+      "B": "500,100",
+      "C": "500,050",
+      "D": "500,040"
+    },
+    "answer": "A",
+    "explanation": "The tens digit is 4 (<5), so round down to 500,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 234,560 to the nearest 10.",
+    "options": {
+      "A": "234,560",
+      "B": "234,570",
+      "C": "234,550",
+      "D": "234,600"
+    },
+    "answer": "A",
+    "explanation": "The units digit is 0, so it remains 234,560.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 20?",
+    "options": {
+      "A": "XX",
+      "B": "X",
+      "C": "XXX",
+      "D": "L"
+    },
+    "answer": "A",
+    "explanation": "XX = 10 + 10 = 20.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is 'LXXX' in numbers?",
+    "options": {
+      "A": "70",
+      "B": "80",
+      "C": "90",
+      "D": "50"
+    },
+    "answer": "B",
+    "explanation": "L = 50, XXX = 30, so LXXX = 80.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral is 300?",
+    "options": {
+      "A": "CCC",
+      "B": "DD",
+      "C": "MMM",
+      "D": "LL"
+    },
+    "answer": "A",
+    "explanation": "C = 100, so CCC = 300.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 1960?",
+    "options": {
+      "A": "MCMLX",
+      "B": "MDCCCCLX",
+      "C": "MCMC",
+      "D": "MLM"
+    },
+    "answer": "A",
+    "explanation": "M=1000, CM=900, LX=60 → 1960 = MCMLX.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which year is 'MCMXL'?",
+    "options": {
+      "A": "1940",
+      "B": "1950",
+      "C": "1840",
+      "D": "2040"
+    },
+    "answer": "A",
+    "explanation": "M=1000, CM=900, XL=40 → 1940.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 9 in 923,456?",
+    "options": {
+      "A": "90",
+      "B": "900",
+      "C": "9,000",
+      "D": "900,000"
+    },
+    "answer": "D",
+    "explanation": "The digit 9 is in the hundred thousands place, so its value is 9 × 100,000 = 900,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is the smallest?",
+    "options": {
+      "A": "601,234",
+      "B": "601,243",
+      "C": "601,324",
+      "D": "601,342"
+    },
+    "answer": "A",
+    "explanation": "All numbers start with 601, but 601,234 has the smallest tens and units digits.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "How do you write four hundred eleven thousand five hundred two in numerals?",
+    "options": {
+      "A": "411,520",
+      "B": "411,502",
+      "C": "401,502",
+      "D": "411,052"
+    },
+    "answer": "B",
+    "explanation": "Four hundred eleven thousand = 411,000; five hundred two = 502; so 411,502.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number comes next? 700,000; 800,000; 900,000; ___",
+    "options": {
+      "A": "950,000",
+      "B": "1,000,000",
+      "C": "910,000",
+      "D": "800,000"
+    },
+    "answer": "B",
+    "explanation": "The sequence increases by 100,000 each time, so 900,000 + 100,000 = 1,000,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count backwards from 1,000,000 in steps of 10,000. What is the next number?",
+    "options": {
+      "A": "990,000",
+      "B": "900,000",
+      "C": "999,000",
+      "D": "980,000"
+    },
+    "answer": "A",
+    "explanation": "1,000,000 – 10,000 = 990,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 10,000 less than 410,000?",
+    "options": {
+      "A": "400,000",
+      "B": "409,000",
+      "C": "420,000",
+      "D": "411,000"
+    },
+    "answer": "A",
+    "explanation": "410,000 – 10,000 = 400,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which situation uses a negative number?",
+    "options": {
+      "A": "A plane flies at 10,000 m.",
+      "B": "A debt of £50.",
+      "C": "A race is 5 km long.",
+      "D": "A box weighs 12 kg."
+    },
+    "answer": "B",
+    "explanation": "Debts are represented using negative numbers, e.g., –£50.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the next number in this sequence: –6, –5, –4, ___?",
+    "options": {
+      "A": "–3",
+      "B": "–2",
+      "C": "–1",
+      "D": "–7"
+    },
+    "answer": "A",
+    "explanation": "The sequence counts forwards by 1: –6, –5, –4, –3.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is –4 + 6?",
+    "options": {
+      "A": "–10",
+      "B": "2",
+      "C": "–2",
+      "D": "10"
+    },
+    "answer": "B",
+    "explanation": "Starting at –4 and moving 6 steps forward gives 2.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 78,901 to the nearest 1,000.",
+    "options": {
+      "A": "78,000",
+      "B": "79,000",
+      "C": "78,900",
+      "D": "80,000"
+    },
+    "answer": "B",
+    "explanation": "The hundreds digit is 9 (≥5), so round up: 78,901 → 79,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 543,210 to the nearest 10,000.",
+    "options": {
+      "A": "540,000",
+      "B": "550,000",
+      "C": "543,000",
+      "D": "500,000"
+    },
+    "answer": "A",
+    "explanation": "The thousands digit is 3 (<5), so round down: 543,210 → 540,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 367,890 to the nearest 100.",
+    "options": {
+      "A": "367,800",
+      "B": "367,900",
+      "C": "367,890",
+      "D": "368,000"
+    },
+    "answer": "B",
+    "explanation": "The tens digit is 9 (≥5), so round up: 367,890 → 367,900.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 765,432 to the nearest 100,000.",
+    "options": {
+      "A": "700,000",
+      "B": "800,000",
+      "C": "760,000",
+      "D": "770,000"
+    },
+    "answer": "B",
+    "explanation": "The ten thousands digit is 6 (≥5), so round up: 765,432 → 800,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 506,789 to the nearest 10.",
+    "options": {
+      "A": "506,780",
+      "B": "506,790",
+      "C": "506,800",
+      "D": "507,000"
+    },
+    "answer": "B",
+    "explanation": "The units digit is 9 (≥5), so round up to 506,790.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral represents 500?",
+    "options": {
+      "A": "C",
+      "B": "L",
+      "C": "D",
+      "D": "M"
+    },
+    "answer": "C",
+    "explanation": "D = 500 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number does the Roman numeral 'C' represent?",
+    "options": {
+      "A": "10",
+      "B": "50",
+      "C": "100",
+      "D": "1,000"
+    },
+    "answer": "C",
+    "explanation": "C = 100 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral means 1?",
+    "options": {
+      "A": "V",
+      "B": "X",
+      "C": "I",
+      "D": "L"
+    },
+    "answer": "C",
+    "explanation": "I = 1 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 10?",
+    "options": {
+      "A": "V",
+      "B": "X",
+      "C": "IX",
+      "D": "XI"
+    },
+    "answer": "B",
+    "explanation": "X = 10 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which year is written as 'MCMLXXX' in Roman numerals?",
+    "options": {
+      "A": "1980",
+      "B": "1880",
+      "C": "2080",
+      "D": "1970"
+    },
+    "answer": "A",
+    "explanation": "M=1000, CM=900, LXXX=80 → 1980.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 6 in 604,789?",
+    "options": {
+      "A": "60",
+      "B": "6,000",
+      "C": "60,000",
+      "D": "600,000"
+    },
+    "answer": "D",
+    "explanation": "The digit 6 is in the hundred thousands place, so its value is 600,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is greater: 502,304 or 502,340?",
+    "options": {
+      "A": "502,304",
+      "B": "502,340",
+      "C": "They are equal",
+      "D": "Not enough information"
+    },
+    "answer": "B",
+    "explanation": "Both numbers are the same until the tens place: 0 vs 4, so 502,340 is larger.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Write 904,050 in words.",
+    "options": {
+      "A": "Nine hundred four thousand fifty",
+      "B": "Nine hundred forty thousand fifty",
+      "C": "Ninety-four thousand fifty",
+      "D": "Nine million four thousand fifty"
+    },
+    "answer": "A",
+    "explanation": "904,050 = nine hundred four thousand and fifty.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 100,000 more than 270,000?",
+    "options": {
+      "A": "280,000",
+      "B": "370,000",
+      "C": "271,000",
+      "D": "300,000"
+    },
+    "answer": "B",
+    "explanation": "270,000 + 100,000 = 370,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count forwards from 650,000 in steps of 100,000. What is the next number?",
+    "options": {
+      "A": "660,000",
+      "B": "700,000",
+      "C": "750,000",
+      "D": "651,000"
+    },
+    "answer": "C",
+    "explanation": "650,000 + 100,000 = 750,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 1,000 less than 700,000?",
+    "options": {
+      "A": "699,000",
+      "B": "701,000",
+      "C": "690,000",
+      "D": "600,000"
+    },
+    "answer": "A",
+    "explanation": "700,000 – 1,000 = 699,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "If the temperature rises from –2°C to 5°C, how many degrees did it rise?",
+    "options": {
+      "A": "2°C",
+      "B": "5°C",
+      "C": "7°C",
+      "D": "3°C"
+    },
+    "answer": "C",
+    "explanation": "From –2 to 0 is 2°, and 0 to 5 is 5°, so total rise is 7°C.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is 0 – 9?",
+    "options": {
+      "A": "9",
+      "B": "0",
+      "C": "–9",
+      "D": "–1"
+    },
+    "answer": "C",
+    "explanation": "Subtracting 9 from 0 gives –9.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number comes between –5 and –3?",
+    "options": {
+      "A": "–6",
+      "B": "–4",
+      "C": "–2",
+      "D": "0"
+    },
+    "answer": "B",
+    "explanation": "On the number line, –4 is between –5 and –3.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 456,789 to the nearest 100,000.",
+    "options": {
+      "A": "400,000",
+      "B": "500,000",
+      "C": "450,000",
+      "D": "460,000"
+    },
+    "answer": "B",
+    "explanation": "The ten thousands digit is 5, so round up to 500,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 876,234 to the nearest 1,000.",
+    "options": {
+      "A": "876,000",
+      "B": "877,000",
+      "C": "876,200",
+      "D": "880,000"
+    },
+    "answer": "A",
+    "explanation": "The hundreds digit is 2 (<5), so round down to 876,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 329,876 to the nearest 10,000.",
+    "options": {
+      "A": "320,000",
+      "B": "330,000",
+      "C": "329,000",
+      "D": "340,000"
+    },
+    "answer": "B",
+    "explanation": "The thousands digit is 9 (≥5), so round up: 329,876 → 330,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 754,321 to the nearest 100.",
+    "options": {
+      "A": "754,300",
+      "B": "754,400",
+      "C": "754,320",
+      "D": "755,000"
+    },
+    "answer": "A",
+    "explanation": "The tens digit is 2 (<5), so round down to 754,300.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 900,001 to the nearest 100,000.",
+    "options": {
+      "A": "900,000",
+      "B": "1,000,000",
+      "C": "800,000",
+      "D": "950,000"
+    },
+    "answer": "A",
+    "explanation": "The ten thousands digit is 0 (<5), so round down to 900,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 50?",
+    "options": {
+      "A": "X",
+      "B": "L",
+      "C": "C",
+      "D": "V"
+    },
+    "answer": "B",
+    "explanation": "L = 50 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral stands for 1,000?",
+    "options": {
+      "A": "D",
+      "B": "M",
+      "C": "C",
+      "D": "L"
+    },
+    "answer": "B",
+    "explanation": "M = 1,000 in Roman numerals.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is represented by 'DC'?",
+    "options": {
+      "A": "400",
+      "B": "500",
+      "C": "600",
+      "D": "700"
+    },
+    "answer": "C",
+    "explanation": "D = 500, C = 100, so DC = 600.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 2022?",
+    "options": {
+      "A": "MMXXII",
+      "B": "MMXII",
+      "C": "MMXXXII",
+      "D": "MCCXXII"
+    },
+    "answer": "A",
+    "explanation": "MM = 2000, XX = 20, II = 2 → 2022 = MMXXII.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral is 900?",
+    "options": {
+      "A": "CM",
+      "B": "MC",
+      "C": "DCCCC",
+      "D": "CD"
+    },
+    "answer": "A",
+    "explanation": "CM = 1000 – 100 = 900.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 4 in 1,400,000?",
+    "options": {
+      "A": "40,000",
+      "B": "400,000",
+      "C": "4,000,000",
+      "D": "400"
+    },
+    "answer": "B",
+    "explanation": "The digit 4 is in the hundred thousands place, so its value is 400,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is ten thousand?",
+    "options": {
+      "A": "1,000",
+      "B": "10,000",
+      "C": "100,000",
+      "D": "1,000,000"
+    },
+    "answer": "B",
+    "explanation": "Ten thousand is written as 10,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Order these numbers from smallest to largest: 302,001; 302,010; 301,200.",
+    "options": {
+      "A": "301,200; 302,001; 302,010",
+      "B": "302,010; 302,001; 301,200",
+      "C": "302,001; 301,200; 302,010",
+      "D": "301,200; 302,010; 302,001"
+    },
+    "answer": "A",
+    "explanation": "301,200 < 302,001 < 302,010 when comparing digit by digit.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 10,000 more than 690,000?",
+    "options": {
+      "A": "691,000",
+      "B": "700,000",
+      "C": "790,000",
+      "D": "680,000"
+    },
+    "answer": "B",
+    "explanation": "690,000 + 10,000 = 700,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count backwards from 400,000 in steps of 100,000. What is the next number?",
+    "options": {
+      "A": "300,000",
+      "B": "390,000",
+      "C": "399,000",
+      "D": "200,000"
+    },
+    "answer": "A",
+    "explanation": "400,000 – 100,000 = 300,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 100 less than 300,100?",
+    "options": {
+      "A": "300,000",
+      "B": "299,900",
+      "C": "300,200",
+      "D": "290,100"
+    },
+    "answer": "A",
+    "explanation": "300,100 – 100 = 300,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "If you go from –8°C to 2°C, how much did the temperature rise?",
+    "options": {
+      "A": "6°C",
+      "B": "8°C",
+      "C": "10°C",
+      "D": "2°C"
+    },
+    "answer": "C",
+    "explanation": "From –8 to 0 is 8°, and 0 to 2 is 2°, so total rise is 10°C.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is –7 + 7?",
+    "options": {
+      "A": "–14",
+      "B": "0",
+      "C": "14",
+      "D": "7"
+    },
+    "answer": "B",
+    "explanation": "Adding a number and its opposite gives zero.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is halfway between –8 and 0?",
+    "options": {
+      "A": "–4",
+      "B": "–2",
+      "C": "4",
+      "D": "–6"
+    },
+    "answer": "A",
+    "explanation": "Half of 8 is 4, so –8 + 4 = –4.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 34,567 to the nearest 1,000.",
+    "options": {
+      "A": "34,000",
+      "B": "35,000",
+      "C": "34,600",
+      "D": "30,000"
+    },
+    "answer": "B",
+    "explanation": "The hundreds digit is 5, so round up: 34,567 → 35,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 77,777 to the nearest 10,000.",
+    "options": {
+      "A": "70,000",
+      "B": "80,000",
+      "C": "77,000",
+      "D": "90,000"
+    },
+    "answer": "B",
+    "explanation": "The thousands digit is 7 (≥5), so round up to 80,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 450,000 to the nearest 100,000.",
+    "options": {
+      "A": "400,000",
+      "B": "500,000",
+      "C": "450,000",
+      "D": "460,000"
+    },
+    "answer": "B",
+    "explanation": "The ten thousands digit is 5, so round up to 500,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 705,050 to the nearest 100.",
+    "options": {
+      "A": "705,000",
+      "B": "705,100",
+      "C": "705,050",
+      "D": "706,000"
+    },
+    "answer": "B",
+    "explanation": "The tens digit is 5, so round up to 705,100.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 567,890 to the nearest 10.",
+    "options": {
+      "A": "567,880",
+      "B": "567,890",
+      "C": "567,900",
+      "D": "568,000"
+    },
+    "answer": "B",
+    "explanation": "The units digit is 0, so it remains 567,890.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 40?",
+    "options": {
+      "A": "XXXX",
+      "B": "XL",
+      "C": "LX",
+      "D": "XX"
+    },
+    "answer": "B",
+    "explanation": "XL = 50 – 10 = 40.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral is 90?",
+    "options": {
+      "A": "XC",
+      "B": "LXXXX",
+      "C": "CX",
+      "D": "IC"
+    },
+    "answer": "A",
+    "explanation": "XC = 100 – 10 = 90.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 'CD' in Roman numerals?",
+    "options": {
+      "A": "600",
+      "B": "400",
+      "C": "500",
+      "D": "900"
+    },
+    "answer": "B",
+    "explanation": "CD = 500 – 100 = 400.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 1985?",
+    "options": {
+      "A": "MCMLXXXV",
+      "B": "MDCCCCLXXXV",
+      "C": "MCMXXXV",
+      "D": "MXCMXXXV"
+    },
+    "answer": "A",
+    "explanation": "M=1000, CM=900, LXXX=80, V=5 → 1985 = MCMLXXXV.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which year is 'MCMXCIX'?",
+    "options": {
+      "A": "1999",
+      "B": "1989",
+      "C": "2009",
+      "D": "1899"
+    },
+    "answer": "A",
+    "explanation": "M=1000, CM=900, XC=90, IX=9 → 1999.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 2 in 234,567?",
+    "options": {
+      "A": "20",
+      "B": "2,000",
+      "C": "20,000",
+      "D": "200,000"
+    },
+    "answer": "D",
+    "explanation": "The digit 2 is in the hundred thousands place, so its value is 200,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is the same as seven hundred thousand and seven?",
+    "options": {
+      "A": "700,070",
+      "B": "700,007",
+      "C": "707,000",
+      "D": "770,000"
+    },
+    "answer": "B",
+    "explanation": "Seven hundred thousand = 700,000; and seven = 7; so 700,007.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Compare: 600,000 ___ 599,999",
+    "options": {
+      "A": ">",
+      "B": "<",
+      "C": "=",
+      "D": "≤"
+    },
+    "answer": "A",
+    "explanation": "600,000 is greater than 599,999.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 100 more than 799,900?",
+    "options": {
+      "A": "799,000",
+      "B": "800,000",
+      "C": "799,901",
+      "D": "799,800"
+    },
+    "answer": "B",
+    "explanation": "799,900 + 100 = 800,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count forwards from 400,000 in steps of 10,000. What is the third number?",
+    "options": {
+      "A": "410,000",
+      "B": "420,000",
+      "C": "430,000",
+      "D": "425,000"
+    },
+    "answer": "B",
+    "explanation": "400,000 → 410,000 → 420,000 (third number).",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 10,000 more than 970,000?",
+    "options": {
+      "A": "980,000",
+      "B": "971,000",
+      "C": "1,000,000",
+      "D": "960,000"
+    },
+    "answer": "A",
+    "explanation": "970,000 + 10,000 = 980,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "At dawn, the temperature was –5°C. By noon, it was 6°C. How much did it rise?",
+    "options": {
+      "A": "1°C",
+      "B": "6°C",
+      "C": "11°C",
+      "D": "5°C"
+    },
+    "answer": "C",
+    "explanation": "From –5 to 0 is 5°, and 0 to 6 is 6°, so total rise is 11°C.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is –10 + 3?",
+    "options": {
+      "A": "–7",
+      "B": "7",
+      "C": "–13",
+      "D": "13"
+    },
+    "answer": "A",
+    "explanation": "Starting at –10 and moving 3 steps forward gives –7.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is greater: –9 or –3?",
+    "options": {
+      "A": "–9",
+      "B": "–3",
+      "C": "They are equal",
+      "D": "Neither"
+    },
+    "answer": "B",
+    "explanation": "On the number line, –3 is to the right of –9, so it is greater.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 750,000 to the nearest 100,000.",
+    "options": {
+      "A": "700,000",
+      "B": "800,000",
+      "C": "750,000",
+      "D": "760,000"
+    },
+    "answer": "B",
+    "explanation": "The ten thousands digit is 5, so round up to 800,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 699,999 to the nearest 1,000.",
+    "options": {
+      "A": "699,000",
+      "B": "700,000",
+      "C": "699,900",
+      "D": "690,000"
+    },
+    "answer": "B",
+    "explanation": "The hundreds digit is 9 (≥5), so round up to 700,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 239,999 to the nearest 100.",
+    "options": {
+      "A": "239,900",
+      "B": "240,000",
+      "C": "239,000",
+      "D": "240,100"
+    },
+    "answer": "B",
+    "explanation": "The tens digit is 9 (≥5), so round up to 240,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 950,000 to the nearest 10,000.",
+    "options": {
+      "A": "900,000",
+      "B": "950,000",
+      "C": "960,000",
+      "D": "1,000,000"
+    },
+    "answer": "B",
+    "explanation": "The thousands digit is 0 (<5), so it stays 950,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 500,001 to the nearest 100,000.",
+    "options": {
+      "A": "500,000",
+      "B": "600,000",
+      "C": "400,000",
+      "D": "550,000"
+    },
+    "answer": "A",
+    "explanation": "The ten thousands digit is 0 (<5), so round down to 500,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 800?",
+    "options": {
+      "A": "DCCC",
+      "B": "CCM",
+      "C": "CM",
+      "D": "DC"
+    },
+    "answer": "A",
+    "explanation": "D = 500, CCC = 300, so DCCC = 800.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is 'CC' in numbers?",
+    "options": {
+      "A": "100",
+      "B": "200",
+      "C": "300",
+      "D": "400"
+    },
+    "answer": "B",
+    "explanation": "C = 100, so CC = 200.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral is 600?",
+    "options": {
+      "A": "DC",
+      "B": "CD",
+      "C": "CM",
+      "D": "CCD"
+    },
+    "answer": "A",
+    "explanation": "D = 500, C = 100, so DC = 600.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 1955?",
+    "options": {
+      "A": "MCMLV",
+      "B": "MDCCCCLV",
+      "C": "MCMV",
+      "D": "MXCMV"
+    },
+    "answer": "A",
+    "explanation": "M=1000, CM=900, L=50, V=5 → 1955 = MCMLV.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which year is 'MDCCCLXXXVIII'?",
+    "options": {
+      "A": "1888",
+      "B": "1788",
+      "C": "1988",
+      "D": "1688"
+    },
+    "answer": "A",
+    "explanation": "M=1000, D=500, CCC=300, LXXX=80, VIII=8 → 1888.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the value of the digit 0 in 307,891?",
+    "options": {
+      "A": "0",
+      "B": "30,000",
+      "C": "300,000",
+      "D": "3,000"
+    },
+    "answer": "A",
+    "explanation": "The digit 0 holds the ten thousands place but has no value itself.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is seven hundred seventy-seven thousand seven hundred seventy-seven?",
+    "options": {
+      "A": "777,777",
+      "B": "777,770",
+      "C": "770,777",
+      "D": "707,777"
+    },
+    "answer": "A",
+    "explanation": "This is the standard form of 777,777.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What number is 1 more than 799,999?",
+    "options": {
+      "A": "800,000",
+      "B": "799,998",
+      "C": "800,001",
+      "D": "790,000"
+    },
+    "answer": "A",
+    "explanation": "799,999 + 1 = 800,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Count backwards from 600,000 in steps of 100,000. What is the third number?",
+    "options": {
+      "A": "500,000",
+      "B": "400,000",
+      "C": "300,000",
+      "D": "200,000"
+    },
+    "answer": "B",
+    "explanation": "600,000 → 500,000 → 400,000 (third number).",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is 1,000 more than 799,000?",
+    "options": {
+      "A": "800,000",
+      "B": "799,001",
+      "C": "801,000",
+      "D": "790,000"
+    },
+    "answer": "A",
+    "explanation": "799,000 + 1,000 = 800,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "The temperature was –10°C at night and rose to 0°C by morning. How much did it rise?",
+    "options": {
+      "A": "0°C",
+      "B": "10°C",
+      "C": "5°C",
+      "D": "1°C"
+    },
+    "answer": "B",
+    "explanation": "From –10 to 0 is a rise of 10°C.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is 4 – 7?",
+    "options": {
+      "A": "3",
+      "B": "–3",
+      "C": "11",
+      "D": "–11"
+    },
+    "answer": "B",
+    "explanation": "4 – 7 = –3.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which number is between –9 and –7?",
+    "options": {
+      "A": "–8",
+      "B": "–6",
+      "C": "–10",
+      "D": "0"
+    },
+    "answer": "A",
+    "explanation": "–8 is between –9 and –7 on the number line.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 601,000 to the nearest 100,000.",
+    "options": {
+      "A": "600,000",
+      "B": "700,000",
+      "C": "500,000",
+      "D": "610,000"
+    },
+    "answer": "A",
+    "explanation": "The ten thousands digit is 0 (<5), so round down to 600,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 400,049 to the nearest 1,000.",
+    "options": {
+      "A": "400,000",
+      "B": "401,000",
+      "C": "400,100",
+      "D": "399,000"
+    },
+    "answer": "A",
+    "explanation": "The hundreds digit is 0 (<5), so round down to 400,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 859,500 to the nearest 10,000.",
+    "options": {
+      "A": "850,000",
+      "B": "860,000",
+      "C": "859,000",
+      "D": "870,000"
+    },
+    "answer": "B",
+    "explanation": "The thousands digit is 9 (≥5), so round up to 860,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 600,049 to the nearest 100.",
+    "options": {
+      "A": "600,000",
+      "B": "600,100",
+      "C": "600,050",
+      "D": "600,040"
+    },
+    "answer": "A",
+    "explanation": "The tens digit is 4 (<5), so round down to 600,000.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Round 345,670 to the nearest 10.",
+    "options": {
+      "A": "345,670",
+      "B": "345,680",
+      "C": "345,660",
+      "D": "345,700"
+    },
+    "answer": "A",
+    "explanation": "The units digit is 0, so it remains 345,670.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 30?",
+    "options": {
+      "A": "XXX",
+      "B": "XX",
+      "C": "XL",
+      "D": "L"
+    },
+    "answer": "A",
+    "explanation": "XXX = 10 + 10 + 10 = 30.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is 'LXX' in numbers?",
+    "options": {
+      "A": "60",
+      "B": "70",
+      "C": "80",
+      "D": "50"
+    },
+    "answer": "B",
+    "explanation": "L = 50, XX = 20, so LXX = 70.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which Roman numeral is 400?",
+    "options": {
+      "A": "CD",
+      "B": "DC",
+      "C": "CCCC",
+      "D": "CM"
+    },
+    "answer": "A",
+    "explanation": "CD = 500 – 100 = 400.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "What is the Roman numeral for 1970?",
+    "options": {
+      "A": "MCMLXX",
+      "B": "MDCCCCLXX",
+      "C": "MCMXX",
+      "D": "MXCMXX"
+    },
+    "answer": "A",
+    "explanation": "M=1000, CM=900, LXX=70 → 1970 = MCMLXX.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  },
+  {
+    "question": "Which year is 'MCMXLV'?",
+    "options": {
+      "A": "1945",
+      "B": "1955",
+      "C": "1845",
+      "D": "2045"
+    },
+    "answer": "A",
+    "explanation": "M=1000, CM=900, XL=40, V=5 → 1945.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Year5 - Number - number and place value"
+  }
+]

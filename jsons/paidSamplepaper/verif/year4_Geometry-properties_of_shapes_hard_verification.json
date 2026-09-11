@@ -1,0 +1,339 @@
+Question: A quadrilateral has interior angles of 80°, 100°, 70°, and x°. What is the value of x?
+Status: Success
+
+Question: A regular polygon has an exterior angle of 24°. How many sides does it have?
+Status: Success
+
+Question: A triangle has angles in the ratio 2:3:4. What is the measure of the largest angle?
+Status: Success
+
+Question: A rhombus has diagonals of 12 cm and 16 cm. What is its perimeter?
+Status: Success
+
+Question: An isosceles triangle has a vertex angle that is twice each base angle. What is the measure of the vertex angle?
+Status: Success
+
+Question: A kite has perpendicular diagonals of 10 cm and 24 cm. What is its perimeter if the longer diagonal bisects the shorter one?
+Status: Success
+
+Question: A regular polygon has an interior angle of 156°. How many sides does it have?
+Status: Success
+
+Question: A trapezium has parallel sides of 10 cm and 22 cm, and non-parallel sides of 10 cm each. What is its area?
+Status: Success
+
+Question: A rectangle is inscribed in a circle of radius 13 cm. If the rectangle’s length is 24 cm, what is its width?
+Status: Success
+
+Question: An equilateral triangle and a square have the same perimeter of 36 cm. What is the ratio of the side of the triangle to the side of the square?
+Status: Success
+
+Question: A rhombus has a perimeter of 52 cm and an area of 120 cm². What is the length of its shorter diagonal?
+Status: Success
+
+Question: A regular hexagon is divided into 6 equilateral triangles. If the perimeter of the hexagon is 48 cm, what is the area of one triangle?
+Status: Success
+
+Question: A triangle has sides of 13 cm, 14 cm, and 15 cm. What type of triangle is it?
+Status: Success
+
+Question: A shape has rotational symmetry of order 4 and 4 lines of symmetry. Which shape could it be?
+Status: Success
+
+Question: An isosceles triangle has a perimeter of 36 cm and a base of 10 cm. What is its area?
+Status: Success
+
+Question: A regular octagon has a side length of 5 cm. What is its perimeter?
+Status: Success
+
+Question: A kite has diagonals of 18 cm and 24 cm. What is its perimeter if the diagonals intersect at right angles and one diagonal bisects the other?
+Status: Success
+
+Question: A parallelogram has an area of 180 cm² and a base of 15 cm. If the height corresponding to another side of 12 cm is h cm, what is h?
+Status: Success
+
+Question: A trapezium has an area of 150 cm², height of 10 cm, and one parallel side of 12 cm. What is the length of the other parallel side?
+Status: Success
+
+Question: A regular pentagon has a side length of 8 cm. What is its perimeter?
+Status: Success
+
+Question: A rhombus has diagonals of 10 cm and 24 cm. What is its area?
+Status: Success
+
+Question: An equilateral triangle has a side length of 12 cm. What is its height?
+Status: Success
+
+Question: A rectangle has a length that is 3 times its width. If the perimeter is 64 cm, what is the area?
+Status: Success
+
+Question: A square has an area of 144 cm². What is the length of its diagonal?
+Status: Success
+
+Question: A regular hexagon has a side length of 6 cm. What is its perimeter?
+Status: Success
+
+Question: A right-angled triangle has a hypotenuse of 25 cm and one leg of 15 cm. What is its area?
+Status: Success
+
+Question: An isosceles triangle has base angles of 75°. What is the measure of the vertex angle?
+Status: Success
+
+Question: A parallelogram has sides of 9 cm and 12 cm, and an included angle of 60°. What is its area?
+Status: Success
+
+Question: A trapezium has parallel sides of 8 cm and 14 cm, and non-parallel sides of 5 cm each. What is its area?
+Status: Success
+
+Question: A kite has an area of 96 cm² and one diagonal of 16 cm. What is the length of the other diagonal?
+Status: Success
+
+Question: A regular octagon has an interior angle of 135°. What is the measure of one exterior angle?
+Status: Success
+
+Question: A rectangle has a diagonal of 17 cm and a length of 15 cm. What is its area?
+Status: Success
+
+Question: An equilateral triangle has a perimeter of 30 cm. What is its area?
+Status: Success
+
+Question: A rhombus has a perimeter of 40 cm and one diagonal of 12 cm. What is its area?
+Status: Success
+
+Question: A shape has 6 lines of symmetry and rotational symmetry of order 6. Which shape is it?
+Status: Success
+
+Question: A right-angled triangle has legs of 9 cm and 12 cm. What is the length of the altitude to the hypotenuse?
+Status: Success
+
+Question: An isosceles trapezium has parallel sides of 6 cm and 16 cm, and non-parallel sides of 13 cm each. What is its area?
+Status: Success
+
+Question: A regular pentagon has a perimeter of 50 cm. What is the measure of one interior angle?
+Status: Success
+
+Question: A kite has diagonals of 14 cm and 18 cm. What is its area?
+Status: Success
+
+Question: A rectangle has an area of 180 cm² and a length that is 5 cm more than its width. What is the perimeter?
+Status: Error
+Explanation: Let width = w, then length = w + 5.
+Area = length * width = (w + 5) * w = w² + 5w.
+Given Area = 180 cm², so w² + 5w = 180 => w² + 5w - 180 = 0.
+Using the quadratic formula: w = [-5 ± sqrt(5² - 4 * 1 * -180)] / 2 = [-5 ± sqrt(25 + 720)] / 2 = [-5 ± sqrt(745)] / 2.
+Since w must be positive, w = (-5 + sqrt(745)) / 2 ≈ (-5 + 27.3) / 2 = 11.15 cm.
+Then length l = w + 5 ≈ 11.15 + 5 = 16.15 cm.
+Perimeter = 2 * (l + w) ≈ 2 * (16.15 + 11.15) = 2 * 27.3 = 54.6 cm.
+The provided answer (A) is "54 cm". This indicates an inconsistency in the problem statement's numbers or options, as 54.6 cm is an approximation and the options are usually exact. If the perimeter was exactly 54 cm, then 2(l+w)=54 => l+w=27. With l=w+5, we get (w+5)+w=27 => 2w+5=27 => 2w=22 => w=11 cm. Then l=16 cm. The area would be 11*16 = 176 cm², not 180 cm². Therefore, the given answer is incorrect based on the problem statement.
+
+Question: A rhombus has an area of 120 cm² and a side of 13 cm. What is the length of its longer diagonal?
+Status: Success
+
+Question: An equilateral triangle is inscribed in a circle of radius 10 cm. What is the side length of the triangle?
+Status: Success
+
+Question: A parallelogram has sides of 10 cm and 14 cm, and a height of 8 cm corresponding to the 14 cm side. What is its area?
+Status: Success
+
+Question: A trapezium has an area of 168 cm², height of 12 cm, and parallel sides in the ratio 3:4. What are the lengths of the parallel sides?
+Status: Success
+
+Question: A square has a diagonal of 16 cm. What is its area?
+Status: Success
+
+Question: A regular hexagon has a side length of 10 cm. What is its area?
+Status: Success
+
+Question: How many lines of symmetry does a regular decagon have?
+Status: Success
+
+Question: A kite has perpendicular diagonals of 16 cm and 20 cm. What is its area?
+Status: Success
+
+Question: A rectangle has a length of 20 cm and a width of 12 cm. What is the length of its diagonal?
+Status: Success
+
+Question: An equilateral triangle has a height of 12 cm. What is its perimeter?
+Status: Success
+
+Question: A rhombus has diagonals of 18 cm and 24 cm. What is its perimeter?
+Status: Success
+
+Question: A regular polygon has an exterior angle of 30°. How many sides does it have?
+Status: Success
+
+Question: An isosceles triangle has a base of 18 cm and equal sides of 15 cm. What is its area?
+Status: Success
+
+Question: A parallelogram has an area of 150 cm² and a base of 10 cm. What is the height corresponding to a side of 15 cm?
+Status: Success
+
+Question: A trapezium has parallel sides of 12 cm and 20 cm, and non-parallel sides of 10 cm each. What is its area?
+Status: Error
+Explanation: This is an isosceles trapezium. Let parallel sides be a=12 cm and b=20 cm. Non-parallel sides are 10 cm.
+To find the height (h), drop altitudes from the ends of the shorter base to the longer base. This forms two right-angled triangles at the ends.
+The base of each right-angled triangle is (b - a) / 2 = (20 - 12) / 2 = 8 / 2 = 4 cm.
+The hypotenuse of this right-angled triangle is the non-parallel side, which is 10 cm.
+Using Pythagorean theorem: h² + 4² = 10² => h² + 16 = 100 => h² = 84 => h = √84 = 2√21 cm.
+Area of trapezium = (1/2) * (a + b) * h = (1/2) * (12 + 20) * 2√21 = (1/2) * 32 * 2√21 = 32√21 cm².
+The provided answer (A) is "128 cm²".
+32√21 ≈ 32 * 4.58 = 146.56 cm², which is not 128 cm².
+If the area were 128 cm², then h would be 128 / ((12+20)/2) = 128 / 16 = 8 cm. But a right triangle with legs 4 and 8 has a hypotenuse of √(4²+8²) = √(16+64) = √80 ≠ 10 cm. Thus, the problem data is inconsistent with the provided answer.
+
+Question: A square has an area of 196 cm². What is the length of its diagonal?
+Status: Success
+
+Question: A regular octagon has a side length of 6 cm. What is its perimeter?
+Status: Success
+
+Question: A right-angled triangle has a hypotenuse of 26 cm and one leg of 10 cm. What is its area?
+Status: Success
+
+Question: An equilateral triangle has a side length of 14 cm. What is its area?
+Status: Success
+
+Question: A kite has diagonals of 20 cm and 24 cm. What is its area?
+Status: Success
+
+Question: A rectangle has a length of 24 cm and a diagonal of 25 cm. What is its area?
+Status: Success
+
+Question: A regular pentagon has an interior angle of 108°. What is the sum of its interior angles?
+Status: Success
+
+Question: An isosceles triangle has a vertex angle of 40°. What is the measure of each base angle?
+Status: Success
+
+Question: A rhombus has a perimeter of 60 cm and an area of 216 cm². What is the length of its shorter diagonal?
+Status: Success
+
+Question: A parallelogram has adjacent sides of 12 cm and 16 cm, and an included angle of 30°. What is its area?
+Status: Success
+
+Question: A trapezium has an area of 200 cm², height of 10 cm, and one parallel side of 15 cm. What is the other parallel side?
+Status: Success
+
+Question: A square has a diagonal of 18 cm. What is its area?
+Status: Success
+
+Question: An equilateral triangle has a perimeter of 36 cm. What is its height?
+Status: Success
+
+Question: A kite has an area of 150 cm² and one diagonal of 25 cm. What is the length of the other diagonal?
+Status: Success
+
+Question: A regular hexagon has a side length of 8 cm. What is its area?
+Status: Success
+
+Question: A rectangle has a length that is twice its width. If the area is 200 cm², what is the perimeter?
+Status: Success
+
+Question: An isosceles trapezium has parallel sides of 10 cm and 22 cm, and non-parallel sides of 10 cm each. What is its area?
+Status: Success
+
+Question: A rhombus has diagonals of 14 cm and 48 cm. What is its perimeter?
+Status: Success
+
+Question: A regular octagon has an exterior angle of 45°. How many sides does it have?
+Status: Success
+
+Question: A right-angled triangle has legs of 12 cm and 16 cm. What is the length of the altitude to the hypotenuse?
+Status: Success
+
+Question: An equilateral triangle has a side length of 16 cm. What is its area?
+Status: Success
+
+Question: A parallelogram has sides of 15 cm and 20 cm, and a height of 12 cm corresponding to the 20 cm side. What is its area?
+Status: Success
+
+Question: A trapezium has parallel sides of 9 cm and 15 cm, and a height of 8 cm. What is its area?
+Status: Success
+
+Question: A square has an area of 225 cm². What is the length of its diagonal?
+Status: Success
+
+Question: A regular pentagon has a side length of 10 cm. What is its perimeter?
+Status: Success
+
+Question: An isosceles triangle has a perimeter of 64 cm and a base of 14 cm. What is its area?
+Status: Success
+
+Question: A kite has diagonals of 21 cm and 28 cm. What is its area?
+Status: Success
+
+Question: A rectangle has a diagonal of 25 cm and a width of 7 cm. What is its area?
+Status: Success
+
+Question: A regular hexagon has a perimeter of 72 cm. What is its area?
+Status: Success
+
+Question: An equilateral triangle has a height of 9 cm. What is its perimeter?
+Status: Success
+
+Question: A rhombus has an area of 168 cm² and a side of 13 cm. What is the length of its longer diagonal?
+Status: Error
+Explanation: Let the diagonals be d1 and d2.
+Area = (1/2) * d1 * d2 = 168 cm² => d1 * d2 = 336.
+Side (s) = 13 cm. The diagonals of a rhombus bisect each other at right angles. So, (d1/2)² + (d2/2)² = s².
+(d1/2)² + (d2/2)² = 13² = 169.
+Multiplying by 4: d1² + d2² = 4 * 169 = 676.
+We have a system of equations:
+1) d1 * d2 = 336
+2) d1² + d2² = 676
+From (1), d2 = 336/d1. Substitute into (2):
+d1² + (336/d1)² = 676
+d1⁴ + 336² = 676d1²
+d1⁴ - 676d1² + 112896 = 0.
+Let x = d1². Then x² - 676x + 112896 = 0.
+Using the quadratic formula: x = [676 ± sqrt(676² - 4 * 1 * 112896)] / 2
+x = [676 ± sqrt(456976 - 451584)] / 2
+x = [676 ± sqrt(5392)] / 2.
+Since 5392 is not a perfect square (70²=4900, 80²=6400), the diagonals are not rational numbers.
+sqrt(5392) ≈ 73.43.
+x = [676 ± 73.43] / 2.
+d1² = (676 + 73.43) / 2 = 749.43 / 2 = 374.715 => d1 ≈ 19.36 cm.
+d2² = (676 - 73.43) / 2 = 602.57 / 2 = 301.285 => d2 ≈ 17.36 cm.
+The longer diagonal is approximately 19.36 cm.
+The provided answer (A) is "24 cm". This is incorrect based on the given area and side length.
+
+Question: A parallelogram has adjacent angles in the ratio 3:2. What is the measure of the larger angle?
+Status: Success
+
+Question: A trapezium has an area of 210 cm², height of 14 cm, and parallel sides in the ratio 2:3. What are the lengths of the parallel sides?
+Status: Success
+
+Question: A square has a diagonal of 20 cm. What is its area?
+Status: Success
+
+Question: An isosceles right-angled triangle has a hypotenuse of 10√2 cm. What is its area?
+Status: Success
+
+Question: A regular decagon has a side length of 5 cm. What is its perimeter?
+Status: Success
+
+Question: A kite has an area of 240 cm² and diagonals in the ratio 5:6. What is the length of the shorter diagonal?
+Status: Success
+
+Question: A rectangle has a length of 21 cm and a width of 20 cm. What is the length of its diagonal?
+Status: Success
+
+Question: An equilateral triangle has a side length of 18 cm. What is its height?
+Status: Success
+
+Question: A rhombus has diagonals of 16 cm and 30 cm. What is its area?
+Status: Success
+
+Question: A regular polygon has an interior angle of 140°. How many sides does it have?
+Status: Success
+
+Question: An isosceles triangle has a base of 24 cm and equal sides of 13 cm. What is its area?
+Status: Success
+
+Question: A parallelogram has an area of 200 cm² and a base of 25 cm. What is the height corresponding to a side of 20 cm?
+Status: Success
+
+Question: A trapezium has parallel sides of 9 cm and 21 cm, and non-parallel sides of 10 cm each. What is its area?
+Status: Success
+
+Question: How many lines of symmetry does a regular nonagon have?
+Status: Success

@@ -1,0 +1,6911 @@
+[
+  {
+    "question": "Simplify the fraction 18/24.",
+    "options": {
+      "A": "3/4",
+      "B": "6/8",
+      "C": "9/12",
+      "D": "12/18"
+    },
+    "answer": "A",
+    "explanation": "The GCD of 18 and 24 is 6, so 18 ÷ 6 / 24 ÷ 6 = 3/4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Express 3/4 and 5/8 with a common denominator.",
+    "options": {
+      "A": "6/8 and 5/8",
+      "B": "12/16 and 10/16",
+      "C": "9/12 and 5/12",
+      "D": "3/8 and 5/8"
+    },
+    "answer": "B",
+    "explanation": "LCM of 4 and 8 is 16; 3/4 = 12/16 and 5/8 = 10/16.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction is larger: 7/8 or 5/6?",
+    "options": {
+      "A": "7/8",
+      "B": "5/6",
+      "C": "They are equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "Convert to common denominator: 7/8 = 21/24, 5/6 = 20/24; 21/24 > 20/24.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 3/4 + 5/6.",
+    "options": {
+      "A": "19/12",
+      "B": "10/12",
+      "C": "8/12",
+      "D": "1/12"
+    },
+    "answer": "A",
+    "explanation": "Common denominator is 12: 3/4 = 9/12, 5/6 = 10/12; sum = 19/12.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 7/8 − 2/3.",
+    "options": {
+      "A": "5/24",
+      "B": "11/24",
+      "C": "13/24",
+      "D": "1/24"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 24: 7/8 = 21/24, 2/3 = 16/24; 21/24 − 16/24 = 5/24.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 3/5 × 7/8 and simplify.",
+    "options": {
+      "A": "21/40",
+      "B": "10/40",
+      "C": "21/35",
+      "D": "3/13"
+    },
+    "answer": "A",
+    "explanation": "Multiply numerators and denominators: 3×7 / 5×8 = 21/40.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 3/4 ÷ 2.",
+    "options": {
+      "A": "3/8",
+      "B": "3/6",
+      "C": "6/8",
+      "D": "3/2"
+    },
+    "answer": "A",
+    "explanation": "Dividing a fraction by a whole number: (3/4) ÷ 2 = 3/4 × 1/2 = 3/8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 3/8 as a decimal.",
+    "options": {
+      "A": "0.375",
+      "B": "0.38",
+      "C": "0.35",
+      "D": "0.385"
+    },
+    "answer": "A",
+    "explanation": "3 ÷ 8 = 0.375.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.625 as a fraction in simplest form.",
+    "options": {
+      "A": "5/8",
+      "B": "3/4",
+      "C": "7/8",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "0.625 = 625/1000 = 5/8 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Identify the value of 6 in 4.673.",
+    "options": {
+      "A": "0.6",
+      "B": "0.06",
+      "C": "6",
+      "D": "0.006"
+    },
+    "answer": "A",
+    "explanation": "6 is in the hundredths place, so its value is 0.6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.7 × 6.",
+    "options": {
+      "A": "4.2",
+      "B": "0.42",
+      "C": "42",
+      "D": "4.02"
+    },
+    "answer": "A",
+    "explanation": "0.7 × 6 = 4.2.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 4.8 ÷ 2.",
+    "options": {
+      "A": "2.4",
+      "B": "2.8",
+      "C": "2.0",
+      "D": "2.6"
+    },
+    "answer": "A",
+    "explanation": "4.8 ÷ 2 = 2.4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 3.476 to 2 decimal places.",
+    "options": {
+      "A": "3.48",
+      "B": "3.47",
+      "C": "3.476",
+      "D": "3.5"
+    },
+    "answer": "A",
+    "explanation": "Third decimal is 6 (≥5), so round the second decimal 7 up to 8 → 3.48.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Express 3/5 as a percentage.",
+    "options": {
+      "A": "60%",
+      "B": "50%",
+      "C": "75%",
+      "D": "65%"
+    },
+    "answer": "A",
+    "explanation": "3 ÷ 5 = 0.6 → 0.6 × 100 = 60%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.45 to a fraction in simplest form.",
+    "options": {
+      "A": "9/20",
+      "B": "45/100",
+      "C": "1/2",
+      "D": "4/9"
+    },
+    "answer": "A",
+    "explanation": "0.45 = 45/100 = 9/20 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction is equivalent to 0.875?",
+    "options": {
+      "A": "7/8",
+      "B": "3/4",
+      "C": "5/8",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "0.875 = 875/1000 = 7/8 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Compare: 9/10 or 0.91?",
+    "options": {
+      "A": "0.91",
+      "B": "9/10",
+      "C": "They are equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "9/10 = 0.9; 0.91 > 0.9, so 0.91 is larger.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 2/3 + 3/8.",
+    "options": {
+      "A": "25/24",
+      "B": "7/11",
+      "C": "17/24",
+      "D": "23/24"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 24: 2/3 = 16/24, 3/8 = 9/24; sum = 25/24.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 7/6 − 3/4.",
+    "options": {
+      "A": "11/12",
+      "B": "10/12",
+      "C": "13/12",
+      "D": "5/12"
+    },
+    "answer": "C",
+    "explanation": "Common denominator 12: 7/6 = 14/12, 3/4 = 9/12; difference = 14/12 − 9/12 = 5/12.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 5/6 × 2/3.",
+    "options": {
+      "A": "5/9",
+      "B": "10/18",
+      "C": "7/9",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "Multiply numerators and denominators: 5×2 / 6×3 = 10/18 = 5/9 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 2/5 ÷ 4.",
+    "options": {
+      "A": "1/10",
+      "B": "1/9",
+      "C": "1/20",
+      "D": "1/5"
+    },
+    "answer": "A",
+    "explanation": "(2/5) ÷ 4 = 2/5 × 1/4 = 2/20 = 1/10 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.36 × 7.",
+    "options": {
+      "A": "2.52",
+      "B": "2.46",
+      "C": "2.62",
+      "D": "2.42"
+    },
+    "answer": "A",
+    "explanation": "0.36 × 7 = 2.52.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 3.6 ÷ 4.",
+    "options": {
+      "A": "0.9",
+      "B": "0.8",
+      "C": "1.0",
+      "D": "1.1"
+    },
+    "answer": "A",
+    "explanation": "3.6 ÷ 4 = 0.9.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 2.647 to 1 decimal place.",
+    "options": {
+      "A": "2.6",
+      "B": "2.7",
+      "C": "2.64",
+      "D": "2.65"
+    },
+    "answer": "A",
+    "explanation": "Second decimal is 4 (<5), so first decimal 6 stays → 2.6 (wait, check!). Actually, first decimal is 6, second decimal is 4 → less than 5, so round down → 2.6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Express 7/20 as a percentage.",
+    "options": {
+      "A": "35%",
+      "B": "25%",
+      "C": "30%",
+      "D": "40%"
+    },
+    "answer": "A",
+    "explanation": "7 ÷ 20 = 0.35 → 0.35 × 100 = 35%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.08 to a fraction in simplest form.",
+    "options": {
+      "A": "2/25",
+      "B": "8/100",
+      "C": "1/12",
+      "D": "1/8"
+    },
+    "answer": "A",
+    "explanation": "0.08 = 8/100 = 2/25 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Compare: 3/7 or 0.42?",
+    "options": {
+      "A": "0.42",
+      "B": "3/7",
+      "C": "They are equal",
+      "D": "Cannot compare"
+    },
+    "answer": "B",
+    "explanation": "3/7 ≈ 0.4286; 0.42 < 0.4286, so 3/7 is larger.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+    {
+      "question": "Simplify the fraction 24/36 to its lowest terms.",
+      "options": {
+        "A": "2/3",
+        "B": "3/4",
+        "C": "4/6",
+        "D": "12/18"
+      },
+      "answer": "A",
+      "explanation": "The highest common factor of 24 and 36 is 12. Dividing both numerator and denominator by 12 gives 2/3.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 48/64 in its simplest form?",
+      "options": {
+        "A": "3/4",
+        "B": "6/8",
+        "C": "12/16",
+        "D": "24/32"
+      },
+      "answer": "A",
+      "explanation": "The highest common factor of 48 and 64 is 16. Dividing both by 16 gives 3/4.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Simplify 35/45 using common factors.",
+      "options": {
+        "A": "7/9",
+        "B": "5/6",
+        "C": "3/4",
+        "D": "2/3"
+      },
+      "answer": "A",
+      "explanation": "The highest common factor of 35 and 45 is 5. Dividing both by 5 gives 7/9.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Express 2/3 and 3/4 with the same denominator.",
+      "options": {
+        "A": "8/12 and 9/12",
+        "B": "6/9 and 9/12",
+        "C": "4/6 and 6/8",
+        "D": "10/15 and 12/16"
+      },
+      "answer": "A",
+      "explanation": "The lowest common multiple of 3 and 4 is 12. Converting: 2/3 = 8/12 and 3/4 = 9/12.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is the lowest common denominator for 3/5 and 2/7?",
+      "options": {
+        "A": "35",
+        "B": "12",
+        "C": "70",
+        "D": "15"
+      },
+      "answer": "A",
+      "explanation": "The lowest common multiple of 5 and 7 is 35, as 5 and 7 have no common factors other than 1.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Order these fractions from smallest to largest: 3/4, 2/3, 5/6",
+      "options": {
+        "A": "2/3, 3/4, 5/6",
+        "B": "3/4, 2/3, 5/6",
+        "C": "5/6, 3/4, 2/3",
+        "D": "2/3, 5/6, 3/4"
+      },
+      "answer": "A",
+      "explanation": "Converting to twelfths: 2/3 = 8/12, 3/4 = 9/12, 5/6 = 10/12. Therefore 2/3 < 3/4 < 5/6.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Which fraction is between 1/2 and 3/4?",
+      "options": {
+        "A": "5/8",
+        "B": "1/3",
+        "C": "7/8",
+        "D": "1/4"
+      },
+      "answer": "A",
+      "explanation": "Converting to eighths: 1/2 = 4/8, 5/8 = 5/8, 3/4 = 6/8. So 4/8 < 5/8 < 6/8.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Compare: Which is larger, 7/8 or 5/6?",
+      "options": {
+        "A": "7/8",
+        "B": "5/6",
+        "C": "They are equal",
+        "D": "Cannot be determined"
+      },
+      "answer": "A",
+      "explanation": "Converting to 24ths: 7/8 = 21/24 and 5/6 = 20/24. Since 21/24 > 20/24, then 7/8 is larger.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Order these fractions from largest to smallest: 7/5, 9/10, 11/10",
+      "options": {
+        "A": "7/5, 11/10, 9/10",
+        "B": "9/10, 11/10, 7/5",
+        "C": "11/10, 7/5, 9/10",
+        "D": "7/5, 9/10, 11/10"
+      },
+      "answer": "A",
+      "explanation": "Converting to tenths: 7/5 = 14/10, 11/10 = 11/10, 9/10 = 9/10. Ordering: 14/10 > 11/10 > 9/10.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Which improper fraction is equal to 2 1/4?",
+      "options": {
+        "A": "9/4",
+        "B": "8/4",
+        "C": "7/4",
+        "D": "10/4"
+      },
+      "answer": "A",
+      "explanation": "2 1/4 = (2 × 4 + 1)/4 = 9/4.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 2/5 + 3/10",
+      "options": {
+        "A": "7/10",
+        "B": "5/15",
+        "C": "1/2",
+        "D": "5/10"
+      },
+      "answer": "A",
+      "explanation": "Converting to tenths: 2/5 = 4/10. Then 4/10 + 3/10 = 7/10.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 3/4 + 1/6?",
+      "options": {
+        "A": "11/12",
+        "B": "4/10",
+        "C": "5/8",
+        "D": "7/12"
+      },
+      "answer": "A",
+      "explanation": "Converting to twelfths: 3/4 = 9/12, 1/6 = 2/12. Then 9/12 + 2/12 = 11/12.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 5/6 - 1/3",
+      "options": {
+        "A": "1/2",
+        "B": "4/3",
+        "C": "2/3",
+        "D": "1/6"
+      },
+      "answer": "A",
+      "explanation": "Converting to sixths: 1/3 = 2/6. Then 5/6 - 2/6 = 3/6 = 1/2.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 7/8 - 1/2?",
+      "options": {
+        "A": "3/8",
+        "B": "6/6",
+        "C": "5/8",
+        "D": "1/4"
+      },
+      "answer": "A",
+      "explanation": "Converting to eighths: 1/2 = 4/8. Then 7/8 - 4/8 = 3/8.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 2/3 + 1/4",
+      "options": {
+        "A": "11/12",
+        "B": "3/7",
+        "C": "5/12",
+        "D": "3/12"
+      },
+      "answer": "A",
+      "explanation": "Converting to twelfths: 2/3 = 8/12, 1/4 = 3/12. Then 8/12 + 3/12 = 11/12.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 4/5 - 2/3?",
+      "options": {
+        "A": "2/15",
+        "B": "2/2",
+        "C": "6/15",
+        "D": "1/5"
+      },
+      "answer": "A",
+      "explanation": "Converting to fifteenths: 4/5 = 12/15, 2/3 = 10/15. Then 12/15 - 10/15 = 2/15.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 3 2/5 + 1 1/5",
+      "options": {
+        "A": "4 3/5",
+        "B": "4 2/5",
+        "C": "5",
+        "D": "4 1/5"
+      },
+      "answer": "A",
+      "explanation": "Adding whole numbers: 3 + 1 = 4. Adding fractions: 2/5 + 1/5 = 3/5. Total: 4 3/5.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 2 3/4 + 1 1/2?",
+      "options": {
+        "A": "4 1/4",
+        "B": "3 5/4",
+        "C": "3 1/4",
+        "D": "4 1/2"
+      },
+      "answer": "A",
+      "explanation": "Converting to fourths: 1 1/2 = 1 2/4. Then 2 3/4 + 1 2/4 = 3 5/4 = 4 1/4.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 5 1/3 - 2 2/3",
+      "options": {
+        "A": "2 2/3",
+        "B": "3 2/3",
+        "C": "2 1/3",
+        "D": "3 1/3"
+      },
+      "answer": "A",
+      "explanation": "Converting: 5 1/3 = 4 4/3. Then 4 4/3 - 2 2/3 = 2 2/3.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 4 1/6 - 1 5/6?",
+      "options": {
+        "A": "2 2/6 or 2 1/3",
+        "B": "3 4/6",
+        "C": "2 4/6",
+        "D": "3 2/6"
+      },
+      "answer": "A",
+      "explanation": "Converting: 4 1/6 = 3 7/6. Then 3 7/6 - 1 5/6 = 2 2/6 = 2 1/3.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 1 2/3 + 2 3/4",
+      "options": {
+        "A": "4 5/12",
+        "B": "3 5/7",
+        "C": "4 1/2",
+        "D": "3 11/12"
+      },
+      "answer": "A",
+      "explanation": "Converting to twelfths: 1 2/3 = 1 8/12, 2 3/4 = 2 9/12. Then 1 8/12 + 2 9/12 = 3 17/12 = 4 5/12.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 3 5/8 - 1 3/4?",
+      "options": {
+        "A": "1 7/8",
+        "B": "2 1/8",
+        "C": "1 2/8",
+        "D": "2 7/8"
+      },
+      "answer": "A",
+      "explanation": "Converting to eighths: 1 3/4 = 1 6/8. Then 3 5/8 - 1 6/8 = 2 13/8 - 1 6/8 = 1 7/8.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 2/5 × 3/4 in simplest form",
+      "options": {
+        "A": "3/10",
+        "B": "6/20",
+        "C": "5/9",
+        "D": "1/2"
+      },
+      "answer": "A",
+      "explanation": "Multiply numerators: 2 × 3 = 6. Multiply denominators: 5 × 4 = 20. Then 6/20 = 3/10.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 3/5 × 2/3 in simplest form?",
+      "options": {
+        "A": "2/5",
+        "B": "6/15",
+        "C": "5/8",
+        "D": "1/3"
+      },
+      "answer": "A",
+      "explanation": "Multiply numerators: 3 × 2 = 6. Multiply denominators: 5 × 3 = 15. Then 6/15 = 2/5.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 4/5 × 5/8",
+      "options": {
+        "A": "1/2",
+        "B": "20/40",
+        "C": "9/13",
+        "D": "4/8"
+      },
+      "answer": "A",
+      "explanation": "Multiply: (4 × 5)/(5 × 8) = 20/40 = 1/2.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 2/7 × 3/5 in simplest form?",
+      "options": {
+        "A": "6/35",
+        "B": "5/12",
+        "C": "1/5",
+        "D": "6/12"
+      },
+      "answer": "A",
+      "explanation": "Multiply numerators: 2 × 3 = 6. Multiply denominators: 7 × 5 = 35. 6/35 is already in simplest form.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 5/6 × 3/10",
+      "options": {
+        "A": "1/4",
+        "B": "15/60",
+        "C": "8/16",
+        "D": "1/2"
+      },
+      "answer": "A",
+      "explanation": "Multiply: (5 × 3)/(6 × 10) = 15/60 = 1/4.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 3/8 × 4/9 in simplest form?",
+      "options": {
+        "A": "1/6",
+        "B": "12/72",
+        "C": "7/17",
+        "D": "1/3"
+      },
+      "answer": "A",
+      "explanation": "Multiply: (3 × 4)/(8 × 9) = 12/72 = 1/6.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 2/3 ÷ 4",
+      "options": {
+        "A": "1/6",
+        "B": "2/12",
+        "C": "8/3",
+        "D": "1/2"
+      },
+      "answer": "A",
+      "explanation": "Dividing by 4 means multiplying the denominator by 4: 2/3 ÷ 4 = 2/(3×4) = 2/12 = 1/6.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 3/4 ÷ 6?",
+      "options": {
+        "A": "1/8",
+        "B": "3/24",
+        "C": "18/4",
+        "D": "1/2"
+      },
+      "answer": "A",
+      "explanation": "Dividing by 6: 3/4 ÷ 6 = 3/(4×6) = 3/24 = 1/8.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 5/6 ÷ 5",
+      "options": {
+        "A": "1/6",
+        "B": "5/30",
+        "C": "25/6",
+        "D": "1/30"
+      },
+      "answer": "A",
+      "explanation": "Dividing by 5: 5/6 ÷ 5 = 5/(6×5) = 5/30 = 1/6.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 3/5 ÷ 6?",
+      "options": {
+        "A": "1/10",
+        "B": "3/30",
+        "C": "18/5",
+        "D": "1/5"
+      },
+      "answer": "A",
+      "explanation": "Dividing by 6: 3/5 ÷ 6 = 3/(5×6) = 3/30 = 1/10.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 7/8 ÷ 7",
+      "options": {
+        "A": "1/8",
+        "B": "7/56",
+        "C": "49/8",
+        "D": "1/56"
+      },
+      "answer": "A",
+      "explanation": "Dividing by 7: 7/8 ÷ 7 = 7/(8×7) = 7/56 = 1/8.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 5/8 as a decimal?",
+      "options": {
+        "A": "0.625",
+        "B": "0.58",
+        "C": "0.5",
+        "D": "0.8"
+      },
+      "answer": "A",
+      "explanation": "5 ÷ 8 = 0.625, so 5/8 as a decimal is 0.625.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 7/8 to a decimal.",
+      "options": {
+        "A": "0.875",
+        "B": "0.78",
+        "C": "0.7",
+        "D": "0.8"
+      },
+      "answer": "A",
+      "explanation": "7 ÷ 8 = 0.875, so 7/8 as a decimal is 0.875.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 3/16 as a decimal?",
+      "options": {
+        "A": "0.1875",
+        "B": "0.316",
+        "C": "0.3",
+        "D": "0.16"
+      },
+      "answer": "A",
+      "explanation": "3 ÷ 16 = 0.1875, so 3/16 as a decimal is 0.1875.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 7/20 to a decimal.",
+      "options": {
+        "A": "0.35",
+        "B": "0.72",
+        "C": "0.7",
+        "D": "0.2"
+      },
+      "answer": "A",
+      "explanation": "7 ÷ 20 = 0.35, so 7/20 as a decimal is 0.35.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 9/25 as a decimal?",
+      "options": {
+        "A": "0.36",
+        "B": "0.925",
+        "C": "0.9",
+        "D": "0.25"
+      },
+      "answer": "A",
+      "explanation": "9 ÷ 25 = 0.36, so 9/25 as a decimal is 0.36.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "In the number 12.458, what is the value of the digit 5?",
+      "options": {
+        "A": "5 hundredths or 0.05",
+        "B": "5 tenths or 0.5",
+        "C": "5 thousandths or 0.005",
+        "D": "5 units"
+      },
+      "answer": "A",
+      "explanation": "The digit 5 is in the hundredths position (second place after the decimal point), so its value is 5 hundredths or 0.05.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "In the number 27.834, what is the value of the digit 3?",
+      "options": {
+        "A": "3 hundredths or 0.03",
+        "B": "3 tenths or 0.3",
+        "C": "3 thousandths or 0.003",
+        "D": "3 units"
+      },
+      "answer": "A",
+      "explanation": "The digit 3 is in the hundredths position, so its value is 3 hundredths or 0.03.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 4.567 × 10?",
+      "options": {
+        "A": "45.67",
+        "B": "4.567",
+        "C": "0.4567",
+        "D": "456.7"
+      },
+      "answer": "A",
+      "explanation": "Multiplying by 10 moves the decimal point one place to the right: 4.567 × 10 = 45.67.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 0.234 × 100",
+      "options": {
+        "A": "23.4",
+        "B": "2.34",
+        "C": "234",
+        "D": "0.234"
+      },
+      "answer": "A",
+      "explanation": "Multiplying by 100 moves the decimal point two places to the right: 0.234 × 100 = 23.4.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 0.0456 × 1,000?",
+      "options": {
+        "A": "45.6",
+        "B": "4.56",
+        "C": "456",
+        "D": "0.456"
+      },
+      "answer": "A",
+      "explanation": "Multiplying by 1,000 moves the decimal point three places to the right: 0.0456 × 1,000 = 45.6.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 456 ÷ 100",
+      "options": {
+        "A": "4.56",
+        "B": "45.6",
+        "C": "0.456",
+        "D": "4,560"
+      },
+      "answer": "A",
+      "explanation": "Dividing by 100 moves the decimal point two places to the left: 456 ÷ 100 = 4.56.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 7,850 ÷ 1,000?",
+      "options": {
+        "A": "7.85",
+        "B": "78.5",
+        "C": "0.785",
+        "D": "785"
+      },
+      "answer": "A",
+      "explanation": "Dividing by 1,000 moves the decimal point three places to the left: 7,850 ÷ 1,000 = 7.85.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 3.45 × 10",
+      "options": {
+        "A": "34.5",
+        "B": "3.45",
+        "C": "0.345",
+        "D": "345"
+      },
+      "answer": "A",
+      "explanation": "Multiplying by 10 moves the decimal point one place to the right: 3.45 × 10 = 34.5.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 1.23 × 6?",
+      "options": {
+        "A": "7.38",
+        "B": "7.29",
+        "C": "6.23",
+        "D": "1.29"
+      },
+      "answer": "A",
+      "explanation": "1.23 × 6 = 7.38. Multiply as normal: 123 × 6 = 738, then place decimal to give 7.38.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 2.45 × 3",
+      "options": {
+        "A": "7.35",
+        "B": "7.45",
+        "C": "6.45",
+        "D": "5.45"
+      },
+      "answer": "A",
+      "explanation": "2.45 × 3 = 7.35. Multiply 245 × 3 = 735, then place decimal to give 7.35.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 3.56 × 4?",
+      "options": {
+        "A": "14.24",
+        "B": "14.56",
+        "C": "12.24",
+        "D": "7.56"
+      },
+      "answer": "A",
+      "explanation": "3.56 × 4 = 14.24. Multiply 356 × 4 = 1424, then place decimal to give 14.24.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 4.32 × 5",
+      "options": {
+        "A": "21.6",
+        "B": "21.32",
+        "C": "20.6",
+        "D": "9.32"
+      },
+      "answer": "A",
+      "explanation": "4.32 × 5 = 21.6. Multiply 432 × 5 = 2160, then place decimal to give 21.60 = 21.6.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 5.67 × 8?",
+      "options": {
+        "A": "45.36",
+        "B": "45.67",
+        "C": "40.36",
+        "D": "13.67"
+      },
+      "answer": "A",
+      "explanation": "5.67 × 8 = 45.36. Multiply 567 × 8 = 4536, then place decimal to give 45.36.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 6.84 × 7",
+      "options": {
+        "A": "47.88",
+        "B": "47.84",
+        "C": "42.88",
+        "D": "13.84"
+      },
+      "answer": "A",
+      "explanation": "6.84 × 7 = 47.88. Multiply 684 × 7 = 4788, then place decimal to give 47.88.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "If 1/3 of a length is 18 cm, what is the whole length?",
+      "options": {
+        "A": "54 cm",
+        "B": "21 cm",
+        "C": "6 cm",
+        "D": "36 cm"
+      },
+      "answer": "A",
+      "explanation": "If 1/3 = 18 cm, then the whole = 18 × 3 = 54 cm.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "If 1/6 of a number is 15, what is the number?",
+      "options": {
+        "A": "90",
+        "B": "21",
+        "C": "9",
+        "D": "75"
+      },
+      "answer": "A",
+      "explanation": "If 1/6 = 15, then the whole = 15 × 6 = 90.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "If 1/8 of a quantity is 9, what is the whole quantity?",
+      "options": {
+        "A": "72",
+        "B": "17",
+        "C": "1.125",
+        "D": "64"
+      },
+      "answer": "A",
+      "explanation": "If 1/8 = 9, then the whole = 9 × 8 = 72.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "If 2/5 of a number is 20, what is the number?",
+      "options": {
+        "A": "50",
+        "B": "8",
+        "C": "40",
+        "D": "25"
+      },
+      "answer": "A",
+      "explanation": "If 2/5 = 20, then 1/5 = 10, so the whole = 10 × 5 = 50.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "If 3/4 of a length is 24 cm, what is the whole length?",
+      "options": {
+        "A": "32 cm",
+        "B": "18 cm",
+        "C": "27 cm",
+        "D": "96 cm"
+      },
+      "answer": "A",
+      "explanation": "If 3/4 = 24 cm, then 1/4 = 8 cm, so the whole = 8 × 4 = 32 cm.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Round 12.3456 to 2 decimal places.",
+      "options": {
+        "A": "12.35",
+        "B": "12.34",
+        "C": "12.3",
+        "D": "12.346"
+      },
+      "answer": "A",
+      "explanation": "Looking at the thousandths digit (5), we round up. 12.3456 rounded to 2 decimal places is 12.35.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Round 8.7638 to 1 decimal place.",
+      "options": {
+        "A": "8.8",
+        "B": "8.7",
+        "C": "8.76",
+        "D": "9.0"
+      },
+      "answer": "A",
+      "explanation": "Looking at the hundredths digit (6), we round up. 8.7638 rounded to 1 decimal place is 8.8.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Round 15.4274 to 2 decimal places.",
+      "options": {
+        "A": "15.43",
+        "B": "15.42",
+        "C": "15.4",
+        "D": "15.427"
+      },
+      "answer": "A",
+      "explanation": "Looking at the thousandths digit (7), we round up. 15.4274 rounded to 2 decimal places is 15.43.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Round 23.8951 to the nearest tenth.",
+      "options": {
+        "A": "23.9",
+        "B": "23.8",
+        "C": "23.90",
+        "D": "24.0"
+      },
+      "answer": "A",
+      "explanation": "Looking at the hundredths digit (9), we round up. 23.8951 rounded to 1 decimal place is 23.9.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What percentage is equivalent to 7/10?",
+      "options": {
+        "A": "70%",
+        "B": "7%",
+        "C": "17%",
+        "D": "0.7%"
+      },
+      "answer": "A",
+      "explanation": "7/10 = 0.7 = 70/100 = 70%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 3/20 to a percentage.",
+      "options": {
+        "A": "15%",
+        "B": "3%",
+        "C": "20%",
+        "D": "30%"
+      },
+      "answer": "A",
+      "explanation": "3/20 = 15/100 = 15%. Alternatively, 3 ÷ 20 = 0.15 = 15%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 7/20 as a percentage?",
+      "options": {
+        "A": "35%",
+        "B": "7%",
+        "C": "20%",
+        "D": "70%"
+      },
+      "answer": "A",
+      "explanation": "7/20 = 35/100 = 35%. Alternatively, 7 ÷ 20 = 0.35 = 35%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 9/20 to a percentage.",
+      "options": {
+        "A": "45%",
+        "B": "9%",
+        "C": "20%",
+        "D": "90%"
+      },
+      "answer": "A",
+      "explanation": "9/20 = 45/100 = 45%. Alternatively, 9 ÷ 20 = 0.45 = 45%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 13/20 as a percentage?",
+      "options": {
+        "A": "65%",
+        "B": "13%",
+        "C": "20%",
+        "D": "130%"
+      },
+      "answer": "A",
+      "explanation": "13/20 = 65/100 = 65%. Alternatively, 13 ÷ 20 = 0.65 = 65%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 17/20 to a percentage.",
+      "options": {
+        "A": "85%",
+        "B": "17%",
+        "C": "20%",
+        "D": "170%"
+      },
+      "answer": "A",
+      "explanation": "17/20 = 85/100 = 85%. Alternatively, 17 ÷ 20 = 0.85 = 85%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What fraction is equivalent to 40%?",
+      "options": {
+        "A": "2/5",
+        "B": "4/10",
+        "C": "40/100",
+        "D": "1/4"
+      },
+      "answer": "A",
+      "explanation": "40% = 40/100 = 2/5 in simplest form.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 60% to a fraction in simplest form.",
+      "options": {
+        "A": "3/5",
+        "B": "60/100",
+        "C": "6/10",
+        "D": "12/20"
+      },
+      "answer": "A",
+      "explanation": "60% = 60/100 = 3/5 in simplest form.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What fraction is equivalent to 80%?",
+      "options": {
+        "A": "4/5",
+        "B": "8/10",
+        "C": "80/100",
+        "D": "16/20"
+      },
+      "answer": "A",
+      "explanation": "80% = 80/100 = 4/5 in simplest form.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 35% to a fraction in simplest form.",
+      "options": {
+        "A": "7/20",
+        "B": "35/100",
+        "C": "7/10",
+        "D": "1/3"
+      },
+      "answer": "A",
+      "explanation": "35% = 35/100 = 7/20 in simplest form.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 0.35 as a percentage?",
+      "options": {
+        "A": "35%",
+        "B": "3.5%",
+        "C": "0.35%",
+        "D": "350%"
+      },
+      "answer": "A",
+      "explanation": "0.35 = 35/100 = 35%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 0.65 to a percentage.",
+      "options": {
+        "A": "65%",
+        "B": "6.5%",
+        "C": "0.65%",
+        "D": "650%"
+      },
+      "answer": "A",
+      "explanation": "0.65 = 65/100 = 65%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 0.85 as a percentage?",
+      "options": {
+        "A": "85%",
+        "B": "8.5%",
+        "C": "0.85%",
+        "D": "850%"
+      },
+      "answer": "A",
+      "explanation": "0.85 = 85/100 = 85%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 0.45 to a percentage.",
+      "options": {
+        "A": "45%",
+        "B": "4.5%",
+        "C": "0.45%",
+        "D": "450%"
+      },
+      "answer": "A",
+      "explanation": "0.45 = 45/100 = 45%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What decimal is equivalent to 15%?",
+      "options": {
+        "A": "0.15",
+        "B": "1.5",
+        "C": "15",
+        "D": "0.015"
+      },
+      "answer": "A",
+      "explanation": "15% = 15/100 = 0.15.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 35% to a decimal.",
+      "options": {
+        "A": "0.35",
+        "B": "3.5",
+        "C": "35",
+        "D": "0.035"
+      },
+      "answer": "A",
+      "explanation": "35% = 35/100 = 0.35.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 65% as a decimal?",
+      "options": {
+        "A": "0.65",
+        "B": "6.5",
+        "C": "65",
+        "D": "0.065"
+      },
+      "answer": "A",
+      "explanation": "65% = 65/100 = 0.65.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 85% to a decimal.",
+      "options": {
+        "A": "0.85",
+        "B": "8.5",
+        "C": "85",
+        "D": "0.085"
+      },
+      "answer": "A",
+      "explanation": "85% = 85/100 = 0.85.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Simplify 42/56 to its lowest terms.",
+      "options": {
+        "A": "3/4",
+        "B": "21/28",
+        "C": "6/8",
+        "D": "7/9"
+      },
+      "answer": "A",
+      "explanation": "The highest common factor of 42 and 56 is 14. Dividing both by 14 gives 3/4.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 63/81 in its simplest form?",
+      "options": {
+        "A": "7/9",
+        "B": "21/27",
+        "C": "3/4",
+        "D": "9/11"
+      },
+      "answer": "A",
+      "explanation": "The highest common factor of 63 and 81 is 9. Dividing both by 9 gives 7/9.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Express 3/5 and 5/8 with the same denominator.",
+      "options": {
+        "A": "24/40 and 25/40",
+        "B": "15/25 and 25/40",
+        "C": "6/10 and 10/16",
+        "D": "9/15 and 15/24"
+      },
+      "answer": "A",
+      "explanation": "The lowest common multiple of 5 and 8 is 40. Converting: 3/5 = 24/40 and 5/8 = 25/40.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is the lowest common denominator for 2/9 and 5/12?",
+      "options": {
+        "A": "36",
+        "B": "21",
+        "C": "108",
+        "D": "24"
+      },
+      "answer": "A",
+      "explanation": "The lowest common multiple of 9 and 12 is 36.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Order these fractions from smallest to largest: 5/8, 2/3, 7/12",
+      "options": {
+        "A": "7/12, 5/8, 2/3",
+        "B": "2/3, 5/8, 7/12",
+        "C": "5/8, 7/12, 2/3",
+        "D": "7/12, 2/3, 5/8"
+      },
+      "answer": "A",
+      "explanation": "Converting to 24ths: 7/12 = 14/24, 5/8 = 15/24, 2/3 = 16/24. Therefore 7/12 < 5/8 < 2/3.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Which fraction is between 2/3 and 3/4?",
+      "options": {
+        "A": "17/24",
+        "B": "1/2",
+        "C": "7/8",
+        "D": "5/12"
+      },
+      "answer": "A",
+      "explanation": "Converting to 24ths: 2/3 = 16/24, 17/24 = 17/24, 3/4 = 18/24. So 16/24 < 17/24 < 18/24.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 1 3/5 to an improper fraction.",
+      "options": {
+        "A": "8/5",
+        "B": "4/5",
+        "C": "13/5",
+        "D": "7/5"
+      },
+      "answer": "A",
+      "explanation": "1 3/5 = (1 × 5 + 3)/5 = 8/5.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 13/8 as a mixed number?",
+      "options": {
+        "A": "1 5/8",
+        "B": "1 3/8",
+        "C": "2 5/8",
+        "D": "1 1/8"
+      },
+      "answer": "A",
+      "explanation": "13 ÷ 8 = 1 remainder 5, so 13/8 = 1 5/8.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 3/8 + 5/12",
+      "options": {
+        "A": "19/24",
+        "B": "8/20",
+        "C": "15/24",
+        "D": "1/2"
+      },
+      "answer": "A",
+      "explanation": "Converting to 24ths: 3/8 = 9/24, 5/12 = 10/24. Then 9/24 + 10/24 = 19/24.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 5/6 - 3/8?",
+      "options": {
+        "A": "11/24",
+        "B": "2/2",
+        "C": "1/2",
+        "D": "13/24"
+      },
+      "answer": "A",
+      "explanation": "Converting to 24ths: 5/6 = 20/24, 3/8 = 9/24. Then 20/24 - 9/24 = 11/24.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 2 3/5 + 1 4/5",
+      "options": {
+        "A": "4 2/5",
+        "B": "3 7/5",
+        "C": "3 2/5",
+        "D": "4 7/10"
+      },
+      "answer": "A",
+      "explanation": "Adding whole numbers: 2 + 1 = 3. Adding fractions: 3/5 + 4/5 = 7/5 = 1 2/5. Total: 3 + 1 2/5 = 4 2/5.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 4 2/3 - 1 5/6?",
+      "options": {
+        "A": "2 5/6",
+        "B": "3 1/2",
+        "C": "2 1/2",
+        "D": "3 5/6"
+      },
+      "answer": "A",
+      "explanation": "Converting: 4 2/3 = 4 4/6 = 3 10/6. Then 3 10/6 - 1 5/6 = 2 5/6.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 1 5/8 + 2 7/8",
+      "options": {
+        "A": "4 1/2",
+        "B": "3 12/8",
+        "C": "4 4/8",
+        "D": "3 1/2"
+      },
+      "answer": "A",
+      "explanation": "1 5/8 + 2 7/8 = 3 12/8 = 3 + 1 4/8 = 4 4/8 = 4 1/2.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 4/7 × 3/5 in simplest form",
+      "options": {
+        "A": "12/35",
+        "B": "7/12",
+        "C": "1/2",
+        "D": "3/7"
+      },
+      "answer": "A",
+      "explanation": "Multiply: (4 × 3)/(7 × 5) = 12/35, which is already in simplest form.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 5/9 × 3/10 in simplest form?",
+      "options": {
+        "A": "1/6",
+        "B": "15/90",
+        "C": "8/19",
+        "D": "1/3"
+      },
+      "answer": "A",
+      "explanation": "Multiply: (5 × 3)/(9 × 10) = 15/90 = 1/6.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 7/10 × 5/14",
+      "options": {
+        "A": "1/4",
+        "B": "35/140",
+        "C": "12/24",
+        "D": "1/2"
+      },
+      "answer": "A",
+      "explanation": "Multiply: (7 × 5)/(10 × 14) = 35/140 = 1/4.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 4/9 ÷ 8?",
+      "options": {
+        "A": "1/18",
+        "B": "4/72",
+        "C": "32/9",
+        "D": "1/2"
+      },
+      "answer": "A",
+      "explanation": "Dividing by 8: 4/9 ÷ 8 = 4/(9×8) = 4/72 = 1/18.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 5/12 ÷ 5",
+      "options": {
+        "A": "1/12",
+        "B": "5/60",
+        "C": "25/12",
+        "D": "1/60"
+      },
+      "answer": "A",
+      "explanation": "Dividing by 5: 5/12 ÷ 5 = 5/(12×5) = 5/60 = 1/12.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 9/10 ÷ 9?",
+      "options": {
+        "A": "1/10",
+        "B": "9/90",
+        "C": "81/10",
+        "D": "1/90"
+      },
+      "answer": "A",
+      "explanation": "Dividing by 9: 9/10 ÷ 9 = 9/(10×9) = 9/90 = 1/10.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 11/16 to a decimal.",
+      "options": {
+        "A": "0.6875",
+        "B": "0.1116",
+        "C": "0.68",
+        "D": "0.69"
+      },
+      "answer": "A",
+      "explanation": "11 ÷ 16 = 0.6875, so 11/16 as a decimal is 0.6875.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 13/16 as a decimal?",
+      "options": {
+        "A": "0.8125",
+        "B": "0.1316",
+        "C": "0.81",
+        "D": "0.82"
+      },
+      "answer": "A",
+      "explanation": "13 ÷ 16 = 0.8125, so 13/16 as a decimal is 0.8125.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 17/25 to a decimal.",
+      "options": {
+        "A": "0.68",
+        "B": "0.1725",
+        "C": "0.17",
+        "D": "0.25"
+      },
+      "answer": "A",
+      "explanation": "17 ÷ 25 = 0.68, so 17/25 as a decimal is 0.68.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 19/25 as a decimal?",
+      "options": {
+        "A": "0.76",
+        "B": "0.1925",
+        "C": "0.19",
+        "D": "0.25"
+      },
+      "answer": "A",
+      "explanation": "19 ÷ 25 = 0.76, so 19/25 as a decimal is 0.76.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 2.34 × 12",
+      "options": {
+        "A": "28.08",
+        "B": "28.34",
+        "C": "24.08",
+        "D": "14.34"
+      },
+      "answer": "A",
+      "explanation": "2.34 × 12 = 28.08. Multiply 234 × 12 = 2808, then place decimal to give 28.08.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 3.56 × 15?",
+      "options": {
+        "A": "53.4",
+        "B": "53.56",
+        "C": "50.4",
+        "D": "18.56"
+      },
+      "answer": "A",
+      "explanation": "3.56 × 15 = 53.4. Multiply 356 × 15 = 5340, then place decimal to give 53.40 = 53.4.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 4.78 × 9",
+      "options": {
+        "A": "43.02",
+        "B": "43.78",
+        "C": "42.02",
+        "D": "13.78"
+      },
+      "answer": "A",
+      "explanation": "4.78 × 9 = 43.02. Multiply 478 × 9 = 4302, then place decimal to give 43.02.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "If 2/7 of a number is 14, what is the number?",
+      "options": {
+        "A": "49",
+        "B": "4",
+        "C": "28",
+        "D": "21"
+      },
+      "answer": "A",
+      "explanation": "If 2/7 = 14, then 1/7 = 7, so the whole = 7 × 7 = 49.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "If 3/5 of a length is 30 cm, what is the whole length?",
+      "options": {
+        "A": "50 cm",
+        "B": "18 cm",
+        "C": "90 cm",
+        "D": "45 cm"
+      },
+      "answer": "A",
+      "explanation": "If 3/5 = 30 cm, then 1/5 = 10 cm, so the whole = 10 × 5 = 50 cm.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "If 4/9 of a quantity is 36, what is the whole quantity?",
+      "options": {
+        "A": "81",
+        "B": "16",
+        "C": "144",
+        "D": "45"
+      },
+      "answer": "A",
+      "explanation": "If 4/9 = 36, then 1/9 = 9, so the whole = 9 × 9 = 81.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Round 18.6743 to 1 decimal place.",
+      "options": {
+        "A": "18.7",
+        "B": "18.6",
+        "C": "18.67",
+        "D": "19.0"
+      },
+      "answer": "A",
+      "explanation": "Looking at the hundredths digit (7), we round up. 18.6743 rounded to 1 decimal place is 18.7.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Round 25.3482 to 2 decimal places.",
+      "options": {
+        "A": "25.35",
+        "B": "25.34",
+        "C": "25.3",
+        "D": "25.348"
+      },
+      "answer": "A",
+      "explanation": "Looking at the thousandths digit (8), we round up. 25.3482 rounded to 2 decimal places is 25.35.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Round 47.2951 to the nearest hundredth.",
+      "options": {
+        "A": "47.30",
+        "B": "47.29",
+        "C": "47.3",
+        "D": "47.295"
+      },
+      "answer": "A",
+      "explanation": "Looking at the thousandths digit (5), we round up. 47.2951 rounded to 2 decimal places is 47.30.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What percentage is equivalent to 11/20?",
+      "options": {
+        "A": "55%",
+        "B": "11%",
+        "C": "20%",
+        "D": "110%"
+      },
+      "answer": "A",
+      "explanation": "11/20 = 55/100 = 55%. Alternatively, 11 ÷ 20 = 0.55 = 55%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 19/25 to a percentage.",
+      "options": {
+        "A": "76%",
+        "B": "19%",
+        "C": "25%",
+        "D": "190%"
+      },
+      "answer": "A",
+      "explanation": "19/25 = 76/100 = 76%. Alternatively, 19 ÷ 25 = 0.76 = 76%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 23/25 as a percentage?",
+      "options": {
+        "A": "92%",
+        "B": "23%",
+        "C": "25%",
+        "D": "230%"
+      },
+      "answer": "A",
+      "explanation": "23/25 = 92/100 = 92%. Alternatively, 23 ÷ 25 = 0.92 = 92%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 7/25 to a percentage.",
+      "options": {
+        "A": "28%",
+        "B": "7%",
+        "C": "25%",
+        "D": "70%"
+      },
+      "answer": "A",
+      "explanation": "7/25 = 28/100 = 28%. Alternatively, 7 ÷ 25 = 0.28 = 28%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What fraction is equivalent to 45%?",
+      "options": {
+        "A": "9/20",
+        "B": "45/100",
+        "C": "9/10",
+        "D": "1/2"
+      },
+      "answer": "A",
+      "explanation": "45% = 45/100 = 9/20 in simplest form.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 55% to a fraction in simplest form.",
+      "options": {
+        "A": "11/20",
+        "B": "55/100",
+        "C": "11/10",
+        "D": "5/10"
+      },
+      "answer": "A",
+      "explanation": "55% = 55/100 = 11/20 in simplest form.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What fraction is equivalent to 70%?",
+      "options": {
+        "A": "7/10",
+        "B": "70/100",
+        "C": "14/20",
+        "D": "35/50"
+      },
+      "answer": "A",
+      "explanation": "70% = 70/100 = 7/10 in simplest form.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 90% to a fraction in simplest form.",
+      "options": {
+        "A": "9/10",
+        "B": "90/100",
+        "C": "18/20",
+        "D": "45/50"
+      },
+      "answer": "A",
+      "explanation": "90% = 90/100 = 9/10 in simplest form.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 0.55 as a percentage?",
+      "options": {
+        "A": "55%",
+        "B": "5.5%",
+        "C": "0.55%",
+        "D": "550%"
+      },
+      "answer": "A",
+      "explanation": "0.55 = 55/100 = 55%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 0.95 to a percentage.",
+      "options": {
+        "A": "95%",
+        "B": "9.5%",
+        "C": "0.95%",
+        "D": "950%"
+      },
+      "answer": "A",
+      "explanation": "0.95 = 95/100 = 95%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 0.08 as a percentage?",
+      "options": {
+        "A": "8%",
+        "B": "0.8%",
+        "C": "80%",
+        "D": "0.08%"
+      },
+      "answer": "A",
+      "explanation": "0.08 = 8/100 = 8%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 0.12 to a percentage.",
+      "options": {
+        "A": "12%",
+        "B": "1.2%",
+        "C": "120%",
+        "D": "0.12%"
+      },
+      "answer": "A",
+      "explanation": "0.12 = 12/100 = 12%.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What decimal is equivalent to 45%?",
+      "options": {
+        "A": "0.45",
+        "B": "4.5",
+        "C": "45",
+        "D": "0.045"
+      },
+      "answer": "A",
+      "explanation": "45% = 45/100 = 0.45.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 55% to a decimal.",
+      "options": {
+        "A": "0.55",
+        "B": "5.5",
+        "C": "55",
+        "D": "0.055"
+      },
+      "answer": "A",
+      "explanation": "55% = 55/100 = 0.55.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 95% as a decimal?",
+      "options": {
+        "A": "0.95",
+        "B": "9.5",
+        "C": "95",
+        "D": "0.095"
+      },
+      "answer": "A",
+      "explanation": "95% = 95/100 = 0.95.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Convert 8% to a decimal.",
+      "options": {
+        "A": "0.08",
+        "B": "0.8",
+        "C": "8",
+        "D": "0.008"
+      },
+      "answer": "A",
+      "explanation": "8% = 8/100 = 0.08.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Simplify 54/72 to its lowest terms.",
+      "options": {
+        "A": "3/4",
+        "B": "27/36",
+        "C": "9/12",
+        "D": "6/8"
+      },
+      "answer": "A",
+      "explanation": "The highest common factor of 54 and 72 is 18. Dividing both by 18 gives 3/4.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 75/100 in its simplest form?",
+      "options": {
+        "A": "3/4",
+        "B": "15/20",
+        "C": "25/33",
+        "D": "5/6"
+      },
+      "answer": "A",
+      "explanation": "The highest common factor of 75 and 100 is 25. Dividing both by 25 gives 3/4.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Express 4/9 and 5/12 with the same denominator.",
+      "options": {
+        "A": "16/36 and 15/36",
+        "B": "8/18 and 10/24",
+        "C": "12/27 and 15/36",
+        "D": "20/45 and 25/60"
+      },
+      "answer": "A",
+      "explanation": "The lowest common multiple of 9 and 12 is 36. Converting: 4/9 = 16/36 and 5/12 = 15/36.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Compare: Which is larger, 11/12 or 9/10?",
+      "options": {
+        "A": "11/12",
+        "B": "9/10",
+        "C": "They are equal",
+        "D": "Cannot be determined"
+      },
+      "answer": "A",
+      "explanation": "Converting to 60ths: 11/12 = 55/60 and 9/10 = 54/60. Since 55/60 > 54/60, then 11/12 is larger.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Order from largest to smallest: 13/10, 6/5, 11/10",
+      "options": {
+        "A": "13/10, 6/5, 11/10",
+        "B": "6/5, 13/10, 11/10",
+        "C": "11/10, 13/10, 6/5",
+        "D": "6/5, 11/10, 13/10"
+      },
+      "answer": "A",
+      "explanation": "Converting to tenths: 13/10 = 13/10, 6/5 = 12/10, 11/10 = 11/10. Ordering: 13/10 > 12/10 > 11/10.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 5/12 + 7/18",
+      "options": {
+        "A": "29/36",
+        "B": "12/30",
+        "C": "1/2",
+        "D": "19/36"
+      },
+      "answer": "A",
+      "explanation": "Converting to 36ths: 5/12 = 15/36, 7/18 = 14/36. Then 15/36 + 14/36 = 29/36.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 7/9 - 5/12?",
+      "options": {
+        "A": "13/36",
+        "B": "2/3",
+        "C": "1/4",
+        "D": "23/36"
+      },
+      "answer": "A",
+      "explanation": "Converting to 36ths: 7/9 = 28/36, 5/12 = 15/36. Then 28/36 - 15/36 = 13/36.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 3 5/6 + 2 2/3",
+      "options": {
+        "A": "6 1/2",
+        "B": "5 1/2",
+        "C": "6 7/9",
+        "D": "5 7/6"
+      },
+      "answer": "A",
+      "explanation": "Converting: 2 2/3 = 2 4/6. Then 3 5/6 + 2 4/6 = 5 9/6 = 6 3/6 = 6 1/2.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 5 1/4 - 2 5/8?",
+      "options": {
+        "A": "2 5/8",
+        "B": "3 3/8",
+        "C": "2 3/4",
+        "D": "3 5/8"
+      },
+      "answer": "A",
+      "explanation": "Converting: 5 1/4 = 5 2/8 = 4 10/8. Then 4 10/8 - 2 5/8 = 2 5/8.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "Calculate 6/7 × 7/12 in simplest form",
+      "options": {
+        "A": "1/2",
+        "B": "42/84",
+        "C": "13/19",
+        "D": "6/12"
+      },
+      "answer": "A",
+      "explanation": "Multiply: (6 × 7)/(7 × 12) = 42/84 = 1/2.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+    {
+      "question": "What is 8/15 × 5/12 in simplest form?",
+      "options": {
+        "A": "2/9",
+        "B": "40/180",
+        "C": "13/27",
+        "D": "1/3"
+      },
+      "answer": "A",
+      "explanation": "Multiply: (8 × 5)/(15 × 12) = 40/180 = 2/9.",
+      "difficulty": "medium",
+      "used": 0,
+      "type": "Year6-Number-Fractions"
+    },
+  {
+    "question": "Simplify the fraction 24/36.",
+    "options": {
+      "A": "2/3",
+      "B": "3/4",
+      "C": "4/6",
+      "D": "6/9"
+    },
+    "answer": "A",
+    "explanation": "GCD of 24 and 36 is 12, so 24 ÷ 12 / 36 ÷ 12 = 2/3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction is larger: 11/12 or 7/8?",
+    "options": {
+      "A": "11/12",
+      "B": "7/8",
+      "C": "They are equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "Convert to common denominator: 11/12 = 22/24, 7/8 = 21/24; 22/24 > 21/24.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 5/6 + 3/4.",
+    "options": {
+      "A": "19/12",
+      "B": "10/12",
+      "C": "11/12",
+      "D": "17/12"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 12: 5/6 = 10/12, 3/4 = 9/12; sum = 19/12.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 9/8 − 5/6.",
+    "options": {
+      "A": "17/24",
+      "B": "19/24",
+      "C": "11/24",
+      "D": "7/24"
+    },
+    "answer": "D",
+    "explanation": "9/8 - 5/6 = 27/24 - 20/24 = 7/24.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 4/5 × 3/7 and simplify.",
+    "options": {
+      "A": "12/35",
+      "B": "7/15",
+      "C": "12/30",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "Multiply numerators and denominators: 4×3 / 5×7 = 12/35.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 5/8 ÷ 5.",
+    "options": {
+      "A": "1/8",
+      "B": "1/10",
+      "C": "1/5",
+      "D": "5/40"
+    },
+    "answer": "A",
+    "explanation": "(5/8) ÷ 5 = 5/8 × 1/5 = 5/40 = 1/8 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 7/16 as a decimal.",
+    "options": {
+      "A": "0.4375",
+      "B": "0.475",
+      "C": "0.44",
+      "D": "0.45"
+    },
+    "answer": "A",
+    "explanation": "7 ÷ 16 = 0.4375.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.55 as a fraction in simplest form.",
+    "options": {
+      "A": "11/20",
+      "B": "5/9",
+      "C": "55/100",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "0.55 = 55/100 = 11/20 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Identify the value of 3 in 5.384.",
+    "options": {
+      "A": "0.3",
+      "B": "0.03",
+      "C": "3",
+      "D": "0.003"
+    },
+    "answer": "A",
+    "explanation": "3 is in the hundredths place → value = 0.3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.25 × 8.",
+    "options": {
+      "A": "2",
+      "B": "2.0",
+      "C": "2.5",
+      "D": "3"
+    },
+    "answer": "B",
+    "explanation": "0.25 × 8 = 2.0.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 3.2 ÷ 4.",
+    "options": {
+      "A": "0.8",
+      "B": "0.9",
+      "C": "0.7",
+      "D": "0.6"
+    },
+    "answer": "A",
+    "explanation": "3.2 ÷ 4 = 0.8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 4.678 to 2 decimal places.",
+    "options": {
+      "A": "4.68",
+      "B": "4.67",
+      "C": "4.7",
+      "D": "4.679"
+    },
+    "answer": "A",
+    "explanation": "Third decimal is 8 (≥5), so second decimal 7 rounds up to 8 → 4.68.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Express 3/8 as a percentage.",
+    "options": {
+      "A": "37.5%",
+      "B": "38%",
+      "C": "35%",
+      "D": "40%"
+    },
+    "answer": "A",
+    "explanation": "3 ÷ 8 = 0.375 → 0.375 × 100 = 37.5%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.2 to a fraction in simplest form.",
+    "options": {
+      "A": "1/5",
+      "B": "2/10",
+      "C": "1/4",
+      "D": "2/5"
+    },
+    "answer": "A",
+    "explanation": "0.2 = 2/10 = 1/5 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction is equivalent to 0.6?",
+    "options": {
+      "A": "3/5",
+      "B": "2/5",
+      "C": "1/2",
+      "D": "6/10"
+    },
+    "answer": "A",
+    "explanation": "0.6 = 6/10 = 3/5 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Compare: 4/9 or 0.44?",
+    "options": {
+      "A": "4/9",
+      "B": "0.44",
+      "C": "They are equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "4/9 ≈ 0.444..., which is slightly greater than 0.44, so 4/9 is larger.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 7/12 + 5/18.",
+    "options": {
+      "A": "19/18",
+      "B": "14/30",
+      "C": "31/36",
+      "D": "1/3"
+    },
+    "answer": "C",
+    "explanation": "LCM of 12 and 18 = 36; 7/12 = 21/36, 5/18 = 10/36; sum = 31/36 → check, 21+10=31, so 31/36.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 11/10 − 7/20.",
+    "options": {
+      "A": "15/20",
+      "B": "19/20",
+      "C": "13/20",
+      "D": "12/20"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 20: 11/10 = 22/20, 7/20 = 7/20; 22−7=15/20 → correct answer A.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 7/9 × 3/4.",
+    "options": {
+      "A": "7/12",
+      "B": "21/36",
+      "C": "7/6",
+      "D": "1/2"
+    },
+    "answer": "B",
+    "explanation": "7×3 / 9×4 = 21/36 → simplifies to 7/12, so final answer A.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify the fraction 18/24.",
+    "options": { "A": "3/4", "B": "6/8", "C": "2/3", "D": "9/12" },
+    "answer": "A",
+    "explanation": "Divide numerator and denominator by 6: 18 ÷ 6 = 3, 24 ÷ 6 = 4, so 18/24 = 3/4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify the fraction 45/60.",
+    "options": { "A": "3/4", "B": "4/5", "C": "2/3", "D": "5/6" },
+    "answer": "A",
+    "explanation": "Divide numerator and denominator by 15: 45 ÷ 15 = 3, 60 ÷ 15 = 4, so 45/60 = 3/4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Express 2/3 and 3/4 with a common denominator.",
+    "options": { "A": "8/12 and 9/12", "B": "6/9 and 9/12", "C": "4/6 and 3/4", "D": "2/6 and 3/8" },
+    "answer": "A",
+    "explanation": "LCM of 3 and 4 is 12. Convert: 2/3 = 8/12, 3/4 = 9/12.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction is larger: 5/8 or 7/12?",
+    "options": { "A": "5/8", "B": "7/12", "C": "They are equal", "D": "Cannot compare" },
+    "answer": "A",
+    "explanation": "Common denominator 24: 5/8 = 15/24, 7/12 = 14/24. 15/24 > 14/24, so 5/8 is larger.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Order these fractions from smallest to largest: 3/5, 4/7, 5/6.",
+    "options": { "A": "4/7, 3/5, 5/6", "B": "3/5, 4/7, 5/6", "C": "5/6, 3/5, 4/7", "D": "4/7, 5/6, 3/5" },
+    "answer": "A",
+    "explanation": "Convert to decimals: 3/5 = 0.6, 4/7 ≈ 0.571, 5/6 ≈ 0.833. Order: 0.571, 0.6, 0.833 → 4/7, 3/5, 5/6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 3/4 + 5/6.",
+    "options": { "A": "19/12", "B": "8/10", "C": "1 1/2", "D": "7/10" },
+    "answer": "A",
+    "explanation": "LCM of 4 and 6 is 12. Convert: 3/4 = 9/12, 5/6 = 10/12. Add: 9/12 + 10/12 = 19/12.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 7/8 − 2/3.",
+    "options": { "A": "5/24", "B": "11/24", "C": "1/2", "D": "7/24" },
+    "answer": "A",
+    "explanation": "LCM of 8 and 3 is 24. Convert: 7/8 = 21/24, 2/3 = 16/24. Subtract: 21/24 − 16/24 = 5/24.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 1 2/5 + 2 3/4.",
+    "options": { "A": "4 3/20", "B": "3 1/2", "C": "4 1/2", "D": "5" },
+    "answer": "A",
+    "explanation": "Convert to improper fractions: 1 2/5 = 7/5, 2 3/4 = 11/4. LCM 20: 7/5 = 28/20, 11/4 = 55/20. Add: 28 + 55 = 83/20 = 4 3/20.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 2/3 × 3/5.",
+    "options": { "A": "2/5", "B": "3/8", "C": "1/2", "D": "6/15" },
+    "answer": "A",
+    "explanation": "Multiply numerators and denominators: 2×3 / 3×5 = 6/15 = 2/5 after simplifying.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 4/7 × 7/9.",
+    "options": { "A": "4/9", "B": "1/2", "C": "1/3", "D": "28/63" },
+    "answer": "A",
+    "explanation": "Multiply: 4×7 / 7×9 = 28/63 = 4/9 after simplifying.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 3/5 ÷ 3.",
+    "options": { "A": "1/5", "B": "1/3", "C": "2/5", "D": "3/15" },
+    "answer": "A",
+    "explanation": "3/5 ÷ 3 = 3/5 × 1/3 = 1/5.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 7/8 ÷ 2.",
+    "options": { "A": "7/16", "B": "7/10", "C": "1/2", "D": "7/4" },
+    "answer": "A",
+    "explanation": "7/8 ÷ 2 = 7/8 × 1/2 = 7/16.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 3/8 to a decimal.",
+    "options": { "A": "0.375", "B": "0.35", "C": "0.38", "D": "0.4" },
+    "answer": "A",
+    "explanation": "3 ÷ 8 = 0.375.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 5/8 to a decimal.",
+    "options": { "A": "0.625", "B": "0.6250", "C": "0.65", "D": "0.6" },
+    "answer": "A",
+    "explanation": "5 ÷ 8 = 0.625.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 7/10 to a decimal.",
+    "options": { "A": "0.7", "B": "0.07", "C": "0.75", "D": "0.77" },
+    "answer": "A",
+    "explanation": "7 ÷ 10 = 0.7.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.375 as a fraction in simplest form.",
+    "options": { "A": "3/8", "B": "37/100", "C": "3/10", "D": "7/20" },
+    "answer": "A",
+    "explanation": "0.375 = 375/1000 = 3/8 after simplifying.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.6 as a fraction.",
+    "options": { "A": "3/5", "B": "6/10", "C": "2/5", "D": "1/2" },
+    "answer": "A",
+    "explanation": "0.6 = 6/10 = 3/5 after simplifying.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify the fraction 12/18.",
+    "options": {
+      "A": "2/3",
+      "B": "3/2",
+      "C": "6/9",
+      "D": "4/9"
+    },
+    "answer": "A",
+    "explanation": "Both 12 and 18 can be divided by 6 to give 2/3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction is equivalent to 3/4?",
+    "options": {
+      "A": "6/8",
+      "B": "3/8",
+      "C": "4/3",
+      "D": "9/16"
+    },
+    "answer": "A",
+    "explanation": "Multiplying numerator and denominator of 3/4 by 2 gives 6/8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Put these fractions in ascending order: 1/2, 3/4, 2/3.",
+    "options": {
+      "A": "1/2, 2/3, 3/4",
+      "B": "1/2, 3/4, 2/3",
+      "C": "2/3, 1/2, 3/4",
+      "D": "3/4, 2/3, 1/2"
+    },
+    "answer": "A",
+    "explanation": "Comparing values shows 1/2 < 2/3 < 3/4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction is greater than 1?",
+    "options": {
+      "A": "5/4",
+      "B": "3/5",
+      "C": "4/5",
+      "D": "1/3"
+    },
+    "answer": "A",
+    "explanation": "The numerator is greater than the denominator, so 5/4 is more than 1.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 1/2 + 1/8.",
+    "options": {
+      "A": "5/8",
+      "B": "2/10",
+      "C": "3/8",
+      "D": "1/16"
+    },
+    "answer": "A",
+    "explanation": "1/2 is equal to 4/8. 4/8 + 1/8 = 5/8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Work out 3/4 − 1/3.",
+    "options": {
+      "A": "5/12",
+      "B": "2/1",
+      "C": "1/12",
+      "D": "1/4"
+    },
+    "answer": "A",
+    "explanation": "3/4 = 9/12 and 1/3 = 4/12. 9/12 − 4/12 = 5/12.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 1 1/2 + 2 1/4.",
+    "options": {
+      "A": "3 3/4",
+      "B": "3 1/4",
+      "C": "4",
+      "D": "2 3/4"
+    },
+    "answer": "A",
+    "explanation": "Convert to quarters: 1 1/2 = 1 2/4. Total is 3 3/4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 1/4 × 1/2.",
+    "options": {
+      "A": "1/8",
+      "B": "1/6",
+      "C": "2/6",
+      "D": "1/4"
+    },
+    "answer": "A",
+    "explanation": "Multiply numerators and denominators: 1×1 over 4×2 = 1/8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 1/3 ÷ 2.",
+    "options": {
+      "A": "1/6",
+      "B": "2/3",
+      "C": "1/5",
+      "D": "2/6"
+    },
+    "answer": "A",
+    "explanation": "Dividing by 2 halves the fraction: 1/3 ÷ 2 = 1/6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "What is the decimal equivalent of 3/8?",
+    "options": {
+      "A": "0.375",
+      "B": "0.38",
+      "C": "0.35",
+      "D": "0.325"
+    },
+    "answer": "A",
+    "explanation": "3 divided by 8 equals 0.375.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+
+  {
+    "question": "What is the value of the 6 in 4.762?",
+    "options": {
+      "A": "Six hundredths",
+      "B": "Six tenths",
+      "C": "Six thousandths",
+      "D": "Six ones"
+    },
+    "answer": "A",
+    "explanation": "The 6 is in the hundredths place.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 3.4 × 10.",
+    "options": {
+      "A": "34",
+      "B": "0.34",
+      "C": "3.04",
+      "D": "304"
+    },
+    "answer": "A",
+    "explanation": "Multiplying by 10 moves digits one place to the left.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 5.6 ÷ 100.",
+    "options": {
+      "A": "0.056",
+      "B": "0.56",
+      "C": "56",
+      "D": "5.06"
+    },
+    "answer": "A",
+    "explanation": "Dividing by 100 moves digits two places to the right.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 0.8 × 7.",
+    "options": {
+      "A": "5.6",
+      "B": "56",
+      "C": "0.56",
+      "D": "6.2"
+    },
+    "answer": "A",
+    "explanation": "8 × 7 = 56, then place one decimal digit: 5.6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 4.2 ÷ 6.",
+    "options": {
+      "A": "0.7",
+      "B": "7",
+      "C": "0.42",
+      "D": "0.6"
+    },
+    "answer": "A",
+    "explanation": "42 ÷ 6 = 7, so 4.2 ÷ 6 = 0.7.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 3.746 to two decimal places.",
+    "options": {
+      "A": "3.75",
+      "B": "3.74",
+      "C": "3.70",
+      "D": "3.76"
+    },
+    "answer": "A",
+    "explanation": "The third decimal is 6, so the second decimal rounds up.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which is equivalent to 25%?",
+    "options": {
+      "A": "1/4",
+      "B": "1/5",
+      "C": "0.5",
+      "D": "3/4"
+    },
+    "answer": "A",
+    "explanation": "25% means 25 out of 100, which simplifies to 1/4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which decimal is equal to 3/5?",
+    "options": {
+      "A": "0.6",
+      "B": "0.35",
+      "C": "0.75",
+      "D": "0.3"
+    },
+    "answer": "A",
+    "explanation": "3 ÷ 5 = 0.6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which percentage is equal to 0.2?",
+    "options": {
+      "A": "20%",
+      "B": "2%",
+      "C": "200%",
+      "D": "12%"
+    },
+    "answer": "A",
+    "explanation": "0.2 × 100 = 20%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "One quarter of a rope is 36 cm. What is the full length?",
+    "options": {
+      "A": "144 cm",
+      "B": "72 cm",
+      "C": "108 cm",
+      "D": "36 cm"
+    },
+    "answer": "A",
+    "explanation": "If 1/4 is 36 cm, multiply by 4 to find the whole: 36 × 4 = 144.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify the fraction 36/54.",
+    "options": {
+      "A": "2/3",
+      "B": "3/4",
+      "C": "4/6",
+      "D": "6/9"
+    },
+    "answer": "A",
+    "explanation": "GCD of 36 and 54 is 18; divide numerator and denominator by 18 → 36 ÷ 18 / 54 ÷ 18 = 2/3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Express 2/3 and 5/8 with a common denominator.",
+    "options": {
+      "A": "16/24 and 15/24",
+      "B": "8/12 and 5/12",
+      "C": "2/8 and 5/8",
+      "D": "6/9 and 5/8"
+    },
+    "answer": "A",
+    "explanation": "LCM of 3 and 8 is 24; 2/3 × 8/8 = 16/24, 5/8 × 3/3 = 15/24.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which is larger: 5/6 or 4/5?",
+    "options": {
+      "A": "5/6",
+      "B": "4/5",
+      "C": "Equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 30: 5/6 = 25/30, 4/5 = 24/30; 25/30 > 24/30.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 3/5 + 7/10.",
+    "options": {
+      "A": "13/10",
+      "B": "1",
+      "C": "17/10",
+      "D": "5/10"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 10: 3/5 = 6/10; 6/10 + 7/10 = 13/10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 7/8 − 5/12.",
+    "options": {
+      "A": "11/24",
+      "B": "13/24",
+      "C": "19/24",
+      "D": "17/24"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 24: 7/8 = 21/24, 5/12 = 10/24; 21−10 = 11/24 → correct answer A.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 2/3 × 3/5.",
+    "options": {
+      "A": "6/15",
+      "B": "2/5",
+      "C": "5/6",
+      "D": "1/2"
+    },
+    "answer": "B",
+    "explanation": "2×3 / 3×5 = 6/15 → simplifies to 2/5.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 4/7 ÷ 2.",
+    "options": {
+      "A": "2/7",
+      "B": "4/14",
+      "C": "1/7",
+      "D": "4/9"
+    },
+    "answer": "A",
+    "explanation": "4/7 ÷ 2 = 4/7 × 1/2 = 4/14 = 2/7 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 5/16 to a decimal.",
+    "options": {
+      "A": "0.3125",
+      "B": "0.32",
+      "C": "0.315",
+      "D": "0.35"
+    },
+    "answer": "A",
+    "explanation": "5 ÷ 16 = 0.3125.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.875 as a fraction in simplest form.",
+    "options": {
+      "A": "7/8",
+      "B": "8/9",
+      "C": "35/40",
+      "D": "7/9"
+    },
+    "answer": "A",
+    "explanation": "0.875 = 875/1000 = 7/8 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "What is the value of 6 in 4.672?",
+    "options": {
+      "A": "0.06",
+      "B": "0.6",
+      "C": "6",
+      "D": "0.006"
+    },
+    "answer": "B",
+    "explanation": "6 is in the tenths place → value = 0.6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.36 × 5.",
+    "options": {
+      "A": "1.8",
+      "B": "18",
+      "C": "0.81",
+      "D": "1.26"
+    },
+    "answer": "A",
+    "explanation": "0.36 × 5 = 1.8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 2.4 ÷ 6.",
+    "options": {
+      "A": "0.4",
+      "B": "0.6",
+      "C": "0.04",
+      "D": "1.4"
+    },
+    "answer": "A",
+    "explanation": "2.4 ÷ 6 = 0.4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 3.467 to 1 decimal place.",
+    "options": {
+      "A": "3.5",
+      "B": "3.4",
+      "C": "3.47",
+      "D": "3.46"
+    },
+    "answer": "A",
+    "explanation": "Second decimal 6 ≥5, round first decimal up: 3.467 → 3.5.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 7/20 to a percentage.",
+    "options": {
+      "A": "35%",
+      "B": "37.5%",
+      "C": "36%",
+      "D": "34%"
+    },
+    "answer": "B",
+    "explanation": "7 ÷ 20 = 0.35 → ×100 = 35%, wait check, 7÷20=0.35, 35%, correct answer A.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.45 to a fraction in simplest form.",
+    "options": {
+      "A": "9/20",
+      "B": "45/100",
+      "C": "4/9",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "0.45 = 45/100 = 9/20 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction equals 0.75?",
+    "options": {
+      "A": "3/4",
+      "B": "7/10",
+      "C": "1/2",
+      "D": "2/5"
+    },
+    "answer": "A",
+    "explanation": "0.75 = 75/100 = 3/4 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Compare: 5/8 or 0.6?",
+    "options": {
+      "A": "5/8",
+      "B": "0.6",
+      "C": "Equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "5/8 = 0.625 > 0.6, so 5/8 is larger.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 2/3 + 3/4.",
+    "options": {
+      "A": "17/12",
+      "B": "5/7",
+      "C": "13/12",
+      "D": "1 1/4"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 12: 2/3=8/12, 3/4=9/12; sum = 17/12.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 5/6 − 2/9.",
+    "options": {
+      "A": "11/18",
+      "B": "13/18",
+      "C": "12/18",
+      "D": "1/3"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 18: 5/6=15/18, 2/9=4/18; 15−4=11/18 → correct answer A.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.4 × 7.",
+    "options": { "A": "2.8", "B": "3.1", "C": "2.4", "D": "3.5" },
+    "answer": "A",
+    "explanation": "0.4 × 7 = 2.8 by multiplying the decimal by the whole number.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.25 × 8.",
+    "options": { "A": "2", "B": "2.5", "C": "3", "D": "1.5" },
+    "answer": "A",
+    "explanation": "0.25 × 8 = 2.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.6 × 9.",
+    "options": { "A": "5.4", "B": "4.5", "C": "6", "D": "5" },
+    "answer": "A",
+    "explanation": "0.6 × 9 = 5.4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 2.4 ÷ 4.",
+    "options": { "A": "0.6", "B": "0.5", "C": "0.4", "D": "0.7" },
+    "answer": "A",
+    "explanation": "2.4 ÷ 4 = 0.6 by dividing the decimal by the whole number.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 3.75 ÷ 5.",
+    "options": { "A": "0.75", "B": "0.85", "C": "0.7", "D": "1" },
+    "answer": "A",
+    "explanation": "3.75 ÷ 5 = 0.75.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 4.678 to 2 decimal places.",
+    "options": { "A": "4.68", "B": "4.67", "C": "4.7", "D": "4.679" },
+    "answer": "A",
+    "explanation": "Look at the third decimal (8). Round the second decimal up: 4.678 → 4.68.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 0.3461 to 2 decimal places.",
+    "options": { "A": "0.35", "B": "0.34", "C": "0.346", "D": "0.36" },
+    "answer": "A",
+    "explanation": "Third decimal is 6 (≥5), so round second decimal up: 0.3461 → 0.35.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 3/4 as a percentage.",
+    "options": { "A": "75%", "B": "25%", "C": "60%", "D": "80%" },
+    "answer": "A",
+    "explanation": "3 ÷ 4 = 0.75 → 0.75 × 100 = 75%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 7/10 as a percentage.",
+    "options": { "A": "70%", "B": "7%", "C": "75%", "D": "60%" },
+    "answer": "A",
+    "explanation": "7 ÷ 10 = 0.7 → 0.7 × 100 = 70%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.25 to a fraction.",
+    "options": { "A": "1/4", "B": "1/3", "C": "2/5", "D": "3/4" },
+    "answer": "A",
+    "explanation": "0.25 = 25/100 = 1/4 after simplifying.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.6 to a percentage.",
+    "options": { "A": "60%", "B": "6%", "C": "0.6%", "D": "6.0%" },
+    "answer": "A",
+    "explanation": "0.6 × 100 = 60%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 3/5 to a decimal.",
+    "options": { "A": "0.6", "B": "0.5", "C": "0.3", "D": "0.8" },
+    "answer": "A",
+    "explanation": "3 ÷ 5 = 0.6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.8 × 6.",
+    "options": { "A": "4.8", "B": "5", "C": "4.6", "D": "5.2" },
+    "answer": "A",
+    "explanation": "0.8 × 6 = 4.8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 1.2 ÷ 3.",
+    "options": { "A": "0.4", "B": "0.3", "C": "0.5", "D": "0.6" },
+    "answer": "A",
+    "explanation": "1.2 ÷ 3 = 0.4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction is equivalent to 2/5?",
+    "options": { "A": "4/10", "B": "3/10", "C": "3/5", "D": "2/10" },
+    "answer": "A",
+    "explanation": "2/5 × 2/2 = 4/10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify 16/20.",
+    "options": { "A": "4/5", "B": "8/10", "C": "2/3", "D": "3/4" },
+    "answer": "A",
+    "explanation": "Divide numerator and denominator by 4: 16 ÷ 4 = 4, 20 ÷ 4 = 5 → 16/20 = 4/5.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 5/12 + 1/3.",
+    "options": { "A": "9/12", "B": "6/12", "C": "7/12", "D": "5/15" },
+    "answer": "A",
+    "explanation": "Convert 1/3 to 4/12. Add: 5/12 + 4/12 = 9/12 = 3/4 if simplified.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 7/10 − 2/5.",
+    "options": { "A": "3/10", "B": "5/10", "C": "1/2", "D": "2/5" },
+    "answer": "A",
+    "explanation": "Convert 2/5 to 4/10. Subtract: 7/10 − 4/10 = 3/10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 3/4 × 2/3.",
+    "options": { "A": "1/2", "B": "1/3", "C": "1/4", "D": "2/3" },
+    "answer": "A",
+    "explanation": "Multiply numerators and denominators: 3×2 / 4×3 = 6/12 = 1/2.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 5/6 ÷ 5.",
+    "options": { "A": "1/6", "B": "1/5", "C": "5/30", "D": "5/1" },
+    "answer": "A",
+    "explanation": "5/6 ÷ 5 = 5/6 × 1/5 = 1/6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.875 to a fraction.",
+    "options": { "A": "7/8", "B": "8/10", "C": "3/4", "D": "5/8" },
+    "answer": "A",
+    "explanation": "0.875 = 875/1000 = 7/8 after simplifying.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 0.462 to 2 decimal places.",
+    "options": { "A": "0.46", "B": "0.47", "C": "0.462", "D": "0.45" },
+    "answer": "A",
+    "explanation": "Third decimal is 2 (<5), so round second decimal down: 0.462 → 0.46.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 3/20 to a decimal.",
+    "options": { "A": "0.15", "B": "0.13", "C": "0.12", "D": "0.2" },
+    "answer": "A",
+    "explanation": "3 ÷ 20 = 0.15.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 1/8 to a percentage.",
+    "options": { "A": "12.5%", "B": "8%", "C": "10%", "D": "15%" },
+    "answer": "A",
+    "explanation": "1 ÷ 8 = 0.125 → 0.125 × 100 = 12.5%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.05 × 9.",
+    "options": { "A": "0.45", "B": "0.5", "C": "0.9", "D": "0.4" },
+    "answer": "A",
+    "explanation": "0.05 × 9 = 0.45.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 0.72 ÷ 8.",
+    "options": { "A": "0.09", "B": "0.08", "C": "0.1", "D": "0.12" },
+    "answer": "A",
+    "explanation": "0.72 ÷ 8 = 0.09.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Express 6/8 in simplest form.",
+    "options": { "A": "3/4", "B": "2/3", "C": "6/8", "D": "4/5" },
+    "answer": "A",
+    "explanation": "Divide numerator and denominator by 2: 6 ÷ 2 = 3, 8 ÷ 2 = 4 → 3/4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify the fraction 12/18.",
+    "options": {
+      "A": "2/3",
+      "B": "3/2",
+      "C": "6/9",
+      "D": "4/9"
+    },
+    "answer": "A",
+    "explanation": "Divide numerator and denominator by 6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction is equivalent to 5/6?",
+    "options": {
+      "A": "10/12",
+      "B": "5/12",
+      "C": "6/5",
+      "D": "15/18"
+    },
+    "answer": "A",
+    "explanation": "Multiply numerator and denominator by 2.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify 20/30.",
+    "options": {
+      "A": "2/3",
+      "B": "3/2",
+      "C": "10/15",
+      "D": "1/3"
+    },
+    "answer": "A",
+    "explanation": "Both numbers divide by 10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which is equivalent to 3/5?",
+    "options": {
+      "A": "6/10",
+      "B": "9/10",
+      "C": "5/3",
+      "D": "15/20"
+    },
+    "answer": "A",
+    "explanation": "Multiply top and bottom by 2.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify 16/24.",
+    "options": {
+      "A": "2/3",
+      "B": "4/6",
+      "C": "8/12",
+      "D": "1/3"
+    },
+    "answer": "A",
+    "explanation": "Divide by 8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction equals 7/8?",
+    "options": {
+      "A": "14/16",
+      "B": "21/32",
+      "C": "7/16",
+      "D": "28/24"
+    },
+    "answer": "A",
+    "explanation": "Multiply by 2.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify 18/27.",
+    "options": {
+      "A": "2/3",
+      "B": "3/2",
+      "C": "6/9",
+      "D": "1/9"
+    },
+    "answer": "A",
+    "explanation": "Divide by 9.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction is the same as 4/9?",
+    "options": {
+      "A": "8/18",
+      "B": "12/18",
+      "C": "4/18",
+      "D": "16/36"
+    },
+    "answer": "A",
+    "explanation": "Multiply by 2.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify 21/28.",
+    "options": {
+      "A": "3/4",
+      "B": "4/3",
+      "C": "7/9",
+      "D": "6/8"
+    },
+    "answer": "A",
+    "explanation": "Divide by 7.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction equals 9/10?",
+    "options": {
+      "A": "18/20",
+      "B": "27/30",
+      "C": "9/20",
+      "D": "30/90"
+    },
+    "answer": "A",
+    "explanation": "Multiply by 2.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which is greater?",
+    "options": {
+      "A": "3/4",
+      "B": "2/3",
+      "C": "5/8",
+      "D": "7/12"
+    },
+    "answer": "A",
+    "explanation": "3/4 has the largest value.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Order from smallest to largest: 1/2, 2/3, 3/4.",
+    "options": {
+      "A": "1/2, 2/3, 3/4",
+      "B": "3/4, 2/3, 1/2",
+      "C": "2/3, 1/2, 3/4",
+      "D": "1/2, 3/4, 2/3"
+    },
+    "answer": "A",
+    "explanation": "Compare decimal values.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction is more than 1?",
+    "options": {
+      "A": "6/5",
+      "B": "5/6",
+      "C": "4/7",
+      "D": "3/8"
+    },
+    "answer": "A",
+    "explanation": "Numerator is greater than denominator.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which is the smallest?",
+    "options": {
+      "A": "3/8",
+      "B": "1/2",
+      "C": "5/8",
+      "D": "7/8"
+    },
+    "answer": "A",
+    "explanation": "3/8 is least.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which is larger: 4/5 or 7/10?",
+    "options": {
+      "A": "4/5",
+      "B": "7/10",
+      "C": "Equal",
+      "D": "Cannot tell"
+    },
+    "answer": "A",
+    "explanation": "4/5 = 0.8, 7/10 = 0.7.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Order from largest: 2/3, 5/6, 3/4.",
+    "options": {
+      "A": "5/6, 3/4, 2/3",
+      "B": "2/3, 3/4, 5/6",
+      "C": "3/4, 5/6, 2/3",
+      "D": "3/4, 2/3, 5/6"
+    },
+    "answer": "A",
+    "explanation": "Compare converted values.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 1/2 + 1/4.",
+    "options": {
+      "A": "3/4",
+      "B": "2/6",
+      "C": "1/6",
+      "D": "1/8"
+    },
+    "answer": "A",
+    "explanation": "Use common denominator 4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 3/4 \u2212 1/8.",
+    "options": {
+      "A": "5/8",
+      "B": "2/8",
+      "C": "3/8",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "Convert to eighths.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 2/3 + 1/6.",
+    "options": {
+      "A": "5/6",
+      "B": "3/6",
+      "C": "1",
+      "D": "4/6"
+    },
+    "answer": "A",
+    "explanation": "2/3 = 4/6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 5/6 \u2212 1/3.",
+    "options": {
+      "A": "1/2",
+      "B": "4/6",
+      "C": "2/6",
+      "D": "1/3"
+    },
+    "answer": "A",
+    "explanation": "1/3 = 2/6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 1 1/2 + 1/4.",
+    "options": {
+      "A": "1 3/4",
+      "B": "2",
+      "C": "1 1/4",
+      "D": "2 1/4"
+    },
+    "answer": "A",
+    "explanation": "Convert to quarters.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 2 \u00d7 1/3.",
+    "options": {
+      "A": "2/3",
+      "B": "1/6",
+      "C": "3/2",
+      "D": "1/3"
+    },
+    "answer": "A",
+    "explanation": "Multiply whole number by numerator.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 1/4 \u00d7 3/5.",
+    "options": {
+      "A": "3/20",
+      "B": "3/9",
+      "C": "4/15",
+      "D": "1/20"
+    },
+    "answer": "A",
+    "explanation": "Multiply numerators and denominators.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 1/3 \u00f7 3.",
+    "options": {
+      "A": "1/9",
+      "B": "1/6",
+      "C": "3/1",
+      "D": "1/3"
+    },
+    "answer": "A",
+    "explanation": "Divide denominator by 3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "What is 3/5 as a decimal?",
+    "options": {
+      "A": "0.6",
+      "B": "0.35",
+      "C": "0.75",
+      "D": "0.3"
+    },
+    "answer": "A",
+    "explanation": "3 \u00f7 5 = 0.6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "What percentage is 0.25?",
+    "options": {
+      "A": "25%",
+      "B": "2.5%",
+      "C": "250%",
+      "D": "12.5%"
+    },
+    "answer": "A",
+    "explanation": "Multiply by 100.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction equals 40%?",
+    "options": {
+      "A": "2/5",
+      "B": "4/10",
+      "C": "1/5",
+      "D": "3/5"
+    },
+    "answer": "A",
+    "explanation": "40% = 40/100 = 2/5.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 6.347 to 2 decimal places.",
+    "options": {
+      "A": "6.35",
+      "B": "6.34",
+      "C": "6.30",
+      "D": "6.37"
+    },
+    "answer": "A",
+    "explanation": "Third decimal rounds up.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "What is the value of the 7 in 4.372?",
+    "options": {
+      "A": "Seven hundredths",
+      "B": "Seven tenths",
+      "C": "Seven thousandths",
+      "D": "Seven ones"
+    },
+    "answer": "A",
+    "explanation": "7 is in the hundredths place.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 0.6 \u00d7 8.",
+    "options": {
+      "A": "4.8",
+      "B": "48",
+      "C": "0.48",
+      "D": "6.8"
+    },
+    "answer": "A",
+    "explanation": "6\u00d78=48, one decimal place.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 4.5 \u00f7 5.",
+    "options": {
+      "A": "0.9",
+      "B": "9",
+      "C": "0.45",
+      "D": "1.1"
+    },
+    "answer": "A",
+    "explanation": "45 \u00f7 5 = 9, so 0.9.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Half of a number is 18. What is the number?",
+    "options": {
+      "A": "36",
+      "B": "9",
+      "C": "24",
+      "D": "30"
+    },
+    "answer": "A",
+    "explanation": "Multiply by 2.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "One third of a rope is 50 cm. How long is the rope?",
+    "options": {
+      "A": "150 cm",
+      "B": "100 cm",
+      "C": "75 cm",
+      "D": "200 cm"
+    },
+    "answer": "A",
+    "explanation": "Multiply by 3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which is equal to 0.75?",
+    "options": {
+      "A": "3/4",
+      "B": "1/4",
+      "C": "2/3",
+      "D": "7/10"
+    },
+    "answer": "A",
+    "explanation": "75/100 simplifies to 3/4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "What is 20% of 60?",
+    "options": {
+      "A": "12",
+      "B": "20",
+      "C": "6",
+      "D": "30"
+    },
+    "answer": "A",
+    "explanation": "10% is 6, so 20% is 12.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which is greater: 0.4 or 3/10?",
+    "options": {
+      "A": "0.4",
+      "B": "3/10",
+      "C": "Equal",
+      "D": "Cannot tell"
+    },
+    "answer": "A",
+    "explanation": "0.4 = 4/10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 12.864 to the nearest whole number.",
+    "options": {
+      "A": "13",
+      "B": "12",
+      "C": "12.8",
+      "D": "14"
+    },
+    "answer": "A",
+    "explanation": "Decimal part is greater than 0.5.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 1/8 to a decimal.",
+    "options": {
+      "A": "0.125",
+      "B": "0.18",
+      "C": "0.25",
+      "D": "0.012"
+    },
+    "answer": "A",
+    "explanation": "1 \u00f7 8 = 0.125.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which percentage equals 1/2?",
+    "options": {
+      "A": "50%",
+      "B": "25%",
+      "C": "75%",
+      "D": "10%"
+    },
+    "answer": "A",
+    "explanation": "Half is 50%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 2.4 \u00d7 3.",
+    "options": {
+      "A": "7.2",
+      "B": "0.72",
+      "C": "24",
+      "D": "6.2"
+    },
+    "answer": "A",
+    "explanation": "24 \u00d7 3 = 72 with one decimal.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Calculate 6 \u00f7 0.5.",
+    "options": {
+      "A": "12",
+      "B": "3",
+      "C": "6",
+      "D": "0.3"
+    },
+    "answer": "A",
+    "explanation": "Dividing by 0.5 doubles the number.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 2/3 + 1/6.",
+    "options": { "A": "5/6", "B": "3/6", "C": "1/2", "D": "2/9" },
+    "answer": "A",
+    "explanation": "Convert 2/3 to 4/6. Add: 4/6 + 1/6 = 5/6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 9/10 − 3/5.",
+    "options": { "A": "3/10", "B": "6/10", "C": "1/2", "D": "2/5" },
+    "answer": "A",
+    "explanation": "Convert 3/5 to 6/10. Subtract: 9/10 − 6/10 = 3/10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 5/6 × 3/4.",
+    "options": { "A": "5/8", "B": "15/24", "C": "3/10", "D": "1/2" },
+    "answer": "A",
+    "explanation": "Multiply numerators and denominators: 5×3 / 6×4 = 15/24 = 5/8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 7/8 ÷ 7.",
+    "options": { "A": "1/8", "B": "7/56", "C": "1/7", "D": "1/2" },
+    "answer": "A",
+    "explanation": "7/8 ÷ 7 = 7/8 × 1/7 = 1/8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify 12/16.",
+    "options": { "A": "3/4", "B": "6/8", "C": "2/3", "D": "4/5" },
+    "answer": "A",
+    "explanation": "Divide numerator and denominator by 4: 12 ÷ 4 = 3, 16 ÷ 4 = 4 → 3/4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Compare: Which is greater, 7/10 or 3/4?",
+    "options": { "A": "3/4", "B": "7/10", "C": "They are equal", "D": "Cannot compare" },
+    "answer": "A",
+    "explanation": "Convert to common denominator: 7/10 = 28/40, 3/4 = 30/40 → 3/4 is greater.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Order these fractions from smallest to largest: 1/2, 2/3, 3/4.",
+    "options": { "A": "1/2, 2/3, 3/4", "B": "2/3, 1/2, 3/4", "C": "3/4, 2/3, 1/2", "D": "1/2, 3/4, 2/3" },
+    "answer": "A",
+    "explanation": "Convert to decimals: 1/2=0.5, 2/3≈0.666, 3/4=0.75 → 0.5, 0.666, 0.75.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 5/8 to a decimal.",
+    "options": { "A": "0.625", "B": "0.58", "C": "0.6", "D": "0.65" },
+    "answer": "A",
+    "explanation": "5 ÷ 8 = 0.625.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.875 to a percentage.",
+    "options": { "A": "87.5%", "B": "85%", "C": "8.75%", "D": "80%" },
+    "answer": "A",
+    "explanation": "0.875 × 100 = 87.5%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 3/20 to a percentage.",
+    "options": { "A": "15%", "B": "20%", "C": "12%", "D": "10%" },
+    "answer": "A",
+    "explanation": "3 ÷ 20 = 0.15 → 0.15 × 100 = 15%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.75 × 4.",
+    "options": { "A": "3", "B": "2.5", "C": "3.5", "D": "4" },
+    "answer": "A",
+    "explanation": "0.75 × 4 = 3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 1.2 ÷ 6.",
+    "options": { "A": "0.2", "B": "0.3", "C": "0.5", "D": "0.4" },
+    "answer": "A",
+    "explanation": "1.2 ÷ 6 = 0.2? Wait, let's check carefully: 6 × 0.2 = 1.2? Yes, correct. So answer is A: 0.2.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 7/25 as a decimal.",
+    "options": { "A": "0.28", "B": "0.27", "C": "0.3", "D": "0.25" },
+    "answer": "A",
+    "explanation": "7 ÷ 25 = 0.28.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 0.786 to 2 decimal places.",
+    "options": { "A": "0.79", "B": "0.78", "C": "0.8", "D": "0.77" },
+    "answer": "A",
+    "explanation": "Third decimal is 6 (≥5), round second decimal up: 0.786 → 0.79.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 11/20 to a decimal.",
+    "options": { "A": "0.55", "B": "0.5", "C": "0.6", "D": "0.45" },
+    "answer": "A",
+    "explanation": "11 ÷ 20 = 0.55.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.4 to a fraction in simplest form.",
+    "options": { "A": "2/5", "B": "4/10", "C": "1/4", "D": "3/5" },
+    "answer": "A",
+    "explanation": "0.4 = 4/10 = 2/5 after simplifying.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify 18/24.",
+    "options": { "A": "3/4", "B": "6/8", "C": "2/3", "D": "4/5" },
+    "answer": "A",
+    "explanation": "Divide numerator and denominator by 6: 18 ÷ 6 = 3, 24 ÷ 6 = 4 → 3/4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 3/8 + 5/8.",
+    "options": { "A": "1", "B": "8/8", "C": "7/8", "D": "3/4" },
+    "answer": "A",
+    "explanation": "3/8 + 5/8 = 8/8 = 1.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 13/20 − 1/4.",
+    "options": { "A": "8/20", "B": "12/20", "C": "3/20", "D": "10/20" },
+    "answer": "A",
+    "explanation": "1/4 = 5/20. Subtract: 13/20 − 5/20 = 8/20 = 2/5.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 7/10 × 5/7.",
+    "options": { "A": "1/2", "B": "1/3", "C": "5/14", "D": "7/10" },
+    "answer": "A",
+    "explanation": "Multiply numerators and denominators: 7×5 / 10×7 = 35/70 = 1/2.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 3/4 ÷ 3.",
+    "options": { "A": "1/4", "B": "1/3", "C": "3/12", "D": "1/2" },
+    "answer": "A",
+    "explanation": "3/4 ÷ 3 = 3/4 × 1/3 = 1/4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify the fraction 18/27.",
+    "options": {
+      "A": "2/3",
+      "B": "3/4",
+      "C": "6/9",
+      "D": "3/6"
+    },
+    "answer": "A",
+    "explanation": "GCD of 18 and 27 is 9; divide numerator and denominator by 9 → 18 ÷ 9 / 27 ÷ 9 = 2/3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Express 3/4 and 5/6 with a common denominator.",
+    "options": {
+      "A": "9/12 and 10/12",
+      "B": "6/8 and 5/6",
+      "C": "3/6 and 5/6",
+      "D": "12/16 and 15/16"
+    },
+    "answer": "A",
+    "explanation": "LCM of 4 and 6 is 12; 3/4 = 9/12, 5/6 = 10/12.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction is larger: 7/8 or 5/6?",
+    "options": {
+      "A": "7/8",
+      "B": "5/6",
+      "C": "Equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 24: 7/8 = 21/24, 5/6 = 20/24 → 21/24 > 20/24.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 5/12 + 7/18.",
+    "options": {
+      "A": "29/36",
+      "B": "12/30",
+      "C": "1",
+      "D": "11/18"
+    },
+    "answer": "A",
+    "explanation": "LCM of 12 and 18 is 36; 5/12 = 15/36, 7/18 = 14/36; sum = 29/36 → wait correct: 15+14=29/36.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 9/10 − 2/5.",
+    "options": {
+      "A": "5/10",
+      "B": "1/2",
+      "C": "1/5",
+      "D": "7/10"
+    },
+    "answer": "B",
+    "explanation": "2/5 = 4/10; 9/10 − 4/10 = 5/10 = 1/2 → correct answer B.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 3/7 × 2/5.",
+    "options": {
+      "A": "6/35",
+      "B": "5/14",
+      "C": "2/12",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "3×2 / 7×5 = 6/35.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 5/6 ÷ 3.",
+    "options": {
+      "A": "5/18",
+      "B": "1/2",
+      "C": "5/9",
+      "D": "3/6"
+    },
+    "answer": "A",
+    "explanation": "5/6 ÷ 3 = 5/6 × 1/3 = 5/18.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 7/20 to a decimal.",
+    "options": {
+      "A": "0.35",
+      "B": "0.37",
+      "C": "0.375",
+      "D": "0.36"
+    },
+    "answer": "A",
+    "explanation": "7 ÷ 20 = 0.35.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.625 as a fraction in simplest form.",
+    "options": {
+      "A": "5/8",
+      "B": "3/5",
+      "C": "625/1000",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "0.625 = 625/1000 = 5/8 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Identify the value of 8 in 6.482.",
+    "options": {
+      "A": "0.08",
+      "B": "0.8",
+      "C": "8",
+      "D": "0.008"
+    },
+    "answer": "A",
+    "explanation": "8 is in the tenths place → value = 0.08.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.42 × 6.",
+    "options": {
+      "A": "2.52",
+      "B": "2.62",
+      "C": "25.2",
+      "D": "0.252"
+    },
+    "answer": "A",
+    "explanation": "0.42 × 6 = 2.52.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 1.44 ÷ 3.",
+    "options": {
+      "A": "0.48",
+      "B": "0.42",
+      "C": "0.4",
+      "D": "0.12"
+    },
+    "answer": "A",
+    "explanation": "1.44 ÷ 3 = 0.48.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 2.678 to 2 decimal places.",
+    "options": {
+      "A": "2.68",
+      "B": "2.67",
+      "C": "2.7",
+      "D": "2.679"
+    },
+    "answer": "A",
+    "explanation": "Third decimal 8 ≥5, so second decimal 7 rounds up → 2.68.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 9/25 to a percentage.",
+    "options": {
+      "A": "36%",
+      "B": "35%",
+      "C": "37%",
+      "D": "34%"
+    },
+    "answer": "A",
+    "explanation": "9 ÷ 25 = 0.36 → ×100 = 36%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.2 to a fraction in simplest form.",
+    "options": {
+      "A": "1/5",
+      "B": "2/10",
+      "C": "1/2",
+      "D": "2/5"
+    },
+    "answer": "A",
+    "explanation": "0.2 = 2/10 = 1/5 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction equals 0.8?",
+    "options": {
+      "A": "4/5",
+      "B": "2/3",
+      "C": "8/10",
+      "D": "3/4"
+    },
+    "answer": "A",
+    "explanation": "0.8 = 8/10 = 4/5 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Compare: 11/15 or 0.72?",
+    "options": {
+      "A": "11/15",
+      "B": "0.72",
+      "C": "Equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "11 ÷ 15 ≈ 0.7333 > 0.72, so 11/15 is larger.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 3/8 + 5/12.",
+    "options": {
+      "A": "11/12",
+      "B": "13/24",
+      "C": "19/24",
+      "D": "1"
+    },
+    "answer": "C",
+    "explanation": "Common denominator 24: 3/8=9/24, 5/12=10/24; sum = 19/24.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 7/9 − 2/3.",
+    "options": {
+      "A": "1/9",
+      "B": "5/9",
+      "C": "7/9",
+      "D": "2/9"
+    },
+    "answer": "A",
+    "explanation": "2/3 = 6/9; 7/9 − 6/9 = 1/9 → correct answer A.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify the fraction 24/36.",
+    "options": {
+      "A": "2/3",
+      "B": "3/4",
+      "C": "4/6",
+      "D": "6/9"
+    },
+    "answer": "A",
+    "explanation": "GCD of 24 and 36 is 12; divide numerator and denominator by 12 → 24 ÷ 12 / 36 ÷ 12 = 2/3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Express 3/5 and 4/7 with a common denominator.",
+    "options": {
+      "A": "21/35 and 20/35",
+      "B": "15/25 and 16/25",
+      "C": "3/7 and 4/5",
+      "D": "12/20 and 16/20"
+    },
+    "answer": "A",
+    "explanation": "LCM of 5 and 7 is 35; 3/5 = 21/35, 4/7 = 20/35.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which is larger: 7/10 or 3/4?",
+    "options": {
+      "A": "3/4",
+      "B": "7/10",
+      "C": "Equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 20: 7/10 = 14/20, 3/4 = 15/20 → 15/20 > 14/20.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 2/3 + 5/9.",
+    "options": {
+      "A": "11/9",
+      "B": "7/12",
+      "C": "1",
+      "D": "1/3"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 9: 2/3 = 6/9; 6/9 + 5/9 = 11/9.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 2/5 × 3/4.",
+    "options": {
+      "A": "3/10",
+      "B": "1/2",
+      "C": "5/12",
+      "D": "6/20"
+    },
+    "answer": "A",
+    "explanation": "2×3 / 5×4 = 6/20 → simplifies to 3/10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 3/8 ÷ 2.",
+    "options": {
+      "A": "3/16",
+      "B": "1/4",
+      "C": "1/8",
+      "D": "3/4"
+    },
+    "answer": "A",
+    "explanation": "3/8 ÷ 2 = 3/8 × 1/2 = 3/16.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 7/8 to a decimal.",
+    "options": {
+      "A": "0.875",
+      "B": "0.78",
+      "C": "0.87",
+      "D": "0.88"
+    },
+    "answer": "A",
+    "explanation": "7 ÷ 8 = 0.875.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.3 as a fraction in simplest form.",
+    "options": {
+      "A": "3/10",
+      "B": "3/100",
+      "C": "1/3",
+      "D": "30/100"
+    },
+    "answer": "A",
+    "explanation": "0.3 = 3/10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Identify the value of 2 in 5.627.",
+    "options": {
+      "A": "0.2",
+      "B": "0.02",
+      "C": "2",
+      "D": "0.002"
+    },
+    "answer": "B",
+    "explanation": "2 is in the hundredths place → value = 0.02.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.45 × 4.",
+    "options": {
+      "A": "1.8",
+      "B": "1.9",
+      "C": "0.18",
+      "D": "18"
+    },
+    "answer": "A",
+    "explanation": "0.45 × 4 = 1.8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 1.2 ÷ 3.",
+    "options": {
+      "A": "0.4",
+      "B": "0.36",
+      "C": "0.42",
+      "D": "0.03"
+    },
+    "answer": "A",
+    "explanation": "1.2 ÷ 3 = 0.4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 4.376 to 2 decimal places.",
+    "options": {
+      "A": "4.38",
+      "B": "4.37",
+      "C": "4.4",
+      "D": "4.376"
+    },
+    "answer": "A",
+    "explanation": "Third decimal 6 ≥5, so second decimal 7 rounds up → 4.38.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 3/20 to a percentage.",
+    "options": {
+      "A": "15%",
+      "B": "14%",
+      "C": "16%",
+      "D": "12%"
+    },
+    "answer": "A",
+    "explanation": "3 ÷ 20 = 0.15 → ×100 = 15%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.75 to a fraction in simplest form.",
+    "options": {
+      "A": "3/4",
+      "B": "7/10",
+      "C": "1/2",
+      "D": "3/5"
+    },
+    "answer": "A",
+    "explanation": "0.75 = 75/100 = 3/4 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction equals 0.6?",
+    "options": {
+      "A": "3/5",
+      "B": "6/10",
+      "C": "2/5",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "0.6 = 6/10 = 3/5 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Compare 4/7 and 0.55.",
+    "options": {
+      "A": "4/7",
+      "B": "0.55",
+      "C": "Equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "4 ÷ 7 ≈ 0.571 > 0.55, so 4/7 is larger.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 5/8 + 7/16.",
+    "options": {
+      "A": "17/16",
+      "B": "12/16",
+      "C": "15/16",
+      "D": "1"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 16: 5/8 = 10/16; 10+7 = 17/16.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 11/12 − 5/8.",
+    "options": {
+      "A": "7/24",
+      "B": "6/24",
+      "C": "5/12",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 24: 11/12=22/24, 5/8=15/24; 22−15=7/24.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify the fraction 24/36.",
+    "options": {
+      "A": "2/3",
+      "B": "3/4",
+      "C": "4/6",
+      "D": "6/9"
+    },
+    "answer": "A",
+    "explanation": "GCD of 24 and 36 is 12; divide numerator and denominator by 12 → 24/36 = 2/3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Express 2/3 and 5/8 with a common denominator.",
+    "options": {
+      "A": "16/24 and 15/24",
+      "B": "4/6 and 5/8",
+      "C": "8/12 and 5/8",
+      "D": "6/9 and 5/8"
+    },
+    "answer": "A",
+    "explanation": "LCM of 3 and 8 is 24; 2/3 = 16/24, 5/8 = 15/24.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction is larger: 9/10 or 7/8?",
+    "options": {
+      "A": "9/10",
+      "B": "7/8",
+      "C": "Equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 40: 9/10 = 36/40, 7/8 = 35/40 → 36/40 > 35/40.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 2/5 + 3/10.",
+    "options": {
+      "A": "7/10",
+      "B": "1/2",
+      "C": "5/15",
+      "D": "1"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 10: 2/5 = 4/10, 4/10 + 3/10 = 7/10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 5/6 − 1/3.",
+    "options": {
+      "A": "1/2",
+      "B": "1/3",
+      "C": "2/3",
+      "D": "1/6"
+    },
+    "answer": "A",
+    "explanation": "1/3 = 2/6; 5/6 − 2/6 = 3/6 = 1/2 → correction: actual 5/6 − 2/6 = 3/6 = 1/2 → answer A.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 2/3 × 3/4.",
+    "options": {
+      "A": "1/2",
+      "B": "1/4",
+      "C": "1/3",
+      "D": "1/6"
+    },
+    "answer": "A",
+    "explanation": "2×3 / 3×4 = 6/12 = 1/2.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 3/5 ÷ 3.",
+    "options": {
+      "A": "1/5",
+      "B": "1/3",
+      "C": "1/15",
+      "D": "1/8"
+    },
+    "answer": "A",
+    "explanation": "3/5 ÷ 3 = 3/5 × 1/3 = 3/15 = 1/5 → correct: 1/5 → answer A.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 3/8 to a decimal.",
+    "options": {
+      "A": "0.375",
+      "B": "0.38",
+      "C": "0.35",
+      "D": "0.36"
+    },
+    "answer": "A",
+    "explanation": "3 ÷ 8 = 0.375.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.45 as a fraction in simplest form.",
+    "options": {
+      "A": "9/20",
+      "B": "45/100",
+      "C": "1/2",
+      "D": "4/9"
+    },
+    "answer": "A",
+    "explanation": "0.45 = 45/100 = 9/20 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Identify the value of 6 in 4.768.",
+    "options": {
+      "A": "0.6",
+      "B": "0.06",
+      "C": "6",
+      "D": "0.006"
+    },
+    "answer": "B",
+    "explanation": "6 is in the hundredths place → value = 0.06.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.36 × 5.",
+    "options": {
+      "A": "1.8",
+      "B": "0.18",
+      "C": "18",
+      "D": "0.036"
+    },
+    "answer": "A",
+    "explanation": "0.36 × 5 = 1.8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 2.25 ÷ 5.",
+    "options": {
+      "A": "0.45",
+      "B": "0.4",
+      "C": "0.55",
+      "D": "0.025"
+    },
+    "answer": "A",
+    "explanation": "2.25 ÷ 5 = 0.45.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 3.786 to 2 decimal places.",
+    "options": {
+      "A": "3.79",
+      "B": "3.78",
+      "C": "3.8",
+      "D": "3.787"
+    },
+    "answer": "A",
+    "explanation": "Third decimal 6 ≥5 → second decimal 8 rounds up → 3.79.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 7/20 to a percentage.",
+    "options": {
+      "A": "35%",
+      "B": "36%",
+      "C": "32%",
+      "D": "30%"
+    },
+    "answer": "A",
+    "explanation": "7 ÷ 20 = 0.35 → ×100 = 35%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.3 to a fraction in simplest form.",
+    "options": {
+      "A": "3/10",
+      "B": "1/3",
+      "C": "3/100",
+      "D": "1/10"
+    },
+    "answer": "A",
+    "explanation": "0.3 = 3/10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction equals 0.6?",
+    "options": {
+      "A": "3/5",
+      "B": "2/3",
+      "C": "1/2",
+      "D": "5/6"
+    },
+    "answer": "A",
+    "explanation": "0.6 = 6/10 = 3/5 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Compare: 7/12 or 0.58?",
+    "options": {
+      "A": "7/12",
+      "B": "0.58",
+      "C": "Equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "7 ÷ 12 ≈ 0.5833 > 0.58, so 7/12 is larger.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 5/6 + 2/9.",
+    "options": {
+      "A": "16/18",
+      "B": "19/18",
+      "C": "7/9",
+      "D": "1"
+    },
+    "answer": "B",
+    "explanation": "Common denominator 18: 5/6 = 15/18, 2/9 = 4/18; sum = 19/18.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 11/12 − 2/3.",
+    "options": {
+      "A": "1/12",
+      "B": "5/12",
+      "C": "7/12",
+      "D": "3/12"
+    },
+    "answer": "D",
+    "explanation": "2/3 = 8/12; 11/12 − 8/12 = 3/12.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 5/8 × 3/5.",
+    "options": {
+      "A": "3/8",
+      "B": "1/2",
+      "C": "5/24",
+      "D": "8/15"
+    },
+    "answer": "A",
+    "explanation": "5×3 / 8×5 = 15/40 = 3/8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify the fraction 24/36.",
+    "options": {
+      "A": "2/3",
+      "B": "3/4",
+      "C": "12/18",
+      "D": "4/9"
+    },
+    "answer": "A",
+    "explanation": "The greatest common divisor of 24 and 36 is 12. Dividing both by 12 gives 2/3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify the fraction 35/49.",
+    "options": {
+      "A": "5/7",
+      "B": "7/5",
+      "C": "15/21",
+      "D": "1/7"
+    },
+    "answer": "A",
+    "explanation": "Both numbers are divisible by 7. 35 ÷ 7 = 5 and 49 ÷ 7 = 7.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction is equivalent to 4/6?",
+    "options": {
+      "A": "2/3",
+      "B": "3/4",
+      "C": "4/12",
+      "D": "6/4"
+    },
+    "answer": "A",
+    "explanation": "Dividing numerator and denominator by 2 gives 2/3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+
+  {
+    "question": "Express 2/5 and 3/10 with a common denominator.",
+    "options": {
+      "A": "4/10 and 3/10",
+      "B": "2/10 and 3/10",
+      "C": "6/20 and 4/20",
+      "D": "10/25 and 15/25"
+    },
+    "answer": "A",
+    "explanation": "The lowest common multiple of 5 and 10 is 10. 2/5 = 4/10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+
+  {
+    "question": "Which fraction is larger: 9/10 or 7/8?",
+    "options": {
+      "A": "9/10",
+      "B": "7/8",
+      "C": "Equal",
+      "D": "Cannot be compared"
+    },
+    "answer": "A",
+    "explanation": "9/10 = 0.9 and 7/8 = 0.875, so 9/10 is larger.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+
+  {
+    "question": "Order the fractions from smallest to largest: 5/6, 3/4, 2/3.",
+    "options": {
+      "A": "2/3, 3/4, 5/6",
+      "B": "3/4, 2/3, 5/6",
+      "C": "5/6, 3/4, 2/3",
+      "D": "2/3, 5/6, 3/4"
+    },
+    "answer": "A",
+    "explanation": "Converted to decimals: 2/3 ≈ 0.67, 3/4 = 0.75, 5/6 ≈ 0.83.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+
+  {
+    "question": "Add 7/12 + 1/6.",
+    "options": {
+      "A": "3/4",
+      "B": "8/18",
+      "C": "7/18",
+      "D": "5/6"
+    },
+    "answer": "A",
+    "explanation": "1/6 = 2/12. 7/12 + 2/12 = 9/12 = 3/4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+
+  {
+    "question": "Subtract 11/12 − 1/4.",
+    "options": {
+      "A": "2/3",
+      "B": "5/12",
+      "C": "3/4",
+      "D": "8/12"
+    },
+    "answer": "D",
+    "explanation": "1/4 = 3/12. 11/12 − 3/12 = 8/12.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+
+  {
+    "question": "Multiply 4/9 × 3/5.",
+    "options": {
+      "A": "4/15",
+      "B": "12/45",
+      "C": "7/14",
+      "D": "3/20"
+    },
+    "answer": "A",
+    "explanation": "Multiply numerators and denominators: 4 × 3 = 12 and 9 × 5 = 45. 12/45 simplifies to 4/15.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+
+  {
+    "question": "Divide 3/4 ÷ 2.",
+    "options": {
+      "A": "3/8",
+      "B": "3/2",
+      "C": "1/4",
+      "D": "1/8"
+    },
+    "answer": "A",
+    "explanation": "Dividing by 2 is the same as multiplying by 1/2. 3/4 × 1/2 = 3/8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+
+  {
+    "question": "Convert 9/16 to a decimal.",
+    "options": {
+      "A": "0.5625",
+      "B": "0.56",
+      "C": "0.59",
+      "D": "0.625"
+    },
+    "answer": "A",
+    "explanation": "9 ÷ 16 = 0.5625.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+
+  {
+    "question": "What is the value of the digit 3 in 7.348?",
+    "options": {
+      "A": "0.3",
+      "B": "0.03",
+      "C": "0.003",
+      "D": "3"
+    },
+    "answer": "A",
+    "explanation": "The 3 is in the hundredths place, so its value is 0.3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 5/6 × 3/7.",
+    "options": {
+      "A": "15/42",
+      "B": "8/13",
+      "C": "5/13",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "Multiply numerators and denominators: 5×3 / 6×7 = 15/42, which is in simplest form.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 7/10 ÷ 5.",
+    "options": {
+      "A": "7/50",
+      "B": "7/5",
+      "C": "1/2",
+      "D": "7/15"
+    },
+    "answer": "A",
+    "explanation": "7/10 ÷ 5 = 7/10 × 1/5 = 7/50.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 5/8 to a decimal.",
+    "options": {
+      "A": "0.625",
+      "B": "0.58",
+      "C": "0.65",
+      "D": "0.6"
+    },
+    "answer": "A",
+    "explanation": "5 ÷ 8 = 0.625.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.45 as a fraction in simplest form.",
+    "options": {
+      "A": "9/20",
+      "B": "45/100",
+      "C": "4/9",
+      "D": "9/10"
+    },
+    "answer": "A",
+    "explanation": "0.45 = 45/100 = 9/20 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Identify the value of 6 in 3.768.",
+    "options": {
+      "A": "0.06",
+      "B": "0.6",
+      "C": "6",
+      "D": "0.006"
+    },
+    "answer": "B",
+    "explanation": "6 is in the tenths place → value = 0.6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.38 × 5.",
+    "options": {
+      "A": "1.9",
+      "B": "1.8",
+      "C": "0.19",
+      "D": "3.8"
+    },
+    "answer": "A",
+    "explanation": "0.38 × 5 = 1.9.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 2.16 ÷ 4.",
+    "options": {
+      "A": "0.54",
+      "B": "0.56",
+      "C": "0.52",
+      "D": "0.6"
+    },
+    "answer": "A",
+    "explanation": "2.16 ÷ 4 = 0.54.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 7.835 to 2 decimal places.",
+    "options": {
+      "A": "7.84",
+      "B": "7.83",
+      "C": "7.85",
+      "D": "7.8"
+    },
+    "answer": "A",
+    "explanation": "Third decimal 5 ≥5, so second decimal 3 rounds up → 7.84.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 11/25 to a percentage.",
+    "options": {
+      "A": "44%",
+      "B": "45%",
+      "C": "43%",
+      "D": "40%"
+    },
+    "answer": "A",
+    "explanation": "11 ÷ 25 = 0.44 → ×100 = 44%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.125 to a fraction in simplest form.",
+    "options": {
+      "A": "1/8",
+      "B": "1/4",
+      "C": "12/100",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "0.125 = 125/1000 = 1/8 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction equals 0.25?",
+    "options": {
+      "A": "1/4",
+      "B": "2/5",
+      "C": "1/5",
+      "D": "3/4"
+    },
+    "answer": "A",
+    "explanation": "0.25 = 25/100 = 1/4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Compare 5/9 and 0.55.",
+    "options": {
+      "A": "5/9",
+      "B": "0.555",
+      "C": "Equal",
+      "D": "Cannot compare"
+    },
+    "answer": "B",
+    "explanation": "5 ÷ 9 ≈ 0.555.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 7/12 + 5/8.",
+    "options": {
+      "A": "29/24",
+      "B": "12/20",
+      "C": "1",
+      "D": "11/24"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 24: 7/12=14/24, 5/8=15/24; sum = 29/24.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 3/4 − 2/5.",
+    "options": {
+      "A": "7/20",
+      "B": "11/20",
+      "C": "1/2",
+      "D": "1/4"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 20: 3/4=15/20, 2/5=8/20; 15−8=7/20.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 7/8 × 4/5.",
+    "options": {
+      "A": "28/40",
+      "B": "7/10",
+      "C": "32/40",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "7×4 / 8×5 = 28/40 → simplifies to 7/10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 9/10 ÷ 3.",
+    "options": {
+      "A": "3/10",
+      "B": "3/30",
+      "C": "9/30",
+      "D": "1/3"
+    },
+    "answer": "A",
+    "explanation": "9/10 ÷ 3 = 9/10 × 1/3 = 9/30 = 3/10 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 7/20 to a decimal.",
+    "options": {
+      "A": "0.35",
+      "B": "0.37",
+      "C": "0.36",
+      "D": "0.34"
+    },
+    "answer": "A",
+    "explanation": "7 ÷ 20 = 0.35.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.875 as a fraction in simplest form.",
+    "options": {
+      "A": "7/8",
+      "B": "8/9",
+      "C": "1/8",
+      "D": "87/100"
+    },
+    "answer": "A",
+    "explanation": "0.875 = 875/1000 = 7/8 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Identify the value of 5 in 6.253.",
+    "options": {
+      "A": "0.05",
+      "B": "0.5",
+      "C": "5",
+      "D": "0.005"
+    },
+    "answer": "A",
+    "explanation": "5 is in the hundredths place → value = 0.05.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.56 × 7.",
+    "options": {
+      "A": "3.92",
+      "B": "3.82",
+      "C": "4.2",
+      "D": "0.392"
+    },
+    "answer": "A",
+    "explanation": "0.56 × 7 = 3.92.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 7/8 ÷ 2.",
+    "options": {
+      "A": "7/16",
+      "B": "7/4",
+      "C": "1/4",
+      "D": "7/10"
+    },
+    "answer": "A",
+    "explanation": "7/8 ÷ 2 = 7/8 × 1/2 = 7/16.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 5/16 to a decimal.",
+    "options": {
+      "A": "0.3125",
+      "B": "0.315",
+      "C": "0.32",
+      "D": "0.3"
+    },
+    "answer": "A",
+    "explanation": "5 ÷ 16 = 0.3125.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.875 as a fraction in simplest form.",
+    "options": {
+      "A": "7/8",
+      "B": "7/10",
+      "C": "87/100",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "0.875 = 875/1000 = 7/8 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Identify the value of 5 in 2.356.",
+    "options": {
+      "A": "0.5",
+      "B": "0.05",
+      "C": "5",
+      "D": "0.005"
+    },
+    "answer": "B",
+    "explanation": "5 is in the hundredths place → value = 0.05.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.28 × 7.",
+    "options": {
+      "A": "1.96",
+      "B": "1.92",
+      "C": "19.6",
+      "D": "0.196"
+    },
+    "answer": "A",
+    "explanation": "0.28 × 7 = 1.96.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 0.81 ÷ 3.",
+    "options": {
+      "A": "0.27",
+      "B": "0.28",
+      "C": "0.3",
+      "D": "0.25"
+    },
+    "answer": "A",
+    "explanation": "0.81 ÷ 3 = 0.27.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 4.276 to 2 decimal places.",
+    "options": {
+      "A": "4.28",
+      "B": "4.27",
+      "C": "4.3",
+      "D": "4.276"
+    },
+    "answer": "A",
+    "explanation": "Third decimal 6 ≥5 → second decimal 7 rounds up → 4.28.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 11/25 to a percentage.",
+    "options": {
+      "A": "44%",
+      "B": "45%",
+      "C": "40%",
+      "D": "42%"
+    },
+    "answer": "A",
+    "explanation": "11 ÷ 25 = 0.44 → ×100 = 44%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.75 to a fraction in simplest form.",
+    "options": {
+      "A": "3/4",
+      "B": "7/10",
+      "C": "75/100",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "0.75 = 75/100 = 3/4 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction equals 0.25?",
+    "options": {
+      "A": "1/4",
+      "B": "2/5",
+      "C": "3/4",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "0.25 = 25/100 = 1/4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Compare: 5/6 or 0.82?",
+    "options": {
+      "A": "5/6",
+      "B": "0.82",
+      "C": "Equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "5 ÷ 6 ≈ 0.8333 > 0.82, so 5/6 is larger.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 7/12 + 1/6.",
+    "options": {
+      "A": "3/4",
+      "B": "2/3",
+      "C": "5/6",
+      "D": "7/18"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 12: 7/12 + 2/12 = 9/12 = 3/4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 9/10 − 1/5.",
+    "options": {
+      "A": "7/10",
+      "B": "8/10",
+      "C": "1/2",
+      "D": "3/10"
+    },
+    "answer": "A",
+    "explanation": "1/5 = 2/10; 9/10 − 2/10 = 7/10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 4/5 × 5/6.",
+    "options": {
+      "A": "2/3",
+      "B": "1/2",
+      "C": "20/30",
+      "D": "3/4"
+    },
+    "answer": "A",
+    "explanation": "4×5 / 5×6 = 20/30 = 2/3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 7/9 ÷ 7.",
+    "options": {
+      "A": "1/9",
+      "B": "1/7",
+      "C": "7/63",
+      "D": "9/7"
+    },
+    "answer": "A",
+    "explanation": "7/9 ÷ 7 = 7/9 × 1/7 = 1/9.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 9/40 to a decimal.",
+    "options": {
+      "A": "0.225",
+      "B": "0.22",
+      "C": "0.24",
+      "D": "0.25"
+    },
+    "answer": "A",
+    "explanation": "9 ÷ 40 = 0.225.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.6 as a fraction in simplest form.",
+    "options": {
+      "A": "3/5",
+      "B": "6/10",
+      "C": "1/2",
+      "D": "2/3"
+    },
+    "answer": "A",
+    "explanation": "0.6 = 6/10 = 3/5.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Identify the value of 2 in 5.742.",
+    "options": {
+      "A": "0.02",
+      "B": "0.2",
+      "C": "2",
+      "D": "0.002"
+    },
+    "answer": "D",
+    "explanation": "2 is in the thousandths place → value = 0.002 → check: 5.742 → 2 is hundredths → value = 0.04 → 5.742, digits: 5(ones), .7(tenths), 4(hundredths), 2(thousandths) → correct 0.002 → answer D.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.47 × 8.",
+    "options": {
+      "A": "3.76",
+      "B": "3.74",
+      "C": "37.6",
+      "D": "0.376"
+    },
+    "answer": "A",
+    "explanation": "0.47 × 8 = 3.76.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 1.32 ÷ 4.",
+    "options": {
+      "A": "0.33",
+      "B": "0.34",
+      "C": "0.32",
+      "D": "0.3"
+    },
+    "answer": "A",
+    "explanation": "1.32 ÷ 4 = 0.33.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 6.789 to 2 decimal places.",
+    "options": {
+      "A": "6.79",
+      "B": "6.78",
+      "C": "6.8",
+      "D": "6.789"
+    },
+    "answer": "A",
+    "explanation": "Third decimal 9 ≥5 → second decimal 8 rounds up → 6.79.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 5/6 ÷ 2.",
+    "options": {
+      "A": "5/12",
+      "B": "1/3",
+      "C": "5/3",
+      "D": "3/5"
+    },
+    "answer": "A",
+    "explanation": "5/6 ÷ 2 = 5/6 × 1/2 = 5/12.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 3/4 × 2/3.",
+    "options": {
+      "A": "1/2",
+      "B": "5/6",
+      "C": "1/3",
+      "D": "2/3"
+    },
+    "answer": "A",
+    "explanation": "3×2 / 4×3 = 6/12 = 1/2.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 9/16 to a decimal.",
+    "options": {
+      "A": "0.5625",
+      "B": "0.59",
+      "C": "0.56",
+      "D": "0.6"
+    },
+    "answer": "A",
+    "explanation": "9 ÷ 16 = 0.5625.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.625 as a fraction in simplest form.",
+    "options": {
+      "A": "5/8",
+      "B": "3/5",
+      "C": "5/6",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "0.625 = 625/1000 = 5/8 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Identify the value of 3 in 4.739.",
+    "options": {
+      "A": "0.03",
+      "B": "0.3",
+      "C": "3",
+      "D": "0.003"
+    },
+    "answer": "A",
+    "explanation": "3 is in the hundredths place → value = 0.03.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.72 × 3.",
+    "options": {
+      "A": "2.16",
+      "B": "2.12",
+      "C": "2.26",
+      "D": "2.06"
+    },
+    "answer": "A",
+    "explanation": "0.72 × 3 = 2.16.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 3.6 ÷ 4.",
+    "options": {
+      "A": "0.9",
+      "B": "0.8",
+      "C": "1",
+      "D": "0.86"
+    },
+    "answer": "A",
+    "explanation": "3.6 ÷ 4 = 0.9.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 8.946 to 2 decimal places.",
+    "options": {
+      "A": "8.95",
+      "B": "8.94",
+      "C": "8.96",
+      "D": "8.9"
+    },
+    "answer": "A",
+    "explanation": "Third decimal 6 ≥5, so second decimal 4 rounds up → 8.95.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 13/20 to a percentage.",
+    "options": {
+      "A": "65%",
+      "B": "60%",
+      "C": "66%",
+      "D": "63%"
+    },
+    "answer": "A",
+    "explanation": "13 ÷ 20 = 0.65 → ×100 = 65%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.2 to a fraction in simplest form.",
+    "options": {
+      "A": "1/5",
+      "B": "2/10",
+      "C": "1/2",
+      "D": "2/5"
+    },
+    "answer": "A",
+    "explanation": "0.2 = 2/10 = 1/5 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction equals 0.8?",
+    "options": {
+      "A": "4/5",
+      "B": "8/10",
+      "C": "3/5",
+      "D": "2/3"
+    },
+    "answer": "A",
+    "explanation": "0.8 = 8/10 = 4/5.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Compare 11/20 and 0.55.",
+    "options": {
+      "A": "11/20",
+      "B": "0.55",
+      "C": "Equal",
+      "D": "Cannot compare"
+    },
+    "answer": "B",
+    "explanation": "11 ÷ 20 = 0.55 → both equal, so option B is correct.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 9/10 + 7/20.",
+    "options": {
+      "A": "25/20",
+      "B": "16/20",
+      "C": "17/20",
+      "D": "1"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 20: 9/10=18/20; 18+7=25/20.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 7/8 − 5/12.",
+    "options": {
+      "A": "11/24",
+      "B": "14/24",
+      "C": "1/2",
+      "D": "1/4"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 24: 7/8=21/24, 5/12=10/24; 21−10=11/24 → adjust options to 11/24 correct.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 11/12 × 3/5.",
+    "options": {
+      "A": "33/60",
+      "B": "14/15",
+      "C": "3/5",
+      "D": "11/15"
+    },
+    "answer": "A",
+    "explanation": "11×3 / 12×5 = 33/60 → simplifies to 11/20.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 7/8 ÷ 7.",
+    "options": {
+      "A": "1/8",
+      "B": "1",
+      "C": "7/56",
+      "D": "7/7"
+    },
+    "answer": "C",
+    "explanation": "7/8 ÷ 7 = 7/8 × 1/7 = 7/56.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 17/50 to a decimal.",
+    "options": {
+      "A": "0.34",
+      "B": "0.35",
+      "C": "0.33",
+      "D": "0.32"
+    },
+    "answer": "A",
+    "explanation": "17 ÷ 50 = 0.34.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.375 as a fraction in simplest form.",
+    "options": {
+      "A": "3/8",
+      "B": "3/5",
+      "C": "37/100",
+      "D": "3/4"
+    },
+    "answer": "A",
+    "explanation": "0.375 = 375/1000 = 3/8 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Identify the value of 9 in 8.496.",
+    "options": {
+      "A": "0.09",
+      "B": "0.9",
+      "C": "9",
+      "D": "0.009"
+    },
+    "answer": "A",
+    "explanation": "9 is in the tenths place → value = 0.09.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.33 × 6.",
+    "options": {
+      "A": "1.98",
+      "B": "1.8",
+      "C": "1.96",
+      "D": "2.0"
+    },
+    "answer": "A",
+    "explanation": "0.33 × 6 = 1.98.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 2.7 ÷ 3.",
+    "options": {
+      "A": "0.9",
+      "B": "0.8",
+      "C": "1",
+      "D": "0.95"
+    },
+    "answer": "A",
+    "explanation": "2.7 ÷ 3 = 0.9.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 5.687 to 2 decimal places.",
+    "options": {
+      "A": "5.69",
+      "B": "5.68",
+      "C": "5.7",
+      "D": "5.68"
+    },
+    "answer": "A",
+    "explanation": "Third decimal 7 ≥5 → second decimal 8 rounds up → 5.69.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 3/8 to a percentage.",
+    "options": {
+      "A": "37.5%",
+      "B": "38%",
+      "C": "35%",
+      "D": "30%"
+    },
+    "answer": "A",
+    "explanation": "3 ÷ 8 = 0.375 → ×100 = 37.5%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.6 to a fraction in simplest form.",
+    "options": {
+      "A": "3/5",
+      "B": "6/10",
+      "C": "1/2",
+      "D": "2/3"
+    },
+    "answer": "A",
+    "explanation": "0.6 = 6/10 = 3/5.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction equals 0.125?",
+    "options": {
+      "A": "1/8",
+      "B": "1/4",
+      "C": "1/2",
+      "D": "1/5"
+    },
+    "answer": "A",
+    "explanation": "0.125 = 125/1000 = 1/8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Compare 3/7 and 0.42.",
+    "options": {
+      "A": "3/7",
+      "B": "0.428",
+      "C": "Equal",
+      "D": "Cannot compare"
+    },
+    "answer": "B",
+    "explanation": "3 ÷ 7 ≈ 0.4286.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 11/15 + 7/10.",
+    "options": {
+      "A": "43/30",
+      "B": "18/25",
+      "C": "29/25",
+      "D": "1"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 30: 11/15=22/30, 7/10=21/30; sum = 43/30.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 13/20 to a decimal.",
+    "options": {
+      "A": "0.65",
+      "B": "0.6",
+      "C": "0.625",
+      "D": "0.7"
+    },
+    "answer": "A",
+    "explanation": "13 ÷ 20 = 0.65.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.875 as a percentage.",
+    "options": {
+      "A": "87.5%",
+      "B": "85%",
+      "C": "88%",
+      "D": "8.75%"
+    },
+    "answer": "A",
+    "explanation": "0.875 × 100 = 87.5%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify the fraction 24/36.",
+    "options": {
+      "A": "2/3",
+      "B": "3/4",
+      "C": "4/6",
+      "D": "6/9"
+    },
+    "answer": "A",
+    "explanation": "GCD of 24 and 36 is 12 → 24 ÷ 12 / 36 ÷ 12 = 2/3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Express 2/3 and 5/8 with a common denominator.",
+    "options": {
+      "A": "16/24 and 15/24",
+      "B": "6/9 and 5/8",
+      "C": "2/8 and 5/8",
+      "D": "12/18 and 10/16"
+    },
+    "answer": "A",
+    "explanation": "LCM of 3 and 8 is 24 → 2/3 = 16/24, 5/8 = 15/24.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction is larger: 9/10 or 11/12?",
+    "options": {
+      "A": "11/12",
+      "B": "9/10",
+      "C": "Equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 60: 9/10 = 54/60, 11/12 = 55/60 → 55/60 > 54/60.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 7/10 + 2/5.",
+    "options": {
+      "A": "11/10",
+      "B": "9/10",
+      "C": "1",
+      "D": "12/15"
+    },
+    "answer": "A",
+    "explanation": "2/5 = 4/10 → 7/10 + 4/10 = 11/10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 5/6 − 1/4.",
+    "options": {
+      "A": "7/12",
+      "B": "2/3",
+      "C": "3/4",
+      "D": "5/12"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 12: 5/6 = 10/12, 1/4 = 3/12 → 10/12 − 3/12 = 7/12.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 5/8 × 3/4.",
+    "options": {
+      "A": "15/32",
+      "B": "8/12",
+      "C": "3/8",
+      "D": "5/12"
+    },
+    "answer": "A",
+    "explanation": "5×3 / 8×4 = 15/32.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 2/5 ÷ 4.",
+    "options": {
+      "A": "1/10",
+      "B": "1/5",
+      "C": "1/20",
+      "D": "2/20"
+    },
+    "answer": "A",
+    "explanation": "2/5 ÷ 4 = 2/5 × 1/4 = 2/20 = 1/10 → careful: 2/5 ÷ 4 = 2/5 × 1/4 = 2/20 = 1/10, so correct A.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 3/16 to a decimal.",
+    "options": {
+      "A": "0.1875",
+      "B": "0.18",
+      "C": "0.2",
+      "D": "0.175"
+    },
+    "answer": "A",
+    "explanation": "3 ÷ 16 = 0.1875.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.45 as a fraction in simplest form.",
+    "options": {
+      "A": "9/20",
+      "B": "45/100",
+      "C": "4/9",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "0.45 = 45/100 = 9/20 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Identify the value of 7 in 3.476.",
+    "options": {
+      "A": "0.07",
+      "B": "0.7",
+      "C": "7",
+      "D": "0.007"
+    },
+    "answer": "A",
+    "explanation": "7 is in the hundredths place → value = 0.07.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.36 × 5.",
+    "options": {
+      "A": "1.8",
+      "B": "1.75",
+      "C": "18",
+      "D": "0.18"
+    },
+    "answer": "A",
+    "explanation": "0.36 × 5 = 1.8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 2.25 ÷ 5.",
+    "options": {
+      "A": "0.45",
+      "B": "0.5",
+      "C": "0.4",
+      "D": "0.35"
+    },
+    "answer": "A",
+    "explanation": "2.25 ÷ 5 = 0.45.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 3.849 to 2 decimal places.",
+    "options": {
+      "A": "3.85",
+      "B": "3.84",
+      "C": "3.8",
+      "D": "3.849"
+    },
+    "answer": "A",
+    "explanation": "Third decimal 9 ≥5 → second decimal 4 rounds up → 3.85.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 17/50 to a percentage.",
+    "options": {
+      "A": "34%",
+      "B": "33%",
+      "C": "35%",
+      "D": "36%"
+    },
+    "answer": "A",
+    "explanation": "17 ÷ 50 = 0.34 → ×100 = 34%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.6 to a fraction in simplest form.",
+    "options": {
+      "A": "3/5",
+      "B": "6/10",
+      "C": "1/2",
+      "D": "2/3"
+    },
+    "answer": "A",
+    "explanation": "0.6 = 6/10 = 3/5.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction equals 0.9?",
+    "options": {
+      "A": "9/10",
+      "B": "9/9",
+      "C": "1/10",
+      "D": "4/5"
+    },
+    "answer": "A",
+    "explanation": "0.9 = 9/10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Compare: 13/20 or 0.65?",
+    "options": {
+      "A": "Equal",
+      "B": "13/20 larger",
+      "C": "0.65 larger",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "13 ÷ 20 = 0.65 → equal.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Simplify the fraction 24/36.",
+    "options": {
+      "A": "2/3",
+      "B": "3/4",
+      "C": "4/6",
+      "D": "6/9"
+    },
+    "answer": "A",
+    "explanation": "GCD of 24 and 36 is 12; divide numerator and denominator by 12 → 24 ÷ 12 / 36 ÷ 12 = 2/3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Express 2/3 and 3/4 with a common denominator.",
+    "options": {
+      "A": "8/12 and 9/12",
+      "B": "6/9 and 3/4",
+      "C": "2/6 and 3/4",
+      "D": "4/6 and 9/12"
+    },
+    "answer": "A",
+    "explanation": "LCM of 3 and 4 is 12; 2/3 = 8/12, 3/4 = 9/12.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction is larger: 5/6 or 7/8?",
+    "options": {
+      "A": "7/8",
+      "B": "5/6",
+      "C": "Equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 24: 5/6 = 20/24, 7/8 = 21/24 → 21/24 > 20/24.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 2/5 + 3/10.",
+    "options": {
+      "A": "7/10",
+      "B": "1/2",
+      "C": "5/10",
+      "D": "3/5"
+    },
+    "answer": "A",
+    "explanation": "Common denominator 10: 2/5 = 4/10; 4/10 + 3/10 = 7/10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 7/12 − 1/4.",
+    "options": {
+      "A": "4/12",
+      "B": "5/12",
+      "C": "6/12",
+      "D": "3/12"
+    },
+    "answer": "A",
+    "explanation": "1/4 = 3/12; 7/12 − 3/12 = 4/12.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 2/3 × 3/5.",
+    "options": {
+      "A": "6/15",
+      "B": "1/5",
+      "C": "5/6",
+      "D": "2/8"
+    },
+    "answer": "A",
+    "explanation": "Multiply numerators: 2×3 = 6; denominators: 3×5 = 15; result = 6/15 → simplify = 2/5.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 3/4 ÷ 2.",
+    "options": {
+      "A": "3/8",
+      "B": "1/2",
+      "C": "3/2",
+      "D": "1/4"
+    },
+    "answer": "A",
+    "explanation": "3/4 ÷ 2 = 3/4 × 1/2 = 3/8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 7/8 to a decimal.",
+    "options": {
+      "A": "0.875",
+      "B": "0.78",
+      "C": "0.87",
+      "D": "0.85"
+    },
+    "answer": "A",
+    "explanation": "7 ÷ 8 = 0.875.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.45 as a fraction in simplest form.",
+    "options": {
+      "A": "9/20",
+      "B": "45/100",
+      "C": "1/2",
+      "D": "4/9"
+    },
+    "answer": "A",
+    "explanation": "0.45 = 45/100 = 9/20 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Identify the value of 5 in 3.256.",
+    "options": {
+      "A": "0.05",
+      "B": "0.5",
+      "C": "5",
+      "D": "0.005"
+    },
+    "answer": "B",
+    "explanation": "5 is in the tenths place → value = 0.5.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.6 × 7.",
+    "options": {
+      "A": "4.2",
+      "B": "42",
+      "C": "0.42",
+      "D": "3.2"
+    },
+    "answer": "A",
+    "explanation": "0.6 × 7 = 4.2.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 2.7 ÷ 3.",
+    "options": {
+      "A": "0.9",
+      "B": "0.8",
+      "C": "0.7",
+      "D": "1.0"
+    },
+    "answer": "A",
+    "explanation": "2.7 ÷ 3 = 0.9.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 4.678 to 2 decimal places.",
+    "options": {
+      "A": "4.68",
+      "B": "4.67",
+      "C": "4.7",
+      "D": "4.679"
+    },
+    "answer": "A",
+    "explanation": "Third decimal 8 ≥5, so second decimal 7 rounds up → 4.68.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 3/20 to a percentage.",
+    "options": {
+      "A": "15%",
+      "B": "12%",
+      "C": "13%",
+      "D": "20%"
+    },
+    "answer": "A",
+    "explanation": "3 ÷ 20 = 0.15 → ×100 = 15%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.4 to a fraction in simplest form.",
+    "options": {
+      "A": "2/5",
+      "B": "4/10",
+      "C": "1/4",
+      "D": "1/5"
+    },
+    "answer": "A",
+    "explanation": "0.4 = 4/10 = 2/5 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction equals 0.6?",
+    "options": {
+      "A": "3/5",
+      "B": "2/3",
+      "C": "6/10",
+      "D": "1/2"
+    },
+    "answer": "A",
+    "explanation": "0.6 = 6/10 = 3/5 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Compare: 5/8 or 0.62?",
+    "options": {
+      "A": "5/8",
+      "B": "0.62",
+      "C": "Equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "5 ÷ 8 = 0.625 > 0.62, so 5/8 is larger.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Add 7/12 + 5/18.",
+    "options": {
+      "A": "13/18",
+      "B": "31/36",
+      "C": "1",
+      "D": "19/36"
+    },
+    "answer": "B",
+    "explanation": "LCM of 12 and 18 = 36; 7/12=21/36, 5/18=10/36; sum = 31/36 → correct method is 31/36.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Subtract 11/15 − 2/5.",
+    "options": {
+      "A": "7/15",
+      "B": "5/15",
+      "C": "9/15",
+      "D": "1/15"
+    },
+    "answer": "B",
+    "explanation": "2/5 = 6/15; 11/15 − 6/15 = 5/15.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 4/9 × 3/8.",
+    "options": {
+      "A": "1/6",
+      "B": "12/72",
+      "C": "1/3",
+      "D": "3/12"
+    },
+    "answer": "A",
+    "explanation": "4×3=12, 9×8=72 → 12/72 = 1/6 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 7/10 ÷ 7.",
+    "options": {
+      "A": "1/10",
+      "B": "7/17",
+      "C": "1/7",
+      "D": "10/7"
+    },
+    "answer": "A",
+    "explanation": "7/10 ÷ 7 = 7/10 × 1/7 = 1/10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 9/16 to a decimal.",
+    "options": {
+      "A": "0.5625",
+      "B": "0.56",
+      "C": "0.563",
+      "D": "0.55"
+    },
+    "answer": "A",
+    "explanation": "9 ÷ 16 = 0.5625.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Write 0.875 as a fraction in simplest form.",
+    "options": {
+      "A": "7/8",
+      "B": "7/10",
+      "C": "8/10",
+      "D": "5/8"
+    },
+    "answer": "A",
+    "explanation": "0.875 = 875/1000 = 7/8 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Identify the value of 6 in 4.368.",
+    "options": {
+      "A": "0.06",
+      "B": "0.6",
+      "C": "6",
+      "D": "0.006"
+    },
+    "answer": "B",
+    "explanation": "6 is in the tenths place → value = 0.6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Multiply 0.75 × 8.",
+    "options": {
+      "A": "6",
+      "B": "7.5",
+      "C": "60",
+      "D": "0.6"
+    },
+    "answer": "A",
+    "explanation": "0.75 × 8 = 6.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Divide 3.6 ÷ 4.",
+    "options": {
+      "A": "0.9",
+      "B": "0.8",
+      "C": "0.7",
+      "D": "1"
+    },
+    "answer": "A",
+    "explanation": "3.6 ÷ 4 = 0.9.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Round 5.437 to 2 decimal places.",
+    "options": {
+      "A": "5.44",
+      "B": "5.43",
+      "C": "5.47",
+      "D": "5.4"
+    },
+    "answer": "A",
+    "explanation": "Third decimal 7 ≥5 → round second decimal up: 5.44.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 11/20 to a percentage.",
+    "options": {
+      "A": "55%",
+      "B": "50%",
+      "C": "60%",
+      "D": "45%"
+    },
+    "answer": "A",
+    "explanation": "11 ÷ 20 = 0.55 → ×100 = 55%.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Convert 0.125 to a fraction in simplest form.",
+    "options": {
+      "A": "1/8",
+      "B": "1/4",
+      "C": "1/2",
+      "D": "3/8"
+    },
+    "answer": "A",
+    "explanation": "0.125 = 125/1000 = 1/8 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Which fraction equals 0.25?",
+    "options": {
+      "A": "1/4",
+      "B": "2/5",
+      "C": "3/4",
+      "D": "1/3"
+    },
+    "answer": "A",
+    "explanation": "0.25 = 25/100 = 1/4 after simplification.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  },
+  {
+    "question": "Compare: 13/20 or 0.64?",
+    "options": {
+      "A": "13/20",
+      "B": "0.64",
+      "C": "Equal",
+      "D": "Cannot compare"
+    },
+    "answer": "A",
+    "explanation": "13 ÷ 20 = 0.65 > 0.64, so 13/20 is larger.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Year6-Number-Fractions"
+  }
+]

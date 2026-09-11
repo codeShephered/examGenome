@@ -1,0 +1,327 @@
+Question: A triangle with vertices at (1, 2), (3, 2), and (2, 5) is first translated 2 units to the right and 1 unit up, then reflected over the line y = 4. What are the new coordinates of the vertex originally at (2, 5)?
+Status: Success
+
+Question: A rectangle with vertices at (0, 0), (4, 0), (4, 3), and (0, 3) is reflected over the line x = 3, then translated 1 unit down. What are the new coordinates of the vertex originally at (4, 3)?
+Status: Success
+
+Question: A pentagon with vertices at (1, 1), (3, 1), (4, 3), (2, 4), and (0, 3) is first translated 1 unit to the left and 2 units up, then reflected over the line y = 2. What are the new coordinates of the vertex originally at (4, 3)?
+Status: Error
+Explanation: The vertex (4, 3) translated 1 unit left and 2 units up becomes (3, 5). Reflecting (3, 5) over the line y = 2 results in (3, 2(2) - 5) = (3, -1). The provided answer A (2, 2) is incorrect.
+
+Question: A shape with vertices at (2, 1), (5, 1), (5, 4), and (2, 4) is first reflected over the line x = 4, then translated 2 units up. What are the new coordinates of the vertex originally at (5, 1)?
+Status: Success
+
+Question: A triangle with vertices at (0, 2), (2, 2), and (1, 5) is first translated 3 units to the right and 1 unit down, then reflected over the line y = 1. What are the new coordinates of the vertex originally at (1, 5)?
+Status: Error
+Explanation: The vertex (1, 5) translated 3 units right and 1 unit down becomes (4, 4). Reflecting (4, 4) over the line y = 1 results in (4, 2(1) - 4) = (4, -2). The provided answer A (4, -3) is incorrect.
+
+Question: A quadrilateral with vertices at (1, 0), (4, 0), (4, 3), and (1, 3) is first reflected over the line y = 2, then translated 1 unit to the right. What are the new coordinates of the vertex originally at (4, 3)?
+Status: Success
+
+Question: A pentagon with vertices at (2, 0), (4, 0), (5, 2), (3, 3), and (1, 2) is first translated 2 units to the left and 1 unit up, then reflected over the line x = 1. What are the new coordinates of the vertex originally at (5, 2)?
+Status: Error
+Explanation: The vertex (5, 2) translated 2 units left and 1 unit up becomes (3, 3). Reflecting (3, 3) over the line x = 1 results in (2(1) - 3, 3) = (-1, 3). The provided answer A (-2, 3) is incorrect.
+
+Question: A triangle with vertices at (1, 1), (3, 1), and (2, 4) is first reflected over the line y = 3, then translated 2 units to the right. What are the new coordinates of the vertex originally at (2, 4)?
+Status: Success
+
+Question: A rectangle with vertices at (0, 1), (0, 4), (3, 4), and (3, 1) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Error
+Explanation: The vertex (3, 4) translated 1 unit right and 2 units down becomes (4, 2). Reflecting (4, 2) over the line x = 2 results in (2(2) - 4, 2) = (0, 2). The provided answer A (1, 2) is incorrect.
+
+Question: A shape with vertices at (2, 2), (5, 2), (5, 5), and (2, 5) is first reflected over the line x = 4, then translated 1 unit up. What are the new coordinates of the vertex originally at (5, 5)?
+Status: Success
+
+Question: A triangle with vertices at (0, 3), (2, 3), and (1, 6) is first translated 3 units to the right and 1 unit down, then reflected over the line y = 2. What are the new coordinates of the vertex originally at (1, 6)?
+Status: Error
+Explanation: The vertex (1, 6) translated 3 units right and 1 unit down becomes (4, 5). Reflecting (4, 5) over the line y = 2 results in (4, 2(2) - 5) = (4, -1). The provided answer A (4, -2) is incorrect.
+
+Question: A quadrilateral with vertices at (1, 0), (4, 0), (4, 3), and (1, 3) is first reflected over the line y = 1, then translated 2 units to the left. What are the new coordinates of the vertex originally at (4, 3)?
+Status: Success
+
+Question: A pentagon with vertices at (2, 1), (4, 1), (5, 3), (3, 4), and (1, 3) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 3. What are the new coordinates of the vertex originally at (5, 3)?
+Status: Error
+Explanation: The vertex (5, 3) translated 1 unit right and 2 units down becomes (6, 1). Reflecting (6, 1) over the line x = 3 results in (2(3) - 6, 1) = (0, 1). The provided answer A (1, 1) is incorrect.
+
+Question: A triangle with vertices at (1, 2), (3, 2), and (2, 5) is first reflected over the line x = 2, then translated 1 unit down. What are the new coordinates of the vertex originally at (3, 2)?
+Status: Success
+
+Question: A rectangle with vertices at (0, 0), (4, 0), (4, 2), and (0, 2) is first translated 2 units to the right and 1 unit up, then reflected over the line y = 3. What are the new coordinates of the vertex originally at (4, 2)?
+Status: Error
+Explanation: The vertex (4, 2) translated 2 units right and 1 unit up becomes (6, 3). Reflecting (6, 3) over the line y = 3 results in (6, 2(3) - 3) = (6, 3). The provided answer B (2, 4) is incorrect.
+
+Question: A shape with vertices at (1, 3), (4, 3), (4, 6), and (1, 6) is first reflected over the line y = 5, then translated 1 unit to the left. What are the new coordinates of the vertex originally at (4, 6)?
+Status: Success
+
+Question: A triangle with vertices at (0, 4), (2, 4), and (1, 7) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 3. What are the new coordinates of the vertex originally at (1, 7)?
+Status: Error
+Explanation: The vertex (1, 7) translated 1 unit right and 2 units down becomes (2, 5). Reflecting (2, 5) over the line x = 3 results in (2(3) - 2, 5) = (4, 5). The provided answer A (5, 5) is incorrect.
+
+Question: A quadrilateral with vertices at (2, 0), (5, 0), (5, 3), and (2, 3) is first reflected over the line x = 4, then translated 2 units up. What are the new coordinates of the vertex originally at (5, 3)?
+Status: Success
+
+Question: A pentagon with vertices at (1, 2), (3, 2), (4, 4), (2, 5), and (0, 4) is first translated 2 units to the left and 1 unit up, then reflected over the line y = 3. What are the new coordinates of the vertex originally at (4, 4)?
+Status: Error
+Explanation: The vertex (4, 4) translated 2 units left and 1 unit up becomes (2, 5). Reflecting (2, 5) over the line y = 3 results in (2, 2(3) - 5) = (2, 1). The provided answer B (2, 2) is incorrect.
+
+Question: A triangle with vertices at (2, 1), (4, 1), and (3, 4) is first reflected over the line y = 3, then translated 1 unit to the right. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Success
+
+Question: A rectangle with vertices at (0, 1), (0, 4), (3, 4), and (3, 1) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Error
+Explanation: The vertex (3, 4) translated 1 unit right and 2 units down becomes (4, 2). Reflecting (4, 2) over the line x = 2 results in (2(2) - 4, 2) = (0, 2). The provided answer A (1, 2) is incorrect.
+
+Question: A shape with vertices at (1, 3), (4, 3), (4, 6), and (1, 6) is first reflected over the line y = 5, then translated 1 unit to the left. What are the new coordinates of the vertex originally at (4, 6)?
+Status: Success
+
+Question: A triangle with vertices at (0, 4), (2, 4), and (1, 7) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 3. What are the new coordinates of the vertex originally at (1, 7)?
+Status: Error
+Explanation: The vertex (1, 7) translated 1 unit right and 2 units down becomes (2, 5). Reflecting (2, 5) over the line x = 3 results in (2(3) - 2, 5) = (4, 5). The provided answer A (5, 5) is incorrect.
+
+Question: A quadrilateral with vertices at (2, 0), (5, 0), (5, 3), and (2, 3) is first reflected over the line x = 4, then translated 2 units up. What are the new coordinates of the vertex originally at (5, 3)?
+Status: Success
+
+Question: A pentagon with vertices at (1, 2), (3, 2), (4, 4), (2, 5), and (0, 4) is first translated 2 units to the left and 1 unit up, then reflected over the line y = 3. What are the new coordinates of the vertex originally at (4, 4)?
+Status: Error
+Explanation: The vertex (4, 4) translated 2 units left and 1 unit up becomes (2, 5). Reflecting (2, 5) over the line y = 3 results in (2, 2(3) - 5) = (2, 1). The provided answer B (2, 2) is incorrect.
+
+Question: A triangle with vertices at (2, 1), (4, 1), and (3, 4) is first reflected over the line y = 3, then translated 1 unit to the right. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Success
+
+Question: A rectangle with vertices at (0, 1), (0, 4), (3, 4), and (3, 1) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Error
+Explanation: The vertex (3, 4) translated 1 unit right and 2 units down becomes (4, 2). Reflecting (4, 2) over the line x = 2 results in (2(2) - 4, 2) = (0, 2). The provided answer A (1, 2) is incorrect.
+
+Question: A shape with vertices at (1, 3), (4, 3), (4, 6), and (1, 6) is first reflected over the line y = 5, then translated 1 unit to the left. What are the new coordinates of the vertex originally at (4, 6)?
+Status: Success
+
+Question: A triangle with vertices at (0, 4), (2, 4), and (1, 7) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 3. What are the new coordinates of the vertex originally at (1, 7)?
+Status: Error
+Explanation: The vertex (1, 7) translated 1 unit right and 2 units down becomes (2, 5). Reflecting (2, 5) over the line x = 3 results in (2(3) - 2, 5) = (4, 5). The provided answer A (5, 5) is incorrect.
+
+Question: A quadrilateral with vertices at (2, 0), (5, 0), (5, 3), and (2, 3) is first reflected over the line x = 4, then translated 2 units up. What are the new coordinates of the vertex originally at (5, 3)?
+Status: Success
+
+Question: A pentagon with vertices at (1, 2), (3, 2), (4, 4), (2, 5), and (0, 4) is first translated 2 units to the left and 1 unit up, then reflected over the line y = 3. What are the new coordinates of the vertex originally at (4, 4)?
+Status: Error
+Explanation: The vertex (4, 4) translated 2 units left and 1 unit up becomes (2, 5). Reflecting (2, 5) over the line y = 3 results in (2, 2(3) - 5) = (2, 1). The provided answer B (2, 2) is incorrect.
+
+Question: A triangle with vertices at (2, 1), (4, 1), and (3, 4) is first reflected over the line y = 3, then translated 1 unit to the right. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Success
+
+Question: A rectangle with vertices at (0, 1), (0, 4), (3, 4), and (3, 1) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Error
+Explanation: The vertex (3, 4) translated 1 unit right and 2 units down becomes (4, 2). Reflecting (4, 2) over the line x = 2 results in (2(2) - 4, 2) = (0, 2). The provided answer A (1, 2) is incorrect.
+
+Question: A shape with vertices at (1, 3), (4, 3), (4, 6), and (1, 6) is first reflected over the line y = 5, then translated 1 unit to the left. What are the new coordinates of the vertex originally at (4, 6)?
+Status: Success
+
+Question: A triangle with vertices at (0, 4), (2, 4), and (1, 7) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 3. What are the new coordinates of the vertex originally at (1, 7)?
+Status: Error
+Explanation: The vertex (1, 7) translated 1 unit right and 2 units down becomes (2, 5). Reflecting (2, 5) over the line x = 3 results in (2(3) - 2, 5) = (4, 5). The provided answer A (5, 5) is incorrect.
+
+Question: A quadrilateral with vertices at (2, 0), (5, 0), (5, 3), and (2, 3) is first reflected over the line x = 4, then translated 2 units up. What are the new coordinates of the vertex originally at (5, 3)?
+Status: Success
+
+Question: A pentagon with vertices at (1, 2), (3, 2), (4, 4), (2, 5), and (0, 4) is first translated 2 units to the left and 1 unit up, then reflected over the line y = 3. What are the new coordinates of the vertex originally at (4, 4)?
+Status: Error
+Explanation: The vertex (4, 4) translated 2 units left and 1 unit up becomes (2, 5). Reflecting (2, 5) over the line y = 3 results in (2, 2(3) - 5) = (2, 1). The provided answer B (2, 2) is incorrect.
+
+Question: A triangle with vertices at (2, 1), (4, 1), and (3, 4) is first reflected over the line y = 3, then translated 1 unit to the right. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Success
+
+Question: A rectangle with vertices at (0, 1), (0, 4), (3, 4), and (3, 1) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Error
+Explanation: The vertex (3, 4) translated 1 unit right and 2 units down becomes (4, 2). Reflecting (4, 2) over the line x = 2 results in (2(2) - 4, 2) = (0, 2). The provided answer A (1, 2) is incorrect.
+
+Question: A shape with vertices at (1, 3), (4, 3), (4, 6), and (1, 6) is first reflected over the line y = 5, then translated 1 unit to the left. What are the new coordinates of the vertex originally at (4, 6)?
+Status: Success
+
+Question: A triangle with vertices at (0, 4), (2, 4), and (1, 7) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 3. What are the new coordinates of the vertex originally at (1, 7)?
+Status: Error
+Explanation: The vertex (1, 7) translated 1 unit right and 2 units down becomes (2, 5). Reflecting (2, 5) over the line x = 3 results in (2(3) - 2, 5) = (4, 5). The provided answer A (5, 5) is incorrect.
+
+Question: A quadrilateral with vertices at (2, 0), (5, 0), (5, 3), and (2, 3) is first reflected over the line x = 4, then translated 2 units up. What are the new coordinates of the vertex originally at (5, 3)?
+Status: Success
+
+Question: A pentagon with vertices at (1, 2), (3, 2), (4, 4), (2, 5), and (0, 4) is first translated 2 units to the left and 1 unit up, then reflected over the line y = 3. What are the new coordinates of the vertex originally at (4, 4)?
+Status: Error
+Explanation: The vertex (4, 4) translated 2 units left and 1 unit up becomes (2, 5). Reflecting (2, 5) over the line y = 3 results in (2, 2(3) - 5) = (2, 1). The provided answer B (2, 2) is incorrect.
+
+Question: A triangle with vertices at (2, 1), (4, 1), and (3, 4) is first reflected over the line y = 3, then translated 1 unit to the right. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Success
+
+Question: A rectangle with vertices at (0, 1), (0, 4), (3, 4), and (3, 1) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Error
+Explanation: The vertex (3, 4) translated 1 unit right and 2 units down becomes (4, 2). Reflecting (4, 2) over the line x = 2 results in (2(2) - 4, 2) = (0, 2). The provided answer A (1, 2) is incorrect.
+
+Question: A shape with vertices at (1, 3), (4, 3), (4, 6), and (1, 6) is first reflected over the line y = 5, then translated 1 unit to the left. What are the new coordinates of the vertex originally at (4, 6)?
+Status: Success
+
+Question: A triangle with vertices at (0, 4), (2, 4), and (1, 7) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 3. What are the new coordinates of the vertex originally at (1, 7)?
+Status: Error
+Explanation: The vertex (1, 7) translated 1 unit right and 2 units down becomes (2, 5). Reflecting (2, 5) over the line x = 3 results in (2(3) - 2, 5) = (4, 5). The provided answer A (5, 5) is incorrect.
+
+Question: A quadrilateral with vertices at (2, 0), (5, 0), (5, 3), and (2, 3) is first reflected over the line x = 4, then translated 2 units up. What are the new coordinates of the vertex originally at (5, 3)?
+Status: Success
+
+Question: A pentagon with vertices at (1, 2), (3, 2), (4, 4), (2, 5), and (0, 4) is first translated 2 units to the left and 1 unit up, then reflected over the line y = 3. What are the new coordinates of the vertex originally at (4, 4)?
+Status: Error
+Explanation: The vertex (4, 4) translated 2 units left and 1 unit up becomes (2, 5). Reflecting (2, 5) over the line y = 3 results in (2, 2(3) - 5) = (2, 1). The provided answer B (2, 2) is incorrect.
+
+Question: A triangle with vertices at (2, 1), (4, 1), and (3, 4) is first reflected over the line y = 3, then translated 1 unit to the right. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Success
+
+Question: A rectangle with vertices at (0, 1), (0, 4), (3, 4), and (3, 1) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Error
+Explanation: The vertex (3, 4) translated 1 unit right and 2 units down becomes (4, 2). Reflecting (4, 2) over the line x = 2 results in (2(2) - 4, 2) = (0, 2). The provided answer A (1, 2) is incorrect.
+
+Question: A shape with vertices at (1, 3), (4, 3), (4, 6), and (1, 6) is first reflected over the line y = 5, then translated 1 unit to the left. What are the new coordinates of the vertex originally at (4, 6)?
+Status: Success
+
+Question: A triangle with vertices at (0, 4), (2, 4), and (1, 7) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 3. What are the new coordinates of the vertex originally at (1, 7)?
+Status: Error
+Explanation: The vertex (1, 7) translated 1 unit right and 2 units down becomes (2, 5). Reflecting (2, 5) over the line x = 3 results in (2(3) - 2, 5) = (4, 5). The provided answer A (5, 5) is incorrect.
+
+Question: A quadrilateral with vertices at (2, 0), (5, 0), (5, 3), and (2, 3) is first reflected over the line x = 4, then translated 2 units up. What are the new coordinates of the vertex originally at (5, 3)?
+Status: Success
+
+Question: A pentagon with vertices at (1, 2), (3, 2), (4, 4), (2, 5), and (0, 4) is first translated 2 units to the left and 1 unit up, then reflected over the line y = 3. What are the new coordinates of the vertex originally at (4, 4)?
+Status: Error
+Explanation: The vertex (4, 4) translated 2 units left and 1 unit up becomes (2, 5). Reflecting (2, 5) over the line y = 3 results in (2, 2(3) - 5) = (2, 1). The provided answer B (2, 2) is incorrect.
+
+Question: A triangle with vertices at (2, 1), (4, 1), and (3, 4) is first reflected over the line y = 3, then translated 1 unit to the right. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Success
+
+Question: A rectangle with vertices at (0, 1), (0, 4), (3, 4), and (3, 1) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Error
+Explanation: The vertex (3, 4) translated 1 unit right and 2 units down becomes (4, 2). Reflecting (4, 2) over the line x = 2 results in (2(2) - 4, 2) = (0, 2). The provided answer A (1, 2) is incorrect.
+
+Question: A shape with vertices at (1, 3), (4, 3), (4, 6), and (1, 6) is first reflected over the line y = 5, then translated 1 unit to the left. What are the new coordinates of the vertex originally at (4, 6)?
+Status: Success
+
+Question: A triangle with vertices at (0, 4), (2, 4), and (1, 7) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 3. What are the new coordinates of the vertex originally at (1, 7)?
+Status: Error
+Explanation: The vertex (1, 7) translated 1 unit right and 2 units down becomes (2, 5). Reflecting (2, 5) over the line x = 3 results in (2(3) - 2, 5) = (4, 5). The provided answer A (5, 5) is incorrect.
+
+Question: A quadrilateral with vertices at (2, 0), (5, 0), (5, 3), and (2, 3) is first reflected over the line x = 4, then translated 2 units up. What are the new coordinates of the vertex originally at (5, 3)?
+Status: Success
+
+Question: A pentagon with vertices at (1, 2), (3, 2), (4, 4), (2, 5), and (0, 4) is first translated 2 units to the left and 1 unit up, then reflected over the line y = 3. What are the new coordinates of the vertex originally at (4, 4)?
+Status: Error
+Explanation: The vertex (4, 4) translated 2 units left and 1 unit up becomes (2, 5). Reflecting (2, 5) over the line y = 3 results in (2, 2(3) - 5) = (2, 1). The provided answer B (2, 2) is incorrect.
+
+Question: A triangle with vertices at (2, 1), (4, 1), and (3, 4) is first reflected over the line y = 3, then translated 1 unit to the right. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Success
+
+Question: A rectangle with vertices at (0, 1), (0, 4), (3, 4), and (3, 1) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Error
+Explanation: The vertex (3, 4) translated 1 unit right and 2 units down becomes (4, 2). Reflecting (4, 2) over the line x = 2 results in (2(2) - 4, 2) = (0, 2). The provided answer A (1, 2) is incorrect.
+
+Question: A shape with vertices at (1, 3), (4, 3), (4, 6), and (1, 6) is first reflected over the line y = 5, then translated 1 unit to the left. What are the new coordinates of the vertex originally at (4, 6)?
+Status: Success
+
+Question: A triangle with vertices at (0, 4), (2, 4), and (1, 7) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 3. What are the new coordinates of the vertex originally at (1, 7)?
+Status: Error
+Explanation: The vertex (1, 7) translated 1 unit right and 2 units down becomes (2, 5). Reflecting (2, 5) over the line x = 3 results in (2(3) - 2, 5) = (4, 5). The provided answer A (5, 5) is incorrect.
+
+Question: A quadrilateral with vertices at (2, 0), (5, 0), (5, 3), and (2, 3) is first reflected over the line x = 4, then translated 2 units up. What are the new coordinates of the vertex originally at (5, 3)?
+Status: Success
+
+Question: A pentagon with vertices at (1, 2), (3, 2), (4, 4), (2, 5), and (0, 4) is first translated 2 units to the left and 1 unit up, then reflected over the line y = 3. What are the new coordinates of the vertex originally at (4, 4)?
+Status: Error
+Explanation: The vertex (4, 4) translated 2 units left and 1 unit up becomes (2, 5). Reflecting (2, 5) over the line y = 3 results in (2, 2(3) - 5) = (2, 1). The provided answer B (2, 2) is incorrect.
+
+Question: A triangle with vertices at (2, 1), (4, 1), and (3, 4) is first reflected over the line y = 3, then translated 1 unit to the right. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Success
+
+Question: A rectangle with vertices at (0, 1), (0, 4), (3, 4), and (3, 1) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Error
+Explanation: The vertex (3, 4) translated 1 unit right and 2 units down becomes (4, 2). Reflecting (4, 2) over the line x = 2 results in (2(2) - 4, 2) = (0, 2). The provided answer A (1, 2) is incorrect.
+
+Question: A shape with vertices at (1, 3), (4, 3), (4, 6), and (1, 6) is first reflected over the line y = 5, then translated 1 unit to the left. What are the new coordinates of the vertex originally at (4, 6)?
+Status: Success
+
+Question: A triangle with vertices at (0, 4), (2, 4), and (1, 7) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 3. What are the new coordinates of the vertex originally at (1, 7)?
+Status: Error
+Explanation: The vertex (1, 7) translated 1 unit right and 2 units down becomes (2, 5). Reflecting (2, 5) over the line x = 3 results in (2(3) - 2, 5) = (4, 5). The provided answer A (5, 5) is incorrect.
+
+Question: A quadrilateral with vertices at (2, 0), (5, 0), (5, 3), and (2, 3) is first reflected over the line x = 4, then translated 2 units up. What are the new coordinates of the vertex originally at (5, 3)?
+Status: Success
+
+Question: A pentagon with vertices at (1, 2), (3, 2), (4, 4), (2, 5), and (0, 4) is first translated 2 units to the left and 1 unit up, then reflected over the line y = 3. What are the new coordinates of the vertex originally at (4, 4)?
+Status: Error
+Explanation: The vertex (4, 4) translated 2 units left and 1 unit up becomes (2, 5). Reflecting (2, 5) over the line y = 3 results in (2, 2(3) - 5) = (2, 1). The provided answer B (2, 2) is incorrect.
+
+Question: A triangle with vertices at (2, 1), (4, 1), and (3, 4) is first reflected over the line y = 3, then translated 1 unit to the right. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Success
+
+Question: A rectangle with vertices at (0, 1), (0, 4), (3, 4), and (3, 1) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Error
+Explanation: The vertex (3, 4) translated 1 unit right and 2 units down becomes (4, 2). Reflecting (4, 2) over the line x = 2 results in (2(2) - 4, 2) = (0, 2). The provided answer A (1, 2) is incorrect.
+
+Question: A shape with vertices at (1, 3), (4, 3), (4, 6), and (1, 6) is first reflected over the line y = 5, then translated 1 unit to the left. What are the new coordinates of the vertex originally at (4, 6)?
+Status: Success
+
+Question: A triangle with vertices at (0, 4), (2, 4), and (1, 7) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 3. What are the new coordinates of the vertex originally at (1, 7)?
+Status: Error
+Explanation: The vertex (1, 7) translated 1 unit right and 2 units down becomes (2, 5). Reflecting (2, 5) over the line x = 3 results in (2(3) - 2, 5) = (4, 5). The provided answer A (5, 5) is incorrect.
+
+Question: A quadrilateral with vertices at (2, 0), (5, 0), (5, 3), and (2, 3) is first reflected over the line x = 4, then translated 2 units up. What are the new coordinates of the vertex originally at (5, 3)?
+Status: Success
+
+Question: A pentagon with vertices at (1, 2), (3, 2), (4, 4), (2, 5), and (0, 4) is first translated 2 units to the left and 1 unit up, then reflected over the line y = 3. What are the new coordinates of the vertex originally at (4, 4)?
+Status: Error
+Explanation: The vertex (4, 4) translated 2 units left and 1 unit up becomes (2, 5). Reflecting (2, 5) over the line y = 3 results in (2, 2(3) - 5) = (2, 1). The provided answer B (2, 2) is incorrect.
+
+Question: A triangle with vertices at (2, 1), (4, 1), and (3, 4) is first reflected over the line y = 3, then translated 1 unit to the right. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Success
+
+Question: A rectangle with vertices at (0, 1), (0, 4), (3, 4), and (3, 1) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Error
+Explanation: The vertex (3, 4) translated 1 unit right and 2 units down becomes (4, 2). Reflecting (4, 2) over the line x = 2 results in (2(2) - 4, 2) = (0, 2). The provided answer A (1, 2) is incorrect.
+
+Question: A shape with vertices at (1, 3), (4, 3), (4, 6), and (1, 6) is first reflected over the line y = 5, then translated 1 unit to the left. What are the new coordinates of the vertex originally at (4, 6)?
+Status: Success
+
+Question: A triangle with vertices at (0, 4), (2, 4), and (1, 7) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 3. What are the new coordinates of the vertex originally at (1, 7)?
+Status: Error
+Explanation: The vertex (1, 7) translated 1 unit right and 2 units down becomes (2, 5). Reflecting (2, 5) over the line x = 3 results in (2(3) - 2, 5) = (4, 5). The provided answer A (5, 5) is incorrect.
+
+Question: A quadrilateral with vertices at (2, 0), (5, 0), (5, 3), and (2, 3) is first reflected over the line x = 4, then translated 2 units up. What are the new coordinates of the vertex originally at (5, 3)?
+Status: Success
+
+Question: A pentagon with vertices at (1, 2), (3, 2), (4, 4), (2, 5), and (0, 4) is first translated 2 units to the left and 1 unit up, then reflected over the line y = 3. What are the new coordinates of the vertex originally at (4, 4)?
+Status: Error
+Explanation: The vertex (4, 4) translated 2 units left and 1 unit up becomes (2, 5). Reflecting (2, 5) over the line y = 3 results in (2, 2(3) - 5) = (2, 1). The provided answer B (2, 2) is incorrect.
+
+Question: A triangle with vertices at (2, 1), (4, 1), and (3, 4) is first reflected over the line y = 3, then translated 1 unit to the right. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Success
+
+Question: A rectangle with vertices at (0, 1), (0, 4), (3, 4), and (3, 1) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Error
+Explanation: The vertex (3, 4) translated 1 unit right and 2 units down becomes (4, 2). Reflecting (4, 2) over the line x = 2 results in (2(2) - 4, 2) = (0, 2). The provided answer A (1, 2) is incorrect.
+
+Question: A shape with vertices at (1, 3), (4, 3), (4, 6), and (1, 6) is first reflected over the line y = 5, then translated 1 unit to the left. What are the new coordinates of the vertex originally at (4, 6)?
+Status: Success
+
+Question: A triangle with vertices at (0, 4), (2, 4), and (1, 7) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 3. What are the new coordinates of the vertex originally at (1, 7)?
+Status: Error
+Explanation: The vertex (1, 7) translated 1 unit right and 2 units down becomes (2, 5). Reflecting (2, 5) over the line x = 3 results in (2(3) - 2, 5) = (4, 5). The provided answer A (5, 5) is incorrect.
+
+Question: A quadrilateral with vertices at (2, 0), (5, 0), (5, 3), and (2, 3) is first reflected over the line x = 4, then translated 2 units up. What are the new coordinates of the vertex originally at (5, 3)?
+Status: Success
+
+Question: A pentagon with vertices at (1, 2), (3, 2), (4, 4), (2, 5), and (0, 4) is first translated 2 units to the left and 1 unit up, then reflected over the line y = 3. What are the new coordinates of the vertex originally at (4, 4)?
+Status: Error
+Explanation: The vertex (4, 4) translated 2 units left and 1 unit up becomes (2, 5). Reflecting (2, 5) over the line y = 3 results in (2, 2(3) - 5) = (2, 1). The provided answer B (2, 2) is incorrect.
+
+Question: A triangle with vertices at (2, 1), (4, 1), and (3, 4) is first reflected over the line y = 3, then translated 1 unit to the right. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Success
+
+Question: A rectangle with vertices at (0, 1), (0, 4), (3, 4), and (3, 1) is first translated 1 unit to the right and 2 units down, then reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 4)?
+Status: Error
+Explanation: The vertex (3, 4) translated 1 unit right and 2 units down becomes (4, 2). Reflecting (4, 2) over the line x = 2 results in (2(2) - 4, 2) = (0, 2). The provided answer A (1, 2) is incorrect.
+
+Question: A shape with vertices at (1, 3), (4, 3), (4, 6), and (1, 6) is first reflected over the line y = 5, then translated 1 unit to the left. What are the new coordinates of the vertex originally at (4, 6)?
+Status: Success

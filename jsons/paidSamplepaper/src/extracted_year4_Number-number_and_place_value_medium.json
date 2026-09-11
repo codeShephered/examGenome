@@ -1,0 +1,5462 @@
+[
+    {
+        "question": "What is 1,000 less than 12,456?",
+        "answer": "A",
+        "options": {
+            "A": "11,456",
+            "B": "12,356",
+            "C": "13,456",
+            "D": "12,446"
+        }
+    },
+    {
+        "question": "What is 1,000 more than 9,876?",
+        "answer": "B",
+        "options": {
+            "A": "9,877",
+            "B": "10,876",
+            "C": "9,976",
+            "D": "8,876"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 6,000; 6,006; 6,012; 6,018; ...?",
+        "answer": "B",
+        "options": {
+            "A": "6,020",
+            "B": "6,024",
+            "C": "6,030",
+            "D": "6,036"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 7,000; 7,007; 7,014; 7,021; ...?",
+        "answer": "B",
+        "options": {
+            "A": "7,027",
+            "B": "7,028",
+            "C": "7,030",
+            "D": "7,035"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 9,000; 9,009; 9,018; 9,027; ...?",
+        "answer": "B",
+        "options": {
+            "A": "9,030",
+            "B": "9,036",
+            "C": "9,045",
+            "D": "9,054"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 250; 275; 300; 325; ...?",
+        "answer": "B",
+        "options": {
+            "A": "340",
+            "B": "350",
+            "C": "375",
+            "D": "400"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 5,000; 6,000; 7,000; ...?",
+        "answer": "B",
+        "options": {
+            "A": "7,500",
+            "B": "8,000",
+            "C": "9,000",
+            "D": "10,000"
+        }
+    },
+    {
+        "question": "Starting at 5 and counting backwards through zero, what is the 8th number?",
+        "answer": "A",
+        "options": {
+            "A": "-2",
+            "B": "-3",
+            "C": "-4",
+            "D": "-5"
+        }
+    },
+    {
+        "question": "Starting at 3 and counting backwards through zero, what is the 7th number?",
+        "answer": "B",
+        "options": {
+            "A": "-2",
+            "B": "-3",
+            "C": "-4",
+            "D": "-1"
+        }
+    },
+    {
+        "question": "What number is halfway between -6 and 4?",
+        "answer": "B",
+        "options": {
+            "A": "-2",
+            "B": "-1",
+            "C": "0",
+            "D": "1"
+        }
+    },
+    {
+        "question": "In the number 15,672, what is the value of the digit 6?",
+        "answer": "C",
+        "options": {
+            "A": "6",
+            "B": "60",
+            "C": "600",
+            "D": "6,000"
+        }
+    },
+    {
+        "question": "In the number 23,045, what is the value of the digit 2?",
+        "answer": "D",
+        "options": {
+            "A": "2",
+            "B": "20",
+            "C": "200",
+            "D": "20,000"
+        }
+    },
+    {
+        "question": "In the number 8,904, what is the value of the digit 9?",
+        "answer": "C",
+        "options": {
+            "A": "9",
+            "B": "90",
+            "C": "900",
+            "D": "9,000"
+        }
+    },
+    {
+        "question": "Which digit is in the thousands place in 47,215?",
+        "answer": "B",
+        "options": {
+            "A": "4",
+            "B": "7",
+            "C": "2",
+            "D": "1"
+        }
+    },
+    {
+        "question": "Which digit has the greatest value in 6,382?",
+        "answer": "A",
+        "options": {
+            "A": "6",
+            "B": "3",
+            "C": "8",
+            "D": "2"
+        }
+    },
+    {
+        "question": "Which number is greater: 12,345 or 12,435?",
+        "answer": "B",
+        "options": {
+            "A": "12,345",
+            "B": "12,435",
+            "C": "They are equal",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "Which number is smaller: 25,678 or 25,687?",
+        "answer": "A",
+        "options": {
+            "A": "25,678",
+            "B": "25,687",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Order these numbers from smallest to largest: 10,001; 9,999; 10,100; 9,900.",
+        "answer": "A",
+        "options": {
+            "A": "9,900; 9,999; 10,001; 10,100",
+            "B": "9,999; 9,900; 10,001; 10,100",
+            "C": "10,100; 10,001; 9,999; 9,900",
+            "D": "9,900; 10,001; 9,999; 10,100"
+        }
+    },
+    {
+        "question": "Which symbol correctly compares 45,678 and 45,687?",
+        "answer": "B",
+        "options": {
+            "A": "=",
+            "B": "<",
+            "C": ">",
+            "D": "\u2265"
+        }
+    },
+    {
+        "question": "Which of these numbers is the largest: 56,789; 56,798; 56,879; 56,897?",
+        "answer": "D",
+        "options": {
+            "A": "56,789",
+            "B": "56,798",
+            "C": "56,879",
+            "D": "56,897"
+        }
+    },
+    {
+        "question": "What number is represented by 3 \u00d7 10,000 + 0 \u00d7 1,000 + 4 \u00d7 100 + 5 \u00d7 10 + 2 \u00d7 1?",
+        "answer": "A",
+        "options": {
+            "A": "30,452",
+            "B": "34,052",
+            "C": "30,425",
+            "D": "34,502"
+        }
+    },
+    {
+        "question": "Which number matches this description: 7 ten-thousands, 2 thousands, 0 hundreds, 6 tens, and 3 ones?",
+        "answer": "A",
+        "options": {
+            "A": "72,063",
+            "B": "70,263",
+            "C": "72,603",
+            "D": "702,063"
+        }
+    },
+    {
+        "question": "Round 12,347 to the nearest 10.",
+        "answer": "B",
+        "options": {
+            "A": "12,340",
+            "B": "12,350",
+            "C": "12,300",
+            "D": "12,400"
+        }
+    },
+    {
+        "question": "Round 56,782 to the nearest 100.",
+        "answer": "B",
+        "options": {
+            "A": "56,700",
+            "B": "56,800",
+            "C": "56,780",
+            "D": "57,000"
+        }
+    },
+    {
+        "question": "Round 84,521 to the nearest 1,000.",
+        "answer": "B",
+        "options": {
+            "A": "84,000",
+            "B": "85,000",
+            "C": "84,500",
+            "D": "80,000"
+        }
+    },
+    {
+        "question": "Round 99,999 to the nearest 1,000.",
+        "answer": "B",
+        "options": {
+            "A": "99,000",
+            "B": "100,000",
+            "C": "99,900",
+            "D": "101,000"
+        }
+    },
+    {
+        "question": "Round 45,678 to the nearest 10,000.",
+        "answer": "B",
+        "options": {
+            "A": "40,000",
+            "B": "50,000",
+            "C": "45,000",
+            "D": "46,000"
+        }
+    },
+    {
+        "question": "A number rounds to 70,000 when rounded to the nearest 10,000. Which could it be?",
+        "answer": "B",
+        "options": {
+            "A": "64,999",
+            "B": "65,001",
+            "C": "75,000",
+            "D": "76,000"
+        }
+    },
+    {
+        "question": "A number rounds to 23,400 when rounded to the nearest 100. Which could it be?",
+        "answer": "C",
+        "options": {
+            "A": "23,349",
+            "B": "23,451",
+            "C": "23,449",
+            "D": "23,300"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 44?",
+        "answer": "B",
+        "options": {
+            "A": "XXXXIV",
+            "B": "XLIV",
+            "C": "LXIV",
+            "D": "XLVI"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 68?",
+        "answer": "A",
+        "options": {
+            "A": "LXVIII",
+            "B": "LVIII",
+            "C": "LXXVIII",
+            "D": "XLVIII"
+        }
+    },
+    {
+        "question": "What number does the Roman numeral 'LXXXIX' represent?",
+        "answer": "B",
+        "options": {
+            "A": "79",
+            "B": "89",
+            "C": "99",
+            "D": "88"
+        }
+    },
+    {
+        "question": "What number does the Roman numeral 'XCIV' represent?",
+        "answer": "A",
+        "options": {
+            "A": "94",
+            "B": "104",
+            "C": "84",
+            "D": "96"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 96?",
+        "answer": "A",
+        "options": {
+            "A": "XCVI",
+            "B": "LXXXXVI",
+            "C": "CXVI",
+            "D": "ICVI"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 77?",
+        "answer": "A",
+        "options": {
+            "A": "LXXVII",
+            "B": "LXVII",
+            "C": "LXXXVII",
+            "D": "LVII"
+        }
+    },
+    {
+        "question": "What is 89 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXIX",
+            "B": "LXXIX",
+            "C": "XCIX",
+            "D": "LXXXVIIII"
+        }
+    },
+    {
+        "question": "What is 99 in Roman numerals?",
+        "answer": "B",
+        "options": {
+            "A": "IC",
+            "B": "XCIX",
+            "C": "LXXXXIX",
+            "D": "CIX"
+        }
+    },
+    {
+        "question": "Which number is represented by 'XLVIII'?",
+        "answer": "A",
+        "options": {
+            "A": "48",
+            "B": "58",
+            "C": "68",
+            "D": "42"
+        }
+    },
+    {
+        "question": "Which number is represented by 'LXXIV'?",
+        "answer": "B",
+        "options": {
+            "A": "64",
+            "B": "74",
+            "C": "84",
+            "D": "76"
+        }
+    },
+    {
+        "question": "Estimate the total cost of items priced at \u00a34,567, \u00a32,345, and \u00a31,890 by rounding each to the nearest \u00a31,000.",
+        "answer": "B",
+        "options": {
+            "A": "\u00a38,000",
+            "B": "\u00a39,000",
+            "C": "\u00a310,000",
+            "D": "\u00a37,000"
+        }
+    },
+    {
+        "question": "A town has a population of 23,456. Rounded to the nearest 1,000, what is the population?",
+        "answer": "A",
+        "options": {
+            "A": "23,000",
+            "B": "24,000",
+            "C": "23,500",
+            "D": "20,000"
+        }
+    },
+    {
+        "question": "A car travels 15,678 metres. Rounded to the nearest 100 metres, how far did it travel?",
+        "answer": "B",
+        "options": {
+            "A": "15,600 m",
+            "B": "15,700 m",
+            "C": "15,680 m",
+            "D": "16,000 m"
+        }
+    },
+    {
+        "question": "Which number is 1,000 less than one hundred thousand?",
+        "answer": "A",
+        "options": {
+            "A": "99,000",
+            "B": "99,900",
+            "C": "99,999",
+            "D": "100,000"
+        }
+    },
+    {
+        "question": "Which number is 1,000 more than ninety-nine thousand?",
+        "answer": "B",
+        "options": {
+            "A": "99,001",
+            "B": "100,000",
+            "C": "101,000",
+            "D": "99,100"
+        }
+    },
+    {
+        "question": "Count in 25s from 0. Which of these numbers will you say?",
+        "answer": "A",
+        "options": {
+            "A": "125",
+            "B": "130",
+            "C": "135",
+            "D": "140"
+        }
+    },
+    {
+        "question": "Count in 9s from 0. Which number will you NOT say?",
+        "answer": "D",
+        "options": {
+            "A": "81",
+            "B": "90",
+            "C": "99",
+            "D": "100"
+        }
+    },
+    {
+        "question": "Count in 7s from 0. Which number will you say?",
+        "answer": "A",
+        "options": {
+            "A": "77",
+            "B": "78",
+            "C": "79",
+            "D": "80"
+        }
+    },
+    {
+        "question": "Count in 6s from 0. Which number is NOT in the sequence?",
+        "answer": "D",
+        "options": {
+            "A": "72",
+            "B": "78",
+            "C": "84",
+            "D": "85"
+        }
+    },
+    {
+        "question": "What is the 10th number when counting in 1,000s starting from 1,000?",
+        "answer": "A",
+        "options": {
+            "A": "10,000",
+            "B": "9,000",
+            "C": "11,000",
+            "D": "1,000"
+        }
+    },
+    {
+        "question": "What is the temperature if it starts at 3\u00b0C and drops by 8 degrees?",
+        "answer": "A",
+        "options": {
+            "A": "-5\u00b0C",
+            "B": "5\u00b0C",
+            "C": "-11\u00b0C",
+            "D": "11\u00b0C"
+        }
+    },
+    {
+        "question": "If the temperature was -4\u00b0C and it rose by 7 degrees, what is the new temperature?",
+        "answer": "A",
+        "options": {
+            "A": "3\u00b0C",
+            "B": "-11\u00b0C",
+            "C": "11\u00b0C",
+            "D": "-3\u00b0C"
+        }
+    },
+    {
+        "question": "Which number is greater: -12 or -8?",
+        "answer": "B",
+        "options": {
+            "A": "-12",
+            "B": "-8",
+            "C": "They are equal",
+            "D": "Neither"
+        }
+    },
+    {
+        "question": "Order these temperatures from coldest to warmest: -5\u00b0C, 2\u00b0C, -10\u00b0C, 0\u00b0C.",
+        "answer": "A",
+        "options": {
+            "A": "-10\u00b0C, -5\u00b0C, 0\u00b0C, 2\u00b0C",
+            "B": "2\u00b0C, 0\u00b0C, -5\u00b0C, -10\u00b0C",
+            "C": "-5\u00b0C, -10\u00b0C, 0\u00b0C, 2\u00b0C",
+            "D": "0\u00b0C, -5\u00b0C, 2\u00b0C, -10\u00b0C"
+        }
+    },
+    {
+        "question": "What number is 5 less than -3?",
+        "answer": "A",
+        "options": {
+            "A": "-8",
+            "B": "-2",
+            "C": "2",
+            "D": "8"
+        }
+    },
+    {
+        "question": "What number is 6 more than -9?",
+        "answer": "B",
+        "options": {
+            "A": "-15",
+            "B": "-3",
+            "C": "3",
+            "D": "15"
+        }
+    },
+    {
+        "question": "In the number 105,234, what is the place value of the digit 5?",
+        "answer": "D",
+        "options": {
+            "A": "5",
+            "B": "50",
+            "C": "500",
+            "D": "5,000"
+        }
+    },
+    {
+        "question": "In the number 204,067, what is the value of the digit 4?",
+        "answer": "D",
+        "options": {
+            "A": "4",
+            "B": "40",
+            "C": "400",
+            "D": "4,000"
+        }
+    },
+    {
+        "question": "Which number has the same value as 60,000 + 300 + 40 + 7?",
+        "answer": "A",
+        "options": {
+            "A": "60,347",
+            "B": "63,047",
+            "C": "60,437",
+            "D": "63,470"
+        }
+    },
+    {
+        "question": "Which number is shown by 9 \u00d7 10,000 + 2 \u00d7 1,000 + 0 \u00d7 100 + 5 \u00d7 10 + 1 \u00d7 1?",
+        "answer": "A",
+        "options": {
+            "A": "92,051",
+            "B": "90,251",
+            "C": "92,501",
+            "D": "902,051"
+        }
+    },
+    {
+        "question": "Round 123,456 to the nearest 1,000.",
+        "answer": "A",
+        "options": {
+            "A": "123,000",
+            "B": "124,000",
+            "C": "123,500",
+            "D": "120,000"
+        }
+    },
+    {
+        "question": "Round 789,512 to the nearest 10,000.",
+        "answer": "B",
+        "options": {
+            "A": "780,000",
+            "B": "790,000",
+            "C": "789,000",
+            "D": "800,000"
+        }
+    },
+    {
+        "question": "Round 456,789 to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "400,000",
+            "B": "500,000",
+            "C": "450,000",
+            "D": "460,000"
+        }
+    },
+    {
+        "question": "A stadium holds 67,823 people. Rounded to the nearest 1,000, how many people does it hold?",
+        "answer": "B",
+        "options": {
+            "A": "67,000",
+            "B": "68,000",
+            "C": "67,800",
+            "D": "70,000"
+        }
+    },
+    {
+        "question": "Which number rounds to 500,000 when rounded to the nearest 100,000?",
+        "answer": "B",
+        "options": {
+            "A": "449,999",
+            "B": "450,001",
+            "C": "550,000",
+            "D": "560,000"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 84?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXIV",
+            "B": "XXCIV",
+            "C": "LXXIV",
+            "D": "LXXXVI"
+        }
+    },
+    {
+        "question": "What number is represented by 'XCVII'?",
+        "answer": "B",
+        "options": {
+            "A": "87",
+            "B": "97",
+            "C": "107",
+            "D": "92"
+        }
+    },
+    {
+        "question": "Which Roman numeral is 73?",
+        "answer": "A",
+        "options": {
+            "A": "LXXIII",
+            "B": "LXIII",
+            "C": "LXXXIII",
+            "D": "LXXII"
+        }
+    },
+    {
+        "question": "Which Roman numeral is 92?",
+        "answer": "A",
+        "options": {
+            "A": "XCII",
+            "B": "LXXXXII",
+            "C": "CII",
+            "D": "LXXII"
+        }
+    },
+    {
+        "question": "What is 66 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LXVI",
+            "B": "LVVI",
+            "C": "LXIV",
+            "D": "LXXVI"
+        }
+    },
+    {
+        "question": "What number is halfway between 10,000 and 20,000?",
+        "answer": "B",
+        "options": {
+            "A": "12,500",
+            "B": "15,000",
+            "C": "17,500",
+            "D": "18,000"
+        }
+    },
+    {
+        "question": "What number is halfway between -10 and 6?",
+        "answer": "B",
+        "options": {
+            "A": "-4",
+            "B": "-2",
+            "C": "0",
+            "D": "2"
+        }
+    },
+    {
+        "question": "Which number is 1,000 more than the largest four-digit number?",
+        "answer": "B",
+        "options": {
+            "A": "9,999",
+            "B": "10,000",
+            "C": "10,001",
+            "D": "11,000"
+        }
+    },
+    {
+        "question": "Which number is 1,000 more than 9,000?",
+        "answer": "C",
+        "options": {
+            "A": "8,000",
+            "B": "9,001",
+            "C": "10,000",
+            "D": "11,000"
+        }
+    },
+    {
+        "question": "Which number is 1,000 less than the smallest five-digit number?",
+        "answer": "A",
+        "options": {
+            "A": "9,000",
+            "B": "9,999",
+            "C": "10,000",
+            "D": "10,001"
+        }
+    },
+    {
+        "question": "What is 1,000 less than 10,000?",
+        "answer": "A",
+        "options": {
+            "A": "9,000",
+            "B": "9,900",
+            "C": "9,999",
+            "D": "11,000"
+        }
+    },
+    {
+        "question": "How many thousands are in 45,000?",
+        "answer": "C",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "45",
+            "D": "450"
+        }
+    },
+    {
+        "question": "How many hundreds are in 12,000?",
+        "answer": "B",
+        "options": {
+            "A": "12",
+            "B": "120",
+            "C": "1,200",
+            "D": "12,000"
+        }
+    },
+    {
+        "question": "How many tens are in 8,000?",
+        "answer": "C",
+        "options": {
+            "A": "8",
+            "B": "80",
+            "C": "800",
+            "D": "8,000"
+        }
+    },
+    {
+        "question": "Which number is 100 more than 9,950?",
+        "answer": "C",
+        "options": {
+            "A": "9,960",
+            "B": "10,000",
+            "C": "10,050",
+            "D": "9,850"
+        }
+    },
+    {
+        "question": "Which number is 100 less than 50,100?",
+        "answer": "A",
+        "options": {
+            "A": "50,000",
+            "B": "49,900",
+            "C": "50,090",
+            "D": "51,000"
+        }
+    },
+    {
+        "question": "Count in 25s: what number comes after 375?",
+        "answer": "B",
+        "options": {
+            "A": "380",
+            "B": "400",
+            "C": "390",
+            "D": "385"
+        }
+    },
+    {
+        "question": "Count in 9s: what number comes after 108?",
+        "answer": "B",
+        "options": {
+            "A": "110",
+            "B": "117",
+            "C": "126",
+            "D": "118"
+        }
+    },
+    {
+        "question": "Count in 7s: what number comes after 119?",
+        "answer": "B",
+        "options": {
+            "A": "120",
+            "B": "126",
+            "C": "133",
+            "D": "128"
+        }
+    },
+    {
+        "question": "Count in 6s: what number comes after 132?",
+        "answer": "B",
+        "options": {
+            "A": "135",
+            "B": "138",
+            "C": "144",
+            "D": "140"
+        }
+    },
+    {
+        "question": "Count in 1,000s: what number comes after 99,000?",
+        "answer": "B",
+        "options": {
+            "A": "99,001",
+            "B": "100,000",
+            "C": "101,000",
+            "D": "99,100"
+        }
+    },
+    {
+        "question": "What is the sum of the place values of the two 5s in 52,531?",
+        "answer": "B",
+        "options": {
+            "A": "50,050",
+            "B": "50,500",
+            "C": "55,000",
+            "D": "5,500"
+        }
+    },
+    {
+        "question": "What is the difference between the place values of the two 8s in 84,082?",
+        "answer": "A",
+        "options": {
+            "A": "79,920",
+            "B": "80,000",
+            "C": "80,080",
+            "D": "79,900"
+        }
+    },
+    {
+        "question": "Which number is represented on an abacus with 3 beads in the ten-thousands column, 0 in thousands, 7 in hundreds, 0 in tens, and 4 in ones?",
+        "answer": "A",
+        "options": {
+            "A": "30,704",
+            "B": "37,004",
+            "C": "30,740",
+            "D": "37,040"
+        }
+    },
+    {
+        "question": "A number has 6 in the ten-thousands place, 0 in the thousands, 0 in the hundreds, 5 in the tens, and 0 in the ones. What is the number?",
+        "answer": "A",
+        "options": {
+            "A": "60,050",
+            "B": "60,500",
+            "C": "65,000",
+            "D": "6,050"
+        }
+    },
+    {
+        "question": "Round 999,999 to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "900,000",
+            "B": "1,000,000",
+            "C": "990,000",
+            "D": "1,100,000"
+        }
+    },
+    {
+        "question": "Round 1,234,567 to the nearest 10,000.",
+        "answer": "A",
+        "options": {
+            "A": "1,230,000",
+            "B": "1,240,000",
+            "C": "1,235,000",
+            "D": "1,200,000"
+        }
+    },
+    {
+        "question": "Round 5,678,901 to the nearest 1,000,000.",
+        "answer": "B",
+        "options": {
+            "A": "5,000,000",
+            "B": "6,000,000",
+            "C": "5,700,000",
+            "D": "5,600,000"
+        }
+    },
+    {
+        "question": "Which number is closest to 789,456 when rounded to the nearest 10,000?",
+        "answer": "B",
+        "options": {
+            "A": "780,000",
+            "B": "790,000",
+            "C": "789,000",
+            "D": "800,000"
+        }
+    },
+    {
+        "question": "A number rounds to 300,000 when rounded to the nearest 100,000. Which could it be?",
+        "answer": "B",
+        "options": {
+            "A": "249,999",
+            "B": "250,001",
+            "C": "350,000",
+            "D": "360,000"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 98?",
+        "answer": "A",
+        "options": {
+            "A": "XCVIII",
+            "B": "LXXXXVIII",
+            "C": "ICVIII",
+            "D": "CXVIII"
+        }
+    },
+    {
+        "question": "What number is represented by 'LXXXVII'?",
+        "answer": "B",
+        "options": {
+            "A": "77",
+            "B": "87",
+            "C": "97",
+            "D": "88"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 64?",
+        "answer": "A",
+        "options": {
+            "A": "LXIV",
+            "B": "LIV",
+            "C": "LXVI",
+            "D": "XLIV"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 86?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXVI",
+            "B": "LXXVI",
+            "C": "XCVI",
+            "D": "LXXXIV"
+        }
+    },
+    {
+        "question": "What is 79 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LXXIX",
+            "B": "LXIX",
+            "C": "LXXXIX",
+            "D": "LXXVIIII"
+        }
+    },
+    {
+        "question": "What is 91 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "XCI",
+            "B": "LXXXXI",
+            "C": "CXI",
+            "D": "IC"
+        }
+    },
+    {
+        "question": "Which number is represented by 'XLIX'?",
+        "answer": "A",
+        "options": {
+            "A": "49",
+            "B": "59",
+            "C": "69",
+            "D": "41"
+        }
+    },
+    {
+        "question": "Which number is represented by 'LXXIX'?",
+        "answer": "B",
+        "options": {
+            "A": "69",
+            "B": "79",
+            "C": "89",
+            "D": "71"
+        }
+    },
+    {
+        "question": "Estimate the difference between 87,654 and 23,456 by rounding both to the nearest 10,000.",
+        "answer": "B",
+        "options": {
+            "A": "60,000",
+            "B": "70,000",
+            "C": "64,000",
+            "D": "65,000"
+        }
+    },
+    {
+        "question": "A library has 123,789 books. Rounded to the nearest 1,000, how many books are there?",
+        "answer": "B",
+        "options": {
+            "A": "123,000",
+            "B": "124,000",
+            "C": "123,800",
+            "D": "120,000"
+        }
+    },
+    {
+        "question": "A mountain is 4,567 metres high. Rounded to the nearest 100 metres, what is its height?",
+        "answer": "B",
+        "options": {
+            "A": "4,500 m",
+            "B": "4,600 m",
+            "C": "4,570 m",
+            "D": "5,000 m"
+        }
+    },
+    {
+        "question": "What is the smallest five-digit number?",
+        "answer": "A",
+        "options": {
+            "A": "10,000",
+            "B": "1,000",
+            "C": "9,999",
+            "D": "100,000"
+        }
+    },
+    {
+        "question": "What is the largest five-digit number?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "9,999",
+            "D": "1,000,000"
+        }
+    },
+    {
+        "question": "Which number is 10,000 more than 85,432?",
+        "answer": "B",
+        "options": {
+            "A": "85,442",
+            "B": "95,432",
+            "C": "86,432",
+            "D": "75,432"
+        }
+    },
+    {
+        "question": "Which number is 10,000 less than 120,000?",
+        "answer": "A",
+        "options": {
+            "A": "110,000",
+            "B": "100,000",
+            "C": "121,000",
+            "D": "119,000"
+        }
+    },
+    {
+        "question": "Count in 25s: which number comes before 500?",
+        "answer": "A",
+        "options": {
+            "A": "475",
+            "B": "480",
+            "C": "490",
+            "D": "495"
+        }
+    },
+    {
+        "question": "Count in 9s: which number comes before 180?",
+        "answer": "B",
+        "options": {
+            "A": "170",
+            "B": "171",
+            "C": "175",
+            "D": "179"
+        }
+    },
+    {
+        "question": "Count in 7s: which number comes before 140?",
+        "answer": "B",
+        "options": {
+            "A": "130",
+            "B": "133",
+            "C": "137",
+            "D": "139"
+        }
+    },
+    {
+        "question": "Count in 6s: which number comes before 150?",
+        "answer": "A",
+        "options": {
+            "A": "144",
+            "B": "145",
+            "C": "146",
+            "D": "148"
+        }
+    },
+    {
+        "question": "Count in 1,000s: which number comes before 50,000?",
+        "answer": "A",
+        "options": {
+            "A": "49,000",
+            "B": "49,999",
+            "C": "40,000",
+            "D": "51,000"
+        }
+    },
+    {
+        "question": "What is the value of the digit 7 in 707,070?",
+        "answer": "A",
+        "options": {
+            "A": "700,000 and 7,000 and 70",
+            "B": "700,000 and 700 and 70",
+            "C": "70,000 and 700 and 7",
+            "D": "700,000 and 70 and 7"
+        }
+    },
+    {
+        "question": "What is the sum of the place values of all digits in 5,005?",
+        "answer": "A",
+        "options": {
+            "A": "5,005",
+            "B": "10,010",
+            "C": "5,010",
+            "D": "10,000"
+        }
+    },
+    {
+        "question": "Which number is represented by 400,000 + 30,000 + 0 + 500 + 20 + 1?",
+        "answer": "A",
+        "options": {
+            "A": "430,521",
+            "B": "403,521",
+            "C": "435,021",
+            "D": "430,251"
+        }
+    },
+    {
+        "question": "Round 2,345,678 to the nearest 100,000.",
+        "answer": "A",
+        "options": {
+            "A": "2,300,000",
+            "B": "2,400,000",
+            "C": "2,350,000",
+            "D": "2,000,000"
+        }
+    },
+    {
+        "question": "Round 9,876,543 to the nearest 1,000,000.",
+        "answer": "B",
+        "options": {
+            "A": "9,000,000",
+            "B": "10,000,000",
+            "C": "9,900,000",
+            "D": "9,800,000"
+        }
+    },
+    {
+        "question": "A number rounds to 5,000,000 when rounded to the nearest 1,000,000. Which could it be?",
+        "answer": "B",
+        "options": {
+            "A": "4,499,999",
+            "B": "4,500,001",
+            "C": "5,500,000",
+            "D": "5,600,000"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 93?",
+        "answer": "A",
+        "options": {
+            "A": "XCIII",
+            "B": "LXXXXIII",
+            "C": "CIII",
+            "D": "LXXXIII"
+        }
+    },
+    {
+        "question": "What number is represented by 'LXXXVIII'?",
+        "answer": "B",
+        "options": {
+            "A": "78",
+            "B": "88",
+            "C": "98",
+            "D": "87"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 76?",
+        "answer": "A",
+        "options": {
+            "A": "LXXVI",
+            "B": "LXVI",
+            "C": "LXXXVI",
+            "D": "LXXIV"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 82?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXII",
+            "B": "LXXII",
+            "C": "XCII",
+            "D": "LXXXVII"
+        }
+    },
+    {
+        "question": "What is 69 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LXIX",
+            "B": "LIX",
+            "C": "LXXIX",
+            "D": "LXVIIII"
+        }
+    },
+    {
+        "question": "What is 94 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "XCIV",
+            "B": "LXXXXIV",
+            "C": "CIV",
+            "D": "LXXXIV"
+        }
+    },
+    {
+        "question": "Which number is represented by 'XLVII'?",
+        "answer": "A",
+        "options": {
+            "A": "47",
+            "B": "57",
+            "C": "67",
+            "D": "42"
+        }
+    },
+    {
+        "question": "Which number is represented by 'LXXVI'?",
+        "answer": "B",
+        "options": {
+            "A": "66",
+            "B": "76",
+            "C": "86",
+            "D": "74"
+        }
+    },
+    {
+        "question": "Estimate the sum of 456,789 and 321,098 by rounding each to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "700,000",
+            "B": "800,000",
+            "C": "780,000",
+            "D": "750,000"
+        }
+    },
+    {
+        "question": "A city has a population of 2,345,678. Rounded to the nearest 100,000, what is the population?",
+        "answer": "A",
+        "options": {
+            "A": "2,300,000",
+            "B": "2,400,000",
+            "C": "2,350,000",
+            "D": "2,000,000"
+        }
+    },
+    {
+        "question": "A river is 12,345 km long. Rounded to the nearest 1,000 km, how long is it?",
+        "answer": "A",
+        "options": {
+            "A": "12,000 km",
+            "B": "13,000 km",
+            "C": "12,300 km",
+            "D": "12,400 km"
+        }
+    },
+    {
+        "question": "What is 1,000 less than 56,789?",
+        "answer": "A",
+        "options": {
+            "A": "55,789",
+            "B": "56,689",
+            "C": "57,789",
+            "D": "56,779"
+        }
+    },
+    {
+        "question": "What is 1,000 more than 89,421?",
+        "answer": "B",
+        "options": {
+            "A": "89,422",
+            "B": "90,421",
+            "C": "88,421",
+            "D": "89,521"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 12,000; 12,006; 12,012; 12,018; ...?",
+        "answer": "B",
+        "options": {
+            "A": "12,020",
+            "B": "12,024",
+            "C": "12,030",
+            "D": "12,036"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 21,000; 21,007; 21,014; 21,021; ...?",
+        "answer": "B",
+        "options": {
+            "A": "21,027",
+            "B": "21,028",
+            "C": "21,030",
+            "D": "21,035"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 36,000; 36,009; 36,018; 36,027; ...?",
+        "answer": "B",
+        "options": {
+            "A": "36,030",
+            "B": "36,036",
+            "C": "36,045",
+            "D": "36,054"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 175; 200; 225; 250; ...?",
+        "answer": "B",
+        "options": {
+            "A": "260",
+            "B": "275",
+            "C": "300",
+            "D": "265"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 45,000; 46,000; 47,000; ...?",
+        "answer": "B",
+        "options": {
+            "A": "47,500",
+            "B": "48,000",
+            "C": "49,000",
+            "D": "50,000"
+        }
+    },
+    {
+        "question": "Starting at 4 and counting backwards through zero, what is the 9th number?",
+        "answer": "B",
+        "options": {
+            "A": "-3",
+            "B": "-4",
+            "C": "-5",
+            "D": "-6"
+        }
+    },
+    {
+        "question": "What number is halfway between -8 and 6?",
+        "answer": "B",
+        "options": {
+            "A": "-2",
+            "B": "-1",
+            "C": "0",
+            "D": "1"
+        }
+    },
+    {
+        "question": "In the number 208,456, what is the value of the digit 8?",
+        "answer": "D",
+        "options": {
+            "A": "8",
+            "B": "80",
+            "C": "800",
+            "D": "8,000"
+        }
+    },
+    {
+        "question": "In the number 340,721, what is the value of the digit 3?",
+        "answer": "B",
+        "options": {
+            "A": "30,000",
+            "B": "300,000",
+            "C": "3,000,000",
+            "D": "300"
+        }
+    },
+    {
+        "question": "In the number 56,094, what is the value of the digit 9?",
+        "answer": "B",
+        "options": {
+            "A": "9",
+            "B": "90",
+            "C": "900",
+            "D": "9,000"
+        }
+    },
+    {
+        "question": "Which digit is in the ten-thousands place in 734,215?",
+        "answer": "B",
+        "options": {
+            "A": "7",
+            "B": "3",
+            "C": "4",
+            "D": "2"
+        }
+    },
+    {
+        "question": "Which digit has the greatest value in 9,042?",
+        "answer": "A",
+        "options": {
+            "A": "9",
+            "B": "0",
+            "C": "4",
+            "D": "2"
+        }
+    },
+    {
+        "question": "Which number is greater: 345,678 or 345,687?",
+        "answer": "B",
+        "options": {
+            "A": "345,678",
+            "B": "345,687",
+            "C": "They are equal",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "Which number is smaller: 678,901 or 678,910?",
+        "answer": "A",
+        "options": {
+            "A": "678,901",
+            "B": "678,910",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Order these numbers from smallest to largest: 100,001; 99,999; 100,100; 99,900.",
+        "answer": "A",
+        "options": {
+            "A": "99,900; 99,999; 100,001; 100,100",
+            "B": "99,999; 99,900; 100,001; 100,100",
+            "C": "100,100; 100,001; 99,999; 99,900",
+            "D": "99,900; 100,001; 99,999; 100,100"
+        }
+    },
+    {
+        "question": "Which symbol correctly compares 567,890 and 567,809?",
+        "answer": "C",
+        "options": {
+            "A": "=",
+            "B": "<",
+            "C": ">",
+            "D": "\u2265"
+        }
+    },
+    {
+        "question": "Which of these numbers is the largest: 456,789; 456,798; 456,879; 456,897?",
+        "answer": "D",
+        "options": {
+            "A": "456,789",
+            "B": "456,798",
+            "C": "456,879",
+            "D": "456,897"
+        }
+    },
+    {
+        "question": "What number is represented by 5 \u00d7 100,000 + 2 \u00d7 10,000 + 0 \u00d7 1,000 + 7 \u00d7 100 + 3 \u00d7 10 + 4 \u00d7 1?",
+        "answer": "A",
+        "options": {
+            "A": "520,734",
+            "B": "502,734",
+            "C": "527,034",
+            "D": "520,743"
+        }
+    },
+    {
+        "question": "Which number matches this description: 8 hundred-thousands, 0 ten-thousands, 3 thousands, 5 hundreds, 0 tens, and 2 ones?",
+        "answer": "A",
+        "options": {
+            "A": "803,502",
+            "B": "830,502",
+            "C": "803,520",
+            "D": "83,502"
+        }
+    },
+    {
+        "question": "Round 234,567 to the nearest 10.",
+        "answer": "B",
+        "options": {
+            "A": "234,560",
+            "B": "234,570",
+            "C": "234,500",
+            "D": "234,600"
+        }
+    },
+    {
+        "question": "Round 789,432 to the nearest 100.",
+        "answer": "A",
+        "options": {
+            "A": "789,400",
+            "B": "789,500",
+            "C": "789,430",
+            "D": "790,000"
+        }
+    },
+    {
+        "question": "Round 654,321 to the nearest 1,000.",
+        "answer": "A",
+        "options": {
+            "A": "654,000",
+            "B": "655,000",
+            "C": "654,300",
+            "D": "650,000"
+        }
+    },
+    {
+        "question": "Round 999,001 to the nearest 1,000.",
+        "answer": "A",
+        "options": {
+            "A": "999,000",
+            "B": "1,000,000",
+            "C": "998,000",
+            "D": "1,001,000"
+        }
+    },
+    {
+        "question": "Round 345,678 to the nearest 10,000.",
+        "answer": "B",
+        "options": {
+            "A": "340,000",
+            "B": "350,000",
+            "C": "345,000",
+            "D": "346,000"
+        }
+    },
+    {
+        "question": "A number rounds to 800,000 when rounded to the nearest 100,000. Which could it be?",
+        "answer": "B",
+        "options": {
+            "A": "749,999",
+            "B": "750,001",
+            "C": "850,000",
+            "D": "860,000"
+        }
+    },
+    {
+        "question": "A number rounds to 45,700 when rounded to the nearest 100. Which could it be?",
+        "answer": "C",
+        "options": {
+            "A": "45,649",
+            "B": "45,751",
+            "C": "45,749",
+            "D": "45,600"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 59?",
+        "answer": "B",
+        "options": {
+            "A": "XXXXXIX",
+            "B": "LIX",
+            "C": "ILX",
+            "D": "XLIX"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 72?",
+        "answer": "A",
+        "options": {
+            "A": "LXXII",
+            "B": "LXII",
+            "C": "LXXXII",
+            "D": "XLII"
+        }
+    },
+    {
+        "question": "What number does the Roman numeral 'LXXXVI' represent?",
+        "answer": "B",
+        "options": {
+            "A": "76",
+            "B": "86",
+            "C": "96",
+            "D": "84"
+        }
+    },
+    {
+        "question": "What number does the Roman numeral 'XCIX' represent?",
+        "answer": "B",
+        "options": {
+            "A": "89",
+            "B": "99",
+            "C": "109",
+            "D": "91"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 88?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXVIII",
+            "B": "LXXVIII",
+            "C": "XCVIII",
+            "D": "LXXXVII"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 63?",
+        "answer": "A",
+        "options": {
+            "A": "LXIII",
+            "B": "LIII",
+            "C": "LXXIII",
+            "D": "XLIII"
+        }
+    },
+    {
+        "question": "What is 74 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LXXIV",
+            "B": "LXIV",
+            "C": "LXXXIV",
+            "D": "LXXVI"
+        }
+    },
+    {
+        "question": "What is 81 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXI",
+            "B": "LXXI",
+            "C": "XCI",
+            "D": "LXXX"
+        }
+    },
+    {
+        "question": "Which number is represented by 'XLVI'?",
+        "answer": "A",
+        "options": {
+            "A": "46",
+            "B": "56",
+            "C": "66",
+            "D": "44"
+        }
+    },
+    {
+        "question": "Which number is represented by 'LXXVII'?",
+        "answer": "B",
+        "options": {
+            "A": "67",
+            "B": "77",
+            "C": "87",
+            "D": "75"
+        }
+    },
+    {
+        "question": "Estimate the total cost of items priced at \u00a378,456, \u00a323,789, and \u00a315,632 by rounding each to the nearest \u00a310,000.",
+        "answer": "B",
+        "options": {
+            "A": "\u00a3110,000",
+            "B": "\u00a3120,000",
+            "C": "\u00a3130,000",
+            "D": "\u00a3100,000"
+        }
+    },
+    {
+        "question": "A town has a population of 456,789. Rounded to the nearest 10,000, what is the population?",
+        "answer": "B",
+        "options": {
+            "A": "450,000",
+            "B": "460,000",
+            "C": "457,000",
+            "D": "400,000"
+        }
+    },
+    {
+        "question": "A car travels 87,654 metres. Rounded to the nearest 100 metres, how far did it travel?",
+        "answer": "B",
+        "options": {
+            "A": "87,600 m",
+            "B": "87,700 m",
+            "C": "87,650 m",
+            "D": "88,000 m"
+        }
+    },
+    {
+        "question": "A car travels 87,654 metres. Rounded to the nearest 100 metres, how far did it travel?",
+        "answer": "B",
+        "options": {
+            "A": "87,600 m",
+            "B": "87,700 m",
+            "C": "87,650 m",
+            "D": "88,000 m"
+        }
+    },
+    {
+        "question": "Which number is 1,000 less than two hundred thousand?",
+        "answer": "A",
+        "options": {
+            "A": "199,000",
+            "B": "199,900",
+            "C": "199,999",
+            "D": "200,000"
+        }
+    },
+    {
+        "question": "Which number is 1,000 more than one hundred ninety-nine thousand?",
+        "answer": "B",
+        "options": {
+            "A": "199,001",
+            "B": "200,000",
+            "C": "201,000",
+            "D": "199,100"
+        }
+    },
+    {
+        "question": "Count in 25s from 0. Which of these numbers will you NOT say?",
+        "answer": "D",
+        "options": {
+            "A": "150",
+            "B": "175",
+            "C": "200",
+            "D": "160"
+        }
+    },
+    {
+        "question": "Count in 9s from 0. Which number will you say?",
+        "answer": "A",
+        "options": {
+            "A": "108",
+            "B": "110",
+            "C": "112",
+            "D": "115"
+        }
+    },
+    {
+        "question": "Count in 7s from 0. Which number is NOT in the sequence?",
+        "answer": "D",
+        "options": {
+            "A": "91",
+            "B": "98",
+            "C": "105",
+            "D": "100"
+        }
+    },
+    {
+        "question": "Count in 6s from 0. Which number will you say?",
+        "answer": "A",
+        "options": {
+            "A": "102",
+            "B": "103",
+            "C": "104",
+            "D": "105"
+        }
+    },
+    {
+        "question": "What is the 15th number when counting in 1,000s starting from 1,000?",
+        "answer": "A",
+        "options": {
+            "A": "15,000",
+            "B": "14,000",
+            "C": "16,000",
+            "D": "1,500"
+        }
+    },
+    {
+        "question": "What is the temperature if it starts at -2\u00b0C and drops by 9 degrees?",
+        "answer": "A",
+        "options": {
+            "A": "-11\u00b0C",
+            "B": "7\u00b0C",
+            "C": "-7\u00b0C",
+            "D": "11\u00b0C"
+        }
+    },
+    {
+        "question": "If the temperature was -7\u00b0C and it rose by 12 degrees, what is the new temperature?",
+        "answer": "A",
+        "options": {
+            "A": "5\u00b0C",
+            "B": "-19\u00b0C",
+            "C": "19\u00b0C",
+            "D": "-5\u00b0C"
+        }
+    },
+    {
+        "question": "Which number is greater: -15 or -10?",
+        "answer": "B",
+        "options": {
+            "A": "-15",
+            "B": "-10",
+            "C": "They are equal",
+            "D": "Neither"
+        }
+    },
+    {
+        "question": "Order these temperatures from coldest to warmest: -12\u00b0C, 5\u00b0C, -3\u00b0C, 0\u00b0C.",
+        "answer": "A",
+        "options": {
+            "A": "-12\u00b0C, -3\u00b0C, 0\u00b0C, 5\u00b0C",
+            "B": "5\u00b0C, 0\u00b0C, -3\u00b0C, -12\u00b0C",
+            "C": "-3\u00b0C, -12\u00b0C, 0\u00b0C, 5\u00b0C",
+            "D": "0\u00b0C, -3\u00b0C, 5\u00b0C, -12\u00b0C"
+        }
+    },
+    {
+        "question": "What number is 7 less than -4?",
+        "answer": "A",
+        "options": {
+            "A": "-11",
+            "B": "-3",
+            "C": "3",
+            "D": "11"
+        }
+    },
+    {
+        "question": "What number is 8 more than -11?",
+        "answer": "B",
+        "options": {
+            "A": "-19",
+            "B": "-3",
+            "C": "3",
+            "D": "19"
+        }
+    },
+    {
+        "question": "In the number 210,345, what is the place value of the digit 1?",
+        "answer": "C",
+        "options": {
+            "A": "1",
+            "B": "10",
+            "C": "10,000",
+            "D": "100,000"
+        }
+    },
+    {
+        "question": "In the number 305,067, what is the value of the digit 5?",
+        "answer": "C",
+        "options": {
+            "A": "5",
+            "B": "50",
+            "C": "5,000",
+            "D": "50,000"
+        }
+    },
+    {
+        "question": "Which number has the same value as 70,000 + 400 + 60 + 9?",
+        "answer": "A",
+        "options": {
+            "A": "70,469",
+            "B": "74,069",
+            "C": "70,649",
+            "D": "74,690"
+        }
+    },
+    {
+        "question": "Which number is shown by 6 \u00d7 100,000 + 0 \u00d7 10,000 + 8 \u00d7 1,000 + 0 \u00d7 100 + 2 \u00d7 10 + 5 \u00d7 1?",
+        "answer": "A",
+        "options": {
+            "A": "608,025",
+            "B": "680,025",
+            "C": "608,205",
+            "D": "6,080,025"
+        }
+    },
+    {
+        "question": "Round 567,890 to the nearest 1,000.",
+        "answer": "B",
+        "options": {
+            "A": "567,000",
+            "B": "568,000",
+            "C": "567,900",
+            "D": "570,000"
+        }
+    },
+    {
+        "question": "Round 234,567 to the nearest 10,000.",
+        "answer": "A",
+        "options": {
+            "A": "230,000",
+            "B": "240,000",
+            "C": "235,000",
+            "D": "200,000"
+        }
+    },
+    {
+        "question": "Round 876,543 to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "800,000",
+            "B": "900,000",
+            "C": "870,000",
+            "D": "880,000"
+        }
+    },
+    {
+        "question": "A stadium holds 123,456 people. Rounded to the nearest 10,000, how many people does it hold?",
+        "answer": "A",
+        "options": {
+            "A": "120,000",
+            "B": "130,000",
+            "C": "123,000",
+            "D": "100,000"
+        }
+    },
+    {
+        "question": "Which number rounds to 600,000 when rounded to the nearest 100,000?",
+        "answer": "B",
+        "options": {
+            "A": "549,999",
+            "B": "550,001",
+            "C": "650,000",
+            "D": "660,000"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 67?",
+        "answer": "A",
+        "options": {
+            "A": "LXVII",
+            "B": "LVII",
+            "C": "LXXVII",
+            "D": "XLVII"
+        }
+    },
+    {
+        "question": "What number is represented by 'XCVI'?",
+        "answer": "B",
+        "options": {
+            "A": "86",
+            "B": "96",
+            "C": "106",
+            "D": "94"
+        }
+    },
+    {
+        "question": "Which Roman numeral is 83?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXIII",
+            "B": "LXXIII",
+            "C": "LXXXXIII",
+            "D": "LXXXII"
+        }
+    },
+    {
+        "question": "Which Roman numeral is 95?",
+        "answer": "A",
+        "options": {
+            "A": "XCV",
+            "B": "LXXXXV",
+            "C": "CV",
+            "D": "LXXV"
+        }
+    },
+    {
+        "question": "What is 58 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LVIII",
+            "B": "LVI",
+            "C": "LXVIII",
+            "D": "XLVIII"
+        }
+    },
+    {
+        "question": "What number is halfway between 20,000 and 30,000?",
+        "answer": "B",
+        "options": {
+            "A": "22,500",
+            "B": "25,000",
+            "C": "27,500",
+            "D": "28,000"
+        }
+    },
+    {
+        "question": "What number is halfway between -12 and 4?",
+        "answer": "B",
+        "options": {
+            "A": "-6",
+            "B": "-4",
+            "C": "-2",
+            "D": "0"
+        }
+    },
+    {
+        "question": "What is 1,000 more than 99,000?",
+        "answer": "C",
+        "options": {
+            "A": "98,000",
+            "B": "99,001",
+            "C": "100,000",
+            "D": "101,000"
+        }
+    },
+    {
+        "question": "What is 1,000 less than 100,000?",
+        "answer": "A",
+        "options": {
+            "A": "99,000",
+            "B": "99,900",
+            "C": "99,999",
+            "D": "101,000"
+        }
+    },
+    {
+        "question": "How many thousands are in 78,000?",
+        "answer": "C",
+        "options": {
+            "A": "7",
+            "B": "8",
+            "C": "78",
+            "D": "780"
+        }
+    },
+    {
+        "question": "How many hundreds are in 45,000?",
+        "answer": "B",
+        "options": {
+            "A": "45",
+            "B": "450",
+            "C": "4,500",
+            "D": "45,000"
+        }
+    },
+    {
+        "question": "How many tens are in 12,000?",
+        "answer": "C",
+        "options": {
+            "A": "12",
+            "B": "120",
+            "C": "1,200",
+            "D": "12,000"
+        }
+    },
+    {
+        "question": "Which number is 100 more than 89,950?",
+        "answer": "C",
+        "options": {
+            "A": "89,960",
+            "B": "90,000",
+            "C": "90,050",
+            "D": "89,850"
+        }
+    },
+    {
+        "question": "Which number is 100 less than 60,100?",
+        "answer": "A",
+        "options": {
+            "A": "60,000",
+            "B": "59,900",
+            "C": "60,090",
+            "D": "61,000"
+        }
+    },
+    {
+        "question": "Count in 25s: what number comes after 475?",
+        "answer": "B",
+        "options": {
+            "A": "480",
+            "B": "500",
+            "C": "490",
+            "D": "485"
+        }
+    },
+    {
+        "question": "Count in 9s: what number comes after 117?",
+        "answer": "B",
+        "options": {
+            "A": "120",
+            "B": "126",
+            "C": "135",
+            "D": "128"
+        }
+    },
+    {
+        "question": "Count in 7s: what number comes after 126?",
+        "answer": "B",
+        "options": {
+            "A": "127",
+            "B": "133",
+            "C": "140",
+            "D": "135"
+        }
+    },
+    {
+        "question": "Count in 6s: what number comes after 138?",
+        "answer": "B",
+        "options": {
+            "A": "140",
+            "B": "144",
+            "C": "150",
+            "D": "142"
+        }
+    },
+    {
+        "question": "Count in 1,000s: what number comes after 199,000?",
+        "answer": "B",
+        "options": {
+            "A": "199,001",
+            "B": "200,000",
+            "C": "201,000",
+            "D": "199,100"
+        }
+    },
+    {
+        "question": "What is the sum of the place values of the two 4s in 404,521?",
+        "answer": "B",
+        "options": {
+            "A": "400,400",
+            "B": "404,000",
+            "C": "404,400",
+            "D": "4,400"
+        }
+    },
+    {
+        "question": "What is the difference between the place values of the two 6s in 630,062?",
+        "answer": "A",
+        "options": {
+            "A": "599,940",
+            "B": "600,000",
+            "C": "600,060",
+            "D": "599,900"
+        }
+    },
+    {
+        "question": "Which number is represented on an abacus with 2 beads in the hundred-thousands column, 5 in ten-thousands, 0 in thousands, 3 in hundreds, 0 in tens, and 7 in ones?",
+        "answer": "A",
+        "options": {
+            "A": "250,307",
+            "B": "205,307",
+            "C": "253,007",
+            "D": "250,370"
+        }
+    },
+    {
+        "question": "A number has 9 in the hundred-thousands place, 0 in all other places except 4 in the tens. What is the number?",
+        "answer": "A",
+        "options": {
+            "A": "900,040",
+            "B": "900,400",
+            "C": "904,000",
+            "D": "90,040"
+        }
+    },
+    {
+        "question": "Round 1,000,001 to the nearest 100,000.",
+        "answer": "A",
+        "options": {
+            "A": "1,000,000",
+            "B": "1,100,000",
+            "C": "900,000",
+            "D": "1,010,000"
+        }
+    },
+    {
+        "question": "Round 2,876,543 to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "2,800,000",
+            "B": "2,900,000",
+            "C": "2,870,000",
+            "D": "2,880,000"
+        }
+    },
+    {
+        "question": "Round 4,123,456 to the nearest 1,000,000.",
+        "answer": "A",
+        "options": {
+            "A": "4,000,000",
+            "B": "5,000,000",
+            "C": "4,100,000",
+            "D": "4,200,000"
+        }
+    },
+    {
+        "question": "Which number is closest to 678,543 when rounded to the nearest 10,000?",
+        "answer": "B",
+        "options": {
+            "A": "670,000",
+            "B": "680,000",
+            "C": "678,000",
+            "D": "690,000"
+        }
+    },
+    {
+        "question": "A number rounds to 400,000 when rounded to the nearest 100,000. Which could it be?",
+        "answer": "B",
+        "options": {
+            "A": "349,999",
+            "B": "350,001",
+            "C": "450,000",
+            "D": "460,000"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 87?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXVII",
+            "B": "LXXVII",
+            "C": "XCVII",
+            "D": "LXXXVI"
+        }
+    },
+    {
+        "question": "What number is represented by 'LXXIV'?",
+        "answer": "B",
+        "options": {
+            "A": "64",
+            "B": "74",
+            "C": "84",
+            "D": "76"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 56?",
+        "answer": "A",
+        "options": {
+            "A": "LVI",
+            "B": "LIV",
+            "C": "LXVI",
+            "D": "XLVI"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 92?",
+        "answer": "A",
+        "options": {
+            "A": "XCII",
+            "B": "LXXXXII",
+            "C": "CII",
+            "D": "LXXII"
+        }
+    },
+    {
+        "question": "What is 71 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LXXI",
+            "B": "LXI",
+            "C": "LXXXI",
+            "D": "LXX"
+        }
+    },
+    {
+        "question": "What is 97 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "XCVII",
+            "B": "LXXXXVII",
+            "C": "CVII",
+            "D": "LXXXVII"
+        }
+    },
+    {
+        "question": "Which number is represented by 'XLVIII'?",
+        "answer": "A",
+        "options": {
+            "A": "48",
+            "B": "58",
+            "C": "68",
+            "D": "42"
+        }
+    },
+    {
+        "question": "Which number is represented by 'LXXXIX'?",
+        "answer": "B",
+        "options": {
+            "A": "79",
+            "B": "89",
+            "C": "99",
+            "D": "88"
+        }
+    },
+    {
+        "question": "Estimate the difference between 987,654 and 456,789 by rounding both to the nearest 100,000.",
+        "answer": "A",
+        "options": {
+            "A": "500,000",
+            "B": "600,000",
+            "C": "530,000",
+            "D": "550,000"
+        }
+    },
+    {
+        "question": "A library has 567,890 books. Rounded to the nearest 10,000, how many books are there?",
+        "answer": "B",
+        "options": {
+            "A": "560,000",
+            "B": "570,000",
+            "C": "568,000",
+            "D": "500,000"
+        }
+    },
+    {
+        "question": "A mountain is 8,765 metres high. Rounded to the nearest 100 metres, what is its height?",
+        "answer": "B",
+        "options": {
+            "A": "8,700 m",
+            "B": "8,800 m",
+            "C": "8,770 m",
+            "D": "9,000 m"
+        }
+    },
+    {
+        "question": "What is 1,000 less than 123,456?",
+        "answer": "A",
+        "options": {
+            "A": "122,456",
+            "B": "123,356",
+            "C": "124,456",
+            "D": "123,446"
+        }
+    },
+    {
+        "question": "What is 1,000 more than 456,789?",
+        "answer": "B",
+        "options": {
+            "A": "456,790",
+            "B": "457,789",
+            "C": "455,789",
+            "D": "456,889"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 18,000; 18,006; 18,012; 18,018; ...?",
+        "answer": "B",
+        "options": {
+            "A": "18,020",
+            "B": "18,024",
+            "C": "18,030",
+            "D": "18,036"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 28,000; 28,007; 28,014; 28,021; ...?",
+        "answer": "B",
+        "options": {
+            "A": "28,027",
+            "B": "28,028",
+            "C": "28,030",
+            "D": "28,035"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 45,000; 45,009; 45,018; 45,027; ...?",
+        "answer": "B",
+        "options": {
+            "A": "45,030",
+            "B": "45,036",
+            "C": "45,045",
+            "D": "45,054"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 225; 250; 275; 300; ...?",
+        "answer": "B",
+        "options": {
+            "A": "310",
+            "B": "325",
+            "C": "350",
+            "D": "315"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 67,000; 68,000; 69,000; ...?",
+        "answer": "B",
+        "options": {
+            "A": "69,500",
+            "B": "70,000",
+            "C": "71,000",
+            "D": "72,000"
+        }
+    },
+    {
+        "question": "Starting at 6 and counting backwards through zero, what is the 10th number?",
+        "answer": "A",
+        "options": {
+            "A": "-3",
+            "B": "-4",
+            "C": "-5",
+            "D": "-6"
+        }
+    },
+    {
+        "question": "What number is halfway between -10 and 8?",
+        "answer": "B",
+        "options": {
+            "A": "-2",
+            "B": "-1",
+            "C": "0",
+            "D": "1"
+        }
+    },
+    {
+        "question": "In the number 315,672, what is the value of the digit 5?",
+        "answer": "D",
+        "options": {
+            "A": "5",
+            "B": "50",
+            "C": "500",
+            "D": "5,000"
+        }
+    },
+    {
+        "question": "In the number 420,045, what is the value of the digit 4 (leftmost)?",
+        "answer": "B",
+        "options": {
+            "A": "40,000",
+            "B": "400,000",
+            "C": "4,000,000",
+            "D": "400"
+        }
+    },
+    {
+        "question": "In the number 67,094, what is the value of the digit 9?",
+        "answer": "B",
+        "options": {
+            "A": "9",
+            "B": "90",
+            "C": "900",
+            "D": "9,000"
+        }
+    },
+    {
+        "question": "Which digit is in the thousands place in 842,315?",
+        "answer": "C",
+        "options": {
+            "A": "8",
+            "B": "4",
+            "C": "2",
+            "D": "3"
+        }
+    },
+    {
+        "question": "Which digit has the greatest value in 7,032?",
+        "answer": "A",
+        "options": {
+            "A": "7",
+            "B": "0",
+            "C": "3",
+            "D": "2"
+        }
+    },
+    {
+        "question": "Which number is greater: 567,890 or 567,908?",
+        "answer": "B",
+        "options": {
+            "A": "567,890",
+            "B": "567,908",
+            "C": "They are equal",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "Which number is smaller: 789,012 or 789,021?",
+        "answer": "A",
+        "options": {
+            "A": "789,012",
+            "B": "789,021",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Order these numbers from smallest to largest: 200,001; 199,999; 200,100; 199,900.",
+        "answer": "A",
+        "options": {
+            "A": "199,900; 199,999; 200,001; 200,100",
+            "B": "199,999; 199,900; 200,001; 200,100",
+            "C": "200,100; 200,001; 199,999; 199,900",
+            "D": "199,900; 200,001; 199,999; 200,100"
+        }
+    },
+    {
+        "question": "Which symbol correctly compares 678,901 and 678,910?",
+        "answer": "B",
+        "options": {
+            "A": "=",
+            "B": "<",
+            "C": ">",
+            "D": "\u2265"
+        }
+    },
+    {
+        "question": "Which of these numbers is the largest: 567,890; 567,908; 567,809; 567,980?",
+        "answer": "D",
+        "options": {
+            "A": "567,890",
+            "B": "567,908",
+            "C": "567,809",
+            "D": "567,980"
+        }
+    },
+    {
+        "question": "What number is represented by 7 \u00d7 100,000 + 3 \u00d7 10,000 + 0 \u00d7 1,000 + 8 \u00d7 100 + 2 \u00d7 10 + 5 \u00d7 1?",
+        "answer": "A",
+        "options": {
+            "A": "730,825",
+            "B": "703,825",
+            "C": "738,025",
+            "D": "730,852"
+        }
+    },
+    {
+        "question": "Which number matches this description: 9 hundred-thousands, 1 ten-thousand, 0 thousands, 6 hundreds, 0 tens, and 3 ones?",
+        "answer": "A",
+        "options": {
+            "A": "910,603",
+            "B": "901,603",
+            "C": "910,630",
+            "D": "91,603"
+        }
+    },
+    {
+        "question": "Round 345,678 to the nearest 10.",
+        "answer": "B",
+        "options": {
+            "A": "345,670",
+            "B": "345,680",
+            "C": "345,600",
+            "D": "345,700"
+        }
+    },
+    {
+        "question": "Round 890,123 to the nearest 100.",
+        "answer": "A",
+        "options": {
+            "A": "890,100",
+            "B": "890,200",
+            "C": "890,120",
+            "D": "891,000"
+        }
+    },
+    {
+        "question": "Round 765,432 to the nearest 1,000.",
+        "answer": "A",
+        "options": {
+            "A": "765,000",
+            "B": "766,000",
+            "C": "765,400",
+            "D": "760,000"
+        }
+    },
+    {
+        "question": "Round 1,000,999 to the nearest 1,000.",
+        "answer": "B",
+        "options": {
+            "A": "1,000,000",
+            "B": "1,001,000",
+            "C": "1,002,000",
+            "D": "999,000"
+        }
+    },
+    {
+        "question": "Round 456,789 to the nearest 10,000.",
+        "answer": "B",
+        "options": {
+            "A": "450,000",
+            "B": "460,000",
+            "C": "457,000",
+            "D": "456,000"
+        }
+    },
+    {
+        "question": "A number rounds to 900,000 when rounded to the nearest 100,000. Which could it be?",
+        "answer": "B",
+        "options": {
+            "A": "849,999",
+            "B": "850,001",
+            "C": "950,000",
+            "D": "960,000"
+        }
+    },
+    {
+        "question": "A number rounds to 67,800 when rounded to the nearest 100. Which could it be?",
+        "answer": "C",
+        "options": {
+            "A": "67,749",
+            "B": "67,851",
+            "C": "67,849",
+            "D": "67,700"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 64?",
+        "answer": "A",
+        "options": {
+            "A": "LXIV",
+            "B": "LIV",
+            "C": "LXVI",
+            "D": "XLIV"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 82?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXII",
+            "B": "LXXII",
+            "C": "XCII",
+            "D": "LXXXVII"
+        }
+    },
+    {
+        "question": "What number does the Roman numeral 'LXXIX' represent?",
+        "answer": "B",
+        "options": {
+            "A": "69",
+            "B": "79",
+            "C": "89",
+            "D": "71"
+        }
+    },
+    {
+        "question": "What number does the Roman numeral 'XCIV' represent?",
+        "answer": "A",
+        "options": {
+            "A": "94",
+            "B": "104",
+            "C": "84",
+            "D": "96"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 96?",
+        "answer": "A",
+        "options": {
+            "A": "XCVI",
+            "B": "LXXXXVI",
+            "C": "CXVI",
+            "D": "ICVI"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 77?",
+        "answer": "A",
+        "options": {
+            "A": "LXXVII",
+            "B": "LXVII",
+            "C": "LXXXVII",
+            "D": "LVII"
+        }
+    },
+    {
+        "question": "What is 89 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXIX",
+            "B": "LXXIX",
+            "C": "XCIX",
+            "D": "LXXXVIIII"
+        }
+    },
+    {
+        "question": "What is 99 in Roman numerals?",
+        "answer": "B",
+        "options": {
+            "A": "IC",
+            "B": "XCIX",
+            "C": "LXXXXIX",
+            "D": "CIX"
+        }
+    },
+    {
+        "question": "Which number is represented by 'XLVIII'?",
+        "answer": "A",
+        "options": {
+            "A": "48",
+            "B": "58",
+            "C": "68",
+            "D": "42"
+        }
+    },
+    {
+        "question": "Which number is represented by 'LXXIV'?",
+        "answer": "B",
+        "options": {
+            "A": "64",
+            "B": "74",
+            "C": "84",
+            "D": "76"
+        }
+    },
+    {
+        "question": "Estimate the total cost of items priced at \u00a389,456, \u00a334,789, and \u00a325,632 by rounding each to the nearest \u00a310,000.",
+        "answer": "B",
+        "options": {
+            "A": "\u00a3140,000",
+            "B": "\u00a3150,000",
+            "C": "\u00a3160,000",
+            "D": "\u00a3130,000"
+        }
+    },
+    {
+        "question": "A town has a population of 567,890. Rounded to the nearest 10,000, what is the population?",
+        "answer": "B",
+        "options": {
+            "A": "560,000",
+            "B": "570,000",
+            "C": "568,000",
+            "D": "500,000"
+        }
+    },
+    {
+        "question": "A car travels 98,765 metres. Rounded to the nearest 100 metres, how far did it travel?",
+        "answer": "B",
+        "options": {
+            "A": "98,700 m",
+            "B": "98,800 m",
+            "C": "98,760 m",
+            "D": "99,000 m"
+        }
+    },
+    {
+        "question": "Which number is 1,000 less than three hundred thousand?",
+        "answer": "A",
+        "options": {
+            "A": "299,000",
+            "B": "299,900",
+            "C": "299,999",
+            "D": "300,000"
+        }
+    },
+    {
+        "question": "Which number is 1,000 more than two hundred ninety-nine thousand?",
+        "answer": "B",
+        "options": {
+            "A": "299,001",
+            "B": "300,000",
+            "C": "301,000",
+            "D": "299,100"
+        }
+    },
+    {
+        "question": "Count in 25s from 0. Which of these numbers will you say?",
+        "answer": "A",
+        "options": {
+            "A": "175",
+            "B": "180",
+            "C": "185",
+            "D": "190"
+        }
+    },
+    {
+        "question": "Count in 9s from 0. Which number will you NOT say?",
+        "answer": "D",
+        "options": {
+            "A": "99",
+            "B": "108",
+            "C": "117",
+            "D": "118"
+        }
+    },
+    {
+        "question": "Count in 7s from 0. Which number will you say?",
+        "answer": "A",
+        "options": {
+            "A": "91",
+            "B": "92",
+            "C": "93",
+            "D": "94"
+        }
+    },
+    {
+        "question": "Count in 6s from 0. Which number is NOT in the sequence?",
+        "answer": "D",
+        "options": {
+            "A": "108",
+            "B": "114",
+            "C": "120",
+            "D": "121"
+        }
+    },
+    {
+        "question": "What is the 20th number when counting in 1,000s starting from 1,000?",
+        "answer": "A",
+        "options": {
+            "A": "20,000",
+            "B": "19,000",
+            "C": "21,000",
+            "D": "2,000"
+        }
+    },
+    {
+        "question": "What is the temperature if it starts at -5\u00b0C and drops by 7 degrees?",
+        "answer": "A",
+        "options": {
+            "A": "-12\u00b0C",
+            "B": "2\u00b0C",
+            "C": "-2\u00b0C",
+            "D": "12\u00b0C"
+        }
+    },
+    {
+        "question": "If the temperature was -9\u00b0C and it rose by 15 degrees, what is the new temperature?",
+        "answer": "A",
+        "options": {
+            "A": "6\u00b0C",
+            "B": "-24\u00b0C",
+            "C": "24\u00b0C",
+            "D": "-6\u00b0C"
+        }
+    },
+    {
+        "question": "Which number is greater: -20 or -15?",
+        "answer": "B",
+        "options": {
+            "A": "-20",
+            "B": "-15",
+            "C": "They are equal",
+            "D": "Neither"
+        }
+    },
+    {
+        "question": "Order these temperatures from coldest to warmest: -15\u00b0C, 3\u00b0C, -5\u00b0C, 0\u00b0C.",
+        "answer": "A",
+        "options": {
+            "A": "-15\u00b0C, -5\u00b0C, 0\u00b0C, 3\u00b0C",
+            "B": "3\u00b0C, 0\u00b0C, -5\u00b0C, -15\u00b0C",
+            "C": "-5\u00b0C, -15\u00b0C, 0\u00b0C, 3\u00b0C",
+            "D": "0\u00b0C, -5\u00b0C, 3\u00b0C, -15\u00b0C"
+        }
+    },
+    {
+        "question": "What number is 9 less than -6?",
+        "answer": "A",
+        "options": {
+            "A": "-15",
+            "B": "-3",
+            "C": "3",
+            "D": "15"
+        }
+    },
+    {
+        "question": "What number is 10 more than -13?",
+        "answer": "B",
+        "options": {
+            "A": "-23",
+            "B": "-3",
+            "C": "3",
+            "D": "23"
+        }
+    },
+    {
+        "question": "In the number 320,456, what is the place value of the digit 2?",
+        "answer": "C",
+        "options": {
+            "A": "2",
+            "B": "20",
+            "C": "20,000",
+            "D": "200,000"
+        }
+    },
+    {
+        "question": "In the number 406,078, what is the value of the digit 6?",
+        "answer": "C",
+        "options": {
+            "A": "6",
+            "B": "60",
+            "C": "6,000",
+            "D": "60,000"
+        }
+    },
+    {
+        "question": "Which number has the same value as 80,000 + 500 + 70 + 3?",
+        "answer": "A",
+        "options": {
+            "A": "80,573",
+            "B": "85,073",
+            "C": "80,753",
+            "D": "85,730"
+        }
+    },
+    {
+        "question": "Which number is shown by 9 \u00d7 100,000 + 1 \u00d7 10,000 + 0 \u00d7 1,000 + 4 \u00d7 100 + 0 \u00d7 10 + 6 \u00d7 1?",
+        "answer": "A",
+        "options": {
+            "A": "910,406",
+            "B": "901,406",
+            "C": "914,006",
+            "D": "9,104,060"
+        }
+    },
+    {
+        "question": "Round 678,901 to the nearest 1,000.",
+        "answer": "B",
+        "options": {
+            "A": "678,000",
+            "B": "679,000",
+            "C": "678,900",
+            "D": "680,000"
+        }
+    },
+    {
+        "question": "Round 345,678 to the nearest 10,000.",
+        "answer": "B",
+        "options": {
+            "A": "340,000",
+            "B": "350,000",
+            "C": "346,000",
+            "D": "300,000"
+        }
+    },
+    {
+        "question": "Round 987,654 to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "900,000",
+            "B": "1,000,000",
+            "C": "980,000",
+            "D": "990,000"
+        }
+    },
+    {
+        "question": "A stadium holds 234,567 people. Rounded to the nearest 10,000, how many people does it hold?",
+        "answer": "A",
+        "options": {
+            "A": "230,000",
+            "B": "240,000",
+            "C": "235,000",
+            "D": "200,000"
+        }
+    },
+    {
+        "question": "Which number rounds to 700,000 when rounded to the nearest 100,000?",
+        "answer": "B",
+        "options": {
+            "A": "649,999",
+            "B": "650,001",
+            "C": "750,000",
+            "D": "760,000"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 73?",
+        "answer": "A",
+        "options": {
+            "A": "LXXIII",
+            "B": "LXIII",
+            "C": "LXXXIII",
+            "D": "LXXII"
+        }
+    },
+    {
+        "question": "What number is represented by 'XCVII'?",
+        "answer": "B",
+        "options": {
+            "A": "87",
+            "B": "97",
+            "C": "107",
+            "D": "92"
+        }
+    },
+    {
+        "question": "Which Roman numeral is 84?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXIV",
+            "B": "XXCIV",
+            "C": "LXXIV",
+            "D": "LXXXVI"
+        }
+    },
+    {
+        "question": "Which Roman numeral is 93?",
+        "answer": "A",
+        "options": {
+            "A": "XCIII",
+            "B": "LXXXXIII",
+            "C": "CIII",
+            "D": "LXXXIII"
+        }
+    },
+    {
+        "question": "What is 66 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LXVI",
+            "B": "LVVI",
+            "C": "LXIV",
+            "D": "LXXVI"
+        }
+    },
+    {
+        "question": "What number is halfway between 30,000 and 40,000?",
+        "answer": "B",
+        "options": {
+            "A": "32,500",
+            "B": "35,000",
+            "C": "37,500",
+            "D": "38,000"
+        }
+    },
+    {
+        "question": "What number is halfway between -14 and 2?",
+        "answer": "B",
+        "options": {
+            "A": "-8",
+            "B": "-6",
+            "C": "-4",
+            "D": "-2"
+        }
+    },
+    {
+        "question": "What is 1,000 more than 199,000?",
+        "answer": "C",
+        "options": {
+            "A": "198,000",
+            "B": "199,001",
+            "C": "200,000",
+            "D": "201,000"
+        }
+    },
+    {
+        "question": "What is 1,000 less than 200,000?",
+        "answer": "A",
+        "options": {
+            "A": "199,000",
+            "B": "199,900",
+            "C": "199,999",
+            "D": "201,000"
+        }
+    },
+    {
+        "question": "How many thousands are in 89,000?",
+        "answer": "C",
+        "options": {
+            "A": "8",
+            "B": "9",
+            "C": "89",
+            "D": "890"
+        }
+    },
+    {
+        "question": "How many hundreds are in 67,000?",
+        "answer": "B",
+        "options": {
+            "A": "67",
+            "B": "670",
+            "C": "6,700",
+            "D": "67,000"
+        }
+    },
+    {
+        "question": "How many tens are in 23,000?",
+        "answer": "C",
+        "options": {
+            "A": "23",
+            "B": "230",
+            "C": "2,300",
+            "D": "23,000"
+        }
+    },
+    {
+        "question": "Which number is 100 more than 98,950?",
+        "answer": "C",
+        "options": {
+            "A": "98,960",
+            "B": "99,000",
+            "C": "99,050",
+            "D": "98,850"
+        }
+    },
+    {
+        "question": "Which number is 100 less than 70,100?",
+        "answer": "A",
+        "options": {
+            "A": "70,000",
+            "B": "69,900",
+            "C": "70,090",
+            "D": "71,000"
+        }
+    },
+    {
+        "question": "Count in 25s: what number comes after 575?",
+        "answer": "B",
+        "options": {
+            "A": "580",
+            "B": "600",
+            "C": "590",
+            "D": "585"
+        }
+    },
+    {
+        "question": "Count in 9s: what number comes after 126?",
+        "answer": "B",
+        "options": {
+            "A": "129",
+            "B": "135",
+            "C": "144",
+            "D": "138"
+        }
+    },
+    {
+        "question": "Count in 7s: what number comes after 133?",
+        "answer": "B",
+        "options": {
+            "A": "134",
+            "B": "140",
+            "C": "147",
+            "D": "142"
+        }
+    },
+    {
+        "question": "Count in 6s: what number comes after 144?",
+        "answer": "B",
+        "options": {
+            "A": "146",
+            "B": "150",
+            "C": "156",
+            "D": "148"
+        }
+    },
+    {
+        "question": "Count in 1,000s: what number comes after 299,000?",
+        "answer": "B",
+        "options": {
+            "A": "299,001",
+            "B": "300,000",
+            "C": "301,000",
+            "D": "299,100"
+        }
+    },
+    {
+        "question": "What is the sum of the place values of the two 3s in 303,456?",
+        "answer": "B",
+        "options": {
+            "A": "300,300",
+            "B": "303,000",
+            "C": "303,300",
+            "D": "3,300"
+        }
+    },
+    {
+        "question": "What is the difference between the place values of the two 5s in 520,053?",
+        "answer": "A",
+        "options": {
+            "A": "499,950",
+            "B": "500,000",
+            "C": "500,050",
+            "D": "499,900"
+        }
+    },
+    {
+        "question": "Which number is represented on an abacus with 4 beads in the hundred-thousands column, 0 in ten-thousands, 7 in thousands, 0 in hundreds, 5 in tens, and 0 in ones?",
+        "answer": "A",
+        "options": {
+            "A": "407,050",
+            "B": "470,050",
+            "C": "407,500",
+            "D": "47,050"
+        }
+    },
+    {
+        "question": "A number has 8 in the hundred-thousands place, 0 in all other places except 9 in the ones. What is the number?",
+        "answer": "A",
+        "options": {
+            "A": "800,009",
+            "B": "800,090",
+            "C": "809,000",
+            "D": "80,009"
+        }
+    },
+    {
+        "question": "Round 2,000,001 to the nearest 100,000.",
+        "answer": "A",
+        "options": {
+            "A": "2,000,000",
+            "B": "2,100,000",
+            "C": "1,900,000",
+            "D": "2,010,000"
+        }
+    },
+    {
+        "question": "Round 3,765,432 to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "3,700,000",
+            "B": "3,800,000",
+            "C": "3,760,000",
+            "D": "3,770,000"
+        }
+    },
+    {
+        "question": "Round 5,234,567 to the nearest 1,000,000.",
+        "answer": "A",
+        "options": {
+            "A": "5,000,000",
+            "B": "6,000,000",
+            "C": "5,200,000",
+            "D": "5,300,000"
+        }
+    },
+    {
+        "question": "Which number is closest to 789,654 when rounded to the nearest 10,000?",
+        "answer": "B",
+        "options": {
+            "A": "780,000",
+            "B": "790,000",
+            "C": "789,000",
+            "D": "800,000"
+        }
+    },
+    {
+        "question": "A number rounds to 500,000 when rounded to the nearest 100,000. Which could it be?",
+        "answer": "B",
+        "options": {
+            "A": "449,999",
+            "B": "450,001",
+            "C": "550,000",
+            "D": "560,000"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 88?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXVIII",
+            "B": "LXXVIII",
+            "C": "XCVIII",
+            "D": "LXXXVII"
+        }
+    },
+    {
+        "question": "What number is represented by 'LXXXVI'?",
+        "answer": "B",
+        "options": {
+            "A": "76",
+            "B": "86",
+            "C": "96",
+            "D": "84"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 63?",
+        "answer": "A",
+        "options": {
+            "A": "LXIII",
+            "B": "LIII",
+            "C": "LXXIII",
+            "D": "XLIII"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 92?",
+        "answer": "A",
+        "options": {
+            "A": "XCII",
+            "B": "LXXXXII",
+            "C": "CII",
+            "D": "LXXII"
+        }
+    },
+    {
+        "question": "What is 71 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LXXI",
+            "B": "LXI",
+            "C": "LXXXI",
+            "D": "LXX"
+        }
+    },
+    {
+        "question": "What is 97 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "XCVII",
+            "B": "LXXXXVII",
+            "C": "CVII",
+            "D": "LXXXVII"
+        }
+    },
+    {
+        "question": "Which number is represented by 'XLVI'?",
+        "answer": "A",
+        "options": {
+            "A": "46",
+            "B": "56",
+            "C": "66",
+            "D": "44"
+        }
+    },
+    {
+        "question": "Which number is represented by 'LXXVII'?",
+        "answer": "B",
+        "options": {
+            "A": "67",
+            "B": "77",
+            "C": "87",
+            "D": "75"
+        }
+    },
+    {
+        "question": "Estimate the difference between 1,234,567 and 678,901 by rounding both to the nearest 100,000.",
+        "answer": "A",
+        "options": {
+            "A": "500,000",
+            "B": "600,000",
+            "C": "550,000",
+            "D": "530,000"
+        }
+    },
+    {
+        "question": "A library has 678,901 books. Rounded to the nearest 10,000, how many books are there?",
+        "answer": "B",
+        "options": {
+            "A": "670,000",
+            "B": "680,000",
+            "C": "679,000",
+            "D": "600,000"
+        }
+    },
+    {
+        "question": "A mountain is 9,876 metres high. Rounded to the nearest 100 metres, what is its height?",
+        "answer": "B",
+        "options": {
+            "A": "9,800 m",
+            "B": "9,900 m",
+            "C": "9,880 m",
+            "D": "10,000 m"
+        }
+    },
+    {
+        "question": "What is 1,000 less than 234,567?",
+        "answer": "A",
+        "options": {
+            "A": "233,567",
+            "B": "234,467",
+            "C": "235,567",
+            "D": "234,557"
+        }
+    },
+    {
+        "question": "What is 1,000 more than 567,890?",
+        "answer": "B",
+        "options": {
+            "A": "567,891",
+            "B": "568,890",
+            "C": "566,890",
+            "D": "567,990"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 24,000; 24,006; 24,012; 24,018; ...?",
+        "answer": "B",
+        "options": {
+            "A": "24,020",
+            "B": "24,024",
+            "C": "24,030",
+            "D": "24,036"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 35,000; 35,007; 35,014; 35,021; ...?",
+        "answer": "B",
+        "options": {
+            "A": "35,027",
+            "B": "35,028",
+            "C": "35,030",
+            "D": "35,035"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 54,000; 54,009; 54,018; 54,027; ...?",
+        "answer": "B",
+        "options": {
+            "A": "54,030",
+            "B": "54,036",
+            "C": "54,045",
+            "D": "54,054"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 300; 325; 350; 375; ...?",
+        "answer": "B",
+        "options": {
+            "A": "385",
+            "B": "400",
+            "C": "425",
+            "D": "390"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 78,000; 79,000; 80,000; ...?",
+        "answer": "B",
+        "options": {
+            "A": "80,500",
+            "B": "81,000",
+            "C": "82,000",
+            "D": "83,000"
+        }
+    },
+    {
+        "question": "Starting at 7 and counting backwards through zero, what is the 11th number?",
+        "answer": "A",
+        "options": {
+            "A": "-3",
+            "B": "-4",
+            "C": "-5",
+            "D": "-6"
+        }
+    },
+    {
+        "question": "Starting at 7 and counting backwards through zero, what is the 11th number?",
+        "answer": "A",
+        "options": {
+            "A": "-3",
+            "B": "-4",
+            "C": "-5",
+            "D": "-6"
+        }
+    },
+    {
+        "question": "What number is halfway between -12 and 10?",
+        "answer": "B",
+        "options": {
+            "A": "-2",
+            "B": "-1",
+            "C": "0",
+            "D": "1"
+        }
+    },
+    {
+        "question": "In the number 425,789, what is the value of the digit 2?",
+        "answer": "C",
+        "options": {
+            "A": "2",
+            "B": "20",
+            "C": "20,000",
+            "D": "200,000"
+        }
+    },
+    {
+        "question": "In the number 530,067, what is the value of the digit 5?",
+        "answer": "B",
+        "options": {
+            "A": "50,000",
+            "B": "500,000",
+            "C": "5,000,000",
+            "D": "500"
+        }
+    },
+    {
+        "question": "In the number 78,094, what is the value of the digit 9?",
+        "answer": "B",
+        "options": {
+            "A": "9",
+            "B": "90",
+            "C": "900",
+            "D": "9,000"
+        }
+    },
+    {
+        "question": "Which digit is in the ten-thousands place in 953,214?",
+        "answer": "B",
+        "options": {
+            "A": "9",
+            "B": "5",
+            "C": "3",
+            "D": "2"
+        }
+    },
+    {
+        "question": "Which digit has the greatest value in 8,043?",
+        "answer": "A",
+        "options": {
+            "A": "8",
+            "B": "0",
+            "C": "4",
+            "D": "3"
+        }
+    },
+    {
+        "question": "Which number is greater: 678,901 or 678,910?",
+        "answer": "B",
+        "options": {
+            "A": "678,901",
+            "B": "678,910",
+            "C": "They are equal",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "Which number is smaller: 890,123 or 890,132?",
+        "answer": "A",
+        "options": {
+            "A": "890,123",
+            "B": "890,132",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Order these numbers from smallest to largest: 300,001; 299,999; 300,100; 299,900.",
+        "answer": "A",
+        "options": {
+            "A": "299,900; 299,999; 300,001; 300,100",
+            "B": "299,999; 299,900; 300,001; 300,100",
+            "C": "300,100; 300,001; 299,999; 299,900",
+            "D": "299,900; 300,001; 299,999; 300,100"
+        }
+    },
+    {
+        "question": "Which symbol correctly compares 789,012 and 789,021?",
+        "answer": "B",
+        "options": {
+            "A": "=",
+            "B": "<",
+            "C": ">",
+            "D": "\u2265"
+        }
+    },
+    {
+        "question": "Which of these numbers is the largest: 678,901; 678,910; 678,809; 678,980?",
+        "answer": "D",
+        "options": {
+            "A": "678,901",
+            "B": "678,910",
+            "C": "678,809",
+            "D": "678,980"
+        }
+    },
+    {
+        "question": "What number is represented by 8 \u00d7 100,000 + 4 \u00d7 10,000 + 0 \u00d7 1,000 + 9 \u00d7 100 + 3 \u00d7 10 + 6 \u00d7 1?",
+        "answer": "A",
+        "options": {
+            "A": "840,936",
+            "B": "804,936",
+            "C": "849,036",
+            "D": "840,963"
+        }
+    },
+    {
+        "question": "Which number matches this description: 7 hundred-thousands, 2 ten-thousands, 0 thousands, 8 hundreds, 0 tens, and 4 ones?",
+        "answer": "A",
+        "options": {
+            "A": "720,804",
+            "B": "702,804",
+            "C": "720,840",
+            "D": "72,804"
+        }
+    },
+    {
+        "question": "Round 456,789 to the nearest 10.",
+        "answer": "B",
+        "options": {
+            "A": "456,780",
+            "B": "456,790",
+            "C": "456,700",
+            "D": "456,800"
+        }
+    },
+    {
+        "question": "Round 901,234 to the nearest 100.",
+        "answer": "A",
+        "options": {
+            "A": "901,200",
+            "B": "901,300",
+            "C": "901,230",
+            "D": "902,000"
+        }
+    },
+    {
+        "question": "Round 876,543 to the nearest 1,000.",
+        "answer": "B",
+        "options": {
+            "A": "876,000",
+            "B": "877,000",
+            "C": "876,500",
+            "D": "870,000"
+        }
+    },
+    {
+        "question": "Round 1,001,999 to the nearest 1,000.",
+        "answer": "B",
+        "options": {
+            "A": "1,001,000",
+            "B": "1,002,000",
+            "C": "1,003,000",
+            "D": "1,000,000"
+        }
+    },
+    {
+        "question": "Round 567,890 to the nearest 10,000.",
+        "answer": "B",
+        "options": {
+            "A": "560,000",
+            "B": "570,000",
+            "C": "568,000",
+            "D": "567,000"
+        }
+    },
+    {
+        "question": "A number rounds to 1,000,000 when rounded to the nearest 100,000. Which could it be?",
+        "answer": "B",
+        "options": {
+            "A": "949,999",
+            "B": "950,001",
+            "C": "1,050,000",
+            "D": "1,060,000"
+        }
+    },
+    {
+        "question": "A number rounds to 78,900 when rounded to the nearest 100. Which could it be?",
+        "answer": "C",
+        "options": {
+            "A": "78,849",
+            "B": "78,951",
+            "C": "78,949",
+            "D": "78,800"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 59?",
+        "answer": "A",
+        "options": {
+            "A": "LIX",
+            "B": "LIV",
+            "C": "LXI",
+            "D": "XLIX"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 72?",
+        "answer": "A",
+        "options": {
+            "A": "LXXII",
+            "B": "LXII",
+            "C": "LXXXII",
+            "D": "XLII"
+        }
+    },
+    {
+        "question": "What number does the Roman numeral 'LXXXVII' represent?",
+        "answer": "B",
+        "options": {
+            "A": "77",
+            "B": "87",
+            "C": "97",
+            "D": "88"
+        }
+    },
+    {
+        "question": "What number does the Roman numeral 'XCIX' represent?",
+        "answer": "B",
+        "options": {
+            "A": "89",
+            "B": "99",
+            "C": "109",
+            "D": "91"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 88?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXVIII",
+            "B": "LXXVIII",
+            "C": "XCVIII",
+            "D": "LXXXVII"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 63?",
+        "answer": "A",
+        "options": {
+            "A": "LXIII",
+            "B": "LIII",
+            "C": "LXXIII",
+            "D": "XLIII"
+        }
+    },
+    {
+        "question": "What is 74 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LXXIV",
+            "B": "LXIV",
+            "C": "LXXXIV",
+            "D": "LXXVI"
+        }
+    },
+    {
+        "question": "What is 81 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXI",
+            "B": "LXXI",
+            "C": "XCI",
+            "D": "LXXX"
+        }
+    },
+    {
+        "question": "Which number is represented by 'XLVI'?",
+        "answer": "A",
+        "options": {
+            "A": "46",
+            "B": "56",
+            "C": "66",
+            "D": "44"
+        }
+    },
+    {
+        "question": "Which number is represented by 'LXXVII'?",
+        "answer": "B",
+        "options": {
+            "A": "67",
+            "B": "77",
+            "C": "87",
+            "D": "75"
+        }
+    },
+    {
+        "question": "Estimate the total cost of items priced at \u00a398,456, \u00a345,789, and \u00a335,632 by rounding each to the nearest \u00a310,000.",
+        "answer": "C",
+        "options": {
+            "A": "\u00a3170,000",
+            "B": "\u00a3180,000",
+            "C": "\u00a3190,000",
+            "D": "\u00a3160,000"
+        }
+    },
+    {
+        "question": "Estimate the total cost of items priced at \u00a398,456, \u00a345,789, and \u00a335,632 by rounding each to the nearest \u00a310,000.",
+        "answer": "C",
+        "options": {
+            "A": "\u00a3170,000",
+            "B": "\u00a3180,000",
+            "C": "\u00a3190,000",
+            "D": "\u00a3160,000"
+        }
+    },
+    {
+        "question": "A town has a population of 678,901. Rounded to the nearest 10,000, what is the population?",
+        "answer": "B",
+        "options": {
+            "A": "670,000",
+            "B": "680,000",
+            "C": "679,000",
+            "D": "600,000"
+        }
+    },
+    {
+        "question": "A car travels 109,876 metres. Rounded to the nearest 100 metres, how far did it travel?",
+        "answer": "B",
+        "options": {
+            "A": "109,800 m",
+            "B": "109,900 m",
+            "C": "109,870 m",
+            "D": "110,000 m"
+        }
+    },
+    {
+        "question": "Which number is 1,000 less than four hundred thousand?",
+        "answer": "A",
+        "options": {
+            "A": "399,000",
+            "B": "399,900",
+            "C": "399,999",
+            "D": "400,000"
+        }
+    },
+    {
+        "question": "Which number is 1,000 more than three hundred ninety-nine thousand?",
+        "answer": "B",
+        "options": {
+            "A": "399,001",
+            "B": "400,000",
+            "C": "401,000",
+            "D": "399,100"
+        }
+    },
+    {
+        "question": "Count in 25s from 0. Which of these numbers will you NOT say?",
+        "answer": "D",
+        "options": {
+            "A": "200",
+            "B": "225",
+            "C": "250",
+            "D": "230"
+        }
+    },
+    {
+        "question": "Count in 9s from 0. Which number will you say?",
+        "answer": "A",
+        "options": {
+            "A": "117",
+            "B": "118",
+            "C": "119",
+            "D": "120"
+        }
+    },
+    {
+        "question": "Count in 7s from 0. Which number is NOT in the sequence?",
+        "answer": "D",
+        "options": {
+            "A": "98",
+            "B": "105",
+            "C": "112",
+            "D": "110"
+        }
+    },
+    {
+        "question": "Count in 6s from 0. Which number will you say?",
+        "answer": "A",
+        "options": {
+            "A": "114",
+            "B": "115",
+            "C": "116",
+            "D": "117"
+        }
+    },
+    {
+        "question": "What is the 25th number when counting in 1,000s starting from 1,000?",
+        "answer": "A",
+        "options": {
+            "A": "25,000",
+            "B": "24,000",
+            "C": "26,000",
+            "D": "2,500"
+        }
+    },
+    {
+        "question": "What is the temperature if it starts at -8\u00b0C and drops by 6 degrees?",
+        "answer": "A",
+        "options": {
+            "A": "-14\u00b0C",
+            "B": "2\u00b0C",
+            "C": "-2\u00b0C",
+            "D": "14\u00b0C"
+        }
+    },
+    {
+        "question": "If the temperature was -12\u00b0C and it rose by 18 degrees, what is the new temperature?",
+        "answer": "A",
+        "options": {
+            "A": "6\u00b0C",
+            "B": "-30\u00b0C",
+            "C": "30\u00b0C",
+            "D": "-6\u00b0C"
+        }
+    },
+    {
+        "question": "Which number is greater: -25 or -20?",
+        "answer": "B",
+        "options": {
+            "A": "-25",
+            "B": "-20",
+            "C": "They are equal",
+            "D": "Neither"
+        }
+    },
+    {
+        "question": "Order these temperatures from coldest to warmest: -20\u00b0C, 4\u00b0C, -6\u00b0C, 0\u00b0C.",
+        "answer": "A",
+        "options": {
+            "A": "-20\u00b0C, -6\u00b0C, 0\u00b0C, 4\u00b0C",
+            "B": "4\u00b0C, 0\u00b0C, -6\u00b0C, -20\u00b0C",
+            "C": "-6\u00b0C, -20\u00b0C, 0\u00b0C, 4\u00b0C",
+            "D": "0\u00b0C, -6\u00b0C, 4\u00b0C, -20\u00b0C"
+        }
+    },
+    {
+        "question": "What number is 11 less than -7?",
+        "answer": "A",
+        "options": {
+            "A": "-18",
+            "B": "-4",
+            "C": "4",
+            "D": "18"
+        }
+    },
+    {
+        "question": "What number is 12 more than -15?",
+        "answer": "B",
+        "options": {
+            "A": "-27",
+            "B": "-3",
+            "C": "3",
+            "D": "27"
+        }
+    },
+    {
+        "question": "In the number 430,567, what is the place value of the digit 3?",
+        "answer": "C",
+        "options": {
+            "A": "3",
+            "B": "30",
+            "C": "30,000",
+            "D": "300,000"
+        }
+    },
+    {
+        "question": "In the number 507,089, what is the value of the digit 7?",
+        "answer": "C",
+        "options": {
+            "A": "7",
+            "B": "70",
+            "C": "7,000",
+            "D": "70,000"
+        }
+    },
+    {
+        "question": "Which number has the same value as 90,000 + 600 + 80 + 4?",
+        "answer": "A",
+        "options": {
+            "A": "90,684",
+            "B": "96,084",
+            "C": "90,864",
+            "D": "96,840"
+        }
+    },
+    {
+        "question": "Which number is shown by 7 \u00d7 100,000 + 2 \u00d7 10,000 + 0 \u00d7 1,000 + 5 \u00d7 100 + 0 \u00d7 10 + 8 \u00d7 1?",
+        "answer": "A",
+        "options": {
+            "A": "720,508",
+            "B": "702,508",
+            "C": "725,008",
+            "D": "7,205,080"
+        }
+    },
+    {
+        "question": "Round 789,012 to the nearest 1,000.",
+        "answer": "A",
+        "options": {
+            "A": "789,000",
+            "B": "790,000",
+            "C": "789,010",
+            "D": "780,000"
+        }
+    },
+    {
+        "question": "Round 456,789 to the nearest 10,000.",
+        "answer": "B",
+        "options": {
+            "A": "450,000",
+            "B": "460,000",
+            "C": "457,000",
+            "D": "400,000"
+        }
+    },
+    {
+        "question": "Round 1,087,654 to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "1,000,000",
+            "B": "1,100,000",
+            "C": "1,080,000",
+            "D": "1,090,000"
+        }
+    },
+    {
+        "question": "A stadium holds 345,678 people. Rounded to the nearest 10,000, how many people does it hold?",
+        "answer": "B",
+        "options": {
+            "A": "340,000",
+            "B": "350,000",
+            "C": "346,000",
+            "D": "300,000"
+        }
+    },
+    {
+        "question": "Which number rounds to 800,000 when rounded to the nearest 100,000?",
+        "answer": "B",
+        "options": {
+            "A": "749,999",
+            "B": "750,001",
+            "C": "850,000",
+            "D": "860,000"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 67?",
+        "answer": "A",
+        "options": {
+            "A": "LXVII",
+            "B": "LVII",
+            "C": "LXXVII",
+            "D": "XLVII"
+        }
+    },
+    {
+        "question": "What number is represented by 'XCVI'?",
+        "answer": "B",
+        "options": {
+            "A": "86",
+            "B": "96",
+            "C": "106",
+            "D": "94"
+        }
+    },
+    {
+        "question": "Which Roman numeral is 83?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXIII",
+            "B": "LXXIII",
+            "C": "LXXXXIII",
+            "D": "LXXXII"
+        }
+    },
+    {
+        "question": "Which Roman numeral is 95?",
+        "answer": "A",
+        "options": {
+            "A": "XCV",
+            "B": "LXXXXV",
+            "C": "CV",
+            "D": "LXXV"
+        }
+    },
+    {
+        "question": "What is 58 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LVIII",
+            "B": "LVI",
+            "C": "LXVIII",
+            "D": "XLVIII"
+        }
+    },
+    {
+        "question": "What number is halfway between 40,000 and 50,000?",
+        "answer": "B",
+        "options": {
+            "A": "42,500",
+            "B": "45,000",
+            "C": "47,500",
+            "D": "48,000"
+        }
+    },
+    {
+        "question": "What number is halfway between -16 and 4?",
+        "answer": "B",
+        "options": {
+            "A": "-8",
+            "B": "-6",
+            "C": "-4",
+            "D": "-2"
+        }
+    },
+    {
+        "question": "What is 1,000 more than 299,000?",
+        "answer": "C",
+        "options": {
+            "A": "298,000",
+            "B": "299,001",
+            "C": "300,000",
+            "D": "301,000"
+        }
+    },
+    {
+        "question": "What is 1,000 less than 300,000?",
+        "answer": "A",
+        "options": {
+            "A": "299,000",
+            "B": "299,900",
+            "C": "299,999",
+            "D": "301,000"
+        }
+    },
+    {
+        "question": "How many thousands are in 95,000?",
+        "answer": "C",
+        "options": {
+            "A": "9",
+            "B": "5",
+            "C": "95",
+            "D": "950"
+        }
+    },
+    {
+        "question": "How many hundreds are in 78,000?",
+        "answer": "B",
+        "options": {
+            "A": "78",
+            "B": "780",
+            "C": "7,800",
+            "D": "78,000"
+        }
+    },
+    {
+        "question": "How many tens are in 34,000?",
+        "answer": "C",
+        "options": {
+            "A": "34",
+            "B": "340",
+            "C": "3,400",
+            "D": "34,000"
+        }
+    },
+    {
+        "question": "Which number is 100 more than 99,850?",
+        "answer": "C",
+        "options": {
+            "A": "99,860",
+            "B": "99,900",
+            "C": "99,950",
+            "D": "99,750"
+        }
+    },
+    {
+        "question": "Which number is 100 less than 80,100?",
+        "answer": "A",
+        "options": {
+            "A": "80,000",
+            "B": "79,900",
+            "C": "80,090",
+            "D": "81,000"
+        }
+    },
+    {
+        "question": "Count in 25s: what number comes after 675?",
+        "answer": "B",
+        "options": {
+            "A": "680",
+            "B": "700",
+            "C": "690",
+            "D": "685"
+        }
+    },
+    {
+        "question": "Count in 9s: what number comes after 135?",
+        "answer": "B",
+        "options": {
+            "A": "138",
+            "B": "144",
+            "C": "153",
+            "D": "147"
+        }
+    },
+    {
+        "question": "Count in 7s: what number comes after 140?",
+        "answer": "B",
+        "options": {
+            "A": "141",
+            "B": "147",
+            "C": "154",
+            "D": "149"
+        }
+    },
+    {
+        "question": "Count in 6s: what number comes after 150?",
+        "answer": "B",
+        "options": {
+            "A": "152",
+            "B": "156",
+            "C": "162",
+            "D": "154"
+        }
+    },
+    {
+        "question": "Count in 1,000s: what number comes after 399,000?",
+        "answer": "B",
+        "options": {
+            "A": "399,001",
+            "B": "400,000",
+            "C": "401,000",
+            "D": "399,100"
+        }
+    },
+    {
+        "question": "What is the sum of the place values of the two 2s in 202,345?",
+        "answer": "B",
+        "options": {
+            "A": "200,200",
+            "B": "202,000",
+            "C": "202,200",
+            "D": "2,200"
+        }
+    },
+    {
+        "question": "What is the difference between the place values of the two 4s in 430,042?",
+        "answer": "A",
+        "options": {
+            "A": "399,960",
+            "B": "400,000",
+            "C": "400,040",
+            "D": "399,900"
+        }
+    },
+    {
+        "question": "Which number is represented on an abacus with 5 beads in the hundred-thousands column, 0 in ten-thousands, 8 in thousands, 0 in hundreds, 6 in tens, and 0 in ones?",
+        "answer": "A",
+        "options": {
+            "A": "508,060",
+            "B": "580,060",
+            "C": "508,600",
+            "D": "58,060"
+        }
+    },
+    {
+        "question": "A number has 7 in the hundred-thousands place, 0 in all other places except 5 in the tens. What is the number?",
+        "answer": "A",
+        "options": {
+            "A": "700,050",
+            "B": "700,500",
+            "C": "705,000",
+            "D": "70,050"
+        }
+    },
+    {
+        "question": "Round 3,000,001 to the nearest 100,000.",
+        "answer": "A",
+        "options": {
+            "A": "3,000,000",
+            "B": "3,100,000",
+            "C": "2,900,000",
+            "D": "3,010,000"
+        }
+    },
+    {
+        "question": "Round 4,876,543 to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "4,800,000",
+            "B": "4,900,000",
+            "C": "4,870,000",
+            "D": "4,880,000"
+        }
+    },
+    {
+        "question": "Round 6,345,678 to the nearest 1,000,000.",
+        "answer": "A",
+        "options": {
+            "A": "6,000,000",
+            "B": "7,000,000",
+            "C": "6,300,000",
+            "D": "6,400,000"
+        }
+    },
+    {
+        "question": "Which number is closest to 890,765 when rounded to the nearest 10,000?",
+        "answer": "A",
+        "options": {
+            "A": "890,000",
+            "B": "900,000",
+            "C": "891,000",
+            "D": "880,000"
+        }
+    },
+    {
+        "question": "A number rounds to 600,000 when rounded to the nearest 100,000. Which could it be?",
+        "answer": "B",
+        "options": {
+            "A": "549,999",
+            "B": "550,001",
+            "C": "650,000",
+            "D": "660,000"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 76?",
+        "answer": "A",
+        "options": {
+            "A": "LXXVI",
+            "B": "LXVI",
+            "C": "LXXXVI",
+            "D": "LXXIV"
+        }
+    },
+    {
+        "question": "What number is represented by 'LXXXVIII'?",
+        "answer": "B",
+        "options": {
+            "A": "78",
+            "B": "88",
+            "C": "98",
+            "D": "87"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 56?",
+        "answer": "A",
+        "options": {
+            "A": "LVI",
+            "B": "LIV",
+            "C": "LXVI",
+            "D": "XLVI"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 92?",
+        "answer": "A",
+        "options": {
+            "A": "XCII",
+            "B": "LXXXXII",
+            "C": "CII",
+            "D": "LXXII"
+        }
+    },
+    {
+        "question": "What is 71 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LXXI",
+            "B": "LXI",
+            "C": "LXXXI",
+            "D": "LXX"
+        }
+    },
+    {
+        "question": "What is 97 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "XCVII",
+            "B": "LXXXXVII",
+            "C": "CVII",
+            "D": "LXXXVII"
+        }
+    },
+    {
+        "question": "Which number is represented by 'XLVII'?",
+        "answer": "A",
+        "options": {
+            "A": "47",
+            "B": "57",
+            "C": "67",
+            "D": "42"
+        }
+    },
+    {
+        "question": "Which number is represented by 'LXXVI'?",
+        "answer": "B",
+        "options": {
+            "A": "66",
+            "B": "76",
+            "C": "86",
+            "D": "74"
+        }
+    },
+    {
+        "question": "Estimate the difference between 2,345,678 and 1,234,567 by rounding both to the nearest 100,000.",
+        "answer": "A",
+        "options": {
+            "A": "1,100,000",
+            "B": "1,200,000",
+            "C": "1,000,000",
+            "D": "1,150,000"
+        }
+    },
+    {
+        "question": "A library has 789,012 books. Rounded to the nearest 10,000, how many books are there?",
+        "answer": "B",
+        "options": {
+            "A": "780,000",
+            "B": "790,000",
+            "C": "789,000",
+            "D": "700,000"
+        }
+    },
+    {
+        "question": "A mountain is 10,987 metres high. Rounded to the nearest 100 metres, what is its height?",
+        "answer": "B",
+        "options": {
+            "A": "10,900 m",
+            "B": "11,000 m",
+            "C": "10,990 m",
+            "D": "10,000 m"
+        }
+    },
+    {
+        "question": "What is 1,000 less than 345,678?",
+        "answer": "A",
+        "options": {
+            "A": "344,678",
+            "B": "345,578",
+            "C": "346,678",
+            "D": "345,668"
+        }
+    },
+    {
+        "question": "What is 1,000 more than 678,901?",
+        "answer": "B",
+        "options": {
+            "A": "678,902",
+            "B": "679,901",
+            "C": "677,901",
+            "D": "678,001"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 30,000; 30,006; 30,012; 30,018; ...?",
+        "answer": "B",
+        "options": {
+            "A": "30,020",
+            "B": "30,024",
+            "C": "30,030",
+            "D": "30,036"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 42,000; 42,007; 42,014; 42,021; ...?",
+        "answer": "B",
+        "options": {
+            "A": "42,027",
+            "B": "42,028",
+            "C": "42,030",
+            "D": "42,035"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 63,000; 63,009; 63,018; 63,027; ...?",
+        "answer": "B",
+        "options": {
+            "A": "63,030",
+            "B": "63,036",
+            "C": "63,045",
+            "D": "63,054"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 375; 400; 425; 450; ...?",
+        "answer": "B",
+        "options": {
+            "A": "460",
+            "B": "475",
+            "C": "500",
+            "D": "465"
+        }
+    },
+    {
+        "question": "Which number comes next in the sequence: 89,000; 90,000; 91,000; ...?",
+        "answer": "B",
+        "options": {
+            "A": "91,500",
+            "B": "92,000",
+            "C": "93,000",
+            "D": "94,000"
+        }
+    },
+    {
+        "question": "Starting at 8 and counting backwards through zero, what is the 12th number?",
+        "answer": "A",
+        "options": {
+            "A": "-3",
+            "B": "-4",
+            "C": "-5",
+            "D": "-6"
+        }
+    },
+    {
+        "question": "Starting at 8 and counting backwards through zero, what is the 12th number?",
+        "answer": "A",
+        "options": {
+            "A": "-3",
+            "B": "-4",
+            "C": "-5",
+            "D": "-6"
+        }
+    },
+    {
+        "question": "What number is halfway between -18 and 12?",
+        "answer": "B",
+        "options": {
+            "A": "-6",
+            "B": "-3",
+            "C": "0",
+            "D": "3"
+        }
+    },
+    {
+        "question": "In the number 536,789, what is the value of the digit 3?",
+        "answer": "C",
+        "options": {
+            "A": "3",
+            "B": "30",
+            "C": "30,000",
+            "D": "300,000"
+        }
+    },
+    {
+        "question": "In the number 640,078, what is the value of the digit 6?",
+        "answer": "B",
+        "options": {
+            "A": "60,000",
+            "B": "600,000",
+            "C": "6,000,000",
+            "D": "600"
+        }
+    },
+    {
+        "question": "In the number 89,094, what is the value of the digit 9 (in the tens place)?",
+        "answer": "B",
+        "options": {
+            "A": "9",
+            "B": "90",
+            "C": "900",
+            "D": "9,000"
+        }
+    },
+    {
+        "question": "Which digit is in the thousands place in 1,053,214?",
+        "answer": "C",
+        "options": {
+            "A": "0",
+            "B": "5",
+            "C": "3",
+            "D": "2"
+        }
+    },
+    {
+        "question": "Which digit has the greatest value in 9,054?",
+        "answer": "A",
+        "options": {
+            "A": "9",
+            "B": "0",
+            "C": "5",
+            "D": "4"
+        }
+    },
+    {
+        "question": "Which number is greater: 789,012 or 789,021?",
+        "answer": "B",
+        "options": {
+            "A": "789,012",
+            "B": "789,021",
+            "C": "They are equal",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "Which number is smaller: 901,234 or 901,243?",
+        "answer": "A",
+        "options": {
+            "A": "901,234",
+            "B": "901,243",
+            "C": "They are equal",
+            "D": "Cannot tell"
+        }
+    },
+    {
+        "question": "Order these numbers from smallest to largest: 400,001; 399,999; 400,100; 399,900.",
+        "answer": "A",
+        "options": {
+            "A": "399,900; 399,999; 400,001; 400,100",
+            "B": "399,999; 399,900; 400,001; 400,100",
+            "C": "400,100; 400,001; 399,999; 399,900",
+            "D": "399,900; 400,001; 399,999; 400,100"
+        }
+    },
+    {
+        "question": "Which symbol correctly compares 890,123 and 890,132?",
+        "answer": "B",
+        "options": {
+            "A": "=",
+            "B": "<",
+            "C": ">",
+            "D": "\u2265"
+        }
+    },
+    {
+        "question": "Which of these numbers is the largest: 789,012; 789,021; 789,102; 789,201?",
+        "answer": "D",
+        "options": {
+            "A": "789,012",
+            "B": "789,021",
+            "C": "789,102",
+            "D": "789,201"
+        }
+    },
+    {
+        "question": "What number is represented by 9 \u00d7 100,000 + 5 \u00d7 10,000 + 0 \u00d7 1,000 + 1 \u00d7 100 + 4 \u00d7 10 + 7 \u00d7 1?",
+        "answer": "A",
+        "options": {
+            "A": "950,147",
+            "B": "905,147",
+            "C": "951,047",
+            "D": "950,174"
+        }
+    },
+    {
+        "question": "Which number matches this description: 6 hundred-thousands, 3 ten-thousands, 0 thousands, 9 hundreds, 0 tens, and 5 ones?",
+        "answer": "A",
+        "options": {
+            "A": "630,905",
+            "B": "603,905",
+            "C": "630,950",
+            "D": "63,905"
+        }
+    },
+    {
+        "question": "Round 567,890 to the nearest 10.",
+        "answer": "B",
+        "options": {
+            "A": "567,880",
+            "B": "567,890",
+            "C": "567,900",
+            "D": "568,000"
+        }
+    },
+    {
+        "question": "Round 567,893 to the nearest 10.",
+        "answer": "A",
+        "options": {
+            "A": "567,890",
+            "B": "567,900",
+            "C": "567,800",
+            "D": "568,000"
+        }
+    },
+    {
+        "question": "Round 1,012,345 to the nearest 100.",
+        "answer": "A",
+        "options": {
+            "A": "1,012,300",
+            "B": "1,012,400",
+            "C": "1,012,340",
+            "D": "1,013,000"
+        }
+    },
+    {
+        "question": "Round 987,654 to the nearest 1,000.",
+        "answer": "B",
+        "options": {
+            "A": "987,000",
+            "B": "988,000",
+            "C": "987,600",
+            "D": "980,000"
+        }
+    },
+    {
+        "question": "Round 2,002,999 to the nearest 1,000.",
+        "answer": "B",
+        "options": {
+            "A": "2,002,000",
+            "B": "2,003,000",
+            "C": "2,004,000",
+            "D": "2,001,000"
+        }
+    },
+    {
+        "question": "Round 678,901 to the nearest 10,000.",
+        "answer": "B",
+        "options": {
+            "A": "670,000",
+            "B": "680,000",
+            "C": "679,000",
+            "D": "678,000"
+        }
+    },
+    {
+        "question": "A number rounds to 2,000,000 when rounded to the nearest 100,000. Which could it be?",
+        "answer": "B",
+        "options": {
+            "A": "1,949,999",
+            "B": "1,950,001",
+            "C": "2,050,000",
+            "D": "2,060,000"
+        }
+    },
+    {
+        "question": "A number rounds to 89,000 when rounded to the nearest 100. Which could it be?",
+        "answer": "C",
+        "options": {
+            "A": "88,949",
+            "B": "89,051",
+            "C": "89,049",
+            "D": "88,900"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 69?",
+        "answer": "A",
+        "options": {
+            "A": "LXIX",
+            "B": "LIX",
+            "C": "LXXIX",
+            "D": "LXVIIII"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 84?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXIV",
+            "B": "XXCIV",
+            "C": "LXXIV",
+            "D": "LXXXVI"
+        }
+    },
+    {
+        "question": "What number does the Roman numeral 'LXXXIX' represent?",
+        "answer": "B",
+        "options": {
+            "A": "79",
+            "B": "89",
+            "C": "99",
+            "D": "88"
+        }
+    },
+    {
+        "question": "What number does the Roman numeral 'XCIV' represent?",
+        "answer": "A",
+        "options": {
+            "A": "94",
+            "B": "104",
+            "C": "84",
+            "D": "96"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 96?",
+        "answer": "A",
+        "options": {
+            "A": "XCVI",
+            "B": "LXXXXVI",
+            "C": "CXVI",
+            "D": "ICVI"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 77?",
+        "answer": "A",
+        "options": {
+            "A": "LXXVII",
+            "B": "LXVII",
+            "C": "LXXXVII",
+            "D": "LVII"
+        }
+    },
+    {
+        "question": "What is 89 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXIX",
+            "B": "LXXIX",
+            "C": "XCIX",
+            "D": "LXXXVIIII"
+        }
+    },
+    {
+        "question": "What is 99 in Roman numerals?",
+        "answer": "B",
+        "options": {
+            "A": "IC",
+            "B": "XCIX",
+            "C": "LXXXXIX",
+            "D": "CIX"
+        }
+    },
+    {
+        "question": "Which number is represented by 'XLVIII'?",
+        "answer": "A",
+        "options": {
+            "A": "48",
+            "B": "58",
+            "C": "68",
+            "D": "42"
+        }
+    },
+    {
+        "question": "Which number is represented by 'LXXIV'?",
+        "answer": "B",
+        "options": {
+            "A": "64",
+            "B": "74",
+            "C": "84",
+            "D": "76"
+        }
+    },
+    {
+        "question": "Estimate the total cost of items priced at \u00a3108,456, \u00a356,789, and \u00a345,632 by rounding each to the nearest \u00a310,000.",
+        "answer": "C",
+        "options": {
+            "A": "\u00a3200,000",
+            "B": "\u00a3210,000",
+            "C": "\u00a3220,000",
+            "D": "\u00a3190,000"
+        }
+    },
+    {
+        "question": "Estimate the total cost of items priced at \u00a3108,456, \u00a356,789, and \u00a345,632 by rounding each to the nearest \u00a310,000.",
+        "answer": "C",
+        "options": {
+            "A": "\u00a3200,000",
+            "B": "\u00a3210,000",
+            "C": "\u00a3220,000",
+            "D": "\u00a3190,000"
+        }
+    },
+    {
+        "question": "A town has a population of 789,012. Rounded to the nearest 10,000, what is the population?",
+        "answer": "B",
+        "options": {
+            "A": "780,000",
+            "B": "790,000",
+            "C": "789,000",
+            "D": "700,000"
+        }
+    },
+    {
+        "question": "A car travels 120,987 metres. Rounded to the nearest 100 metres, how far did it travel?",
+        "answer": "B",
+        "options": {
+            "A": "120,900 m",
+            "B": "121,000 m",
+            "C": "120,980 m",
+            "D": "122,000 m"
+        }
+    },
+    {
+        "question": "Which number is 1,000 less than five hundred thousand?",
+        "answer": "A",
+        "options": {
+            "A": "499,000",
+            "B": "499,900",
+            "C": "499,999",
+            "D": "500,000"
+        }
+    },
+    {
+        "question": "Which number is 1,000 more than four hundred ninety-nine thousand?",
+        "answer": "B",
+        "options": {
+            "A": "499,001",
+            "B": "500,000",
+            "C": "501,000",
+            "D": "499,100"
+        }
+    },
+    {
+        "question": "Count in 25s from 0. Which of these numbers will you say?",
+        "answer": "A",
+        "options": {
+            "A": "250",
+            "B": "255",
+            "C": "260",
+            "D": "265"
+        }
+    },
+    {
+        "question": "Count in 9s from 0. Which number will you NOT say?",
+        "answer": "D",
+        "options": {
+            "A": "126",
+            "B": "135",
+            "C": "144",
+            "D": "145"
+        }
+    },
+    {
+        "question": "Count in 7s from 0. Which number will you say?",
+        "answer": "A",
+        "options": {
+            "A": "105",
+            "B": "106",
+            "C": "107",
+            "D": "108"
+        }
+    },
+    {
+        "question": "Count in 6s from 0. Which number is NOT in the sequence?",
+        "answer": "D",
+        "options": {
+            "A": "120",
+            "B": "126",
+            "C": "132",
+            "D": "133"
+        }
+    },
+    {
+        "question": "What is the 30th number when counting in 1,000s starting from 1,000?",
+        "answer": "A",
+        "options": {
+            "A": "30,000",
+            "B": "29,000",
+            "C": "31,000",
+            "D": "3,000"
+        }
+    },
+    {
+        "question": "What is the temperature if it starts at -10\u00b0C and drops by 5 degrees?",
+        "answer": "A",
+        "options": {
+            "A": "-15\u00b0C",
+            "B": "5\u00b0C",
+            "C": "-5\u00b0C",
+            "D": "15\u00b0C"
+        }
+    },
+    {
+        "question": "If the temperature was -15\u00b0C and it rose by 20 degrees, what is the new temperature?",
+        "answer": "A",
+        "options": {
+            "A": "5\u00b0C",
+            "B": "-35\u00b0C",
+            "C": "35\u00b0C",
+            "D": "-5\u00b0C"
+        }
+    },
+    {
+        "question": "Which number is greater: -30 or -25?",
+        "answer": "B",
+        "options": {
+            "A": "-30",
+            "B": "-25",
+            "C": "They are equal",
+            "D": "Neither"
+        }
+    },
+    {
+        "question": "Order these temperatures from coldest to warmest: -25\u00b0C, 5\u00b0C, -7\u00b0C, 0\u00b0C.",
+        "answer": "A",
+        "options": {
+            "A": "-25\u00b0C, -7\u00b0C, 0\u00b0C, 5\u00b0C",
+            "B": "5\u00b0C, 0\u00b0C, -7\u00b0C, -25\u00b0C",
+            "C": "-7\u00b0C, -25\u00b0C, 0\u00b0C, 5\u00b0C",
+            "D": "0\u00b0C, -7\u00b0C, 5\u00b0C, -25\u00b0C"
+        }
+    },
+    {
+        "question": "What number is 13 less than -8?",
+        "answer": "A",
+        "options": {
+            "A": "-21",
+            "B": "-5",
+            "C": "5",
+            "D": "21"
+        }
+    },
+    {
+        "question": "What number is 14 more than -17?",
+        "answer": "B",
+        "options": {
+            "A": "-31",
+            "B": "-3",
+            "C": "3",
+            "D": "31"
+        }
+    },
+    {
+        "question": "In the number 540,678, what is the place value of the digit 4?",
+        "answer": "C",
+        "options": {
+            "A": "4",
+            "B": "40",
+            "C": "40,000",
+            "D": "400,000"
+        }
+    },
+    {
+        "question": "In the number 608,091, what is the value of the digit 8?",
+        "answer": "C",
+        "options": {
+            "A": "8",
+            "B": "80",
+            "C": "8,000",
+            "D": "80,000"
+        }
+    },
+    {
+        "question": "Which number has the same value as 100,000 + 700 + 90 + 5?",
+        "answer": "A",
+        "options": {
+            "A": "100,795",
+            "B": "107,095",
+            "C": "100,975",
+            "D": "107,950"
+        }
+    },
+    {
+        "question": "Which number is shown by 8 \u00d7 100,000 + 3 \u00d7 10,000 + 0 \u00d7 1,000 + 6 \u00d7 100 + 0 \u00d7 10 + 9 \u00d7 1?",
+        "answer": "A",
+        "options": {
+            "A": "830,609",
+            "B": "803,609",
+            "C": "836,009",
+            "D": "8,306,090"
+        }
+    },
+    {
+        "question": "Round 890,123 to the nearest 1,000.",
+        "answer": "A",
+        "options": {
+            "A": "890,000",
+            "B": "891,000",
+            "C": "890,100",
+            "D": "880,000"
+        }
+    },
+    {
+        "question": "Round 567,890 to the nearest 10,000.",
+        "answer": "B",
+        "options": {
+            "A": "560,000",
+            "B": "570,000",
+            "C": "568,000",
+            "D": "500,000"
+        }
+    },
+    {
+        "question": "Round 2,187,654 to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "2,100,000",
+            "B": "2,200,000",
+            "C": "2,180,000",
+            "D": "2,190,000"
+        }
+    },
+    {
+        "question": "A stadium holds 456,789 people. Rounded to the nearest 10,000, how many people does it hold?",
+        "answer": "B",
+        "options": {
+            "A": "450,000",
+            "B": "460,000",
+            "C": "457,000",
+            "D": "400,000"
+        }
+    },
+    {
+        "question": "Which number rounds to 900,000 when rounded to the nearest 100,000?",
+        "answer": "B",
+        "options": {
+            "A": "849,999",
+            "B": "850,001",
+            "C": "950,000",
+            "D": "960,000"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 73?",
+        "answer": "A",
+        "options": {
+            "A": "LXXIII",
+            "B": "LXIII",
+            "C": "LXXXIII",
+            "D": "LXXII"
+        }
+    },
+    {
+        "question": "What number is represented by 'XCVII'?",
+        "answer": "B",
+        "options": {
+            "A": "87",
+            "B": "97",
+            "C": "107",
+            "D": "92"
+        }
+    },
+    {
+        "question": "Which Roman numeral is 84?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXIV",
+            "B": "XXCIV",
+            "C": "LXXIV",
+            "D": "LXXXVI"
+        }
+    },
+    {
+        "question": "Which Roman numeral is 93?",
+        "answer": "A",
+        "options": {
+            "A": "XCIII",
+            "B": "LXXXXIII",
+            "C": "CIII",
+            "D": "LXXXIII"
+        }
+    },
+    {
+        "question": "What is 66 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LXVI",
+            "B": "LVVI",
+            "C": "LXIV",
+            "D": "LXXVI"
+        }
+    },
+    {
+        "question": "What number is halfway between 50,000 and 60,000?",
+        "answer": "B",
+        "options": {
+            "A": "52,500",
+            "B": "55,000",
+            "C": "57,500",
+            "D": "58,000"
+        }
+    },
+    {
+        "question": "What number is halfway between -18 and 6?",
+        "answer": "B",
+        "options": {
+            "A": "-9",
+            "B": "-6",
+            "C": "-3",
+            "D": "0"
+        }
+    },
+    {
+        "question": "What is 1,000 more than 399,000?",
+        "answer": "C",
+        "options": {
+            "A": "398,000",
+            "B": "399,001",
+            "C": "400,000",
+            "D": "401,000"
+        }
+    },
+    {
+        "question": "What is 1,000 less than 400,000?",
+        "answer": "A",
+        "options": {
+            "A": "399,000",
+            "B": "399,900",
+            "C": "399,999",
+            "D": "401,000"
+        }
+    },
+    {
+        "question": "How many thousands are in 105,000?",
+        "answer": "C",
+        "options": {
+            "A": "10",
+            "B": "5",
+            "C": "105",
+            "D": "1,050"
+        }
+    },
+    {
+        "question": "How many hundreds are in 89,000?",
+        "answer": "B",
+        "options": {
+            "A": "89",
+            "B": "890",
+            "C": "8,900",
+            "D": "89,000"
+        }
+    },
+    {
+        "question": "How many tens are in 45,000?",
+        "answer": "C",
+        "options": {
+            "A": "45",
+            "B": "450",
+            "C": "4,500",
+            "D": "45,000"
+        }
+    },
+    {
+        "question": "Which number is 100 more than 99,950?",
+        "answer": "C",
+        "options": {
+            "A": "99,960",
+            "B": "100,000",
+            "C": "100,050",
+            "D": "99,850"
+        }
+    },
+    {
+        "question": "Which number is 100 less than 90,100?",
+        "answer": "A",
+        "options": {
+            "A": "90,000",
+            "B": "89,900",
+            "C": "90,090",
+            "D": "91,000"
+        }
+    },
+    {
+        "question": "Count in 25s: what number comes after 775?",
+        "answer": "B",
+        "options": {
+            "A": "780",
+            "B": "800",
+            "C": "790",
+            "D": "785"
+        }
+    },
+    {
+        "question": "Count in 9s: what number comes after 144?",
+        "answer": "B",
+        "options": {
+            "A": "147",
+            "B": "153",
+            "C": "162",
+            "D": "156"
+        }
+    },
+    {
+        "question": "Count in 7s: what number comes after 147?",
+        "answer": "B",
+        "options": {
+            "A": "148",
+            "B": "154",
+            "C": "161",
+            "D": "156"
+        }
+    },
+    {
+        "question": "Count in 6s: what number comes after 156?",
+        "answer": "B",
+        "options": {
+            "A": "158",
+            "B": "162",
+            "C": "168",
+            "D": "160"
+        }
+    },
+    {
+        "question": "Count in 1,000s: what number comes after 499,000?",
+        "answer": "B",
+        "options": {
+            "A": "499,001",
+            "B": "500,000",
+            "C": "501,000",
+            "D": "499,100"
+        }
+    },
+    {
+        "question": "What is the sum of the place values of the two 1s in 101,234?",
+        "answer": "B",
+        "options": {
+            "A": "100,100",
+            "B": "101,000",
+            "C": "101,100",
+            "D": "1,100"
+        }
+    },
+    {
+        "question": "What is the difference between the place values of the two 3s in 340,035?",
+        "answer": "A",
+        "options": {
+            "A": "299,970",
+            "B": "300,000",
+            "C": "300,030",
+            "D": "299,900"
+        }
+    },
+    {
+        "question": "Which number is represented on an abacus with 6 beads in the hundred-thousands column, 0 in ten-thousands, 9 in thousands, 0 in hundreds, 7 in tens, and 0 in ones?",
+        "answer": "A",
+        "options": {
+            "A": "609,070",
+            "B": "690,070",
+            "C": "609,700",
+            "D": "69,070"
+        }
+    },
+    {
+        "question": "A number has 9 in the hundred-thousands place, 0 in all other places except 6 in the ones. What is the number?",
+        "answer": "A",
+        "options": {
+            "A": "900,006",
+            "B": "900,060",
+            "C": "906,000",
+            "D": "90,006"
+        }
+    },
+    {
+        "question": "Round 4,000,001 to the nearest 100,000.",
+        "answer": "A",
+        "options": {
+            "A": "4,000,000",
+            "B": "4,100,000",
+            "C": "3,900,000",
+            "D": "4,010,000"
+        }
+    },
+    {
+        "question": "Round 5,987,654 to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "5,900,000",
+            "B": "6,000,000",
+            "C": "5,980,000",
+            "D": "5,990,000"
+        }
+    },
+    {
+        "question": "Round 7,456,789 to the nearest 1,000,000.",
+        "answer": "A",
+        "options": {
+            "A": "7,000,000",
+            "B": "8,000,000",
+            "C": "7,400,000",
+            "D": "7,500,000"
+        }
+    },
+    {
+        "question": "Which number is closest to 901,234 when rounded to the nearest 10,000?",
+        "answer": "A",
+        "options": {
+            "A": "900,000",
+            "B": "910,000",
+            "C": "901,000",
+            "D": "890,000"
+        }
+    },
+    {
+        "question": "A number rounds to 700,000 when rounded to the nearest 100,000. Which could it be?",
+        "answer": "B",
+        "options": {
+            "A": "649,999",
+            "B": "650,001",
+            "C": "750,000",
+            "D": "760,000"
+        }
+    },
+    {
+        "question": "What is the Roman numeral for 88?",
+        "answer": "A",
+        "options": {
+            "A": "LXXXVIII",
+            "B": "LXXVIII",
+            "C": "XCVIII",
+            "D": "LXXXVII"
+        }
+    },
+    {
+        "question": "What number is represented by 'LXXXVI'?",
+        "answer": "B",
+        "options": {
+            "A": "76",
+            "B": "86",
+            "C": "96",
+            "D": "84"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 63?",
+        "answer": "A",
+        "options": {
+            "A": "LXIII",
+            "B": "LIII",
+            "C": "LXXIII",
+            "D": "XLIII"
+        }
+    },
+    {
+        "question": "Which Roman numeral equals 92?",
+        "answer": "A",
+        "options": {
+            "A": "XCII",
+            "B": "LXXXXII",
+            "C": "CII",
+            "D": "LXXII"
+        }
+    },
+    {
+        "question": "What is 71 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "LXXI",
+            "B": "LXI",
+            "C": "LXXXI",
+            "D": "LXX"
+        }
+    },
+    {
+        "question": "What is 97 in Roman numerals?",
+        "answer": "A",
+        "options": {
+            "A": "XCVII",
+            "B": "LXXXXVII",
+            "C": "CVII",
+            "D": "LXXXVII"
+        }
+    },
+    {
+        "question": "Which number is represented by 'XLVI'?",
+        "answer": "A",
+        "options": {
+            "A": "46",
+            "B": "56",
+            "C": "66",
+            "D": "44"
+        }
+    },
+    {
+        "question": "Which number is represented by 'LXXVII'?",
+        "answer": "B",
+        "options": {
+            "A": "67",
+            "B": "77",
+            "C": "87",
+            "D": "75"
+        }
+    },
+    {
+        "question": "Estimate the difference between 3,456,789 and 2,345,678 by rounding both to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "1,100,000",
+            "B": "1,200,000",
+            "C": "1,000,000",
+            "D": "1,150,000"
+        }
+    },
+    {
+        "question": "Estimate the difference between 3,456,789 and 2,345,678 by rounding both to the nearest 100,000.",
+        "answer": "B",
+        "options": {
+            "A": "1,100,000",
+            "B": "1,200,000",
+            "C": "1,000,000",
+            "D": "1,150,000"
+        }
+    },
+    {
+        "question": "A library has 890,123 books. Rounded to the nearest 10,000, how many books are there?",
+        "answer": "B",
+        "options": {
+            "A": "880,000",
+            "B": "890,000",
+            "C": "900,000",
+            "D": "800,000"
+        }
+    },
+    {
+        "question": "A mountain is 12,098 metres high. Rounded to the nearest 100 metres, what is its height?",
+        "answer": "B",
+        "options": {
+            "A": "12,000 m",
+            "B": "12,100 m",
+            "C": "12,090 m",
+            "D": "13,000 m"
+        }
+    }
+]

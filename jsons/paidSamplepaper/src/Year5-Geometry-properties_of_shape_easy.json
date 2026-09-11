@@ -1,0 +1,1602 @@
+[
+    {
+        "qid": 1,
+        "question": "Which 3-D shape is represented by this 2-D drawing?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Pyramid",
+            "D": "Sphere"
+        },
+        "answer": "A",
+        "explanation": "The 2-D drawing shows six equal square faces, which is how a cube is represented in 2-D.",
+        "difficulty": "easy",
+        "imgFileName": "1_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 2,
+        "question": "Which of these shapes is a cuboid?",
+        "options": {
+            "A": "A shape with all faces as squares",
+            "B": "A shape with six rectangular faces",
+            "C": "A shape with a circular base",
+            "D": "A shape with a triangular base"
+        },
+        "answer": "B",
+        "explanation": "A cuboid has six rectangular faces, not necessarily all squares.",
+        "difficulty": "easy",
+        "imgFileName": "2_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 3,
+        "question": "What is the total angle at a point (all around a dot)?",
+        "options": {
+            "A": "90°",
+            "B": "180°",
+            "C": "270°",
+            "D": "360°"
+        },
+        "answer": "D",
+        "explanation": "The total angle all around a point is 360°, which is one full turn.",
+        "difficulty": "easy",
+        "imgFileName": "3_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 4,
+        "question": "What is the total angle on a straight line?",
+        "options": {
+            "A": "90°",
+            "B": "180°",
+            "C": "270°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "The total angle on a straight line is 180°, which is half a turn.",
+        "difficulty": "easy",
+        "imgFileName": "4_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 5,
+        "question": "Which angle is less than 90°?",
+        "options": {
+            "A": "Acute",
+            "B": "Obtuse",
+            "C": "Reflex",
+            "D": "Right"
+        },
+        "answer": "A",
+        "explanation": "An acute angle is less than 90°.",
+        "difficulty": "easy",
+        "imgFileName": "5_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 6,
+        "question": "Which angle is greater than 90° but less than 180°?",
+        "options": {
+            "A": "Acute",
+            "B": "Obtuse",
+            "C": "Reflex",
+            "D": "Right"
+        },
+        "answer": "B",
+        "explanation": "An obtuse angle is greater than 90° but less than 180°.",
+        "difficulty": "easy",
+        "imgFileName": "6_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 7,
+        "question": "Which angle is greater than 180° but less than 360°?",
+        "options": {
+            "A": "Acute",
+            "B": "Obtuse",
+            "C": "Reflex",
+            "D": "Right"
+        },
+        "answer": "C",
+        "explanation": "A reflex angle is greater than 180° but less than 360°.",
+        "difficulty": "easy",
+        "imgFileName": "7_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 8,
+        "question": "What is the measure of a right angle?",
+        "options": {
+            "A": "45°",
+            "B": "90°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "A right angle measures exactly 90°.",
+        "difficulty": "easy",
+        "imgFileName": "8_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 9,
+        "question": "Which of these is a regular polygon?",
+        "options": {
+            "A": "A rectangle with sides 4 cm and 6 cm",
+            "B": "A pentagon with all sides and angles equal",
+            "C": "A quadrilateral with sides 3 cm, 4 cm, 5 cm, 6 cm",
+            "D": "A triangle with sides 3 cm, 4 cm, 5 cm"
+        },
+        "answer": "B",
+        "explanation": "A regular polygon has all sides and angles equal. The pentagon with all sides and angles equal is a regular polygon.",
+        "difficulty": "easy",
+        "imgFileName": "9_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 10,
+        "question": "Which of these is an irregular polygon?",
+        "options": {
+            "A": "A square",
+            "B": "An equilateral triangle",
+            "C": "A rectangle with sides 3 cm and 5 cm",
+            "D": "A pentagon with all sides and angles equal"
+        },
+        "answer": "C",
+        "explanation": "An irregular polygon has sides and angles that are not all equal. The rectangle with sides 3 cm and 5 cm is irregular because not all sides are equal.",
+        "difficulty": "easy",
+        "imgFileName": "10_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 11,
+        "question": "What is the sum of the angles in a triangle?",
+        "options": {
+            "A": "90°",
+            "B": "180°",
+            "C": "270°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "The sum of the angles in any triangle is always 180°.",
+        "difficulty": "easy",
+        "imgFileName": "11_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 12,
+        "question": "What is the measure of angle A in this right-angled triangle if angle B is 30°?",
+        "options": {
+            "A": "30°",
+            "B": "60°",
+            "C": "90°",
+            "D": "120°"
+        },
+        "answer": "B",
+        "explanation": "In a right-angled triangle, the sum of the two non-right angles is 90°. If angle B is 30°, then angle A is 90° - 30° = 60°.",
+        "difficulty": "easy",
+        "imgFileName": "12_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 13,
+        "question": "What is the measure of angle C in this triangle if angle A is 40° and angle B is 70°?",
+        "options": {
+            "A": "30°",
+            "B": "50°",
+            "C": "70°",
+            "D": "110°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a triangle is 180°. So, angle C = 180° - (40° + 70°) = 70°.",
+        "difficulty": "easy",
+        "imgFileName": "13_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 14,
+        "question": "Which of these shapes has exactly four right angles?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Rectangle",
+            "C": "Parallelogram",
+            "D": "Trapezoid"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has four right angles and opposite sides equal and parallel.",
+        "difficulty": "easy",
+        "imgFileName": "14_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 15,
+        "question": "What is the measure of angle D in this rectangle if angle C is 90°?",
+        "options": {
+            "A": "45°",
+            "B": "90°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "All angles in a rectangle are right angles, so angle D is 90°.",
+        "difficulty": "easy",
+        "imgFileName": "15_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 16,
+        "question": "Which of these shapes has all sides equal and all angles equal?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A square has all sides equal and all angles equal (each 90°).",
+        "difficulty": "easy",
+        "imgFileName": "16_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 17,
+        "question": "What is the measure of angle E in this square?",
+        "options": {
+            "A": "45°",
+            "B": "60°",
+            "C": "90°",
+            "D": "120°"
+        },
+        "answer": "C",
+        "explanation": "All angles in a square are right angles, so angle E is 90°.",
+        "difficulty": "easy",
+        "imgFileName": "17_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 18,
+        "question": "Which of these shapes has opposite sides equal and parallel, but not all angles are right angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has opposite sides equal and parallel, but its angles are not necessarily right angles.",
+        "difficulty": "easy",
+        "imgFileName": "18_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 19,
+        "question": "What is the measure of angle F in this parallelogram if angle G is 110°?",
+        "options": {
+            "A": "70°",
+            "B": "80°",
+            "C": "90°",
+            "D": "110°"
+        },
+        "answer": "A",
+        "explanation": "In a parallelogram, adjacent angles are supplementary (add up to 180°). So, angle F = 180° - 110° = 70°.",
+        "difficulty": "easy",
+        "imgFileName": "19_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 20,
+        "question": "Which of these shapes has only one pair of parallel sides?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Trapezoid",
+            "D": "Rhombus"
+        },
+        "answer": "C",
+        "explanation": "A trapezoid has only one pair of parallel sides.",
+        "difficulty": "easy",
+        "imgFileName": "20_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 21,
+        "question": "What is the measure of angle H in this isosceles triangle if angle I is 70°?",
+        "options": {
+            "A": "35°",
+            "B": "55°",
+            "C": "70°",
+            "D": "110°"
+        },
+        "answer": "B",
+        "explanation": "In an isosceles triangle, the base angles are equal. So, angle H = (180° - 70°) / 2 = 55°.",
+        "difficulty": "easy",
+        "imgFileName": "21_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 22,
+        "question": "Which of these shapes has all sides equal but not all angles equal?",
+        "options": {
+            "A": "Square",
+            "B": "Rhombus",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rhombus has all sides equal, but its angles are not necessarily equal.",
+        "difficulty": "easy",
+        "imgFileName": "22_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 23,
+        "question": "What is the measure of angle J in this rhombus if angle K is 60°?",
+        "options": {
+            "A": "60°",
+            "B": "90°",
+            "C": "120°",
+            "D": "150°"
+        },
+        "answer": "C",
+        "explanation": "In a rhombus, adjacent angles are supplementary. So, angle J = 180° - 60° = 120°.",
+        "difficulty": "easy",
+        "imgFileName": "23_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 24,
+        "question": "Which of these shapes has four sides of equal length and four right angles?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A square has four sides of equal length and four right angles.",
+        "difficulty": "easy",
+        "imgFileName": "24_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 25,
+        "question": "What is the measure of angle L in this square?",
+        "options": {
+            "A": "45°",
+            "B": "60°",
+            "C": "90°",
+            "D": "120°"
+        },
+        "answer": "C",
+        "explanation": "All angles in a square are right angles, so angle L is 90°.",
+        "difficulty": "easy",
+        "imgFileName": "25_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 26,
+        "question": "Which of these shapes has two pairs of parallel sides and all angles are right angles?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rectangle has two pairs of parallel sides and all angles are right angles.",
+        "difficulty": "easy",
+        "imgFileName": "26_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 27,
+        "question": "What is the measure of angle M in this rectangle if angle N is 90°?",
+        "options": {
+            "A": "45°",
+            "B": "90°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "All angles in a rectangle are right angles, so angle M is 90°.",
+        "difficulty": "easy",
+        "imgFileName": "27_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 28,
+        "question": "Which of these shapes has all sides equal and opposite angles equal?",
+        "options": {
+            "A": "Square",
+            "B": "Rhombus",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rhombus has all sides equal and opposite angles equal.",
+        "difficulty": "easy",
+        "imgFileName": "28_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 29,
+        "question": "What is the measure of angle O in this rhombus if angle P is 50°?",
+        "options": {
+            "A": "50°",
+            "B": "130°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "In a rhombus, adjacent angles are supplementary. So, angle O = 180° - 50° = 130°.",
+        "difficulty": "easy",
+        "imgFileName": "29_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 30,
+        "question": "Which of these shapes has only one line of symmetry?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Isosceles triangle",
+            "D": "Equilateral triangle"
+        },
+        "answer": "C",
+        "explanation": "An isosceles triangle has only one line of symmetry.",
+        "difficulty": "easy",
+        "imgFileName": "30_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 31,
+        "question": "What is the measure of angle Q in this isosceles triangle if angle R is 40°?",
+        "options": {
+            "A": "40°",
+            "B": "70°",
+            "C": "100°",
+            "D": "140°"
+        },
+        "answer": "B",
+        "explanation": "In an isosceles triangle, the base angles are equal. So, angle Q = (180° - 40°) / 2 = 70°.",
+        "difficulty": "easy",
+        "imgFileName": "31_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 32,
+        "question": "Which of these shapes has three lines of symmetry?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Equilateral triangle",
+            "D": "Isosceles triangle"
+        },
+        "answer": "C",
+        "explanation": "An equilateral triangle has three lines of symmetry.",
+        "difficulty": "easy",
+        "imgFileName": "32_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 33,
+        "question": "What is the measure of angle S in this equilateral triangle?",
+        "options": {
+            "A": "45°",
+            "B": "60°",
+            "C": "90°",
+            "D": "120°"
+        },
+        "answer": "B",
+        "explanation": "All angles in an equilateral triangle are 60°.",
+        "difficulty": "easy",
+        "imgFileName": "33_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 34,
+        "question": "Which of these shapes has four lines of symmetry?",
+        "options": {
+            "A": "Rectangle",
+            "B": "Rhombus",
+            "C": "Square",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A square has four lines of symmetry.",
+        "difficulty": "easy",
+        "imgFileName": "34_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 35,
+        "question": "What is the measure of angle T in this square?",
+        "options": {
+            "A": "45°",
+            "B": "60°",
+            "C": "90°",
+            "D": "120°"
+        },
+        "answer": "C",
+        "explanation": "All angles in a square are right angles, so angle T is 90°.",
+        "difficulty": "easy",
+        "imgFileName": "35_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 36,
+        "question": "Which of these shapes has two lines of symmetry?",
+        "options": {
+            "A": "Isosceles triangle",
+            "B": "Scalene triangle",
+            "C": "Right-angled triangle",
+            "D": "None of the Above"
+        },
+        "answer": "D",
+        "explanation": "An isosceles triangle has exactly one line of symmetry. A scalene triangle has zero, a right-angled triangle has either zero or one. None of the provided options has exactly two lines of symmetry",
+        "difficulty": "easy",
+        "imgFileName": "36_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 37,
+        "question": "What is the measure of angle U in this rectangle if angle V is 90°?",
+        "options": {
+            "A": "45°",
+            "B": "90°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "All angles in a rectangle are right angles, so angle U is 90°.",
+        "difficulty": "easy",
+        "imgFileName": "37_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 38,
+        "question": "Which of these shapes has no lines of symmetry?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Scalene triangle",
+            "D": "Isosceles triangle"
+        },
+        "answer": "C",
+        "explanation": "A scalene triangle has no lines of symmetry because all sides and angles are different.",
+        "difficulty": "easy",
+        "imgFileName": "38_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 39,
+        "question": "What is the measure of angle W in this right-angled triangle if angle X is 30°?",
+        "options": {
+            "A": "30°",
+            "B": "60°",
+            "C": "90°",
+            "D": "120°"
+        },
+        "answer": "B",
+        "explanation": "In a right-angled triangle, the sum of the two non-right angles is 90°. So, angle W = 90° - 30° = 60°.",
+        "difficulty": "easy",
+        "imgFileName": "39_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 40,
+        "question": "Which of these shapes has all sides equal and all angles equal, but is not a square?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Rectangle",
+            "C": "Equilateral triangle",
+            "D": "Regular pentagon"
+        },
+        "answer": "D",
+        "explanation": "A regular pentagon has all sides and angles equal, but it is not a square.",
+        "difficulty": "easy",
+        "imgFileName": "40_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 41,
+        "question": "What is the measure of angle Y in this regular pentagon?",
+        "options": {
+            "A": "72°",
+            "B": "108°",
+            "C": "120°",
+            "D": "144°"
+        },
+        "answer": "B",
+        "explanation": "Each interior angle of a regular pentagon is 108°.",
+        "difficulty": "easy",
+        "imgFileName": "41_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 42,
+        "question": "Which of these shapes has five lines of symmetry?",
+        "options": {
+            "A": "Square",
+            "B": "Regular pentagon",
+            "C": "Equilateral triangle",
+            "D": "Regular hexagon"
+        },
+        "answer": "B",
+        "explanation": "A regular pentagon has five lines of symmetry.",
+        "difficulty": "easy",
+        "imgFileName": "42_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 43,
+        "question": "What is the measure of angle Z in this regular hexagon?",
+        "options": {
+            "A": "60°",
+            "B": "120°",
+            "C": "150°",
+            "D": "180°"
+        },
+        "answer": "B",
+        "explanation": "Each interior angle of a regular hexagon is 120°.",
+        "difficulty": "easy",
+        "imgFileName": "43_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 44,
+        "question": "Which of these shapes has six lines of symmetry?",
+        "options": {
+            "A": "Square",
+            "B": "Regular pentagon",
+            "C": "Regular hexagon",
+            "D": "Equilateral triangle"
+        },
+        "answer": "C",
+        "explanation": "A regular hexagon has six lines of symmetry.",
+        "difficulty": "easy",
+        "imgFileName": "44_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 45,
+        "question": "What is the measure of angle AA in this regular octagon?",
+        "options": {
+            "A": "120°",
+            "B": "135°",
+            "C": "140°",
+            "D": "150°"
+        },
+        "answer": "B",
+        "explanation": "Each interior angle of a regular octagon is 135°.",
+        "difficulty": "easy",
+        "imgFileName": "45_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 46,
+        "question": "Which of these shapes has eight lines of symmetry?",
+        "options": {
+            "A": "Square",
+            "B": "Regular pentagon",
+            "C": "Regular hexagon",
+            "D": "Regular octagon"
+        },
+        "answer": "D",
+        "explanation": "A regular octagon has eight lines of symmetry.",
+        "difficulty": "easy",
+        "imgFileName": "46_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 47,
+        "question": "What is the measure of angle AB in this rectangle if angle AC is 90°?",
+        "options": {
+            "A": "45°",
+            "B": "90°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "All angles in a rectangle are right angles, so angle AB is 90°.",
+        "difficulty": "easy",
+        "imgFileName": "47_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 48,
+        "question": "Which of these shapes has all sides equal and all angles equal, and is not a square or a regular pentagon?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Regular hexagon",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A regular hexagon has all sides and angles equal, and is not a square or a regular pentagon.",
+        "difficulty": "easy",
+        "imgFileName": "48_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 49,
+        "question": "What is the measure of angle AD in this regular hexagon?",
+        "options": {
+            "A": "60°",
+            "B": "120°",
+            "C": "150°",
+            "D": "180°"
+        },
+        "answer": "B",
+        "explanation": "Each interior angle of a regular hexagon is 120°.",
+        "difficulty": "easy",
+        "imgFileName": "49_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 50,
+        "question": "Which of these shapes has all sides equal and all angles equal, and is not a square, regular pentagon, or regular hexagon?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Regular octagon",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A regular octagon has all sides and angles equal, and is not a square, regular pentagon, or regular hexagon.",
+        "difficulty": "easy",
+        "imgFileName": "50_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 51,
+        "question": "What is the measure of angle AE in this regular octagon?",
+        "options": {
+            "A": "120°",
+            "B": "135°",
+            "C": "140°",
+            "D": "150°"
+        },
+        "answer": "B",
+        "explanation": "Each interior angle of a regular octagon is 135°.",
+        "difficulty": "easy",
+        "imgFileName": "51_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 52,
+        "question": "Which of these shapes has all sides equal and all angles equal, and is not a square, regular pentagon, regular hexagon, or regular octagon?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Regular nonagon",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A regular nonagon has all sides and angles equal, and is not a square, regular pentagon, regular hexagon, or regular octagon.",
+        "difficulty": "easy",
+        "imgFileName": "52_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 53,
+        "question": "What is the measure of angle AF in this regular nonagon?",
+        "options": {
+            "A": "120°",
+            "B": "140°",
+            "C": "150°",
+            "D": "160°"
+        },
+        "answer": "B",
+        "explanation": "Each interior angle of a regular nonagon is 140°.",
+        "difficulty": "easy",
+        "imgFileName": "53_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 54,
+        "question": "Which of these shapes has all sides equal and all angles equal, and is not a square, regular pentagon, regular hexagon, regular octagon, or regular nonagon?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Regular decagon",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A regular decagon has all sides and angles equal, and is not a square, regular pentagon, regular hexagon, regular octagon, or regular nonagon.",
+        "difficulty": "easy",
+        "imgFileName": "54_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 55,
+        "question": "What is the measure of angle AG in this regular decagon?",
+        "options": {
+            "A": "120°",
+            "B": "144°",
+            "C": "150°",
+            "D": "160°"
+        },
+        "answer": "B",
+        "explanation": "Each interior angle of a regular decagon is 144°.",
+        "difficulty": "easy",
+        "imgFileName": "55_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 56,
+        "question": "Which of these shapes has all sides equal and all angles equal, and is not a square, regular pentagon, regular hexagon, regular octagon, regular nonagon, or regular decagon?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Regular dodecagon",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A regular dodecagon has all sides and angles equal, and is not a square, regular pentagon, regular hexagon, regular octagon, regular nonagon, or regular decagon.",
+        "difficulty": "easy",
+        "imgFileName": "56_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 57,
+        "question": "What is the measure of angle AH in this regular dodecagon?",
+        "options": {
+            "A": "120°",
+            "B": "150°",
+            "C": "160°",
+            "D": "170°"
+        },
+        "answer": "B",
+        "explanation": "Each interior angle of a regular dodecagon is 150°.",
+        "difficulty": "easy",
+        "imgFileName": "57_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 58,
+        "question": "Which of these shapes has all sides equal and all angles equal, and is not a square, regular pentagon, regular hexagon, regular octagon, regular nonagon, regular decagon, or regular dodecagon?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Regular 15-gon",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A regular 15-gon has all sides and angles equal, and is not a square, regular pentagon, regular hexagon, regular octagon, regular nonagon, regular decagon, or regular dodecagon.",
+        "difficulty": "easy",
+        "imgFileName": "58_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 59,
+        "question": "What is the measure of angle AI in this regular 15-gon?",
+        "options": {
+            "A": "144°",
+            "B": "156°",
+            "C": "160°",
+            "D": "170°"
+        },
+        "answer": "B",
+        "explanation": "Each interior angle of a regular 15-gon is 156°.",
+        "difficulty": "easy",
+        "imgFileName": "59_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 60,
+        "question": "Which of these shapes has all sides equal and all angles equal, and is not a square, regular pentagon, regular hexagon, regular octagon, regular nonagon, regular decagon, regular dodecagon, or regular 15-gon?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Regular 20-gon",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A regular 20-gon has all sides and angles equal, and is not a square, regular pentagon, regular hexagon, regular octagon, regular nonagon, regular decagon, regular dodecagon, or regular 15-gon.",
+        "difficulty": "easy",
+        "imgFileName": "60_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 61,
+        "question": "What is the measure of angle AJ in this regular 20-gon?",
+        "options": {
+            "A": "144°",
+            "B": "162°",
+            "C": "170°",
+            "D": "175°"
+        },
+        "answer": "B",
+        "explanation": "Each interior angle of a regular 20-gon is 162°.",
+        "difficulty": "easy",
+        "imgFileName": "61_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 62,
+        "question": "Which of these shapes is a quadrilateral with only one pair of parallel sides?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Trapezoid",
+            "D": "Rhombus"
+        },
+        "answer": "C",
+        "explanation": "A trapezoid is a quadrilateral with only one pair of parallel sides.",
+        "difficulty": "easy",
+        "imgFileName": "62_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 63,
+        "question": "What is the measure of angle AK in this trapezoid if angle AL is 120°?",
+        "options": {
+            "A": "60°",
+            "B": "90°",
+            "C": "120°",
+            "D": "150°"
+        },
+        "answer": "A",
+        "explanation": "In a trapezoid, angles on the same side of a leg are supplementary. So, angle AK = 180° - 120° = 60°.",
+        "difficulty": "easy",
+        "imgFileName": "63_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 64,
+        "question": "Which of these shapes has two pairs of parallel sides and all angles are right angles?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rectangle has two pairs of parallel sides and all angles are right angles.",
+        "difficulty": "easy",
+        "imgFileName": "64_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 65,
+        "question": "What is the measure of angle AM in this rectangle if angle AN is 90°?",
+        "options": {
+            "A": "45°",
+            "B": "90°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "All angles in a rectangle are right angles, so angle AM is 90°.",
+        "difficulty": "easy",
+        "imgFileName": "65_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 66,
+        "question": "Which of these shapes has all sides equal and opposite angles equal, but not all angles are right angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rhombus",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rhombus has all sides equal and opposite angles equal, but not all angles are right angles.",
+        "difficulty": "easy",
+        "imgFileName": "66_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 67,
+        "question": "What is the measure of angle AO in this rhombus if angle AP is 50°?",
+        "options": {
+            "A": "50°",
+            "B": "130°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "In a rhombus, adjacent angles are supplementary. So, angle AO = 180° - 50° = 130°.",
+        "difficulty": "easy",
+        "imgFileName": "67_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 68,
+        "question": "Which of these shapes has two pairs of parallel sides and opposite angles equal, but not all angles are right angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has two pairs of parallel sides and opposite angles equal, but not all angles are right angles.",
+        "difficulty": "easy",
+        "imgFileName": "68_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 69,
+        "question": "What is the measure of angle AQ in this parallelogram if angle AR is 70°?",
+        "options": {
+            "A": "70°",
+            "B": "110°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "In a parallelogram, adjacent angles are supplementary. So, angle AQ = 180° - 70° = 110°.",
+        "difficulty": "easy",
+        "imgFileName": "69_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 70,
+        "question": "Which of these shapes has only one pair of parallel sides and no right angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Trapezoid",
+            "D": "Rhombus"
+        },
+        "answer": "C",
+        "explanation": "A trapezoid has only one pair of parallel sides and does not necessarily have right angles.",
+        "difficulty": "easy",
+        "imgFileName": "70_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 71,
+        "question": "What is the measure of angle AS in this trapezoid if angle AT is 100°?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "180°"
+        },
+        "answer": "A",
+        "explanation": "In a trapezoid, angles on the same side of a leg are supplementary. So, angle AS = 180° - 100° = 80°.",
+        "difficulty": "easy",
+        "imgFileName": "71_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 72,
+        "question": "Which of these shapes has two pairs of parallel sides, all sides equal, and all angles equal?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A square has two pairs of parallel sides, all sides equal, and all angles equal (each 90°).",
+        "difficulty": "easy",
+        "imgFileName": "72_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 73,
+        "question": "What is the measure of angle AU in this square?",
+        "options": {
+            "A": "45°",
+            "B": "60°",
+            "C": "90°",
+            "D": "120°"
+        },
+        "answer": "C",
+        "explanation": "All angles in a square are right angles, so angle AU is 90°.",
+        "difficulty": "easy",
+        "imgFileName": "73_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 74,
+        "question": "Which of these shapes has two pairs of parallel sides, opposite sides equal, and all angles equal?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rectangle has two pairs of parallel sides, opposite sides equal, and all angles equal (each 90°).",
+        "difficulty": "easy",
+        "imgFileName": "74_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 75,
+        "question": "What is the measure of angle AV in this rectangle if angle AW is 90°?",
+        "options": {
+            "A": "45°",
+            "B": "90°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "All angles in a rectangle are right angles, so angle AV is 90°.",
+        "difficulty": "easy",
+        "imgFileName": "75_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 76,
+        "question": "Which of these shapes has two pairs of parallel sides, all sides equal, and opposite angles equal?",
+        "options": {
+            "A": "Square",
+            "B": "Rhombus",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rhombus has two pairs of parallel sides, all sides equal, and opposite angles equal.",
+        "difficulty": "easy",
+        "imgFileName": "76_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 77,
+        "question": "What is the measure of angle AX in this rhombus if angle AY is 60°?",
+        "options": {
+            "A": "60°",
+            "B": "120°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "In a rhombus, adjacent angles are supplementary. So, angle AX = 180° - 60° = 120°.",
+        "difficulty": "easy",
+        "imgFileName": "77_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 78,
+        "question": "Which of these shapes has two pairs of parallel sides, opposite sides equal, and opposite angles equal?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has two pairs of parallel sides, opposite sides equal, and opposite angles equal.",
+        "difficulty": "easy",
+        "imgFileName": "78_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 79,
+        "question": "What is the measure of angle AZ in this parallelogram if angle BA is 80°?",
+        "options": {
+            "A": "80°",
+            "B": "100°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "In a parallelogram, adjacent angles are supplementary. So, angle AZ = 180° - 80° = 100°.",
+        "difficulty": "easy",
+        "imgFileName": "79_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 80,
+        "question": "Which of these shapes has only one pair of parallel sides and two right angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Right trapezoid",
+            "D": "Rhombus"
+        },
+        "answer": "C",
+        "explanation": "A right trapezoid has only one pair of parallel sides and two right angles.",
+        "difficulty": "easy",
+        "imgFileName": "80_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 81,
+        "question": "What is the measure of angle BB in this right trapezoid if angle BC is 90° and angle BD is 120°?",
+        "options": {
+            "A": "60°",
+            "B": "90°",
+            "C": "120°",
+            "D": "150°"
+        },
+        "answer": "A",
+        "explanation": "In a right trapezoid, angles on the same side of a leg are supplementary. So, angle BB = 180° - 120° = 60°.",
+        "difficulty": "easy",
+        "imgFileName": "81_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 82,
+        "question": "Which of these shapes has two pairs of parallel sides, all sides equal, all angles equal, and is not a square?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Rectangle",
+            "C": "Parallelogram",
+            "D": "None of these"
+        },
+        "answer": "D",
+        "explanation": "A rhombus has all sides equal and opposite angles equal, but not all angles are equal unless it is a square. A square is the only shape with all sides and angles equal and two pairs of parallel sides.",
+        "difficulty": "easy",
+        "imgFileName": "82_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 83,
+        "question": "What is the measure of angle BE in this square?",
+        "options": {
+            "A": "45°",
+            "B": "60°",
+            "C": "90°",
+            "D": "120°"
+        },
+        "answer": "C",
+        "explanation": "All angles in a square are right angles, so angle BE is 90°.",
+        "difficulty": "easy",
+        "imgFileName": "83_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 84,
+        "question": "Which of these shapes has two pairs of parallel sides, opposite sides equal, opposite angles equal, and all angles are right angles?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rectangle has two pairs of parallel sides, opposite sides equal, opposite angles equal, and all angles are right angles.",
+        "difficulty": "easy",
+        "imgFileName": "84_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 85,
+        "question": "What is the measure of angle BF in this rectangle if angle BG is 90°?",
+        "options": {
+            "A": "45°",
+            "B": "90°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "All angles in a rectangle are right angles, so angle BF is 90°.",
+        "difficulty": "easy",
+        "imgFileName": "85_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 86,
+        "question": "Which of these shapes has two pairs of parallel sides, all sides equal, opposite angles equal, and is not a square?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Rectangle",
+            "C": "Parallelogram",
+            "D": "Trapezoid"
+        },
+        "answer": "A",
+        "explanation": "A rhombus has two pairs of parallel sides, all sides equal, opposite angles equal, and is not a square unless all angles are right angles.",
+        "difficulty": "easy",
+        "imgFileName": "86_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 87,
+        "question": "What is the measure of angle BH in this rhombus if angle BI is 70°?",
+        "options": {
+            "A": "70°",
+            "B": "110°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "In a rhombus, adjacent angles are supplementary. So, angle BH = 180° - 70° = 110°.",
+        "difficulty": "easy",
+        "imgFileName": "87_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 88,
+        "question": "Which of these shapes has two pairs of parallel sides, opposite sides equal, opposite angles equal, and is not a rectangle or rhombus?",
+        "options": {
+            "A": "Square",
+            "B": "Parallelogram",
+            "C": "Trapezoid",
+            "D": "Kite"
+        },
+        "answer": "B",
+        "explanation": "A parallelogram has two pairs of parallel sides, opposite sides equal, opposite angles equal, and is not a rectangle or rhombus unless it meets their specific criteria.",
+        "difficulty": "easy",
+        "imgFileName": "88_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 89,
+        "question": "What is the measure of angle BJ in this parallelogram if angle BK is 65°?",
+        "options": {
+            "A": "65°",
+            "B": "115°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "In a parallelogram, adjacent angles are supplementary. So, angle BJ = 180° - 65° = 115°.",
+        "difficulty": "easy",
+        "imgFileName": "89_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 90,
+        "question": "Which of these shapes has only one pair of parallel sides and is not a trapezoid?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Kite",
+            "D": "None of the Above"
+        },
+        "answer": "D",
+        "explanation": "By definition, any quadrilateral with exactly one pair of parallel sides is a trapezoid. Therefore, it is impossible for a shape to have one pair of parallel sides and not be a trapezoid.",
+        "difficulty": "easy",
+        "imgFileName": "90_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 91,
+        "question": "What is the measure of angle BL in this kite if angle BM is 110° and angle BN is 70°?",
+        "options": {
+            "A": "70°",
+            "B": "110°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "A",
+        "explanation": "In a kite, one pair of opposite angles are equal. So, angle BL = angle BN = 70°.",
+        "difficulty": "easy",
+        "imgFileName": "91_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 92,
+        "question": "Which of these shapes has two distinct pairs of adjacent sides equal?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Kite",
+            "D": "Rhombus"
+        },
+        "answer": "C",
+        "explanation": "A kite has two distinct pairs of adjacent sides equal.",
+        "difficulty": "easy",
+        "imgFileName": "92_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 93,
+        "question": "What is the measure of angle BO in this kite if angle BP is 80°?",
+        "options": {
+            "A": "80°",
+            "B": "100°",
+            "C": "180°",
+            "D": "None of the Above"
+        },
+        "answer": "D",
+        "explanation": "In a kite, adjacent angles are not necessarily supplementary (adding up to 180°). This is a property of parallelograms. Without more information or a diagram, the measure of angle BO cannot be determined from angle BP alone.",
+        "difficulty": "easy",
+        "imgFileName": "93_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 94,
+        "question": "Which of these shapes has two pairs of equal adjacent sides and one line of symmetry?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Kite",
+            "D": "Rhombus"
+        },
+        "answer": "C",
+        "explanation": "A kite has two pairs of equal adjacent sides and one line of symmetry.",
+        "difficulty": "easy",
+        "imgFileName": "94_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 95,
+        "question": "What is the measure of angle BQ in this kite if angle BR is 100°?",
+        "options": {
+            "A": "80°",
+            "B": "100°",
+            "C": "180°",
+            "D": "None of the Above"
+        },
+        "answer": "A",
+        "explanation": "In a kite, adjacent angles are not necessarily supplementary. One cannot determine the measure of angle BQ as 80° solely because angle BR is 100°, as this assumes the adjacent angles sum to 180°, which is only true for parallelograms.",
+        "difficulty": "easy",
+        "imgFileName": "95_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 96,
+        "question": "Which of these shapes has two pairs of equal adjacent sides and two lines of symmetry?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Kite"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has two pairs of equal adjacent sides and two lines of symmetry.",
+        "difficulty": "easy",
+        "imgFileName": "96_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 97,
+        "question": "What is the measure of angle BS in this rhombus if angle BT is 50°?",
+        "options": {
+            "A": "50°",
+            "B": "130°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "B",
+        "explanation": "In a rhombus, adjacent angles are supplementary. So, angle BS = 180° - 50° = 130°.",
+        "difficulty": "easy",
+        "imgFileName": "97_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 98,
+        "question": "Which of these shapes has all sides equal, opposite angles equal, and two lines of symmetry?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has all sides equal, opposite angles equal, and two lines of symmetry.",
+        "difficulty": "easy",
+        "imgFileName": "98_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 99,
+        "question": "What is the measure of angle BU in this rhombus if angle BV is 120°?",
+        "options": {
+            "A": "60°",
+            "B": "120°",
+            "C": "180°",
+            "D": "360°"
+        },
+        "answer": "A",
+        "explanation": "In a rhombus, adjacent angles are supplementary. So, angle BU = 180° - 120° = 60°.",
+        "difficulty": "easy",
+        "imgFileName": "99_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 100,
+        "question": "Which of these shapes has all sides equal, all angles equal, and four lines of symmetry?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A square has all sides equal, all angles equal, and four lines of symmetry.",
+        "difficulty": "easy",
+        "imgFileName": "100_Year5-Geometry-properties_of_shape_easy.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    }
+]

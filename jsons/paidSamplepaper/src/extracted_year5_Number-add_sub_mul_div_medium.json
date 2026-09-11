@@ -1,0 +1,4992 @@
+[
+    {
+        "question": "What is 12,345 + 67,890?",
+        "answer": "A",
+        "options": {
+            "A": "80,235",
+            "B": "79,235",
+            "C": "80,135",
+            "D": "81,235"
+        }
+    },
+    {
+        "question": "What is 98,765 \u2013 43,210?",
+        "answer": "A",
+        "options": {
+            "A": "55,555",
+            "B": "54,555",
+            "C": "55,455",
+            "D": "56,555"
+        }
+    },
+    {
+        "question": "Which of these is a factor pair of 60?",
+        "answer": "A",
+        "options": {
+            "A": "(5, 12)",
+            "B": "(7, 9)",
+            "C": "(8, 7)",
+            "D": "(6, 9)"
+        }
+    },
+    {
+        "question": "Which number is a common multiple of 8 and 12?",
+        "answer": "A",
+        "options": {
+            "A": "24",
+            "B": "32",
+            "C": "36",
+            "D": "40"
+        }
+    },
+    {
+        "question": "Is 97 a prime number?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Only if even",
+            "D": "It depends on the context"
+        }
+    },
+    {
+        "question": "What is 25 squared (25\u00b2)?",
+        "answer": "B",
+        "options": {
+            "A": "500",
+            "B": "625",
+            "C": "525",
+            "D": "600"
+        }
+    },
+    {
+        "question": "What is 9 cubed (9\u00b3)?",
+        "answer": "B",
+        "options": {
+            "A": "81",
+            "B": "729",
+            "C": "6561",
+            "D": "243"
+        }
+    },
+    {
+        "question": "What is 45,600 \u00f7 100?",
+        "answer": "A",
+        "options": {
+            "A": "456",
+            "B": "4,560",
+            "C": "45.6",
+            "D": "4.56"
+        }
+    },
+    {
+        "question": "What is 378 \u00d7 1000?",
+        "answer": "B",
+        "options": {
+            "A": "37,800",
+            "B": "378,000",
+            "C": "3,780,000",
+            "D": "3,780"
+        }
+    },
+    {
+        "question": "What is 7,890 \u00f7 10?",
+        "answer": "A",
+        "options": {
+            "A": "789",
+            "B": "78.9",
+            "C": "7,890",
+            "D": "78,900"
+        }
+    },
+    {
+        "question": "Which of these numbers is composite?",
+        "answer": "B",
+        "options": {
+            "A": "89",
+            "B": "91",
+            "C": "97",
+            "D": "83"
+        }
+    },
+    {
+        "question": "What is 56,789 + 34,567?",
+        "answer": "A",
+        "options": {
+            "A": "91,356",
+            "B": "90,356",
+            "C": "91,256",
+            "D": "92,356"
+        }
+    },
+    {
+        "question": "What is 87,654 \u2013 23,456?",
+        "answer": "A",
+        "options": {
+            "A": "64,198",
+            "B": "63,198",
+            "C": "64,298",
+            "D": "65,198"
+        }
+    },
+    {
+        "question": "Which pair shows all the factor pairs of 36?",
+        "answer": "A",
+        "options": {
+            "A": "(1,36), (2,18), (3,12), (4,9), (6,6)",
+            "B": "(1,36), (2,18), (3,12), (4,9)",
+            "C": "(2,18), (3,12), (4,9), (6,6)",
+            "D": "(1,36), (3,12), (6,6)"
+        }
+    },
+    {
+        "question": "What is 456 \u00d7 100?",
+        "answer": "B",
+        "options": {
+            "A": "4,560",
+            "B": "45,600",
+            "C": "456,000",
+            "D": "456"
+        }
+    },
+    {
+        "question": "What is 84,000 \u00f7 1,000?",
+        "answer": "A",
+        "options": {
+            "A": "84",
+            "B": "840",
+            "C": "8.4",
+            "D": "0.84"
+        }
+    },
+    {
+        "question": "Which number is both a square and a cube?",
+        "answer": "B",
+        "options": {
+            "A": "16",
+            "B": "64",
+            "C": "81",
+            "D": "100"
+        }
+    },
+    {
+        "question": "What is 23,456 + 76,543?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 100,000 \u2013 12,345?",
+        "answer": "A",
+        "options": {
+            "A": "87,655",
+            "B": "88,655",
+            "C": "87,555",
+            "D": "86,655"
+        }
+    },
+    {
+        "question": "Which of these is NOT a prime number?",
+        "answer": "C",
+        "options": {
+            "A": "73",
+            "B": "79",
+            "C": "81",
+            "D": "83"
+        }
+    },
+    {
+        "question": "What is 120 \u00d7 75?",
+        "answer": "A",
+        "options": {
+            "A": "9,000",
+            "B": "8,000",
+            "C": "10,000",
+            "D": "9,500"
+        }
+    },
+    {
+        "question": "What is 7,840 \u00f7 8?",
+        "answer": "A",
+        "options": {
+            "A": "980",
+            "B": "880",
+            "C": "1,080",
+            "D": "920"
+        }
+    },
+    {
+        "question": "Which number is a common factor of 48 and 72?",
+        "answer": "C",
+        "options": {
+            "A": "5",
+            "B": "7",
+            "C": "12",
+            "D": "13"
+        }
+    },
+    {
+        "question": "What is 234 \u00d7 40?",
+        "answer": "A",
+        "options": {
+            "A": "9,360",
+            "B": "8,360",
+            "C": "9,260",
+            "D": "10,360"
+        }
+    },
+    {
+        "question": "What is 9,360 \u00f7 12?",
+        "answer": "A",
+        "options": {
+            "A": "780",
+            "B": "680",
+            "C": "880",
+            "D": "720"
+        }
+    },
+    {
+        "question": "Which of these equals 15\u00b2?",
+        "answer": "A",
+        "options": {
+            "A": "225",
+            "B": "30",
+            "C": "125",
+            "D": "250"
+        }
+    },
+    {
+        "question": "What is 3,450 \u00d7 6?",
+        "answer": "A",
+        "options": {
+            "A": "20,700",
+            "B": "18,700",
+            "C": "21,700",
+            "D": "19,700"
+        }
+    },
+    {
+        "question": "What is 10,080 \u00f7 14?",
+        "answer": "A",
+        "options": {
+            "A": "720",
+            "B": "620",
+            "C": "820",
+            "D": "780"
+        }
+    },
+    {
+        "question": "Which number is a multiple of both 9 and 15?",
+        "answer": "A",
+        "options": {
+            "A": "45",
+            "B": "60",
+            "C": "75",
+            "D": "90"
+        }
+    },
+    {
+        "question": "What is 45,678 + 54,321?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 120,000 \u2013 34,567?",
+        "answer": "A",
+        "options": {
+            "A": "85,433",
+            "B": "86,433",
+            "C": "85,533",
+            "D": "84,433"
+        }
+    },
+    {
+        "question": "Which of these is a prime number?",
+        "answer": "B",
+        "options": {
+            "A": "87",
+            "B": "89",
+            "C": "91",
+            "D": "93"
+        }
+    },
+    {
+        "question": "What is 160 \u00d7 60?",
+        "answer": "A",
+        "options": {
+            "A": "9,600",
+            "B": "8,600",
+            "C": "10,600",
+            "D": "9,000"
+        }
+    },
+    {
+        "question": "What is 8,640 \u00f7 12?",
+        "answer": "A",
+        "options": {
+            "A": "720",
+            "B": "620",
+            "C": "820",
+            "D": "780"
+        }
+    },
+    {
+        "question": "Which of these equals 7\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "343",
+            "B": "49",
+            "C": "243",
+            "D": "512"
+        }
+    },
+    {
+        "question": "What is 2,750 \u00d7 8?",
+        "answer": "A",
+        "options": {
+            "A": "22,000",
+            "B": "21,000",
+            "C": "23,000",
+            "D": "20,000"
+        }
+    },
+    {
+        "question": "What is 11,520 \u00f7 16?",
+        "answer": "A",
+        "options": {
+            "A": "720",
+            "B": "620",
+            "C": "820",
+            "D": "780"
+        }
+    },
+    {
+        "question": "Which of these is NOT a square number?",
+        "answer": "D",
+        "options": {
+            "A": "144",
+            "B": "169",
+            "C": "196",
+            "D": "200"
+        }
+    },
+    {
+        "question": "What is 67,890 + 23,456?",
+        "answer": "A",
+        "options": {
+            "A": "91,346",
+            "B": "90,346",
+            "C": "91,246",
+            "D": "92,346"
+        }
+    },
+    {
+        "question": "What is 150,000 \u2013 67,890?",
+        "answer": "A",
+        "options": {
+            "A": "82,110",
+            "B": "83,110",
+            "C": "82,210",
+            "D": "81,110"
+        }
+    },
+    {
+        "question": "Which number is a prime number?",
+        "answer": "D",
+        "options": {
+            "A": "93",
+            "B": "94",
+            "C": "95",
+            "D": "97"
+        }
+    },
+    {
+        "question": "What is 180 \u00d7 50?",
+        "answer": "A",
+        "options": {
+            "A": "9,000",
+            "B": "8,000",
+            "C": "10,000",
+            "D": "9,500"
+        }
+    },
+    {
+        "question": "What is 12,960 \u00f7 18?",
+        "answer": "A",
+        "options": {
+            "A": "720",
+            "B": "620",
+            "C": "820",
+            "D": "780"
+        }
+    },
+    {
+        "question": "Which of these equals 6\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "216",
+            "B": "36",
+            "C": "126",
+            "D": "600"
+        }
+    },
+    {
+        "question": "What is 3,250 \u00d7 4?",
+        "answer": "A",
+        "options": {
+            "A": "13,000",
+            "B": "12,000",
+            "C": "14,000",
+            "D": "11,000"
+        }
+    },
+    {
+        "question": "What is 14,400 \u00f7 20?",
+        "answer": "A",
+        "options": {
+            "A": "720",
+            "B": "620",
+            "C": "820",
+            "D": "780"
+        }
+    },
+    {
+        "question": "Which number is a square number?",
+        "answer": "B",
+        "options": {
+            "A": "200",
+            "B": "225",
+            "C": "250",
+            "D": "275"
+        }
+    },
+    {
+        "question": "What is 24,567 + 18,934?",
+        "answer": "A",
+        "options": {
+            "A": "43,501",
+            "B": "42,501",
+            "C": "43,401",
+            "D": "44,501"
+        }
+    },
+    {
+        "question": "What is 52,300 \u2013 19,876?",
+        "answer": "A",
+        "options": {
+            "A": "32,424",
+            "B": "33,424",
+            "C": "32,524",
+            "D": "31,424"
+        }
+    },
+    {
+        "question": "Which number is a common factor of 24 and 36?",
+        "answer": "B",
+        "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+        }
+    },
+    {
+        "question": "What is 1,342 \u00d7 15?",
+        "answer": "A",
+        "options": {
+            "A": "20,130",
+            "B": "19,130",
+            "C": "20,030",
+            "D": "21,130"
+        }
+    },
+    {
+        "question": "What is 7,845 \u00f7 6? Give your answer as a whole number and remainder.",
+        "answer": "A",
+        "options": {
+            "A": "1,307 r 3",
+            "B": "1,307 r 2",
+            "C": "1,308 r 1",
+            "D": "1,306 r 9"
+        }
+    },
+    {
+        "question": "Which number is prime?",
+        "answer": "C",
+        "options": {
+            "A": "49",
+            "B": "51",
+            "C": "53",
+            "D": "55"
+        }
+    },
+    {
+        "question": "Estimate the sum of 28,456 + 19,782 by rounding each number to the nearest thousand.",
+        "answer": "A",
+        "options": {
+            "A": "48,000",
+            "B": "47,000",
+            "C": "49,000",
+            "D": "50,000"
+        }
+    },
+    {
+        "question": "What is 3.6 \u00d7 100?",
+        "answer": "B",
+        "options": {
+            "A": "36",
+            "B": "360",
+            "C": "0.36",
+            "D": "3,600"
+        }
+    },
+    {
+        "question": "What is 4,500 \u00f7 1,000?",
+        "answer": "B",
+        "options": {
+            "A": "45",
+            "B": "4.5",
+            "C": "0.45",
+            "D": "450"
+        }
+    },
+    {
+        "question": "Which expression is equivalent to 6 \u00d7 28 using distributivity?",
+        "answer": "A",
+        "options": {
+            "A": "6 \u00d7 (20 + 8)",
+            "B": "6 + 20 \u00d7 8",
+            "C": "(6 \u00d7 20) + 8",
+            "D": "6 \u00d7 20 \u00d7 8"
+        }
+    },
+    {
+        "question": "What is 17,892 \u2013 8,947?",
+        "answer": "A",
+        "options": {
+            "A": "8,945",
+            "B": "8,955",
+            "C": "9,045",
+            "D": "8,845"
+        }
+    },
+    {
+        "question": "Which number is both a square and a cube number?",
+        "answer": "C",
+        "options": {
+            "A": "16",
+            "B": "27",
+            "C": "64",
+            "D": "81"
+        }
+    },
+    {
+        "question": "What is 2,048 \u00d7 7?",
+        "answer": "A",
+        "options": {
+            "A": "14,336",
+            "B": "14,236",
+            "C": "13,336",
+            "D": "15,336"
+        }
+    },
+    {
+        "question": "What is 9,032 \u00f7 8?",
+        "answer": "A",
+        "options": {
+            "A": "1,129",
+            "B": "1,119",
+            "C": "1,139",
+            "D": "1,229"
+        }
+    },
+    {
+        "question": "Which shows all the factor pairs of 48?",
+        "answer": "A",
+        "options": {
+            "A": "1\u00d748, 2\u00d724, 3\u00d716, 4\u00d712, 6\u00d78",
+            "B": "1\u00d748, 2\u00d724, 3\u00d715, 4\u00d712, 6\u00d78",
+            "C": "1\u00d748, 2\u00d720, 3\u00d716, 4\u00d712, 6\u00d78",
+            "D": "1\u00d748, 2\u00d724, 4\u00d712, 6\u00d78"
+        }
+    },
+    {
+        "question": "A shop sells pencils in packs of 12. How many packs are needed for 150 children if each gets one pencil?",
+        "answer": "B",
+        "options": {
+            "A": "12",
+            "B": "13",
+            "C": "14",
+            "D": "15"
+        }
+    },
+    {
+        "question": "What is 6.25 \u00d7 1,000?",
+        "answer": "B",
+        "options": {
+            "A": "625",
+            "B": "6,250",
+            "C": "62.5",
+            "D": "62,500"
+        }
+    },
+    {
+        "question": "Which number is composite and less than 20?",
+        "answer": "B",
+        "options": {
+            "A": "17",
+            "B": "18",
+            "C": "19",
+            "D": "13"
+        }
+    },
+    {
+        "question": "What is 34,567 + 28,765?",
+        "answer": "A",
+        "options": {
+            "A": "63,332",
+            "B": "62,332",
+            "C": "63,232",
+            "D": "64,332"
+        }
+    },
+    {
+        "question": "What is 15.6 \u00f7 100?",
+        "answer": "A",
+        "options": {
+            "A": "0.156",
+            "B": "1.56",
+            "C": "156",
+            "D": "0.0156"
+        }
+    },
+    {
+        "question": "Which equation shows the meaning of the equals sign correctly?",
+        "answer": "A",
+        "options": {
+            "A": "24 + 18 = 20 + 22",
+            "B": "24 + 18 = 40",
+            "C": "24 + 18 = 25 + 16",
+            "D": "24 + 18 = 41"
+        }
+    },
+    {
+        "question": "What is 42,000 \u2013 17,845?",
+        "answer": "A",
+        "options": {
+            "A": "24,155",
+            "B": "25,155",
+            "C": "24,255",
+            "D": "23,155"
+        }
+    },
+    {
+        "question": "What is 25 \u00d7 36?",
+        "answer": "A",
+        "options": {
+            "A": "900",
+            "B": "800",
+            "C": "1,000",
+            "D": "850"
+        }
+    },
+    {
+        "question": "Which number is a multiple of both 8 and 9?",
+        "answer": "B",
+        "options": {
+            "A": "64",
+            "B": "72",
+            "C": "81",
+            "D": "88"
+        }
+    },
+    {
+        "question": "What is 5,678 \u00d7 12?",
+        "answer": "A",
+        "options": {
+            "A": "68,136",
+            "B": "67,136",
+            "C": "68,036",
+            "D": "69,136"
+        }
+    },
+    {
+        "question": "What is 8,124 \u00f7 4?",
+        "answer": "A",
+        "options": {
+            "A": "2,031",
+            "B": "2,021",
+            "C": "2,131",
+            "D": "2,030"
+        }
+    },
+    {
+        "question": "Which number is NOT a factor of 60?",
+        "answer": "A",
+        "options": {
+            "A": "8",
+            "B": "10",
+            "C": "12",
+            "D": "15"
+        }
+    },
+    {
+        "question": "Round 47,823 to the nearest hundred.",
+        "answer": "A",
+        "options": {
+            "A": "47,800",
+            "B": "47,900",
+            "C": "48,000",
+            "D": "47,820"
+        }
+    },
+    {
+        "question": "What is 7\u00b3 + 2\u00b2?",
+        "answer": "A",
+        "options": {
+            "A": "347",
+            "B": "343",
+            "C": "345",
+            "D": "351"
+        }
+    },
+    {
+        "question": "What is 19,234 \u2013 12,567?",
+        "answer": "A",
+        "options": {
+            "A": "6,667",
+            "B": "6,567",
+            "C": "7,667",
+            "D": "6,767"
+        }
+    },
+    {
+        "question": "Which is the best estimate for 4,892 \u00d7 6?",
+        "answer": "A",
+        "options": {
+            "A": "30,000",
+            "B": "24,000",
+            "C": "28,000",
+            "D": "32,000"
+        }
+    },
+    {
+        "question": "What is 98 \u00f7 4 expressed as a mixed number?",
+        "answer": "A",
+        "options": {
+            "A": "24 \u00bd",
+            "B": "24 \u00bc",
+            "C": "25 \u00bd",
+            "D": "23 \u00be"
+        }
+    },
+    {
+        "question": "Which number is a prime factor of 45?",
+        "answer": "A",
+        "options": {
+            "A": "5",
+            "B": "9",
+            "C": "15",
+            "D": "45"
+        }
+    },
+    {
+        "question": "What is 32,456 + 19,879?",
+        "answer": "A",
+        "options": {
+            "A": "52,335",
+            "B": "51,335",
+            "C": "52,235",
+            "D": "53,335"
+        }
+    },
+    {
+        "question": "What is 0.75 \u00d7 100?",
+        "answer": "B",
+        "options": {
+            "A": "7.5",
+            "B": "75",
+            "C": "750",
+            "D": "0.075"
+        }
+    },
+    {
+        "question": "Which statement is true?",
+        "answer": "B",
+        "options": {
+            "A": "All odd numbers are prime.",
+            "B": "2 is the only even prime number.",
+            "C": "1 is a prime number.",
+            "D": "All even numbers are composite."
+        }
+    },
+    {
+        "question": "What is 63,000 \u2013 28,456?",
+        "answer": "A",
+        "options": {
+            "A": "34,544",
+            "B": "35,544",
+            "C": "34,444",
+            "D": "33,544"
+        }
+    },
+    {
+        "question": "What is 16 \u00d7 25?",
+        "answer": "A",
+        "options": {
+            "A": "400",
+            "B": "350",
+            "C": "450",
+            "D": "375"
+        }
+    },
+    {
+        "question": "Which number is a common multiple of 6 and 10?",
+        "answer": "A",
+        "options": {
+            "A": "30",
+            "B": "40",
+            "C": "50",
+            "D": "60"
+        }
+    },
+    {
+        "question": "What is 3,042 \u00d7 18?",
+        "answer": "A",
+        "options": {
+            "A": "54,756",
+            "B": "53,756",
+            "C": "54,656",
+            "D": "55,756"
+        }
+    },
+    {
+        "question": "What is 7,256 \u00f7 9? Give remainder.",
+        "answer": "A",
+        "options": {
+            "A": "806 r 2",
+            "B": "806 r 1",
+            "C": "807 r 3",
+            "D": "805 r 11"
+        }
+    },
+    {
+        "question": "Which is the correct use of the equals sign?",
+        "answer": "A",
+        "options": {
+            "A": "15 \u00d7 4 = 10 \u00d7 6",
+            "B": "15 \u00d7 4 = 50",
+            "C": "15 \u00d7 4 = 16 \u00d7 3",
+            "D": "15 \u00d7 4 = 64"
+        }
+    },
+    {
+        "question": "What is 51,234 \u2013 27,890?",
+        "answer": "A",
+        "options": {
+            "A": "23,344",
+            "B": "24,344",
+            "C": "23,444",
+            "D": "22,344"
+        }
+    },
+    {
+        "question": "What is 4.8 \u00d7 1,000?",
+        "answer": "C",
+        "options": {
+            "A": "48",
+            "B": "480",
+            "C": "4,800",
+            "D": "48,000"
+        }
+    },
+    {
+        "question": "Which number is a square number between 50 and 100?",
+        "answer": "A",
+        "options": {
+            "A": "64",
+            "B": "72",
+            "C": "80",
+            "D": "90"
+        }
+    },
+    {
+        "question": "What is 28,900 + 17,650?",
+        "answer": "A",
+        "options": {
+            "A": "46,550",
+            "B": "45,550",
+            "C": "46,450",
+            "D": "47,550"
+        }
+    },
+    {
+        "question": "What is 12.5 \u00f7 10?",
+        "answer": "A",
+        "options": {
+            "A": "1.25",
+            "B": "0.125",
+            "C": "125",
+            "D": "12.5"
+        }
+    },
+    {
+        "question": "Which is a factor pair of 72?",
+        "answer": "A",
+        "options": {
+            "A": "8 and 9",
+            "B": "7 and 10",
+            "C": "6 and 11",
+            "D": "5 and 14"
+        }
+    },
+    {
+        "question": "What is 45,678 \u2013 19,999?",
+        "answer": "A",
+        "options": {
+            "A": "25,679",
+            "B": "26,679",
+            "C": "25,779",
+            "D": "24,679"
+        }
+    },
+    {
+        "question": "What is 19 \u00d7 19?",
+        "answer": "A",
+        "options": {
+            "A": "361",
+            "B": "342",
+            "C": "380",
+            "D": "324"
+        }
+    },
+    {
+        "question": "Which number is divisible by both 3 and 5?",
+        "answer": "A",
+        "options": {
+            "A": "45",
+            "B": "50",
+            "C": "55",
+            "D": "60"
+        }
+    },
+    {
+        "question": "What is 2,345 \u00d7 24?",
+        "answer": "A",
+        "options": {
+            "A": "56,280",
+            "B": "55,280",
+            "C": "56,180",
+            "D": "57,280"
+        }
+    },
+    {
+        "question": "What is 6,048 \u00f7 7?",
+        "answer": "A",
+        "options": {
+            "A": "864",
+            "B": "854",
+            "C": "874",
+            "D": "863"
+        }
+    },
+    {
+        "question": "Which is the prime factorisation of 36?",
+        "answer": "A",
+        "options": {
+            "A": "2\u00b2 \u00d7 3\u00b2",
+            "B": "2 \u00d7 3 \u00d7 6",
+            "C": "4 \u00d7 9",
+            "D": "2 \u00d7 18"
+        }
+    },
+    {
+        "question": "What is 67,890 + 23,456?",
+        "answer": "A",
+        "options": {
+            "A": "91,346",
+            "B": "90,346",
+            "C": "91,246",
+            "D": "92,346"
+        }
+    },
+    {
+        "question": "What is 56.7 \u00f7 100?",
+        "answer": "A",
+        "options": {
+            "A": "0.567",
+            "B": "5.67",
+            "C": "567",
+            "D": "0.0567"
+        }
+    },
+    {
+        "question": "Which number is a cube number less than 100?",
+        "answer": "A",
+        "options": {
+            "A": "27",
+            "B": "36",
+            "C": "49",
+            "D": "64"
+        }
+    },
+    {
+        "question": "A school has 420 pupils. They sit in rows of 15. How many rows are there?",
+        "answer": "A",
+        "options": {
+            "A": "28",
+            "B": "27",
+            "C": "29",
+            "D": "30"
+        }
+    },
+    {
+        "question": "What is 39,456 \u2013 18,789?",
+        "answer": "A",
+        "options": {
+            "A": "20,667",
+            "B": "21,667",
+            "C": "20,767",
+            "D": "19,667"
+        }
+    },
+    {
+        "question": "What is 0.09 \u00d7 1,000?",
+        "answer": "B",
+        "options": {
+            "A": "9",
+            "B": "90",
+            "C": "900",
+            "D": "0.9"
+        }
+    },
+    {
+        "question": "Which equation is true?",
+        "answer": "A",
+        "options": {
+            "A": "7 \u00d7 8 = 14 \u00d7 4",
+            "B": "7 \u00d7 8 = 15 \u00d7 4",
+            "C": "7 \u00d7 8 = 13 \u00d7 4",
+            "D": "7 \u00d7 8 = 16 \u00d7 3"
+        }
+    },
+    {
+        "question": "What is 54,321 + 38,765?",
+        "answer": "A",
+        "options": {
+            "A": "93,086",
+            "B": "92,086",
+            "C": "93,186",
+            "D": "94,086"
+        }
+    },
+    {
+        "question": "What is 81 \u00f7 0.1?",
+        "answer": "A",
+        "options": {
+            "A": "810",
+            "B": "81",
+            "C": "8.1",
+            "D": "0.81"
+        }
+    },
+    {
+        "question": "Which number is a multiple of 12 and less than 100?",
+        "answer": "A",
+        "options": {
+            "A": "84",
+            "B": "88",
+            "C": "92",
+            "D": "94"
+        }
+    },
+    {
+        "question": "What is 4,567 \u00d7 16?",
+        "answer": "A",
+        "options": {
+            "A": "73,072",
+            "B": "72,072",
+            "C": "73,172",
+            "D": "74,072"
+        }
+    },
+    {
+        "question": "What is 9,000 \u00f7 12?",
+        "answer": "A",
+        "options": {
+            "A": "750",
+            "B": "700",
+            "C": "800",
+            "D": "850"
+        }
+    },
+    {
+        "question": "Which is NOT a factor of 84?",
+        "answer": "B",
+        "options": {
+            "A": "7",
+            "B": "8",
+            "C": "12",
+            "D": "14"
+        }
+    },
+    {
+        "question": "Round 63,478 to the nearest thousand.",
+        "answer": "A",
+        "options": {
+            "A": "63,000",
+            "B": "64,000",
+            "C": "63,500",
+            "D": "60,000"
+        }
+    },
+    {
+        "question": "What is 5\u00b2 \u00d7 2\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "200",
+            "B": "100",
+            "C": "50",
+            "D": "250"
+        }
+    },
+    {
+        "question": "What is 72,345 \u2013 28,678?",
+        "answer": "A",
+        "options": {
+            "A": "43,667",
+            "B": "44,667",
+            "C": "43,767",
+            "D": "42,667"
+        }
+    },
+    {
+        "question": "What is the best estimate for 7,842 \u00f7 8?",
+        "answer": "A",
+        "options": {
+            "A": "1,000",
+            "B": "900",
+            "C": "800",
+            "D": "1,100"
+        }
+    },
+    {
+        "question": "What is 105 \u00f7 6 as a mixed number?",
+        "answer": "A",
+        "options": {
+            "A": "17 \u00bd",
+            "B": "17 \u2153",
+            "C": "17 \u00bc",
+            "D": "18 \u00bd"
+        }
+    },
+    {
+        "question": "Which is a prime number between 20 and 30?",
+        "answer": "D",
+        "options": {
+            "A": "21",
+            "B": "25",
+            "C": "27",
+            "D": "29"
+        }
+    },
+    {
+        "question": "What is 48,765 + 32,897?",
+        "answer": "A",
+        "options": {
+            "A": "81,662",
+            "B": "80,662",
+            "C": "81,562",
+            "D": "82,662"
+        }
+    },
+    {
+        "question": "What is 3.04 \u00d7 100?",
+        "answer": "A",
+        "options": {
+            "A": "304",
+            "B": "30.4",
+            "C": "3,040",
+            "D": "0.304"
+        }
+    },
+    {
+        "question": "Which statement is false?",
+        "answer": "C",
+        "options": {
+            "A": "2 is a prime number.",
+            "B": "9 is a composite number.",
+            "C": "1 is a prime number.",
+            "D": "25 is a square number."
+        }
+    },
+    {
+        "question": "What is 85,000 \u2013 37,456?",
+        "answer": "A",
+        "options": {
+            "A": "47,544",
+            "B": "48,544",
+            "C": "47,444",
+            "D": "46,544"
+        }
+    },
+    {
+        "question": "What is 18 \u00d7 35?",
+        "answer": "A",
+        "options": {
+            "A": "630",
+            "B": "540",
+            "C": "720",
+            "D": "600"
+        }
+    },
+    {
+        "question": "Which is a common factor of 40 and 60?",
+        "answer": "B",
+        "options": {
+            "A": "9",
+            "B": "10",
+            "C": "11",
+            "D": "12"
+        }
+    },
+    {
+        "question": "What is 2,189 \u00d7 25?",
+        "answer": "A",
+        "options": {
+            "A": "54,725",
+            "B": "53,725",
+            "C": "54,625",
+            "D": "55,725"
+        }
+    },
+    {
+        "question": "What is 8,432 \u00f7 5? Give remainder.",
+        "answer": "A",
+        "options": {
+            "A": "1,686 r 2",
+            "B": "1,686 r 1",
+            "C": "1,687 r 3",
+            "D": "1,685 r 7"
+        }
+    },
+    {
+        "question": "Which shows equivalence using the equals sign?",
+        "answer": "A",
+        "options": {
+            "A": "16 \u00d7 5 = 8 \u00d7 10",
+            "B": "16 \u00d7 5 = 70",
+            "C": "16 \u00d7 5 = 17 \u00d7 4",
+            "D": "16 \u00d7 5 = 90"
+        }
+    },
+    {
+        "question": "What is 62,345 \u2013 29,876?",
+        "answer": "A",
+        "options": {
+            "A": "32,469",
+            "B": "33,469",
+            "C": "32,569",
+            "D": "31,469"
+        }
+    },
+    {
+        "question": "What is 0.007 \u00d7 1,000?",
+        "answer": "A",
+        "options": {
+            "A": "7",
+            "B": "70",
+            "C": "0.7",
+            "D": "700"
+        }
+    },
+    {
+        "question": "Which number is both a square and less than 50?",
+        "answer": "A",
+        "options": {
+            "A": "49",
+            "B": "48",
+            "C": "45",
+            "D": "44"
+        }
+    },
+    {
+        "question": "What is 39,876 + 24,567?",
+        "answer": "A",
+        "options": {
+            "A": "64,443",
+            "B": "63,443",
+            "C": "64,343",
+            "D": "65,443"
+        }
+    },
+    {
+        "question": "What is 42.6 \u00f7 10?",
+        "answer": "A",
+        "options": {
+            "A": "4.26",
+            "B": "0.426",
+            "C": "426",
+            "D": "42.6"
+        }
+    },
+    {
+        "question": "Which is a factor pair of 90?",
+        "answer": "A",
+        "options": {
+            "A": "9 and 10",
+            "B": "8 and 11",
+            "C": "7 and 12",
+            "D": "6 and 14"
+        }
+    },
+    {
+        "question": "What is 75,000 \u2013 29,999?",
+        "answer": "A",
+        "options": {
+            "A": "45,001",
+            "B": "46,001",
+            "C": "45,101",
+            "D": "44,001"
+        }
+    },
+    {
+        "question": "What is 17 \u00d7 17?",
+        "answer": "A",
+        "options": {
+            "A": "289",
+            "B": "272",
+            "C": "306",
+            "D": "256"
+        }
+    },
+    {
+        "question": "Which number is divisible by 4 and 9?",
+        "answer": "A",
+        "options": {
+            "A": "36",
+            "B": "45",
+            "C": "54",
+            "D": "72"
+        }
+    },
+    {
+        "question": "What is 3,210 \u00d7 32?",
+        "answer": "A",
+        "options": {
+            "A": "102,720",
+            "B": "101,720",
+            "C": "102,620",
+            "D": "103,720"
+        }
+    },
+    {
+        "question": "What is 7,200 \u00f7 16?",
+        "answer": "A",
+        "options": {
+            "A": "450",
+            "B": "400",
+            "C": "500",
+            "D": "425"
+        }
+    },
+    {
+        "question": "Which is the prime factorisation of 60?",
+        "answer": "A",
+        "options": {
+            "A": "2\u00b2 \u00d7 3 \u00d7 5",
+            "B": "2 \u00d7 3 \u00d7 10",
+            "C": "4 \u00d7 15",
+            "D": "6 \u00d7 10"
+        }
+    },
+    {
+        "question": "What is 81,234 + 19,876?",
+        "answer": "A",
+        "options": {
+            "A": "101,110",
+            "B": "100,110",
+            "C": "101,010",
+            "D": "102,110"
+        }
+    },
+    {
+        "question": "What is 0.56 \u00f7 100?",
+        "answer": "A",
+        "options": {
+            "A": "0.0056",
+            "B": "0.056",
+            "C": "5.6",
+            "D": "56"
+        }
+    },
+    {
+        "question": "Which number is a cube number?",
+        "answer": "A",
+        "options": {
+            "A": "125",
+            "B": "100",
+            "C": "121",
+            "D": "144"
+        }
+    },
+    {
+        "question": "What is 78,901 + 12,345?",
+        "answer": "A",
+        "options": {
+            "A": "91,246",
+            "B": "90,246",
+            "C": "91,146",
+            "D": "92,246"
+        }
+    },
+    {
+        "question": "What is 200,000 \u2013 87,654?",
+        "answer": "A",
+        "options": {
+            "A": "112,346",
+            "B": "113,346",
+            "C": "112,246",
+            "D": "111,346"
+        }
+    },
+    {
+        "question": "Which of these is a factor pair of 84?",
+        "answer": "A",
+        "options": {
+            "A": "(7, 12)",
+            "B": "(8, 10)",
+            "C": "(9, 9)",
+            "D": "(6, 13)"
+        }
+    },
+    {
+        "question": "Which number is a common multiple of 10 and 15?",
+        "answer": "A",
+        "options": {
+            "A": "30",
+            "B": "40",
+            "C": "45",
+            "D": "50"
+        }
+    },
+    {
+        "question": "Is 89 a prime number?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Only if odd",
+            "D": "It depends on the context"
+        }
+    },
+    {
+        "question": "What is 30 squared (30\u00b2)?",
+        "answer": "B",
+        "options": {
+            "A": "600",
+            "B": "900",
+            "C": "800",
+            "D": "1,000"
+        }
+    },
+    {
+        "question": "What is 5 cubed (5\u00b3)?",
+        "answer": "C",
+        "options": {
+            "A": "15",
+            "B": "25",
+            "C": "125",
+            "D": "625"
+        }
+    },
+    {
+        "question": "What is 67,800 \u00f7 100?",
+        "answer": "A",
+        "options": {
+            "A": "678",
+            "B": "6,780",
+            "C": "67.8",
+            "D": "6.78"
+        }
+    },
+    {
+        "question": "What is 567 \u00d7 1,000?",
+        "answer": "B",
+        "options": {
+            "A": "56,700",
+            "B": "567,000",
+            "C": "5,670,000",
+            "D": "5,670"
+        }
+    },
+    {
+        "question": "What is 9,010 \u00f7 10?",
+        "answer": "A",
+        "options": {
+            "A": "901",
+            "B": "90.1",
+            "C": "9,010",
+            "D": "90,100"
+        }
+    },
+    {
+        "question": "Which of these numbers is composite?",
+        "answer": "B",
+        "options": {
+            "A": "83",
+            "B": "87",
+            "C": "89",
+            "D": "97"
+        }
+    },
+    {
+        "question": "What is 67,890 + 23,456?",
+        "answer": "A",
+        "options": {
+            "A": "91,346",
+            "B": "90,346",
+            "C": "91,246",
+            "D": "92,346"
+        }
+    },
+    {
+        "question": "What is 98,765 \u2013 34,567?",
+        "answer": "A",
+        "options": {
+            "A": "64,198",
+            "B": "63,198",
+            "C": "64,298",
+            "D": "65,198"
+        }
+    },
+    {
+        "question": "Which pair shows all the factor pairs of 48?",
+        "answer": "A",
+        "options": {
+            "A": "(1,48), (2,24), (3,16), (4,12), (6,8)",
+            "B": "(1,48), (2,24), (3,16), (4,12)",
+            "C": "(2,24), (3,16), (4,12), (6,8)",
+            "D": "(1,48), (3,16), (6,8)"
+        }
+    },
+    {
+        "question": "What is 789 \u00d7 100?",
+        "answer": "B",
+        "options": {
+            "A": "7,890",
+            "B": "78,900",
+            "C": "789,000",
+            "D": "789"
+        }
+    },
+    {
+        "question": "What is 96,000 \u00f7 1,000?",
+        "answer": "A",
+        "options": {
+            "A": "96",
+            "B": "960",
+            "C": "9.6",
+            "D": "0.96"
+        }
+    },
+    {
+        "question": "Which number is both a square and a cube?",
+        "answer": "D",
+        "options": {
+            "A": "8",
+            "B": "27",
+            "C": "1",
+            "D": "64"
+        }
+    },
+    {
+        "question": "What is 34,567 + 65,432?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 150,000 \u2013 23,456?",
+        "answer": "A",
+        "options": {
+            "A": "126,544",
+            "B": "127,544",
+            "C": "126,444",
+            "D": "125,544"
+        }
+    },
+    {
+        "question": "Which of these is NOT a prime number?",
+        "answer": "C",
+        "options": {
+            "A": "71",
+            "B": "73",
+            "C": "75",
+            "D": "79"
+        }
+    },
+    {
+        "question": "What is 140 \u00d7 65?",
+        "answer": "A",
+        "options": {
+            "A": "9,100",
+            "B": "8,100",
+            "C": "10,100",
+            "D": "9,500"
+        }
+    },
+    {
+        "question": "What is 8,640 \u00f7 9?",
+        "answer": "A",
+        "options": {
+            "A": "960",
+            "B": "860",
+            "C": "1,060",
+            "D": "920"
+        }
+    },
+    {
+        "question": "Which number is a common factor of 60 and 90?",
+        "answer": "C",
+        "options": {
+            "A": "7",
+            "B": "11",
+            "C": "15",
+            "D": "17"
+        }
+    },
+    {
+        "question": "What is 345 \u00d7 30?",
+        "answer": "A",
+        "options": {
+            "A": "10,350",
+            "B": "9,350",
+            "C": "11,350",
+            "D": "10,250"
+        }
+    },
+    {
+        "question": "What is 10,800 \u00f7 15?",
+        "answer": "A",
+        "options": {
+            "A": "720",
+            "B": "620",
+            "C": "820",
+            "D": "780"
+        }
+    },
+    {
+        "question": "Which of these equals 12\u00b2?",
+        "answer": "A",
+        "options": {
+            "A": "144",
+            "B": "24",
+            "C": "120",
+            "D": "169"
+        }
+    },
+    {
+        "question": "What is 4,250 \u00d7 5?",
+        "answer": "A",
+        "options": {
+            "A": "21,250",
+            "B": "20,250",
+            "C": "22,250",
+            "D": "19,250"
+        }
+    },
+    {
+        "question": "What is 12,240 \u00f7 17?",
+        "answer": "A",
+        "options": {
+            "A": "720",
+            "B": "620",
+            "C": "820",
+            "D": "780"
+        }
+    },
+    {
+        "question": "Which number is a multiple of both 7 and 11?",
+        "answer": "A",
+        "options": {
+            "A": "77",
+            "B": "84",
+            "C": "88",
+            "D": "91"
+        }
+    },
+    {
+        "question": "What is 56,789 + 43,210?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 180,000 \u2013 45,678?",
+        "answer": "A",
+        "options": {
+            "A": "134,322",
+            "B": "135,322",
+            "C": "134,222",
+            "D": "133,322"
+        }
+    },
+    {
+        "question": "Which of these is a prime number?",
+        "answer": "B",
+        "options": {
+            "A": "81",
+            "B": "83",
+            "C": "85",
+            "D": "87"
+        }
+    },
+    {
+        "question": "What is 190 \u00d7 40?",
+        "answer": "A",
+        "options": {
+            "A": "7,600",
+            "B": "6,600",
+            "C": "8,600",
+            "D": "7,000"
+        }
+    },
+    {
+        "question": "What is 9,360 \u00f7 13?",
+        "answer": "A",
+        "options": {
+            "A": "720",
+            "B": "620",
+            "C": "820",
+            "D": "780"
+        }
+    },
+    {
+        "question": "Which of these equals 9\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "729",
+            "B": "81",
+            "C": "6561",
+            "D": "243"
+        }
+    },
+    {
+        "question": "What is 2,850 \u00d7 6?",
+        "answer": "A",
+        "options": {
+            "A": "17,100",
+            "B": "16,100",
+            "C": "18,100",
+            "D": "15,100"
+        }
+    },
+    {
+        "question": "What is 13,680 \u00f7 19?",
+        "answer": "A",
+        "options": {
+            "A": "720",
+            "B": "620",
+            "C": "820",
+            "D": "780"
+        }
+    },
+    {
+        "question": "Which of these is NOT a square number?",
+        "answer": "D",
+        "options": {
+            "A": "169",
+            "B": "196",
+            "C": "225",
+            "D": "230"
+        }
+    },
+    {
+        "question": "What is 78,901 + 12,345?",
+        "answer": "A",
+        "options": {
+            "A": "91,246",
+            "B": "90,246",
+            "C": "91,146",
+            "D": "92,246"
+        }
+    },
+    {
+        "question": "What is 250,000 \u2013 98,765?",
+        "answer": "A",
+        "options": {
+            "A": "151,235",
+            "B": "152,235",
+            "C": "151,135",
+            "D": "150,235"
+        }
+    },
+    {
+        "question": "Which number is a prime number?",
+        "answer": "D",
+        "options": {
+            "A": "91",
+            "B": "93",
+            "C": "95",
+            "D": "97"
+        }
+    },
+    {
+        "question": "What is 210 \u00d7 40?",
+        "answer": "A",
+        "options": {
+            "A": "8,400",
+            "B": "7,400",
+            "C": "9,400",
+            "D": "8,000"
+        }
+    },
+    {
+        "question": "What is 14,400 \u00f7 20?",
+        "answer": "A",
+        "options": {
+            "A": "720",
+            "B": "620",
+            "C": "820",
+            "D": "780"
+        }
+    },
+    {
+        "question": "Which of these equals 8\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "512",
+            "B": "64",
+            "C": "256",
+            "D": "1,024"
+        }
+    },
+    {
+        "question": "What is 3,650 \u00d7 4?",
+        "answer": "A",
+        "options": {
+            "A": "14,600",
+            "B": "13,600",
+            "C": "15,600",
+            "D": "12,600"
+        }
+    },
+    {
+        "question": "What is 15,120 \u00f7 21?",
+        "answer": "A",
+        "options": {
+            "A": "720",
+            "B": "620",
+            "C": "820",
+            "D": "780"
+        }
+    },
+    {
+        "question": "Which number is a square number?",
+        "answer": "B",
+        "options": {
+            "A": "240",
+            "B": "256",
+            "C": "270",
+            "D": "280"
+        }
+    },
+    {
+        "question": "What is 89,012 + 10,987?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 300,000 \u2013 123,456?",
+        "answer": "A",
+        "options": {
+            "A": "176,544",
+            "B": "177,544",
+            "C": "176,444",
+            "D": "175,544"
+        }
+    },
+    {
+        "question": "Which of these is a factor pair of 96?",
+        "answer": "A",
+        "options": {
+            "A": "(8, 12)",
+            "B": "(9, 10)",
+            "C": "(7, 13)",
+            "D": "(6, 15)"
+        }
+    },
+    {
+        "question": "Which number is a common multiple of 12 and 18?",
+        "answer": "A",
+        "options": {
+            "A": "36",
+            "B": "48",
+            "C": "54",
+            "D": "60"
+        }
+    },
+    {
+        "question": "Is 79 a prime number?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Only if even",
+            "D": "It depends on the context"
+        }
+    },
+    {
+        "question": "What is 35 squared (35\u00b2)?",
+        "answer": "A",
+        "options": {
+            "A": "1,225",
+            "B": "1,125",
+            "C": "1,325",
+            "D": "1,200"
+        }
+    },
+    {
+        "question": "What is 6 cubed (6\u00b3)?",
+        "answer": "B",
+        "options": {
+            "A": "36",
+            "B": "216",
+            "C": "126",
+            "D": "600"
+        }
+    },
+    {
+        "question": "What is 89,000 \u00f7 100?",
+        "answer": "A",
+        "options": {
+            "A": "890",
+            "B": "8,900",
+            "C": "89.0",
+            "D": "8.9"
+        }
+    },
+    {
+        "question": "What is 678 \u00d7 1,000?",
+        "answer": "B",
+        "options": {
+            "A": "67,800",
+            "B": "678,000",
+            "C": "6,780,000",
+            "D": "6,780"
+        }
+    },
+    {
+        "question": "What is 10,500 \u00f7 10?",
+        "answer": "A",
+        "options": {
+            "A": "1,050",
+            "B": "105",
+            "C": "10,500",
+            "D": "105,000"
+        }
+    },
+    {
+        "question": "Which of these numbers is composite?",
+        "answer": "C",
+        "options": {
+            "A": "71",
+            "B": "73",
+            "C": "77",
+            "D": "79"
+        }
+    },
+    {
+        "question": "What is 78,901 + 21,098?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 123,456 \u2013 67,890?",
+        "answer": "A",
+        "options": {
+            "A": "55,566",
+            "B": "54,566",
+            "C": "55,466",
+            "D": "56,566"
+        }
+    },
+    {
+        "question": "Which pair shows all the factor pairs of 60?",
+        "answer": "A",
+        "options": {
+            "A": "(1,60), (2,30), (3,20), (4,15), (5,12), (6,10)",
+            "B": "(1,60), (2,30), (3,20), (4,15), (5,12)",
+            "C": "(2,30), (3,20), (4,15), (5,12), (6,10)",
+            "D": "(1,60), (3,20), (5,12), (6,10)"
+        }
+    },
+    {
+        "question": "What is 890 \u00d7 100?",
+        "answer": "B",
+        "options": {
+            "A": "8,900",
+            "B": "89,000",
+            "C": "890,000",
+            "D": "890"
+        }
+    },
+    {
+        "question": "What is 108,000 \u00f7 1,000?",
+        "answer": "A",
+        "options": {
+            "A": "108",
+            "B": "1,080",
+            "C": "10.8",
+            "D": "1.08"
+        }
+    },
+    {
+        "question": "Which number is both a square and a cube?",
+        "answer": "D",
+        "options": {
+            "A": "8",
+            "B": "27",
+            "C": "1",
+            "D": "64"
+        }
+    },
+    {
+        "question": "What is 45,678 + 54,321?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 200,000 \u2013 34,567?",
+        "answer": "A",
+        "options": {
+            "A": "165,433",
+            "B": "166,433",
+            "C": "165,333",
+            "D": "164,433"
+        }
+    },
+    {
+        "question": "Which of these is NOT a prime number?",
+        "answer": "B",
+        "options": {
+            "A": "61",
+            "B": "63",
+            "C": "67",
+            "D": "71"
+        }
+    },
+    {
+        "question": "What is 160 \u00d7 55?",
+        "answer": "A",
+        "options": {
+            "A": "8,800",
+            "B": "7,800",
+            "C": "9,800",
+            "D": "8,200"
+        }
+    },
+    {
+        "question": "What is 9,720 \u00f7 9?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which number is a common factor of 72 and 108?",
+        "answer": "C",
+        "options": {
+            "A": "8",
+            "B": "9",
+            "C": "18",
+            "D": "24"
+        }
+    },
+    {
+        "question": "What is 456 \u00d7 20?",
+        "answer": "A",
+        "options": {
+            "A": "9,120",
+            "B": "8,120",
+            "C": "10,120",
+            "D": "9,020"
+        }
+    },
+    {
+        "question": "What is 12,960 \u00f7 12?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which of these equals 18\u00b2?",
+        "answer": "A",
+        "options": {
+            "A": "324",
+            "B": "36",
+            "C": "284",
+            "D": "344"
+        }
+    },
+    {
+        "question": "What is 5,250 \u00d7 4?",
+        "answer": "A",
+        "options": {
+            "A": "21,000",
+            "B": "20,000",
+            "C": "22,000",
+            "D": "19,000"
+        }
+    },
+    {
+        "question": "What is 15,120 \u00f7 14?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which number is a multiple of both 8 and 14?",
+        "answer": "A",
+        "options": {
+            "A": "56",
+            "B": "64",
+            "C": "70",
+            "D": "84"
+        }
+    },
+    {
+        "question": "What is 67,890 + 32,109?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 250,000 \u2013 56,789?",
+        "answer": "A",
+        "options": {
+            "A": "193,211",
+            "B": "194,211",
+            "C": "193,111",
+            "D": "192,211"
+        }
+    },
+    {
+        "question": "Which of these is a prime number?",
+        "answer": "C",
+        "options": {
+            "A": "63",
+            "B": "65",
+            "C": "67",
+            "D": "69"
+        }
+    },
+    {
+        "question": "What is 220 \u00d7 50?",
+        "answer": "A",
+        "options": {
+            "A": "11,000",
+            "B": "10,000",
+            "C": "12,000",
+            "D": "11,500"
+        }
+    },
+    {
+        "question": "What is 17,280 \u00f7 16?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which of these equals 10\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "1,000",
+            "B": "100",
+            "C": "10,000",
+            "D": "30"
+        }
+    },
+    {
+        "question": "What is 2,750 \u00d7 8?",
+        "answer": "A",
+        "options": {
+            "A": "22,000",
+            "B": "21,000",
+            "C": "23,000",
+            "D": "20,000"
+        }
+    },
+    {
+        "question": "What is 19,440 \u00f7 18?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which of these is NOT a square number?",
+        "answer": "D",
+        "options": {
+            "A": "256",
+            "B": "289",
+            "C": "324",
+            "D": "330"
+        }
+    },
+    {
+        "question": "What is 89,012 + 10,987?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 350,000 \u2013 123,456?",
+        "answer": "A",
+        "options": {
+            "A": "226,544",
+            "B": "227,544",
+            "C": "226,444",
+            "D": "225,544"
+        }
+    },
+    {
+        "question": "Which number is a prime number?",
+        "answer": "B",
+        "options": {
+            "A": "81",
+            "B": "83",
+            "C": "85",
+            "D": "87"
+        }
+    },
+    {
+        "question": "What is 240 \u00d7 45?",
+        "answer": "A",
+        "options": {
+            "A": "10,800",
+            "B": "9,800",
+            "C": "11,800",
+            "D": "10,200"
+        }
+    },
+    {
+        "question": "What is 21,600 \u00f7 20?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which of these equals 12\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "1,728",
+            "B": "144",
+            "C": "1,200",
+            "D": "2,073"
+        }
+    },
+    {
+        "question": "What is 3,650 \u00d7 6?",
+        "answer": "A",
+        "options": {
+            "A": "21,900",
+            "B": "20,900",
+            "C": "22,900",
+            "D": "19,900"
+        }
+    },
+    {
+        "question": "What is 22,680 \u00f7 21?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which number is a square number?",
+        "answer": "B",
+        "options": {
+            "A": "320",
+            "B": "324",
+            "C": "330",
+            "D": "340"
+        }
+    },
+    {
+        "question": "What is 98,765 + 1,234?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 400,000 \u2013 234,567?",
+        "answer": "A",
+        "options": {
+            "A": "165,433",
+            "B": "166,433",
+            "C": "165,333",
+            "D": "164,433"
+        }
+    },
+    {
+        "question": "Which of these is a factor pair of 72?",
+        "answer": "A",
+        "options": {
+            "A": "(8, 9)",
+            "B": "(7, 10)",
+            "C": "(6, 11)",
+            "D": "(5, 14)"
+        }
+    },
+    {
+        "question": "Which number is a common multiple of 9 and 12?",
+        "answer": "A",
+        "options": {
+            "A": "36",
+            "B": "48",
+            "C": "54",
+            "D": "60"
+        }
+    },
+    {
+        "question": "Is 73 a prime number?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Only if odd",
+            "D": "It depends on the context"
+        }
+    },
+    {
+        "question": "What is 40 squared (40\u00b2)?",
+        "answer": "A",
+        "options": {
+            "A": "1,600",
+            "B": "800",
+            "C": "1,200",
+            "D": "2,000"
+        }
+    },
+    {
+        "question": "What is 7 cubed (7\u00b3)?",
+        "answer": "B",
+        "options": {
+            "A": "49",
+            "B": "343",
+            "C": "243",
+            "D": "512"
+        }
+    },
+    {
+        "question": "What is 123,000 \u00f7 100?",
+        "answer": "A",
+        "options": {
+            "A": "1,230",
+            "B": "12,300",
+            "C": "123.0",
+            "D": "12.3"
+        }
+    },
+    {
+        "question": "What is 789 \u00d7 1,000?",
+        "answer": "B",
+        "options": {
+            "A": "78,900",
+            "B": "789,000",
+            "C": "7,890,000",
+            "D": "7,890"
+        }
+    },
+    {
+        "question": "What is 11,200 \u00f7 10?",
+        "answer": "A",
+        "options": {
+            "A": "1,120",
+            "B": "112",
+            "C": "11,200",
+            "D": "112,000"
+        }
+    },
+    {
+        "question": "Which of these numbers is composite?",
+        "answer": "C",
+        "options": {
+            "A": "61",
+            "B": "67",
+            "C": "69",
+            "D": "71"
+        }
+    },
+    {
+        "question": "What is 89,012 + 10,987?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 134,567 \u2013 78,901?",
+        "answer": "A",
+        "options": {
+            "A": "55,666",
+            "B": "54,666",
+            "C": "55,566",
+            "D": "56,666"
+        }
+    },
+    {
+        "question": "Which pair shows all the factor pairs of 72?",
+        "answer": "A",
+        "options": {
+            "A": "(1,72), (2,36), (3,24), (4,18), (6,12), (8,9)",
+            "B": "(1,72), (2,36), (3,24), (4,18), (6,12)",
+            "C": "(2,36), (3,24), (4,18), (6,12), (8,9)",
+            "D": "(1,72), (3,24), (6,12), (8,9)"
+        }
+    },
+    {
+        "question": "What is 901 \u00d7 100?",
+        "answer": "B",
+        "options": {
+            "A": "9,010",
+            "B": "90,100",
+            "C": "901,000",
+            "D": "901"
+        }
+    },
+    {
+        "question": "What is 144,000 \u00f7 1,000?",
+        "answer": "A",
+        "options": {
+            "A": "144",
+            "B": "1,440",
+            "C": "14.4",
+            "D": "1.44"
+        }
+    },
+    {
+        "question": "Which number is both a square and a cube?",
+        "answer": "D",
+        "options": {
+            "A": "8",
+            "B": "27",
+            "C": "1",
+            "D": "64"
+        }
+    },
+    {
+        "question": "What is 56,789 + 43,210?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 300,000 \u2013 45,678?",
+        "answer": "A",
+        "options": {
+            "A": "254,322",
+            "B": "255,322",
+            "C": "254,222",
+            "D": "253,322"
+        }
+    },
+    {
+        "question": "Which of these is NOT a prime number?",
+        "answer": "B",
+        "options": {
+            "A": "53",
+            "B": "55",
+            "C": "59",
+            "D": "61"
+        }
+    },
+    {
+        "question": "What is 180 \u00d7 60?",
+        "answer": "A",
+        "options": {
+            "A": "10,800",
+            "B": "9,800",
+            "C": "11,800",
+            "D": "10,200"
+        }
+    },
+    {
+        "question": "What is 10,800 \u00f7 10?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which number is a common factor of 84 and 126?",
+        "answer": "D",
+        "options": {
+            "A": "12",
+            "B": "14",
+            "C": "18",
+            "D": "21"
+        }
+    },
+    {
+        "question": "What is 567 \u00d7 20?",
+        "answer": "A",
+        "options": {
+            "A": "11,340",
+            "B": "10,340",
+            "C": "12,340",
+            "D": "11,240"
+        }
+    },
+    {
+        "question": "What is 15,120 \u00f7 14?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which of these equals 19\u00b2?",
+        "answer": "A",
+        "options": {
+            "A": "361",
+            "B": "38",
+            "C": "321",
+            "D": "341"
+        }
+    },
+    {
+        "question": "What is 6,250 \u00d7 4?",
+        "answer": "A",
+        "options": {
+            "A": "25,000",
+            "B": "24,000",
+            "C": "26,000",
+            "D": "23,000"
+        }
+    },
+    {
+        "question": "What is 17,280 \u00f7 16?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which number is a multiple of both 6 and 16?",
+        "answer": "A",
+        "options": {
+            "A": "48",
+            "B": "54",
+            "C": "60",
+            "D": "64"
+        }
+    },
+    {
+        "question": "What is 78,901 + 21,098?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 400,000 \u2013 67,890?",
+        "answer": "A",
+        "options": {
+            "A": "332,110",
+            "B": "333,110",
+            "C": "332,010",
+            "D": "331,110"
+        }
+    },
+    {
+        "question": "Which of these is a prime number?",
+        "answer": "B",
+        "options": {
+            "A": "51",
+            "B": "53",
+            "C": "55",
+            "D": "57"
+        }
+    },
+    {
+        "question": "What is 260 \u00d7 40?",
+        "answer": "A",
+        "options": {
+            "A": "10,400",
+            "B": "9,400",
+            "C": "11,400",
+            "D": "10,000"
+        }
+    },
+    {
+        "question": "What is 19,440 \u00f7 18?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which of these equals 11\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "1,331",
+            "B": "121",
+            "C": "1,200",
+            "D": "1,464"
+        }
+    },
+    {
+        "question": "What is 2,850 \u00d7 8?",
+        "answer": "A",
+        "options": {
+            "A": "22,800",
+            "B": "21,800",
+            "C": "23,800",
+            "D": "20,800"
+        }
+    },
+    {
+        "question": "What is 21,600 \u00f7 20?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which of these is NOT a square number?",
+        "answer": "D",
+        "options": {
+            "A": "289",
+            "B": "324",
+            "C": "361",
+            "D": "370"
+        }
+    },
+    {
+        "question": "What is 98,765 + 1,234?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 450,000 \u2013 123,456?",
+        "answer": "A",
+        "options": {
+            "A": "326,544",
+            "B": "327,544",
+            "C": "326,444",
+            "D": "325,544"
+        }
+    },
+    {
+        "question": "Which number is a prime number?",
+        "answer": "C",
+        "options": {
+            "A": "49",
+            "B": "51",
+            "C": "53",
+            "D": "55"
+        }
+    },
+    {
+        "question": "What is 280 \u00d7 40?",
+        "answer": "A",
+        "options": {
+            "A": "11,200",
+            "B": "10,200",
+            "C": "12,200",
+            "D": "11,000"
+        }
+    },
+    {
+        "question": "What is 22,680 \u00f7 21?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which of these equals 14\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "2,744",
+            "B": "196",
+            "C": "2,400",
+            "D": "3,375"
+        }
+    },
+    {
+        "question": "What is 3,650 \u00d7 6?",
+        "answer": "A",
+        "options": {
+            "A": "21,900",
+            "B": "20,900",
+            "C": "22,900",
+            "D": "19,900"
+        }
+    },
+    {
+        "question": "What is 23,760 \u00f7 22?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which number is a square number?",
+        "answer": "B",
+        "options": {
+            "A": "360",
+            "B": "361",
+            "C": "370",
+            "D": "380"
+        }
+    },
+    {
+        "question": "What is 87,654 + 12,345?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 500,000 \u2013 345,678?",
+        "answer": "A",
+        "options": {
+            "A": "154,322",
+            "B": "155,322",
+            "C": "154,222",
+            "D": "153,322"
+        }
+    },
+    {
+        "question": "Which of these is a factor pair of 90?",
+        "answer": "A",
+        "options": {
+            "A": "(9, 10)",
+            "B": "(8, 11)",
+            "C": "(7, 12)",
+            "D": "(6, 14)"
+        }
+    },
+    {
+        "question": "Which number is a common multiple of 10 and 14?",
+        "answer": "A",
+        "options": {
+            "A": "70",
+            "B": "80",
+            "C": "90",
+            "D": "100"
+        }
+    },
+    {
+        "question": "Is 67 a prime number?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Only if odd",
+            "D": "It depends on the context"
+        }
+    },
+    {
+        "question": "What is 45 squared (45\u00b2)?",
+        "answer": "A",
+        "options": {
+            "A": "2,025",
+            "B": "1,925",
+            "C": "2,125",
+            "D": "2,000"
+        }
+    },
+    {
+        "question": "What is 8 cubed (8\u00b3)?",
+        "answer": "B",
+        "options": {
+            "A": "64",
+            "B": "512",
+            "C": "256",
+            "D": "1,024"
+        }
+    },
+    {
+        "question": "What is 156,000 \u00f7 100?",
+        "answer": "A",
+        "options": {
+            "A": "1,560",
+            "B": "15,600",
+            "C": "156.0",
+            "D": "15.6"
+        }
+    },
+    {
+        "question": "What is 890 \u00d7 1,000?",
+        "answer": "B",
+        "options": {
+            "A": "89,000",
+            "B": "890,000",
+            "C": "8,900,000",
+            "D": "8,900"
+        }
+    },
+    {
+        "question": "What is 12,300 \u00f7 10?",
+        "answer": "A",
+        "options": {
+            "A": "1,230",
+            "B": "123",
+            "C": "12,300",
+            "D": "123,000"
+        }
+    },
+    {
+        "question": "Which of these numbers is composite?",
+        "answer": "C",
+        "options": {
+            "A": "53",
+            "B": "59",
+            "C": "63",
+            "D": "61"
+        }
+    },
+    {
+        "question": "What is 98,765 + 1,234?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 145,678 \u2013 89,012?",
+        "answer": "A",
+        "options": {
+            "A": "56,666",
+            "B": "55,666",
+            "C": "56,566",
+            "D": "57,666"
+        }
+    },
+    {
+        "question": "Which pair shows all the factor pairs of 84?",
+        "answer": "A",
+        "options": {
+            "A": "(1,84), (2,42), (3,28), (4,21), (6,14), (7,12)",
+            "B": "(1,84), (2,42), (3,28), (4,21), (6,14)",
+            "C": "(2,42), (3,28), (4,21), (6,14), (7,12)",
+            "D": "(1,84), (3,28), (6,14), (7,12)"
+        }
+    },
+    {
+        "question": "What is 1,023 \u00d7 100?",
+        "answer": "B",
+        "options": {
+            "A": "10,230",
+            "B": "102,300",
+            "C": "1,023,000",
+            "D": "1,023"
+        }
+    },
+    {
+        "question": "What is 169,000 \u00f7 1,000?",
+        "answer": "A",
+        "options": {
+            "A": "169",
+            "B": "1,690",
+            "C": "16.9",
+            "D": "1.69"
+        }
+    },
+    {
+        "question": "Which number is both a square and a cube?",
+        "answer": "D",
+        "options": {
+            "A": "8",
+            "B": "27",
+            "C": "1",
+            "D": "64"
+        }
+    },
+    {
+        "question": "What is 67,890 + 32,109?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 500,000 \u2013 56,789?",
+        "answer": "A",
+        "options": {
+            "A": "443,211",
+            "B": "444,211",
+            "C": "443,111",
+            "D": "442,211"
+        }
+    },
+    {
+        "question": "Which of these is NOT a prime number?",
+        "answer": "B",
+        "options": {
+            "A": "43",
+            "B": "45",
+            "C": "47",
+            "D": "53"
+        }
+    },
+    {
+        "question": "What is 200 \u00d7 54?",
+        "answer": "A",
+        "options": {
+            "A": "10,800",
+            "B": "9,800",
+            "C": "11,800",
+            "D": "10,200"
+        }
+    },
+    {
+        "question": "What is 11,880 \u00f7 11?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which number is a common factor of 96 and 144?",
+        "answer": "B",
+        "options": {
+            "A": "16",
+            "B": "24",
+            "C": "32",
+            "D": "36"
+        }
+    },
+    {
+        "question": "What is 678 \u00d7 20?",
+        "answer": "A",
+        "options": {
+            "A": "13,560",
+            "B": "12,560",
+            "C": "14,560",
+            "D": "13,460"
+        }
+    },
+    {
+        "question": "What is 16,200 \u00f7 15?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which of these equals 20\u00b2?",
+        "answer": "A",
+        "options": {
+            "A": "400",
+            "B": "40",
+            "C": "200",
+            "D": "800"
+        }
+    },
+    {
+        "question": "What is 7,250 \u00d7 4?",
+        "answer": "A",
+        "options": {
+            "A": "29,000",
+            "B": "28,000",
+            "C": "30,000",
+            "D": "27,000"
+        }
+    },
+    {
+        "question": "What is 18,360 \u00f7 17?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which number is a multiple of both 9 and 15?",
+        "answer": "A",
+        "options": {
+            "A": "45",
+            "B": "54",
+            "C": "60",
+            "D": "75"
+        }
+    },
+    {
+        "question": "What is 89,012 + 10,987?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 600,000 \u2013 78,901?",
+        "answer": "A",
+        "options": {
+            "A": "521,099",
+            "B": "522,099",
+            "C": "521,199",
+            "D": "520,099"
+        }
+    },
+    {
+        "question": "Which of these is a prime number?",
+        "answer": "B",
+        "options": {
+            "A": "39",
+            "B": "41",
+            "C": "45",
+            "D": "49"
+        }
+    },
+    {
+        "question": "What is 300 \u00d7 36?",
+        "answer": "A",
+        "options": {
+            "A": "10,800",
+            "B": "9,800",
+            "C": "11,800",
+            "D": "10,200"
+        }
+    },
+    {
+        "question": "What is 20,520 \u00f7 19?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which of these equals 15\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "3,375",
+            "B": "225",
+            "C": "3,000",
+            "D": "4,096"
+        }
+    },
+    {
+        "question": "What is 2,950 \u00d7 8?",
+        "answer": "A",
+        "options": {
+            "A": "23,600",
+            "B": "22,600",
+            "C": "24,600",
+            "D": "21,600"
+        }
+    },
+    {
+        "question": "What is 22,680 \u00f7 21?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which of these is NOT a square number?",
+        "answer": "D",
+        "options": {
+            "A": "361",
+            "B": "400",
+            "C": "441",
+            "D": "450"
+        }
+    },
+    {
+        "question": "What is 87,654 + 12,345?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 550,000 \u2013 123,456?",
+        "answer": "A",
+        "options": {
+            "A": "426,544",
+            "B": "427,544",
+            "C": "426,444",
+            "D": "425,544"
+        }
+    },
+    {
+        "question": "Which number is a prime number?",
+        "answer": "C",
+        "options": {
+            "A": "33",
+            "B": "35",
+            "C": "37",
+            "D": "39"
+        }
+    },
+    {
+        "question": "What is 320 \u00d7 35?",
+        "answer": "A",
+        "options": {
+            "A": "11,200",
+            "B": "10,200",
+            "C": "12,200",
+            "D": "11,000"
+        }
+    },
+    {
+        "question": "What is 23,760 \u00f7 22?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which of these equals 16\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "4,096",
+            "B": "256",
+            "C": "4,000",
+            "D": "5,832"
+        }
+    },
+    {
+        "question": "What is 3,650 \u00d7 6?",
+        "answer": "A",
+        "options": {
+            "A": "21,900",
+            "B": "20,900",
+            "C": "22,900",
+            "D": "19,900"
+        }
+    },
+    {
+        "question": "What is 24,840 \u00f7 23?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which number is a square number?",
+        "answer": "B",
+        "options": {
+            "A": "440",
+            "B": "441",
+            "C": "450",
+            "D": "460"
+        }
+    },
+    {
+        "question": "What is 15,327 + 8,469?",
+        "answer": "B",
+        "options": {
+            "A": "23,786",
+            "B": "23,796",
+            "C": "24,796",
+            "D": "23,896"
+        }
+    },
+    {
+        "question": "What is 24,513 \u2013 9,728?",
+        "answer": "A",
+        "options": {
+            "A": "14,785",
+            "B": "14,885",
+            "C": "15,785",
+            "D": "15,885"
+        }
+    },
+    {
+        "question": "Which of these is the best estimate for 48,672 + 31,495?",
+        "answer": "B",
+        "options": {
+            "A": "70,000",
+            "B": "80,000",
+            "C": "90,000",
+            "D": "100,000"
+        }
+    },
+    {
+        "question": "Tom has \u00a312,450. He spends \u00a33,875 on a car and \u00a31,290 on insurance. How much money does he have left?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a37,285",
+            "B": "\u00a37,385",
+            "C": "\u00a38,285",
+            "D": "\u00a38,385"
+        }
+    },
+    {
+        "question": "What is 17,800 \u2013 5,600 mentally?",
+        "answer": "B",
+        "options": {
+            "A": "11,200",
+            "B": "12,200",
+            "C": "12,400",
+            "D": "13,200"
+        }
+    },
+    {
+        "question": "Which number sentence is true?",
+        "answer": "B",
+        "options": {
+            "A": "24,310 + 1,290 = 25,500",
+            "B": "24,310 + 1,290 = 25,600",
+            "C": "24,310 + 1,290 = 25,700",
+            "D": "24,310 + 1,290 = 25,800"
+        }
+    },
+    {
+        "question": "Round 67,482 and 28,519 to the nearest thousand and find their sum.",
+        "answer": "B",
+        "options": {
+            "A": "95,000",
+            "B": "96,000",
+            "C": "97,000",
+            "D": "98,000"
+        }
+    },
+    {
+        "question": "A school has 3,245 pupils. Another school has 1,876 more pupils. How many pupils are there altogether?",
+        "answer": "B",
+        "options": {
+            "A": "5,121",
+            "B": "8,366",
+            "C": "4,121",
+            "D": "7,366"
+        }
+    },
+    {
+        "question": "What is 52,000 \u2013 18,345?",
+        "answer": "A",
+        "options": {
+            "A": "33,655",
+            "B": "34,655",
+            "C": "33,755",
+            "D": "34,755"
+        }
+    },
+    {
+        "question": "Which calculation gives the same result as 15,000 \u2013 2,300?",
+        "answer": "B",
+        "options": {
+            "A": "12,300",
+            "B": "12,700",
+            "C": "13,300",
+            "D": "13,700"
+        }
+    },
+    {
+        "question": "Which of these is a factor pair of 36?",
+        "answer": "B",
+        "options": {
+            "A": "4 and 8",
+            "B": "6 and 6",
+            "C": "5 and 7",
+            "D": "9 and 3"
+        }
+    },
+    {
+        "question": "Which number is a common factor of 24 and 36?",
+        "answer": "D",
+        "options": {
+            "A": "5",
+            "B": "7",
+            "C": "8",
+            "D": "6"
+        }
+    },
+    {
+        "question": "Which of these numbers is prime?",
+        "answer": "C",
+        "options": {
+            "A": "21",
+            "B": "27",
+            "C": "29",
+            "D": "33"
+        }
+    },
+    {
+        "question": "How many factor pairs does 20 have?",
+        "answer": "B",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        }
+    },
+    {
+        "question": "Which number is NOT prime?",
+        "answer": "D",
+        "options": {
+            "A": "13",
+            "B": "17",
+            "C": "19",
+            "D": "21"
+        }
+    },
+    {
+        "question": "What is 2,345 \u00d7 7?",
+        "answer": "A",
+        "options": {
+            "A": "16,415",
+            "B": "16,315",
+            "C": "15,415",
+            "D": "15,315"
+        }
+    },
+    {
+        "question": "What is 1,824 \u00d7 12?",
+        "answer": "A",
+        "options": {
+            "A": "21,888",
+            "B": "20,888",
+            "C": "21,788",
+            "D": "20,788"
+        }
+    },
+    {
+        "question": "What is 48 \u00d7 25 mentally?",
+        "answer": "C",
+        "options": {
+            "A": "1,000",
+            "B": "1,100",
+            "C": "1,200",
+            "D": "1,300"
+        }
+    },
+    {
+        "question": "What is 3,456 \u00f7 8?",
+        "answer": "A",
+        "options": {
+            "A": "432",
+            "B": "423",
+            "C": "442",
+            "D": "452"
+        }
+    },
+    {
+        "question": "A box holds 6 trays. Each tray holds 24 eggs. How many eggs are in 7 boxes?",
+        "answer": "A",
+        "options": {
+            "A": "1,008",
+            "B": "1,012",
+            "C": "1,024",
+            "D": "1,032"
+        }
+    },
+    {
+        "question": "What is 560 \u00f7 10?",
+        "answer": "B",
+        "options": {
+            "A": "5.6",
+            "B": "56",
+            "C": "560",
+            "D": "5,600"
+        }
+    },
+    {
+        "question": "What is 7.3 \u00d7 100?",
+        "answer": "B",
+        "options": {
+            "A": "73",
+            "B": "730",
+            "C": "7,300",
+            "D": "0.73"
+        }
+    },
+    {
+        "question": "What is 4,500 \u00f7 1,000?",
+        "answer": "B",
+        "options": {
+            "A": "0.45",
+            "B": "4.5",
+            "C": "45",
+            "D": "450"
+        }
+    },
+    {
+        "question": "Which number is 100 times smaller than 8,200?",
+        "answer": "B",
+        "options": {
+            "A": "8.2",
+            "B": "82",
+            "C": "820",
+            "D": "0.82"
+        }
+    },
+    {
+        "question": "What is 3\u00b2 + 4\u00b2?",
+        "answer": "C",
+        "options": {
+            "A": "14",
+            "B": "20",
+            "C": "25",
+            "D": "49"
+        }
+    },
+    {
+        "question": "Which of these is a cube number?",
+        "answer": "A",
+        "options": {
+            "A": "27",
+            "B": "30",
+            "C": "32",
+            "D": "36"
+        }
+    },
+    {
+        "question": "What is 5\u00b3?",
+        "answer": "D",
+        "options": {
+            "A": "15",
+            "B": "25",
+            "C": "75",
+            "D": "125"
+        }
+    },
+    {
+        "question": "Which expression equals 6\u00b2?",
+        "answer": "C",
+        "options": {
+            "A": "6 + 6",
+            "B": "6 \u00d7 2",
+            "C": "6 \u00d7 6",
+            "D": "60 \u00f7 10"
+        }
+    },
+    {
+        "question": "What is 81 \u00f7 9?",
+        "answer": "C",
+        "options": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "10"
+        }
+    },
+    {
+        "question": "Which number is both a square and a cube?",
+        "answer": "B",
+        "options": {
+            "A": "16",
+            "B": "64",
+            "C": "81",
+            "D": "100"
+        }
+    },
+    {
+        "question": "If 7 \u00d7 ? = 2,100, what is the missing number?",
+        "answer": "B",
+        "options": {
+            "A": "30",
+            "B": "300",
+            "C": "3,000",
+            "D": "210"
+        }
+    },
+    {
+        "question": "What is 9,000 \u00f7 100?",
+        "answer": "B",
+        "options": {
+            "A": "9",
+            "B": "90",
+            "C": "900",
+            "D": "9,000"
+        }
+    },
+    {
+        "question": "Which calculation gives 10\u00b3?",
+        "answer": "C",
+        "options": {
+            "A": "10 + 10 + 10",
+            "B": "10 \u00d7 3",
+            "C": "10 \u00d7 10 \u00d7 10",
+            "D": "100 \u00d7 3"
+        }
+    },
+    {
+        "question": "What is 12 \u00d7 15 using mental maths?",
+        "answer": "D",
+        "options": {
+            "A": "150",
+            "B": "160",
+            "C": "170",
+            "D": "180"
+        }
+    },
+    {
+        "question": "A farmer packs 4,320 apples into boxes of 6. How many boxes are needed?",
+        "answer": "B",
+        "options": {
+            "A": "700",
+            "B": "720",
+            "C": "740",
+            "D": "760"
+        }
+    },
+    {
+        "question": "Which number is a multiple of both 6 and 9?",
+        "answer": "A",
+        "options": {
+            "A": "36",
+            "B": "42",
+            "C": "45",
+            "D": "54"
+        }
+    },
+    {
+        "question": "What is 25 \u00d7 40?",
+        "answer": "B",
+        "options": {
+            "A": "100",
+            "B": "1,000",
+            "C": "10,000",
+            "D": "100,000"
+        }
+    },
+    {
+        "question": "Which of these shows the distributive property correctly?",
+        "answer": "B",
+        "options": {
+            "A": "5 \u00d7 (6 + 4) = 5 \u00d7 6 + 4",
+            "B": "5 \u00d7 (6 + 4) = 5 \u00d7 6 + 5 \u00d7 4",
+            "C": "5 \u00d7 (6 + 4) = 5 + 6 \u00d7 4",
+            "D": "5 \u00d7 (6 + 4) = 5 \u00d7 10 \u00d7 4"
+        }
+    },
+    {
+        "question": "What is 7,200 \u00f7 9?",
+        "answer": "B",
+        "options": {
+            "A": "700",
+            "B": "800",
+            "C": "900",
+            "D": "1,000"
+        }
+    },
+    {
+        "question": "Which equation is true?",
+        "answer": "C",
+        "options": {
+            "A": "14 + 26 = 15 + 24",
+            "B": "14 + 26 = 16 + 25",
+            "C": "14 + 26 = 13 + 27",
+            "D": "14 + 26 = 20 + 20"
+        }
+    },
+    {
+        "question": "What is 76,543 + 23,456?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 600,000 \u2013 456,789?",
+        "answer": "A",
+        "options": {
+            "A": "143,211",
+            "B": "144,211",
+            "C": "143,111",
+            "D": "142,211"
+        }
+    },
+    {
+        "question": "Which of these is a factor pair of 100?",
+        "answer": "A",
+        "options": {
+            "A": "(10, 10)",
+            "B": "(9, 11)",
+            "C": "(8, 12)",
+            "D": "(7, 14)"
+        }
+    },
+    {
+        "question": "Which number is a common multiple of 12 and 15?",
+        "answer": "A",
+        "options": {
+            "A": "60",
+            "B": "72",
+            "C": "75",
+            "D": "90"
+        }
+    },
+    {
+        "question": "Is 61 a prime number?",
+        "answer": "A",
+        "options": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Only if odd",
+            "D": "It depends on the context"
+        }
+    },
+    {
+        "question": "What is 50 squared (50\u00b2)?",
+        "answer": "A",
+        "options": {
+            "A": "2,500",
+            "B": "1,000",
+            "C": "2,000",
+            "D": "3,000"
+        }
+    },
+    {
+        "question": "What is 9 cubed (9\u00b3)?",
+        "answer": "B",
+        "options": {
+            "A": "81",
+            "B": "729",
+            "C": "6561",
+            "D": "243"
+        }
+    },
+    {
+        "question": "What is 189,000 \u00f7 100?",
+        "answer": "A",
+        "options": {
+            "A": "1,890",
+            "B": "18,900",
+            "C": "189.0",
+            "D": "18.9"
+        }
+    },
+    {
+        "question": "What is 901 \u00d7 1,000?",
+        "answer": "B",
+        "options": {
+            "A": "90,100",
+            "B": "901,000",
+            "C": "9,010,000",
+            "D": "9,010"
+        }
+    },
+    {
+        "question": "What is 13,400 \u00f7 10?",
+        "answer": "A",
+        "options": {
+            "A": "1,340",
+            "B": "134",
+            "C": "13,400",
+            "D": "134,000"
+        }
+    },
+    {
+        "question": "Which of these numbers is composite?",
+        "answer": "C",
+        "options": {
+            "A": "43",
+            "B": "47",
+            "C": "49",
+            "D": "53"
+        }
+    },
+    {
+        "question": "What is 98,765 + 1,234?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 156,789 \u2013 100,123?",
+        "answer": "A",
+        "options": {
+            "A": "56,666",
+            "B": "55,666",
+            "C": "56,566",
+            "D": "57,666"
+        }
+    },
+    {
+        "question": "Which pair shows all the factor pairs of 96?",
+        "answer": "A",
+        "options": {
+            "A": "(1,96), (2,48), (3,32), (4,24), (6,16), (8,12)",
+            "B": "(1,96), (2,48), (3,32), (4,24), (6,16)",
+            "C": "(2,48), (3,32), (4,24), (6,16), (8,12)",
+            "D": "(1,96), (3,32), (6,16), (8,12)"
+        }
+    },
+    {
+        "question": "What is 1,123 \u00d7 100?",
+        "answer": "B",
+        "options": {
+            "A": "11,230",
+            "B": "112,300",
+            "C": "1,123,000",
+            "D": "1,123"
+        }
+    },
+    {
+        "question": "What is 196,000 \u00f7 1,000?",
+        "answer": "A",
+        "options": {
+            "A": "196",
+            "B": "1,960",
+            "C": "19.6",
+            "D": "1.96"
+        }
+    },
+    {
+        "question": "Which number is both a square and a cube?",
+        "answer": "D",
+        "options": {
+            "A": "8",
+            "B": "27",
+            "C": "1",
+            "D": "64"
+        }
+    },
+    {
+        "question": "What is 78,901 + 21,098?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 700,000 \u2013 67,890?",
+        "answer": "A",
+        "options": {
+            "A": "632,110",
+            "B": "633,110",
+            "C": "632,010",
+            "D": "631,110"
+        }
+    },
+    {
+        "question": "Which of these is NOT a prime number?",
+        "answer": "B",
+        "options": {
+            "A": "31",
+            "B": "33",
+            "C": "37",
+            "D": "41"
+        }
+    },
+    {
+        "question": "What is 220 \u00d7 49?",
+        "answer": "A",
+        "options": {
+            "A": "10,780",
+            "B": "9,780",
+            "C": "11,780",
+            "D": "10,180"
+        }
+    },
+    {
+        "question": "What is 12,960 \u00f7 12?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which number is a common factor of 108 and 144?",
+        "answer": "C",
+        "options": {
+            "A": "18",
+            "B": "24",
+            "C": "36",
+            "D": "48"
+        }
+    },
+    {
+        "question": "What is 789 \u00d7 20?",
+        "answer": "A",
+        "options": {
+            "A": "15,780",
+            "B": "14,780",
+            "C": "16,780",
+            "D": "15,680"
+        }
+    },
+    {
+        "question": "What is 17,280 \u00f7 16?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which of these equals 21\u00b2?",
+        "answer": "A",
+        "options": {
+            "A": "441",
+            "B": "42",
+            "C": "400",
+            "D": "484"
+        }
+    },
+    {
+        "question": "What is 8,250 \u00d7 4?",
+        "answer": "A",
+        "options": {
+            "A": "33,000",
+            "B": "32,000",
+            "C": "34,000",
+            "D": "31,000"
+        }
+    },
+    {
+        "question": "What is 19,440 \u00f7 18?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which number is a multiple of both 10 and 18?",
+        "answer": "A",
+        "options": {
+            "A": "90",
+            "B": "100",
+            "C": "108",
+            "D": "120"
+        }
+    },
+    {
+        "question": "What is 89,012 + 10,987?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 800,000 \u2013 89,012?",
+        "answer": "A",
+        "options": {
+            "A": "710,988",
+            "B": "711,988",
+            "C": "710,888",
+            "D": "709,988"
+        }
+    },
+    {
+        "question": "Which of these is a prime number?",
+        "answer": "B",
+        "options": {
+            "A": "27",
+            "B": "29",
+            "C": "33",
+            "D": "35"
+        }
+    },
+    {
+        "question": "What is 340 \u00d7 32?",
+        "answer": "A",
+        "options": {
+            "A": "10,880",
+            "B": "9,880",
+            "C": "11,880",
+            "D": "10,280"
+        }
+    },
+    {
+        "question": "What is 21,600 \u00f7 20?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which of these equals 17\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "4,913",
+            "B": "289",
+            "C": "4,800",
+            "D": "5,832"
+        }
+    },
+    {
+        "question": "What is 3,050 \u00d7 8?",
+        "answer": "A",
+        "options": {
+            "A": "24,400",
+            "B": "23,400",
+            "C": "25,400",
+            "D": "22,400"
+        }
+    },
+    {
+        "question": "What is 22,680 \u00f7 21?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which of these is NOT a square number?",
+        "answer": "D",
+        "options": {
+            "A": "441",
+            "B": "484",
+            "C": "529",
+            "D": "530"
+        }
+    },
+    {
+        "question": "What is 76,543 + 23,456?",
+        "answer": "A",
+        "options": {
+            "A": "99,999",
+            "B": "100,000",
+            "C": "98,999",
+            "D": "100,099"
+        }
+    },
+    {
+        "question": "What is 650,000 \u2013 123,456?",
+        "answer": "A",
+        "options": {
+            "A": "526,544",
+            "B": "527,544",
+            "C": "526,444",
+            "D": "525,544"
+        }
+    },
+    {
+        "question": "Which number is a prime number?",
+        "answer": "B",
+        "options": {
+            "A": "21",
+            "B": "23",
+            "C": "25",
+            "D": "27"
+        }
+    },
+    {
+        "question": "What is 360 \u00d7 30?",
+        "answer": "A",
+        "options": {
+            "A": "10,800",
+            "B": "9,800",
+            "C": "11,800",
+            "D": "10,200"
+        }
+    },
+    {
+        "question": "What is 23,760 \u00f7 22?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which of these equals 18\u00b3?",
+        "answer": "A",
+        "options": {
+            "A": "5,832",
+            "B": "324",
+            "C": "5,400",
+            "D": "6,859"
+        }
+    },
+    {
+        "question": "What is 3,650 \u00d7 6?",
+        "answer": "A",
+        "options": {
+            "A": "21,900",
+            "B": "20,900",
+            "C": "22,900",
+            "D": "19,900"
+        }
+    },
+    {
+        "question": "What is 24,840 \u00f7 23?",
+        "answer": "A",
+        "options": {
+            "A": "1,080",
+            "B": "980",
+            "C": "1,180",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "Which number is a square number?",
+        "answer": "B",
+        "options": {
+            "A": "520",
+            "B": "529",
+            "C": "540",
+            "D": "550"
+        }
+    },
+    {
+        "question": "What is 18,742 + 9,563?",
+        "answer": "A",
+        "options": {
+            "A": "28,305",
+            "B": "28,205",
+            "C": "27,305",
+            "D": "28,405"
+        }
+    },
+    {
+        "question": "What is 36,200 \u2013 14,875?",
+        "answer": "A",
+        "options": {
+            "A": "21,325",
+            "B": "21,425",
+            "C": "22,325",
+            "D": "22,425"
+        }
+    },
+    {
+        "question": "Which is the best estimate for 72,340 \u2013 28,675?",
+        "answer": "C",
+        "options": {
+            "A": "40,000",
+            "B": "43,000",
+            "C": "44,000",
+            "D": "45,000"
+        }
+    },
+    {
+        "question": "A library has 15,230 books. It buys 3,480 more and donates 1,925. How many books does it have now?",
+        "answer": "A",
+        "options": {
+            "A": "16,785",
+            "B": "16,885",
+            "C": "17,785",
+            "D": "17,885"
+        }
+    },
+    {
+        "question": "What is 25,000 \u2013 7,400 mentally?",
+        "answer": "B",
+        "options": {
+            "A": "17,400",
+            "B": "17,600",
+            "C": "18,400",
+            "D": "18,600"
+        }
+    },
+    {
+        "question": "Which number sentence is correct?",
+        "answer": "A",
+        "options": {
+            "A": "42,150 \u2013 8,300 = 33,850",
+            "B": "42,150 \u2013 8,300 = 34,850",
+            "C": "42,150 \u2013 8,300 = 33,750",
+            "D": "42,150 \u2013 8,300 = 34,750"
+        }
+    },
+    {
+        "question": "Round 54,728 and 19,384 to the nearest thousand and subtract.",
+        "answer": "A",
+        "options": {
+            "A": "35,000",
+            "B": "36,000",
+            "C": "34,000",
+            "D": "37,000"
+        }
+    },
+    {
+        "question": "A train travels 24,500 metres in the morning and 18,750 metres in the afternoon. How far did it travel altogether?",
+        "answer": "B",
+        "options": {
+            "A": "42,250 m",
+            "B": "43,250 m",
+            "C": "44,250 m",
+            "D": "45,250 m"
+        }
+    },
+    {
+        "question": "What is 60,000 \u2013 27,486?",
+        "answer": "A",
+        "options": {
+            "A": "32,514",
+            "B": "33,514",
+            "C": "32,414",
+            "D": "33,414"
+        }
+    },
+    {
+        "question": "Which is equal to 30,000 \u2013 4,200?",
+        "answer": "B",
+        "options": {
+            "A": "25,200",
+            "B": "25,800",
+            "C": "26,200",
+            "D": "26,800"
+        }
+    },
+    {
+        "question": "Which pair are both factors of 48?",
+        "answer": "B",
+        "options": {
+            "A": "5 and 9",
+            "B": "6 and 8",
+            "C": "7 and 7",
+            "D": "9 and 6"
+        }
+    },
+    {
+        "question": "What is the greatest common factor of 18 and 24?",
+        "answer": "C",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        }
+    },
+    {
+        "question": "Which number is prime?",
+        "answer": "D",
+        "options": {
+            "A": "25",
+            "B": "26",
+            "C": "27",
+            "D": "23"
+        }
+    },
+    {
+        "question": "How many factor pairs does 28 have?",
+        "answer": "B",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        }
+    },
+    {
+        "question": "Which number is NOT a prime number up to 19?",
+        "answer": "C",
+        "options": {
+            "A": "11",
+            "B": "13",
+            "C": "15",
+            "D": "17"
+        }
+    },
+    {
+        "question": "What is 3,124 \u00d7 6?",
+        "answer": "A",
+        "options": {
+            "A": "18,744",
+            "B": "18,644",
+            "C": "17,744",
+            "D": "17,644"
+        }
+    },
+    {
+        "question": "What is 2,045 \u00d7 14?",
+        "answer": "A",
+        "options": {
+            "A": "28,630",
+            "B": "27,630",
+            "C": "28,530",
+            "D": "27,530"
+        }
+    },
+    {
+        "question": "What is 36 \u00d7 25 mentally?",
+        "answer": "B",
+        "options": {
+            "A": "800",
+            "B": "900",
+            "C": "1,000",
+            "D": "1,100"
+        }
+    },
+    {
+        "question": "What is 5,184 \u00f7 9?",
+        "answer": "A",
+        "options": {
+            "A": "576",
+            "B": "567",
+            "C": "586",
+            "D": "596"
+        }
+    },
+    {
+        "question": "A factory makes 1,250 toys each day for 8 days. How many toys are made?",
+        "answer": "B",
+        "options": {
+            "A": "9,000",
+            "B": "10,000",
+            "C": "11,000",
+            "D": "12,000"
+        }
+    },
+    {
+        "question": "What is 840 \u00f7 100?",
+        "answer": "B",
+        "options": {
+            "A": "0.84",
+            "B": "8.4",
+            "C": "84",
+            "D": "840"
+        }
+    },
+    {
+        "question": "What is 0.56 \u00d7 1,000?",
+        "answer": "C",
+        "options": {
+            "A": "5.6",
+            "B": "56",
+            "C": "560",
+            "D": "5,600"
+        }
+    },
+    {
+        "question": "What is 9,300 \u00f7 10?",
+        "answer": "B",
+        "options": {
+            "A": "93",
+            "B": "930",
+            "C": "9,300",
+            "D": "93,000"
+        }
+    },
+    {
+        "question": "Which number is 1,000 times larger than 4.7?",
+        "answer": "C",
+        "options": {
+            "A": "47",
+            "B": "470",
+            "C": "4,700",
+            "D": "47,000"
+        }
+    },
+    {
+        "question": "What is 7\u00b2 \u2013 5\u00b2?",
+        "answer": "B",
+        "options": {
+            "A": "20",
+            "B": "24",
+            "C": "28",
+            "D": "32"
+        }
+    },
+    {
+        "question": "Which of these is NOT a cube number?",
+        "answer": "D",
+        "options": {
+            "A": "8",
+            "B": "27",
+            "C": "64",
+            "D": "100"
+        }
+    },
+    {
+        "question": "What is 4\u00b3?",
+        "answer": "C",
+        "options": {
+            "A": "12",
+            "B": "16",
+            "C": "64",
+            "D": "81"
+        }
+    },
+    {
+        "question": "Which equals 9\u00b2?",
+        "answer": "C",
+        "options": {
+            "A": "9 + 9",
+            "B": "9 \u00d7 2",
+            "C": "9 \u00d7 9",
+            "D": "81 \u00f7 9"
+        }
+    },
+    {
+        "question": "What is 64 \u00f7 8?",
+        "answer": "C",
+        "options": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "9"
+        }
+    },
+    {
+        "question": "Which number is both a square and a cube less than 100?",
+        "answer": "C",
+        "options": {
+            "A": "16",
+            "B": "36",
+            "C": "64",
+            "D": "81"
+        }
+    },
+    {
+        "question": "If 9 \u00d7 ? = 4,500, what is the missing number?",
+        "answer": "B",
+        "options": {
+            "A": "50",
+            "B": "500",
+            "C": "5,000",
+            "D": "450"
+        }
+    },
+    {
+        "question": "What is 6,000 \u00f7 100?",
+        "answer": "B",
+        "options": {
+            "A": "6",
+            "B": "60",
+            "C": "600",
+            "D": "6,000"
+        }
+    },
+    {
+        "question": "Which shows 5\u00b3 correctly?",
+        "answer": "C",
+        "options": {
+            "A": "5 + 5 + 5",
+            "B": "5 \u00d7 3",
+            "C": "5 \u00d7 5 \u00d7 5",
+            "D": "15 \u00d7 5"
+        }
+    },
+    {
+        "question": "What is 16 \u00d7 12 using mental maths?",
+        "answer": "B",
+        "options": {
+            "A": "182",
+            "B": "192",
+            "C": "202",
+            "D": "212"
+        }
+    },
+    {
+        "question": "A baker makes 3,840 cupcakes and packs them in boxes of 8. How many boxes are needed?",
+        "answer": "C",
+        "options": {
+            "A": "460",
+            "B": "470",
+            "C": "480",
+            "D": "490"
+        }
+    },
+    {
+        "question": "Which number is a multiple of both 8 and 12?",
+        "answer": "A",
+        "options": {
+            "A": "24",
+            "B": "32",
+            "C": "36",
+            "D": "40"
+        }
+    },
+    {
+        "question": "What is 35 \u00d7 20?",
+        "answer": "B",
+        "options": {
+            "A": "600",
+            "B": "700",
+            "C": "800",
+            "D": "900"
+        }
+    },
+    {
+        "question": "Which shows the distributive property?",
+        "answer": "B",
+        "options": {
+            "A": "4 \u00d7 (5 + 3) = 4 \u00d7 5 + 3",
+            "B": "4 \u00d7 (5 + 3) = 4 \u00d7 5 + 4 \u00d7 3",
+            "C": "4 \u00d7 (5 + 3) = 4 + 5 \u00d7 3",
+            "D": "4 \u00d7 (5 + 3) = 20 + 3"
+        }
+    },
+    {
+        "question": "What is 8,100 \u00f7 9?",
+        "answer": "B",
+        "options": {
+            "A": "800",
+            "B": "900",
+            "C": "1,000",
+            "D": "1,100"
+        }
+    },
+    {
+        "question": "Which equation is true?",
+        "answer": "B",
+        "options": {
+            "A": "19 + 21 = 20 + 19",
+            "B": "19 + 21 = 18 + 22",
+            "C": "19 + 21 = 17 + 23",
+            "D": "19 + 21 = 15 + 25"
+        }
+    },
+    {
+        "question": "What is 22,456 + 13,789?",
+        "answer": "A",
+        "options": {
+            "A": "36,245",
+            "B": "36,145",
+            "C": "35,245",
+            "D": "35,145"
+        }
+    },
+    {
+        "question": "What is 45,000 \u2013 18,634?",
+        "answer": "A",
+        "options": {
+            "A": "26,366",
+            "B": "27,366",
+            "C": "26,466",
+            "D": "27,466"
+        }
+    },
+    {
+        "question": "Estimate 63,800 + 27,400 by rounding to the nearest 10,000.",
+        "answer": "B",
+        "options": {
+            "A": "80,000",
+            "B": "90,000",
+            "C": "100,000",
+            "D": "110,000"
+        }
+    },
+    {
+        "question": "A shop had \u00a328,500 in sales in January, \u00a312,750 more in February. What were total sales?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a341,250",
+            "B": "\u00a340,250",
+            "C": "\u00a339,250",
+            "D": "\u00a342,250"
+        }
+    },
+    {
+        "question": "What is 30,000 \u2013 9,600 mentally?",
+        "answer": "B",
+        "options": {
+            "A": "19,400",
+            "B": "20,400",
+            "C": "21,400",
+            "D": "22,400"
+        }
+    },
+    {
+        "question": "Which is correct?",
+        "answer": "A",
+        "options": {
+            "A": "56,200 \u2013 14,500 = 41,700",
+            "B": "56,200 \u2013 14,500 = 42,700",
+            "C": "56,200 \u2013 14,500 = 41,600",
+            "D": "56,200 \u2013 14,500 = 42,600"
+        }
+    },
+    {
+        "question": "Round 82,450 and 37,680 to nearest thousand and add.",
+        "answer": "A",
+        "options": {
+            "A": "120,000",
+            "B": "121,000",
+            "C": "119,000",
+            "D": "122,000"
+        }
+    },
+    {
+        "question": "A stadium has 42,300 seats. 15,875 are sold. How many are empty?",
+        "answer": "A",
+        "options": {
+            "A": "26,425",
+            "B": "27,425",
+            "C": "26,525",
+            "D": "27,525"
+        }
+    },
+    {
+        "question": "What is 70,000 \u2013 34,567?",
+        "answer": "A",
+        "options": {
+            "A": "35,433",
+            "B": "36,433",
+            "C": "35,533",
+            "D": "36,533"
+        }
+    },
+    {
+        "question": "Which equals 40,000 \u2013 6,300?",
+        "answer": "A",
+        "options": {
+            "A": "33,700",
+            "B": "34,700",
+            "C": "33,300",
+            "D": "34,300"
+        }
+    },
+    {
+        "question": "Which are both factors of 60?",
+        "answer": "B",
+        "options": {
+            "A": "7 and 8",
+            "B": "5 and 12",
+            "C": "9 and 6",
+            "D": "10 and 7"
+        }
+    },
+    {
+        "question": "What is the greatest common factor of 20 and 30?",
+        "answer": "C",
+        "options": {
+            "A": "5",
+            "B": "6",
+            "C": "10",
+            "D": "15"
+        }
+    },
+    {
+        "question": "Which is prime?",
+        "answer": "C",
+        "options": {
+            "A": "33",
+            "B": "35",
+            "C": "37",
+            "D": "39"
+        }
+    },
+    {
+        "question": "How many factor pairs does 32 have?",
+        "answer": "B",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        }
+    },
+    {
+        "question": "Which is NOT prime?",
+        "answer": "D",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "9"
+        }
+    },
+    {
+        "question": "What is 4,231 \u00d7 5?",
+        "answer": "A",
+        "options": {
+            "A": "21,155",
+            "B": "21,055",
+            "C": "20,155",
+            "D": "20,055"
+        }
+    },
+    {
+        "question": "What is 1,756 \u00d7 13?",
+        "answer": "A",
+        "options": {
+            "A": "22,828",
+            "B": "21,828",
+            "C": "22,728",
+            "D": "21,728"
+        }
+    },
+    {
+        "question": "What is 44 \u00d7 25 mentally?",
+        "answer": "B",
+        "options": {
+            "A": "1,000",
+            "B": "1,100",
+            "C": "1,200",
+            "D": "1,300"
+        }
+    },
+    {
+        "question": "What is 6,336 \u00f7 8?",
+        "answer": "A",
+        "options": {
+            "A": "792",
+            "B": "782",
+            "C": "772",
+            "D": "762"
+        }
+    },
+    {
+        "question": "A school buys 25 laptops at \u00a3840 each. What is the total cost?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a320,000",
+            "B": "\u00a321,000",
+            "C": "\u00a322,000",
+            "D": "\u00a323,000"
+        }
+    },
+    {
+        "question": "What is 2.45 \u00d7 100?",
+        "answer": "B",
+        "options": {
+            "A": "24.5",
+            "B": "245",
+            "C": "2,450",
+            "D": "0.245"
+        }
+    },
+    {
+        "question": "What is 560 \u00f7 1,000?",
+        "answer": "B",
+        "options": {
+            "A": "0.056",
+            "B": "0.56",
+            "C": "5.6",
+            "D": "56"
+        }
+    },
+    {
+        "question": "What is 0.07 \u00d7 10?",
+        "answer": "A",
+        "options": {
+            "A": "0.7",
+            "B": "7",
+            "C": "70",
+            "D": "0.07"
+        }
+    },
+    {
+        "question": "Which is 100 times smaller than 5.6?",
+        "answer": "A",
+        "options": {
+            "A": "0.056",
+            "B": "0.56",
+            "C": "56",
+            "D": "560"
+        }
+    },
+    {
+        "question": "What is 9\u00b2 \u2013 6\u00b2?",
+        "answer": "B",
+        "options": {
+            "A": "40",
+            "B": "45",
+            "C": "50",
+            "D": "55"
+        }
+    },
+    {
+        "question": "Which is a cube number?",
+        "answer": "C",
+        "options": {
+            "A": "12",
+            "B": "25",
+            "C": "27",
+            "D": "30"
+        }
+    },
+    {
+        "question": "What is 6\u00b2?",
+        "answer": "B",
+        "options": {
+            "A": "12",
+            "B": "36",
+            "C": "64",
+            "D": "49"
+        }
+    },
+    {
+        "question": "Which equals 10\u00b3?",
+        "answer": "C",
+        "options": {
+            "A": "100",
+            "B": "30",
+            "C": "1,000",
+            "D": "10,000"
+        }
+    },
+    {
+        "question": "What is 81 \u00f7 9?",
+        "answer": "C",
+        "options": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "10"
+        }
+    },
+    {
+        "question": "Which number is a square but not a cube?",
+        "answer": "C",
+        "options": {
+            "A": "1",
+            "B": "64",
+            "C": "81",
+            "D": "27"
+        }
+    },
+    {
+        "question": "If 8 \u00d7 ? = 5,600, what is the missing number?",
+        "answer": "B",
+        "options": {
+            "A": "70",
+            "B": "700",
+            "C": "7,000",
+            "D": "560"
+        }
+    },
+    {
+        "question": "What is 7,000 \u00f7 100?",
+        "answer": "B",
+        "options": {
+            "A": "7",
+            "B": "70",
+            "C": "700",
+            "D": "7,000"
+        }
+    },
+    {
+        "question": "Which is 5\u00b2 + 5?",
+        "answer": "B",
+        "options": {
+            "A": "25",
+            "B": "30",
+            "C": "35",
+            "D": "40"
+        }
+    },
+    {
+        "question": "What is 18 \u00d7 15 mentally?",
+        "answer": "C",
+        "options": {
+            "A": "250",
+            "B": "260",
+            "C": "270",
+            "D": "280"
+        }
+    },
+    {
+        "question": "A farmer harvests 5,040 kg of potatoes and bags them in 7 kg bags. How many bags?",
+        "answer": "C",
+        "options": {
+            "A": "700",
+            "B": "710",
+            "C": "720",
+            "D": "730"
+        }
+    },
+    {
+        "question": "Which is a multiple of 7 and 9?",
+        "answer": "B",
+        "options": {
+            "A": "56",
+            "B": "63",
+            "C": "72",
+            "D": "81"
+        }
+    },
+    {
+        "question": "What is 45 \u00d7 30?",
+        "answer": "B",
+        "options": {
+            "A": "1,250",
+            "B": "1,350",
+            "C": "1,450",
+            "D": "1,550"
+        }
+    },
+    {
+        "question": "Which shows distributive property?",
+        "answer": "B",
+        "options": {
+            "A": "3 \u00d7 (4 + 5) = 3 \u00d7 4 + 5",
+            "B": "3 \u00d7 (4 + 5) = 3 \u00d7 4 + 3 \u00d7 5",
+            "C": "3 \u00d7 (4 + 5) = 12 + 5",
+            "D": "3 \u00d7 (4 + 5) = 3 + 20"
+        }
+    },
+    {
+        "question": "What is 7,200 \u00f7 8?",
+        "answer": "B",
+        "options": {
+            "A": "800",
+            "B": "900",
+            "C": "1,000",
+            "D": "1,100"
+        }
+    },
+    {
+        "question": "Which is true?",
+        "answer": "B",
+        "options": {
+            "A": "25 + 35 = 26 + 33",
+            "B": "25 + 35 = 24 + 36",
+            "C": "25 + 35 = 20 + 40",
+            "D": "25 + 35 = 30 + 30"
+        }
+    }
+]

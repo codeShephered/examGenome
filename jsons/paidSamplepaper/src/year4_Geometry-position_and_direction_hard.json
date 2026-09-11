@@ -1,0 +1,1546 @@
+[
+  {
+    "qid": 1,
+    "question": "What are the coordinates of point B in the given grid?",
+    "options": {
+      "A": "(2, 4)",
+      "B": "(4, 2)",
+      "C": "(3, 5)",
+      "D": "(5, 3)"
+    },
+    "answer": "B",
+    "explanation": "The coordinates of a point are given as (x, y), where x is the horizontal distance from the origin and y is the vertical distance. Point B is 4 units to the right and 2 units up from the origin.",
+    "difficulty": "hard",
+    "imgFileName": "1_Year4-Geometry-position_and_direction_hard.png",
+    "used": 0,
+    "type": "Year4-Geometry-position_and_direction"
+  },
+
+  {
+    "qid": 2,
+    "question": "If a point is translated 3 units to the right and 2 units up from (1, 1), what are its new coordinates?",
+    "options": {
+      "A": "(3, 4)",
+      "B": "(4, 3)",
+      "C": "(2, 2)",
+      "D": "(1, 3)"
+    },
+    "answer": "B",
+    "explanation": "Translating a point 3 units to the right increases the x-coordinate by 3, and translating 2 units up increases the y-coordinate by 2. So, (1 + 3, 1 + 2) = (4, 3).",
+    "difficulty": "hard",
+    "imgFileName": "2_Year4-Geometry-position_and_direction_hard.png",
+    "used": 0,
+    "type": "Year4-Geometry-position_and_direction"
+  },
+
+  {
+    "qid": 3,
+    "question": "Which of the following points lies on the line y = x + 1?",
+    "options": {
+      "A": "(2, 2)",
+      "B": "(3, 4)",
+      "C": "(1, 3)",
+      "D": "(4, 3)"
+    },
+    "answer": "B",
+    "explanation": "Substitute the x-coordinate into the equation y = x + 1. For (3, 4), y = 3 + 1 = 4, which matches the y-coordinate.",
+    "difficulty": "hard",
+    "imgFileName": "3_Year4-Geometry-position_and_direction_hard.png",
+    "used": 0,
+    "type": "Year4-Geometry-position_and_direction"
+  },
+
+  {
+    "qid": 4,
+    "question": "What is the coordinate of the point that is 5 units to the left and 3 units down from (7, 6)?",
+    "options": {
+      "A": "(2, 3)",
+      "B": "(12, 9)",
+      "C": "(7, 3)",
+      "D": "(5, 7)"
+    },
+    "answer": "A",
+    "explanation": "Moving 5 units to the left decreases the x-coordinate by 5, and moving 3 units down decreases the y-coordinate by 3. So, (7 - 5, 6 - 3) = (2, 3).",
+    "difficulty": "hard",
+    "imgFileName": "4_Year4-Geometry-position_and_direction_hard.png",
+    "used": 0,
+    "type": "Year4-Geometry-position_and_direction"
+  },
+
+  {
+    "qid": 5,
+    "question": "Which of the following coordinates represents a point that is 4 units to the right and 1 unit up from (2, 3)?",
+    "options": {
+      "A": "(6, 4)",
+      "B": "(5, 4)",
+      "C": "(4, 2)",
+      "D": "(3, 5)"
+    },
+    "answer": "A",
+    "explanation": "Moving 4 units to the right increases the x-coordinate by 4, and moving 1 unit up increases the y-coordinate by 1. So, (2 + 4, 3 + 1) = (6, 4).",
+    "difficulty": "hard",
+    "imgFileName": "5_Year4-Geometry-position_and_direction_hard.png",
+    "used": 0,
+    "type": "Year4-Geometry-position_and_direction"
+  },
+
+  {
+    "qid": 6,
+    "question": "What are the coordinates of the point that is 2 units to the left and 5 units up from (3, 1)?",
+    "options": {
+      "A": "(1, 6)",
+      "B": "(5, 6)",
+      "C": "(1, 2)",
+      "D": "(2, 5)"
+    },
+    "answer": "A",
+    "explanation": "Moving 2 units to the left decreases the x-coordinate by 2, and moving 5 units up increases the y-coordinate by 5. So, (3 - 2, 1 + 5) = (1, 6).",
+    "difficulty": "hard",
+    "imgFileName": "6_Year4-Geometry-position_and_direction_hard.png",
+    "used": 0,
+    "type": "Year4-Geometry-position_and_direction"
+  },
+
+  {
+    "qid": 7,
+    "question": "Which of the following points is not on the line y = 2x - 1?",
+    "options": {
+      "A": "(1, 1)",
+      "B": "(2, 3)",
+      "C": "(3, 5)",
+      "D": "(2, 7)"
+    },
+    "answer": "D",
+    "explanation": "Substitute the x-coordinate into the equation y = 2x - 1. For (2, 7), y = 2(2) - 1 = 3, which matches the y-coordinate. However, (2, 7) is not on the line because it does not satisfy the equation.",
+    "difficulty": "hard",
+    "imgFileName": "7_Year4-Geometry-position_and_direction_hard.png",
+    "used": 0,
+    "type": "Year4-Geometry-position_and_direction"
+  },
+
+  {
+    "qid": 8,
+    "question": "What are the coordinates of the point that is 6 units to the right and 2 units down from (1, 5)?",
+    "options": {
+      "A": "(7, 3)",
+      "B": "(5, 7)",
+      "C": "(3, 6)",
+      "D": "(6, 4)"
+    },
+    "answer": "A",
+    "explanation": "Moving 6 units to the right increases the x-coordinate by 6, and moving 2 units down decreases the y-coordinate by 2. So, (1 + 6, 5 - 2) = (7, 3).",
+    "difficulty": "hard",
+    "imgFileName": "8_Year4-Geometry-position_and_direction_hard.png",
+    "used": 0,
+    "type": "Year4-Geometry-position_and_direction"
+  },
+
+  {
+    "qid": 9,
+    "question": "Which of the following points lies on the line y = 3x?",
+    "options": {
+      "A": "(1, 4)",
+      "B": "(2, 6)",
+      "C": "(3, 8)",
+      "D": "(4, 10)"
+    },
+    "answer": "B",
+    "explanation": "Substitute the x-coordinate into the equation y = 3x. For (2, 6), y = 3(2) = 6, which matches the y-coordinate.",
+    "difficulty": "hard",
+    "imgFileName": "9_Year4-Geometry-position_and_direction_hard.png",
+    "used": 0,
+    "type": "Year4-Geometry-position_and_direction"
+  },
+
+  {
+    "qid": 10,
+    "question": "What are the coordinates of the point that is 3 units to the left and 4 units down from (5, 7)?",
+    "options": {
+      "A": "(2, 3)",
+      "B": "(8, 11)",
+      "C": "(3, 2)",
+      "D": "(4, 4)"
+    },
+    "answer": "A",
+    "explanation": "Moving 3 units to the left decreases the x-coordinate by 3, and moving 4 units down decreases the y-coordinate by 4. So, (5 - 3, 7 - 4) = (2, 3).",
+    "difficulty": "hard",
+    "imgFileName": "10_Year4-Geometry-position_and_direction_hard.png",
+    "used": 0,
+    "type": "Year4-Geometry-position_and_direction"
+  },
+  {
+    "qid": 11,
+    "question": "What are the coordinates of point A in the given grid?",
+    "options": {
+      "A": "(5, 3)",
+      "B": "(3, 5)",
+      "C": "(4, 4)",
+      "D": "(2, 6)"
+    },
+    "answer": "B",
+    "explanation": "The coordinates of point A are determined by its position on the grid. Point A is 3 units to the right and 5 units up from the origin.",
+    "difficulty": "hard",
+    "imgFileName": "11_Year4-Geometry-position_and_direction_hard.png",
+    "used": 0,
+    "type": "Year4-Geometry-position_and_direction"
+  },
+ {
+   "qid": 21,
+   "question": "What are the coordinates of the point that is 5 units to the right and 3 units up from (2, 1)?",
+   "options": {
+     "A": "(7, 4)",
+     "B": "(5, 2)",
+     "C": "(3, 6)",
+     "D": "(1, 8)"
+   },
+   "answer": "A",
+   "explanation": "Moving 5 units to the right increases the x-coordinate by 5, and moving 3 units up increases the y-coordinate by 3. So, (2 + 5, 1 + 3) = (7, 4).",
+   "difficulty": "hard",
+   "imgFileName": "21_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 22,
+   "question": "Which of the following points lies on the line y = 2x + 1?",
+   "options": {
+     "A": "(1, 4)",
+     "B": "(2, 5)",
+     "C": "(3, 7)",
+     "D": "(4, 8)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 2x + 1. For (2, 5), y = 2(2) + 1 = 5, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "22_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 23,
+   "question": "What are the coordinates of the point that is 4 units to the left and 6 units down from (8, 7)?",
+   "options": {
+     "A": "(4, 1)",
+     "B": "(2, 3)",
+     "C": "(6, 5)",
+     "D": "(5, 9)"
+   },
+   "answer": "A",
+   "explanation": "Moving 4 units to the left decreases the x-coordinate by 4, and moving 6 units down decreases the y-coordinate by 6. So, (8 - 4, 7 - 6) = (4, 1).",
+   "difficulty": "hard",
+   "imgFileName": "23_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 24,
+   "question": "Which of the following points lies on the line y = x - 3?",
+   "options": {
+     "A": "(5, 3)",
+     "B": "(4, 1)",
+     "C": "(6, 4)",
+     "D": "(3, 0)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = x - 3. For (4, 1), y = 4 - 3 = 1, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "24_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 25,
+   "question": "What are the coordinates of the point that is 7 units to the right and 2 units down from (1, 5)?",
+   "options": {
+     "A": "(8, 3)",
+     "B": "(7, 4)",
+     "C": "(6, 2)",
+     "D": "(9, 1)"
+   },
+   "answer": "A",
+   "explanation": "Moving 7 units to the right increases the x-coordinate by 7, and moving 2 units down decreases the y-coordinate by 2. So, (1 + 7, 5 - 2) = (8, 3).",
+   "difficulty": "hard",
+   "imgFileName": "25_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 26,
+   "question": "Which of the following points lies on the line y = 3x - 2?",
+   "options": {
+     "A": "(1, 1)",
+     "B": "(2, 4)",
+     "C": "(3, 7)",
+     "D": "(4, 10)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 3x - 2. For (2, 4), y = 3(2) - 2 = 4, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "26_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 27,
+   "question": "What are the coordinates of the point that is 3 units to the left and 5 units up from (6, 2)?",
+   "options": {
+     "A": "(3, 7)",
+     "B": "(4, 5)",
+     "C": "(2, 9)",
+     "D": "(5, 3)"
+   },
+   "answer": "A",
+   "explanation": "Moving 3 units to the left decreases the x-coordinate by 3, and moving 5 units up increases the y-coordinate by 5. So, (6 - 3, 2 + 5) = (3, 7).",
+   "difficulty": "hard",
+   "imgFileName": "27_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 28,
+   "question": "Which of the following points lies on the line y = 4x?",
+   "options": {
+     "A": "(1, 5)",
+     "B": "(2, 8)",
+     "C": "(3, 10)",
+     "D": "(4, 14)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 4x. For (2, 8), y = 4(2) = 8, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "28_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 29,
+   "question": "What are the coordinates of the point that is 2 units to the right and 7 units down from (3, 9)?",
+   "options": {
+     "A": "(5, 2)",
+     "B": "(4, 3)",
+     "C": "(6, 1)",
+     "D": "(7, 4)"
+   },
+   "answer": "A",
+   "explanation": "Moving 2 units to the right increases the x-coordinate by 2, and moving 7 units down decreases the y-coordinate by 7. So, (3 + 2, 9 - 7) = (5, 2).",
+   "difficulty": "hard",
+   "imgFileName": "29_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 30,
+   "question": "Which of the following points lies on the line y = x + 5?",
+   "options": {
+     "A": "(1, 7)",
+     "B": "(2, 6)",
+     "C": "(3, 8)",
+     "D": "(4, 9)"
+   },
+   "answer": "C",
+   "explanation": "Substitute the x-coordinate into the equation y = x + 5. For (3, 8), y = 3 + 5 = 8, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "30_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 31,
+   "question": "What are the coordinates of the point that is 6 units to the left and 1 unit up from (9, 3)?",
+   "options": {
+     "A": "(3, 4)",
+     "B": "(4, 2)",
+     "C": "(5, 5)",
+     "D": "(2, 6)"
+   },
+   "answer": "A",
+   "explanation": "Moving 6 units to the left decreases the x-coordinate by 6, and moving 1 unit up increases the y-coordinate by 1. So, (9 - 6, 3 + 1) = (3, 4).",
+   "difficulty": "hard",
+   "imgFileName": "31_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 32,
+   "question": "Which of the following points lies on the line y = 2x - 3?",
+   "options": {
+     "A": "(1, -1)",
+     "B": "(2, 3)",
+     "C": "(3, 5)",
+     "D": "(4, 7)"
+   },
+   "answer": "A",
+   "explanation": "Substitute the x-coordinate into the equation y = 2x - 3. For (1, -1), y = 2(1) - 3 = -1, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "32_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 33,
+   "question": "What are the coordinates of the point that is 5 units to the right and 4 units down from (2, 8)?",
+   "options": {
+     "A": "(7, 4)",
+     "B": "(6, 5)",
+     "C": "(8, 3)",
+     "D": "(9, 2)"
+   },
+   "answer": "A",
+   "explanation": "Moving 5 units to the right increases the x-coordinate by 5, and moving 4 units down decreases the y-coordinate by 4. So, (2 + 5, 8 - 4) = (7, 4).",
+   "difficulty": "hard",
+   "imgFileName": "33_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 34,
+   "question": "Which of the following points lies on the line y = 5x?",
+   "options": {
+     "A": "(1, 6)",
+     "B": "(2, 10)",
+     "C": "(3, 12)",
+     "D": "(4, 18)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 5x. For (2, 10), y = 5(2) = 10, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "34_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 35,
+   "question": "What are the coordinates of the point that is 4 units to the left and 3 units up from (7, 1)?",
+   "options": {
+     "A": "(3, 4)",
+     "B": "(4, 3)",
+     "C": "(5, 2)",
+     "D": "(2, 5)"
+   },
+   "answer": "A",
+   "explanation": "Moving 4 units to the left decreases the x-coordinate by 4, and moving 3 units up increases the y-coordinate by 3. So, (7 - 4, 1 + 3) = (3, 4).",
+   "difficulty": "hard",
+   "imgFileName": "35_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 36,
+   "question": "Which of the following points lies on the line y = x - 4?",
+   "options": {
+     "A": "(5, 2)",
+     "B": "(6, 2)",
+     "C": "(7, 4)",
+     "D": "(8, 5)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = x - 4. For (6, 3), y = 6 - 4 = 2",
+   "difficulty": "hard",
+   "imgFileName": "36_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 37,
+   "question": "What are the coordinates of the point that is 8 units to the right and 2 units down from (1, 6)?",
+   "options": {
+     "A": "(9, 4)",
+     "B": "(8, 5)",
+     "C": "(7, 6)",
+     "D": "(6, 7)"
+   },
+   "answer": "A",
+   "explanation": "Moving 8 units to the right increases the x-coordinate by 8, and moving 2 units down decreases the y-coordinate by 2. So, (1 + 8, 6 - 2) = (9, 4).",
+   "difficulty": "hard",
+   "imgFileName": "37_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 38,
+   "question": "Which of the following points lies on the line y = 3x + 2?",
+   "options": {
+     "A": "(1, 5)",
+     "B": "(2, 8)",
+     "C": "(3, 11)",
+     "D": "(4, 14)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 3x + 2. For (2, 8), y = 3(2) + 2 = 8, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "38_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 39,
+   "question": "What are the coordinates of the point that is 7 units to the left and 5 units up from (8, 2)?",
+   "options": {
+     "A": "(1, 7)",
+     "B": "(2, 6)",
+     "C": "(3, 5)",
+     "D": "(4, 4)"
+   },
+   "answer": "A",
+   "explanation": "Moving 7 units to the left decreases the x-coordinate by 7, and moving 5 units up increases the y-coordinate by 5. So, (8 - 7, 2 + 5) = (1, 7).",
+   "difficulty": "hard",
+   "imgFileName": "39_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 40,
+   "question": "Which of the following points lies on the line y = 2x + 1?",
+   "options": {
+     "A": "(1, 4)",
+     "B": "(2, 5)",
+     "C": "(3, 6)",
+     "D": "(4, 9)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 2x + 1. For (2, 5), y = 2(2) + 1 = 5, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "40_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 41,
+   "question": "What are the coordinates of the point that is 3 units to the right and 6 units up from (4, 1)?",
+   "options": {
+     "A": "(7, 7)",
+     "B": "(6, 8)",
+     "C": "(5, 9)",
+     "D": "(8, 6)"
+   },
+   "answer": "A",
+   "explanation": "Moving 3 units to the right increases the x-coordinate by 3, and moving 6 units up increases the y-coordinate by 6. So, (4 + 3, 1 + 6) = (7, 7).",
+   "difficulty": "hard",
+   "imgFileName": "41_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 42,
+   "question": "Which of the following points lies on the line y = 4x - 1?",
+   "options": {
+     "A": "(1, 4)",
+     "B": "(2, 7)",
+     "C": "(3, 11)",
+     "D": "(4, 15)"
+   },
+   "answer": "C",
+   "explanation": "Substitute the x-coordinate into the equation y = 4x - 1. For (3, 11), y = 4(3) - 1 = 11, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "42_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 43,
+   "question": "What are the coordinates of the point that is 5 units to the left and 4 units down from (9, 7)?",
+   "options": {
+     "A": "(4, 3)",
+     "B": "(5, 2)",
+     "C": "(6, 1)",
+     "D": "(7, 0)"
+   },
+   "answer": "A",
+   "explanation": "Moving 5 units to the left decreases the x-coordinate by 5, and moving 4 units down decreases the y-coordinate by 4. So, (9 - 5, 7 - 4) = (4, 3).",
+   "difficulty": "hard",
+   "imgFileName": "43_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 44,
+   "question": "Which of the following points lies on the line y = x + 3?",
+   "options": {
+     "A": "(1, 5)",
+     "B": "(3, 6)",
+     "C": "(3, 7)",
+     "D": "(4, 8)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = x + 3. For (2, 6), y = 3 + 3 = 6",
+   "difficulty": "hard",
+   "imgFileName": "44_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 45,
+   "question": "What are the coordinates of the point that is 6 units to the right and 3 units down from (3, 8)?",
+   "options": {
+     "A": "(9, 5)",
+     "B": "(8, 6)",
+     "C": "(7, 7)",
+     "D": "(6, 8)"
+   },
+   "answer": "A",
+   "explanation": "Moving 6 units to the right increases the x-coordinate by 6, and moving 3 units down decreases the y-coordinate by 3. So, (3 + 6, 8 - 3) = (9, 5).",
+   "difficulty": "hard",
+   "imgFileName": "45_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 46,
+   "question": "Which of the following points lies on the line y = 5x + 2?",
+   "options": {
+     "A": "(1, 8)",
+     "B": "(2, 12)",
+     "C": "(3, 17)",
+     "D": "(4, 22)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 5x + 2. For (2, 12), y = 5(2) + 2 = 12, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "46_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 47,
+   "question": "What are the coordinates of the point that is 2 units to the left and 7 units up from (5, 3)?",
+   "options": {
+     "A": "(3, 10)",
+     "B": "(4, 9)",
+     "C": "(5, 8)",
+     "D": "(6, 7)"
+   },
+   "answer": "A",
+   "explanation": "Moving 2 units to the left decreases the x-coordinate by 2, and moving 7 units up increases the y-coordinate by 7. So, (5 - 2, 3 + 7) = (3, 10).",
+   "difficulty": "hard",
+   "imgFileName": "47_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 48,
+   "question": "Which of the following points lies on the line y = 2x - 4?",
+   "options": {
+     "A": "(1, -2)",
+     "B": "(2, 0)",
+     "C": "(3, 3)",
+     "D": "(4, 5)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 2x - 4. For (2, 0), y = 2(2) - 4 = 0, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "48_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 49,
+   "question": "What are the coordinates of the point that is 4 units to the right and 5 units down from (6, 9)?",
+   "options": {
+     "A": "(10, 4)",
+     "B": "(9, 5)",
+     "C": "(8, 6)",
+     "D": "(7, 7)"
+   },
+   "answer": "A",
+   "explanation": "Moving 4 units to the right increases the x-coordinate by 4, and moving 5 units down decreases the y-coordinate by 5. So, (6 + 4, 9 - 5) = (10, 4).",
+   "difficulty": "hard",
+   "imgFileName": "49_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 50,
+   "question": "Which of the following points lies on the line y = 3x + 1?",
+   "options": {
+     "A": "(1, 5)",
+     "B": "(2, 7)",
+     "C": "(3, 10)",
+     "D": "(4, 13)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 3x + 1. For (2, 7), y = 3(2) + 1 = 7, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "50_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 51,
+   "question": "What are the coordinates of the point that is 5 units to the left and 2 units up from (7, 4)?",
+   "options": {
+     "A": "(2, 6)",
+     "B": "(3, 5)",
+     "C": "(4, 4)",
+     "D": "(5, 3)"
+   },
+   "answer": "A",
+   "explanation": "Moving 5 units to the left decreases the x-coordinate by 5, and moving 2 units up increases the y-coordinate by 2. So, (7 - 5, 4 + 2) = (2, 6).",
+   "difficulty": "hard",
+   "imgFileName": "51_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 52,
+   "question": "Which of the following points lies on the line y = x + 4?",
+   "options": {
+     "A": "(2, 6)",
+     "B": "(2, 7)",
+     "C": "(3, 8)",
+     "D": "(4, 9)"
+   },
+   "answer": "A",
+   "explanation": "Substitute the x-coordinate into the equation y = x + 4. For (2, 6), y = 2 + 4 = 6",
+   "difficulty": "hard",
+   "imgFileName": "52_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 53,
+   "question": "What are the coordinates of the point that is 6 units to the right and 4 units up from (3, 2)?",
+   "options": {
+     "A": "(9, 6)",
+     "B": "(8, 5)",
+     "C": "(7, 4)",
+     "D": "(6, 3)"
+   },
+   "answer": "A",
+   "explanation": "Moving 6 units to the right increases the x-coordinate by 6, and moving 4 units up increases the y-coordinate by 4. So, (3 + 6, 2 + 4) = (9, 6).",
+   "difficulty": "hard",
+   "imgFileName": "53_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 54,
+   "question": "Which of the following points lies on the line y = 2x + 3?",
+   "options": {
+     "A": "(1, 6)",
+     "B": "(2, 7)",
+     "C": "(3, 9)",
+     "D": "(4, 11)"
+   },
+   "answer": "C",
+   "explanation": "Substitute the x-coordinate into the equation y = 2x + 3. For (3, 9), y = 2(3) + 3 = 9, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "54_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 55,
+   "question": "What are the coordinates of the point that is 3 units to the left and 6 units down from (8, 7)?",
+   "options": {
+     "A": "(5, 1)",
+     "B": "(6, 2)",
+     "C": "(7, 3)",
+     "D": "(4, 4)"
+   },
+   "answer": "A",
+   "explanation": "Moving 3 units to the left decreases the x-coordinate by 3, and moving 6 units down decreases the y-coordinate by 6. So, (8 - 3, 7 - 6) = (5, 1).",
+   "difficulty": "hard",
+   "imgFileName": "55_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 56,
+   "question": "Which of the following points lies on the line y = 4x - 2?",
+   "options": {
+     "A": "(1, 3)",
+     "B": "(2, 6)",
+     "C": "(3, 10)",
+     "D": "(4, 14)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 4x - 2. For (2, 6), y = 4(2) - 2 = 6, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "56_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 57,
+   "question": "What are the coordinates of the point that is 7 units to the right and 1 unit down from (2, 5)?",
+   "options": {
+     "A": "(9, 4)",
+     "B": "(8, 5)",
+     "C": "(7, 6)",
+     "D": "(6, 7)"
+   },
+   "answer": "A",
+   "explanation": "Moving 7 units to the right increases the x-coordinate by 7, and moving 1 unit down decreases the y-coordinate by 1. So, (2 + 7, 5 - 1) = (9, 4).",
+   "difficulty": "hard",
+   "imgFileName": "57_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 58,
+   "question": "Which of the following points lies on the line y = 3x?",
+   "options": {
+     "A": "(1, 4)",
+     "B": "(2, 6)",
+     "C": "(3, 8)",
+     "D": "(4, 10)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 3x. For (2, 6), y = 3(2) = 6, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "58_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 59,
+   "question": "What are the coordinates of the point that is 4 units to the left and 3 units up from (9, 1)?",
+   "options": {
+     "A": "(5, 4)",
+     "B": "(6, 3)",
+     "C": "(7, 2)",
+     "D": "(8, 0)"
+   },
+   "answer": "A",
+   "explanation": "Moving 4 units to the left decreases the x-coordinate by 4, and moving 3 units up increases the y-coordinate by 3. So, (9 - 4, 1 + 3) = (5, 4).",
+   "difficulty": "hard",
+   "imgFileName": "59_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 60,
+   "question": "Which of the following points lies on the line y = x - 2?",
+   "options": {
+     "A": "(3, 2)",
+     "B": "(4, 2)",
+     "C": "(5, 4)",
+     "D": "(6, 5)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = x - 2. For (4, 2), y = 4 - 2 = 2",
+   "difficulty": "hard",
+   "imgFileName": "60_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 61,
+   "question": "What are the coordinates of the point that is 8 units to the right and 2 units down from (1, 6)?",
+   "options": {
+     "A": "(9, 4)",
+     "B": "(8, 5)",
+     "C": "(7, 6)",
+     "D": "(6, 7)"
+   },
+   "answer": "A",
+   "explanation": "Moving 8 units to the right increases the x-coordinate by 8, and moving 2 units down decreases the y-coordinate by 2. So, (1 + 8, 6 - 2) = (9, 4).",
+   "difficulty": "hard",
+   "imgFileName": "61_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 62,
+   "question": "Which of the following points lies on the line y = 2x + 5?",
+   "options": {
+     "A": "(1, 8)",
+     "B": "(2, 9)",
+     "C": "(3, 11)",
+     "D": "(4, 13)"
+   },
+   "answer": "C",
+   "explanation": "Substitute the x-coordinate into the equation y = 2x + 5. For (3, 11), y = 2(3) + 5 = 11, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "62_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 63,
+   "question": "What are the coordinates of the point that is 3 units to the right and 7 units up from (4, 2)?",
+   "options": {
+     "A": "(7, 9)",
+     "B": "(6, 8)",
+     "C": "(5, 7)",
+     "D": "(8, 6)"
+   },
+   "answer": "A",
+   "explanation": "Moving 3 units to the right increases the x-coordinate by 3, and moving 7 units up increases the y-coordinate by 7. So, (4 + 3, 2 + 7) = (7, 9).",
+   "difficulty": "hard",
+   "imgFileName": "63_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 64,
+   "question": "Which of the following points lies on the line y = 5x - 3?",
+   "options": {
+     "A": "(1, 3)",
+     "B": "(2, 7)",
+     "C": "(3, 12)",
+     "D": "(4, 17)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 5x - 3. For (2, 7), y = 5(2) - 3 = 7, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "64_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 65,
+   "question": "What are the coordinates of the point that is 2 units to the left and 4 units down from (7, 8)?",
+   "options": {
+     "A": "(5, 4)",
+     "B": "(6, 5)",
+     "C": "(7, 6)",
+     "D": "(4, 3)"
+   },
+   "answer": "A",
+   "explanation": "Moving 2 units to the left decreases the x-coordinate by 2, and moving 4 units down decreases the y-coordinate by 4. So, (7 - 2, 8 - 4) = (5, 4).",
+   "difficulty": "hard",
+   "imgFileName": "65_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 66,
+   "question": "Which of the following points lies on the line y = x + 6?",
+   "options": {
+     "A": "(1, 8)",
+     "B": "(3, 9)",
+     "C": "(3, 10)",
+     "D": "(4, 11)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = x + 6. For (3, 9), y = 3 + 6 = 9",
+   "difficulty": "hard",
+   "imgFileName": "66_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 67,
+   "question": "What are the coordinates of the point that is 5 units to the right and 3 units down from (2, 9)?",
+   "options": {
+     "A": "(7, 6)",
+     "B": "(6, 7)",
+     "C": "(8, 5)",
+     "D": "(9, 4)"
+   },
+   "answer": "A",
+   "explanation": "Moving 5 units to the right increases the x-coordinate by 5, and moving 3 units down decreases the y-coordinate by 3. So, (2 + 5, 9 - 3) = (7, 6).",
+   "difficulty": "hard",
+   "imgFileName": "67_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 68,
+   "question": "Which of the following points lies on the line y = 3x + 4?",
+   "options": {
+     "A": "(1, 8)",
+     "B": "(2, 10)",
+     "C": "(3, 13)",
+     "D": "(4, 16)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 3x + 4. For (2, 10), y = 3(2) + 4 = 10, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "68_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 69,
+   "question": "What are the coordinates of the point that is 6 units to the left and 2 units up from (8, 3)?",
+   "options": {
+     "A": "(2, 5)",
+     "B": "(3, 4)",
+     "C": "(4, 3)",
+     "D": "(5, 2)"
+   },
+   "answer": "A",
+   "explanation": "Moving 6 units to the left decreases the x-coordinate by 6, and moving 2 units up increases the y-coordinate by 2. So, (8 - 6, 3 + 2) = (2, 5).",
+   "difficulty": "hard",
+   "imgFileName": "69_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 70,
+   "question": "Which of the following points lies on the line y = 2x - 5?",
+   "options": {
+     "A": "(3, 2)",
+     "B": "(4, 3)",
+     "C": "(5, 5)",
+     "D": "(6, 7)"
+   },
+   "answer": "C",
+   "explanation": "Substitute the x-coordinate into the equation y = 2x - 5. For (5, 5), y = 2(5) - 5 = 5, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "70_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 71,
+   "question": "What are the coordinates of the point that is 7 units to the right and 4 units up from (1, 2)?",
+   "options": {
+     "A": "(8, 6)",
+     "B": "(7, 5)",
+     "C": "(9, 4)",
+     "D": "(6, 3)"
+   },
+   "answer": "A",
+   "explanation": "Moving 7 units to the right increases the x-coordinate by 7, and moving 4 units up increases the y-coordinate by 4. So, (1 + 7, 2 + 4) = (8, 6).",
+   "difficulty": "hard",
+   "imgFileName": "71_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 72,
+   "question": "Which of the following points lies on the line y = 4x + 1?",
+   "options": {
+     "A": "(1, 6)",
+     "B": "(2, 9)",
+     "C": "(3, 13)",
+     "D": "(4, 17)"
+   },
+   "answer": "C",
+   "explanation": "Substitute the x-coordinate into the equation y = 4x + 1. For (3, 13), y = 4(3) + 1 = 13, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "72_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 73,
+   "question": "What are the coordinates of the point that is 4 units to the left and 5 units down from (9, 6)?",
+   "options": {
+     "A": "(5, 1)",
+     "B": "(6, 2)",
+     "C": "(7, 3)",
+     "D": "(4, 4)"
+   },
+   "answer": "A",
+   "explanation": "Moving 4 units to the left decreases the x-coordinate by 4, and moving 5 units down decreases the y-coordinate by 5. So, (9 - 4, 6 - 5) = (5, 1).",
+   "difficulty": "hard",
+   "imgFileName": "73_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 74,
+   "question": "Which of the following points lies on the line y = x - 1?",
+   "options": {
+     "A": "(2, 1)",
+     "B": "(3, 3)",
+     "C": "(4, 4)",
+     "D": "(5, 5)"
+   },
+   "answer": "A",
+   "explanation": "Substitute the x-coordinate into the equation y = x - 1. For (2, 1), y = 2 - 1 = 1",
+   "difficulty": "hard",
+   "imgFileName": "74_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 75,
+   "question": "What are the coordinates of the point that is 5 units to the right and 2 units up from (3, 4)?",
+   "options": {
+     "A": "(8, 6)",
+     "B": "(7, 5)",
+     "C": "(9, 4)",
+     "D": "(6, 3)"
+   },
+   "answer": "A",
+   "explanation": "Moving 5 units to the right increases the x-coordinate by 5, and moving 2 units up increases the y-coordinate by 2. So, (3 + 5, 4 + 2) = (8, 6).",
+   "difficulty": "hard",
+   "imgFileName": "75_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 76,
+   "question": "Which of the following points lies on the line y = 3x - 2?",
+   "options": {
+     "A": "(1, 2)",
+     "B": "(2, 4)",
+     "C": "(3, 7)",
+     "D": "(4, 10)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 3x - 2. For (2, 4), y = 3(2) - 2 = 4, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "76_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 77,
+   "question": "What are the coordinates of the point that is 6 units to the left and 3 units down from (7, 5)?",
+   "options": {
+     "A": "(1, 2)",
+     "B": "(2, 3)",
+     "C": "(3, 4)",
+     "D": "(4, 5)"
+   },
+   "answer": "A",
+   "explanation": "Moving 6 units to the left decreases the x-coordinate by 6, and moving 3 units down decreases the y-coordinate by 3. So, (7 - 6, 5 - 3) = (1, 2).",
+   "difficulty": "hard",
+   "imgFileName": "77_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 78,
+   "question": "Which of the following points lies on the line y = 2x + 3?",
+   "options": {
+     "A": "(1, 6)",
+     "B": "(2, 7)",
+     "C": "(3, 9)",
+     "D": "(4, 11)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 2x + 3. For (2, 7), y = 2(2) + 3 = 7, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "78_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 79,
+   "question": "What are the coordinates of the point that is 3 units to the right and 4 units down from (5, 8)?",
+   "options": {
+     "A": "(8, 4)",
+     "B": "(7, 5)",
+     "C": "(6, 6)",
+     "D": "(9, 3)"
+   },
+   "answer": "A",
+   "explanation": "Moving 3 units to the right increases the x-coordinate by 3, and moving 4 units down decreases the y-coordinate by 4. So, (5 + 3, 8 - 4) = (8, 4).",
+   "difficulty": "hard",
+   "imgFileName": "79_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 80,
+   "question": "Which of the following points lies on the line y = 5x?",
+   "options": {
+     "A": "(1, 6)",
+     "B": "(2, 10)",
+     "C": "(3, 15)",
+     "D": "(4, 20)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 5x. For (2, 10), y = 5(2) = 10, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "80_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 81,
+   "question": "What are the coordinates of the point that is 2 units to the left and 5 units up from (6, 3)?",
+   "options": {
+     "A": "(4, 8)",
+     "B": "(5, 7)",
+     "C": "(6, 6)",
+     "D": "(7, 5)"
+   },
+   "answer": "A",
+   "explanation": "Moving 2 units to the left decreases the x-coordinate by 2, and moving 5 units up increases the y-coordinate by 5. So, (6 - 2, 3 + 5) = (4, 8).",
+   "difficulty": "hard",
+   "imgFileName": "81_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 82,
+   "question": "Which of the following points lies on the line y = x + 2?",
+   "options": {
+     "A": "(1, 4)",
+     "B": "(3, 5)",
+     "C": "(3, 6)",
+     "D": "(4, 7)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = x + 2. For (3, 5), y = 3 + 2 = 5",
+   "difficulty": "hard",
+   "imgFileName": "82_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 83,
+   "question": "What are the coordinates of the point that is 4 units to the right and 1 unit down from (2, 6)?",
+   "options": {
+     "A": "(6, 5)",
+     "B": "(5, 6)",
+     "C": "(7, 4)",
+     "D": "(8, 3)"
+   },
+   "answer": "A",
+   "explanation": "Moving 4 units to the right increases the x-coordinate by 4, and moving 1 unit down decreases the y-coordinate by 1. So, (2 + 4, 6 - 1) = (6, 5).",
+   "difficulty": "hard",
+   "imgFileName": "83_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 84,
+   "question": "Which of the following points lies on the line y = 3x - 1?",
+   "options": {
+     "A": "(1, 3)",
+     "B": "(2, 5)",
+     "C": "(3, 8)",
+     "D": "(4, 11)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 3x - 1. For (2, 5), y = 3(2) - 1 = 5, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "84_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 85,
+   "question": "What are the coordinates of the point that is 5 units to the left and 2 units up from (8, 4)?",
+   "options": {
+     "A": "(3, 6)",
+     "B": "(4, 5)",
+     "C": "(5, 4)",
+     "D": "(6, 3)"
+   },
+   "answer": "A",
+   "explanation": "Moving 5 units to the left decreases the x-coordinate by 5, and moving 2 units up increases the y-coordinate by 2. So, (8 - 5, 4 + 2) = (3, 6).",
+   "difficulty": "hard",
+   "imgFileName": "85_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 86,
+   "question": "Which of the following points lies on the line y = 2x + 4?",
+   "options": {
+     "A": "(1, 7)",
+     "B": "(2, 8)",
+     "C": "(3, 10)",
+     "D": "(4, 12)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 2x + 4. For (2, 8), y = 2(2) + 4 = 8, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "86_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 87,
+   "question": "What are the coordinates of the point that is 3 units to the right and 6 units down from (4, 9)?",
+   "options": {
+     "A": "(7, 3)",
+     "B": "(6, 4)",
+     "C": "(5, 5)",
+     "D": "(8, 2)"
+   },
+   "answer": "A",
+   "explanation": "Moving 3 units to the right increases the x-coordinate by 3, and moving 6 units down decreases the y-coordinate by 6. So, (4 + 3, 9 - 6) = (7, 3).",
+   "difficulty": "hard",
+   "imgFileName": "87_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 88,
+   "question": "Which of the following points lies on the line y = 4x + 2?",
+   "options": {
+     "A": "(1, 7)",
+     "B": "(2, 10)",
+     "C": "(3, 14)",
+     "D": "(4, 18)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 4x + 2. For (2, 10), y = 4(2) + 2 = 10, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "88_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 89,
+   "question": "What are the coordinates of the point that is 6 units to the left and 4 units up from (9, 2)?",
+   "options": {
+     "A": "(3, 6)",
+     "B": "(4, 5)",
+     "C": "(5, 4)",
+     "D": "(6, 3)"
+   },
+   "answer": "A",
+   "explanation": "Moving 6 units to the left decreases the x-coordinate by 6, and moving 4 units up increases the y-coordinate by 4. So, (9 - 6, 2 + 4) = (3, 6).",
+   "difficulty": "hard",
+   "imgFileName": "89_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 90,
+   "question": "Which of the following points lies on the line y = x - 5?",
+   "options": {
+     "A": "(6, 2)",
+     "B": "(7, 2)",
+     "C": "(8, 4)",
+     "D": "(9, 5)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = x - 5. For (7, 2), y = 7 - 5 = 2",
+   "difficulty": "hard",
+   "imgFileName": "90_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 91,
+   "question": "What are the coordinates of the point that is 7 units to the right and 3 units down from (2, 8)?",
+   "options": {
+     "A": "(9, 5)",
+     "B": "(8, 6)",
+     "C": "(7, 7)",
+     "D": "(6, 8)"
+   },
+   "answer": "A",
+   "explanation": "Moving 7 units to the right increases the x-coordinate by 7, and moving 3 units down decreases the y-coordinate by 3. So, (2 + 7, 8 - 3) = (9, 5).",
+   "difficulty": "hard",
+   "imgFileName": "91_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 92,
+   "question": "Which of the following points lies on the line y = 3x + 5?",
+   "options": {
+     "A": "(1, 9)",
+     "B": "(2, 11)",
+     "C": "(3, 14)",
+     "D": "(4, 17)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 3x + 5. For (2, 11), y = 3(2) + 5 = 11, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "92_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 93,
+   "question": "What are the coordinates of the point that is 4 units to the left and 2 units down from (7, 5)?",
+   "options": {
+     "A": "(3, 3)",
+     "B": "(4, 4)",
+     "C": "(5, 2)",
+     "D": "(6, 1)"
+   },
+   "answer": "A",
+   "explanation": "Moving 4 units to the left decreases the x-coordinate by 4, and moving 2 units down decreases the y-coordinate by 2. So, (7 - 4, 5 - 2) = (3, 3).",
+   "difficulty": "hard",
+   "imgFileName": "93_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 94,
+   "question": "Which of the following points lies on the line y = 2x - 6?",
+   "options": {
+     "A": "(3, 1)",
+     "B": "(4, 2)",
+     "C": "(5, 4)",
+     "D": "(6, 6)"
+   },
+   "answer": "C",
+   "explanation": "Substitute the x-coordinate into the equation y = 2x - 6. For (5, 4), y = 2(5) - 6 = 4, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "94_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 95,
+   "question": "What are the coordinates of the point that is 5 units to the right and 4 units up from (3, 2)?",
+   "options": {
+     "A": "(8, 6)",
+     "B": "(7, 5)",
+     "C": "(9, 4)",
+     "D": "(6, 3)"
+   },
+   "answer": "A",
+   "explanation": "Moving 5 units to the right increases the x-coordinate by 5, and moving 4 units up increases the y-coordinate by 4. So, (3 + 5, 2 + 4) = (8, 6).",
+   "difficulty": "hard",
+   "imgFileName": "95_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 96,
+   "question": "Which of the following points lies on the line y = 5x - 4?",
+   "options": {
+     "A": "(1, 2)",
+     "B": "(2, 6)",
+     "C": "(3, 11)",
+     "D": "(4, 16)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 5x - 4. For (2, 6), y = 5(2) - 4 = 6, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "96_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 97,
+   "question": "What are the coordinates of the point that is 6 units to the left and 5 units up from (8, 1)?",
+   "options": {
+     "A": "(2, 6)",
+     "B": "(3, 5)",
+     "C": "(4, 4)",
+     "D": "(5, 3)"
+   },
+   "answer": "A",
+   "explanation": "Moving 6 units to the left decreases the x-coordinate by 6, and moving 5 units up increases the y-coordinate by 5. So, (8 - 6, 1 + 5) = (2, 6).",
+   "difficulty": "hard",
+   "imgFileName": "97_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 98,
+   "question": "Which of the following points lies on the line y = x + 7?",
+   "options": {
+     "A": "(1, 9)",
+     "B": "(3, 10)",
+     "C": "(3, 11)",
+     "D": "(4, 12)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = x + 7. For (3, 10), y = 3 + 7 = 10",
+   "difficulty": "hard",
+   "imgFileName": "98_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 99,
+   "question": "What are the coordinates of the point that is 3 units to the right and 7 units down from (5, 9)?",
+   "options": {
+     "A": "(8, 2)",
+     "B": "(7, 3)",
+     "C": "(6, 4)",
+     "D": "(9, 1)"
+   },
+   "answer": "A",
+   "explanation": "Moving 3 units to the right increases the x-coordinate by 3, and moving 7 units down decreases the y-coordinate by 7. So, (5 + 3, 9 - 7) = (8, 2).",
+   "difficulty": "hard",
+   "imgFileName": "99_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ },
+
+ {
+   "qid": 100,
+   "question": "Which of the following points lies on the line y = 4x - 3?",
+   "options": {
+     "A": "(1, 2)",
+     "B": "(2, 5)",
+     "C": "(3, 9)",
+     "D": "(4, 13)"
+   },
+   "answer": "B",
+   "explanation": "Substitute the x-coordinate into the equation y = 4x - 3. For (2, 5), y = 4(2) - 3 = 5, which matches the y-coordinate.",
+   "difficulty": "hard",
+   "imgFileName": "100_Year4-Geometry-position_and_direction_hard.png",
+   "used": 0,
+   "type": "Year4-Geometry-position_and_direction"
+ }
+]

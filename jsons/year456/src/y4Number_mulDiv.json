@@ -1,10 +1,11 @@
 [
 {
 "question": "What is 9 × 8?",
-"A": "72",
+"options": {"A":"72",
 "B": "64",
 "C": "81",
-"D": "63",
+"D": "63"
+},
 "answer": "A",
 "details": "9 × 8 = 72 is a standard multiplication fact from the 9 times table.",
 "difficulty": "easy",
@@ -12,10 +13,11 @@
 },
 {
 "question": "What is 144 ÷ 12?",
-"A": "12",
+"options": {"A":"12",
 "B": "11",
 "C": "13",
-"D": "10",
+"D": "10"
+},
 "answer": "A",
 "details": "12 × 12 = 144, so 144 ÷ 12 = 12.",
 "difficulty": "easy",
@@ -23,10 +25,11 @@
 },
 {
 "question": "Which is the same as 7 × 6?",
-"A": "6 × 7",
+"options": {"A":"6 × 7",
 "B": "7 + 6",
 "C": "7 ÷ 6",
-"D": "6 − 7",
+"D": "6 − 7"
+},
 "answer": "A",
 "details": "Multiplication is commutative: 7 × 6 = 6 × 7 = 42.",
 "difficulty": "easy",
@@ -34,10 +37,11 @@
 },
 {
 "question": "What is 500 ÷ 5?",
-"A": "100",
+"options": {"A":"100",
 "B": "50",
 "C": "10",
-"D": "1,000",
+"D": "1,000"
+},
 "answer": "A",
 "details": "500 ÷ 5 = 100 because 5 × 100 = 500.",
 "difficulty": "easy",
@@ -45,10 +49,11 @@
 },
 {
 "question": "What is 2 × 4 × 5 using the associative law?",
-"A": "40",
+"options": {"A":"40",
 "B": "30",
 "C": "50",
-"D": "20",
+"D": "20"
+},
 "answer": "A",
 "details": "Group as (2 × 5) × 4 = 10 × 4 = 40 for easier mental calculation.",
 "difficulty": "easy",
@@ -56,10 +61,11 @@
 },
 {
 "question": "What is 432 × 1?",
-"A": "432",
+"options": {"A":"432",
 "B": "0",
 "C": "1",
-"D": "433",
+"D": "433"
+},
 "answer": "A",
 "details": "Any number multiplied by 1 remains unchanged.",
 "difficulty": "easy",
@@ -67,10 +73,11 @@
 },
 {
 "question": "What is 0 × 678?",
-"A": "0",
+"options": {"A":"0",
 "B": "678",
 "C": "1",
-"D": "6780",
+"D": "6780"
+},
 "answer": "A",
 "details": "Any number multiplied by 0 equals 0.",
 "difficulty": "easy",
@@ -78,10 +85,11 @@
 },
 {
 "question": "What is 753 ÷ 1?",
-"A": "753",
+"options": {"A":"753",
 "B": "1",
 "C": "0",
-"D": "754",
+"D": "754"
+},
 "answer": "A",
 "details": "Any number divided by 1 equals itself.",
 "difficulty": "easy",
@@ -89,10 +97,11 @@
 },
 {
 "question": "Which is a factor pair of 36?",
-"A": "(6, 6)",
+"options": {"A":"(6, 6)",
 "B": "(5, 7)",
 "C": "(4, 8)",
-"D": "(3, 10)",
+"D": "(3, 10)"
+},
 "answer": "A",
 "details": "6 × 6 = 36, so (6,6) is a factor pair.",
 "difficulty": "easy",
@@ -100,10 +109,11 @@
 },
 {
 "question": "A menu has 4 starters and 5 main courses. How many meal combinations are there?",
-"A": "20",
+"options": {"A":"20",
 "B": "9",
 "C": "15",
-"D": "25",
+"D": "25"
+},
 "answer": "A",
 "details": "4 × 5 = 20 combinations (correspondence problem).",
 "difficulty": "easy",
@@ -111,10 +121,11 @@
 },
 {
 "question": "Use short multiplication to find 218 × 4.",
-"A": "872",
+"options": {"A":"872",
 "B": "862",
 "C": "882",
-"D": "772",
+"D": "772"
+},
 "answer": "A",
 "details": "Units: 8×4=32 (2, carry 3). Tens: 1×4=4+3=7. Hundreds: 2×4=8. Answer: 872.",
 "difficulty": "medium",
@@ -122,10 +133,11 @@
 },
 {
 "question": "Which expression uses the distributive law correctly for 47 × 6?",
-"A": "(40 × 6) + (7 × 6)",
+"options": {"A":"(40 × 6) + (7 × 6)",
 "B": "(40 + 7) + (6 + 6)",
 "C": "40 × 7 × 6",
-"D": "47 + 6",
+"D": "47 + 6"
+},
 "answer": "A",
 "details": "47 × 6 = (40 + 7) × 6 = (40 × 6) + (7 × 6) = 240 + 42 = 282.",
 "difficulty": "medium",
@@ -133,10 +145,11 @@
 },
 {
 "question": "A school buys 5 boxes of pencils. Each box contains 124 pencils. How many pencils in total?",
-"A": "620",
+"options": {"A":"620",
 "B": "610",
 "C": "630",
-"D": "520",
+"D": "520"
+},
 "answer": "A",
 "details": "5 × 124 = 620.",
 "difficulty": "medium",
@@ -144,10 +157,11 @@
 },
 {
 "question": "What is 2 × 9 × 5 using the associative law?",
-"A": "90",
+"options": {"A":"90",
 "B": "80",
 "C": "100",
-"D": "70",
+"D": "70"
+},
 "answer": "A",
 "details": "Group as (2 × 5) × 9 = 10 × 9 = 90.",
 "difficulty": "medium",
@@ -155,10 +169,11 @@
 },
 {
 "question": "Use short multiplication: 307 × 5.",
-"A": "1,535",
+"options": {"A":"1,535",
 "B": "1,525",
 "C": "1,545",
-"D": "1,435",
+"D": "1,435"
+},
 "answer": "A",
 "details": "Units: 7×5=35 (5, carry 3). Tens: 0×5=0+3=3. Hundreds: 3×5=15. Answer: 1,535.",
 "difficulty": "medium",
@@ -166,10 +181,11 @@
 },
 {
 "question": "What is 840 ÷ 7?",
-"A": "120",
+"options": {"A":"120",
 "B": "110",
 "C": "130",
-"D": "100",
+"D": "100"
+},
 "answer": "A",
 "details": "7 × 120 = 840, so 840 ÷ 7 = 120.",
 "difficulty": "medium",
@@ -177,10 +193,11 @@
 },
 {
 "question": "Which shows commutativity?",
-"A": "13 × 4 = 4 × 13",
+"options": {"A":"13 × 4 = 4 × 13",
 "B": "13 ÷ 4 = 4 ÷ 13",
 "C": "13 + 4 = 4 × 13",
-"D": "13 − 4 = 4 − 13",
+"D": "13 − 4 = 4 − 13"
+},
 "answer": "A",
 "details": "Multiplication is commutative: order doesn’t change the product.",
 "difficulty": "medium",
@@ -188,10 +205,11 @@
 },
 {
 "question": "A toy costs £19. How much for 7 toys?",
-"A": "£133",
+"options": {"A":"£133",
 "B": "£123",
 "C": "£143",
-"D": "£113",
+"D": "£113"
+},
 "answer": "A",
 "details": "19 × 7 = (10×7) + (9×7) = 70 + 63 = 133.",
 "difficulty": "medium",
@@ -199,10 +217,11 @@
 },
 {
 "question": "What is 600 ÷ 6?",
-"A": "100",
+"options": {"A":"100",
 "B": "60",
 "C": "10",
-"D": "600",
+"D": "600"
+},
 "answer": "A",
 "details": "600 ÷ 6 = 100 because 6 × 100 = 600.",
 "difficulty": "medium",
@@ -210,10 +229,11 @@
 },
 {
 "question": "Which is a complete list of factor pairs of 28?",
-"A": "(1,28), (2,14), (4,7)",
+"options": {"A":"(1,28), (2,14), (4,7)",
 "B": "(1,28), (2,14), (3,9)",
 "C": "(2,14), (4,7)",
-"D": "(1,28), (3,10), (4,7)",
+"D": "(1,28), (3,10), (4,7)"
+},
 "answer": "A",
 "details": "All factor pairs multiply to 28: 1×28, 2×14, 4×7.",
 "difficulty": "medium",
@@ -221,10 +241,11 @@
 },
 {
 "question": "Use short multiplication: 452 × 6.",
-"A": "2,712",
+"options": {"A":"2,712",
 "B": "2,702",
 "C": "2,722",
-"D": "2,612",
+"D": "2,612"
+},
 "answer": "A",
 "details": "Units: 2×6=12 (2, carry 1). Tens: 5×6=30+1=31 (1, carry 3). Hundreds: 4×6=24+3=27. Answer: 2,712.",
 "difficulty": "hard",
@@ -232,10 +253,11 @@
 },
 {
 "question": "Which uses the distributive law for 89 × 3?",
-"A": "(80 × 3) + (9 × 3)",
+"options": {"A":"(80 × 3) + (9 × 3)",
 "B": "(80 + 9) + (3 + 3)",
 "C": "80 × 9 × 3",
-"D": "89 + 3",
+"D": "89 + 3"
+},
 "answer": "A",
 "details": "89 × 3 = (80 + 9) × 3 = (80×3) + (9×3) = 240 + 27 = 267.",
 "difficulty": "hard",
@@ -243,10 +265,11 @@
 },
 {
 "question": "A farmer has 8 baskets with 132 apples each. After giving away 250 apples, how many are left?",
-"A": "806",
+"options": {"A":"806",
 "B": "816",
 "C": "796",
-"D": "826",
+"D": "826"
+},
 "answer": "A",
 "details": "Total: 8 × 132 = 1,056. Left: 1,056 − 250 = 806.",
 "difficulty": "hard",
@@ -254,10 +277,11 @@
 },
 {
 "question": "What is 4 × 7 × 5 using the associative law?",
-"A": "140",
+"options": {"A":"140",
 "B": "130",
 "C": "150",
-"D": "120",
+"D": "120"
+},
 "answer": "A",
 "details": "Group as (4 × 5) × 7 = 20 × 7 = 140.",
 "difficulty": "hard",
@@ -265,10 +289,11 @@
 },
 {
 "question": "Use short multiplication: 609 × 7.",
-"A": "4,263",
+"options": {"A":"4,263",
 "B": "4,253",
 "C": "4,273",
-"D": "4,163",
+"D": "4,163"
+},
 "answer": "A",
 "details": "Units: 9×7=63 (3, carry 6). Tens: 0×7=0+6=6. Hundreds: 6×7=42. Answer: 4,263.",
 "difficulty": "hard",
@@ -276,10 +301,11 @@
 },
 {
 "question": "What is 912 ÷ 8?",
-"A": "114",
+"options": {"A":"114",
 "B": "113",
 "C": "115",
-"D": "104",
+"D": "104"
+},
 "answer": "A",
 "details": "8 × 114 = 912. 8×100=800, 8×14=112; 800+112=912.",
 "difficulty": "hard",
@@ -287,10 +313,11 @@
 },
 {
 "question": "Which number has exactly 4 factor pairs?",
-"A": "24",
+"options": {"A":"24",
 "B": "20",
 "C": "30",
-"D": "All of the above",
+"D": "All of the above"
+},
 "answer": "D",
 "details": "24: (1,24),(2,12),(3,8),(4,6). 20: (1,20),(2,10),(4,5). Wait—20 has 3 pairs. Correction: 30 has (1,30),(2,15),(3,10),(5,6) → 4 pairs. 24 also has 4. 20 has 3. So answer is not D. To avoid error, revise: Which number has exactly 4 factor pairs? A) 24 B) 18 C) 16 D) 12. A) 24 has 4: (1,24),(2,12),(3,8),(4,6). B) 18: (1,18),(2,9),(3,6) → 3. C) 16: (1,16),(2,8),(4,4) → 3. D) 12: (1,12),(2,6),(3,4) → 3. So A is correct. But to maintain flow, we replace with a verified question:",
 "difficulty": "hard",
@@ -298,10 +325,11 @@
 },
 {
 "question": "Which number has exactly 4 factor pairs?",
-"A": "24",
+"options": {"A":"24",
 "B": "18",
 "C": "16",
-"D": "12",
+"D": "12"
+},
 "answer": "A",
 "details": "24 has factor pairs: (1,24), (2,12), (3,8), (4,6) — total of 4.",
 "difficulty": "hard",
@@ -309,10 +337,11 @@
 },
 {
 "question": "A concert hall has 12 rows of 36 seats. If each ticket costs £15, what is the total income when full?",
-"A": "£6,480",
+"options": {"A":"£6,480",
 "B": "£5,480",
 "C": "£6,380",
-"D": "£6,580",
+"D": "£6,580"
+},
 "answer": "A",
 "details": "Total seats: 12 × 36 = 432. Income: 432 × 15 = (400×15)+(32×15)=6,000+480=6,480.",
 "difficulty": "hard",
@@ -320,10 +349,11 @@
 },
 {
 "question": "What is 500 × 0?",
-"A": "0",
+"options": {"A":"0",
 "B": "500",
 "C": "1",
-"D": "5,000",
+"D": "5,000"
+},
 "answer": "A",
 "details": "Any number multiplied by 0 is 0.",
 "difficulty": "easy",
@@ -331,10 +361,11 @@
 },
 {
 "question": "What is 11 × 12?",
-"A": "132",
+"options": {"A":"132",
 "B": "121",
 "C": "144",
-"D": "110",
+"D": "110"
+},
 "answer": "A",
 "details": "11 × 12 = 132.",
 "difficulty": "easy",
@@ -342,10 +373,11 @@
 },
 {
 "question": "What is 320 ÷ 8?",
-"A": "40",
+"options": {"A":"40",
 "B": "30",
 "C": "50",
-"D": "4",
+"D": "4"
+},
 "answer": "A",
 "details": "8 × 40 = 320, so 320 ÷ 8 = 40.",
 "difficulty": "easy",
@@ -353,10 +385,11 @@
 },
 {
 "question": "Which is a factor pair of 45?",
-"A": "(5, 9)",
+"options": {"A":"(5, 9)",
 "B": "(6, 8)",
 "C": "(4, 11)",
-"D": "(3, 14)",
+"D": "(3, 14)"
+},
 "answer": "A",
 "details": "5 × 9 = 45.",
 "difficulty": "easy",
@@ -364,10 +397,11 @@
 },
 {
 "question": "3 ice cream flavours and 4 toppings: how many combinations?",
-"A": "12",
+"options": {"A":"12",
 "B": "7",
 "C": "10",
-"D": "15",
+"D": "15"
+},
 "answer": "A",
 "details": "3 × 4 = 12.",
 "difficulty": "easy",
@@ -375,10 +409,11 @@
 },
 {
 "question": "Use short multiplication: 129 × 6.",
-"A": "774",
+"options": {"A":"774",
 "B": "764",
 "C": "784",
-"D": "674",
+"D": "674"
+},
 "answer": "A",
 "details": "Units: 9×6=54 (4, carry 5). Tens: 2×6=12+5=17 (7, carry 1). Hundreds: 1×6=6+1=7. Answer: 774.",
 "difficulty": "medium",
@@ -386,10 +421,11 @@
 },
 {
 "question": "What is 58 × 4 using the distributive law?",
-"A": "(50 × 4) + (8 × 4)",
+"options": {"A":"(50 × 4) + (8 × 4)",
 "B": "(50 + 8) + (4 + 4)",
 "C": "50 × 8 × 4",
-"D": "58 + 4",
+"D": "58 + 4"
+},
 "answer": "A",
 "details": "58 × 4 = (50 + 8) × 4 = 200 + 32 = 232.",
 "difficulty": "medium",
@@ -397,10 +433,11 @@
 },
 {
 "question": "A book costs £13. If a class of 24 students each buys one, what is the total cost?",
-"A": "£312",
+"options": {"A":"£312",
 "B": "£302",
 "C": "£322",
-"D": "£212",
+"D": "£212"
+},
 "answer": "A",
 "details": "24 × 13 = (20×13)+(4×13)=260+52=312.",
 "difficulty": "medium",
@@ -408,10 +445,11 @@
 },
 {
 "question": "What is 3 × 6 × 5 using the associative law?",
-"A": "90",
+"options": {"A":"90",
 "B": "80",
 "C": "100",
-"D": "70",
+"D": "70"
+},
 "answer": "A",
 "details": "(3 × 5) × 6 = 15 × 6 = 90.",
 "difficulty": "medium",
@@ -419,10 +457,11 @@
 },
 {
 "question": "What is 720 ÷ 9?",
-"A": "80",
+"options": {"A":"80",
 "B": "70",
 "C": "90",
-"D": "60",
+"D": "60"
+},
 "answer": "A",
 "details": "9 × 80 = 720.",
 "difficulty": "medium",
@@ -430,10 +469,11 @@
 },
 {
 "question": "Use short multiplication: 275 × 4.",
-"A": "1,100",
+"options": {"A":"1,100",
 "B": "1,090",
 "C": "1,110",
-"D": "1,000",
+"D": "1,000"
+},
 "answer": "A",
 "details": "Units: 5×4=20 (0, carry 2). Tens: 7×4=28+2=30 (0, carry 3). Hundreds: 2×4=8+3=11. Answer: 1,100.",
 "difficulty": "medium",
@@ -441,10 +481,11 @@
 },
 {
 "question": "What is 810 ÷ 9?",
-"A": "90",
+"options": {"A":"90",
 "B": "80",
 "C": "100",
-"D": "70",
+"D": "70"
+},
 "answer": "A",
 "details": "9 × 90 = 810.",
 "difficulty": "medium",
@@ -452,10 +493,11 @@
 },
 {
 "question": "Which is NOT a factor of 60?",
-"A": "7",
+"options": {"A":"7",
 "B": "5",
 "C": "12",
-"D": "6",
+"D": "6"
+},
 "answer": "A",
 "details": "60 ÷ 7 is not a whole number.",
 "difficulty": "medium",
@@ -463,10 +505,11 @@
 },
 {
 "question": "8 pens cost £24. What is the cost of one pen?",
-"A": "£3",
+"options": {"A":"£3",
 "B": "£4",
 "C": "£2",
-"D": "£6",
+"D": "£6"
+},
 "answer": "A",
 "details": "24 ÷ 8 = 3.",
 "difficulty": "medium",
@@ -474,10 +517,11 @@
 },
 {
 "question": "What is 1 × 999?",
-"A": "999",
+"options": {"A":"999",
 "B": "1",
 "C": "0",
-"D": "1,000",
+"D": "1,000"
+},
 "answer": "A",
 "details": "Multiplying by 1 leaves the number unchanged.",
 "difficulty": "easy",
@@ -485,10 +529,11 @@
 },
 {
 "question": "Use short multiplication: 512 × 3.",
-"A": "1,536",
+"options": {"A":"1,536",
 "B": "1,526",
 "C": "1,546",
-"D": "1,436",
+"D": "1,436"
+},
 "answer": "A",
 "details": "Units: 2×3=6. Tens: 1×3=3. Hundreds: 5×3=15. Answer: 1,536.",
 "difficulty": "medium",
@@ -496,10 +541,11 @@
 },
 {
 "question": "What is 42 ÷ 1?",
-"A": "42",
+"options": {"A":"42",
 "B": "1",
 "C": "0",
-"D": "41",
+"D": "41"
+},
 "answer": "A",
 "details": "Dividing by 1 leaves the number unchanged.",
 "difficulty": "easy",
@@ -507,10 +553,11 @@
 },
 {
 "question": "A shop sells 7 boxes of chocolates. Each box has 15 chocolates. How many chocolates in total?",
-"A": "105",
+"options": {"A":"105",
 "B": "95",
 "C": "115",
-"D": "85",
+"D": "85"
+},
 "answer": "A",
 "details": "7 × 15 = 105.",
 "difficulty": "easy",
@@ -518,10 +565,11 @@
 },
 {
 "question": "What is 12 × 11 × 1?",
-"A": "132",
+"options": {"A":"132",
 "B": "121",
 "C": "144",
-"D": "120",
+"D": "120"
+},
 "answer": "A",
 "details": "12 × 11 = 132; 132 × 1 = 132.",
 "difficulty": "medium",
@@ -529,10 +577,11 @@
 },
 {
 "question": "Use short multiplication: 387 × 5.",
-"A": "1,935",
+"options": {"A":"1,935",
 "B": "1,925",
 "C": "1,945",
-"D": "1,835",
+"D": "1,835"
+},
 "answer": "A",
 "details": "Units: 7×5=35 (5, carry 3). Tens: 8×5=40+3=43 (3, carry 4). Hundreds: 3×5=15+4=19. Answer: 1,935.",
 "difficulty": "hard",
@@ -540,10 +589,11 @@
 },
 {
 "question": "What is 18 × 7 using the distributive law?",
-"A": "(10 × 7) + (8 × 7)",
+"options": {"A":"(10 × 7) + (8 × 7)",
 "B": "(10 + 8) + (7 + 7)",
 "C": "10 × 8 × 7",
-"D": "18 + 7",
+"D": "18 + 7"
+},
 "answer": "A",
 "details": "18 × 7 = 70 + 56 = 126.",
 "difficulty": "medium",
@@ -551,10 +601,11 @@
 },
 {
 "question": "A school has 6 classes. Each class has 28 pupils. If 12 pupils are absent, how many are present?",
-"A": "156",
+"options": {"A":"156",
 "B": "168",
 "C": "144",
-"D": "180",
+"D": "180"
+},
 "answer": "A",
 "details": "Total: 6 × 28 = 168. Present: 168 − 12 = 156.",
 "difficulty": "hard",
@@ -562,10 +613,11 @@
 },
 {
 "question": "What is 6 × 5 × 6 using the associative law?",
-"A": "180",
+"options": {"A":"180",
 "B": "170",
 "C": "190",
-"D": "160",
+"D": "160"
+},
 "answer": "A",
 "details": "(6 × 6) × 5 = 36 × 5 = 180.",
 "difficulty": "hard",
@@ -573,10 +625,11 @@
 },
 {
 "question": "What is 0 ÷ 100?",
-"A": "0",
+"options": {"A":"0",
 "B": "100",
 "C": "1",
-"D": "Undefined",
+"D": "Undefined"
+},
 "answer": "A",
 "details": "0 divided by any non-zero number is 0.",
 "difficulty": "easy",
@@ -584,10 +637,11 @@
 },
 {
 "question": "Use short multiplication: 491 × 2.",
-"A": "982",
+"options": {"A":"982",
 "B": "972",
 "C": "992",
-"D": "882",
+"D": "882"
+},
 "answer": "A",
 "details": "1×2=2, 9×2=18 (8, carry 1), 4×2=8+1=9. Answer: 982.",
 "difficulty": "medium",
@@ -596,10 +650,11 @@
 {
 "question": "What is 6 × 7?",
 "options": {
-"A": "42",
+"options": {"A":"42",
 "B": "36",
 "C": "49",
-"D": "48"},
+"D": "48"}
+},
 "answer": "A",
 "details": "6 × 7 is a basic multiplication fact. 6 groups of 7 equal 42.",
 "difficulty": "easy",
@@ -608,10 +663,11 @@
 {
 "question": "What is 48 ÷ 6?",
 "options": {
-"A": "8",
+"options": {"A":"8",
 "B": "7",
 "C": "9",
-"D": "6"},
+"D": "6"}
+},
 "answer": "A",
 "details": "48 divided by 6 means how many groups of 6 are in 48. Since 6 × 8 = 48, the answer is 8.",
 "difficulty": "easy",
@@ -620,10 +676,11 @@
 {
 "question": "Which number sentence is true?",
 "options": {
-"A": "5 × 0 = 0",
+"options": {"A":"5 × 0 = 0",
 "B": "5 × 0 = 5",
 "C": "5 × 1 = 0",
-"D": "0 ÷ 5 = 5"},
+"D": "0 ÷ 5 = 5"}
+},
 "answer": "A",
 "details": "Any number multiplied by 0 equals 0. So 5 × 0 = 0 is correct.",
 "difficulty": "easy",
@@ -632,10 +689,11 @@
 {
 "question": "What is 9 × 8?",
 "options": {
-"A": "72",
+"options": {"A":"72",
 "B": "64",
 "C": "81",
-"D": "63"},
+"D": "63"}
+},
 "answer": "A",
 "details": "9 × 8 = 72 is a standard multiplication fact from the 9 times table.",
 "difficulty": "easy",
@@ -644,10 +702,11 @@
 {
 "question": "What is 63 ÷ 9?",
 "options": {
-"A": "7",
+"options": {"A":"7",
 "B": "8",
 "C": "6",
-"D": "9"},
+"D": "9"}
+},
 "answer": "A",
 "details": "Since 9 × 7 = 63, dividing 63 by 9 gives 7.",
 "difficulty": "easy",
@@ -656,10 +715,11 @@
 {
 "question": "What is 12 × 5?",
 "options": {
-"A": "60",
+"options": {"A":"60",
 "B": "55",
 "C": "65",
-"D": "50"},
+"D": "50"}
+},
 "answer": "A",
 "details": "12 × 5 can be thought of as 10 × 5 + 2 × 5 = 50 + 10 = 60.",
 "difficulty": "easy",
@@ -668,10 +728,11 @@
 {
 "question": "How many factor pairs does 12 have?",
 "options": {
-"A": "3",
+"options": {"A":"3",
 "B": "4",
 "C": "2",
-"D": "6"},
+"D": "6"}
+},
 "answer": "A",
 "details": "The factor pairs of 12 are (1,12), (2,6), and (3,4). So there are 3 factor pairs.",
 "difficulty": "easy",
@@ -680,10 +741,11 @@
 {
 "question": "What is 3 × 4 × 2?",
 "options": {
-"A": "24",
+"options": {"A":"24",
 "B": "20",
 "C": "18",
-"D": "28"},
+"D": "28"}
+},
 "answer": "A",
 "details": "Multiply in any order: 3 × 4 = 12, then 12 × 2 = 24. Multiplication is commutative.",
 "difficulty": "easy",
@@ -692,10 +754,11 @@
 {
 "question": "What is 25 ÷ 1?",
 "options": {
-"A": "25",
+"options": {"A":"25",
 "B": "1",
 "C": "0",
-"D": "24"},
+"D": "24"}
+},
 "answer": "A",
 "details": "Any number divided by 1 equals itself. So 25 ÷ 1 = 25.",
 "difficulty": "easy",
@@ -704,10 +767,11 @@
 {
 "question": "Which calculation uses the distributive law correctly for 14 × 5?",
 "options": {
-"A": "(10 × 5) + (4 × 5)",
+"options": {"A":"(10 × 5) + (4 × 5)",
 "B": "(10 + 4) × (5 + 5)",
 "C": "10 × 4 × 5",
-"D": "14 + 5"},
+"D": "14 + 5"}
+},
 "answer": "A",
 "details": "The distributive law says 14 × 5 = (10 + 4) × 5 = (10 × 5) + (4 × 5) = 50 + 20 = 70.",
 "difficulty": "easy",
@@ -716,10 +780,11 @@
 {
 "question": "A box has 8 crayons. How many crayons are in 7 boxes?",
 "options": {
-"A": "56",
+"options": {"A":"56",
 "B": "48",
 "C": "64",
-"D": "54"},
+"D": "54"}
+},
 "answer": "A",
 "details": "Multiply: 8 × 7 = 56 crayons.",
 "difficulty": "easy",
@@ -728,10 +793,11 @@
 {
 "question": "What is 7 × 7?",
 "options": {
-"A": "49",
+"options": {"A":"49",
 "B": "42",
 "C": "56",
-"D": "63"},
+"D": "63"}
+},
 "answer": "A",
 "details": "7 × 7 = 49, a square number fact.",
 "difficulty": "easy",
@@ -740,10 +806,11 @@
 {
 "question": "What is 81 ÷ 9?",
 "options": {
-"A": "9",
+"options": {"A":"9",
 "B": "8",
 "C": "10",
-"D": "7"},
+"D": "7"}
+},
 "answer": "A",
 "details": "9 × 9 = 81, so 81 ÷ 9 = 9.",
 "difficulty": "easy",
@@ -752,10 +819,11 @@
 {
 "question": "Which is the same as 6 × 3?",
 "options": {
-"A": "3 × 6",
+"options": {"A":"3 × 6",
 "B": "6 + 3",
 "C": "6 ÷ 3",
-"D": "3 ÷ 6"},
+"D": "3 ÷ 6"}
+},
 "answer": "A",
 "details": "Multiplication is commutative: 6 × 3 = 3 × 6 = 18.",
 "difficulty": "easy",
@@ -764,10 +832,11 @@
 {
 "question": "What is 10 × 12?",
 "options": {
-"A": "120",
+"options": {"A":"120",
 "B": "100",
 "C": "110",
-"D": "130"},
+"D": "130"}
+},
 "answer": "A",
 "details": "10 × 12 = 120 (add a zero to 12).",
 "difficulty": "easy",
@@ -776,10 +845,11 @@
 {
 "question": "What is 42 ÷ 7?",
 "options": {
-"A": "6",
+"options": {"A":"6",
 "B": "7",
 "C": "5",
-"D": "8"},
+"D": "8"}
+},
 "answer": "A",
 "details": "7 × 6 = 42, so 42 ÷ 7 = 6.",
 "difficulty": "easy",
@@ -788,10 +858,11 @@
 {
 "question": "If 1 pencil costs £2, how much do 5 pencils cost?",
 "options": {
-"A": "£10",
+"options": {"A":"£10",
 "B": "£7",
 "C": "£8",
-"D": "£12"},
+"D": "£12"}
+},
 "answer": "A",
 "details": "5 × £2 = £10.",
 "difficulty": "easy",
@@ -800,10 +871,11 @@
 {
 "question": "What is 0 × 9?",
 "options": {
-"A": "0",
+"options": {"A":"0",
 "B": "9",
 "C": "1",
-"D": "90"},
+"D": "90"}
+},
 "answer": "A",
 "details": "Any number multiplied by 0 is 0.",
 "difficulty": "easy",
@@ -812,10 +884,11 @@
 {
 "question": "What is 5 × 5 × 2?",
 "options": {
-"A": "50",
+"options": {"A":"50",
 "B": "40",
 "C": "60",
-"D": "55"},
+"D": "55"}
+},
 "answer": "A",
 "details": "5 × 5 = 25; 25 × 2 = 50.",
 "difficulty": "easy",
@@ -824,10 +897,11 @@
 {
 "question": "Which shows a factor pair of 15?",
 "options": {
-"A": "3 and 5",
+"options": {"A":"3 and 5",
 "B": "2 and 7",
 "C": "4 and 4",
-"D": "6 and 9"},
+"D": "6 and 9"}
+},
 "answer": "A",
 "details": "3 × 5 = 15, so (3,5) is a factor pair of 15.",
 "difficulty": "easy",
@@ -836,10 +910,11 @@
 {
 "question": "What is 11 × 4?",
 "options": {
-"A": "44",
+"options": {"A":"44",
 "B": "40",
 "C": "48",
-"D": "33"},
+"D": "33"}
+},
 "answer": "A",
 "details": "11 × 4 = 44 (10 × 4 = 40, plus 1 × 4 = 4).",
 "difficulty": "easy",
@@ -848,10 +923,11 @@
 {
 "question": "What is 36 ÷ 4?",
 "options": {
-"A": "9",
+"options": {"A":"9",
 "B": "8",
 "C": "10",
-"D": "7"},
+"D": "7"}
+},
 "answer": "A",
 "details": "4 × 9 = 36, so 36 ÷ 4 = 9.",
 "difficulty": "easy",
@@ -860,10 +936,11 @@
 {
 "question": "Use short multiplication to find 23 × 4.",
 "options": {
-"A": "92",
+"options": {"A":"92",
 "B": "82",
 "C": "96",
-"D": "88"},
+"D": "88"}
+},
 "answer": "A",
 "details": "Units: 3 × 4 = 12 (write 2, carry 1). Tens: 2 × 4 = 8, plus 1 = 9. Answer: 92.",
 "difficulty": "easy",
@@ -872,10 +949,11 @@
 {
 "question": "What is 24 ÷ 8?",
 "options": {
-"A": "3",
+"options": {"A":"3",
 "B": "4",
 "C": "2",
-"D": "6"},
+"D": "6"}
+},
 "answer": "A",
 "details": "8 × 3 = 24, so 24 ÷ 8 = 3.",
 "difficulty": "easy",
@@ -884,10 +962,11 @@
 {
 "question": "A menu has 3 starters and 4 main courses. How many different meal combinations are there?",
 "options": {
-"A": "12",
+"options": {"A":"12",
 "B": "7",
 "C": "10",
-"D": "15"},
+"D": "15"}
+},
 "answer": "A",
 "details": "This is a correspondence problem: 3 × 4 = 12 combinations.",
 "difficulty": "easy",
@@ -896,10 +975,11 @@
 {
 "question": "What is 12 × 12?",
 "options": {
-"A": "144",
+"options": {"A":"144",
 "B": "120",
 "C": "132",
-"D": "156"},
+"D": "156"}
+},
 "answer": "A",
 "details": "12 × 12 = 144 is the highest square in times tables up to 12.",
 "difficulty": "easy",
@@ -908,10 +988,11 @@
 {
 "question": "What is 100 ÷ 10?",
 "options": {
-"A": "10",
+"options": {"A":"10",
 "B": "100",
 "C": "1",
-"D": "0"},
+"D": "0"}
+},
 "answer": "A",
 "details": "10 × 10 = 100, so 100 ÷ 10 = 10.",
 "difficulty": "easy",
@@ -920,10 +1001,11 @@
 {
 "question": "Which is equal to 7 × 6?",
 "options": {
-"A": "42",
+"options": {"A":"42",
 "B": "36",
 "C": "48",
-"D": "49"},
+"D": "49"}
+},
 "answer": "A",
 "details": "7 × 6 = 42.",
 "difficulty": "easy",
@@ -932,10 +1014,11 @@
 {
 "question": "What is 15 ÷ 3?",
 "options": {
-"A": "5",
+"options": {"A":"5",
 "B": "4",
 "C": "6",
-"D": "3"},
+"D": "3"}
+},
 "answer": "A",
 "details": "3 × 5 = 15, so 15 ÷ 3 = 5.",
 "difficulty": "easy",
@@ -944,10 +1027,11 @@
 {
 "question": "Use short multiplication to find 124 × 2.",
 "options": {
-"A": "248",
+"options": {"A":"248",
 "B": "228",
 "C": "238",
-"D": "258"},
+"D": "258"}
+},
 "answer": "A",
 "details": "2 × 4 = 8 (units), 2 × 2 = 4 (tens), 2 × 1 = 2 (hundreds). So 248.",
 "difficulty": "easy",
@@ -956,10 +1040,11 @@
 {
 "question": "What is 8 × 9?",
 "options": {
-"A": "72",
+"options": {"A":"72",
 "B": "64",
 "C": "81",
-"D": "63"},
+"D": "63"}
+},
 "answer": "A",
 "details": "8 × 9 = 72.",
 "difficulty": "easy",
@@ -968,10 +1053,11 @@
 {
 "question": "What is 56 ÷ 8?",
 "options": {
-"A": "7",
+"options": {"A":"7",
 "B": "8",
 "C": "6",
-"D": "9"},
+"D": "9"}
+},
 "answer": "A",
 "details": "8 × 7 = 56, so 56 ÷ 8 = 7.",
 "difficulty": "easy",
@@ -980,10 +1066,11 @@
 {
 "question": "Which number is a multiple of both 3 and 5?",
 "options": {
-"A": "15",
+"options": {"A":"15",
 "B": "12",
 "C": "10",
-"D": "9"},
+"D": "9"}
+},
 "answer": "A",
 "details": "15 ÷ 3 = 5 and 15 ÷ 5 = 3, so 15 is a multiple of both.",
 "difficulty": "easy",
@@ -992,10 +1079,11 @@
 {
 "question": "What is 4 × 0?",
 "options": {
-"A": "0",
+"options": {"A":"0",
 "B": "4",
 "C": "1",
-"D": "40"},
+"D": "40"}
+},
 "answer": "A",
 "details": "Any number × 0 = 0.",
 "difficulty": "easy",
@@ -1004,10 +1092,11 @@
 {
 "question": "What is 2 × 3 × 5?",
 "options": {
-"A": "30",
+"options": {"A":"30",
 "B": "25",
 "C": "20",
-"D": "35"},
+"D": "35"}
+},
 "answer": "A",
 "details": "2 × 3 = 6; 6 × 5 = 30.",
 "difficulty": "easy",
@@ -1016,10 +1105,11 @@
 {
 "question": "If 1 apple costs 30p, how much do 6 apples cost?",
 "options": {
-"A": "180p",
+"options": {"A":"180p",
 "B": "150p",
 "C": "200p",
-"D": "120p"},
+"D": "120p"}
+},
 "answer": "A",
 "details": "6 × 30p = 180p.",
 "difficulty": "easy",
@@ -1028,10 +1118,11 @@
 {
 "question": "What is 11 × 6?",
 "options": {
-"A": "66",
+"options": {"A":"66",
 "B": "60",
 "C": "72",
-"D": "55"},
+"D": "55"}
+},
 "answer": "A",
 "details": "11 × 6 = 66.",
 "difficulty": "easy",
@@ -1040,10 +1131,11 @@
 {
 "question": "What is 72 ÷ 9?",
 "options": {
-"A": "8",
+"options": {"A":"8",
 "B": "9",
 "C": "7",
-"D": "6"},
+"D": "6"}
+},
 "answer": "A",
 "details": "9 × 8 = 72, so 72 ÷ 9 = 8.",
 "difficulty": "easy",
@@ -1052,10 +1144,11 @@
 {
 "question": "Which shows the distributive law for 25 × 4?",
 "options": {
-"A": "(20 × 4) + (5 × 4)",
+"options": {"A":"(20 × 4) + (5 × 4)",
 "B": "20 + 5 × 4",
 "C": "25 + 4",
-"D": "20 × 5 × 4"},
+"D": "20 × 5 × 4"}
+},
 "answer": "A",
 "details": "25 × 4 = (20 + 5) × 4 = (20 × 4) + (5 × 4) = 80 + 20 = 100.",
 "difficulty": "easy",
@@ -1064,10 +1157,11 @@
 {
 "question": "A pack contains 5 stickers. How many stickers are in 9 packs?",
 "options": {
-"A": "45",
+"options": {"A":"45",
 "B": "40",
 "C": "50",
-"D": "54"},
+"D": "54"}
+},
 "answer": "A",
 "details": "5 × 9 = 45.",
 "difficulty": "easy",
@@ -1076,10 +1170,11 @@
 {
 "question": "What is 1 × 13?",
 "options": {
-"A": "13",
+"options": {"A":"13",
 "B": "1",
 "C": "0",
-"D": "14"},
+"D": "14"}
+},
 "answer": "A",
 "details": "Any number × 1 equals itself.",
 "difficulty": "easy",
@@ -1088,10 +1183,11 @@
 {
 "question": "What is 54 ÷ 6?",
 "options": {
-"A": "9",
+"options": {"A":"9",
 "B": "8",
 "C": "7",
-"D": "10"},
+"D": "10"}
+},
 "answer": "A",
 "details": "6 × 9 = 54, so 54 ÷ 6 = 9.",
 "difficulty": "easy",
@@ -1100,10 +1196,11 @@
 {
 "question": "Which is a factor pair of 10?",
 "options": {
-"A": "2 and 5",
+"options": {"A":"2 and 5",
 "B": "3 and 7",
 "C": "4 and 6",
-"D": "1 and 11"},
+"D": "1 and 11"}
+},
 "answer": "A",
 "details": "2 × 5 = 10, so (2,5) is a factor pair.",
 "difficulty": "easy",
@@ -1112,10 +1209,11 @@
 {
 "question": "Use short multiplication to find 31 × 3.",
 "options": {
-"A": "93",
+"options": {"A":"93",
 "B": "83",
 "C": "99",
-"D": "87"},
+"D": "87"}
+},
 "answer": "A",
 "details": "3 × 1 = 3 (units), 3 × 3 = 9 (tens). Answer: 93.",
 "difficulty": "easy",
@@ -1124,10 +1222,11 @@
 {
 "question": "What is 6 × 6?",
 "options": {
-"A": "36",
+"options": {"A":"36",
 "B": "30",
 "C": "42",
-"D": "48"},
+"D": "48"}
+},
 "answer": "A",
 "details": "6 × 6 = 36.",
 "difficulty": "easy",
@@ -1136,10 +1235,11 @@
 {
 "question": "What is 45 ÷ 5?",
 "options": {
-"A": "9",
+"options": {"A":"9",
 "B": "8",
 "C": "10",
-"D": "7"},
+"D": "7"}
+},
 "answer": "A",
 "details": "5 × 9 = 45, so 45 ÷ 5 = 9.",
 "difficulty": "easy",
@@ -1148,10 +1248,11 @@
 {
 "question": "There are 4 types of bread and 3 types of filling. How many sandwich combinations?",
 "options": {
-"A": "12",
+"options": {"A":"12",
 "B": "7",
 "C": "10",
-"D": "15"},
+"D": "15"}
+},
 "answer": "A",
 "details": "4 × 3 = 12 combinations.",
 "difficulty": "easy",
@@ -1160,10 +1261,11 @@
 {
 "question": "What is 9 × 7?",
 "options": {
-"A": "63",
+"options": {"A":"63",
 "B": "56",
 "C": "72",
-"D": "64"},
+"D": "64"}
+},
 "answer": "A",
 "details": "9 × 7 = 63.",
 "difficulty": "easy",
@@ -1172,10 +1274,11 @@
 {
 "question": "What is 100 ÷ 5?",
 "options": {
-"A": "20",
+"options": {"A":"20",
 "B": "25",
 "C": "15",
-"D": "10"},
+"D": "10"}
+},
 "answer": "A",
 "details": "5 × 20 = 100, so 100 ÷ 5 = 20.",
 "difficulty": "easy",
@@ -1184,10 +1287,11 @@
 {
 "question": "What is 3 × 12?",
 "options": {
-"A": "36",
+"options": {"A":"36",
 "B": "30",
 "C": "24",
-"D": "42"},
+"D": "42"}
+},
 "answer": "A",
 "details": "3 × 12 = 36.",
 "difficulty": "easy",
@@ -1196,10 +1300,11 @@
 {
 "question": "What is 24 × 6 using short multiplication?",
 "options": {
-"A": "144",
+"options": {"A":"144",
 "B": "124",
 "C": "154",
-"D": "134"},
+"D": "134"}
+},
 "answer": "A",
 "details": "Units: 4 × 6 = 24 (write 4, carry 2). Tens: 2 × 6 = 12, plus 2 = 14. Answer: 144.",
 "difficulty": "medium",
@@ -1208,10 +1313,11 @@
 {
 "question": "Which is the same as 7 × 18 using the distributive law?",
 "options": {
-"A": "(7 × 10) + (7 × 8)",
+"options": {"A":"(7 × 10) + (7 × 8)",
 "B": "(7 × 10) × (7 × 8)",
 "C": "7 + 10 × 8",
-"D": "(7 + 10) × (7 + 8)"},
+"D": "(7 + 10) × (7 + 8)"}
+},
 "answer": "A",
 "details": "18 = 10 + 8, so 7 × 18 = 7 × (10 + 8) = (7 × 10) + (7 × 8) = 70 + 56 = 126.",
 "difficulty": "medium",
@@ -1220,10 +1326,11 @@
 {
 "question": "A school buys 8 boxes of pencils. Each box contains 24 pencils. How many pencils are there in total?",
 "options": {
-"A": "192",
+"options": {"A":"192",
 "B": "182",
 "C": "202",
-"D": "172"},
+"D": "172"}
+},
 "answer": "A",
 "details": "Multiply: 8 × 24 = 192. Use 8 × 20 = 160 and 8 × 4 = 32; 160 + 32 = 192.",
 "difficulty": "medium",
@@ -1232,10 +1339,11 @@
 {
 "question": "What is 132 ÷ 4?",
 "options": {
-"A": "33",
+"options": {"A":"33",
 "B": "32",
 "C": "34",
-"D": "31"},
+"D": "31"}
+},
 "answer": "A",
 "details": "4 × 33 = 132, so 132 ÷ 4 = 33. Alternatively, 120 ÷ 4 = 30 and 12 ÷ 4 = 3; 30 + 3 = 33.",
 "difficulty": "medium",
@@ -1244,10 +1352,11 @@
 {
 "question": "Which shows a complete list of factor pairs of 24?",
 "options": {
-"A": "(1,24), (2,12), (3,8), (4,6)",
+"options": {"A":"(1,24), (2,12), (3,8), (4,6)",
 "B": "(1,24), (2,12), (3,9), (4,6)",
 "C": "(2,12), (3,8), (4,6)",
-"D": "(1,24), (2,11), (3,8), (4,6)"},
+"D": "(1,24), (2,11), (3,8), (4,6)"}
+},
 "answer": "A",
 "details": "All factor pairs multiply to 24: 1×24, 2×12, 3×8, 4×6. No others exist.",
 "difficulty": "medium",
@@ -1256,10 +1365,11 @@
 {
 "question": "What is 3 × 7 × 4?",
 "options": {
-"A": "84",
+"options": {"A":"84",
 "B": "72",
 "C": "96",
-"D": "63"},
+"D": "63"}
+},
 "answer": "A",
 "details": "Multiply in any order: 3 × 7 = 21; 21 × 4 = 84.",
 "difficulty": "medium",
@@ -1268,10 +1378,11 @@
 {
 "question": "Use short multiplication to calculate 147 × 5.",
 "options": {
-"A": "735",
+"options": {"A":"735",
 "B": "725",
 "C": "745",
-"D": "635"},
+"D": "635"}
+},
 "answer": "A",
 "details": "Units: 7 × 5 = 35 (write 5, carry 3). Tens: 4 × 5 = 20 + 3 = 23 (write 3, carry 2). Hundreds: 1 × 5 = 5 + 2 = 7. Answer: 735.",
 "difficulty": "medium",
@@ -1280,10 +1391,11 @@
 {
 "question": "A shop sells juice in packs of 6. If 324 bottles were sold, how many packs is that?",
 "options": {
-"A": "54",
+"options": {"A":"54",
 "B": "52",
 "C": "56",
-"D": "64"},
+"D": "64"}
+},
 "answer": "A",
 "details": "324 ÷ 6 = 54. Check: 6 × 50 = 300, 6 × 4 = 24; 300 + 24 = 324.",
 "difficulty": "medium",
@@ -1292,10 +1404,11 @@
 {
 "question": "Which equation shows commutativity?",
 "options": {
-"A": "6 × 9 = 9 × 6",
+"options": {"A":"6 × 9 = 9 × 6",
 "B": "6 × 9 = 6 + 9",
 "C": "6 × (9 + 1) = (6 × 9) + 1",
-"D": "6 ÷ 9 = 9 ÷ 6"},
+"D": "6 ÷ 9 = 9 ÷ 6"}
+},
 "answer": "A",
 "details": "Commutativity means order doesn’t matter in multiplication: 6 × 9 = 9 × 6 = 54.",
 "difficulty": "medium",
@@ -1304,10 +1417,11 @@
 {
 "question": "What is 56 ÷ 4?",
 "options": {
-"A": "14",
+"options": {"A":"14",
 "B": "13",
 "C": "15",
-"D": "12"},
+"D": "12"}
+},
 "answer": "A",
 "details": "4 × 14 = 56. Split: 40 ÷ 4 = 10, 16 ÷ 4 = 4; 10 + 4 = 14.",
 "difficulty": "medium",
@@ -1316,10 +1430,11 @@
 {
 "question": "A printer prints 8 pages per minute. How many pages does it print in 45 minutes?",
 "options": {
-"A": "360",
+"options": {"A":"360",
 "B": "320",
 "C": "400",
-"D": "280"},
+"D": "280"}
+},
 "answer": "A",
 "details": "8 × 45 = 360. Use 8 × 40 = 320 and 8 × 5 = 40; 320 + 40 = 360.",
 "difficulty": "medium",
@@ -1328,10 +1443,11 @@
 {
 "question": "What is 19 × 5 using the distributive law?",
 "options": {
-"A": "(10 × 5) + (9 × 5)",
+"options": {"A":"(10 × 5) + (9 × 5)",
 "B": "(10 + 9) + (5 + 5)",
 "C": "10 × 9 × 5",
-"D": "19 + 5"},
+"D": "19 + 5"}
+},
 "answer": "A",
 "details": "19 = 10 + 9, so 19 × 5 = (10 × 5) + (9 × 5) = 50 + 45 = 95.",
 "difficulty": "medium",
@@ -1340,10 +1456,11 @@
 {
 "question": "What is 210 ÷ 7?",
 "options": {
-"A": "30",
+"options": {"A":"30",
 "B": "29",
 "C": "31",
-"D": "35"},
+"D": "35"}
+},
 "answer": "A",
 "details": "7 × 30 = 210, so 210 ÷ 7 = 30.",
 "difficulty": "medium",
@@ -1352,10 +1469,11 @@
 {
 "question": "Which number is both a multiple of 6 and 8?",
 "options": {
-"A": "24",
+"options": {"A":"24",
 "B": "18",
 "C": "32",
-"D": "40"},
+"D": "40"}
+},
 "answer": "A",
 "details": "24 ÷ 6 = 4 and 24 ÷ 8 = 3, so 24 is a common multiple.",
 "difficulty": "medium",
@@ -1364,10 +1482,11 @@
 {
 "question": "Use short multiplication to find 256 × 3.",
 "options": {
-"A": "768",
+"options": {"A":"768",
 "B": "758",
 "C": "778",
-"D": "748"},
+"D": "748"}
+},
 "answer": "A",
 "details": "Units: 6 × 3 = 18 (8, carry 1). Tens: 5 × 3 = 15 + 1 = 16 (6, carry 1). Hundreds: 2 × 3 = 6 + 1 = 7. Answer: 768.",
 "difficulty": "medium",
@@ -1376,10 +1495,11 @@
 {
 "question": "A farmer plants 7 rows of carrots with 38 plants in each row. How many plants in total?",
 "options": {
-"A": "266",
+"options": {"A":"266",
 "B": "256",
 "C": "276",
-"D": "246"},
+"D": "246"}
+},
 "answer": "A",
 "details": "7 × 38 = 7 × (30 + 8) = 210 + 56 = 266.",
 "difficulty": "medium",
@@ -1388,10 +1508,11 @@
 {
 "question": "How many factor pairs does 36 have?",
 "options": {
-"A": "5",
+"options": {"A":"5",
 "B": "4",
 "C": "6",
-"D": "3"},
+"D": "3"}
+},
 "answer": "A",
 "details": "Factor pairs: (1,36), (2,18), (3,12), (4,9), (6,6). Total of 5 pairs.",
 "difficulty": "medium",
@@ -1400,10 +1521,11 @@
 {
 "question": "What is 4 × 9 × 3?",
 "options": {
-"A": "108",
+"options": {"A":"108",
 "B": "96",
 "C": "120",
-"D": "81"},
+"D": "81"}
+},
 "answer": "A",
 "details": "4 × 9 = 36; 36 × 3 = 108.",
 "difficulty": "medium",
@@ -1412,10 +1534,11 @@
 {
 "question": "What is 168 ÷ 6?",
 "options": {
-"A": "28",
+"options": {"A":"28",
 "B": "27",
 "C": "29",
-"D": "26"},
+"D": "26"}
+},
 "answer": "A",
 "details": "6 × 28 = 168. Split: 120 ÷ 6 = 20, 48 ÷ 6 = 8; 20 + 8 = 28.",
 "difficulty": "medium",
@@ -1424,10 +1547,11 @@
 {
 "question": "A menu has 5 starters, 6 mains, and 3 desserts. How many meal combinations (starter + main)?",
 "options": {
-"A": "30",
+"options": {"A":"30",
 "B": "14",
 "C": "90",
-"D": "18"},
+"D": "18"}
+},
 "answer": "A",
 "details": "Only starter + main: 5 × 6 = 30 combinations. Desserts are not included in this count.",
 "difficulty": "medium",
@@ -1436,10 +1560,11 @@
 {
 "question": "Which calculation gives the same result as 8 × 25?",
 "options": {
-"A": "4 × 50",
+"options": {"A":"4 × 50",
 "B": "40 × 5",
 "C": "2 × 100",
-"D": "All of the above"},
+"D": "All of the above"}
+},
 "answer": "D",
 "details": "8 × 25 = 200. A: 4 × 50 = 200. B: 40 × 5 = 200. C: 2 × 100 = 200.",
 "difficulty": "medium",
@@ -1448,10 +1573,11 @@
 {
 "question": "What is 8 × 25?",
 "options": {
-"A": "200",
+"options": {"A":"200",
 "B": "180",
 "C": "220",
-"D": "160"},
+"D": "160"}
+},
 "answer": "A",
 "details": "8 × 25 = 200. Think of it as 8 × (100 ÷ 4) = 200, or 8 × 20 = 160 and 8 × 5 = 40; 160 + 40 = 200.",
 "difficulty": "medium",
@@ -1460,10 +1586,11 @@
 {
 "question": "Use short multiplication to calculate 309 × 4.",
 "options": {
-"A": "1,236",
+"options": {"A":"1,236",
 "B": "1,226",
 "C": "1,246",
-"D": "1,136"},
+"D": "1,136"}
+},
 "answer": "A",
 "details": "Units: 9 × 4 = 36 (6, carry 3). Tens: 0 × 4 = 0 + 3 = 3. Hundreds: 3 × 4 = 12. Answer: 1,236.",
 "difficulty": "medium",
@@ -1472,10 +1599,11 @@
 {
 "question": "A book has 144 pages. If it is divided into 9 equal chapters, how many pages per chapter?",
 "options": {
-"A": "16",
+"options": {"A":"16",
 "B": "15",
 "C": "17",
-"D": "18"},
+"D": "18"}
+},
 "answer": "A",
 "details": "144 ÷ 9 = 16. Check: 9 × 16 = 144.",
 "difficulty": "medium",
@@ -1484,10 +1612,11 @@
 {
 "question": "Which shows the distributive law for 43 × 6?",
 "options": {
-"A": "(40 × 6) + (3 × 6)",
+"options": {"A":"(40 × 6) + (3 × 6)",
 "B": "(40 + 3) + (6 + 6)",
 "C": "40 × 3 × 6",
-"D": "43 + 6"},
+"D": "43 + 6"}
+},
 "answer": "A",
 "details": "43 × 6 = (40 + 3) × 6 = (40 × 6) + (3 × 6) = 240 + 18 = 258.",
 "difficulty": "medium",
@@ -1496,10 +1625,11 @@
 {
 "question": "What is 5 × 13 × 2?",
 "options": {
-"A": "130",
+"options": {"A":"130",
 "B": "120",
 "C": "140",
-"D": "110"},
+"D": "110"}
+},
 "answer": "A",
 "details": "Multiply 5 × 2 = 10 first, then 10 × 13 = 130 (easier using commutativity).",
 "difficulty": "medium",
@@ -1508,10 +1638,11 @@
 {
 "question": "A factory makes 127 toys each day. How many in 7 days?",
 "options": {
-"A": "889",
+"options": {"A":"889",
 "B": "879",
 "C": "899",
-"D": "789"},
+"D": "789"}
+},
 "answer": "A",
 "details": "127 × 7: 100×7=700, 20×7=140, 7×7=49; 700+140=840+49=889.",
 "difficulty": "medium",
@@ -1520,10 +1651,11 @@
 {
 "question": "What is 192 ÷ 8?",
 "options": {
-"A": "24",
+"options": {"A":"24",
 "B": "23",
 "C": "25",
-"D": "22"},
+"D": "22"}
+},
 "answer": "A",
 "details": "8 × 24 = 192. Split: 160 ÷ 8 = 20, 32 ÷ 8 = 4; 20 + 4 = 24.",
 "difficulty": "medium",
@@ -1532,10 +1664,11 @@
 {
 "question": "Which is a factor pair of 48?",
 "options": {
-"A": "(6, 8)",
+"options": {"A":"(6, 8)",
 "B": "(5, 9)",
 "C": "(7, 7)",
-"D": "(4, 10)"},
+"D": "(4, 10)"}
+},
 "answer": "A",
 "details": "6 × 8 = 48, so (6,8) is a factor pair.",
 "difficulty": "medium",
@@ -1544,10 +1677,11 @@
 {
 "question": "A concert ticket costs £18. How much for 9 tickets?",
 "options": {
-"A": "£162",
+"options": {"A":"£162",
 "B": "£152",
 "C": "£172",
-"D": "£142"},
+"D": "£142"}
+},
 "answer": "A",
 "details": "18 × 9 = (10 × 9) + (8 × 9) = 90 + 72 = 162.",
 "difficulty": "medium",
@@ -1556,10 +1690,11 @@
 {
 "question": "What is 64 ÷ 16?",
 "options": {
-"A": "4",
+"options": {"A":"4",
 "B": "3",
 "C": "5",
-"D": "6"},
+"D": "6"}
+},
 "answer": "A",
 "details": "16 × 4 = 64, so 64 ÷ 16 = 4.",
 "difficulty": "medium",
@@ -1568,10 +1703,11 @@
 {
 "question": "Use short multiplication: 185 × 6.",
 "options": {
-"A": "1,110",
+"options": {"A":"1,110",
 "B": "1,100",
 "C": "1,120",
-"D": "1,010"},
+"D": "1,010"}
+},
 "answer": "A",
 "details": "Units: 5×6=30 (0, carry 3). Tens: 8×6=48+3=51 (1, carry 5). Hundreds: 1×6=6+5=11. Answer: 1,110.",
 "difficulty": "medium",
@@ -1580,10 +1716,11 @@
 {
 "question": "A school trip costs £9 per child. If the total cost is £333, how many children went?",
 "options": {
-"A": "37",
+"options": {"A":"37",
 "B": "36",
 "C": "38",
-"D": "39"},
+"D": "39"}
+},
 "answer": "A",
 "details": "333 ÷ 9 = 37. Check: 9 × 37 = 333.",
 "difficulty": "medium",
@@ -1592,10 +1729,11 @@
 {
 "question": "Which number is NOT a factor of 60?",
 "options": {
-"A": "7",
+"options": {"A":"7",
 "B": "5",
 "C": "12",
-"D": "15"},
+"D": "15"}
+},
 "answer": "A",
 "details": "60 ÷ 7 is not a whole number. 5, 12, and 15 all divide 60 evenly.",
 "difficulty": "medium",
@@ -1604,10 +1742,11 @@
 {
 "question": "What is 7 × 16 using mental math?",
 "options": {
-"A": "112",
+"options": {"A":"112",
 "B": "102",
 "C": "122",
-"D": "96"},
+"D": "96"}
+},
 "answer": "A",
 "details": "7 × 16 = 7 × (10 + 6) = 70 + 42 = 112.",
 "difficulty": "medium",
@@ -1616,10 +1755,11 @@
 {
 "question": "A pack of stickers has 24 sheets with 8 stickers each. How many stickers total?",
 "options": {
-"A": "192",
+"options": {"A":"192",
 "B": "182",
 "C": "202",
-"D": "172"},
+"D": "172"}
+},
 "answer": "A",
 "details": "24 × 8 = 192. 20×8=160, 4×8=32; 160+32=192.",
 "difficulty": "medium",
@@ -1628,10 +1768,11 @@
 {
 "question": "What is 225 ÷ 9?",
 "options": {
-"A": "25",
+"options": {"A":"25",
 "B": "24",
 "C": "26",
-"D": "20"},
+"D": "20"}
+},
 "answer": "A",
 "details": "9 × 25 = 225, so 225 ÷ 9 = 25.",
 "difficulty": "medium",
@@ -1640,10 +1781,11 @@
 {
 "question": "Which demonstrates commutativity?",
 "options": {
-"A": "12 × 4 = 4 × 12",
+"options": {"A":"12 × 4 = 4 × 12",
 "B": "12 ÷ 4 = 4 ÷ 12",
 "C": "12 + 4 = 4 × 12",
-"D": "12 − 4 = 4 − 12"},
+"D": "12 − 4 = 4 − 12"}
+},
 "answer": "A",
 "details": "Multiplication is commutative: order doesn’t change the product.",
 "difficulty": "medium",
@@ -1652,10 +1794,11 @@
 {
 "question": "Use the distributive law: 57 × 3 = ?",
 "options": {
-"A": "(50 × 3) + (7 × 3)",
+"options": {"A":"(50 × 3) + (7 × 3)",
 "B": "(50 + 7) + (3 + 3)",
 "C": "50 × 7 × 3",
-"D": "57 + 3"},
+"D": "57 + 3"}
+},
 "answer": "A",
 "details": "57 × 3 = (50 + 7) × 3 = (50 × 3) + (7 × 3) = 150 + 21 = 171.",
 "difficulty": "medium",
@@ -1664,10 +1807,11 @@
 {
 "question": "What is 9 × 13 × 2?",
 "options": {
-"A": "234",
+"options": {"A":"234",
 "B": "224",
 "C": "244",
-"D": "214"},
+"D": "214"}
+},
 "answer": "A",
 "details": "9 × 2 = 18; 18 × 13 = (10 × 18) + (3 × 18) = 180 + 54 = 234.",
 "difficulty": "medium",
@@ -1676,10 +1820,11 @@
 {
 "question": "A delivery driver travels 143 km each day. How far in 6 days?",
 "options": {
-"A": "858",
+"options": {"A":"858",
 "B": "848",
 "C": "868",
-"D": "758"},
+"D": "758"}
+},
 "answer": "A",
 "details": "143 × 6: 100×6=600, 40×6=240, 3×6=18; 600+240=840+18=858.",
 "difficulty": "medium",
@@ -1688,10 +1833,11 @@
 {
 "question": "What is 156 ÷ 12?",
 "options": {
-"A": "13",
+"options": {"A":"13",
 "B": "12",
 "C": "14",
-"D": "11"},
+"D": "11"}
+},
 "answer": "A",
 "details": "12 × 13 = 156, so 156 ÷ 12 = 13.",
 "difficulty": "medium",
@@ -1700,10 +1846,11 @@
 {
 "question": "How many factor pairs does 30 have?",
 "options": {
-"A": "4",
+"options": {"A":"4",
 "B": "3",
 "C": "5",
-"D": "6"},
+"D": "6"}
+},
 "answer": "A",
 "details": "Factor pairs: (1,30), (2,15), (3,10), (5,6). Total of 4 pairs.",
 "difficulty": "medium",
@@ -1712,10 +1859,11 @@
 {
 "question": "A cinema has 12 rows with 28 seats each. How many seats total?",
 "options": {
-"A": "336",
+"options": {"A":"336",
 "B": "326",
 "C": "346",
-"D": "236"},
+"D": "236"}
+},
 "answer": "A",
 "details": "12 × 28 = (10 × 28) + (2 × 28) = 280 + 56 = 336.",
 "difficulty": "medium",
@@ -1724,10 +1872,11 @@
 {
 "question": "What is 72 ÷ 12?",
 "options": {
-"A": "6",
+"options": {"A":"6",
 "B": "7",
 "C": "5",
-"D": "8"},
+"D": "8"}
+},
 "answer": "A",
 "details": "12 × 6 = 72, so 72 ÷ 12 = 6.",
 "difficulty": "medium",
@@ -1736,10 +1885,11 @@
 {
 "question": "Use short multiplication: 294 × 3.",
 "options": {
-"A": "882",
+"options": {"A":"882",
 "B": "872",
 "C": "892",
-"D": "782"},
+"D": "782"}
+},
 "answer": "A",
 "details": "Units: 4×3=12 (2, carry 1). Tens: 9×3=27+1=28 (8, carry 2). Hundreds: 2×3=6+2=8. Answer: 882.",
 "difficulty": "medium",
@@ -1748,10 +1898,11 @@
 {
 "question": "A baker makes 156 cupcakes and packs them in boxes of 6. How many boxes?",
 "options": {
-"A": "26",
+"options": {"A":"26",
 "B": "25",
 "C": "27",
-"D": "24"},
+"D": "24"}
+},
 "answer": "A",
 "details": "156 ÷ 6 = 26. 6 × 26 = 156.",
 "difficulty": "medium",
@@ -1760,10 +1911,11 @@
 {
 "question": "Which is the same as 8 × 17?",
 "options": {
-"A": "(8 × 10) + (8 × 7)",
+"options": {"A":"(8 × 10) + (8 × 7)",
 "B": "(8 + 10) × (8 + 7)",
 "C": "8 + 10 × 7",
-"D": "8 × 17 × 1"},
+"D": "8 × 17 × 1"}
+},
 "answer": "A",
 "details": "Distributive law: 8 × 17 = 8 × (10 + 7) = (8 × 10) + (8 × 7) = 80 + 56 = 136.",
 "difficulty": "medium",
@@ -1772,10 +1924,11 @@
 {
 "question": "What is 5 × 19?",
 "options": {
-"A": "95",
+"options": {"A":"95",
 "B": "85",
 "C": "105",
-"D": "75"},
+"D": "75"}
+},
 "answer": "A",
 "details": "5 × 19 = 5 × (20 − 1) = 100 − 5 = 95.",
 "difficulty": "medium",
@@ -1784,10 +1937,11 @@
 {
 "question": "A school buys 7 sets of books. Each set costs £34. What is the total cost?",
 "options": {
-"A": "£238",
+"options": {"A":"£238",
 "B": "£228",
 "C": "£248",
-"D": "£218"},
+"D": "£218"}
+},
 "answer": "A",
 "details": "7 × 34 = (7 × 30) + (7 × 4) = 210 + 28 = 238.",
 "difficulty": "medium",
@@ -1796,10 +1950,11 @@
 {
 "question": "What is 168 ÷ 12?",
 "options": {
-"A": "14",
+"options": {"A":"14",
 "B": "13",
 "C": "15",
-"D": "12"},
+"D": "12"}
+},
 "answer": "A",
 "details": "12 × 14 = 168, so 168 ÷ 12 = 14.",
 "difficulty": "medium",
@@ -1808,10 +1963,11 @@
 {
 "question": "What is 32 × 7 using short multiplication?",
 "options": {
-"A": "224",
+"options": {"A":"224",
 "B": "214",
 "C": "234",
-"D": "204"},
+"D": "204"}
+},
 "answer": "A",
 "details": "Units: 2 × 7 = 14 (write 4, carry 1). Tens: 3 × 7 = 21 + 1 = 22. Answer: 224.",
 "difficulty": "medium",
@@ -1820,10 +1976,11 @@
 {
 "question": "Which expression is equivalent to 6 × 28 using the distributive law?",
 "options": {
-"A": "(6 × 20) + (6 × 8)",
+"options": {"A":"(6 × 20) + (6 × 8)",
 "B": "(6 × 20) × (6 × 8)",
 "C": "6 + 20 × 8",
-"D": "(6 + 20) × (6 + 8)"},
+"D": "(6 + 20) × (6 + 8)"}
+},
 "answer": "A",
 "details": "28 = 20 + 8, so 6 × 28 = (6 × 20) + (6 × 8) = 120 + 48 = 168.",
 "difficulty": "medium",
@@ -1832,10 +1989,11 @@
 {
 "question": "A farmer harvests 9 baskets of apples. Each basket has 47 apples. How many apples in total?",
 "options": {
-"A": "423",
+"options": {"A":"423",
 "B": "413",
 "C": "433",
-"D": "393"},
+"D": "393"}
+},
 "answer": "A",
 "details": "9 × 47 = 9 × (40 + 7) = 360 + 63 = 423.",
 "difficulty": "medium",
@@ -1844,10 +2002,11 @@
 {
 "question": "What is 184 ÷ 8?",
 "options": {
-"A": "23",
+"options": {"A":"23",
 "B": "22",
 "C": "24",
-"D": "21"},
+"D": "21"}
+},
 "answer": "A",
 "details": "8 × 23 = 184. Check: 8 × 20 = 160, 8 × 3 = 24; 160 + 24 = 184.",
 "difficulty": "medium",
@@ -1856,10 +2015,11 @@
 {
 "question": "Which is a complete list of factor pairs of 40?",
 "options": {
-"A": "(1,40), (2,20), (4,10), (5,8)",
+"options": {"A":"(1,40), (2,20), (4,10), (5,8)",
 "B": "(1,40), (2,20), (4,10), (5,9)",
 "C": "(2,20), (4,10), (5,8)",
-"D": "(1,40), (3,13), (4,10), (5,8)"},
+"D": "(1,40), (3,13), (4,10), (5,8)"}
+},
 "answer": "A",
 "details": "All pairs multiply to 40: 1×40, 2×20, 4×10, 5×8. No other whole-number pairs exist.",
 "difficulty": "medium",
@@ -1868,10 +2028,11 @@
 {
 "question": "What is 6 × 5 × 7?",
 "options": {
-"A": "210",
+"options": {"A":"210",
 "B": "200",
 "C": "220",
-"D": "190"},
+"D": "190"}
+},
 "answer": "A",
 "details": "6 × 5 = 30; 30 × 7 = 210. Or use commutativity: 5 × 7 = 35; 35 × 6 = 210.",
 "difficulty": "medium",
@@ -1880,10 +2041,11 @@
 {
 "question": "Use short multiplication to calculate 263 × 4.",
 "options": {
-"A": "1,052",
+"options": {"A":"1,052",
 "B": "1,042",
 "C": "1,062",
-"D": "952"},
+"D": "952"}
+},
 "answer": "A",
 "details": "Units: 3×4=12 (2, carry 1). Tens: 6×4=24+1=25 (5, carry 2). Hundreds: 2×4=8+2=10. Answer: 1,052.",
 "difficulty": "medium",
@@ -1892,10 +2054,11 @@
 {
 "question": "A factory packs 312 pens into boxes of 6. How many boxes are needed?",
 "options": {
-"A": "52",
+"options": {"A":"52",
 "B": "51",
 "C": "53",
-"D": "42"},
+"D": "42"}
+},
 "answer": "A",
 "details": "312 ÷ 6 = 52. 6 × 50 = 300, 6 × 2 = 12; 300 + 12 = 312.",
 "difficulty": "medium",
@@ -1904,10 +2067,11 @@
 {
 "question": "Which equation shows the commutative property of multiplication?",
 "options": {
-"A": "11 × 5 = 5 × 11",
+"options": {"A":"11 × 5 = 5 × 11",
 "B": "11 + 5 = 5 + 11",
 "C": "11 ÷ 5 = 5 ÷ 11",
-"D": "11 − 5 = 5 − 11"},
+"D": "11 − 5 = 5 − 11"}
+},
 "answer": "A",
 "details": "Commutativity in multiplication means the order of factors does not change the product.",
 "difficulty": "medium",
@@ -1916,10 +2080,11 @@
 {
 "question": "What is 96 ÷ 8?",
 "options": {
-"A": "12",
+"options": {"A":"12",
 "B": "11",
 "C": "13",
-"D": "10"},
+"D": "10"}
+},
 "answer": "A",
 "details": "8 × 12 = 96, so 96 ÷ 8 = 12. Alternatively, 80 ÷ 8 = 10 and 16 ÷ 8 = 2; 10 + 2 = 12.",
 "difficulty": "medium",
@@ -1928,10 +2093,11 @@
 {
 "question": "A car travels 64 km each hour. How far does it travel in 7 hours?",
 "options": {
-"A": "448",
+"options": {"A":"448",
 "B": "438",
 "C": "458",
-"D": "428"},
+"D": "428"}
+},
 "answer": "A",
 "details": "64 × 7 = (60 × 7) + (4 × 7) = 420 + 28 = 448 km.",
 "difficulty": "medium",
@@ -1940,10 +2106,11 @@
 {
 "question": "What is 23 × 6 using the distributive law?",
 "options": {
-"A": "(20 × 6) + (3 × 6)",
+"options": {"A":"(20 × 6) + (3 × 6)",
 "B": "(20 + 3) + (6 + 6)",
 "C": "20 × 3 × 6",
-"D": "23 + 6"},
+"D": "23 + 6"}
+},
 "answer": "A",
 "details": "23 = 20 + 3, so 23 × 6 = (20 × 6) + (3 × 6) = 120 + 18 = 138.",
 "difficulty": "medium",
@@ -1952,10 +2119,11 @@
 {
 "question": "What is 252 ÷ 9?",
 "options": {
-"A": "28",
+"options": {"A":"28",
 "B": "27",
 "C": "29",
-"D": "26"},
+"D": "26"}
+},
 "answer": "A",
 "details": "9 × 28 = 252. Check: 9 × 20 = 180, 9 × 8 = 72; 180 + 72 = 252.",
 "difficulty": "medium",
@@ -1964,10 +2132,11 @@
 {
 "question": "Which number is a common multiple of 5 and 9?",
 "options": {
-"A": "45",
+"options": {"A":"45",
 "B": "35",
 "C": "54",
-"D": "40"},
+"D": "40"}
+},
 "answer": "A",
 "details": "45 ÷ 5 = 9 and 45 ÷ 9 = 5, so 45 is a multiple of both.",
 "difficulty": "medium",
@@ -1976,10 +2145,11 @@
 {
 "question": "Use short multiplication to find 178 × 5.",
 "options": {
-"A": "890",
+"options": {"A":"890",
 "B": "880",
 "C": "900",
-"D": "790"},
+"D": "790"}
+},
 "answer": "A",
 "details": "Units: 8×5=40 (0, carry 4). Tens: 7×5=35+4=39 (9, carry 3). Hundreds: 1×5=5+3=8. Answer: 890.",
 "difficulty": "medium",
@@ -1988,10 +2158,11 @@
 {
 "question": "A classroom has 8 tables. Each table seats 6 children. If 3 children are absent, how many are present?",
 "options": {
-"A": "45",
+"options": {"A":"45",
 "B": "48",
 "C": "42",
-"D": "51"},
+"D": "51"}
+},
 "answer": "A",
 "details": "Total seats: 8 × 6 = 48. Present: 48 − 3 = 45.",
 "difficulty": "medium",
@@ -2000,10 +2171,11 @@
 {
 "question": "How many factor pairs does 48 have?",
 "options": {
-"A": "5",
+"options": {"A":"5",
 "B": "4",
 "C": "6",
-"D": "7"},
+"D": "7"}
+},
 "answer": "A",
 "details": "Factor pairs: (1,48), (2,24), (3,16), (4,12), (6,8). Total of 5.",
 "difficulty": "medium",
@@ -2012,10 +2184,11 @@
 {
 "question": "What is 8 × 3 × 9?",
 "options": {
-"A": "216",
+"options": {"A":"216",
 "B": "206",
 "C": "226",
-"D": "196"},
+"D": "196"}
+},
 "answer": "A",
 "details": "8 × 3 = 24; 24 × 9 = 216. Or 3 × 9 = 27; 27 × 8 = 216.",
 "difficulty": "medium",
@@ -2024,10 +2197,11 @@
 {
 "question": "What is 208 ÷ 8?",
 "options": {
-"A": "26",
+"options": {"A":"26",
 "B": "25",
 "C": "27",
-"D": "24"},
+"D": "24"}
+},
 "answer": "A",
 "details": "8 × 26 = 208. 8 × 20 = 160, 8 × 6 = 48; 160 + 48 = 208.",
 "difficulty": "medium",
@@ -2036,10 +2210,11 @@
 {
 "question": "A restaurant offers 4 soups and 7 main courses. How many soup-and-main combinations are there?",
 "options": {
-"A": "28",
+"options": {"A":"28",
 "B": "11",
 "C": "24",
-"D": "35"},
+"D": "35"}
+},
 "answer": "A",
 "details": "4 × 7 = 28 combinations (correspondence problem).",
 "difficulty": "medium",
@@ -2048,10 +2223,11 @@
 {
 "question": "What is 9 × 35?",
 "options": {
-"A": "315",
+"options": {"A":"315",
 "B": "305",
 "C": "325",
-"D": "295"},
+"D": "295"}
+},
 "answer": "A",
 "details": "9 × 35 = 9 × (30 + 5) = 270 + 45 = 315.",
 "difficulty": "medium",
@@ -2060,10 +2236,11 @@
 {
 "question": "Use short multiplication: 307 × 3.",
 "options": {
-"A": "921",
+"options": {"A":"921",
 "B": "911",
 "C": "931",
-"D": "821"},
+"D": "821"}
+},
 "answer": "A",
 "details": "Units: 7×3=21 (1, carry 2). Tens: 0×3=0+2=2. Hundreds: 3×3=9. Answer: 921.",
 "difficulty": "medium",
@@ -2072,10 +2249,11 @@
 {
 "question": "A book costs £16. If a school buys 15 books, what is the total cost?",
 "options": {
-"A": "£240",
+"options": {"A":"£240",
 "B": "£230",
 "C": "£250",
-"D": "£220"},
+"D": "£220"}
+},
 "answer": "A",
 "details": "16 × 15 = (10 × 15) + (6 × 15) = 150 + 90 = 240.",
 "difficulty": "medium",
@@ -2084,10 +2262,11 @@
 {
 "question": "What is 135 ÷ 5?",
 "options": {
-"A": "27",
+"options": {"A":"27",
 "B": "26",
 "C": "28",
-"D": "25"},
+"D": "25"}
+},
 "answer": "A",
 "details": "5 × 27 = 135. Or: 100 ÷ 5 = 20, 35 ÷ 5 = 7; 20 + 7 = 27.",
 "difficulty": "medium",
@@ -2096,10 +2275,11 @@
 {
 "question": "Which shows the distributive law for 52 × 4?",
 "options": {
-"A": "(50 × 4) + (2 × 4)",
+"options": {"A":"(50 × 4) + (2 × 4)",
 "B": "(50 + 2) + (4 + 4)",
 "C": "50 × 2 × 4",
-"D": "52 + 4"},
+"D": "52 + 4"}
+},
 "answer": "A",
 "details": "52 × 4 = (50 + 2) × 4 = (50 × 4) + (2 × 4) = 200 + 8 = 208.",
 "difficulty": "medium",
@@ -2108,10 +2288,11 @@
 {
 "question": "What is 4 × 15 × 3?",
 "options": {
-"A": "180",
+"options": {"A":"180",
 "B": "170",
 "C": "190",
-"D": "160"},
+"D": "160"}
+},
 "answer": "A",
 "details": "4 × 3 = 12; 12 × 15 = 180. Or 15 × 3 = 45; 45 × 4 = 180.",
 "difficulty": "medium",
@@ -2120,10 +2301,11 @@
 {
 "question": "A garden has 9 rows of flowers. Each row has 29 flowers. How many flowers in total?",
 "options": {
-"A": "261",
+"options": {"A":"261",
 "B": "251",
 "C": "271",
-"D": "241"},
+"D": "241"}
+},
 "answer": "A",
 "details": "9 × 29 = 9 × (30 − 1) = 270 − 9 = 261.",
 "difficulty": "medium",
@@ -2132,10 +2314,11 @@
 {
 "question": "What is 171 ÷ 9?",
 "options": {
-"A": "19",
+"options": {"A":"19",
 "B": "18",
 "C": "20",
-"D": "17"},
+"D": "17"}
+},
 "answer": "A",
 "details": "9 × 19 = 171, so 171 ÷ 9 = 19.",
 "difficulty": "medium",
@@ -2144,10 +2327,11 @@
 {
 "question": "Which is a factor pair of 56?",
 "options": {
-"A": "(7, 8)",
+"options": {"A":"(7, 8)",
 "B": "(6, 9)",
 "C": "(5, 11)",
-"D": "(4, 12)"},
+"D": "(4, 12)"}
+},
 "answer": "A",
 "details": "7 × 8 = 56, so (7,8) is a factor pair.",
 "difficulty": "medium",
@@ -2156,10 +2340,11 @@
 {
 "question": "A pack of cards costs £12. How much for 11 packs?",
 "options": {
-"A": "£132",
+"options": {"A":"£132",
 "B": "£121",
 "C": "£144",
-"D": "£110"},
+"D": "£110"}
+},
 "answer": "A",
 "details": "12 × 11 = 132.",
 "difficulty": "medium",
@@ -2168,10 +2353,11 @@
 {
 "question": "What is 108 ÷ 12?",
 "options": {
-"A": "9",
+"options": {"A":"9",
 "B": "8",
 "C": "10",
-"D": "7"},
+"D": "7"}
+},
 "answer": "A",
 "details": "12 × 9 = 108, so 108 ÷ 12 = 9.",
 "difficulty": "medium",
@@ -2180,10 +2366,11 @@
 {
 "question": "Use short multiplication: 249 × 4.",
 "options": {
-"A": "996",
+"options": {"A":"996",
 "B": "986",
 "C": "1,006",
-"D": "896"},
+"D": "896"}
+},
 "answer": "A",
 "details": "Units: 9×4=36 (6, carry 3). Tens: 4×4=16+3=19 (9, carry 1). Hundreds: 2×4=8+1=9. Answer: 996.",
 "difficulty": "medium",
@@ -2192,10 +2379,11 @@
 {
 "question": "A school collects £378 for charity. If each of the 9 classes contributed equally, how much did each class give?",
 "options": {
-"A": "£42",
+"options": {"A":"£42",
 "B": "£41",
 "C": "£43",
-"D": "£32"},
+"D": "£32"}
+},
 "answer": "A",
 "details": "378 ÷ 9 = 42. 9 × 42 = 378.",
 "difficulty": "medium",
@@ -2204,10 +2392,11 @@
 {
 "question": "Which number is NOT a factor of 72?",
 "options": {
-"A": "7",
+"options": {"A":"7",
 "B": "8",
 "C": "9",
-"D": "6"},
+"D": "6"}
+},
 "answer": "A",
 "details": "72 ÷ 7 is not a whole number. 8, 9, and 6 all divide 72 evenly.",
 "difficulty": "medium",
@@ -2216,10 +2405,11 @@
 {
 "question": "What is 8 × 19 using mental math?",
 "options": {
-"A": "152",
+"options": {"A":"152",
 "B": "142",
 "C": "162",
-"D": "132"},
+"D": "132"}
+},
 "answer": "A",
 "details": "8 × 19 = 8 × (20 − 1) = 160 − 8 = 152.",
 "difficulty": "medium",
@@ -2228,10 +2418,11 @@
 {
 "question": "A box contains 18 packs of crayons. Each pack has 12 crayons. How many crayons in total?",
 "options": {
-"A": "216",
+"options": {"A":"216",
 "B": "206",
 "C": "226",
-"D": "196"},
+"D": "196"}
+},
 "answer": "A",
 "details": "18 × 12 = (10 × 12) + (8 × 12) = 120 + 96 = 216.",
 "difficulty": "medium",
@@ -2240,10 +2431,11 @@
 {
 "question": "What is 224 ÷ 7?",
 "options": {
-"A": "32",
+"options": {"A":"32",
 "B": "31",
 "C": "33",
-"D": "30"},
+"D": "30"}
+},
 "answer": "A",
 "details": "7 × 32 = 224. 7 × 30 = 210, 7 × 2 = 14; 210 + 14 = 224.",
 "difficulty": "medium",
@@ -2252,10 +2444,11 @@
 {
 "question": "Which demonstrates the commutative property?",
 "options": {
-"A": "15 × 3 = 3 × 15",
+"options": {"A":"15 × 3 = 3 × 15",
 "B": "15 ÷ 3 = 3 ÷ 15",
 "C": "15 + 3 = 3 × 15",
-"D": "15 − 3 = 3 − 15"},
+"D": "15 − 3 = 3 − 15"}
+},
 "answer": "A",
 "details": "Multiplication is commutative: the product is the same regardless of order.",
 "difficulty": "medium",
@@ -2264,10 +2457,11 @@
 {
 "question": "Use the distributive law: 68 × 4 = ?",
 "options": {
-"A": "(60 × 4) + (8 × 4)",
+"options": {"A":"(60 × 4) + (8 × 4)",
 "B": "(60 + 8) + (4 + 4)",
 "C": "60 × 8 × 4",
-"D": "68 + 4"},
+"D": "68 + 4"}
+},
 "answer": "A",
 "details": "68 × 4 = (60 + 8) × 4 = (60 × 4) + (8 × 4) = 240 + 32 = 272.",
 "difficulty": "medium",
@@ -2276,10 +2470,11 @@
 {
 "question": "What is 6 × 14 × 2?",
 "options": {
-"A": "168",
+"options": {"A":"168",
 "B": "158",
 "C": "178",
-"D": "148"},
+"D": "148"}
+},
 "answer": "A",
 "details": "6 × 2 = 12; 12 × 14 = (10 × 12) + (4 × 12) = 120 + 48 = 168.",
 "difficulty": "medium",
@@ -2288,10 +2483,11 @@
 {
 "question": "A cyclist rides 128 km each weekend. How far in 6 weekends?",
 "options": {
-"A": "768",
+"options": {"A":"768",
 "B": "758",
 "C": "778",
-"D": "668"},
+"D": "668"}
+},
 "answer": "A",
 "details": "128 × 6 = (100×6) + (20×6) + (8×6) = 600 + 120 + 48 = 768.",
 "difficulty": "medium",
@@ -2300,10 +2496,11 @@
 {
 "question": "What is 192 ÷ 12?",
 "options": {
-"A": "16",
+"options": {"A":"16",
 "B": "15",
 "C": "17",
-"D": "14"},
+"D": "14"}
+},
 "answer": "A",
 "details": "12 × 16 = 192, so 192 ÷ 12 = 16.",
 "difficulty": "medium",
@@ -2312,10 +2509,11 @@
 {
 "question": "How many factor pairs does 60 have?",
 "options": {
-"A": "6",
+"options": {"A":"6",
 "B": "5",
 "C": "7",
-"D": "4"},
+"D": "4"}
+},
 "answer": "A",
 "details": "Factor pairs: (1,60), (2,30), (3,20), (4,15), (5,12), (6,10). Total of 6 pairs.",
 "difficulty": "medium",
@@ -2324,10 +2522,11 @@
 {
 "question": "A theatre has 14 rows with 26 seats each. How many seats total?",
 "options": {
-"A": "364",
+"options": {"A":"364",
 "B": "354",
 "C": "374",
-"D": "264"},
+"D": "264"}
+},
 "answer": "A",
 "details": "14 × 26 = (10 × 26) + (4 × 26) = 260 + 104 = 364.",
 "difficulty": "medium",
@@ -2336,10 +2535,11 @@
 {
 "question": "What is 144 ÷ 12?",
 "options": {
-"A": "12",
+"options": {"A":"12",
 "B": "11",
 "C": "13",
-"D": "10"},
+"D": "10"}
+},
 "answer": "A",
 "details": "12 × 12 = 144, so 144 ÷ 12 = 12.",
 "difficulty": "medium",
@@ -2348,10 +2548,11 @@
 {
 "question": "Use short multiplication: 195 × 5.",
 "options": {
-"A": "975",
+"options": {"A":"975",
 "B": "965",
 "C": "985",
-"D": "875"},
+"D": "875"}
+},
 "answer": "A",
 "details": "Units: 5×5=25 (5, carry 2). Tens: 9×5=45+2=47 (7, carry 4). Hundreds: 1×5=5+4=9. Answer: 975.",
 "difficulty": "medium",
@@ -2360,10 +2561,11 @@
 {
 "question": "A farmer has 204 eggs and packs them in cartons of 6. How many cartons?",
 "options": {
-"A": "34",
+"options": {"A":"34",
 "B": "33",
 "C": "35",
-"D": "24"},
+"D": "24"}
+},
 "answer": "A",
 "details": "204 ÷ 6 = 34. 6 × 34 = 204.",
 "difficulty": "medium",
@@ -2372,10 +2574,11 @@
 {
 "question": "Which is the same as 7 × 24?",
 "options": {
-"A": "(7 × 20) + (7 × 4)",
+"options": {"A":"(7 × 20) + (7 × 4)",
 "B": "(7 + 20) × (7 + 4)",
 "C": "7 + 20 × 4",
-"D": "7 × 24 × 0"},
+"D": "7 × 24 × 0"}
+},
 "answer": "A",
 "details": "Distributive law: 7 × 24 = 7 × (20 + 4) = (7 × 20) + (7 × 4) = 140 + 28 = 168.",
 "difficulty": "medium",
@@ -2384,10 +2587,11 @@
 {
 "question": "What is 9 × 17?",
 "options": {
-"A": "153",
+"options": {"A":"153",
 "B": "143",
 "C": "163",
-"D": "133"},
+"D": "133"}
+},
 "answer": "A",
 "details": "9 × 17 = 9 × (10 + 7) = 90 + 63 = 153.",
 "difficulty": "medium",
@@ -2396,10 +2600,11 @@
 {
 "question": "A school buys 8 sets of science kits. Each set costs £29. What is the total cost?",
 "options": {
-"A": "£232",
+"options": {"A":"£232",
 "B": "£222",
 "C": "£242",
-"D": "£212"},
+"D": "£212"}
+},
 "answer": "A",
 "details": "8 × 29 = 8 × (30 − 1) = 240 − 8 = 232.",
 "difficulty": "medium",
@@ -2408,10 +2613,11 @@
 {
 "question": "What is 180 ÷ 12?",
 "options": {
-"A": "15",
+"options": {"A":"15",
 "B": "14",
 "C": "16",
-"D": "13"},
+"D": "13"}
+},
 "answer": "A",
 "details": "12 × 15 = 180, so 180 ÷ 12 = 15.",
 "difficulty": "medium",
@@ -2420,10 +2626,11 @@
 {
 "question": "What is 24 × 7?",
 "options": {
-"A": "148",
+"options": {"A":"148",
 "B": "168",
 "C": "178",
-"D": "188"},
+"D": "188"}
+},
 "answer": "B",
 "details": "Use short multiplication: 4 × 7 = 28 (write 8, carry 2); 2 × 7 = 14, plus 2 = 16. So, 168.",
 "difficulty": "hard",
@@ -2432,10 +2639,11 @@
 {
 "question": "Which of these is equal to 6 × 8 × 5?",
 "options": {
-"A": "200",
+"options": {"A":"200",
 "B": "220",
 "C": "240",
-"D": "260"},
+"D": "260"}
+},
 "answer": "C",
 "details": "Use commutativity: 6 × 5 = 30, then 30 × 8 = 240.",
 "difficulty": "hard",
@@ -2444,10 +2652,11 @@
 {
 "question": "What is 312 ÷ 6?",
 "options": {
-"A": "48",
+"options": {"A":"48",
 "B": "50",
 "C": "52",
-"D": "54"},
+"D": "54"}
+},
 "answer": "C",
 "details": "6 × 50 = 300, remainder 12; 12 ÷ 6 = 2; total = 50 + 2 = 52.",
 "difficulty": "hard",
@@ -2456,10 +2665,11 @@
 {
 "question": "Which number sentence uses the distributive law correctly for 47 × 6?",
 "options": {
-"A": "40 × 6 + 7 × 6",
+"options": {"A":"40 × 6 + 7 × 6",
 "B": "4 × 6 + 7 × 6",
 "C": "40 × 7 + 6",
-"D": "47 + 6 × 6"},
+"D": "47 + 6 × 6"}
+},
 "answer": "A",
 "details": "47 = 40 + 7, so 47 × 6 = (40 + 7) × 6 = 40 × 6 + 7 × 6.",
 "difficulty": "hard",
@@ -2468,10 +2678,11 @@
 {
 "question": "A box holds 24 pencils. How many pencils are in 18 boxes?",
 "options": {
-"A": "402",
+"options": {"A":"402",
 "B": "412",
 "C": "432",
-"D": "452"},
+"D": "452"}
+},
 "answer": "C",
 "details": "24 × 18 = (20 × 18) + (4 × 18) = 360 + 72 = 432.",
 "difficulty": "hard",
@@ -2480,10 +2691,11 @@
 {
 "question": "Which of these is a factor pair of 48?",
 "options": {
-"A": "5 and 9",
+"options": {"A":"5 and 9",
 "B": "6 and 8",
 "C": "7 and 7",
-"D": "4 and 14"},
+"D": "4 and 14"}
+},
 "answer": "B",
 "details": "6 × 8 = 48, so (6, 8) is a factor pair. Others do not multiply to 48.",
 "difficulty": "hard",
@@ -2492,10 +2704,11 @@
 {
 "question": "What is 0 × 132?",
 "options": {
-"A": "0",
+"options": {"A":"0",
 "B": "1",
 "C": "132",
-"D": "1320"},
+"D": "1320"}
+},
 "answer": "A",
 "details": "Any number multiplied by 0 is 0.",
 "difficulty": "hard",
@@ -2504,10 +2717,11 @@
 {
 "question": "What is 96 ÷ 8?",
 "options": {
-"A": "11",
+"options": {"A":"11",
 "B": "12",
 "C": "13",
-"D": "14"},
+"D": "14"}
+},
 "answer": "B",
 "details": "8 × 12 = 96, so 96 ÷ 8 = 12.",
 "difficulty": "hard",
@@ -2516,10 +2730,11 @@
 {
 "question": "Which calculation gives the largest answer?",
 "options": {
-"A": "15 × 6",
+"options": {"A":"15 × 6",
 "B": "12 × 8",
 "C": "10 × 9",
-"D": "14 × 7"},
+"D": "14 × 7"}
+},
 "answer": "D",
 "details": "15 × 6 = 90, 12 × 8 = 96, 10 × 9 = 90, 14 × 7 = 98. Largest is 98.",
 "difficulty": "hard",
@@ -2528,10 +2743,11 @@
 {
 "question": "There are 4 types of bread, 3 fillings, and 2 sauces. How many sandwich combinations can you make?",
 "options": {
-"A": "9",
+"options": {"A":"9",
 "B": "18",
 "C": "24",
-"D": "36"},
+"D": "36"}
+},
 "answer": "C",
 "details": "Use correspondence: 4 × 3 × 2 = 24 combinations.",
 "difficulty": "hard",
@@ -2540,10 +2756,11 @@
 {
 "question": "What is 17 × 17?",
 "options": {
-"A": "279",
+"options": {"A":"279",
 "B": "289",
 "C": "299",
-"D": "309"},
+"D": "309"}
+},
 "answer": "B",
 "details": "17 × 17 = (10 + 7)² = 100 + 2×70 + 49 = 289. Or recall square fact.",
 "difficulty": "hard",
@@ -2552,10 +2769,11 @@
 {
 "question": "Which number is missing? 8 × ___ = 144",
 "options": {
-"A": "16",
+"options": {"A":"16",
 "B": "17",
 "C": "18",
-"D": "19"},
+"D": "19"}
+},
 "answer": "C",
 "details": "144 ÷ 8 = 18, since 8 × 18 = 144.",
 "difficulty": "hard",
@@ -2564,10 +2782,11 @@
 {
 "question": "What is 504 ÷ 9?",
 "options": {
-"A": "52",
+"options": {"A":"52",
 "B": "54",
 "C": "56",
-"D": "58"},
+"D": "58"}
+},
 "answer": "C",
 "details": "9 × 56 = 504 (9×50=450, 9×6=54; 450+54=504).",
 "difficulty": "hard",
@@ -2576,10 +2795,11 @@
 {
 "question": "Which is true because of commutativity?",
 "options": {
-"A": "5 × (3 + 4) = 5×3 + 5×4",
+"options": {"A":"5 × (3 + 4) = 5×3 + 5×4",
 "B": "6 × 7 = 7 × 6",
 "C": "8 ÷ 2 = 4",
-"D": "9 × 1 = 9"},
+"D": "9 × 1 = 9"}
+},
 "answer": "B",
 "details": "Commutativity means order doesn’t matter in multiplication: a × b = b × a.",
 "difficulty": "hard",
@@ -2588,10 +2808,11 @@
 {
 "question": "A printer prints 36 pages per minute. How many pages in 25 minutes?",
 "options": {
-"A": "800",
+"options": {"A":"800",
 "B": "850",
 "C": "900",
-"D": "950"},
+"D": "950"}
+},
 "answer": "C",
 "details": "36 × 25 = (36 × 100) ÷ 4 = 3600 ÷ 4 = 900. Or 30×25=750, 6×25=150, total 900.",
 "difficulty": "hard",
@@ -2600,10 +2821,11 @@
 {
 "question": "How many factor pairs does 36 have?",
 "options": {
-"A": "4",
+"options": {"A":"4",
 "B": "5",
 "C": "6",
-"D": "7"},
+"D": "7"}
+},
 "answer": "B",
 "details": "Factor pairs: (1,36), (2,18), (3,12), (4,9), (6,6) → 5 pairs.",
 "difficulty": "hard",
@@ -2612,10 +2834,11 @@
 {
 "question": "What is 123 × 6?",
 "options": {
-"A": "728",
+"options": {"A":"728",
 "B": "738",
 "C": "748",
-"D": "758"},
+"D": "758"}
+},
 "answer": "B",
 "details": "3×6=18 (write 8, carry 1); 2×6=12+1=13 (write 3, carry 1); 1×6=6+1=7 → 738.",
 "difficulty": "hard",
@@ -2624,10 +2847,11 @@
 {
 "question": "Which calculation equals 0?",
 "options": {
-"A": "15 ÷ 1",
+"options": {"A":"15 ÷ 1",
 "B": "0 ÷ 5",
 "C": "7 × 1",
-"D": "8 ÷ 0"},
+"D": "8 ÷ 0"}
+},
 "answer": "B",
 "details": "0 divided by any non-zero number is 0. Division by 0 (D) is undefined.",
 "difficulty": "hard",
@@ -2636,10 +2860,11 @@
 {
 "question": "Using 7 × 8 = 56, what is 7 × 80?",
 "options": {
-"A": "56",
+"options": {"A":"56",
 "B": "560",
 "C": "5600",
-"D": "630"},
+"D": "630"}
+},
 "answer": "B",
 "details": "7 × 80 = 7 × 8 × 10 = 56 × 10 = 560.",
 "difficulty": "hard",
@@ -2648,10 +2873,11 @@
 {
 "question": "A school buys 24 calculators for £13 each. What is the total cost?",
 "options": {
-"A": "£292",
+"options": {"A":"£292",
 "B": "£302",
 "C": "£312",
-"D": "£322"},
+"D": "£322"}
+},
 "answer": "C",
 "details": "24 × 13 = (20×13) + (4×13) = 260 + 52 = 312.",
 "difficulty": "hard",
@@ -2660,10 +2886,11 @@
 {
 "question": "What is 11 × 12 × 2?",
 "options": {
-"A": "244",
+"options": {"A":"244",
 "B": "254",
 "C": "264",
-"D": "274"},
+"D": "274"}
+},
 "answer": "C",
 "details": "11 × 12 = 132; 132 × 2 = 264. Or 12 × 2 = 24; 24 × 11 = 264.",
 "difficulty": "hard",
@@ -2672,10 +2899,11 @@
 {
 "question": "Which number is both a multiple of 9 and 12?",
 "options": {
-"A": "36",
+"options": {"A":"36",
 "B": "48",
 "C": "60",
-"D": "72"},
+"D": "72"}
+},
 "answer": "A",
 "details": "LCM of 9 and 12 is 36. 9×4=36, 12×3=36. (Note: 72 is also, but 36 is smallest and listed.)",
 "difficulty": "hard",
@@ -2684,10 +2912,11 @@
 {
 "question": "What is 405 ÷ 5?",
 "options": {
-"A": "81",
+"options": {"A":"81",
 "B": "83",
 "C": "85",
-"D": "87"},
+"D": "87"}
+},
 "answer": "A",
 "details": "5 × 80 = 400, remainder 5 → 1 more → 81.",
 "difficulty": "hard",
@@ -2696,10 +2925,11 @@
 {
 "question": "Which shows the distributive law for 28 × 5?",
 "options": {
-"A": "20 × 5 + 8 × 5",
+"options": {"A":"20 × 5 + 8 × 5",
 "B": "2 × 5 + 8 × 5",
 "C": "20 × 8 + 5",
-"D": "28 + 5 × 5"},
+"D": "28 + 5 × 5"}
+},
 "answer": "A",
 "details": "28 = 20 + 8, so 28 × 5 = 20×5 + 8×5.",
 "difficulty": "hard",
@@ -2708,10 +2938,11 @@
 {
 "question": "A pack has 15 stickers. How many stickers in 32 packs?",
 "options": {
-"A": "460",
+"options": {"A":"460",
 "B": "470",
 "C": "480",
-"D": "490"},
+"D": "490"}
+},
 "answer": "C",
 "details": "15 × 32 = (10×32) + (5×32) = 320 + 160 = 480.",
 "difficulty": "hard",
@@ -2720,10 +2951,11 @@
 {
 "question": "What is the missing factor? ___ × 7 = 161",
 "options": {
-"A": "21",
+"options": {"A":"21",
 "B": "22",
 "C": "23",
-"D": "24"},
+"D": "24"}
+},
 "answer": "C",
 "details": "161 ÷ 7 = 23, since 7 × 23 = 161.",
 "difficulty": "hard",
@@ -2732,10 +2964,11 @@
 {
 "question": "Which is NOT a factor of 60?",
 "options": {
-"A": "8",
+"options": {"A":"8",
 "B": "10",
 "C": "12",
-"D": "15"},
+"D": "15"}
+},
 "answer": "A",
 "details": "60 ÷ 8 = 7.5, not whole. Others divide evenly: 60÷10=6, ÷12=5, ÷15=4.",
 "difficulty": "hard",
@@ -2744,10 +2977,11 @@
 {
 "question": "What is 99 × 9?",
 "options": {
-"A": "881",
+"options": {"A":"881",
 "B": "891",
 "C": "901",
-"D": "911"},
+"D": "911"}
+},
 "answer": "B",
 "details": "100×9=900, minus 1×9=9 → 900−9=891.",
 "difficulty": "hard",
@@ -2756,10 +2990,11 @@
 {
 "question": "How many seconds in 15 minutes?",
 "options": {
-"A": "600",
+"options": {"A":"600",
 "B": "750",
 "C": "900",
-"D": "1050"},
+"D": "1050"}
+},
 "answer": "C",
 "details": "1 minute = 60 seconds, so 15 × 60 = 900.",
 "difficulty": "hard",
@@ -2768,10 +3003,11 @@
 {
 "question": "Which number sentence is true?",
 "options": {
-"A": "48 ÷ 6 = 7",
+"options": {"A":"48 ÷ 6 = 7",
 "B": "63 ÷ 9 = 8",
 "C": "72 ÷ 8 = 9",
-"D": "54 ÷ 6 = 8"},
+"D": "54 ÷ 6 = 8"}
+},
 "answer": "C",
 "details": "72 ÷ 8 = 9 is correct. A: 8, B: 7, D: 9 — so only C is right.",
 "difficulty": "hard",
@@ -2780,10 +3016,11 @@
 {
 "question": "What is 136 × 4?",
 "options": {
-"A": "524",
+"options": {"A":"524",
 "B": "534",
 "C": "544",
-"D": "554"},
+"D": "554"}
+},
 "answer": "C",
 "details": "6×4=24 (write 4, carry 2); 3×4=12+2=14 (write 4, carry 1); 1×4=4+1=5 → 544.",
 "difficulty": "hard",
@@ -2792,10 +3029,11 @@
 {
 "question": "A bookshelf holds 35 books. How many books on 24 shelves?",
 "options": {
-"A": "820",
+"options": {"A":"820",
 "B": "830",
 "C": "840",
-"D": "850"},
+"D": "850"}
+},
 "answer": "C",
 "details": "35 × 24 = (30×24) + (5×24) = 720 + 120 = 840.",
 "difficulty": "hard",
@@ -2804,10 +3042,11 @@
 {
 "question": "Which calculation uses three numbers multiplied mentally?",
 "options": {
-"A": "4 × 25 = 100",
+"options": {"A":"4 × 25 = 100",
 "B": "5 × 6 × 4 = 120",
 "C": "72 ÷ 8 = 9",
-"D": "9 × 9 = 81"},
+"D": "9 × 9 = 81"}
+},
 "answer": "B",
 "details": "Option B multiplies three numbers: 5, 6, and 4.",
 "difficulty": "hard",
@@ -2816,10 +3055,11 @@
 {
 "question": "What is 225 ÷ 15?",
 "options": {
-"A": "12",
+"options": {"A":"12",
 "B": "13",
 "C": "14",
-"D": "15"},
+"D": "15"}
+},
 "answer": "D",
 "details": "15 × 15 = 225, so 225 ÷ 15 = 15.",
 "difficulty": "hard",
@@ -2828,10 +3068,11 @@
 {
 "question": "Using 9 × 6 = 54, what is 90 × 6?",
 "options": {
-"A": "54",
+"options": {"A":"54",
 "B": "540",
 "C": "5400",
-"D": "600"},
+"D": "600"}
+},
 "answer": "B",
 "details": "90 × 6 = 9 × 10 × 6 = 54 × 10 = 540.",
 "difficulty": "hard",
@@ -2840,10 +3081,11 @@
 {
 "question": "How many legs do 27 chairs have if each has 4 legs?",
 "options": {
-"A": "104",
+"options": {"A":"104",
 "B": "108",
 "C": "112",
-"D": "116"},
+"D": "116"}
+},
 "answer": "B",
 "details": "27 × 4 = 108.",
 "difficulty": "hard",
@@ -2852,10 +3094,11 @@
 {
 "question": "Which is the correct short multiplication layout for 214 × 3?",
 "options": {
-"A": "214 × 3 = 642",
+"options": {"A":"214 × 3 = 642",
 "B": "214 + 3 = 217",
 "C": "214 ÷ 3 = 71 r1",
-"D": "214 − 3 = 211"},
+"D": "214 − 3 = 211"}
+},
 "answer": "A",
 "details": "Short multiplication: 4×3=12 (write 2, carry 1); 1×3=3+1=4; 2×3=6 → 642.",
 "difficulty": "hard",
@@ -2864,10 +3107,11 @@
 {
 "question": "What is 12 × 12 × 1?",
 "options": {
-"A": "120",
+"options": {"A":"120",
 "B": "132",
 "C": "144",
-"D": "156"},
+"D": "156"}
+},
 "answer": "C",
 "details": "12 × 12 = 144; ×1 = 144.",
 "difficulty": "hard",
@@ -2876,10 +3120,11 @@
 {
 "question": "A farmer has 8 rows of 18 apple trees. How many trees?",
 "options": {
-"A": "124",
+"options": {"A":"124",
 "B": "134",
 "C": "144",
-"D": "154"},
+"D": "154"}
+},
 "answer": "C",
 "details": "8 × 18 = 144.",
 "difficulty": "hard",
@@ -2888,10 +3133,11 @@
 {
 "question": "Which number is a common factor of 24 and 36?",
 "options": {
-"A": "5",
+"options": {"A":"5",
 "B": "7",
 "C": "8",
-"D": "12"},
+"D": "12"}
+},
 "answer": "D",
 "details": "Factors of 24: 1,2,3,4,6,8,12,24. Of 36: 1,2,3,4,6,9,12,18,36. Common: 12 is one.",
 "difficulty": "hard",
@@ -2900,10 +3146,11 @@
 {
 "question": "What is 702 ÷ 9?",
 "options": {
-"A": "72",
+"options": {"A":"72",
 "B": "76",
 "C": "78",
-"D": "82"},
+"D": "82"}
+},
 "answer": "C",
 "details": "9 × 78 = 702 (9×70=630, 9×8=72; 630+72=702).",
 "difficulty": "hard",
@@ -2912,10 +3159,11 @@
 {
 "question": "Which shows commutativity?",
 "options": {
-"A": "4 × 5 = 5 × 4",
+"options": {"A":"4 × 5 = 5 × 4",
 "B": "4 + 5 = 5 + 4",
 "C": "4 × (5 + 2) = 4×5 + 4×2",
-"D": "4 ÷ 1 = 4"},
+"D": "4 ÷ 1 = 4"}
+},
 "answer": "A",
 "details": "Commutativity in multiplication: order doesn’t matter.",
 "difficulty": "hard",
@@ -2924,10 +3172,11 @@
 {
 "question": "What is 19 × 13?",
 "options": {
-"A": "227",
+"options": {"A":"227",
 "B": "237",
 "C": "247",
-"D": "257"},
+"D": "257"}
+},
 "answer": "C",
 "details": "19×10=190, 19×3=57; 190+57=247.",
 "difficulty": "hard",
@@ -2936,10 +3185,11 @@
 {
 "question": "A cake recipe needs 3 eggs for 12 people. How many eggs for 36 people?",
 "options": {
-"A": "6",
+"options": {"A":"6",
 "B": "9",
 "C": "12",
-"D": "15"},
+"D": "15"}
+},
 "answer": "B",
 "details": "36 ÷ 12 = 3 times as many; 3 × 3 = 9 eggs (integer scaling).",
 "difficulty": "hard",
@@ -2948,10 +3198,11 @@
 {
 "question": "Which is true? 8 × 9 =",
 "options": {
-"A": "64",
+"options": {"A":"64",
 "B": "72",
 "C": "81",
-"D": "90"},
+"D": "90"}
+},
 "answer": "B",
 "details": "8 × 9 = 72 (recall multiplication fact).",
 "difficulty": "hard",
@@ -2960,10 +3211,11 @@
 {
 "question": "What is 301 × 3?",
 "options": {
-"A": "901",
+"options": {"A":"901",
 "B": "903",
 "C": "909",
-"D": "913"},
+"D": "913"}
+},
 "answer": "B",
 "details": "1×3=3; 0×3=0; 3×3=9 → 903.",
 "difficulty": "hard",
@@ -2972,10 +3224,11 @@
 {
 "question": "How many minutes in 12 hours?",
 "options": {
-"A": "600",
+"options": {"A":"600",
 "B": "660",
 "C": "720",
-"D": "780"},
+"D": "780"}
+},
 "answer": "C",
 "details": "12 × 60 = 720.",
 "difficulty": "hard",
@@ -2984,10 +3237,11 @@
 {
 "question": "Which number completes the factor pair (9, __) for 81?",
 "options": {
-"A": "7",
+"options": {"A":"7",
 "B": "8",
 "C": "9",
-"D": "10"},
+"D": "10"}
+},
 "answer": "C",
 "details": "9 × 9 = 81, so the pair is (9,9).",
 "difficulty": "hard",
@@ -2996,10 +3250,11 @@
 {
 "question": "What is 6 × 7 × 5?",
 "options": {
-"A": "200",
+"options": {"A":"200",
 "B": "210",
 "C": "220",
-"D": "230"},
+"D": "230"}
+},
 "answer": "B",
 "details": "6 × 5 = 30; 30 × 7 = 210.",
 "difficulty": "hard",
@@ -3008,10 +3263,11 @@
 {
 "question": "A toy costs £8. How much for 45 toys?",
 "options": {
-"A": "£320",
+"options": {"A":"£320",
 "B": "£340",
 "C": "£360",
-"D": "£380"},
+"D": "£380"}
+},
 "answer": "C",
 "details": "45 × 8 = 360.",
 "difficulty": "hard",
@@ -3020,10 +3276,11 @@
 {
 "question": "Which calculation gives 1?",
 "options": {
-"A": "15 × 0",
+"options": {"A":"15 × 0",
 "B": "15 ÷ 15",
 "C": "15 ÷ 1",
-"D": "1 × 0"},
+"D": "1 × 0"}
+},
 "answer": "B",
 "details": "Any number divided by itself is 1 (except 0).",
 "difficulty": "hard",
@@ -3032,10 +3289,11 @@
 {
 "question": "What is 528 ÷ 8?",
 "options": {
-"A": "62",
+"options": {"A":"62",
 "B": "64",
 "C": "66",
-"D": "68"},
+"D": "68"}
+},
 "answer": "C",
 "details": "8 × 66 = 528 (8×60=480, 8×6=48; 480+48=528).",
 "difficulty": "hard",
@@ -3044,10 +3302,11 @@
 {
 "question": "Using distributive law, 56 × 4 =",
 "options": {
-"A": "50 × 4 + 6 × 4",
+"options": {"A":"50 × 4 + 6 × 4",
 "B": "5 × 4 + 6 × 4",
 "C": "50 × 6 + 4",
-"D": "56 + 4 × 4"},
+"D": "56 + 4 × 4"}
+},
 "answer": "A",
 "details": "56 = 50 + 6, so 56 × 4 = 50×4 + 6×4.",
 "difficulty": "hard",
@@ -3056,10 +3315,11 @@
 {
 "question": "There are 7 ice cream flavours and 4 toppings. How many combinations?",
 "options": {
-"A": "11",
+"options": {"A":"11",
 "B": "21",
 "C": "28",
-"D": "35"},
+"D": "35"}
+},
 "answer": "C",
 "details": "7 × 4 = 28 combinations (correspondence problem).",
 "difficulty": "hard",
@@ -3068,10 +3328,11 @@
 {
 "question": "What is 25 × 16?",
 "options": {
-"A": "380",
+"options": {"A":"380",
 "B": "400",
 "C": "420",
-"D": "440"},
+"D": "440"}
+},
 "answer": "B",
 "details": "25 × 16 = (25 × 4) × 4 = 100 × 4 = 400.",
 "difficulty": "hard",
@@ -3080,10 +3341,11 @@
 {
 "question": "Which is NOT a multiple of 7?",
 "options": {
-"A": "63",
+"options": {"A":"63",
 "B": "70",
 "C": "77",
-"D": "85"},
+"D": "85"}
+},
 "answer": "D",
 "details": "7×9=63, 7×10=70, 7×11=77, but 7×12=84, so 85 is not.",
 "difficulty": "hard",
@@ -3092,10 +3354,11 @@
 {
 "question": "What is 144 ÷ 12?",
 "options": {
-"A": "10",
+"options": {"A":"10",
 "B": "11",
 "C": "12",
-"D": "13"},
+"D": "13"}
+},
 "answer": "C",
 "details": "12 × 12 = 144, so 144 ÷ 12 = 12.",
 "difficulty": "hard",
@@ -3104,10 +3367,11 @@
 {
 "question": "A rectangle has 12 rows of 15 tiles. How many tiles?",
 "options": {
-"A": "160",
+"options": {"A":"160",
 "B": "170",
 "C": "180",
-"D": "190"},
+"D": "190"}
+},
 "answer": "C",
 "details": "12 × 15 = 180.",
 "difficulty": "hard",
@@ -3116,10 +3380,11 @@
 {
 "question": "Which uses place value to multiply mentally?",
 "options": {
-"A": "200 × 4 = 800",
+"options": {"A":"200 × 4 = 800",
 "B": "199 × 4 = 796",
 "C": "201 × 4 = 804",
-"D": "All of the above"},
+"D": "All of the above"}
+},
 "answer": "D",
 "details": "All use understanding of place value and derived facts from 200×4.",
 "difficulty": "hard",
@@ -3128,10 +3393,11 @@
 {
 "question": "What is 11 × 11 × 2?",
 "options": {
-"A": "222",
+"options": {"A":"222",
 "B": "232",
 "C": "242",
-"D": "252"},
+"D": "252"}
+},
 "answer": "C",
 "details": "11×11=121; 121×2=242.",
 "difficulty": "hard",
@@ -3140,10 +3406,11 @@
 {
 "question": "How many wheels on 35 cars (each has 4 wheels)?",
 "options": {
-"A": "130",
+"options": {"A":"130",
 "B": "140",
 "C": "150",
-"D": "160"},
+"D": "160"}
+},
 "answer": "B",
 "details": "35 × 4 = 140.",
 "difficulty": "hard",
@@ -3152,10 +3419,11 @@
 {
 "question": "Which number is missing? ___ ÷ 9 = 13",
 "options": {
-"A": "107",
+"options": {"A":"107",
 "B": "117",
 "C": "127",
-"D": "137"},
+"D": "137"}
+},
 "answer": "B",
 "details": "13 × 9 = 117.",
 "difficulty": "hard",
@@ -3164,10 +3432,11 @@
 {
 "question": "What is 209 × 4?",
 "options": {
-"A": "826",
+"options": {"A":"826",
 "B": "836",
 "C": "846",
-"D": "856"},
+"D": "856"}
+},
 "answer": "B",
 "details": "9×4=36 (write 6, carry 3); 0×4=0+3=3; 2×4=8 → 836.",
 "difficulty": "hard",
@@ -3176,10 +3445,11 @@
 {
 "question": "A school trip has 6 classes of 28 children. How many children?",
 "options": {
-"A": "158",
+"options": {"A":"158",
 "B": "168",
 "C": "178",
-"D": "188"},
+"D": "188"}
+},
 "answer": "B",
 "details": "6 × 28 = 168.",
 "difficulty": "hard",
@@ -3188,10 +3458,11 @@
 {
 "question": "Which is a factor pair of 100?",
 "options": {
-"A": "(3, 33)",
+"options": {"A":"(3, 33)",
 "B": "(4, 25)",
 "C": "(5, 15)",
-"D": "(6, 14)"},
+"D": "(6, 14)"}
+},
 "answer": "B",
 "details": "4 × 25 = 100.",
 "difficulty": "hard",
@@ -3200,10 +3471,11 @@
 {
 "question": "What is 9 × 8 × 0?",
 "options": {
-"A": "0",
+"options": {"A":"0",
 "B": "72",
 "C": "81",
-"D": "90"},
+"D": "90"}
+},
 "answer": "A",
 "details": "Any number multiplied by 0 is 0.",
 "difficulty": "hard",
@@ -3212,10 +3484,11 @@
 {
 "question": "Which shows the distributive law for 83 × 6?",
 "options": {
-"A": "80 × 6 + 3 × 6",
+"options": {"A":"80 × 6 + 3 × 6",
 "B": "8 × 6 + 3 × 6",
 "C": "80 × 3 + 6",
-"D": "83 + 6 × 6"},
+"D": "83 + 6 × 6"}
+},
 "answer": "A",
 "details": "83 = 80 + 3, so 83 × 6 = 80×6 + 3×6.",
 "difficulty": "hard",
@@ -3224,10 +3497,11 @@
 {
 "question": "What is 625 ÷ 25?",
 "options": {
-"A": "20",
+"options": {"A":"20",
 "B": "22",
 "C": "25",
-"D": "30"},
+"D": "30"}
+},
 "answer": "C",
 "details": "25 × 25 = 625, so 625 ÷ 25 = 25.",
 "difficulty": "hard",
@@ -3236,10 +3510,11 @@
 {
 "question": "A box of crayons has 24 crayons. How many in 36 boxes?",
 "options": {
-"A": "844",
+"options": {"A":"844",
 "B": "854",
 "C": "864",
-"D": "874"},
+"D": "874"}
+},
 "answer": "C",
 "details": "24 × 36 = (20×36) + (4×36) = 720 + 144 = 864.",
 "difficulty": "hard",
@@ -3248,10 +3523,11 @@
 {
 "question": "Which calculation equals 100?",
 "options": {
-"A": "4 × 25",
+"options": {"A":"4 × 25",
 "B": "5 × 20",
 "C": "10 × 10",
-"D": "All of the above"},
+"D": "All of the above"}
+},
 "answer": "D",
 "details": "4×25=100, 5×20=100, 10×10=100.",
 "difficulty": "hard",
@@ -3260,10 +3536,11 @@
 {
 "question": "What is 12 × 9 × 3?",
 "options": {
-"A": "314",
+"options": {"A":"314",
 "B": "324",
 "C": "334",
-"D": "344"},
+"D": "344"}
+},
 "answer": "B",
 "details": "12×9=108; 108×3=324.",
 "difficulty": "hard",
@@ -3272,10 +3549,11 @@
 {
 "question": "How many months in 8 years?",
 "options": {
-"A": "84",
+"options": {"A":"84",
 "B": "90",
 "C": "96",
-"D": "102"},
+"D": "102"}
+},
 "answer": "C",
 "details": "8 × 12 = 96.",
 "difficulty": "hard",
@@ -3284,10 +3562,11 @@
 {
 "question": "Which number is divisible by both 6 and 8?",
 "options": {
-"A": "24",
+"options": {"A":"24",
 "B": "32",
 "C": "36",
-"D": "40"},
+"D": "40"}
+},
 "answer": "A",
 "details": "24 ÷ 6 = 4, 24 ÷ 8 = 3. Others fail one test.",
 "difficulty": "hard",
@@ -3296,10 +3575,11 @@
 {
 "question": "What is 1001 ÷ 7?",
 "options": {
-"A": "143",
+"options": {"A":"143",
 "B": "153",
 "C": "163",
-"D": "173"},
+"D": "173"}
+},
 "answer": "A",
 "details": "7 × 143 = 1001 (7×140=980, 7×3=21; 980+21=1001).",
 "difficulty": "hard",
@@ -3308,10 +3588,11 @@
 {
 "question": "A shirt costs £18. How much for 25 shirts?",
 "options": {
-"A": "£420",
+"options": {"A":"£420",
 "B": "£430",
 "C": "£440",
-"D": "£450"},
+"D": "£450"}
+},
 "answer": "D",
 "details": "25 × 18 = (20×18) + (5×18) = 360 + 90 = 450.",
 "difficulty": "hard",
@@ -3320,10 +3601,11 @@
 {
 "question": "Which uses commutativity correctly?",
 "options": {
-"A": "3 × 4 × 5 = 5 × 4 × 3",
+"options": {"A":"3 × 4 × 5 = 5 × 4 × 3",
 "B": "3 + 4 + 5 = 5 × 4 × 3",
 "C": "3 × (4 + 5) = 3×4 + 5",
-"D": "3 ÷ 1 = 1 ÷ 3"},
+"D": "3 ÷ 1 = 1 ÷ 3"}
+},
 "answer": "A",
 "details": "Order of multiplication can be changed: 3×4×5 = 5×4×3 = 60.",
 "difficulty": "hard",
@@ -3332,10 +3614,11 @@
 {
 "question": "What is 7 × 8 × 2?",
 "options": {
-"A": "102",
+"options": {"A":"102",
 "B": "112",
 "C": "122",
-"D": "132"},
+"D": "132"}
+},
 "answer": "B",
 "details": "7×8=56; 56×2=112.",
 "difficulty": "hard",
@@ -3344,10 +3627,11 @@
 {
 "question": "A pack of cards has 52 cards. How many in 7 packs?",
 "options": {
-"A": "354",
+"options": {"A":"354",
 "B": "364",
 "C": "374",
-"D": "384"},
+"D": "384"}
+},
 "answer": "B",
 "details": "50×7=350, 2×7=14; total 364.",
 "difficulty": "hard",
@@ -3356,10 +3640,11 @@
 {
 "question": "Which number is a square number and a multiple of 9?",
 "options": {
-"A": "18",
+"options": {"A":"18",
 "B": "36",
 "C": "45",
-"D": "54"},
+"D": "54"}
+},
 "answer": "B",
 "details": "36 = 6² and 9×4 = 36.",
 "difficulty": "hard",
@@ -3368,10 +3653,11 @@
 {
 "question": "What is 432 ÷ 12?",
 "options": {
-"A": "32",
+"options": {"A":"32",
 "B": "34",
 "C": "36",
-"D": "38"},
+"D": "38"}
+},
 "answer": "C",
 "details": "12 × 36 = 432.",
 "difficulty": "hard",
@@ -3380,10 +3666,11 @@
 {
 "question": "Using 6 × 7 = 42, what is 6 × 700?",
 "options": {
-"A": "420",
+"options": {"A":"420",
 "B": "4200",
 "C": "42000",
-"D": "4800"},
+"D": "4800"}
+},
 "answer": "B",
 "details": "6 × 700 = 6 × 7 × 100 = 42 × 100 = 4200.",
 "difficulty": "hard",
@@ -3392,10 +3679,11 @@
 {
 "question": "How many hours in 7 days?",
 "options": {
-"A": "148",
+"options": {"A":"148",
 "B": "158",
 "C": "168",
-"D": "178"},
+"D": "178"}
+},
 "answer": "C",
 "details": "7 × 24 = 168.",
 "difficulty": "hard",
@@ -3404,10 +3692,11 @@
 {
 "question": "Which is true? 108 ÷ 9 =",
 "options": {
-"A": "10",
+"options": {"A":"10",
 "B": "11",
 "C": "12",
-"D": "13"},
+"D": "13"}
+},
 "answer": "C",
 "details": "9 × 12 = 108.",
 "difficulty": "hard",
@@ -3416,10 +3705,11 @@
 {
 "question": "What is 156 × 5?",
 "options": {
-"A": "760",
+"options": {"A":"760",
 "B": "770",
 "C": "780",
-"D": "790"},
+"D": "790"}
+},
 "answer": "C",
 "details": "6×5=30 (write 0, carry 3); 5×5=25+3=28 (write 8, carry 2); 1×5=5+2=7 → 780.",
 "difficulty": "hard",
@@ -3428,10 +3718,11 @@
 {
 "question": "A garden has 14 rows of 19 plants. How many plants?",
 "options": {
-"A": "256",
+"options": {"A":"256",
 "B": "266",
 "C": "276",
-"D": "286"},
+"D": "286"}
+},
 "answer": "B",
 "details": "14 × 19 = (10×19) + (4×19) = 190 + 76 = 266.",
 "difficulty": "hard",
@@ -3440,10 +3731,11 @@
 {
 "question": "Which number is missing? 9 × ___ = 225",
 "options": {
-"A": "23",
+"options": {"A":"23",
 "B": "24",
 "C": "25",
-"D": "26"},
+"D": "26"}
+},
 "answer": "C",
 "details": "225 ÷ 9 = 25.",
 "difficulty": "hard",
@@ -3452,10 +3744,11 @@
 {
 "question": "What is 11 × 12 × 3?",
 "options": {
-"A": "386",
+"options": {"A":"386",
 "B": "396",
 "C": "406",
-"D": "416"},
+"D": "416"}
+},
 "answer": "B",
 "details": "11×12=132; 132×3=396.",
 "difficulty": "hard",
@@ -3464,10 +3757,11 @@
 {
 "question": "Which is NOT a factor of 72?",
 "options": {
-"A": "9",
+"options": {"A":"9",
 "B": "12",
 "C": "16",
-"D": "18"},
+"D": "18"}
+},
 "answer": "C",
 "details": "72 ÷ 16 = 4.5, not whole. Others divide evenly.",
 "difficulty": "hard",
@@ -3476,10 +3770,11 @@
 {
 "question": "A cinema has 24 rows of 18 seats. How many seats?",
 "options": {
-"A": "412",
+"options": {"A":"412",
 "B": "422",
 "C": "432",
-"D": "442"},
+"D": "442"}
+},
 "answer": "C",
 "details": "24 × 18 = (20×18) + (4×18) = 360 + 72 = 432.",
 "difficulty": "hard",
@@ -3488,10 +3783,11 @@
 {
 "question": "What is 808 ÷ 8?",
 "options": {
-"A": "101",
+"options": {"A":"101",
 "B": "111",
 "C": "121",
-"D": "131"},
+"D": "131"}
+},
 "answer": "A",
 "details": "8 ÷ 8 = 1 (hundreds), 0 ÷ 8 = 0 (tens), 8 ÷ 8 = 1 (units) → 101.",
 "difficulty": "hard",
@@ -3500,10 +3796,11 @@
 {
 "question": "Which shows integer scaling? 'If 1 pen costs 25p, 6 pens cost…'",
 "options": {
-"A": "25p",
+"options": {"A":"25p",
 "B": "75p",
 "C": "125p",
-"D": "150p"},
+"D": "150p"}
+},
 "answer": "D",
 "details": "6 × 25p = 150p (scaling by integer factor 6).",
 "difficulty": "hard",
@@ -3512,10 +3809,11 @@
 {
 "question": "What is 19 × 15?",
 "options": {
-"A": "275",
+"options": {"A":"275",
 "B": "285",
 "C": "295",
-"D": "305"},
+"D": "305"}
+},
 "answer": "B",
 "details": "19×10=190, 19×5=95; 190+95=285.",
 "difficulty": "hard",
@@ -3524,10 +3822,11 @@
 {
 "question": "How many days in 10 weeks?",
 "options": {
-"A": "60",
+"options": {"A":"60",
 "B": "70",
 "C": "80",
-"D": "90"},
+"D": "90"}
+},
 "answer": "B",
 "details": "10 × 7 = 70.",
 "difficulty": "hard",
@@ -3536,10 +3835,11 @@
 {
 "question": "Which calculation uses derived facts from 12 × 12 = 144?",
 "options": {
-"A": "12 × 13 = 156",
+"options": {"A":"12 × 13 = 156",
 "B": "11 × 12 = 132",
 "C": "12 × 24 = 288",
-"D": "All of the above"},
+"D": "All of the above"}
+},
 "answer": "D",
 "details": "All use 12×12 and adjust: +12, −12, or ×2.",
 "difficulty": "hard",
@@ -3548,10 +3848,11 @@
 {
 "question": "Which number completes the factor pair (8, __) for 96?",
 "options": {
-"A": "10",
+"options": {"A":"10",
 "B": "11",
 "C": "12",
-"D": "13"},
+"D": "13"}
+},
 "answer": "C",
 "details": "A factor pair multiplies to give the number. 8 × 12 = 96, so the missing number is 12. The other options do not work: 8×10=80, 8×11=88, 8×13=104.",
 "difficulty": "hard",
@@ -3560,10 +3861,11 @@
 {
 "question": "What is 207 × 4 using short multiplication?",
 "options": {
-"A": "808",
+"options": {"A":"808",
 "B": "828",
 "C": "848",
-"D": "868"},
+"D": "868"}
+},
 "answer": "B",
 "details": "Multiply step by step: 7×4=28 (write 8, carry 2); 0×4=0, plus 2 = 2; 2×4=8. So the answer is 828.",
 "difficulty": "hard",
@@ -3572,10 +3874,11 @@
 {
 "question": "Using the distributive law, which expression equals 58 × 6?",
 "options": {
-"A": "50 × 6 + 8 × 6",
+"options": {"A":"50 × 6 + 8 × 6",
 "B": "5 × 6 + 8 × 6",
 "C": "50 × 8 + 6",
-"D": "58 + 6 × 6"},
+"D": "58 + 6 × 6"}
+},
 "answer": "A",
 "details": "The distributive law states that (a + b) × c = a×c + b×c. Since 58 = 50 + 8, then 58 × 6 = 50×6 + 8×6.",
 "difficulty": "hard",
@@ -3584,10 +3887,11 @@
 {
 "question": "A restaurant offers 5 starters, 6 main courses, and 3 desserts. How many different 3-course meal combinations are possible?",
 "options": {
-"A": "14",
+"options": {"A":"14",
 "B": "45",
 "C": "60",
-"D": "90"},
+"D": "90"}
+},
 "answer": "D",
 "details": "This is a correspondence problem. Multiply the choices: 5 × 6 × 3 = 90 different combinations.",
 "difficulty": "hard",
@@ -3596,10 +3900,11 @@
 {
 "question": "Which calculation gives the same result as 7 × 9 × 4?",
 "options": {
-"A": "63 × 4",
+"options": {"A":"63 × 4",
 "B": "7 × 36",
 "C": "28 × 9",
-"D": "All of the above"},
+"D": "All of the above"}
+},
 "answer": "D",
 "details": "7×9=63, so 63×4 is correct. 9×4=36, so 7×36 is correct. 7×4=28, so 28×9 is correct. All are valid due to commutativity and grouping.",
 "difficulty": "hard",
@@ -3608,10 +3913,11 @@
 {
 "question": "What is 144 ÷ 12?",
 "options": {
-"A": "10",
+"options": {"A":"10",
 "B": "11",
 "C": "12",
-"D": "13"},
+"D": "13"}
+},
 "answer": "C",
 "details": "12 × 12 = 144, so 144 ÷ 12 = 12. This uses recall of multiplication facts up to 12×12.",
 "difficulty": "hard",
@@ -3620,10 +3926,11 @@
 {
 "question": "A toy car costs £15. A shop sells 24 cars in one week. How much money did the shop make?",
 "options": {
-"A": "£340",
+"options": {"A":"£340",
 "B": "£350",
 "C": "£360",
-"D": "£370"},
+"D": "£370"}
+},
 "answer": "C",
 "details": "Multiply 15 × 24. Break it down: 10×24=240, 5×24=120, total = 240+120=360. This is a multi-step scaling problem.",
 "difficulty": "hard",
@@ -3632,10 +3939,11 @@
 {
 "question": "Which statement is true because of the commutative property of multiplication?",
 "options": {
-"A": "8 × 0 = 0",
+"options": {"A":"8 × 0 = 0",
 "B": "8 ÷ 1 = 8",
 "C": "8 × 7 = 7 × 8",
-"D": "8 × (3 + 2) = 8×3 + 8×2"},
+"D": "8 × (3 + 2) = 8×3 + 8×2"}
+},
 "answer": "C",
 "details": "The commutative property means the order of factors does not change the product: a × b = b × a. Only option C shows this.",
 "difficulty": "hard",
@@ -3644,10 +3952,11 @@
 {
 "question": "What is 6 × 0 × 11?",
 "options": {
-"A": "0",
+"options": {"A":"0",
 "B": "6",
 "C": "11",
-"D": "66"},
+"D": "66"}
+},
 "answer": "A",
 "details": "Any number multiplied by 0 is 0. Even though there are three numbers, the presence of 0 makes the entire product 0.",
 "difficulty": "easy",
@@ -3656,10 +3965,11 @@
 {
 "question": "A farmer plants 18 rows of carrots, with 25 carrots in each row. How many carrots did the farmer plant?",
 "options": {
-"A": "420",
+"options": {"A":"420",
 "B": "430",
 "C": "440",
-"D": "450"},
+"D": "450"}
+},
 "answer": "D",
 "details": "Multiply 18 × 25. Use mental math: 18×100=1800, so 18×25 = 1800÷4 = 450. Or: 10×25=250, 8×25=200, total 450.",
 "difficulty": "easy"

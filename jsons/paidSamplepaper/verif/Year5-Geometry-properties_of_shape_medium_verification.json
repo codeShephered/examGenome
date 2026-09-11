@@ -1,0 +1,316 @@
+Question: Which 3-D shape is represented by this 2-D net?
+Status: Success
+
+Question: What is the measure of angle A in this diagram, if angle B is 55° and angle C is 70°?
+Status: Error
+Explanation: In a triangle, the sum of interior angles is 180°. Given angles B (55°) and C (70°) sum to 125°, the measure of angle A should be 180° - 125° = 55°. The given answer B (65°) is incorrect.
+
+Question: Which of these angles is a reflex angle?
+Status: Success
+
+Question: What is the measure of angle D in this quadrilateral if angles A, B, and C are 90°, 60°, and 120° respectively?
+Status: Success
+
+Question: Which of these shapes is a regular polygon?
+Status: Success
+
+Question: What is the measure of angle E in this pentagon if angles A, B, C, and D are 100°, 120°, 90°, and 80° respectively?
+Status: Error
+Explanation: The sum of interior angles in a pentagon is (5-2) * 180° = 540°. The sum of the given angles A, B, C, and D is 100° + 120° + 90° + 80° = 390°. Therefore, angle E should be 540° - 390° = 150°. The given answer B (70°) is incorrect.
+
+Question: Which of these shapes is an irregular polygon?
+Status: Success
+
+Question: What is the measure of angle F in this hexagon if angles A, B, C, D, and E are 120°, 130°, 140°, 110°, and 100° respectively?
+Status: Error
+Explanation: The sum of interior angles in a hexagon is (6-2) * 180° = 720°. The sum of the given angles A through E is 120° + 130° + 140° + 110° + 100° = 600°. Therefore, angle F should be 720° - 600° = 120°. The given answer B (60°) is incorrect.
+
+Question: Which of these shapes has diagonals that bisect each other at right angles?
+Status: Success
+
+Question: What is the measure of angle G in this quadrilateral if angles A, B, and C are 80°, 110°, and 70° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that are equal in length and bisect each other?
+Status: Success
+
+Question: What is the measure of angle H in this pentagon if angles A, B, C, and D are 110°, 100°, 90°, and 80° respectively?
+Status: Error
+Explanation: The sum of interior angles in a pentagon is 540°. The sum of the given angles is 110° + 100° + 90° + 80° = 380°. Angle H should be 540° - 380° = 160°. The given answer B (80°) is incorrect.
+
+Question: Which of these shapes has diagonals that bisect each other but are not equal in length?
+Status: Success
+
+Question: What is the measure of angle I in this hexagon if angles A, B, C, D, and E are 130°, 120°, 110°, 100°, and 90° respectively?
+Status: Error
+Explanation: The sum of interior angles in a hexagon is 720°. The sum of the given angles is 130° + 120° + 110° + 100° + 90° = 550°. Angle I should be 720° - 550° = 170°. The given answer B (70°) is incorrect.
+
+Question: Which of these shapes has diagonals that are equal in length, bisect each other, and intersect at right angles?
+Status: Success
+
+Question: What is the measure of angle J in this quadrilateral if angles A, B, and C are 105°, 95°, and 80° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect the angles?
+Status: Success
+
+Question: What is the measure of angle K in this pentagon if angles A, B, C, and D are 108°, 100°, 112°, and 96° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that are equal in length and bisect each other at right angles?
+Status: Success
+
+Question: What is the measure of angle L in this hexagon if angles A, B, C, D, and E are 140°, 130°, 120°, 110°, and 100° respectively?
+Status: Error
+Explanation: The sum of interior angles in a hexagon is 720°. The sum of the given angles is 140° + 130° + 120° + 110° + 100° = 600°. Angle L should be 720° - 600° = 120°. The given answer A (60°) is incorrect.
+
+Question: Which of these shapes has diagonals that are not equal in length and do not bisect each other at right angles?
+Status: Success
+
+Question: What is the measure of angle M in this quadrilateral if angles A, B, and C are 75°, 105°, and 90° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect each other but are not equal in length and do not intersect at right angles?
+Status: Success
+
+Question: What is the measure of angle N in this pentagon if angles A, B, C, and D are 120°, 110°, 100°, and 90° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that are equal in length, bisect each other, but do not intersect at right angles?
+Status: Success
+
+Question: What is the measure of angle O in this hexagon if angles A, B, C, D, and E are 150°, 140°, 130°, 120°, and 110° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect the angles and are equal in length?
+Status: Success
+
+Question: What is the measure of angle P in this quadrilateral if angles A, B, and C are 85°, 95°, and 100° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect each other at right angles but are not equal in length?
+Status: Success
+
+Question: What is the measure of angle Q in this pentagon if angles A, B, C, and D are 115°, 105°, 95°, and 85° respectively?
+Status: Error
+Explanation: The sum of interior angles in a pentagon is 540°. The sum of the given angles is 115° + 105° + 95° + 85° = 400°. Angle Q should be 540° - 400° = 140°. The given answer C (120°) is incorrect.
+
+Question: Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle R in this hexagon if angles A, B, C, D, and E are 135°, 125°, 115°, 105°, and 95° respectively?
+Status: Error
+Explanation: The sum of interior angles in a hexagon is 720°. The sum of the given angles is 135° + 125° + 115° + 105° + 95° = 575°. Angle R should be 720° - 575° = 145°. The given answer A (85°) is incorrect.
+
+Question: Which of these shapes has diagonals that bisect each other but do not bisect the angles?
+Status: Success
+
+Question: What is the measure of angle S in this quadrilateral if angles A, B, and C are 110°, 80°, and 70° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle T in this pentagon if angles A, B, C, and D are 100°, 110°, 120°, and 90° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect each other at right angles and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle U in this hexagon if angles A, B, C, D, and E are 120°, 130°, 140°, 150°, and 100° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that are equal in length and bisect each other but do not bisect the angles?
+Status: Success
+
+Question: What is the measure of angle V in this quadrilateral if angles A, B, and C are 70°, 110°, and 90° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect each other at right angles, bisect the angles, and are equal in length?
+Status: Success
+
+Question: What is the measure of angle W in this pentagon if angles A, B, C, and D are 125°, 115°, 105°, and 95° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect each other but are not equal in length and do not intersect at right angles?
+Status: Success
+
+Question: What is the measure of angle X in this hexagon if angles A, B, C, D, and E are 145°, 135°, 125°, 115°, and 105° respectively?
+Status: Error
+Explanation: The sum of interior angles in a hexagon is 720°. The sum of the given angles is 145° + 135° + 125° + 115° + 105° = 625°. Angle X should be 720° - 625° = 95°. The given answer B (85°) is incorrect.
+
+Question: Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle Y in this quadrilateral if angles A, B, and C are 65°, 115°, and 100° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect each other at right angles but are not equal in length?
+Status: Success
+
+Question: What is the measure of angle Z in this pentagon if angles A, B, C, and D are 130°, 120°, 110°, and 100° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that are equal in length and bisect each other but do not bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AA in this hexagon if angles A, B, C, D, and E are 135°, 125°, 115°, 105°, and 95° respectively?
+Status: Error
+Explanation: The sum of interior angles in a hexagon is 720°. The sum of the given angles is 135° + 125° + 115° + 105° + 95° = 575°. Angle AA should be 720° - 575° = 145°. The given answer B (85°) is incorrect.
+
+Question: Which of these shapes has diagonals that bisect each other at right angles and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AB in this quadrilateral if angles A, B, and C are 100°, 80°, and 70° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AC in this pentagon if angles A, B, C, and D are 110°, 120°, 100°, and 90° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect each other but are not equal in length and do not intersect at right angles?
+Status: Success
+
+Question: What is the measure of angle AD in this hexagon if angles A, B, C, D, and E are 120°, 130°, 140°, 150°, and 110° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AE in this quadrilateral if angles A, B, and C are 75°, 105°, and 90° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect each other at right angles but are not equal in length?
+Status: Success
+
+Question: What is the measure of angle AF in this pentagon if angles A, B, C, and D are 125°, 115°, 105°, and 95° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that are equal in length and bisect each other but do not bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AG in this hexagon if angles A, B, C, D, and E are 145°, 135°, 125°, 115°, and 105° respectively?
+Status: Error
+Explanation: The sum of interior angles in a hexagon is 720°. The sum of the given angles is 145° + 135° + 125° + 115° + 105° = 625°. Angle AG should be 720° - 625° = 95°. The given answer B (85°) is incorrect.
+
+Question: Which of these shapes has diagonals that bisect each other at right angles and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AH in this quadrilateral if angles A, B, and C are 60°, 120°, and 80° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AI in this pentagon if angles A, B, C, and D are 130°, 120°, 110°, and 100° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect each other but are not equal in length and do not intersect at right angles?
+Status: Success
+
+Question: What is the measure of angle AJ in this hexagon if angles A, B, C, D, and E are 135°, 125°, 115°, 105°, and 95° respectively?
+Status: Error
+Explanation: The sum of interior angles in a hexagon is 720°. The sum of the given angles is 575°. Angle AJ should be 145°. The given answer B (85°) is incorrect.
+
+Question: Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AK in this quadrilateral if angles A, B, and C are 110°, 70°, and 90° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect each other at right angles but are not equal in length?
+Status: Success
+
+Question: What is the measure of angle AL in this pentagon if angles A, B, C, and D are 100°, 110°, 120°, and 90° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that are equal in length and bisect each other but do not bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AM in this hexagon if angles A, B, C, D, and E are 120°, 130°, 140°, 150°, and 110° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect each other at right angles and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AN in this quadrilateral if angles A, B, and C are 75°, 105°, and 90° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AO in this pentagon if angles A, B, C, and D are 125°, 115°, 105°, and 95° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect each other but are not equal in length and do not intersect at right angles?
+Status: Success
+
+Question: What is the measure of angle AP in this hexagon if angles A, B, C, D, and E are 145°, 135°, 125°, 115°, and 105° respectively?
+Status: Error
+Explanation: The sum of angles is 625°. 720° - 625° = 95°. The given answer B (85°) is incorrect.
+
+Question: Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AQ in this quadrilateral if angles A, B, and C are 60°, 120°, and 80° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect each other at right angles but are not equal in length?
+Status: Success
+
+Question: What is the measure of angle AR in this pentagon if angles A, B, C, and D are 115°, 105°, 95°, and 85° respectively?
+Status: Error
+Explanation: The sum of given angles is 400°. In a pentagon, the missing angle should be 540° - 400° = 140°. The given answer C (120°) is incorrect.
+
+Question: Which of these shapes has diagonals that are equal in length and bisect each other but do not bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AS in this hexagon if angles A, B, C, D, and E are 135°, 125°, 115°, 105°, and 95° respectively?
+Status: Error
+Explanation: The sum of angles is 575°. 720° - 575° = 145°. The given answer B (85°) is incorrect.
+
+Question: Which of these shapes has diagonals that bisect each other at right angles and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AT in this quadrilateral if angles A, B, and C are 110°, 70°, and 90° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AU in this pentagon if angles A, B, C, and D are 100°, 110°, 120°, and 90° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect each other but are not equal in length and do not intersect at right angles?
+Status: Success
+
+Question: What is the measure of angle AV in this hexagon if angles A, B, C, D, and E are 120°, 130°, 140°, 150°, and 110° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AW in this quadrilateral if angles A, B, and C are 70°, 110°, and 90° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that bisect each other at right angles but are not equal in length?
+Status: Success
+
+Question: What is the measure of angle AX in this pentagon if angles A, B, C, and D are 125°, 115°, 105°, and 95° respectively?
+Status: Success
+
+Question: Which of these shapes has diagonals that are equal in length and bisect each other but do not bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AY in this hexagon if angles A, B, C, D, and E are 145°, 135°, 125°, 115°, and 105° respectively?
+Status: Error
+Explanation: The sum of angles is 625°. 720° - 625° = 95°. The given answer B (85°) is incorrect.
+
+Question: Which of these shapes has diagonals that bisect each other at right angles and bisect the angles?
+Status: Success
+
+Question: What is the measure of angle AZ in this quadrilateral if angles A, B, and C are 65°, 115°, and 100° respectively?
+Status: Error
+Explanation: The sum of angles A, B, and C in the quadrilateral is 280°. The measure of angle AZ should be 360° - 280° = 80°. Option A is 80°, but the given answer is B (90°).

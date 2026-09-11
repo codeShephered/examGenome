@@ -1,0 +1,5422 @@
+[
+    {
+        "question": "How many metres are in 3 kilometres?",
+        "answer": "C",
+        "options": {
+            "A": "30",
+            "B": "300",
+            "C": "3,000",
+            "D": "30,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 5 metres?",
+        "answer": "C",
+        "options": {
+            "A": "50",
+            "B": "100",
+            "C": "500",
+            "D": "5,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 2 hours?",
+        "answer": "C",
+        "options": {
+            "A": "60",
+            "B": "100",
+            "C": "120",
+            "D": "200"
+        }
+    },
+    {
+        "question": "How many seconds are in 3 minutes?",
+        "answer": "C",
+        "options": {
+            "A": "60",
+            "B": "120",
+            "C": "180",
+            "D": "300"
+        }
+    },
+    {
+        "question": "How many days are in 4 weeks?",
+        "answer": "D",
+        "options": {
+            "A": "7",
+            "B": "14",
+            "C": "21",
+            "D": "28"
+        }
+    },
+    {
+        "question": "How many months are in 2 years?",
+        "answer": "C",
+        "options": {
+            "A": "12",
+            "B": "18",
+            "C": "24",
+            "D": "36"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 5 cm?",
+        "answer": "C",
+        "options": {
+            "A": "10 cm",
+            "B": "15 cm",
+            "C": "20 cm",
+            "D": "25 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 6 cm long and 4 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "10 cm",
+            "B": "20 cm",
+            "C": "24 cm",
+            "D": "30 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 12 full squares on a grid. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "6 cm\u00b2",
+            "B": "10 cm\u00b2",
+            "C": "12 cm\u00b2",
+            "D": "24 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 3 cm long and 4 cm wide. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "7 cm\u00b2",
+            "B": "12 cm\u00b2",
+            "C": "14 cm\u00b2",
+            "D": "24 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a pencil?",
+        "answer": "A",
+        "options": {
+            "A": "15 cm",
+            "B": "15 m",
+            "C": "15 km",
+            "D": "15 mm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of a door?",
+        "answer": "B",
+        "options": {
+            "A": "20 cm",
+            "B": "2 m",
+            "C": "2 km",
+            "D": "200 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a33?",
+        "answer": "C",
+        "options": {
+            "A": "30",
+            "B": "100",
+            "C": "300",
+            "D": "3,000"
+        }
+    },
+    {
+        "question": "How many pounds is 450 pence?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a34.50",
+            "B": "\u00a345.00",
+            "C": "\u00a3450.00",
+            "D": "\u00a30.45"
+        }
+    },
+    {
+        "question": "What time is 14:30 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "2:30 am",
+            "B": "2:30 pm",
+            "C": "4:30 pm",
+            "D": "10:30 pm"
+        }
+    },
+    {
+        "question": "What is 9:15 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "09:15",
+            "B": "19:15",
+            "C": "21:15",
+            "D": "23:15"
+        }
+    },
+    {
+        "question": "How many hours are in 2 days?",
+        "answer": "D",
+        "options": {
+            "A": "12",
+            "B": "24",
+            "C": "36",
+            "D": "48"
+        }
+    },
+    {
+        "question": "How many grams are in 2 kilograms?",
+        "answer": "C",
+        "options": {
+            "A": "20",
+            "B": "200",
+            "C": "2,000",
+            "D": "20,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 8 cm and a width of 2 cm. What is its perimeter?",
+        "answer": "C",
+        "options": {
+            "A": "10 cm",
+            "B": "16 cm",
+            "C": "20 cm",
+            "D": "32 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 7 cm. What is its area?",
+        "answer": "D",
+        "options": {
+            "A": "14 cm\u00b2",
+            "B": "28 cm\u00b2",
+            "C": "42 cm\u00b2",
+            "D": "49 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 150 cm or 1.5 m?",
+        "answer": "C",
+        "options": {
+            "A": "150 cm",
+            "B": "1.5 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 3 litres?",
+        "answer": "C",
+        "options": {
+            "A": "30",
+            "B": "300",
+            "C": "3,000",
+            "D": "30,000"
+        }
+    },
+    {
+        "question": "What time is 08:45 on a 12-hour clock?",
+        "answer": "A",
+        "options": {
+            "A": "8:45 am",
+            "B": "8:45 pm",
+            "C": "4:45 am",
+            "D": "4:45 pm"
+        }
+    },
+    {
+        "question": "What is 3:30 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "03:30",
+            "B": "13:30",
+            "C": "15:30",
+            "D": "23:30"
+        }
+    },
+    {
+        "question": "A shape covers 9 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "3 cm\u00b2",
+            "B": "6 cm\u00b2",
+            "C": "9 cm\u00b2",
+            "D": "18 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a37.25?",
+        "answer": "B",
+        "options": {
+            "A": "72.5",
+            "B": "725",
+            "C": "7,250",
+            "D": "72,500"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the length of a football pitch?",
+        "answer": "B",
+        "options": {
+            "A": "centimetres",
+            "B": "metres",
+            "C": "kilometres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the weight of an apple?",
+        "answer": "A",
+        "options": {
+            "A": "grams",
+            "B": "kilograms",
+            "C": "tonnes",
+            "D": "milligrams"
+        }
+    },
+    {
+        "question": "How many minutes are in 1.5 hours?",
+        "answer": "B",
+        "options": {
+            "A": "60",
+            "B": "90",
+            "C": "100",
+            "D": "120"
+        }
+    },
+    {
+        "question": "How many metres are in 5 kilometres?",
+        "answer": "C",
+        "options": {
+            "A": "50",
+            "B": "500",
+            "C": "5,000",
+            "D": "50,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 8 metres?",
+        "answer": "C",
+        "options": {
+            "A": "80",
+            "B": "100",
+            "C": "800",
+            "D": "8,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 3 hours?",
+        "answer": "C",
+        "options": {
+            "A": "60",
+            "B": "120",
+            "C": "180",
+            "D": "300"
+        }
+    },
+    {
+        "question": "How many seconds are in 4 minutes?",
+        "answer": "C",
+        "options": {
+            "A": "120",
+            "B": "180",
+            "C": "240",
+            "D": "400"
+        }
+    },
+    {
+        "question": "How many days are in 5 weeks?",
+        "answer": "C",
+        "options": {
+            "A": "28",
+            "B": "30",
+            "C": "35",
+            "D": "40"
+        }
+    },
+    {
+        "question": "How many months are in 3 years?",
+        "answer": "C",
+        "options": {
+            "A": "24",
+            "B": "30",
+            "C": "36",
+            "D": "48"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 6 cm?",
+        "answer": "C",
+        "options": {
+            "A": "12 cm",
+            "B": "18 cm",
+            "C": "24 cm",
+            "D": "36 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 7 cm long and 3 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "10 cm",
+            "B": "20 cm",
+            "C": "21 cm",
+            "D": "30 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 15 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "10 cm\u00b2",
+            "B": "15 cm\u00b2",
+            "C": "20 cm\u00b2",
+            "D": "30 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 5 cm long and 4 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "9 cm\u00b2",
+            "B": "18 cm\u00b2",
+            "C": "20 cm\u00b2",
+            "D": "24 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a ruler?",
+        "answer": "A",
+        "options": {
+            "A": "30 cm",
+            "B": "30 m",
+            "C": "30 km",
+            "D": "30 mm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of a child?",
+        "answer": "A",
+        "options": {
+            "A": "120 cm",
+            "B": "120 m",
+            "C": "120 km",
+            "D": "120 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a35?",
+        "answer": "C",
+        "options": {
+            "A": "50",
+            "B": "100",
+            "C": "500",
+            "D": "5,000"
+        }
+    },
+    {
+        "question": "How many pounds is 650 pence?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a36.50",
+            "B": "\u00a365.00",
+            "C": "\u00a3650.00",
+            "D": "\u00a30.65"
+        }
+    },
+    {
+        "question": "What time is 16:45 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "4:45 am",
+            "B": "4:45 pm",
+            "C": "6:45 pm",
+            "D": "10:45 pm"
+        }
+    },
+    {
+        "question": "What is 11:30 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "11:30",
+            "B": "21:30",
+            "C": "23:30",
+            "D": "01:30"
+        }
+    },
+    {
+        "question": "How many hours are in 3 days?",
+        "answer": "C",
+        "options": {
+            "A": "24",
+            "B": "48",
+            "C": "72",
+            "D": "96"
+        }
+    },
+    {
+        "question": "How many grams are in 5 kilograms?",
+        "answer": "C",
+        "options": {
+            "A": "50",
+            "B": "500",
+            "C": "5,000",
+            "D": "50,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 9 cm and a width of 2 cm. What is its perimeter?",
+        "answer": "C",
+        "options": {
+            "A": "11 cm",
+            "B": "18 cm",
+            "C": "22 cm",
+            "D": "36 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 8 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "16 cm\u00b2",
+            "B": "32 cm\u00b2",
+            "C": "64 cm\u00b2",
+            "D": "80 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 250 cm or 2.5 m?",
+        "answer": "C",
+        "options": {
+            "A": "250 cm",
+            "B": "2.5 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 5 litres?",
+        "answer": "C",
+        "options": {
+            "A": "50",
+            "B": "500",
+            "C": "5,000",
+            "D": "50,000"
+        }
+    },
+    {
+        "question": "What time is 10:20 on a 12-hour clock?",
+        "answer": "A",
+        "options": {
+            "A": "10:20 am",
+            "B": "10:20 pm",
+            "C": "2:10 am",
+            "D": "2:10 pm"
+        }
+    },
+    {
+        "question": "What is 7:45 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "07:45",
+            "B": "17:45",
+            "C": "19:45",
+            "D": "21:45"
+        }
+    },
+    {
+        "question": "A shape covers 12 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "6 cm\u00b2",
+            "B": "10 cm\u00b2",
+            "C": "12 cm\u00b2",
+            "D": "24 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a39.50?",
+        "answer": "B",
+        "options": {
+            "A": "95",
+            "B": "950",
+            "C": "9,500",
+            "D": "95,000"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the distance between two towns?",
+        "answer": "C",
+        "options": {
+            "A": "centimetres",
+            "B": "metres",
+            "C": "kilometres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the capacity of a water bottle?",
+        "answer": "A",
+        "options": {
+            "A": "millilitres",
+            "B": "litres",
+            "C": "centilitres",
+            "D": "kilolitres"
+        }
+    },
+    {
+        "question": "How many minutes are in 2.5 hours?",
+        "answer": "C",
+        "options": {
+            "A": "120",
+            "B": "130",
+            "C": "150",
+            "D": "250"
+        }
+    },
+    {
+        "question": "How many metres are in 7 kilometres?",
+        "answer": "C",
+        "options": {
+            "A": "70",
+            "B": "700",
+            "C": "7,000",
+            "D": "70,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 12 metres?",
+        "answer": "B",
+        "options": {
+            "A": "120",
+            "B": "1,200",
+            "C": "12,000",
+            "D": "120,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 4 hours?",
+        "answer": "C",
+        "options": {
+            "A": "120",
+            "B": "180",
+            "C": "240",
+            "D": "400"
+        }
+    },
+    {
+        "question": "How many seconds are in 5 minutes?",
+        "answer": "C",
+        "options": {
+            "A": "200",
+            "B": "250",
+            "C": "300",
+            "D": "500"
+        }
+    },
+    {
+        "question": "How many days are in 6 weeks?",
+        "answer": "C",
+        "options": {
+            "A": "30",
+            "B": "36",
+            "C": "42",
+            "D": "48"
+        }
+    },
+    {
+        "question": "How many months are in 4 years?",
+        "answer": "C",
+        "options": {
+            "A": "36",
+            "B": "40",
+            "C": "48",
+            "D": "60"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 9 cm?",
+        "answer": "C",
+        "options": {
+            "A": "18 cm",
+            "B": "27 cm",
+            "C": "36 cm",
+            "D": "81 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 10 cm long and 5 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "15 cm",
+            "B": "30 cm",
+            "C": "50 cm",
+            "D": "100 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 20 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "10 cm\u00b2",
+            "B": "20 cm\u00b2",
+            "C": "40 cm\u00b2",
+            "D": "100 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 6 cm long and 5 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "11 cm\u00b2",
+            "B": "25 cm\u00b2",
+            "C": "30 cm\u00b2",
+            "D": "36 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the width of a book?",
+        "answer": "B",
+        "options": {
+            "A": "2 cm",
+            "B": "20 cm",
+            "C": "2 m",
+            "D": "20 mm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a car?",
+        "answer": "B",
+        "options": {
+            "A": "45 cm",
+            "B": "4.5 m",
+            "C": "45 m",
+            "D": "450 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a38?",
+        "answer": "B",
+        "options": {
+            "A": "80",
+            "B": "800",
+            "C": "8,000",
+            "D": "80,000"
+        }
+    },
+    {
+        "question": "How many pounds is 325 pence?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a33.25",
+            "B": "\u00a332.50",
+            "C": "\u00a3325.00",
+            "D": "\u00a30.325"
+        }
+    },
+    {
+        "question": "What time is 20:15 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "8:15 am",
+            "B": "8:15 pm",
+            "C": "10:15 pm",
+            "D": "2:15 am"
+        }
+    },
+    {
+        "question": "What is 5:20 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "05:20",
+            "B": "15:20",
+            "C": "17:20",
+            "D": "21:20"
+        }
+    },
+    {
+        "question": "How many hours are in 4 days?",
+        "answer": "C",
+        "options": {
+            "A": "48",
+            "B": "72",
+            "C": "96",
+            "D": "120"
+        }
+    },
+    {
+        "question": "How many grams are in 7 kilograms?",
+        "answer": "B",
+        "options": {
+            "A": "700",
+            "B": "7,000",
+            "C": "70,000",
+            "D": "700,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 11 cm and a width of 4 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "15 cm",
+            "B": "30 cm",
+            "C": "44 cm",
+            "D": "60 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 10 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "20 cm\u00b2",
+            "B": "40 cm\u00b2",
+            "C": "100 cm\u00b2",
+            "D": "200 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 500 cm or 5 m?",
+        "answer": "C",
+        "options": {
+            "A": "500 cm",
+            "B": "5 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 2 litres?",
+        "answer": "C",
+        "options": {
+            "A": "20",
+            "B": "200",
+            "C": "2,000",
+            "D": "20,000"
+        }
+    },
+    {
+        "question": "What time is 13:10 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "1:10 am",
+            "B": "1:10 pm",
+            "C": "3:10 pm",
+            "D": "11:10 pm"
+        }
+    },
+    {
+        "question": "What is 12:00 pm in 24-hour time?",
+        "answer": "B",
+        "options": {
+            "A": "00:00",
+            "B": "12:00",
+            "C": "24:00",
+            "D": "13:00"
+        }
+    },
+    {
+        "question": "A shape covers 18 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "9 cm\u00b2",
+            "B": "18 cm\u00b2",
+            "C": "36 cm\u00b2",
+            "D": "72 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a312.75?",
+        "answer": "B",
+        "options": {
+            "A": "127.5",
+            "B": "1,275",
+            "C": "12,750",
+            "D": "127,500"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the mass of a bag of sugar?",
+        "answer": "B",
+        "options": {
+            "A": "grams",
+            "B": "kilograms",
+            "C": "tonnes",
+            "D": "milligrams"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the length of a pencil case?",
+        "answer": "B",
+        "options": {
+            "A": "millimetres",
+            "B": "centimetres",
+            "C": "metres",
+            "D": "kilometres"
+        }
+    },
+    {
+        "question": "How many minutes are in 3.5 hours?",
+        "answer": "C",
+        "options": {
+            "A": "180",
+            "B": "200",
+            "C": "210",
+            "D": "350"
+        }
+    },
+    {
+        "question": "How many metres are in 9 kilometres?",
+        "answer": "C",
+        "options": {
+            "A": "90",
+            "B": "900",
+            "C": "9,000",
+            "D": "90,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 15 metres?",
+        "answer": "B",
+        "options": {
+            "A": "150",
+            "B": "1,500",
+            "C": "15,000",
+            "D": "150,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 5 hours?",
+        "answer": "C",
+        "options": {
+            "A": "200",
+            "B": "250",
+            "C": "300",
+            "D": "500"
+        }
+    },
+    {
+        "question": "How many seconds are in 6 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "300",
+            "B": "360",
+            "C": "420",
+            "D": "600"
+        }
+    },
+    {
+        "question": "How many days are in 7 weeks?",
+        "answer": "B",
+        "options": {
+            "A": "42",
+            "B": "49",
+            "C": "56",
+            "D": "63"
+        }
+    },
+    {
+        "question": "How many months are in 5 years?",
+        "answer": "C",
+        "options": {
+            "A": "48",
+            "B": "50",
+            "C": "60",
+            "D": "72"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 10 cm?",
+        "answer": "C",
+        "options": {
+            "A": "20 cm",
+            "B": "30 cm",
+            "C": "40 cm",
+            "D": "100 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 12 cm long and 3 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "15 cm",
+            "B": "30 cm",
+            "C": "36 cm",
+            "D": "45 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 25 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "20 cm\u00b2",
+            "B": "25 cm\u00b2",
+            "C": "50 cm\u00b2",
+            "D": "100 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 7 cm long and 6 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "13 cm\u00b2",
+            "B": "36 cm\u00b2",
+            "C": "42 cm\u00b2",
+            "D": "49 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of a table?",
+        "answer": "A",
+        "options": {
+            "A": "75 cm",
+            "B": "75 m",
+            "C": "75 km",
+            "D": "75 mm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a bus?",
+        "answer": "B",
+        "options": {
+            "A": "12 cm",
+            "B": "12 m",
+            "C": "12 km",
+            "D": "120 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a310?",
+        "answer": "B",
+        "options": {
+            "A": "100",
+            "B": "1,000",
+            "C": "10,000",
+            "D": "100,000"
+        }
+    },
+    {
+        "question": "How many pounds is 875 pence?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a38.75",
+            "B": "\u00a387.50",
+            "C": "\u00a3875.00",
+            "D": "\u00a30.875"
+        }
+    },
+    {
+        "question": "What time is 22:30 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "10:30 am",
+            "B": "10:30 pm",
+            "C": "12:30 am",
+            "D": "12:30 pm"
+        }
+    },
+    {
+        "question": "What is 10:45 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "10:45",
+            "B": "20:45",
+            "C": "22:45",
+            "D": "00:45"
+        }
+    },
+    {
+        "question": "How many hours are in 5 days?",
+        "answer": "C",
+        "options": {
+            "A": "60",
+            "B": "100",
+            "C": "120",
+            "D": "150"
+        }
+    },
+    {
+        "question": "How many grams are in 10 kilograms?",
+        "answer": "C",
+        "options": {
+            "A": "100",
+            "B": "1,000",
+            "C": "10,000",
+            "D": "100,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 13 cm and a width of 5 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "18 cm",
+            "B": "36 cm",
+            "C": "65 cm",
+            "D": "78 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 12 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "24 cm\u00b2",
+            "B": "48 cm\u00b2",
+            "C": "144 cm\u00b2",
+            "D": "288 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 1,000 cm or 10 m?",
+        "answer": "C",
+        "options": {
+            "A": "1,000 cm",
+            "B": "10 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 7 litres?",
+        "answer": "C",
+        "options": {
+            "A": "70",
+            "B": "700",
+            "C": "7,000",
+            "D": "70,000"
+        }
+    },
+    {
+        "question": "What time is 11:55 on a 12-hour clock?",
+        "answer": "A",
+        "options": {
+            "A": "11:55 am",
+            "B": "11:55 pm",
+            "C": "5:11 am",
+            "D": "5:11 pm"
+        }
+    },
+    {
+        "question": "What is 1:15 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "01:15",
+            "B": "11:15",
+            "C": "13:15",
+            "D": "21:15"
+        }
+    },
+    {
+        "question": "A shape covers 30 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "15 cm\u00b2",
+            "B": "30 cm\u00b2",
+            "C": "60 cm\u00b2",
+            "D": "90 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a315.20?",
+        "answer": "B",
+        "options": {
+            "A": "152",
+            "B": "1,520",
+            "C": "15,200",
+            "D": "152,000"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the distance from your house to school?",
+        "answer": "C",
+        "options": {
+            "A": "centimetres",
+            "B": "metres",
+            "C": "kilometres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the mass of a feather?",
+        "answer": "A",
+        "options": {
+            "A": "grams",
+            "B": "kilograms",
+            "C": "tonnes",
+            "D": "milligrams"
+        }
+    },
+    {
+        "question": "How many minutes are in 4.5 hours?",
+        "answer": "C",
+        "options": {
+            "A": "240",
+            "B": "250",
+            "C": "270",
+            "D": "450"
+        }
+    },
+    {
+        "question": "How many metres are in 12 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "1,200",
+            "B": "12,000",
+            "C": "120,000",
+            "D": "1,200,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 25 metres?",
+        "answer": "B",
+        "options": {
+            "A": "250",
+            "B": "2,500",
+            "C": "25,000",
+            "D": "250,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 6 hours?",
+        "answer": "B",
+        "options": {
+            "A": "300",
+            "B": "360",
+            "C": "420",
+            "D": "600"
+        }
+    },
+    {
+        "question": "How many seconds are in 7 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "360",
+            "B": "420",
+            "C": "480",
+            "D": "700"
+        }
+    },
+    {
+        "question": "How many days are in 8 weeks?",
+        "answer": "B",
+        "options": {
+            "A": "48",
+            "B": "56",
+            "C": "64",
+            "D": "72"
+        }
+    },
+    {
+        "question": "How many months are in 6 years?",
+        "answer": "B",
+        "options": {
+            "A": "60",
+            "B": "72",
+            "C": "84",
+            "D": "96"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 11 cm?",
+        "answer": "C",
+        "options": {
+            "A": "22 cm",
+            "B": "33 cm",
+            "C": "44 cm",
+            "D": "121 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 15 cm long and 5 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "20 cm",
+            "B": "40 cm",
+            "C": "50 cm",
+            "D": "75 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 36 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "18 cm\u00b2",
+            "B": "36 cm\u00b2",
+            "C": "72 cm\u00b2",
+            "D": "144 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 9 cm long and 8 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "17 cm\u00b2",
+            "B": "64 cm\u00b2",
+            "C": "72 cm\u00b2",
+            "D": "81 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the width of a door?",
+        "answer": "A",
+        "options": {
+            "A": "90 cm",
+            "B": "90 m",
+            "C": "90 km",
+            "D": "90 mm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of a tree?",
+        "answer": "B",
+        "options": {
+            "A": "15 cm",
+            "B": "15 m",
+            "C": "15 km",
+            "D": "150 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a312?",
+        "answer": "B",
+        "options": {
+            "A": "120",
+            "B": "1,200",
+            "C": "12,000",
+            "D": "120,000"
+        }
+    },
+    {
+        "question": "How many pounds is 950 pence?",
+        "answer": "A",
+        "options": {
+            "A": "\u00a39.50",
+            "B": "\u00a395.00",
+            "C": "\u00a3950.00",
+            "D": "\u00a30.95"
+        }
+    },
+    {
+        "question": "What time is 19:20 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "7:20 am",
+            "B": "7:20 pm",
+            "C": "9:20 pm",
+            "D": "11:20 pm"
+        }
+    },
+    {
+        "question": "What is 8:55 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "08:55",
+            "B": "18:55",
+            "C": "20:55",
+            "D": "22:55"
+        }
+    },
+    {
+        "question": "How many hours are in 6 days?",
+        "answer": "B",
+        "options": {
+            "A": "120",
+            "B": "144",
+            "C": "168",
+            "D": "192"
+        }
+    },
+    {
+        "question": "How many grams are in 12 kilograms?",
+        "answer": "B",
+        "options": {
+            "A": "1,200",
+            "B": "12,000",
+            "C": "120,000",
+            "D": "1,200,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 14 cm and a width of 6 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "20 cm",
+            "B": "40 cm",
+            "C": "84 cm",
+            "D": "120 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 15 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "30 cm\u00b2",
+            "B": "60 cm\u00b2",
+            "C": "225 cm\u00b2",
+            "D": "450 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 2,000 cm or 20 m?",
+        "answer": "C",
+        "options": {
+            "A": "2,000 cm",
+            "B": "20 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 10 litres?",
+        "answer": "C",
+        "options": {
+            "A": "100",
+            "B": "1,000",
+            "C": "10,000",
+            "D": "100,000"
+        }
+    },
+    {
+        "question": "What time is 00:45 on a 12-hour clock?",
+        "answer": "A",
+        "options": {
+            "A": "12:45 am",
+            "B": "12:45 pm",
+            "C": "4:45 am",
+            "D": "4:45 pm"
+        }
+    },
+    {
+        "question": "What is 12:00 am in 24-hour time?",
+        "answer": "A",
+        "options": {
+            "A": "00:00",
+            "B": "12:00",
+            "C": "24:00",
+            "D": "01:00"
+        }
+    },
+    {
+        "question": "A shape covers 40 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "20 cm\u00b2",
+            "B": "40 cm\u00b2",
+            "C": "80 cm\u00b2",
+            "D": "160 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a320.00?",
+        "answer": "B",
+        "options": {
+            "A": "200",
+            "B": "2,000",
+            "C": "20,000",
+            "D": "200,000"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the capacity of a swimming pool?",
+        "answer": "D",
+        "options": {
+            "A": "millilitres",
+            "B": "litres",
+            "C": "centilitres",
+            "D": "kilolitres"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the length of a garden?",
+        "answer": "C",
+        "options": {
+            "A": "millimetres",
+            "B": "centimetres",
+            "C": "metres",
+            "D": "kilometres"
+        }
+    },
+    {
+        "question": "How many minutes are in 5.5 hours?",
+        "answer": "B",
+        "options": {
+            "A": "300",
+            "B": "330",
+            "C": "550",
+            "D": "600"
+        }
+    },
+    {
+        "question": "How many metres are in 15 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "1,500",
+            "B": "15,000",
+            "C": "150,000",
+            "D": "1,500,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 30 metres?",
+        "answer": "B",
+        "options": {
+            "A": "300",
+            "B": "3,000",
+            "C": "30,000",
+            "D": "300,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 7 hours?",
+        "answer": "B",
+        "options": {
+            "A": "360",
+            "B": "420",
+            "C": "480",
+            "D": "700"
+        }
+    },
+    {
+        "question": "How many seconds are in 8 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "420",
+            "B": "480",
+            "C": "540",
+            "D": "800"
+        }
+    },
+    {
+        "question": "How many days are in 9 weeks?",
+        "answer": "B",
+        "options": {
+            "A": "54",
+            "B": "63",
+            "C": "72",
+            "D": "81"
+        }
+    },
+    {
+        "question": "How many months are in 7 years?",
+        "answer": "B",
+        "options": {
+            "A": "72",
+            "B": "84",
+            "C": "96",
+            "D": "108"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 13 cm?",
+        "answer": "C",
+        "options": {
+            "A": "26 cm",
+            "B": "39 cm",
+            "C": "52 cm",
+            "D": "169 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 16 cm long and 4 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "20 cm",
+            "B": "40 cm",
+            "C": "64 cm",
+            "D": "80 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 49 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "28 cm\u00b2",
+            "B": "49 cm\u00b2",
+            "C": "56 cm\u00b2",
+            "D": "98 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 10 cm long and 9 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "19 cm\u00b2",
+            "B": "81 cm\u00b2",
+            "C": "90 cm\u00b2",
+            "D": "100 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of a classroom?",
+        "answer": "B",
+        "options": {
+            "A": "30 cm",
+            "B": "3 m",
+            "C": "30 m",
+            "D": "300 mm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a train carriage?",
+        "answer": "C",
+        "options": {
+            "A": "25 cm",
+            "B": "2.5 m",
+            "C": "25 m",
+            "D": "250 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a325?",
+        "answer": "B",
+        "options": {
+            "A": "250",
+            "B": "2,500",
+            "C": "25,000",
+            "D": "250,000"
+        }
+    },
+    {
+        "question": "How many pounds is 1,250 pence?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a31.25",
+            "B": "\u00a312.50",
+            "C": "\u00a3125.00",
+            "D": "\u00a31,250.00"
+        }
+    },
+    {
+        "question": "What time is 15:10 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "3:10 am",
+            "B": "3:10 pm",
+            "C": "5:10 pm",
+            "D": "11:10 pm"
+        }
+    },
+    {
+        "question": "What is 6:30 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "06:30",
+            "B": "16:30",
+            "C": "18:30",
+            "D": "20:30"
+        }
+    },
+    {
+        "question": "How many hours are in 7 days?",
+        "answer": "B",
+        "options": {
+            "A": "144",
+            "B": "168",
+            "C": "192",
+            "D": "216"
+        }
+    },
+    {
+        "question": "How many grams are in 15 kilograms?",
+        "answer": "B",
+        "options": {
+            "A": "1,500",
+            "B": "15,000",
+            "C": "150,000",
+            "D": "1,500,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 17 cm and a width of 3 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "20 cm",
+            "B": "40 cm",
+            "C": "51 cm",
+            "D": "102 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 20 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "40 cm\u00b2",
+            "B": "80 cm\u00b2",
+            "C": "400 cm\u00b2",
+            "D": "800 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 3,000 cm or 30 m?",
+        "answer": "C",
+        "options": {
+            "A": "3,000 cm",
+            "B": "30 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 12 litres?",
+        "answer": "C",
+        "options": {
+            "A": "120",
+            "B": "1,200",
+            "C": "12,000",
+            "D": "120,000"
+        }
+    },
+    {
+        "question": "What time is 05:30 on a 12-hour clock?",
+        "answer": "A",
+        "options": {
+            "A": "5:30 am",
+            "B": "5:30 pm",
+            "C": "3:05 am",
+            "D": "3:05 pm"
+        }
+    },
+    {
+        "question": "What is 2:00 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "02:00",
+            "B": "12:00",
+            "C": "14:00",
+            "D": "22:00"
+        }
+    },
+    {
+        "question": "A shape covers 50 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "25 cm\u00b2",
+            "B": "50 cm\u00b2",
+            "C": "100 cm\u00b2",
+            "D": "250 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a330.50?",
+        "answer": "B",
+        "options": {
+            "A": "305",
+            "B": "3,050",
+            "C": "30,500",
+            "D": "305,000"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the mass of a car?",
+        "answer": "C",
+        "options": {
+            "A": "grams",
+            "B": "kilograms",
+            "C": "tonnes",
+            "D": "milligrams"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the length of a football field?",
+        "answer": "B",
+        "options": {
+            "A": "centimetres",
+            "B": "metres",
+            "C": "kilometres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "How many minutes are in 6.5 hours?",
+        "answer": "B",
+        "options": {
+            "A": "360",
+            "B": "390",
+            "C": "650",
+            "D": "720"
+        }
+    },
+    {
+        "question": "How many metres are in 20 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "2,000",
+            "B": "20,000",
+            "C": "200,000",
+            "D": "2,000,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 50 metres?",
+        "answer": "B",
+        "options": {
+            "A": "500",
+            "B": "5,000",
+            "C": "50,000",
+            "D": "500,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 8 hours?",
+        "answer": "B",
+        "options": {
+            "A": "420",
+            "B": "480",
+            "C": "540",
+            "D": "800"
+        }
+    },
+    {
+        "question": "How many seconds are in 9 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "480",
+            "B": "540",
+            "C": "600",
+            "D": "900"
+        }
+    },
+    {
+        "question": "How many days are in 10 weeks?",
+        "answer": "B",
+        "options": {
+            "A": "60",
+            "B": "70",
+            "C": "80",
+            "D": "90"
+        }
+    },
+    {
+        "question": "How many months are in 8 years?",
+        "answer": "B",
+        "options": {
+            "A": "84",
+            "B": "96",
+            "C": "108",
+            "D": "120"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 14 cm?",
+        "answer": "C",
+        "options": {
+            "A": "28 cm",
+            "B": "42 cm",
+            "C": "56 cm",
+            "D": "196 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 18 cm long and 2 cm wide?",
+        "answer": "C",
+        "options": {
+            "A": "20 cm",
+            "B": "36 cm",
+            "C": "40 cm",
+            "D": "72 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 64 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "32 cm\u00b2",
+            "B": "64 cm\u00b2",
+            "C": "128 cm\u00b2",
+            "D": "256 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 12 cm long and 11 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "23 cm\u00b2",
+            "B": "121 cm\u00b2",
+            "C": "132 cm\u00b2",
+            "D": "144 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the width of a classroom?",
+        "answer": "B",
+        "options": {
+            "A": "80 cm",
+            "B": "8 m",
+            "C": "80 m",
+            "D": "800 mm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of a mountain?",
+        "answer": "B",
+        "options": {
+            "A": "1,000 cm",
+            "B": "1,000 m",
+            "C": "1,000 km",
+            "D": "10,000 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a350?",
+        "answer": "B",
+        "options": {
+            "A": "500",
+            "B": "5,000",
+            "C": "50,000",
+            "D": "500,000"
+        }
+    },
+    {
+        "question": "How many pounds is 2,750 pence?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a32.75",
+            "B": "\u00a327.50",
+            "C": "\u00a3275.00",
+            "D": "\u00a32,750.00"
+        }
+    },
+    {
+        "question": "What time is 17:40 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "5:40 am",
+            "B": "5:40 pm",
+            "C": "7:40 pm",
+            "D": "11:40 pm"
+        }
+    },
+    {
+        "question": "What is 9:10 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "09:10",
+            "B": "19:10",
+            "C": "21:10",
+            "D": "23:10"
+        }
+    },
+    {
+        "question": "How many hours are in 8 days?",
+        "answer": "B",
+        "options": {
+            "A": "168",
+            "B": "192",
+            "C": "216",
+            "D": "240"
+        }
+    },
+    {
+        "question": "How many grams are in 20 kilograms?",
+        "answer": "B",
+        "options": {
+            "A": "2,000",
+            "B": "20,000",
+            "C": "200,000",
+            "D": "2,000,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 19 cm and a width of 1 cm. What is its perimeter?",
+        "answer": "C",
+        "options": {
+            "A": "20 cm",
+            "B": "38 cm",
+            "C": "40 cm",
+            "D": "76 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 25 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "50 cm\u00b2",
+            "B": "100 cm\u00b2",
+            "C": "625 cm\u00b2",
+            "D": "1,250 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 5,000 cm or 50 m?",
+        "answer": "C",
+        "options": {
+            "A": "5,000 cm",
+            "B": "50 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 15 litres?",
+        "answer": "B",
+        "options": {
+            "A": "1,500",
+            "B": "15,000",
+            "C": "150,000",
+            "D": "1,500,000"
+        }
+    },
+    {
+        "question": "What time is 23:59 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "11:59 am",
+            "B": "11:59 pm",
+            "C": "12:59 am",
+            "D": "12:59 pm"
+        }
+    },
+    {
+        "question": "What is 12:01 am in 24-hour time?",
+        "answer": "A",
+        "options": {
+            "A": "00:01",
+            "B": "12:01",
+            "C": "24:01",
+            "D": "01:01"
+        }
+    },
+    {
+        "question": "A shape covers 75 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "37.5 cm\u00b2",
+            "B": "75 cm\u00b2",
+            "C": "150 cm\u00b2",
+            "D": "225 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a345.90?",
+        "answer": "B",
+        "options": {
+            "A": "459",
+            "B": "4,590",
+            "C": "45,900",
+            "D": "459,000"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the capacity of a teaspoon?",
+        "answer": "B",
+        "options": {
+            "A": "litres",
+            "B": "millilitres",
+            "C": "centilitres",
+            "D": "kilolitres"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the distance around a running track?",
+        "answer": "B",
+        "options": {
+            "A": "centimetres",
+            "B": "metres",
+            "C": "kilometres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "How many minutes are in 7.5 hours?",
+        "answer": "B",
+        "options": {
+            "A": "420",
+            "B": "450",
+            "C": "750",
+            "D": "900"
+        }
+    },
+    {
+        "question": "How many metres are in 25 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "2,500",
+            "B": "25,000",
+            "C": "250,000",
+            "D": "2,500,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 75 metres?",
+        "answer": "B",
+        "options": {
+            "A": "750",
+            "B": "7,500",
+            "C": "75,000",
+            "D": "750,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 9 hours?",
+        "answer": "B",
+        "options": {
+            "A": "480",
+            "B": "540",
+            "C": "600",
+            "D": "900"
+        }
+    },
+    {
+        "question": "How many seconds are in 10 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "500",
+            "B": "600",
+            "C": "700",
+            "D": "1,000"
+        }
+    },
+    {
+        "question": "How many days are in 11 weeks?",
+        "answer": "B",
+        "options": {
+            "A": "66",
+            "B": "77",
+            "C": "88",
+            "D": "99"
+        }
+    },
+    {
+        "question": "How many months are in 9 years?",
+        "answer": "B",
+        "options": {
+            "A": "96",
+            "B": "108",
+            "C": "120",
+            "D": "132"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 16 cm?",
+        "answer": "C",
+        "options": {
+            "A": "32 cm",
+            "B": "48 cm",
+            "C": "64 cm",
+            "D": "256 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 20 cm long and 5 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "25 cm",
+            "B": "50 cm",
+            "C": "100 cm",
+            "D": "200 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 81 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "36 cm\u00b2",
+            "B": "81 cm\u00b2",
+            "C": "162 cm\u00b2",
+            "D": "324 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 15 cm long and 10 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "25 cm\u00b2",
+            "B": "100 cm\u00b2",
+            "C": "150 cm\u00b2",
+            "D": "225 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of a giraffe?",
+        "answer": "B",
+        "options": {
+            "A": "50 cm",
+            "B": "5 m",
+            "C": "50 m",
+            "D": "500 mm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a cricket pitch?",
+        "answer": "C",
+        "options": {
+            "A": "20 cm",
+            "B": "2 m",
+            "C": "20 m",
+            "D": "200 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a3100?",
+        "answer": "B",
+        "options": {
+            "A": "1,000",
+            "B": "10,000",
+            "C": "100,000",
+            "D": "1,000,000"
+        }
+    },
+    {
+        "question": "How many pounds is 3,500 pence?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a33.50",
+            "B": "\u00a335.00",
+            "C": "\u00a3350.00",
+            "D": "\u00a33,500.00"
+        }
+    },
+    {
+        "question": "What time is 14:25 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "2:25 am",
+            "B": "2:25 pm",
+            "C": "4:25 pm",
+            "D": "10:25 pm"
+        }
+    },
+    {
+        "question": "What is 4:45 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "04:45",
+            "B": "14:45",
+            "C": "16:45",
+            "D": "20:45"
+        }
+    },
+    {
+        "question": "How many hours are in 9 days?",
+        "answer": "B",
+        "options": {
+            "A": "192",
+            "B": "216",
+            "C": "240",
+            "D": "264"
+        }
+    },
+    {
+        "question": "How many grams are in 25 kilograms?",
+        "answer": "B",
+        "options": {
+            "A": "2,500",
+            "B": "25,000",
+            "C": "250,000",
+            "D": "2,500,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 22 cm and a width of 3 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "25 cm",
+            "B": "50 cm",
+            "C": "66 cm",
+            "D": "132 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 30 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "60 cm\u00b2",
+            "B": "120 cm\u00b2",
+            "C": "900 cm\u00b2",
+            "D": "1,800 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 10,000 cm or 100 m?",
+        "answer": "C",
+        "options": {
+            "A": "10,000 cm",
+            "B": "100 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 20 litres?",
+        "answer": "B",
+        "options": {
+            "A": "2,000",
+            "B": "20,000",
+            "C": "200,000",
+            "D": "2,000,000"
+        }
+    },
+    {
+        "question": "What time is 12:30 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "12:30 am",
+            "B": "12:30 pm",
+            "C": "6:30 am",
+            "D": "6:30 pm"
+        }
+    },
+    {
+        "question": "What is 11:59 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "11:59",
+            "B": "21:59",
+            "C": "23:59",
+            "D": "00:59"
+        }
+    },
+    {
+        "question": "A shape covers 100 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "50 cm\u00b2",
+            "B": "100 cm\u00b2",
+            "C": "200 cm\u00b2",
+            "D": "1,000 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a375.25?",
+        "answer": "B",
+        "options": {
+            "A": "752.5",
+            "B": "7,525",
+            "C": "75,250",
+            "D": "752,500"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the mass of a bag of flour?",
+        "answer": "B",
+        "options": {
+            "A": "grams",
+            "B": "kilograms",
+            "C": "tonnes",
+            "D": "milligrams"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the length of a river?",
+        "answer": "C",
+        "options": {
+            "A": "centimetres",
+            "B": "metres",
+            "C": "kilometres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "How many minutes are in 8.5 hours?",
+        "answer": "B",
+        "options": {
+            "A": "480",
+            "B": "510",
+            "C": "850",
+            "D": "1,020"
+        }
+    },
+    {
+        "question": "How many metres are in 30 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "3,000",
+            "B": "30,000",
+            "C": "300,000",
+            "D": "3,000,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 100 metres?",
+        "answer": "B",
+        "options": {
+            "A": "1,000",
+            "B": "10,000",
+            "C": "100,000",
+            "D": "1,000,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 10 hours?",
+        "answer": "B",
+        "options": {
+            "A": "500",
+            "B": "600",
+            "C": "700",
+            "D": "1,000"
+        }
+    },
+    {
+        "question": "How many seconds are in 12 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "600",
+            "B": "720",
+            "C": "840",
+            "D": "1,200"
+        }
+    },
+    {
+        "question": "How many days are in 12 weeks?",
+        "answer": "B",
+        "options": {
+            "A": "72",
+            "B": "84",
+            "C": "96",
+            "D": "108"
+        }
+    },
+    {
+        "question": "How many months are in 10 years?",
+        "answer": "C",
+        "options": {
+            "A": "100",
+            "B": "110",
+            "C": "120",
+            "D": "130"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 18 cm?",
+        "answer": "C",
+        "options": {
+            "A": "36 cm",
+            "B": "54 cm",
+            "C": "72 cm",
+            "D": "324 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 25 cm long and 4 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "29 cm",
+            "B": "58 cm",
+            "C": "100 cm",
+            "D": "200 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 100 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "50 cm\u00b2",
+            "B": "100 cm\u00b2",
+            "C": "200 cm\u00b2",
+            "D": "1,000 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 20 cm long and 15 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "35 cm\u00b2",
+            "B": "225 cm\u00b2",
+            "C": "300 cm\u00b2",
+            "D": "400 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of a double-decker bus?",
+        "answer": "B",
+        "options": {
+            "A": "45 cm",
+            "B": "4.5 m",
+            "C": "45 m",
+            "D": "450 mm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a tennis court?",
+        "answer": "C",
+        "options": {
+            "A": "24 cm",
+            "B": "2.4 m",
+            "C": "24 m",
+            "D": "240 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a3200?",
+        "answer": "B",
+        "options": {
+            "A": "2,000",
+            "B": "20,000",
+            "C": "200,000",
+            "D": "2,000,000"
+        }
+    },
+    {
+        "question": "How many pounds is 4,800 pence?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a34.80",
+            "B": "\u00a348.00",
+            "C": "\u00a3480.00",
+            "D": "\u00a34,800.00"
+        }
+    },
+    {
+        "question": "What time is 21:15 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "9:15 am",
+            "B": "9:15 pm",
+            "C": "11:15 pm",
+            "D": "1:15 am"
+        }
+    },
+    {
+        "question": "What is 3:20 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "03:20",
+            "B": "13:20",
+            "C": "15:20",
+            "D": "23:20"
+        }
+    },
+    {
+        "question": "How many hours are in 10 days?",
+        "answer": "B",
+        "options": {
+            "A": "216",
+            "B": "240",
+            "C": "264",
+            "D": "288"
+        }
+    },
+    {
+        "question": "How many grams are in 50 kilograms?",
+        "answer": "B",
+        "options": {
+            "A": "5,000",
+            "B": "50,000",
+            "C": "500,000",
+            "D": "5,000,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 24 cm and a width of 6 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "30 cm",
+            "B": "60 cm",
+            "C": "144 cm",
+            "D": "288 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 40 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "80 cm\u00b2",
+            "B": "160 cm\u00b2",
+            "C": "1,600 cm\u00b2",
+            "D": "3,200 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 25,000 cm or 250 m?",
+        "answer": "C",
+        "options": {
+            "A": "25,000 cm",
+            "B": "250 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 25 litres?",
+        "answer": "B",
+        "options": {
+            "A": "2,500",
+            "B": "25,000",
+            "C": "250,000",
+            "D": "2,500,000"
+        }
+    },
+    {
+        "question": "What time is 00:01 on a 12-hour clock?",
+        "answer": "A",
+        "options": {
+            "A": "12:01 am",
+            "B": "12:01 pm",
+            "C": "1:01 am",
+            "D": "1:01 pm"
+        }
+    },
+    {
+        "question": "What is 12:59 pm in 24-hour time?",
+        "answer": "B",
+        "options": {
+            "A": "00:59",
+            "B": "12:59",
+            "C": "22:59",
+            "D": "24:59"
+        }
+    },
+    {
+        "question": "A shape covers 121 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "60.5 cm\u00b2",
+            "B": "121 cm\u00b2",
+            "C": "242 cm\u00b2",
+            "D": "1,464 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a399.99?",
+        "answer": "B",
+        "options": {
+            "A": "999.9",
+            "B": "9,999",
+            "C": "99,990",
+            "D": "999,900"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the capacity of a bathtub?",
+        "answer": "B",
+        "options": {
+            "A": "millilitres",
+            "B": "litres",
+            "C": "centilitres",
+            "D": "kilolitres"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the distance between cities?",
+        "answer": "B",
+        "options": {
+            "A": "metres",
+            "B": "kilometres",
+            "C": "centimetres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "How many minutes are in 9.5 hours?",
+        "answer": "B",
+        "options": {
+            "A": "540",
+            "B": "570",
+            "C": "950",
+            "D": "1,140"
+        }
+    },
+    {
+        "question": "How many metres are in 40 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "4,000",
+            "B": "40,000",
+            "C": "400,000",
+            "D": "4,000,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 120 metres?",
+        "answer": "B",
+        "options": {
+            "A": "1,200",
+            "B": "12,000",
+            "C": "120,000",
+            "D": "1,200,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 11 hours?",
+        "answer": "B",
+        "options": {
+            "A": "600",
+            "B": "660",
+            "C": "720",
+            "D": "1,100"
+        }
+    },
+    {
+        "question": "How many seconds are in 15 minutes?",
+        "answer": "C",
+        "options": {
+            "A": "600",
+            "B": "750",
+            "C": "900",
+            "D": "1,500"
+        }
+    },
+    {
+        "question": "How many days are in 13 weeks?",
+        "answer": "B",
+        "options": {
+            "A": "84",
+            "B": "91",
+            "C": "98",
+            "D": "105"
+        }
+    },
+    {
+        "question": "How many months are in 11 years?",
+        "answer": "B",
+        "options": {
+            "A": "120",
+            "B": "132",
+            "C": "144",
+            "D": "156"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 20 cm?",
+        "answer": "C",
+        "options": {
+            "A": "40 cm",
+            "B": "60 cm",
+            "C": "80 cm",
+            "D": "400 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 30 cm long and 10 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "40 cm",
+            "B": "80 cm",
+            "C": "300 cm",
+            "D": "600 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 144 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "72 cm\u00b2",
+            "B": "144 cm\u00b2",
+            "C": "288 cm\u00b2",
+            "D": "576 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 25 cm long and 12 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "37 cm\u00b2",
+            "B": "288 cm\u00b2",
+            "C": "300 cm\u00b2",
+            "D": "625 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of a lighthouse?",
+        "answer": "C",
+        "options": {
+            "A": "30 cm",
+            "B": "3 m",
+            "C": "30 m",
+            "D": "300 mm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a hockey pitch?",
+        "answer": "C",
+        "options": {
+            "A": "90 cm",
+            "B": "9 m",
+            "C": "90 m",
+            "D": "900 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a3500?",
+        "answer": "B",
+        "options": {
+            "A": "5,000",
+            "B": "50,000",
+            "C": "500,000",
+            "D": "5,000,000"
+        }
+    },
+    {
+        "question": "How many pounds is 6,200 pence?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a36.20",
+            "B": "\u00a362.00",
+            "C": "\u00a3620.00",
+            "D": "\u00a36,200.00"
+        }
+    },
+    {
+        "question": "What time is 13:45 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "1:45 am",
+            "B": "1:45 pm",
+            "C": "3:45 pm",
+            "D": "11:45 pm"
+        }
+    },
+    {
+        "question": "What is 7:30 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "07:30",
+            "B": "17:30",
+            "C": "19:30",
+            "D": "21:30"
+        }
+    },
+    {
+        "question": "How many hours are in 11 days?",
+        "answer": "B",
+        "options": {
+            "A": "240",
+            "B": "264",
+            "C": "288",
+            "D": "312"
+        }
+    },
+    {
+        "question": "How many grams are in 100 kilograms?",
+        "answer": "C",
+        "options": {
+            "A": "1,000",
+            "B": "10,000",
+            "C": "100,000",
+            "D": "1,000,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 35 cm and a width of 5 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "40 cm",
+            "B": "80 cm",
+            "C": "175 cm",
+            "D": "350 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 50 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "100 cm\u00b2",
+            "B": "250 cm\u00b2",
+            "C": "2,500 cm\u00b2",
+            "D": "5,000 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 50,000 cm or 500 m?",
+        "answer": "C",
+        "options": {
+            "A": "50,000 cm",
+            "B": "500 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 30 litres?",
+        "answer": "B",
+        "options": {
+            "A": "3,000",
+            "B": "30,000",
+            "C": "300,000",
+            "D": "3,000,000"
+        }
+    },
+    {
+        "question": "What time is 11:00 on a 12-hour clock?",
+        "answer": "A",
+        "options": {
+            "A": "11:00 am",
+            "B": "11:00 pm",
+            "C": "1:00 am",
+            "D": "1:00 pm"
+        }
+    },
+    {
+        "question": "What is 10:00 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "10:00",
+            "B": "20:00",
+            "C": "22:00",
+            "D": "00:10"
+        }
+    },
+    {
+        "question": "A shape covers 169 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "84.5 cm\u00b2",
+            "B": "169 cm\u00b2",
+            "C": "338 cm\u00b2",
+            "D": "2,856 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a3125.75?",
+        "answer": "B",
+        "options": {
+            "A": "1,257.5",
+            "B": "12,575",
+            "C": "125,750",
+            "D": "1,257,500"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the mass of an elephant?",
+        "answer": "C",
+        "options": {
+            "A": "grams",
+            "B": "kilograms",
+            "C": "tonnes",
+            "D": "milligrams"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the length of a marathon race?",
+        "answer": "B",
+        "options": {
+            "A": "metres",
+            "B": "kilometres",
+            "C": "centimetres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "How many minutes are in 10.5 hours?",
+        "answer": "B",
+        "options": {
+            "A": "600",
+            "B": "630",
+            "C": "1,050",
+            "D": "1,260"
+        }
+    },
+    {
+        "question": "How many metres are in 50 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "5,000",
+            "B": "50,000",
+            "C": "500,000",
+            "D": "5,000,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 200 metres?",
+        "answer": "B",
+        "options": {
+            "A": "2,000",
+            "B": "20,000",
+            "C": "200,000",
+            "D": "2,000,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 12 hours?",
+        "answer": "B",
+        "options": {
+            "A": "600",
+            "B": "720",
+            "C": "840",
+            "D": "1,200"
+        }
+    },
+    {
+        "question": "How many seconds are in 20 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "1,000",
+            "B": "1,200",
+            "C": "1,400",
+            "D": "2,000"
+        }
+    },
+    {
+        "question": "How many days are in 14 weeks?",
+        "answer": "C",
+        "options": {
+            "A": "84",
+            "B": "91",
+            "C": "98",
+            "D": "105"
+        }
+    },
+    {
+        "question": "How many months are in 12 years?",
+        "answer": "B",
+        "options": {
+            "A": "132",
+            "B": "144",
+            "C": "156",
+            "D": "168"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 25 cm?",
+        "answer": "C",
+        "options": {
+            "A": "50 cm",
+            "B": "75 cm",
+            "C": "100 cm",
+            "D": "625 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 40 cm long and 10 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "50 cm",
+            "B": "100 cm",
+            "C": "400 cm",
+            "D": "800 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 196 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "98 cm\u00b2",
+            "B": "196 cm\u00b2",
+            "C": "392 cm\u00b2",
+            "D": "784 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 30 cm long and 20 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "50 cm\u00b2",
+            "B": "400 cm\u00b2",
+            "C": "600 cm\u00b2",
+            "D": "900 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of a skyscraper?",
+        "answer": "C",
+        "options": {
+            "A": "300 cm",
+            "B": "30 m",
+            "C": "300 m",
+            "D": "3,000 mm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a swimming pool?",
+        "answer": "C",
+        "options": {
+            "A": "25 cm",
+            "B": "2.5 m",
+            "C": "25 m",
+            "D": "250 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a31,000?",
+        "answer": "B",
+        "options": {
+            "A": "10,000",
+            "B": "100,000",
+            "C": "1,000,000",
+            "D": "10,000,000"
+        }
+    },
+    {
+        "question": "How many pounds is 7,500 pence?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a37.50",
+            "B": "\u00a375.00",
+            "C": "\u00a3750.00",
+            "D": "\u00a37,500.00"
+        }
+    },
+    {
+        "question": "What time is 20:00 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "8:00 am",
+            "B": "8:00 pm",
+            "C": "10:00 pm",
+            "D": "12:00 am"
+        }
+    },
+    {
+        "question": "What is 11:00 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "11:00",
+            "B": "21:00",
+            "C": "23:00",
+            "D": "01:00"
+        }
+    },
+    {
+        "question": "How many hours are in 12 days?",
+        "answer": "B",
+        "options": {
+            "A": "264",
+            "B": "288",
+            "C": "312",
+            "D": "336"
+        }
+    },
+    {
+        "question": "How many grams are in 200 kilograms?",
+        "answer": "C",
+        "options": {
+            "A": "2,000",
+            "B": "20,000",
+            "C": "200,000",
+            "D": "2,000,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 45 cm and a width of 5 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "50 cm",
+            "B": "100 cm",
+            "C": "225 cm",
+            "D": "450 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 60 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "120 cm\u00b2",
+            "B": "360 cm\u00b2",
+            "C": "3,600 cm\u00b2",
+            "D": "7,200 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 100,000 cm or 1,000 m?",
+        "answer": "C",
+        "options": {
+            "A": "100,000 cm",
+            "B": "1,000 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 50 litres?",
+        "answer": "B",
+        "options": {
+            "A": "5,000",
+            "B": "50,000",
+            "C": "500,000",
+            "D": "5,000,000"
+        }
+    },
+    {
+        "question": "What time is 12:00 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "12:00 am",
+            "B": "12:00 pm",
+            "C": "6:00 am",
+            "D": "6:00 pm"
+        }
+    },
+    {
+        "question": "What is 1:00 am in 24-hour time?",
+        "answer": "A",
+        "options": {
+            "A": "01:00",
+            "B": "13:00",
+            "C": "23:00",
+            "D": "00:01"
+        }
+    },
+    {
+        "question": "A shape covers 225 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "112.5 cm\u00b2",
+            "B": "225 cm\u00b2",
+            "C": "450 cm\u00b2",
+            "D": "5,625 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a3250.00?",
+        "answer": "B",
+        "options": {
+            "A": "2,500",
+            "B": "25,000",
+            "C": "250,000",
+            "D": "2,500,000"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the capacity of a jug?",
+        "answer": "B",
+        "options": {
+            "A": "millilitres",
+            "B": "litres",
+            "C": "centilitres",
+            "D": "kilolitres"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the distance walked in a day?",
+        "answer": "B",
+        "options": {
+            "A": "metres",
+            "B": "kilometres",
+            "C": "centimetres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "How many minutes are in 11.5 hours?",
+        "answer": "B",
+        "options": {
+            "A": "660",
+            "B": "690",
+            "C": "1,150",
+            "D": "1,380"
+        }
+    },
+    {
+        "question": "How many metres are in 60 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "6,000",
+            "B": "60,000",
+            "C": "600,000",
+            "D": "6,000,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 250 metres?",
+        "answer": "B",
+        "options": {
+            "A": "2,500",
+            "B": "25,000",
+            "C": "250,000",
+            "D": "2,500,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 13 hours?",
+        "answer": "B",
+        "options": {
+            "A": "720",
+            "B": "780",
+            "C": "840",
+            "D": "1,300"
+        }
+    },
+    {
+        "question": "How many seconds are in 25 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "1,200",
+            "B": "1,500",
+            "C": "1,800",
+            "D": "2,500"
+        }
+    },
+    {
+        "question": "How many days are in 15 weeks?",
+        "answer": "B",
+        "options": {
+            "A": "90",
+            "B": "105",
+            "C": "120",
+            "D": "135"
+        }
+    },
+    {
+        "question": "How many months are in 13 years?",
+        "answer": "B",
+        "options": {
+            "A": "144",
+            "B": "156",
+            "C": "168",
+            "D": "180"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 30 cm?",
+        "answer": "C",
+        "options": {
+            "A": "60 cm",
+            "B": "90 cm",
+            "C": "120 cm",
+            "D": "900 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 50 cm long and 20 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "70 cm",
+            "B": "140 cm",
+            "C": "1,000 cm",
+            "D": "2,000 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 256 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "128 cm\u00b2",
+            "B": "256 cm\u00b2",
+            "C": "512 cm\u00b2",
+            "D": "1,024 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 40 cm long and 25 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "65 cm\u00b2",
+            "B": "800 cm\u00b2",
+            "C": "1,000 cm\u00b2",
+            "D": "1,600 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of a wind turbine?",
+        "answer": "C",
+        "options": {
+            "A": "100 cm",
+            "B": "10 m",
+            "C": "100 m",
+            "D": "1,000 mm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a basketball court?",
+        "answer": "C",
+        "options": {
+            "A": "28 cm",
+            "B": "2.8 m",
+            "C": "28 m",
+            "D": "280 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a3250?",
+        "answer": "B",
+        "options": {
+            "A": "2,500",
+            "B": "25,000",
+            "C": "250,000",
+            "D": "2,500,000"
+        }
+    },
+    {
+        "question": "How many pounds is 8,400 pence?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a38.40",
+            "B": "\u00a384.00",
+            "C": "\u00a3840.00",
+            "D": "\u00a38,400.00"
+        }
+    },
+    {
+        "question": "What time is 16:30 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "4:30 am",
+            "B": "4:30 pm",
+            "C": "6:30 pm",
+            "D": "10:30 pm"
+        }
+    },
+    {
+        "question": "What is 5:15 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "05:15",
+            "B": "15:15",
+            "C": "17:15",
+            "D": "21:15"
+        }
+    },
+    {
+        "question": "How many hours are in 13 days?",
+        "answer": "B",
+        "options": {
+            "A": "288",
+            "B": "312",
+            "C": "336",
+            "D": "360"
+        }
+    },
+    {
+        "question": "How many grams are in 250 kilograms?",
+        "answer": "C",
+        "options": {
+            "A": "2,500",
+            "B": "25,000",
+            "C": "250,000",
+            "D": "2,500,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 60 cm and a width of 10 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "70 cm",
+            "B": "140 cm",
+            "C": "600 cm",
+            "D": "1,200 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 70 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "140 cm\u00b2",
+            "B": "490 cm\u00b2",
+            "C": "4,900 cm\u00b2",
+            "D": "9,800 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 200,000 cm or 2,000 m?",
+        "answer": "C",
+        "options": {
+            "A": "200,000 cm",
+            "B": "2,000 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 40 litres?",
+        "answer": "B",
+        "options": {
+            "A": "4,000",
+            "B": "40,000",
+            "C": "400,000",
+            "D": "4,000,000"
+        }
+    },
+    {
+        "question": "What time is 10:00 on a 12-hour clock?",
+        "answer": "A",
+        "options": {
+            "A": "10:00 am",
+            "B": "10:00 pm",
+            "C": "12:10 am",
+            "D": "12:10 pm"
+        }
+    },
+    {
+        "question": "What is 9:00 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "09:00",
+            "B": "19:00",
+            "C": "21:00",
+            "D": "23:00"
+        }
+    },
+    {
+        "question": "A shape covers 289 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "144.5 cm\u00b2",
+            "B": "289 cm\u00b2",
+            "C": "578 cm\u00b2",
+            "D": "8,352 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a3375.50?",
+        "answer": "B",
+        "options": {
+            "A": "3,755",
+            "B": "37,550",
+            "C": "375,500",
+            "D": "3,755,000"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the mass of a whale?",
+        "answer": "C",
+        "options": {
+            "A": "grams",
+            "B": "kilograms",
+            "C": "tonnes",
+            "D": "milligrams"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the length of a cross-country race?",
+        "answer": "B",
+        "options": {
+            "A": "metres",
+            "B": "kilometres",
+            "C": "centimetres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "How many minutes are in 12.5 hours?",
+        "answer": "B",
+        "options": {
+            "A": "720",
+            "B": "750",
+            "C": "1,250",
+            "D": "1,500"
+        }
+    },
+    {
+        "question": "How many metres are in 75 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "7,500",
+            "B": "75,000",
+            "C": "750,000",
+            "D": "7,500,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 300 metres?",
+        "answer": "B",
+        "options": {
+            "A": "3,000",
+            "B": "30,000",
+            "C": "300,000",
+            "D": "3,000,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 14 hours?",
+        "answer": "B",
+        "options": {
+            "A": "780",
+            "B": "840",
+            "C": "900",
+            "D": "1,400"
+        }
+    },
+    {
+        "question": "How many seconds are in 30 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "1,500",
+            "B": "1,800",
+            "C": "2,100",
+            "D": "3,000"
+        }
+    },
+    {
+        "question": "How many days are in 16 weeks?",
+        "answer": "B",
+        "options": {
+            "A": "96",
+            "B": "112",
+            "C": "128",
+            "D": "144"
+        }
+    },
+    {
+        "question": "How many months are in 14 years?",
+        "answer": "B",
+        "options": {
+            "A": "156",
+            "B": "168",
+            "C": "180",
+            "D": "192"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 35 cm?",
+        "answer": "C",
+        "options": {
+            "A": "70 cm",
+            "B": "105 cm",
+            "C": "140 cm",
+            "D": "1,225 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 60 cm long and 15 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "75 cm",
+            "B": "150 cm",
+            "C": "900 cm",
+            "D": "1,800 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 324 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "162 cm\u00b2",
+            "B": "324 cm\u00b2",
+            "C": "648 cm\u00b2",
+            "D": "1,296 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 50 cm long and 30 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "80 cm\u00b2",
+            "B": "1,200 cm\u00b2",
+            "C": "1,500 cm\u00b2",
+            "D": "2,500 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of a hot air balloon?",
+        "answer": "C",
+        "options": {
+            "A": "100 cm",
+            "B": "10 m",
+            "C": "100 m",
+            "D": "1,000 m"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a volleyball court?",
+        "answer": "C",
+        "options": {
+            "A": "18 cm",
+            "B": "1.8 m",
+            "C": "18 m",
+            "D": "180 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a3500?",
+        "answer": "B",
+        "options": {
+            "A": "5,000",
+            "B": "50,000",
+            "C": "500,000",
+            "D": "5,000,000"
+        }
+    },
+    {
+        "question": "How many pounds is 9,600 pence?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a39.60",
+            "B": "\u00a396.00",
+            "C": "\u00a3960.00",
+            "D": "\u00a39,600.00"
+        }
+    },
+    {
+        "question": "What time is 18:45 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "6:45 am",
+            "B": "6:45 pm",
+            "C": "8:45 pm",
+            "D": "10:45 pm"
+        }
+    },
+    {
+        "question": "What is 8:20 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "08:20",
+            "B": "18:20",
+            "C": "20:20",
+            "D": "22:20"
+        }
+    },
+    {
+        "question": "How many hours are in 14 days?",
+        "answer": "B",
+        "options": {
+            "A": "312",
+            "B": "336",
+            "C": "360",
+            "D": "384"
+        }
+    },
+    {
+        "question": "How many grams are in 500 kilograms?",
+        "answer": "C",
+        "options": {
+            "A": "5,000",
+            "B": "50,000",
+            "C": "500,000",
+            "D": "5,000,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 70 cm and a width of 10 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "80 cm",
+            "B": "160 cm",
+            "C": "700 cm",
+            "D": "1,400 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 80 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "160 cm\u00b2",
+            "B": "640 cm\u00b2",
+            "C": "6,400 cm\u00b2",
+            "D": "12,800 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 500,000 cm or 5,000 m?",
+        "answer": "C",
+        "options": {
+            "A": "500,000 cm",
+            "B": "5,000 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 60 litres?",
+        "answer": "B",
+        "options": {
+            "A": "6,000",
+            "B": "60,000",
+            "C": "600,000",
+            "D": "6,000,000"
+        }
+    },
+    {
+        "question": "What time is 2:00 on a 12-hour clock?",
+        "answer": "A",
+        "options": {
+            "A": "2:00 am",
+            "B": "2:00 pm",
+            "C": "12:02 am",
+            "D": "12:02 pm"
+        }
+    },
+    {
+        "question": "What is 12:00 midnight in 24-hour time?",
+        "answer": "A",
+        "options": {
+            "A": "00:00",
+            "B": "12:00",
+            "C": "24:00",
+            "D": "01:00"
+        }
+    },
+    {
+        "question": "A shape covers 361 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "180.5 cm\u00b2",
+            "B": "361 cm\u00b2",
+            "C": "722 cm\u00b2",
+            "D": "13,032 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a3420.80?",
+        "answer": "B",
+        "options": {
+            "A": "4,208",
+            "B": "42,080",
+            "C": "420,800",
+            "D": "4,208,000"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the capacity of a rainwater tank?",
+        "answer": "D",
+        "options": {
+            "A": "millilitres",
+            "B": "litres",
+            "C": "centilitres",
+            "D": "kilolitres"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the distance cycled in a day?",
+        "answer": "B",
+        "options": {
+            "A": "metres",
+            "B": "kilometres",
+            "C": "centimetres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "How many minutes are in 13.5 hours?",
+        "answer": "B",
+        "options": {
+            "A": "780",
+            "B": "810",
+            "C": "1,350",
+            "D": "1,620"
+        }
+    },
+    {
+        "question": "How many metres are in 80 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "8,000",
+            "B": "80,000",
+            "C": "800,000",
+            "D": "8,000,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 400 metres?",
+        "answer": "B",
+        "options": {
+            "A": "4,000",
+            "B": "40,000",
+            "C": "400,000",
+            "D": "4,000,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 15 hours?",
+        "answer": "B",
+        "options": {
+            "A": "840",
+            "B": "900",
+            "C": "960",
+            "D": "1,500"
+        }
+    },
+    {
+        "question": "How many seconds are in 35 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "1,800",
+            "B": "2,100",
+            "C": "2,400",
+            "D": "3,500"
+        }
+    },
+    {
+        "question": "How many days are in 17 weeks?",
+        "answer": "B",
+        "options": {
+            "A": "102",
+            "B": "119",
+            "C": "136",
+            "D": "153"
+        }
+    },
+    {
+        "question": "How many months are in 15 years?",
+        "answer": "B",
+        "options": {
+            "A": "168",
+            "B": "180",
+            "C": "192",
+            "D": "204"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 40 cm?",
+        "answer": "C",
+        "options": {
+            "A": "80 cm",
+            "B": "120 cm",
+            "C": "160 cm",
+            "D": "1,600 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 70 cm long and 30 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "100 cm",
+            "B": "200 cm",
+            "C": "2,100 cm",
+            "D": "4,200 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 400 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "200 cm\u00b2",
+            "B": "400 cm\u00b2",
+            "C": "800 cm\u00b2",
+            "D": "1,600 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 60 cm long and 40 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "100 cm\u00b2",
+            "B": "1,600 cm\u00b2",
+            "C": "2,400 cm\u00b2",
+            "D": "3,600 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of a radio tower?",
+        "answer": "C",
+        "options": {
+            "A": "100 cm",
+            "B": "10 m",
+            "C": "100 m",
+            "D": "1,000 m"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a badminton court?",
+        "answer": "C",
+        "options": {
+            "A": "13 cm",
+            "B": "1.3 m",
+            "C": "13 m",
+            "D": "130 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a3750?",
+        "answer": "B",
+        "options": {
+            "A": "7,500",
+            "B": "75,000",
+            "C": "750,000",
+            "D": "7,500,000"
+        }
+    },
+    {
+        "question": "How many pounds is 10,800 pence?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a310.80",
+            "B": "\u00a3108.00",
+            "C": "\u00a31,080.00",
+            "D": "\u00a310,800.00"
+        }
+    },
+    {
+        "question": "What time is 19:20 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "7:20 am",
+            "B": "7:20 pm",
+            "C": "9:20 pm",
+            "D": "11:20 pm"
+        }
+    },
+    {
+        "question": "What is 6:40 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "06:40",
+            "B": "16:40",
+            "C": "18:40",
+            "D": "20:40"
+        }
+    },
+    {
+        "question": "How many hours are in 15 days?",
+        "answer": "B",
+        "options": {
+            "A": "336",
+            "B": "360",
+            "C": "384",
+            "D": "408"
+        }
+    },
+    {
+        "question": "How many grams are in 750 kilograms?",
+        "answer": "C",
+        "options": {
+            "A": "7,500",
+            "B": "75,000",
+            "C": "750,000",
+            "D": "7,500,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 80 cm and a width of 20 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "100 cm",
+            "B": "200 cm",
+            "C": "1,600 cm",
+            "D": "3,200 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 90 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "180 cm\u00b2",
+            "B": "810 cm\u00b2",
+            "C": "8,100 cm\u00b2",
+            "D": "16,200 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 1,000,000 cm or 10,000 m?",
+        "answer": "C",
+        "options": {
+            "A": "1,000,000 cm",
+            "B": "10,000 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 75 litres?",
+        "answer": "B",
+        "options": {
+            "A": "7,500",
+            "B": "75,000",
+            "C": "750,000",
+            "D": "7,500,000"
+        }
+    },
+    {
+        "question": "What time is 3:00 on a 12-hour clock?",
+        "answer": "A",
+        "options": {
+            "A": "3:00 am",
+            "B": "3:00 pm",
+            "C": "12:03 am",
+            "D": "12:03 pm"
+        }
+    },
+    {
+        "question": "What is 1:00 pm in 24-hour time?",
+        "answer": "B",
+        "options": {
+            "A": "01:00",
+            "B": "13:00",
+            "C": "23:00",
+            "D": "00:01"
+        }
+    },
+    {
+        "question": "A shape covers 441 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "220.5 cm\u00b2",
+            "B": "441 cm\u00b2",
+            "C": "882 cm\u00b2",
+            "D": "19,448 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a3625.25?",
+        "answer": "B",
+        "options": {
+            "A": "6,252.5",
+            "B": "62,525",
+            "C": "625,250",
+            "D": "6,252,500"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the mass of a cargo ship?",
+        "answer": "C",
+        "options": {
+            "A": "grams",
+            "B": "kilograms",
+            "C": "tonnes",
+            "D": "milligrams"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the distance run in a marathon?",
+        "answer": "B",
+        "options": {
+            "A": "metres",
+            "B": "kilometres",
+            "C": "centimetres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "How many minutes are in 14.5 hours?",
+        "answer": "B",
+        "options": {
+            "A": "840",
+            "B": "870",
+            "C": "1,450",
+            "D": "1,740"
+        }
+    },
+    {
+        "question": "How many metres are in 90 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "9,000",
+            "B": "90,000",
+            "C": "900,000",
+            "D": "9,000,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 500 metres?",
+        "answer": "B",
+        "options": {
+            "A": "5,000",
+            "B": "50,000",
+            "C": "500,000",
+            "D": "5,000,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 16 hours?",
+        "answer": "B",
+        "options": {
+            "A": "900",
+            "B": "960",
+            "C": "1,020",
+            "D": "1,600"
+        }
+    },
+    {
+        "question": "How many seconds are in 40 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "2,000",
+            "B": "2,400",
+            "C": "2,800",
+            "D": "4,000"
+        }
+    },
+    {
+        "question": "How many days are in 18 weeks?",
+        "answer": "B",
+        "options": {
+            "A": "108",
+            "B": "126",
+            "C": "144",
+            "D": "162"
+        }
+    },
+    {
+        "question": "How many months are in 16 years?",
+        "answer": "B",
+        "options": {
+            "A": "180",
+            "B": "192",
+            "C": "204",
+            "D": "216"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 45 cm?",
+        "answer": "C",
+        "options": {
+            "A": "90 cm",
+            "B": "135 cm",
+            "C": "180 cm",
+            "D": "2,025 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 80 cm long and 20 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "100 cm",
+            "B": "200 cm",
+            "C": "1,600 cm",
+            "D": "3,200 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 484 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "242 cm\u00b2",
+            "B": "484 cm\u00b2",
+            "C": "968 cm\u00b2",
+            "D": "2,342 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 70 cm long and 50 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "120 cm\u00b2",
+            "B": "2,500 cm\u00b2",
+            "C": "3,500 cm\u00b2",
+            "D": "4,900 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of a rocket at launch?",
+        "answer": "C",
+        "options": {
+            "A": "50 cm",
+            "B": "5 m",
+            "C": "50 m",
+            "D": "500 m"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a table tennis table?",
+        "answer": "B",
+        "options": {
+            "A": "27 cm",
+            "B": "2.7 m",
+            "C": "27 m",
+            "D": "270 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a31,000?",
+        "answer": "B",
+        "options": {
+            "A": "10,000",
+            "B": "100,000",
+            "C": "1,000,000",
+            "D": "10,000,000"
+        }
+    },
+    {
+        "question": "How many pounds is 12,000 pence?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a312.00",
+            "B": "\u00a3120.00",
+            "C": "\u00a31,200.00",
+            "D": "\u00a312,000.00"
+        }
+    },
+    {
+        "question": "What time is 22:10 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "10:10 am",
+            "B": "10:10 pm",
+            "C": "12:10 am",
+            "D": "12:10 pm"
+        }
+    },
+    {
+        "question": "What is 9:50 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "09:50",
+            "B": "19:50",
+            "C": "21:50",
+            "D": "23:50"
+        }
+    },
+    {
+        "question": "How many hours are in 16 days?",
+        "answer": "B",
+        "options": {
+            "A": "360",
+            "B": "384",
+            "C": "408",
+            "D": "432"
+        }
+    },
+    {
+        "question": "How many grams are in 1,000 kilograms?",
+        "answer": "D",
+        "options": {
+            "A": "1,000",
+            "B": "10,000",
+            "C": "100,000",
+            "D": "1,000,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 90 cm and a width of 10 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "100 cm",
+            "B": "200 cm",
+            "C": "900 cm",
+            "D": "1,800 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 100 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "200 cm\u00b2",
+            "B": "1,000 cm\u00b2",
+            "C": "10,000 cm\u00b2",
+            "D": "20,000 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 2,000,000 cm or 20,000 m?",
+        "answer": "C",
+        "options": {
+            "A": "2,000,000 cm",
+            "B": "20,000 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 100 litres?",
+        "answer": "B",
+        "options": {
+            "A": "10,000",
+            "B": "100,000",
+            "C": "1,000,000",
+            "D": "10,000,000"
+        }
+    },
+    {
+        "question": "What time is 4:00 on a 12-hour clock?",
+        "answer": "A",
+        "options": {
+            "A": "4:00 am",
+            "B": "4:00 pm",
+            "C": "12:04 am",
+            "D": "12:04 pm"
+        }
+    },
+    {
+        "question": "What is 2:00 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "02:00",
+            "B": "12:00",
+            "C": "14:00",
+            "D": "22:00"
+        }
+    },
+    {
+        "question": "A shape covers 529 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "264.5 cm\u00b2",
+            "B": "529 cm\u00b2",
+            "C": "1,058 cm\u00b2",
+            "D": "27,984 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a3850.75?",
+        "answer": "B",
+        "options": {
+            "A": "8,507.5",
+            "B": "85,075",
+            "C": "850,750",
+            "D": "8,507,500"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the capacity of an Olympic swimming pool?",
+        "answer": "C",
+        "options": {
+            "A": "litres",
+            "B": "millilitres",
+            "C": "kilolitres",
+            "D": "centilitres"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the distance between London and Paris?",
+        "answer": "B",
+        "options": {
+            "A": "metres",
+            "B": "kilometres",
+            "C": "centimetres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "How many minutes are in 15.5 hours?",
+        "answer": "B",
+        "options": {
+            "A": "900",
+            "B": "930",
+            "C": "1,550",
+            "D": "1,860"
+        }
+    },
+    {
+        "question": "How many metres are in 100 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "10,000",
+            "B": "100,000",
+            "C": "1,000,000",
+            "D": "10,000,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 600 metres?",
+        "answer": "B",
+        "options": {
+            "A": "6,000",
+            "B": "60,000",
+            "C": "600,000",
+            "D": "6,000,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 17 hours?",
+        "answer": "B",
+        "options": {
+            "A": "960",
+            "B": "1,020",
+            "C": "1,080",
+            "D": "1,700"
+        }
+    },
+    {
+        "question": "How many seconds are in 45 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "2,400",
+            "B": "2,700",
+            "C": "3,000",
+            "D": "4,500"
+        }
+    },
+    {
+        "question": "How many days are in 19 weeks?",
+        "answer": "B",
+        "options": {
+            "A": "114",
+            "B": "133",
+            "C": "152",
+            "D": "171"
+        }
+    },
+    {
+        "question": "How many months are in 17 years?",
+        "answer": "B",
+        "options": {
+            "A": "192",
+            "B": "204",
+            "C": "216",
+            "D": "228"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 50 cm?",
+        "answer": "C",
+        "options": {
+            "A": "100 cm",
+            "B": "150 cm",
+            "C": "200 cm",
+            "D": "2,500 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 90 cm long and 10 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "100 cm",
+            "B": "200 cm",
+            "C": "900 cm",
+            "D": "1,800 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 576 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "288 cm\u00b2",
+            "B": "576 cm\u00b2",
+            "C": "1,152 cm\u00b2",
+            "D": "3,317 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 80 cm long and 60 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "140 cm\u00b2",
+            "B": "3,600 cm\u00b2",
+            "C": "4,800 cm\u00b2",
+            "D": "6,400 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of a space shuttle?",
+        "answer": "C",
+        "options": {
+            "A": "50 cm",
+            "B": "5 m",
+            "C": "50 m",
+            "D": "500 m"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a hockey rink?",
+        "answer": "C",
+        "options": {
+            "A": "60 cm",
+            "B": "6 m",
+            "C": "60 m",
+            "D": "600 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a31,250?",
+        "answer": "B",
+        "options": {
+            "A": "12,500",
+            "B": "125,000",
+            "C": "1,250,000",
+            "D": "12,500,000"
+        }
+    },
+    {
+        "question": "How many pounds is 13,500 pence?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a313.50",
+            "B": "\u00a3135.00",
+            "C": "\u00a31,350.00",
+            "D": "\u00a313,500.00"
+        }
+    },
+    {
+        "question": "What time is 23:50 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "11:50 am",
+            "B": "11:50 pm",
+            "C": "12:50 am",
+            "D": "12:50 pm"
+        }
+    },
+    {
+        "question": "What is 10:30 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "10:30",
+            "B": "20:30",
+            "C": "22:30",
+            "D": "00:30"
+        }
+    },
+    {
+        "question": "How many hours are in 17 days?",
+        "answer": "B",
+        "options": {
+            "A": "384",
+            "B": "408",
+            "C": "432",
+            "D": "456"
+        }
+    },
+    {
+        "question": "How many grams are in 1,250 kilograms?",
+        "answer": "C",
+        "options": {
+            "A": "12,500",
+            "B": "125,000",
+            "C": "1,250,000",
+            "D": "12,500,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 100 cm and a width of 25 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "125 cm",
+            "B": "250 cm",
+            "C": "2,500 cm",
+            "D": "5,000 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 120 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "240 cm\u00b2",
+            "B": "1,440 cm\u00b2",
+            "C": "14,400 cm\u00b2",
+            "D": "28,800 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 5,000,000 cm or 50,000 m?",
+        "answer": "C",
+        "options": {
+            "A": "5,000,000 cm",
+            "B": "50,000 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 125 litres?",
+        "answer": "B",
+        "options": {
+            "A": "12,500",
+            "B": "125,000",
+            "C": "1,250,000",
+            "D": "12,500,000"
+        }
+    },
+    {
+        "question": "What time is 5:00 on a 12-hour clock?",
+        "answer": "A",
+        "options": {
+            "A": "5:00 am",
+            "B": "5:00 pm",
+            "C": "12:05 am",
+            "D": "12:05 pm"
+        }
+    },
+    {
+        "question": "What is 3:00 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "03:00",
+            "B": "13:00",
+            "C": "15:00",
+            "D": "23:00"
+        }
+    },
+    {
+        "question": "A shape covers 625 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "312.5 cm\u00b2",
+            "B": "625 cm\u00b2",
+            "C": "1,250 cm\u00b2",
+            "D": "39,062 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a31,000.00?",
+        "answer": "B",
+        "options": {
+            "A": "10,000",
+            "B": "100,000",
+            "C": "1,000,000",
+            "D": "10,000,000"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the mass of a blue whale?",
+        "answer": "C",
+        "options": {
+            "A": "grams",
+            "B": "kilograms",
+            "C": "tonnes",
+            "D": "milligrams"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the distance from Earth to the Moon?",
+        "answer": "B",
+        "options": {
+            "A": "metres",
+            "B": "kilometres",
+            "C": "centimetres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "How many minutes are in 16.5 hours?",
+        "answer": "B",
+        "options": {
+            "A": "960",
+            "B": "990",
+            "C": "1,650",
+            "D": "1,980"
+        }
+    },
+    {
+        "question": "How many metres are in 120 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "12,000",
+            "B": "120,000",
+            "C": "1,200,000",
+            "D": "12,000,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 750 metres?",
+        "answer": "B",
+        "options": {
+            "A": "7,500",
+            "B": "75,000",
+            "C": "750,000",
+            "D": "7,500,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 18 hours?",
+        "answer": "B",
+        "options": {
+            "A": "1,020",
+            "B": "1,080",
+            "C": "1,140",
+            "D": "1,800"
+        }
+    },
+    {
+        "question": "How many seconds are in 50 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "2,500",
+            "B": "3,000",
+            "C": "3,500",
+            "D": "5,000"
+        }
+    },
+    {
+        "question": "How many days are in 20 weeks?",
+        "answer": "B",
+        "options": {
+            "A": "120",
+            "B": "140",
+            "C": "160",
+            "D": "180"
+        }
+    },
+    {
+        "question": "How many months are in 18 years?",
+        "answer": "B",
+        "options": {
+            "A": "204",
+            "B": "216",
+            "C": "228",
+            "D": "240"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 60 cm?",
+        "answer": "C",
+        "options": {
+            "A": "120 cm",
+            "B": "180 cm",
+            "C": "240 cm",
+            "D": "3,600 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 100 cm long and 50 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "150 cm",
+            "B": "300 cm",
+            "C": "5,000 cm",
+            "D": "10,000 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 676 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "338 cm\u00b2",
+            "B": "676 cm\u00b2",
+            "C": "1,352 cm\u00b2",
+            "D": "4,569 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 90 cm long and 70 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "160 cm\u00b2",
+            "B": "5,600 cm\u00b2",
+            "C": "6,300 cm\u00b2",
+            "D": "8,100 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of the Eiffel Tower?",
+        "answer": "C",
+        "options": {
+            "A": "300 cm",
+            "B": "30 m",
+            "C": "300 m",
+            "D": "3,000 m"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a rugby pitch?",
+        "answer": "C",
+        "options": {
+            "A": "100 cm",
+            "B": "10 m",
+            "C": "100 m",
+            "D": "1,000 m"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a32,000?",
+        "answer": "B",
+        "options": {
+            "A": "20,000",
+            "B": "200,000",
+            "C": "2,000,000",
+            "D": "20,000,000"
+        }
+    },
+    {
+        "question": "How many pounds is 15,000 pence?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a315.00",
+            "B": "\u00a3150.00",
+            "C": "\u00a31,500.00",
+            "D": "\u00a315,000.00"
+        }
+    },
+    {
+        "question": "What time is 00:30 on a 12-hour clock?",
+        "answer": "A",
+        "options": {
+            "A": "12:30 am",
+            "B": "12:30 pm",
+            "C": "1:30 am",
+            "D": "1:30 pm"
+        }
+    },
+    {
+        "question": "What is 11:00 am in 24-hour time?",
+        "answer": "B",
+        "options": {
+            "A": "01:00",
+            "B": "11:00",
+            "C": "13:00",
+            "D": "23:00"
+        }
+    },
+    {
+        "question": "How many hours are in 18 days?",
+        "answer": "B",
+        "options": {
+            "A": "408",
+            "B": "432",
+            "C": "456",
+            "D": "480"
+        }
+    },
+    {
+        "question": "How many grams are in 2,000 kilograms?",
+        "answer": "D",
+        "options": {
+            "A": "2,000",
+            "B": "20,000",
+            "C": "200,000",
+            "D": "2,000,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 120 cm and a width of 30 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "150 cm",
+            "B": "300 cm",
+            "C": "3,600 cm",
+            "D": "7,200 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 150 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "300 cm\u00b2",
+            "B": "2,250 cm\u00b2",
+            "C": "22,500 cm\u00b2",
+            "D": "45,000 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 10,000,000 cm or 100,000 m?",
+        "answer": "C",
+        "options": {
+            "A": "10,000,000 cm",
+            "B": "100,000 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 200 litres?",
+        "answer": "B",
+        "options": {
+            "A": "20,000",
+            "B": "200,000",
+            "C": "2,000,000",
+            "D": "20,000,000"
+        }
+    },
+    {
+        "question": "What time is 6:00 on a 12-hour clock?",
+        "answer": "A",
+        "options": {
+            "A": "6:00 am",
+            "B": "6:00 pm",
+            "C": "12:06 am",
+            "D": "12:06 pm"
+        }
+    },
+    {
+        "question": "What is 4:00 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "04:00",
+            "B": "14:00",
+            "C": "16:00",
+            "D": "20:00"
+        }
+    },
+    {
+        "question": "A shape covers 729 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "364.5 cm\u00b2",
+            "B": "729 cm\u00b2",
+            "C": "1,458 cm\u00b2",
+            "D": "53,144 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a31,500.50?",
+        "answer": "B",
+        "options": {
+            "A": "15,005",
+            "B": "150,050",
+            "C": "1,500,500",
+            "D": "15,005,000"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the capacity of a reservoir?",
+        "answer": "C",
+        "options": {
+            "A": "litres",
+            "B": "millilitres",
+            "C": "megalitres",
+            "D": "centilitres"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the distance around the equator?",
+        "answer": "B",
+        "options": {
+            "A": "metres",
+            "B": "kilometres",
+            "C": "centimetres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "How many minutes are in 17.5 hours?",
+        "answer": "B",
+        "options": {
+            "A": "1,020",
+            "B": "1,050",
+            "C": "1,750",
+            "D": "2,100"
+        }
+    },
+    {
+        "question": "How many metres are in 150 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "15,000",
+            "B": "150,000",
+            "C": "1,500,000",
+            "D": "15,000,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 800 metres?",
+        "answer": "B",
+        "options": {
+            "A": "8,000",
+            "B": "80,000",
+            "C": "800,000",
+            "D": "8,000,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 19 hours?",
+        "answer": "B",
+        "options": {
+            "A": "1,080",
+            "B": "1,140",
+            "C": "1,200",
+            "D": "1,900"
+        }
+    },
+    {
+        "question": "How many seconds are in 55 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "3,000",
+            "B": "3,300",
+            "C": "3,600",
+            "D": "5,500"
+        }
+    },
+    {
+        "question": "How many days are in 21 weeks?",
+        "answer": "B",
+        "options": {
+            "A": "126",
+            "B": "147",
+            "C": "168",
+            "D": "189"
+        }
+    },
+    {
+        "question": "How many months are in 19 years?",
+        "answer": "B",
+        "options": {
+            "A": "216",
+            "B": "228",
+            "C": "240",
+            "D": "252"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 70 cm?",
+        "answer": "C",
+        "options": {
+            "A": "140 cm",
+            "B": "210 cm",
+            "C": "280 cm",
+            "D": "4,900 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 110 cm long and 40 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "150 cm",
+            "B": "300 cm",
+            "C": "4,400 cm",
+            "D": "8,800 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 784 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "392 cm\u00b2",
+            "B": "784 cm\u00b2",
+            "C": "1,568 cm\u00b2",
+            "D": "6,146 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 100 cm long and 80 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "180 cm\u00b2",
+            "B": "6,400 cm\u00b2",
+            "C": "8,000 cm\u00b2",
+            "D": "10,000 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of Big Ben?",
+        "answer": "C",
+        "options": {
+            "A": "96 cm",
+            "B": "9.6 m",
+            "C": "96 m",
+            "D": "960 mm"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a netball court?",
+        "answer": "C",
+        "options": {
+            "A": "30 cm",
+            "B": "3 m",
+            "C": "30 m",
+            "D": "300 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a32,500?",
+        "answer": "B",
+        "options": {
+            "A": "25,000",
+            "B": "250,000",
+            "C": "2,500,000",
+            "D": "25,000,000"
+        }
+    },
+    {
+        "question": "How many pounds is 16,800 pence?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a316.80",
+            "B": "\u00a3168.00",
+            "C": "\u00a31,680.00",
+            "D": "\u00a316,800.00"
+        }
+    },
+    {
+        "question": "What time is 12:15 on a 12-hour clock?",
+        "answer": "B",
+        "options": {
+            "A": "12:15 am",
+            "B": "12:15 pm",
+            "C": "1:15 am",
+            "D": "1:15 pm"
+        }
+    },
+    {
+        "question": "What is 7:10 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "07:10",
+            "B": "17:10",
+            "C": "19:10",
+            "D": "21:10"
+        }
+    },
+    {
+        "question": "How many hours are in 19 days?",
+        "answer": "B",
+        "options": {
+            "A": "432",
+            "B": "456",
+            "C": "480",
+            "D": "504"
+        }
+    },
+    {
+        "question": "How many grams are in 2,500 kilograms?",
+        "answer": "C",
+        "options": {
+            "A": "25,000",
+            "B": "250,000",
+            "C": "2,500,000",
+            "D": "25,000,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 130 cm and a width of 20 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "150 cm",
+            "B": "300 cm",
+            "C": "2,600 cm",
+            "D": "5,200 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 200 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "400 cm\u00b2",
+            "B": "4,000 cm\u00b2",
+            "C": "40,000 cm\u00b2",
+            "D": "80,000 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is longer: 25,000,000 cm or 250,000 m?",
+        "answer": "C",
+        "options": {
+            "A": "25,000,000 cm",
+            "B": "250,000 m",
+            "C": "They are the same",
+            "D": "Not enough information"
+        }
+    },
+    {
+        "question": "How many millilitres are in 250 litres?",
+        "answer": "B",
+        "options": {
+            "A": "25,000",
+            "B": "250,000",
+            "C": "2,500,000",
+            "D": "25,000,000"
+        }
+    },
+    {
+        "question": "What time is 7:00 on a 12-hour clock?",
+        "answer": "A",
+        "options": {
+            "A": "7:00 am",
+            "B": "7:00 pm",
+            "C": "12:07 am",
+            "D": "12:07 pm"
+        }
+    },
+    {
+        "question": "What is 5:00 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "05:00",
+            "B": "15:00",
+            "C": "17:00",
+            "D": "21:00"
+        }
+    },
+    {
+        "question": "A shape covers 841 full squares on 1 cm\u00b2 grid paper. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "420.5 cm\u00b2",
+            "B": "841 cm\u00b2",
+            "C": "1,682 cm\u00b2",
+            "D": "70,728 cm\u00b2"
+        }
+    },
+    {
+        "question": "How many pence is \u00a33,000.75?",
+        "answer": "B",
+        "options": {
+            "A": "30,007.5",
+            "B": "300,075",
+            "C": "3,000,750",
+            "D": "30,007,500"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the mass of a jumbo jet?",
+        "answer": "C",
+        "options": {
+            "A": "grams",
+            "B": "kilograms",
+            "C": "tonnes",
+            "D": "milligrams"
+        }
+    },
+    {
+        "question": "Which unit would you use to measure the distance around a running track?",
+        "answer": "B",
+        "options": {
+            "A": "centimetres",
+            "B": "metres",
+            "C": "kilometres",
+            "D": "millimetres"
+        }
+    },
+    {
+        "question": "How many minutes are in 18.5 hours?",
+        "answer": "B",
+        "options": {
+            "A": "1,080",
+            "B": "1,110",
+            "C": "1,850",
+            "D": "2,220"
+        }
+    },
+    {
+        "question": "How many metres are in 200 kilometres?",
+        "answer": "B",
+        "options": {
+            "A": "20,000",
+            "B": "200,000",
+            "C": "2,000,000",
+            "D": "20,000,000"
+        }
+    },
+    {
+        "question": "How many centimetres are in 900 metres?",
+        "answer": "B",
+        "options": {
+            "A": "9,000",
+            "B": "90,000",
+            "C": "900,000",
+            "D": "9,000,000"
+        }
+    },
+    {
+        "question": "How many minutes are in 20 hours?",
+        "answer": "B",
+        "options": {
+            "A": "1,140",
+            "B": "1,200",
+            "C": "1,260",
+            "D": "2,000"
+        }
+    },
+    {
+        "question": "How many seconds are in 60 minutes?",
+        "answer": "B",
+        "options": {
+            "A": "3,000",
+            "B": "3,600",
+            "C": "4,200",
+            "D": "6,000"
+        }
+    },
+    {
+        "question": "How many days are in 22 weeks?",
+        "answer": "B",
+        "options": {
+            "A": "132",
+            "B": "154",
+            "C": "176",
+            "D": "198"
+        }
+    },
+    {
+        "question": "How many months are in 20 years?",
+        "answer": "B",
+        "options": {
+            "A": "228",
+            "B": "240",
+            "C": "252",
+            "D": "264"
+        }
+    },
+    {
+        "question": "What is the perimeter of a square with sides of 80 cm?",
+        "answer": "C",
+        "options": {
+            "A": "160 cm",
+            "B": "240 cm",
+            "C": "320 cm",
+            "D": "6,400 cm"
+        }
+    },
+    {
+        "question": "What is the perimeter of a rectangle that is 120 cm long and 80 cm wide?",
+        "answer": "B",
+        "options": {
+            "A": "200 cm",
+            "B": "400 cm",
+            "C": "9,600 cm",
+            "D": "19,200 cm"
+        }
+    },
+    {
+        "question": "A shape is made of 900 full squares on a grid. What is its area?",
+        "answer": "B",
+        "options": {
+            "A": "450 cm\u00b2",
+            "B": "900 cm\u00b2",
+            "C": "1,800 cm\u00b2",
+            "D": "8,100 cm\u00b2"
+        }
+    },
+    {
+        "question": "A rectangle is 110 cm long and 90 cm wide. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "200 cm\u00b2",
+            "B": "8,100 cm\u00b2",
+            "C": "9,900 cm\u00b2",
+            "D": "12,100 cm\u00b2"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the height of the Shard in London?",
+        "answer": "C",
+        "options": {
+            "A": "300 cm",
+            "B": "30 m",
+            "C": "300 m",
+            "D": "3,000 m"
+        }
+    },
+    {
+        "question": "Which is the best estimate for the length of a cricket pitch?",
+        "answer": "C",
+        "options": {
+            "A": "20 cm",
+            "B": "2 m",
+            "C": "20 m",
+            "D": "200 mm"
+        }
+    },
+    {
+        "question": "How many pence are in \u00a35,000?",
+        "answer": "B",
+        "options": {
+            "A": "50,000",
+            "B": "500,000",
+            "C": "5,000,000",
+            "D": "50,000,000"
+        }
+    },
+    {
+        "question": "How many pounds is 20,000 pence?",
+        "answer": "B",
+        "options": {
+            "A": "\u00a320.00",
+            "B": "\u00a3200.00",
+            "C": "\u00a32,000.00",
+            "D": "\u00a320,000.00"
+        }
+    },
+    {
+        "question": "What time is 8:00 on a 12-hour clock?",
+        "answer": "A",
+        "options": {
+            "A": "8:00 am",
+            "B": "8:00 pm",
+            "C": "12:08 am",
+            "D": "12:08 pm"
+        }
+    },
+    {
+        "question": "What is 6:00 pm in 24-hour time?",
+        "answer": "C",
+        "options": {
+            "A": "06:00",
+            "B": "16:00",
+            "C": "18:00",
+            "D": "20:00"
+        }
+    },
+    {
+        "question": "How many hours are in 20 days?",
+        "answer": "B",
+        "options": {
+            "A": "456",
+            "B": "480",
+            "C": "504",
+            "D": "528"
+        }
+    },
+    {
+        "question": "How many grams are in 5,000 kilograms?",
+        "answer": "D",
+        "options": {
+            "A": "5,000",
+            "B": "50,000",
+            "C": "500,000",
+            "D": "5,000,000"
+        }
+    },
+    {
+        "question": "A rectangle has a length of 150 cm and a width of 50 cm. What is its perimeter?",
+        "answer": "B",
+        "options": {
+            "A": "200 cm",
+            "B": "400 cm",
+            "C": "7,500 cm",
+            "D": "15,000 cm"
+        }
+    },
+    {
+        "question": "A square has sides of 250 cm. What is its area?",
+        "answer": "C",
+        "options": {
+            "A": "500 cm\u00b2",
+            "B": "6,250 cm\u00b2",
+            "C": "62,500 cm\u00b2",
+            "D": "125,000 cm\u00b2"
+        }
+    }
+]

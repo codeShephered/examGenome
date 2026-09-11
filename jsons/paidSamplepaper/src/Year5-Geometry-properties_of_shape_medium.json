@@ -1,0 +1,1602 @@
+[
+    {
+        "qid": 1,
+        "question": "Which 3-D shape is represented by this 2-D net?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Pyramid",
+            "D": "Cylinder"
+        },
+        "answer": "B",
+        "explanation": "The net shows six rectangular faces, two of which are squares, indicating a cuboid (not all faces are squares, so it is not a cube).",
+        "difficulty": "medium",
+        "imgFileName": "1_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 2,
+        "question": "What is the measure of angle A in this diagram, if angle B is 55° and angle C is 70°?",
+        "options": {
+            "A": "55°",
+            "B": "65°",
+            "C": "70°",
+            "D": "125°"
+        },
+        "answer": "A",
+        "explanation": "In a triangle, the sum of interior angles is 180°. Given angles B (55°) and C (70°) sum to 125°, the measure of angle A should be 180° - 125° = 55°.",
+        "difficulty": "medium",
+        "imgFileName": "2_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 3,
+        "question": "Which of these angles is a reflex angle?",
+        "options": {
+            "A": "45°",
+            "B": "90°",
+            "C": "180°",
+            "D": "270°"
+        },
+        "answer": "D",
+        "explanation": "A reflex angle is greater than 180° but less than 360°. 270° is a reflex angle.",
+        "difficulty": "medium",
+        "imgFileName": "3_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 4,
+        "question": "What is the measure of angle D in this quadrilateral if angles A, B, and C are 90°, 60°, and 120° respectively?",
+        "options": {
+            "A": "60°",
+            "B": "90°",
+            "C": "120°",
+            "D": "150°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle D = 360° - (90° + 60° + 120°) = 90°.",
+        "difficulty": "medium",
+        "imgFileName": "4_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 5,
+        "question": "Which of these shapes is a regular polygon?",
+        "options": {
+            "A": "Rectangle with sides 4 cm and 6 cm",
+            "B": "Pentagon with sides 3 cm, 4 cm, 5 cm, 3 cm, 4 cm",
+            "C": "Hexagon with all sides 5 cm and all angles 120°",
+            "D": "Quadrilateral with sides 5 cm, 5 cm, 6 cm, 6 cm"
+        },
+        "answer": "C",
+        "explanation": "A regular polygon has all sides and all angles equal. The hexagon with all sides 5 cm and all angles 120° is regular.",
+        "difficulty": "medium",
+        "imgFileName": "5_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 6,
+        "question": "What is the measure of angle E in this pentagon if angles A, B, C, and D are 100°, 120°, 90°, and 80° respectively?",
+        "options": {
+            "A": "150°",
+            "B": "70°",
+            "C": "90°",
+            "D": "110°"
+        },
+        "answer": "A",
+        "explanation": "The sum of interior angles in a pentagon is (5-2) * 180° = 540°. The sum of the given angles A, B, C, and D is 100° + 120° + 90° + 80° = 390°. Therefore, angle E should be 540° - 390° = 150°.",
+        "difficulty": "medium",
+        "imgFileName": "6_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 7,
+        "question": "Which of these shapes is an irregular polygon?",
+        "options": {
+            "A": "Equilateral triangle",
+            "B": "Square",
+            "C": "Rectangle with sides 3 cm and 5 cm",
+            "D": "Regular pentagon"
+        },
+        "answer": "C",
+        "explanation": "An irregular polygon has sides and angles that are not all equal. The rectangle with sides 3 cm and 5 cm is irregular.",
+        "difficulty": "medium",
+        "imgFileName": "7_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 8,
+        "question": "What is the measure of angle F in this hexagon if angles A, B, C, D, and E are 120°, 130°, 140°, 110°, and 100° respectively?",
+        "options": {
+            "A": "40°",
+            "B": "120°",
+            "C": "80°",
+            "D": "100°"
+        },
+        "answer": "B",
+        "explanation": "The sum of interior angles in a hexagon is (6-2) * 180° = 720°. The sum of the given angles A through E is 120° + 130° + 140° + 110° + 100° = 600°. Therefore, angle F should be 720° - 600° = 120°.",
+        "difficulty": "medium",
+        "imgFileName": "8_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 9,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles?",
+        "options": {
+            "A": "Rectangle",
+            "B": "Rhombus",
+            "C": "Parallelogram",
+            "D": "Trapezoid"
+        },
+        "answer": "B",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles.",
+        "difficulty": "medium",
+        "imgFileName": "9_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 10,
+        "question": "What is the measure of angle G in this quadrilateral if angles A, B, and C are 80°, 110°, and 70° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "100°",
+            "C": "120°",
+            "D": "140°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle G = 360° - (80° + 110° + 70°) = 100°.",
+        "difficulty": "medium",
+        "imgFileName": "10_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 11,
+        "question": "Which of these shapes has diagonals that are equal in length and bisect each other?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rectangle has diagonals that are equal in length and bisect each other.",
+        "difficulty": "medium",
+        "imgFileName": "11_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 12,
+        "question": "What is the measure of angle H in this pentagon if angles A, B, C, and D are 110°, 100°, 90°, and 80° respectively?",
+        "options": {
+            "A": "60°",
+            "B": "160°",
+            "C": "100°",
+            "D": "120°"
+        },
+        "answer": "B",
+        "explanation": "The sum of interior angles in a pentagon is 540°. The sum of the given angles is 110° + 100° + 90° + 80° = 380°. Angle H should be 540° - 380° = 160°.",
+        "difficulty": "medium",
+        "imgFileName": "12_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 13,
+        "question": "Which of these shapes has diagonals that bisect each other but are not equal in length?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles but are not equal in length unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "13_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 14,
+        "question": "What is the measure of angle I in this hexagon if angles A, B, C, D, and E are 130°, 120°, 110°, 100°, and 90° respectively?",
+        "options": {
+            "A": "50°",
+            "B": "170°",
+            "C": "90°",
+            "D": "110°"
+        },
+        "answer": "B",
+        "explanation": "The sum of interior angles in a hexagon is 720°. The sum of the given angles is 130° + 120° + 110° + 100° + 90° = 550°. Angle I should be 720° - 550° = 170°.",
+        "difficulty": "medium",
+        "imgFileName": "14_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 15,
+        "question": "Which of these shapes has diagonals that are equal in length, bisect each other, and intersect at right angles?",
+        "options": {
+            "A": "Rectangle",
+            "B": "Rhombus",
+            "C": "Square",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A square has diagonals that are equal in length, bisect each other, and intersect at right angles.",
+        "difficulty": "medium",
+        "imgFileName": "15_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 16,
+        "question": "What is the measure of angle J in this quadrilateral if angles A, B, and C are 105°, 95°, and 80° respectively?",
+        "options": {
+            "A": "70°",
+            "B": "80°",
+            "C": "90°",
+            "D": "100°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle J = 360° - (105° + 95° + 80°) = 80°.",
+        "difficulty": "medium",
+        "imgFileName": "16_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 17,
+        "question": "Which of these shapes has diagonals that bisect the angles?",
+        "options": {
+            "A": "Rectangle",
+            "B": "Rhombus",
+            "C": "Parallelogram",
+            "D": "Trapezoid"
+        },
+        "answer": "B",
+        "explanation": "A rhombus has diagonals that bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "17_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 18,
+        "question": "What is the measure of angle K in this pentagon if angles A, B, C, and D are 108°, 100°, 112°, and 96° respectively?",
+        "options": {
+            "A": "104°",
+            "B": "114°",
+            "C": "124°",
+            "D": "134°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle K = 540° - (108° + 100° + 112° + 96°) = 124°.",
+        "difficulty": "medium",
+        "imgFileName": "18_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 19,
+        "question": "Which of these shapes has diagonals that are equal in length and bisect each other at right angles?",
+        "options": {
+            "A": "Rectangle",
+            "B": "Rhombus",
+            "C": "Square",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A square has diagonals that are equal in length and bisect each other at right angles.",
+        "difficulty": "medium",
+        "imgFileName": "19_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 20,
+        "question": "What is the measure of angle L in this hexagon if angles A, B, C, D, and E are 140°, 130°, 120°, 110°, and 100° respectively?",
+        "options": {
+            "A": "60°",
+            "B": "80°",
+            "C": "100°",
+            "D": "120°"
+        },
+        "answer": "D",
+        "explanation": "The sum of interior angles in a hexagon is 720°. The sum of the given angles is 140° + 130° + 120° + 110° + 100° = 600°. Angle L should be 720° - 600° = 120°.",
+        "difficulty": "medium",
+        "imgFileName": "20_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 21,
+        "question": "Which of these shapes has diagonals that are not equal in length and do not bisect each other at right angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has diagonals that bisect each other but are not equal in length and do not intersect at right angles unless it is a rhombus or rectangle.",
+        "difficulty": "medium",
+        "imgFileName": "21_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 22,
+        "question": "What is the measure of angle M in this quadrilateral if angles A, B, and C are 75°, 105°, and 90° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle M = 360° - (75° + 105° + 90°) = 90°.",
+        "difficulty": "medium",
+        "imgFileName": "22_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 23,
+        "question": "Which of these shapes has diagonals that bisect each other but are not equal in length and do not intersect at right angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has diagonals that bisect each other but are not equal in length and do not intersect at right angles unless it is a rhombus or rectangle.",
+        "difficulty": "medium",
+        "imgFileName": "23_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 24,
+        "question": "What is the measure of angle N in this pentagon if angles A, B, C, and D are 120°, 110°, 100°, and 90° respectively?",
+        "options": {
+            "A": "100°",
+            "B": "110°",
+            "C": "120°",
+            "D": "130°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle N = 540° - (120° + 110° + 100° + 90°) = 120°.",
+        "difficulty": "medium",
+        "imgFileName": "24_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 25,
+        "question": "Which of these shapes has diagonals that are equal in length, bisect each other, but do not intersect at right angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has diagonals that are equal in length and bisect each other but do not intersect at right angles unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "25_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 26,
+        "question": "What is the measure of angle O in this hexagon if angles A, B, C, D, and E are 150°, 140°, 130°, 120°, and 110° respectively?",
+        "options": {
+            "A": "70°",
+            "B": "90°",
+            "C": "110°",
+            "D": "130°"
+        },
+        "answer": "A",
+        "explanation": "The sum of angles in a hexagon is 720°. So, angle O = 720° - (150° + 140° + 130° + 120° + 110°) = 70°.",
+        "difficulty": "medium",
+        "imgFileName": "26_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 27,
+        "question": "Which of these shapes has diagonals that bisect the angles and are equal in length?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "A",
+        "explanation": "A square has diagonals that bisect the angles and are equal in length.",
+        "difficulty": "medium",
+        "imgFileName": "27_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 28,
+        "question": "What is the measure of angle P in this quadrilateral if angles A, B, and C are 85°, 95°, and 100° respectively?",
+        "options": {
+            "A": "70°",
+            "B": "80°",
+            "C": "90°",
+            "D": "100°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle P = 360° - (85° + 95° + 100°) = 80°.",
+        "difficulty": "medium",
+        "imgFileName": "28_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 29,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles but are not equal in length?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles but are not equal in length unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "29_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 30,
+        "question": "What is the measure of angle Q in this pentagon if angles A, B, C, and D are 115°, 105°, 95°, and 85° respectively?",
+        "options": {
+            "A": "100°",
+            "B": "110°",
+            "C": "140°",
+            "D": "130°"
+        },
+        "answer": "C",
+        "explanation": "The sum of interior angles in a pentagon is 540°. The sum of the given angles is 115° + 105° + 95° + 85° = 400°. Angle Q should be 540° - 400° = 140°.",
+        "difficulty": "medium",
+        "imgFileName": "30_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 31,
+        "question": "Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "A",
+        "explanation": "A square has diagonals that are equal in length, bisect each other, and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "31_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 32,
+        "question": "What is the measure of angle R in this hexagon if angles A, B, C, D, and E are 135°, 125°, 115°, 105°, and 95° respectively?",
+        "options": {
+            "A": "85°",
+            "B": "95°",
+            "C": "105°",
+            "D": "145°"
+        },
+        "answer": "D",
+        "explanation": "The sum of interior angles in a hexagon is 720°. The sum of the given angles is 135° + 125° + 115° + 105° + 95° = 575°. Angle R should be 720° - 575° = 145°.",
+        "difficulty": "medium",
+        "imgFileName": "32_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 33,
+        "question": "Which of these shapes has diagonals that bisect each other but do not bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has diagonals that bisect each other but do not bisect the angles unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "33_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 34,
+        "question": "What is the measure of angle S in this quadrilateral if angles A, B, and C are 110°, 80°, and 70° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "100°",
+            "C": "120°",
+            "D": "140°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle S = 360° - (110° + 80° + 70°) = 100°.",
+        "difficulty": "medium",
+        "imgFileName": "34_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 35,
+        "question": "Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "A",
+        "explanation": "A square has diagonals that are equal in length, bisect each other, and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "35_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 36,
+        "question": "What is the measure of angle T in this pentagon if angles A, B, C, and D are 100°, 110°, 120°, and 90° respectively?",
+        "options": {
+            "A": "100°",
+            "B": "110°",
+            "C": "120°",
+            "D": "130°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle T = 540° - (100° + 110° + 120° + 90°) = 120°.",
+        "difficulty": "medium",
+        "imgFileName": "36_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 37,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "37_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 38,
+        "question": "What is the measure of angle U in this hexagon if angles A, B, C, D, and E are 120°, 130°, 140°, 150°, and 100° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "A",
+        "explanation": "The sum of angles in a hexagon is 720°. So, angle U = 720° - (120° + 130° + 140° + 150° + 100°) = 80°.",
+        "difficulty": "medium",
+        "imgFileName": "38_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 39,
+        "question": "Which of these shapes has diagonals that are equal in length and bisect each other but do not bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has diagonals that are equal in length and bisect each other but do not bisect the angles unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "39_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 40,
+        "question": "What is the measure of angle V in this quadrilateral if angles A, B, and C are 70°, 110°, and 90° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle V = 360° - (70° + 110° + 90°) = 90°.",
+        "difficulty": "medium",
+        "imgFileName": "40_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 41,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles, bisect the angles, and are equal in length?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "A",
+        "explanation": "A square has diagonals that bisect each other at right angles, bisect the angles, and are equal in length.",
+        "difficulty": "medium",
+        "imgFileName": "41_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 42,
+        "question": "What is the measure of angle W in this pentagon if angles A, B, C, and D are 125°, 115°, 105°, and 95° respectively?",
+        "options": {
+            "A": "90°",
+            "B": "100°",
+            "C": "110°",
+            "D": "120°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle W = 540° - (125° + 115° + 105° + 95°) = 100°.",
+        "difficulty": "medium",
+        "imgFileName": "42_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 43,
+        "question": "Which of these shapes has diagonals that bisect each other but are not equal in length and do not intersect at right angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has diagonals that bisect each other but are not equal in length and do not intersect at right angles unless it is a rhombus or rectangle.",
+        "difficulty": "medium",
+        "imgFileName": "43_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 44,
+        "question": "What is the measure of angle X in this hexagon if angles A, B, C, D, and E are 145°, 135°, 125°, 115°, and 105° respectively?",
+        "options": {
+            "A": "75°",
+            "B": "85°",
+            "C": "95°",
+            "D": "105°"
+        },
+        "answer": "C",
+        "explanation": "The sum of interior angles in a hexagon is 720°. The sum of the given angles is 145° + 135° + 125° + 115° + 105° = 625°. Angle X should be 720° - 625° = 95°.",
+        "difficulty": "medium",
+        "imgFileName": "44_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 45,
+        "question": "Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "A",
+        "explanation": "A square has diagonals that are equal in length, bisect each other, and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "45_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 46,
+        "question": "What is the measure of angle Y in this quadrilateral if angles A, B, and C are 65°, 115°, and 100° respectively?",
+        "options": {
+            "A": "70°",
+            "B": "80°",
+            "C": "90°",
+            "D": "100°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle Y = 360° - (65° + 115° + 100°) = 80°.",
+        "difficulty": "medium",
+        "imgFileName": "46_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 47,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles but are not equal in length?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles but are not equal in length unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "47_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 48,
+        "question": "What is the measure of angle Z in this pentagon if angles A, B, C, and D are 130°, 120°, 110°, and 100° respectively?",
+        "options": {
+            "A": "70°",
+            "B": "80°",
+            "C": "90°",
+            "D": "100°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle Z = 540° - (130° + 120° + 110° + 100°) = 80°.",
+        "difficulty": "medium",
+        "imgFileName": "48_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 49,
+        "question": "Which of these shapes has diagonals that are equal in length and bisect each other but do not bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has diagonals that are equal in length and bisect each other but do not bisect the angles unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "49_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 50,
+        "question": "What is the measure of angle AA in this hexagon if angles A, B, C, D, and E are 135°, 125°, 115°, 105°, and 95° respectively?",
+        "options": {
+            "A": "75°",
+            "B": "85°",
+            "C": "95°",
+            "D": "145°"
+        },
+        "answer": "D",
+        "explanation": "The sum of interior angles in a hexagon is 720°. The sum of the given angles is 135° + 125° + 115° + 105° + 95° = 575°. Angle AA should be 720° - 575° = 145°.",
+        "difficulty": "medium",
+        "imgFileName": "50_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 51,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "51_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 52,
+        "question": "What is the measure of angle AB in this quadrilateral if angles A, B, and C are 100°, 80°, and 70° respectively?",
+        "options": {
+            "A": "90°",
+            "B": "100°",
+            "C": "110°",
+            "D": "120°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle AB = 360° - (100° + 80° + 70°) = 110°.",
+        "difficulty": "medium",
+        "imgFileName": "52_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 53,
+        "question": "Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "A",
+        "explanation": "A square has diagonals that are equal in length, bisect each other, and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "53_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 54,
+        "question": "What is the measure of angle AC in this pentagon if angles A, B, C, and D are 110°, 120°, 100°, and 90° respectively?",
+        "options": {
+            "A": "100°",
+            "B": "110°",
+            "C": "120°",
+            "D": "130°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle AC = 540° - (110° + 120° + 100° + 90°) = 120°.",
+        "difficulty": "medium",
+        "imgFileName": "54_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 55,
+        "question": "Which of these shapes has diagonals that bisect each other but are not equal in length and do not intersect at right angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has diagonals that bisect each other but are not equal in length and do not intersect at right angles unless it is a rhombus or rectangle.",
+        "difficulty": "medium",
+        "imgFileName": "55_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 56,
+        "question": "What is the measure of angle AD in this hexagon if angles A, B, C, D, and E are 120°, 130°, 140°, 150°, and 110° respectively?",
+        "options": {
+            "A": "70°",
+            "B": "80°",
+            "C": "90°",
+            "D": "100°"
+        },
+        "answer": "A",
+        "explanation": "The sum of angles in a hexagon is 720°. So, angle AD = 720° - (120° + 130° + 140° + 150° + 110°) = 70°.",
+        "difficulty": "medium",
+        "imgFileName": "56_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 57,
+        "question": "Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "A",
+        "explanation": "A square has diagonals that are equal in length, bisect each other, and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "57_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 58,
+        "question": "What is the measure of angle AE in this quadrilateral if angles A, B, and C are 75°, 105°, and 90° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle AE = 360° - (75° + 105° + 90°) = 90°.",
+        "difficulty": "medium",
+        "imgFileName": "58_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 59,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles but are not equal in length?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles but are not equal in length unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "59_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 60,
+        "question": "What is the measure of angle AF in this pentagon if angles A, B, C, and D are 125°, 115°, 105°, and 95° respectively?",
+        "options": {
+            "A": "90°",
+            "B": "100°",
+            "C": "110°",
+            "D": "120°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle AF = 540° - (125° + 115° + 105° + 95°) = 100°.",
+        "difficulty": "medium",
+        "imgFileName": "60_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 61,
+        "question": "Which of these shapes has diagonals that are equal in length and bisect each other but do not bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has diagonals that are equal in length and bisect each other but do not bisect the angles unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "61_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 62,
+        "question": "What is the measure of angle AG in this hexagon if angles A, B, C, D, and E are 145°, 135°, 125°, 115°, and 105° respectively?",
+        "options": {
+            "A": "75°",
+            "B": "85°",
+            "C": "95°",
+            "D": "105°"
+        },
+        "answer": "C",
+        "explanation": "The sum of interior angles in a hexagon is 720°. The sum of the given angles is 145° + 135° + 125° + 115° + 105° = 625°. Angle AG should be 720° - 625° = 95°.",
+        "difficulty": "medium",
+        "imgFileName": "62_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 63,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "63_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 64,
+        "question": "What is the measure of angle AH in this quadrilateral if angles A, B, and C are 60°, 120°, and 80° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "100°",
+            "C": "120°",
+            "D": "140°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle AH = 360° - (60° + 120° + 80°) = 100°.",
+        "difficulty": "medium",
+        "imgFileName": "64_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 65,
+        "question": "Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "A",
+        "explanation": "A square has diagonals that are equal in length, bisect each other, and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "65_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 66,
+        "question": "What is the measure of angle AI in this pentagon if angles A, B, C, and D are 130°, 120°, 110°, and 100° respectively?",
+        "options": {
+            "A": "70°",
+            "B": "80°",
+            "C": "90°",
+            "D": "100°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle AI = 540° - (130° + 120° + 110° + 100°) = 80°.",
+        "difficulty": "medium",
+        "imgFileName": "66_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 67,
+        "question": "Which of these shapes has diagonals that bisect each other but are not equal in length and do not intersect at right angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has diagonals that bisect each other but are not equal in length and do not intersect at right angles unless it is a rhombus or rectangle.",
+        "difficulty": "medium",
+        "imgFileName": "67_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 68,
+        "question": "What is the measure of angle AJ in this hexagon if angles A, B, C, D, and E are 135°, 125°, 115°, 105°, and 95° respectively?",
+        "options": {
+            "A": "75°",
+            "B": "85°",
+            "C": "95°",
+            "D": "145°"
+        },
+        "answer": "D",
+        "explanation": "The sum of interior angles in a hexagon is 720°. The sum of the given angles is 575°. Angle AJ should be 145°.",
+        "difficulty": "medium",
+        "imgFileName": "68_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 69,
+        "question": "Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "A",
+        "explanation": "A square has diagonals that are equal in length, bisect each other, and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "69_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 70,
+        "question": "What is the measure of angle AK in this quadrilateral if angles A, B, and C are 110°, 70°, and 90° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle AK = 360° - (110° + 70° + 90°) = 90°.",
+        "difficulty": "medium",
+        "imgFileName": "70_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 71,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles but are not equal in length?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles but are not equal in length unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "71_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 72,
+        "question": "What is the measure of angle AL in this pentagon if angles A, B, C, and D are 100°, 110°, 120°, and 90° respectively?",
+        "options": {
+            "A": "100°",
+            "B": "110°",
+            "C": "120°",
+            "D": "130°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle AL = 540° - (100° + 110° + 120° + 90°) = 120°.",
+        "difficulty": "medium",
+        "imgFileName": "72_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 73,
+        "question": "Which of these shapes has diagonals that are equal in length and bisect each other but do not bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has diagonals that are equal in length and bisect each other but do not bisect the angles unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "73_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 74,
+        "question": "What is the measure of angle AM in this hexagon if angles A, B, C, D, and E are 120°, 130°, 140°, 150°, and 110° respectively?",
+        "options": {
+            "A": "70°",
+            "B": "80°",
+            "C": "90°",
+            "D": "100°"
+        },
+        "answer": "A",
+        "explanation": "The sum of angles in a hexagon is 720°. So, angle AM = 720° - (120° + 130° + 140° + 150° + 110°) = 70°.",
+        "difficulty": "medium",
+        "imgFileName": "74_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 75,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "75_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 76,
+        "question": "What is the measure of angle AN in this quadrilateral if angles A, B, and C are 75°, 105°, and 90° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle AN = 360° - (75° + 105° + 90°) = 90°.",
+        "difficulty": "medium",
+        "imgFileName": "76_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 77,
+        "question": "Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "A",
+        "explanation": "A square has diagonals that are equal in length, bisect each other, and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "77_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 78,
+        "question": "What is the measure of angle AO in this pentagon if angles A, B, C, and D are 125°, 115°, 105°, and 95° respectively?",
+        "options": {
+            "A": "90°",
+            "B": "100°",
+            "C": "110°",
+            "D": "120°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle AO = 540° - (125° + 115° + 105° + 95°) = 100°.",
+        "difficulty": "medium",
+        "imgFileName": "78_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 79,
+        "question": "Which of these shapes has diagonals that bisect each other but are not equal in length and do not intersect at right angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has diagonals that bisect each other but are not equal in length and do not intersect at right angles unless it is a rhombus or rectangle.",
+        "difficulty": "medium",
+        "imgFileName": "79_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 80,
+        "question": "What is the measure of angle AP in this hexagon if angles A, B, C, D, and E are 145°, 135°, 125°, 115°, and 105° respectively?",
+        "options": {
+            "A": "75°",
+            "B": "85°",
+            "C": "95°",
+            "D": "105°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles is 625°. 720° - 625° = 95°.",
+        "difficulty": "medium",
+        "imgFileName": "80_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 81,
+        "question": "Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "A",
+        "explanation": "A square has diagonals that are equal in length, bisect each other, and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "81_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 82,
+        "question": "What is the measure of angle AQ in this quadrilateral if angles A, B, and C are 60°, 120°, and 80° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "100°",
+            "C": "120°",
+            "D": "140°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle AQ = 360° - (60° + 120° + 80°) = 100°.",
+        "difficulty": "medium",
+        "imgFileName": "82_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 83,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles but are not equal in length?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles but are not equal in length unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "83_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 84,
+        "question": "What is the measure of angle AR in this pentagon if angles A, B, C, and D are 115°, 105°, 95°, and 85° respectively?",
+        "options": {
+            "A": "100°",
+            "B": "110°",
+            "C": "140°",
+            "D": "130°"
+        },
+        "answer": "C",
+        "explanation": "The sum of given angles is 400°. In a pentagon, the missing angle should be 540° - 400° = 140°.",
+        "difficulty": "medium",
+        "imgFileName": "84_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 85,
+        "question": "Which of these shapes has diagonals that are equal in length and bisect each other but do not bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has diagonals that are equal in length and bisect each other but do not bisect the angles unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "85_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 86,
+        "question": "What is the measure of angle AS in this hexagon if angles A, B, C, D, and E are 135°, 125°, 115°, 105°, and 95° respectively?",
+        "options": {
+            "A": "75°",
+            "B": "85°",
+            "C": "95°",
+            "D": "145°"
+        },
+        "answer": "D",
+        "explanation": "The sum of angles is 575°. 720° - 575° = 145°.",
+        "difficulty": "medium",
+        "imgFileName": "86_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 87,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "87_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 88,
+        "question": "What is the measure of angle AT in this quadrilateral if angles A, B, and C are 110°, 70°, and 90° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle AT = 360° - (110° + 70° + 90°) = 90°.",
+        "difficulty": "medium",
+        "imgFileName": "88_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 89,
+        "question": "Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "A",
+        "explanation": "A square has diagonals that are equal in length, bisect each other, and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "89_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 90,
+        "question": "What is the measure of angle AU in this pentagon if angles A, B, C, and D are 100°, 110°, 120°, and 90° respectively?",
+        "options": {
+            "A": "100°",
+            "B": "110°",
+            "C": "120°",
+            "D": "130°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle AU = 540° - (100° + 110° + 120° + 90°) = 120°.",
+        "difficulty": "medium",
+        "imgFileName": "90_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 91,
+        "question": "Which of these shapes has diagonals that bisect each other but are not equal in length and do not intersect at right angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has diagonals that bisect each other but are not equal in length and do not intersect at right angles unless it is a rhombus or rectangle.",
+        "difficulty": "medium",
+        "imgFileName": "91_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 92,
+        "question": "What is the measure of angle AV in this hexagon if angles A, B, C, D, and E are 120°, 130°, 140°, 150°, and 110° respectively?",
+        "options": {
+            "A": "70°",
+            "B": "80°",
+            "C": "90°",
+            "D": "100°"
+        },
+        "answer": "A",
+        "explanation": "The sum of angles in a hexagon is 720°. So, angle AV = 720° - (120° + 130° + 140° + 150° + 110°) = 70°.",
+        "difficulty": "medium",
+        "imgFileName": "92_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 93,
+        "question": "Which of these shapes has diagonals that are equal in length, bisect each other, and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "A",
+        "explanation": "A square has diagonals that are equal in length, bisect each other, and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "93_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 94,
+        "question": "What is the measure of angle AW in this quadrilateral if angles A, B, and C are 70°, 110°, and 90° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a quadrilateral is 360°. So, angle AW = 360° - (70° + 110° + 90°) = 90°.",
+        "difficulty": "medium",
+        "imgFileName": "94_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 95,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles but are not equal in length?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles but are not equal in length unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "95_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 96,
+        "question": "What is the measure of angle AX in this pentagon if angles A, B, C, and D are 125°, 115°, 105°, and 95° respectively?",
+        "options": {
+            "A": "90°",
+            "B": "100°",
+            "C": "110°",
+            "D": "120°"
+        },
+        "answer": "B",
+        "explanation": "The sum of angles in a pentagon is 540°. So, angle AX = 540° - (125° + 115° + 105° + 95°) = 100°.",
+        "difficulty": "medium",
+        "imgFileName": "96_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 97,
+        "question": "Which of these shapes has diagonals that are equal in length and bisect each other but do not bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has diagonals that are equal in length and bisect each other but do not bisect the angles unless it is a square.",
+        "difficulty": "medium",
+        "imgFileName": "97_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 98,
+        "question": "What is the measure of angle AY in this hexagon if angles A, B, C, D, and E are 145°, 135°, 125°, 115°, and 105° respectively?",
+        "options": {
+            "A": "75°",
+            "B": "85°",
+            "C": "95°",
+            "D": "105°"
+        },
+        "answer": "C",
+        "explanation": "The sum of angles is 625°. 720° - 625° = 95°."
+        "difficulty": "medium",
+        "imgFileName": "98_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 99,
+        "question": "Which of these shapes has diagonals that bisect each other at right angles and bisect the angles?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has diagonals that bisect each other at right angles and bisect the angles.",
+        "difficulty": "medium",
+        "imgFileName": "99_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    },
+    {
+        "qid": 100,
+        "question": "What is the measure of angle AZ in this quadrilateral if angles A, B, and C are 65°, 115°, and 100° respectively?",
+        "options": {
+            "A": "80°",
+            "B": "90°",
+            "C": "100°",
+            "D": "110°"
+        },
+        "answer": "A",
+        "explanation": "The sum of angles A, B, and C in the quadrilateral is 280°. The measure of angle AZ should be 360° - 280° = 80°.",
+        "difficulty": "medium",
+        "imgFileName": "100_Year5-Geometry-properties_of_shape_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-properties_of_shape"
+    }
+]

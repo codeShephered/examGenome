@@ -1,0 +1,1602 @@
+[
+    {
+        "qid" : 1,
+        "question" : "A triangle with vertices at (2, 3), (4, 3), and (3, 5) is translated 3 units to the right and 2 units up. What are the new coordinates of the vertex originally at (3, 5)?",
+        "options" : {
+            "A": "(6, 7)",
+            "B": "(5, 6)",
+            "C": "(6, 5)",
+            "D": "(5, 7)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 3 units to the right increases its x-coordinate by 3, and 2 units up increases its y-coordinate by 2. So, (3 + 3, 5 + 2) = (6, 7).",
+        "difficulty": "medium",
+        "imgFileName": "1_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 2,
+        "question": "A rectangle with vertices at (1, 1), (1, 4), (5, 1), and (5, 4) is reflected over the y-axis. What are the new coordinates of the vertex originally at (5, 1)?",
+        "options": {
+            "A": "(-5, 1)",
+            "B": "(5, -1)",
+            "C": "(1, -5)",
+            "D": "(1, 5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-5, 1).",
+        "difficulty": "medium",
+        "imgFileName": "2_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 3,
+        "question": "A pentagon with vertices at (0, 0), (2, 0), (2, 2), (1, 3), and (0, 2) is translated 2 units to the left and 1 unit down. What are the new coordinates of the vertex originally at (2, 2)?",
+        "options": {
+            "A": "(0, 1)",
+            "B": "(4, 3)",
+            "C": "(0, 3)",
+            "D": "(4, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the left decreases its x-coordinate by 2, and 1 unit down decreases its y-coordinate by 1. So, (2 - 2, 2 - 1) = (0, 1).",
+        "difficulty": "medium",
+        "imgFileName": "3_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 4,
+        "question": "A shape with vertices at (3, 1), (5, 1), (5, 4), and (3, 4) is reflected over the line y = 2. What are the new coordinates of the vertex originally at (5, 1)?",
+        "options": {
+            "A": "(5, 3)",
+            "B": "(5, -1)",
+            "C": "(3, 1)",
+            "D": "(1, 5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 2 means the y-coordinate changes to (2*2 - 1) = 3. So, (5, 3).",
+        "difficulty": "medium",
+        "imgFileName": "4_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 5,
+        "question": "A triangle with vertices at (1, 2), (3, 2), and (2, 4) is translated 4 units to the right and 1 unit down. What are the new coordinates of the vertex originally at (2, 4)?",
+        "options": {
+            "A": "(6, 3)",
+            "B": "(2, 5)",
+            "C": "(6, 5)",
+            "D": "(2, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 4 units to the right increases its x-coordinate by 4, and 1 unit down decreases its y-coordinate by 1. So, (2 + 4, 4 - 1) = (6, 3).",
+        "difficulty": "medium",
+        "imgFileName": "5_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 6,
+        "question": "A quadrilateral with vertices at (0, 0), (4, 0), (4, 3), and (0, 3) is reflected over the x-axis. What are the new coordinates of the vertex originally at (4, 3)?",
+        "options": {
+            "A": "(4, -3)",
+            "B": "(-4, 3)",
+            "C": "(3, -4)",
+            "D": "(4, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (4, -3).",
+        "difficulty": "medium",
+        "imgFileName": "6_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 7,
+        "question": "A shape with vertices at (2, 1), (5, 1), (5, 4), and (2, 4) is translated 1 unit to the left and 3 units up. What are the new coordinates of the vertex originally at (5, 1)?",
+        "options": {
+            "A": "(4, 4)",
+            "B": "(6, 4)",
+            "C": "(4, -2)",
+            "D": "(6, -2)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 1 unit to the left decreases its x-coordinate by 1, and 3 units up increases its y-coordinate by 3. So, (5 - 1, 1 + 3) = (4, 4).",
+        "difficulty": "medium",
+        "imgFileName": "7_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 8,
+        "question": "A triangle with vertices at (1, 1), (3, 1), and (2, 3) is reflected over the line x = 2. What are the new coordinates of the vertex originally at (1, 1)?",
+        "options": {
+            "A": "(3, 1)",
+            "B": "(1, -1)",
+            "C": "(1, 3)",
+            "D": "(-1, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 2 means the x-coordinate changes to (2*2 - 1) = 3. So, (3, 1).",
+        "difficulty": "medium",
+        "imgFileName": "8_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 9,
+        "question": "A rectangle with vertices at (0, 0), (0, 4), (3, 4), and (3, 0) is translated 2 units to the right and 1 unit down. What are the new coordinates of the vertex originally at (3, 4)?",
+        "options": {
+            "A": "(5, 3)",
+            "B": "(1, 5)",
+            "C": "(5, 5)",
+            "D": "(1, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the right increases its x-coordinate by 2, and 1 unit down decreases its y-coordinate by 1. So, (3 + 2, 4 - 1) = (5, 3).",
+        "difficulty": "medium",
+        "imgFileName": "9_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 10,
+        "question": "A shape with vertices at (1, 2), (4, 2), (4, 5), and (1, 5) is reflected over the line y = 4. What are the new coordinates of the vertex originally at (4, 2)?",
+        "options": {
+            "A": "(4, 6)",
+            "B": "(4, -2)",
+            "C": "(2, 4)",
+            "D": "(6, 4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 4 means the y-coordinate changes to (2*4 - 2) = 6. So, (4, 6).",
+        "difficulty": "medium",
+        "imgFileName": "10_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 11,
+        "question": "A pentagon with vertices at (2, 0), (4, 0), (5, 2), (3, 3), and (1, 2) is translated 3 units to the left and 2 units up. What are the new coordinates of the vertex originally at (5, 2)?",
+        "options": {
+            "A": "(2, 4)",
+            "B": "(8, 4)",
+            "C": "(2, 0)",
+            "D": "(8, 0)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 3 units to the left decreases its x-coordinate by 3, and 2 units up increases its y-coordinate by 2. So, (5 - 3, 2 + 2) = (2, 4).",
+        "difficulty": "medium",
+        "imgFileName": "11_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 12,
+        "question": "A quadrilateral with vertices at (0, 1), (3, 1), (3, 4), and (0, 4) is reflected over the x-axis. What are the new coordinates of the vertex originally at (3, 4)?",
+        "options": {
+            "A": "(3, -4)",
+            "B": "(-3, 4)",
+            "C": "(4, -3)",
+            "D": "(3, 4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (3, -4).",
+        "difficulty": "medium",
+        "imgFileName": "12_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 13,
+        "question": "A triangle with vertices at (1, 0), (3, 0), and (2, 2) is translated 1 unit to the right and 3 units up. What are the new coordinates of the vertex originally at (2, 2)?",
+        "options": {
+            "A": "(3, 5)",
+            "B": "(1, -1)",
+            "C": "(3, -1)",
+            "D": "(1, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 1 unit to the right increases its x-coordinate by 1, and 3 units up increases its y-coordinate by 3. So, (2 + 1, 2 + 3) = (3, 5).",
+        "difficulty": "medium",
+        "imgFileName": "13_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 14,
+        "question": "A rectangle with vertices at (1, 1), (1, 5), (4, 5), and (4, 1) is reflected over the line x = 3. What are the new coordinates of the vertex originally at (1, 1)?",
+        "options": {
+            "A": "(5, 1)",
+            "B": "(1, -1)",
+            "C": "(1, 5)",
+            "D": "(-1, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 3 means the x-coordinate changes to (2*3 - 1) = 5. So, (5, 1).",
+        "difficulty": "medium",
+        "imgFileName": "14_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 15,
+        "question": "A shape with vertices at (0, 2), (2, 2), (2, 5), and (0, 5) is translated 2 units to the left and 1 unit down. What are the new coordinates of the vertex originally at (2, 5)?",
+        "options": {
+            "A": "(0, 4)",
+            "B": "(4, 6)",
+            "C": "(0, 6)",
+            "D": "(4, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the left decreases its x-coordinate by 2, and 1 unit down decreases its y-coordinate by 1. So, (2 - 2, 5 - 1) = (0, 4).",
+        "difficulty": "medium",
+        "imgFileName": "15_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 16,
+        "question": "A triangle with vertices at (2, 1), (4, 1), and (3, 4) is reflected over the line y = 3. What are the new coordinates of the vertex originally at (3, 4)?",
+        "options": {
+            "A": "(3, 2)",
+            "B": "(3, 6)",
+            "C": "(1, 4)",
+            "D": "(5, 4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 3 means the y-coordinate changes to (2*3 - 4) = 2. So, (3, 2).",
+        "difficulty": "medium",
+        "imgFileName": "16_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 17,
+        "question": "A quadrilateral with vertices at (1, 0), (4, 0), (4, 3), and (1, 3) is translated 3 units to the right and 2 units up. What are the new coordinates of the vertex originally at (4, 3)?",
+        "options": {
+            "A": "(7, 5)",
+            "B": "(1, 5)",
+            "C": "(7, 1)",
+            "D": "(1, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 3 units to the right increases its x-coordinate by 3, and 2 units up increases its y-coordinate by 2. So, (4 + 3, 3 + 2) = (7, 5).",
+        "difficulty": "medium",
+        "imgFileName": "17_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 18,
+        "question": "A pentagon with vertices at (0, 1), (2, 1), (3, 3), (1, 4), and (0, 3) is reflected over the y-axis. What are the new coordinates of the vertex originally at (3, 3)?",
+        "options": {
+            "A": "(-3, 3)",
+            "B": "(3, -3)",
+            "C": "(-3, -3)",
+            "D": "(3, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-3, 3).",
+        "difficulty": "medium",
+        "imgFileName": "18_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 19,
+        "question": "A shape with vertices at (2, 0), (5, 0), (5, 2), and (2, 2) is translated 1 unit to the left and 4 units up. What are the new coordinates of the vertex originally at (5, 2)?",
+        "options": {
+            "A": "(4, 6)",
+            "B": "(6, -2)",
+            "C": "(4, -2)",
+            "D": "(6, 6)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 1 unit to the left decreases its x-coordinate by 1, and 4 units up increases its y-coordinate by 4. So, (5 - 1, 2 + 4) = (4, 6).",
+        "difficulty": "medium",
+        "imgFileName": "19_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 20,
+        "question": "A triangle with vertices at (1, 2), (3, 2), and (2, 5) is reflected over the line x = 0. What are the new coordinates of the vertex originally at (3, 2)?",
+        "options": {
+            "A": "(-3, 2)",
+            "B": "(3, -2)",
+            "C": "(2, -3)",
+            "D": "(3, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 0 (the y-axis) changes the sign of the x-coordinate. So, (-3, 2).",
+        "difficulty": "medium",
+        "imgFileName": "20_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 21,
+        "question": "A rectangle with vertices at (0, 0), (0, 3), (4, 3), and (4, 0) is translated 2 units to the right and 1 unit down. What are the new coordinates of the vertex originally at (4, 3)?",
+        "options": {
+            "A": "(6, 2)",
+            "B": "(2, 4)",
+            "C": "(6, 4)",
+            "D": "(2, 2)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the right increases its x-coordinate by 2, and 1 unit down decreases its y-coordinate by 1. So, (4 + 2, 3 - 1) = (6, 2).",
+        "difficulty": "medium",
+        "imgFileName": "21_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 22,
+        "question": "A shape with vertices at (1, 1), (4, 1), (4, 4), and (1, 4) is reflected over the line y = 2. What are the new coordinates of the vertex originally at (4, 1)?",
+        "options": {
+            "A": "(4, 3)",
+            "B": "(4, -1)",
+            "C": "(1, 4)",
+            "D": "(3, 4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 2 means the y-coordinate changes to (2*2 - 1) = 3. So, (4, 3).",
+        "difficulty": "medium",
+        "imgFileName": "22_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 23,
+        "question": "A triangle with vertices at (2, 0), (4, 0), and (3, 3) is translated 3 units to the left and 2 units up. What are the new coordinates of the vertex originally at (3, 3)?",
+        "options": {
+            "A": "(0, 5)",
+            "B": "(6, 5)",
+            "C": "(0, 1)",
+            "D": "(6, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 3 units to the left decreases its x-coordinate by 3, and 2 units up increases its y-coordinate by 2. So, (3 - 3, 3 + 2) = (0, 5).",
+        "difficulty": "medium",
+        "imgFileName": "23_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 24,
+        "question": "A quadrilateral with vertices at (0, 1), (3, 1), (3, 4), and (0, 4) is reflected over the x-axis. What are the new coordinates of the vertex originally at (3, 4)?",
+        "options": {
+            "A": "(3, -4)",
+            "B": "(-3, 4)",
+            "C": "(4, -3)",
+            "D": "(3, 4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the x-axis changes the sign of the y-coordinate. So, (3, -4).",
+        "difficulty": "medium",
+        "imgFileName": "24_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 25,
+        "question": "A shape with vertices at (1, 2), (4, 2), (4, 5), and (1, 5) is translated 1 unit to the right and 3 units down. What are the new coordinates of the vertex originally at (4, 5)?",
+        "options": {
+            "A": "(5, 2)",
+            "B": "(3, 8)",
+            "C": "(5, 8)",
+            "D": "(3, 2)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 1 unit to the right increases its x-coordinate by 1, and 3 units down decreases its y-coordinate by 3. So, (4 + 1, 5 - 3) = (5, 2).",
+        "difficulty": "medium",
+        "imgFileName": "25_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 26,
+        "question": "A pentagon with vertices at (2, 0), (4, 0), (5, 2), (3, 3), and (1, 2) is reflected over the line y = 1. What are the new coordinates of the vertex originally at (3, 3)?",
+        "options": {
+            "A": "(3, -1)",
+            "B": "(3, 5)",
+            "C": "(1, 3)",
+            "D": "(5, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 1 means the y-coordinate changes to (2*1 - 3) = -1. So, (3, -1).",
+        "difficulty": "medium",
+        "imgFileName": "26_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 27,
+        "question": "A triangle with vertices at (0, 1), (2, 1), and (1, 4) is translated 2 units to the right and 1 unit down. What are the new coordinates of the vertex originally at (1, 4)?",
+        "options": {
+            "A": "(3, 3)",
+            "B": "(-1, 5)",
+            "C": "(3, 5)",
+            "D": "(-1, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the right increases its x-coordinate by 2, and 1 unit down decreases its y-coordinate by 1. So, (1 + 2, 4 - 1) = (3, 3).",
+        "difficulty": "medium",
+        "imgFileName": "27_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 28,
+        "question": "A rectangle with vertices at (1, 0), (1, 3), (4, 3), and (4, 0) is reflected over the line x = 3. What are the new coordinates of the vertex originally at (1, 0)?",
+        "options": {
+            "A": "(5, 0)",
+            "B": "(1, -3)",
+            "C": "(1, 3)",
+            "D": "(-1, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 3 means the x-coordinate changes to (2*3 - 1) = 5. So, (5, 0).",
+        "difficulty": "medium",
+        "imgFileName": "28_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 29,
+        "question": "A shape with vertices at (0, 2), (2, 2), (2, 5), and (0, 5) is translated 3 units to the left and 2 units up. What are the new coordinates of the vertex originally at (2, 5)?",
+        "options": {
+            "A": "(-1, 7)",
+            "B": "(5, 7)",
+            "C": "(-1, 3)",
+            "D": "(5, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 3 units to the left decreases its x-coordinate by 3, and 2 units up increases its y-coordinate by 2. So, (2 - 3, 5 + 2) = (-1, 7).",
+        "difficulty": "medium",
+        "imgFileName": "29_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 30,
+        "question": "A triangle with vertices at (1, 1), (3, 1), and (2, 4) is reflected over the line y = 3. What are the new coordinates of the vertex originally at (2, 4)?",
+        "options": {
+            "A": "(2, 2)",
+            "B": "(2, 6)",
+            "C": "(4, 2)",
+            "D": "(0, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 3 means the y-coordinate changes to (2*3 - 4) = 2. So, (2, 2).",
+        "difficulty": "medium",
+        "imgFileName": "30_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 31,
+        "question": "A quadrilateral with vertices at (0, 0), (3, 0), (3, 2), and (0, 2) is translated 1 unit to the right and 2 units down. What are the new coordinates of the vertex originally at (3, 2)?",
+        "options": {
+            "A": "(4, 0)",
+            "B": "(2, 4)",
+            "C": "(4, 4)",
+            "D": "(2, 0)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 1 unit to the right increases its x-coordinate by 1, and 2 units down decreases its y-coordinate by 2. So, (3 + 1, 2 - 2) = (4, 0).",
+        "difficulty": "medium",
+        "imgFileName": "31_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 32,
+        "question": "A pentagon with vertices at (1, 0), (3, 0), (4, 2), (2, 3), and (0, 2) is reflected over the y-axis. What are the new coordinates of the vertex originally at (4, 2)?",
+        "options": {
+            "A": "(-4, 2)",
+            "B": "(4, -2)",
+            "C": "(2, -4)",
+            "D": "(4, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-4, 2).",
+        "difficulty": "medium",
+        "imgFileName": "32_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 33,
+        "question": "A shape with vertices at (2, 1), (5, 1), (5, 4), and (2, 4) is translated 2 units to the left and 1 unit up. What are the new coordinates of the vertex originally at (5, 4)?",
+        "options": {
+            "A": "(3, 5)",
+            "B": "(7, 3)",
+            "C": "(3, 3)",
+            "D": "(7, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the left decreases its x-coordinate by 2, and 1 unit up increases its y-coordinate by 1. So, (5 - 2, 4 + 1) = (3, 5).",
+        "difficulty": "medium",
+        "imgFileName": "33_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 34,
+        "question": "A triangle with vertices at (0, 2), (2, 2), and (1, 5) is reflected over the line x = 1. What are the new coordinates of the vertex originally at (2, 2)?",
+        "options": {
+            "A": "(0, 2)",
+            "B": "(2, -2)",
+            "C": "(2, 5)",
+            "D": "(0, 5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 1 means the x-coordinate changes to (2*1 - 2) = 0. So, (0, 2).",
+        "difficulty": "medium",
+        "imgFileName": "34_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 35,
+        "question": "A rectangle with vertices at (1, 1), (1, 4), (4, 4), and (4, 1) is translated 3 units to the right and 2 units down. What are the new coordinates of the vertex originally at (4, 4)?",
+        "options": {
+            "A": "(7, 2)",
+            "B": "(1, 6)",
+            "C": "(7, 6)",
+            "D": "(1, 2)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 3 units to the right increases its x-coordinate by 3, and 2 units down decreases its y-coordinate by 2. So, (4 + 3, 4 - 2) = (7, 2).",
+        "difficulty": "medium",
+        "imgFileName": "35_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 36,
+        "question": "A shape with vertices at (0, 3), (2, 3), (2, 6), and (0, 6) is reflected over the line y = 5. What are the new coordinates of the vertex originally at (2, 6)?",
+        "options": {
+            "A": "(2, 4)",
+            "B": "(2, 10)",
+            "C": "(6, 2)",
+            "D": "(4, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 5 means the y-coordinate changes to (2*5 - 6) = 4. So, (2, 4).",
+        "difficulty": "medium",
+        "imgFileName": "36_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 37,
+        "question": "A triangle with vertices at (1, 0), (3, 0), and (2, 3) is translated 2 units to the right and 1 unit up. What are the new coordinates of the vertex originally at (2, 3)?",
+        "options": {
+            "A": "(4, 4)",
+            "B": "(0, 2)",
+            "C": "(4, 2)",
+            "D": "(0, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the right increases its x-coordinate by 2, and 1 unit up increases its y-coordinate by 1. So, (2 + 2, 3 + 1) = (4, 4).",
+        "difficulty": "medium",
+        "imgFileName": "37_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 38,
+        "question": "A quadrilateral with vertices at (0, 1), (3, 1), (3, 4), and (0, 4) is reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 1)?",
+        "options": {
+            "A": "(1, 1)",
+            "B": "(3, -1)",
+            "C": "(1, 4)",
+            "D": "(3, 4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 2 means the x-coordinate changes to (2*2 - 3) = 1. So, (1, 1).",
+        "difficulty": "medium",
+        "imgFileName": "38_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 39,
+        "question": "A shape with vertices at (1, 2), (4, 2), (4, 5), and (1, 5) is translated 1 unit to the left and 2 units down. What are the new coordinates of the vertex originally at (4, 5)?",
+        "options": {
+            "A": "(3, 3)",
+            "B": "(5, 7)",
+            "C": "(3, 7)",
+            "D": "(5, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 1 unit to the left decreases its x-coordinate by 1, and 2 units down decreases its y-coordinate by 2. So, (4 - 1, 5 - 2) = (3, 3).",
+        "difficulty": "medium",
+        "imgFileName": "39_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 40,
+        "question": "A pentagon with vertices at (2, 0), (4, 0), (5, 2), (3, 3), and (1, 2) is reflected over the line y = 1. What are the new coordinates of the vertex originally at (3, 3)?",
+        "options": {
+            "A": "(3, -1)",
+            "B": "(3, 5)",
+            "C": "(1, 3)",
+            "D": "(5, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 1 means the y-coordinate changes to (2*1 - 3) = -1. So, (3, -1).",
+        "difficulty": "medium",
+        "imgFileName": "40_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 41,
+        "question": "A triangle with vertices at (0, 1), (2, 1), and (1, 4) is translated 3 units to the right and 2 units down. What are the new coordinates of the vertex originally at (1, 4)?",
+        "options": {
+            "A": "(4, 2)",
+            "B": "(-2, 6)",
+            "C": "(4, 6)",
+            "D": "(-2, 2)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 3 units to the right increases its x-coordinate by 3, and 2 units down decreases its y-coordinate by 2. So, (1 + 3, 4 - 2) = (4, 2).",
+        "difficulty": "medium",
+        "imgFileName": "41_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 42,
+        "question": "A rectangle with vertices at (1, 0), (1, 3), (4, 3), and (4, 0) is reflected over the line x = 0. What are the new coordinates of the vertex originally at (4, 0)?",
+        "options": {
+            "A": "(-4, 0)",
+            "B": "(4, -3)",
+            "C": "(0, -4)",
+            "D": "(4, 0)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 0 (the y-axis) changes the sign of the x-coordinate. So, (-4, 0).",
+        "difficulty": "medium",
+        "imgFileName": "42_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 43,
+        "question": "A shape with vertices at (0, 2), (2, 2), (2, 5), and (0, 5) is translated 2 units to the right and 1 unit up. What are the new coordinates of the vertex originally at (2, 5)?",
+        "options": {
+            "A": "(4, 6)",
+            "B": "(0, 4)",
+            "C": "(4, 4)",
+            "D": "(0, 6)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the right increases its x-coordinate by 2, and 1 unit up increases its y-coordinate by 1. So, (2 + 2, 5 + 1) = (4, 6).",
+        "difficulty": "medium",
+        "imgFileName": "43_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 44,
+        "question": "A triangle with vertices at (1, 1), (3, 1), and (2, 4) is reflected over the line y = 2. What are the new coordinates of the vertex originally at (2, 4)?",
+        "options": {
+            "A": "(2, 0)",
+            "B": "(2, 4)",
+            "C": "(0, 2)",
+            "D": "(4, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 2 means the y-coordinate changes to (2*2 - 4) = 0. So, (2, 0).",
+        "difficulty": "medium",
+        "imgFileName": "44_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 45,
+        "question": "A quadrilateral with vertices at (0, 0), (3, 0), (3, 2), and (0, 2) is translated 1 unit to the left and 2 units up. What are the new coordinates of the vertex originally at (3, 2)?",
+        "options": {
+            "A": "(2, 4)",
+            "B": "(4, 0)",
+            "C": "(2, 0)",
+            "D": "(4, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 1 unit to the left decreases its x-coordinate by 1, and 2 units up increases its y-coordinate by 2. So, (3 - 1, 2 + 2) = (2, 4).",
+        "difficulty": "medium",
+        "imgFileName": "45_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 46,
+        "question": "A pentagon with vertices at (1, 0), (3, 0), (4, 2), (2, 3), and (0, 2) is reflected over the line x = 1. What are the new coordinates of the vertex originally at (4, 2)?",
+        "options": {
+            "A": "(-2, 2)",
+            "B": "(4, -2)",
+            "C": "(2, -4)",
+            "D": "(4, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 1 means the x-coordinate changes to (2*1 - 4) = -2. So, (-2, 2).",
+        "difficulty": "medium",
+        "imgFileName": "46_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 47,
+        "question": "A shape with vertices at (2, 1), (5, 1), (5, 4), and (2, 4) is translated 3 units to the right and 1 unit down. What are the new coordinates of the vertex originally at (5, 4)?",
+        "options": {
+            "A": "(8, 3)",
+            "B": "(2, 5)",
+            "C": "(8, 5)",
+            "D": "(2, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 3 units to the right increases its x-coordinate by 3, and 1 unit down decreases its y-coordinate by 1. So, (5 + 3, 4 - 1) = (8, 3).",
+        "difficulty": "medium",
+        "imgFileName": "47_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 48,
+        "question": "A circle with center at (3, 2) is reflected over the y-axis. What are the new coordinates of the center?",
+        "options": {
+            "A": "(-3, 2)",
+            "B": "(3, -2)",
+            "C": "(2, -3)",
+            "D": "(3, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the y-axis changes the sign of the x-coordinate. So, (-3, 2).",
+        "difficulty": "medium",
+        "imgFileName": "48_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 49,
+        "question": "A rectangle with vertices at (0, 1), (0, 4), (3, 4), and (3, 1) is translated 2 units to the right and 1 unit up. What are the new coordinates of the vertex originally at (3, 1)?",
+        "options": {
+            "A": "(5, 2)",
+            "B": "(1, 0)",
+            "C": "(5, 0)",
+            "D": "(1, 2)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the right increases its x-coordinate by 2, and 1 unit up increases its y-coordinate by 1. So, (3 + 2, 1 + 1) = (5, 2).",
+        "difficulty": "medium",
+        "imgFileName": "49_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 50,
+        "question": "A triangle with vertices at (1, 2), (3, 2), and (2, 5) is reflected over the line y = 4. What are the new coordinates of the vertex originally at (2, 5)?",
+        "options": {
+            "A": "(2, 3)",
+            "B": "(2, 7)",
+            "C": "(5, 2)",
+            "D": "(0, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 4 means the y-coordinate changes to (2*4 - 5) = 3. So, (2, 3).",
+        "difficulty": "medium",
+        "imgFileName": "50_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 51,
+        "question": "A quadrilateral with vertices at (0, 0), (2, 0), (2, 3), and (0, 3) is translated 1 unit to the left and 2 units down. What are the new coordinates of the vertex originally at (2, 3)?",
+        "options": {
+            "A": "(1, 1)",
+            "B": "(3, 5)",
+            "C": "(1, 5)",
+            "D": "(3, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 1 unit to the left decreases its x-coordinate by 1, and 2 units down decreases its y-coordinate by 2. So, (2 - 1, 3 - 2) = (1, 1).",
+        "difficulty": "medium",
+        "imgFileName": "51_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 52,
+        "question": "A pentagon with vertices at (1, 1), (3, 1), (4, 3), (2, 4), and (0, 3) is reflected over the line x = 2. What are the new coordinates of the vertex originally at (4, 3)?",
+        "options": {
+            "A": "(0, 3)",
+            "B": "(4, -3)",
+            "C": "(3, -4)",
+            "D": "(4, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 2 means the x-coordinate changes to (2*2 - 4) = 0. So, (0, 3).",
+        "difficulty": "medium",
+        "imgFileName": "52_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 53,
+        "question": "A shape with vertices at (2, 0), (5, 0), (5, 3), and (2, 3) is translated 2 units to the right and 1 unit up. What are the new coordinates of the vertex originally at (5, 3)?",
+        "options": {
+            "A": "(7, 4)",
+            "B": "(3, 2)",
+            "C": "(7, 2)",
+            "D": "(3, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the right increases its x-coordinate by 2, and 1 unit up increases its y-coordinate by 1. So, (5 + 2, 3 + 1) = (7, 4).",
+        "difficulty": "medium",
+        "imgFileName": "53_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 54,
+        "question": "A triangle with vertices at (0, 1), (2, 1), and (1, 4) is reflected over the line y = 0. What are the new coordinates of the vertex originally at (1, 4)?",
+        "options": {
+            "A": "(1, -4)",
+            "B": "(-1, 4)",
+            "C": "(4, -1)",
+            "D": "(1, 4)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 0 (the x-axis) changes the sign of the y-coordinate. So, (1, -4).",
+        "difficulty": "medium",
+        "imgFileName": "54_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 55,
+        "question": "A rectangle with vertices at (1, 2), (1, 5), (4, 5), and (4, 2) is translated 3 units to the left and 1 unit down. What are the new coordinates of the vertex originally at (4, 5)?",
+        "options": {
+            "A": "(1, 4)",
+            "B": "(7, 6)",
+            "C": "(1, 6)",
+            "D": "(7, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 3 units to the left decreases its x-coordinate by 3, and 1 unit down decreases its y-coordinate by 1. So, (4 - 3, 5 - 1) = (1, 4).",
+        "difficulty": "medium",
+        "imgFileName": "55_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 56,
+        "question": "A shape with vertices at (0, 3), (2, 3), (2, 6), and (0, 6) is reflected over the line y = 4. What are the new coordinates of the vertex originally at (2, 6)?",
+        "options": {
+            "A": "(2, 2)",
+            "B": "(2, 8)",
+            "C": "(6, 2)",
+            "D": "(4, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 4 means the y-coordinate changes to (2*4 - 6) = 2. So, (2, 2).",
+        "difficulty": "medium",
+        "imgFileName": "56_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 57,
+        "question": "A triangle with vertices at (1, 0), (3, 0), and (2, 3) is translated 2 units to the right and 1 unit up. What are the new coordinates of the vertex originally at (2, 3)?",
+        "options": {
+            "A": "(4, 4)",
+            "B": "(0, 2)",
+            "C": "(4, 2)",
+            "D": "(0, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the right increases its x-coordinate by 2, and 1 unit up increases its y-coordinate by 1. So, (2 + 2, 3 + 1) = (4, 4).",
+        "difficulty": "medium",
+        "imgFileName": "57_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 58,
+        "question": "A quadrilateral with vertices at (0, 0), (3, 0), (3, 2), and (0, 2) is reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 0)?",
+        "options": {
+            "A": "(1, 0)",
+            "B": "(3, -2)",
+            "C": "(1, 2)",
+            "D": "(3, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 2 means the x-coordinate changes to (2*2 - 3) = 1. So, (1, 0).",
+        "difficulty": "medium",
+        "imgFileName": "58_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 59,
+        "question": "A shape with vertices at (1, 1), (4, 1), (4, 4), and (1, 4) is translated 1 unit to the left and 2 units down. What are the new coordinates of the vertex originally at (4, 4)?",
+        "options": {
+            "A": "(3, 2)",
+            "B": "(5, 6)",
+            "C": "(3, 6)",
+            "D": "(5, 2)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 1 unit to the left decreases its x-coordinate by 1, and 2 units down decreases its y-coordinate by 2. So, (4 - 1, 4 - 2) = (3, 2).",
+        "difficulty": "medium",
+        "imgFileName": "59_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 60,
+        "question": "A pentagon with vertices at (2, 0), (4, 0), (5, 2), (3, 3), and (1, 2) is reflected over the line y = 1. What are the new coordinates of the vertex originally at (3, 3)?",
+        "options": {
+            "A": "(3, -1)",
+            "B": "(3, 5)",
+            "C": "(1, 3)",
+            "D": "(5, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 1 means the y-coordinate changes to (2*1 - 3) = -1. So, (3, -1).",
+        "difficulty": "medium",
+        "imgFileName": "60_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 61,
+        "question": "A triangle with vertices at (0, 2), (2, 2), and (1, 5) is translated 1 unit to the right and 2 units down. What are the new coordinates of the vertex originally at (1, 5)?",
+        "options": {
+            "A": "(2, 3)",
+            "B": "(0, 7)",
+            "C": "(2, 7)",
+            "D": "(0, 3)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 1 unit to the right increases its x-coordinate by 1, and 2 units down decreases its y-coordinate by 2. So, (1 + 1, 5 - 2) = (2, 3).",
+        "difficulty": "medium",
+        "imgFileName": "61_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 62,
+        "question": "A rectangle with vertices at (1, 1), (1, 4), (4, 4), and (4, 1) is reflected over the line x = 0. What are the new coordinates of the vertex originally at (4, 1)?",
+        "options": {
+            "A": "(-4, 1)",
+            "B": "(4, -1)",
+            "C": "(1, -4)",
+            "D": "(4, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 0 (the y-axis) changes the sign of the x-coordinate. So, (-4, 1).",
+        "difficulty": "medium",
+        "imgFileName": "62_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 63,
+        "question": "A shape with vertices at (0, 3), (2, 3), (2, 6), and (0, 6) is translated 2 units to the right and 1 unit up. What are the new coordinates of the vertex originally at (2, 6)?",
+        "options": {
+            "A": "(4, 7)",
+            "B": "(0, 5)",
+            "C": "(4, 5)",
+            "D": "(0, 7)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the right increases its x-coordinate by 2, and 1 unit up increases its y-coordinate by 1. So, (2 + 2, 6 + 1) = (4, 7).",
+        "difficulty": "medium",
+        "imgFileName": "63_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 64,
+        "question": "A triangle with vertices at (1, 0), (3, 0), and (2, 3) is reflected over the line y = 2. What are the new coordinates of the vertex originally at (2, 3)?",
+        "options": {
+            "A": "(2, 1)",
+            "B": "(2, 5)",
+            "C": "(1, 2)",
+            "D": "(3, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 2 means the y-coordinate changes to (2*2 - 3) = 1. So, (2, 1).",
+        "difficulty": "medium",
+        "imgFileName": "64_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 65,
+        "question": "A quadrilateral with vertices at (0, 0), (3, 0), (3, 2), and (0, 2) is translated 3 units to the right and 1 unit down. What are the new coordinates of the vertex originally at (3, 2)?",
+        "options": {
+            "A": "(6, 1)",
+            "B": "(0, 3)",
+            "C": "(6, 3)",
+            "D": "(0, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 3 units to the right increases its x-coordinate by 3, and 1 unit down decreases its y-coordinate by 1. So, (3 + 3, 2 - 1) = (6, 1).",
+        "difficulty": "medium",
+        "imgFileName": "65_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 66,
+        "question": "A pentagon with vertices at (1, 1), (3, 1), (4, 3), (2, 4), and (0, 3) is reflected over the line x = 2. What are the new coordinates of the vertex originally at (4, 3)?",
+        "options": {
+            "A": "(0, 3)",
+            "B": "(4, -3)",
+            "C": "(3, -4)",
+            "D": "(4, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 2 means the x-coordinate changes to (2*2 - 4) = 0. So, (0, 3).",
+        "difficulty": "medium",
+        "imgFileName": "66_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 67,
+        "question": "A shape with vertices at (2, 0), (5, 0), (5, 3), and (2, 3) is translated 1 unit to the right and 2 units up. What are the new coordinates of the vertex originally at (5, 3)?",
+        "options": {
+            "A": "(6, 5)",
+            "B": "(4, 1)",
+            "C": "(6, 1)",
+            "D": "(4, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 1 unit to the right increases its x-coordinate by 1, and 2 units up increases its y-coordinate by 2. So, (5 + 1, 3 + 2) = (6, 5).",
+        "difficulty": "medium",
+        "imgFileName": "67_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 68,
+        "question": "A triangle with vertices at (0, 2), (2, 2), and (1, 5) is reflected over the line y = 0. What are the new coordinates of the vertex originally at (1, 5)?",
+        "options": {
+            "A": "(1, -5)",
+            "B": "(-1, 5)",
+            "C": "(5, -1)",
+            "D": "(1, 5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 0 (the x-axis) changes the sign of the y-coordinate. So, (1, -5).",
+        "difficulty": "medium",
+        "imgFileName": "68_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 69,
+        "question": "A rectangle with vertices at (1, 2), (1, 5), (4, 5), and (4, 2) is translated 2 units to the left and 1 unit down. What are the new coordinates of the vertex originally at (4, 5)?",
+        "options": {
+            "A": "(2, 4)",
+            "B": "(6, 6)",
+            "C": "(2, 6)",
+            "D": "(6, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the left decreases its x-coordinate by 2, and 1 unit down decreases its y-coordinate by 1. So, (4 - 2, 5 - 1) = (2, 4).",
+        "difficulty": "medium",
+        "imgFileName": "69_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 70,
+        "question": "A shape with vertices at (0, 3), (2, 3), (2, 6), and (0, 6) is reflected over the line y = 4. What are the new coordinates of the vertex originally at (2, 6)?",
+        "options": {
+            "A": "(2, 2)",
+            "B": "(2, 8)",
+            "C": "(6, 2)",
+            "D": "(4, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 4 means the y-coordinate changes to (2*4 - 6) = 2. So, (2, 2).",
+        "difficulty": "medium",
+        "imgFileName": "70_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 71,
+        "question": "A triangle with vertices at (1, 0), (3, 0), and (2, 3) is translated 3 units to the right and 2 units up. What are the new coordinates of the vertex originally at (2, 3)?",
+        "options": {
+            "A": "(5, 5)",
+            "B": "(-1, 1)",
+            "C": "(5, 1)",
+            "D": "(-1, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 3 units to the right increases its x-coordinate by 3, and 2 units up increases its y-coordinate by 2. So, (2 + 3, 3 + 2) = (5, 5).",
+        "difficulty": "medium",
+        "imgFileName": "71_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 72,
+        "question": "A quadrilateral with vertices at (0, 0), (3, 0), (3, 2), and (0, 2) is reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 0)?",
+        "options": {
+            "A": "(1, 0)",
+            "B": "(3, -2)",
+            "C": "(1, 2)",
+            "D": "(3, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 2 means the x-coordinate changes to (2*2 - 3) = 1. So, (1, 0).",
+        "difficulty": "medium",
+        "imgFileName": "72_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 73,
+        "question": "A shape with vertices at (1, 1), (4, 1), (4, 4), and (1, 4) is translated 1 unit to the left and 3 units down. What are the new coordinates of the vertex originally at (4, 4)?",
+        "options": {
+            "A": "(3, 1)",
+            "B": "(5, 7)",
+            "C": "(3, 7)",
+            "D": "(5, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 1 unit to the left decreases its x-coordinate by 1, and 3 units down decreases its y-coordinate by 3. So, (4 - 1, 4 - 3) = (3, 1).",
+        "difficulty": "medium",
+        "imgFileName": "73_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 74,
+        "question": "A pentagon with vertices at (2, 0), (4, 0), (5, 2), (3, 3), and (1, 2) is reflected over the line y = 1. What are the new coordinates of the vertex originally at (3, 3)?",
+        "options": {
+            "A": "(3, -1)",
+            "B": "(3, 5)",
+            "C": "(1, 3)",
+            "D": "(5, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 1 means the y-coordinate changes to (2*1 - 3) = -1. So, (3, -1).",
+        "difficulty": "medium",
+        "imgFileName": "74_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 75,
+        "question": "A triangle with vertices at (0, 2), (2, 2), and (1, 5) is translated 2 units to the right and 1 unit down. What are the new coordinates of the vertex originally at (1, 5)?",
+        "options": {
+            "A": "(3, 4)",
+            "B": "(-1, 6)",
+            "C": "(3, 6)",
+            "D": "(-1, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the right increases its x-coordinate by 2, and 1 unit down decreases its y-coordinate by 1. So, (1 + 2, 5 - 1) = (3, 4).",
+        "difficulty": "medium",
+        "imgFileName": "75_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 76,
+        "question": "A rectangle with vertices at (1, 1), (1, 4), (4, 4), and (4, 1) is reflected over the line x = 0. What are the new coordinates of the vertex originally at (4, 1)?",
+        "options": {
+            "A": "(-4, 1)",
+            "B": "(4, -1)",
+            "C": "(1, -4)",
+            "D": "(4, 1)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 0 (the y-axis) changes the sign of the x-coordinate. So, (-4, 1).",
+        "difficulty": "medium",
+        "imgFileName": "76_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 77,
+        "question": "A shape with vertices at (0, 3), (2, 3), (2, 6), and (0, 6) is translated 3 units to the right and 2 units up. What are the new coordinates of the vertex originally at (2, 6)?",
+        "options": {
+            "A": "(5, 8)",
+            "B": "(-1, 4)",
+            "C": "(5, 4)",
+            "D": "(-1, 8)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 3 units to the right increases its x-coordinate by 3, and 2 units up increases its y-coordinate by 2. So, (2 + 3, 6 + 2) = (5, 8).",
+        "difficulty": "medium",
+        "imgFileName": "77_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 78,
+        "question": "A triangle with vertices at (1, 0), (3, 0), and (2, 3) is reflected over the line y = 2. What are the new coordinates of the vertex originally at (2, 3)?",
+        "options": {
+            "A": "(2, 1)",
+            "B": "(2, 5)",
+            "C": "(1, 2)",
+            "D": "(3, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 2 means the y-coordinate changes to (2*2 - 3) = 1. So, (2, 1).",
+        "difficulty": "medium",
+        "imgFileName": "78_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 79,
+        "question": "A quadrilateral with vertices at (0, 0), (3, 0), (3, 2), and (0, 2) is translated 2 units to the left and 1 unit down. What are the new coordinates of the vertex originally at (3, 2)?",
+        "options": {
+            "A": "(1, 1)",
+            "B": "(5, 3)",
+            "C": "(1, 3)",
+            "D": "(5, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the left decreases its x-coordinate by 2, and 1 unit down decreases its y-coordinate by 1. So, (3 - 2, 2 - 1) = (1, 1).",
+        "difficulty": "medium",
+        "imgFileName": "79_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 80,
+        "question": "A pentagon with vertices at (1, 1), (3, 1), (4, 3), (2, 4), and (0, 3) is reflected over the line x = 2. What are the new coordinates of the vertex originally at (4, 3)?",
+        "options": {
+            "A": "(0, 3)",
+            "B": "(4, -3)",
+            "C": "(3, -4)",
+            "D": "(4, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 2 means the x-coordinate changes to (2*2 - 4) = 0. So, (0, 3).",
+        "difficulty": "medium",
+        "imgFileName": "80_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 81,
+        "question": "A shape with vertices at (2, 0), (5, 0), (5, 3), and (2, 3) is translated 1 unit to the right and 2 units up. What are the new coordinates of the vertex originally at (5, 3)?",
+        "options": {
+            "A": "(6, 5)",
+            "B": "(4, 1)",
+            "C": "(6, 1)",
+            "D": "(4, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 1 unit to the right increases its x-coordinate by 1, and 2 units up increases its y-coordinate by 2. So, (5 + 1, 3 + 2) = (6, 5).",
+        "difficulty": "medium",
+        "imgFileName": "81_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 82,
+        "question": "A triangle with vertices at (0, 2), (2, 2), and (1, 5) is reflected over the line y = 0. What are the new coordinates of the vertex originally at (1, 5)?",
+        "options": {
+            "A": "(1, -5)",
+            "B": "(-1, 5)",
+            "C": "(5, -1)",
+            "D": "(1, 5)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 0 (the x-axis) changes the sign of the y-coordinate. So, (1, -5).",
+        "difficulty": "medium",
+        "imgFileName": "82_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 83,
+        "question": "A rectangle with vertices at (1, 2), (1, 5), (4, 5), and (4, 2) is translated 2 units to the left and 1 unit down. What are the new coordinates of the vertex originally at (4, 5)?",
+        "options": {
+            "A": "(2, 4)",
+            "B": "(6, 6)",
+            "C": "(2, 6)",
+            "D": "(6, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the left decreases its x-coordinate by 2, and 1 unit down decreases its y-coordinate by 1. So, (4 - 2, 5 - 1) = (2, 4).",
+        "difficulty": "medium",
+        "imgFileName": "83_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 84,
+        "question": "A shape with vertices at (0, 3), (2, 3), (2, 6), and (0, 6) is reflected over the line y = 4. What are the new coordinates of the vertex originally at (2, 6)?",
+        "options": {
+            "A": "(2, 2)",
+            "B": "(2, 8)",
+            "C": "(6, 2)",
+            "D": "(4, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 4 means the y-coordinate changes to (2*4 - 6) = 2. So, (2, 2).",
+        "difficulty": "medium",
+        "imgFileName": "84_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 85,
+        "question": "A triangle with vertices at (1, 0), (3, 0), and (2, 3) is translated 3 units to the right and 2 units up. What are the new coordinates of the vertex originally at (2, 3)?",
+        "options": {
+            "A": "(5, 5)",
+            "B": "(-1, 1)",
+            "C": "(5, 1)",
+            "D": "(-1, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 3 units to the right increases its x-coordinate by 3, and 2 units up increases its y-coordinate by 2. So, (2 + 3, 3 + 2) = (5, 5).",
+        "difficulty": "medium",
+        "imgFileName": "85_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 86,
+        "question": "A quadrilateral with vertices at (0, 0), (3, 0), (3, 2), and (0, 2) is reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 0)?",
+        "options": {
+            "A": "(1, 0)",
+            "B": "(3, -2)",
+            "C": "(1, 2)",
+            "D": "(3, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 2 means the x-coordinate changes to (2*2 - 3) = 1. So, (1, 0).",
+        "difficulty": "medium",
+        "imgFileName": "86_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 87,
+        "question": "A shape with vertices at (1, 1), (4, 1), (4, 4), and (1, 4) is translated 1 unit to the left and 3 units down. What are the new coordinates of the vertex originally at (4, 4)?",
+        "options": {
+            "A": "(3, 1)",
+            "B": "(5, 7)",
+            "C": "(3, 7)",
+            "D": "(5, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 1 unit to the left decreases its x-coordinate by 1, and 3 units down decreases its y-coordinate by 3. So, (4 - 1, 4 - 3) = (3, 1).",
+        "difficulty": "medium",
+        "imgFileName": "87_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 88,
+        "question": "A pentagon with vertices at (2, 0), (4, 0), (5, 2), (3, 3), and (1, 2) is reflected over the line y = 1. What are the new coordinates of the vertex originally at (3, 3)?",
+        "options": {
+            "A": "(3, -1)",
+            "B": "(3, 5)",
+            "C": "(1, 3)",
+            "D": "(5, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 1 means the y-coordinate changes to (2*1 - 3) = -1. So, (3, -1).",
+        "difficulty": "medium",
+        "imgFileName": "88_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 89,
+        "question": "A triangle with vertices at (0, 2), (2, 2), and (1, 5) is translated 2 units to the right and 1 unit down. What are the new coordinates of the vertex originally at (1, 5)?",
+        "options": {
+            "A": "(3, 4)",
+            "B": "(-1, 6)",
+            "C": "(3, 6)",
+            "D": "(-1, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the right increases its x-coordinate by 2, and 1 unit down decreases its y-coordinate by 1. So, (1 + 2, 5 - 1) = (3, 4).",
+        "difficulty": "medium",
+        "imgFileName": "89_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 90,
+        "question": "A rectangle with vertices at (1, 2), (1, 5), (4, 5), and (4, 2) is translated 2 units to the left and 1 unit down. What are the new coordinates of the vertex originally at (4, 5)?",
+        "options": {
+            "A": "(2, 4)",
+            "B": "(6, 6)",
+            "C": "(2, 6)",
+            "D": "(6, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the left decreases its x-coordinate by 2, and 1 unit down decreases its y-coordinate by 1. So, (4 - 2, 5 - 1) = (2, 4).",
+        "difficulty": "medium",
+        "imgFileName": "90_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 91,
+        "question": "A shape with vertices at (0, 3), (2, 3), (2, 6), and (0, 6) is reflected over the line y = 4. What are the new coordinates of the vertex originally at (2, 6)?",
+        "options": {
+            "A": "(2, 2)",
+            "B": "(2, 8)",
+            "C": "(6, 2)",
+            "D": "(4, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 4 means the y-coordinate changes to (2*4 - 6) = 2. So, (2, 2).",
+        "difficulty": "medium",
+        "imgFileName": "91_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 92,
+        "question": "A triangle with vertices at (1, 0), (3, 0), and (2, 3) is translated 3 units to the right and 2 units up. What are the new coordinates of the vertex originally at (2, 3)?",
+        "options": {
+            "A": "(5, 5)",
+            "B": "(-1, 1)",
+            "C": "(5, 1)",
+            "D": "(-1, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 3 units to the right increases its x-coordinate by 3, and 2 units up increases its y-coordinate by 2. So, (2 + 3, 3 + 2) = (5, 5).",
+        "difficulty": "medium",
+        "imgFileName": "92_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 93,
+        "question": "A quadrilateral with vertices at (0, 0), (3, 0), (3, 2), and (0, 2) is reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 0)?",
+        "options": {
+            "A": "(1, 0)",
+            "B": "(3, -2)",
+            "C": "(1, 2)",
+            "D": "(3, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 2 means the x-coordinate changes to (2*2 - 3) = 1. So, (1, 0).",
+        "difficulty": "medium",
+        "imgFileName": "93_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 94,
+        "question": "A shape with vertices at (1, 1), (4, 1), (4, 4), and (1, 4) is translated 1 unit to the left and 3 units down. What are the new coordinates of the vertex originally at (4, 4)?",
+        "options": {
+            "A": "(3, 1)",
+            "B": "(5, 7)",
+            "C": "(3, 7)",
+            "D": "(5, 1)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 1 unit to the left decreases its x-coordinate by 1, and 3 units down decreases its y-coordinate by 3. So, (4 - 1, 4 - 3) = (3, 1).",
+        "difficulty": "medium",
+        "imgFileName": "94_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 95,
+        "question": "A pentagon with vertices at (2, 0), (4, 0), (5, 2), (3, 3), and (1, 2) is reflected over the line y = 1. What are the new coordinates of the vertex originally at (3, 3)?",
+        "options": {
+            "A": "(3, -1)",
+            "B": "(3, 5)",
+            "C": "(1, 3)",
+            "D": "(5, 3)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 1 means the y-coordinate changes to (2*1 - 3) = -1. So, (3, -1).",
+        "difficulty": "medium",
+        "imgFileName": "95_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 96,
+        "question": "A triangle with vertices at (0, 2), (2, 2), and (1, 5) is translated 2 units to the right and 1 unit down. What are the new coordinates of the vertex originally at (1, 5)?",
+        "options": {
+            "A": "(3, 4)",
+            "B": "(-1, 6)",
+            "C": "(3, 6)",
+            "D": "(-1, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the right increases its x-coordinate by 2, and 1 unit down decreases its y-coordinate by 1. So, (1 + 2, 5 - 1) = (3, 4).",
+        "difficulty": "medium",
+        "imgFileName": "96_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 97,
+        "question": "A rectangle with vertices at (1, 2), (1, 5), (4, 5), and (4, 2) is translated 2 units to the left and 1 unit down. What are the new coordinates of the vertex originally at (4, 5)?",
+        "options": {
+            "A": "(2, 4)",
+            "B": "(6, 6)",
+            "C": "(2, 6)",
+            "D": "(6, 4)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 2 units to the left decreases its x-coordinate by 2, and 1 unit down decreases its y-coordinate by 1. So, (4 - 2, 5 - 1) = (2, 4).",
+        "difficulty": "medium",
+        "imgFileName": "97_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 98,
+        "question": "A shape with vertices at (0, 3), (2, 3), (2, 6), and (0, 6) is reflected over the line y = 4. What are the new coordinates of the vertex originally at (2, 6)?",
+        "options": {
+            "A": "(2, 2)",
+            "B": "(2, 8)",
+            "C": "(6, 2)",
+            "D": "(4, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line y = 4 means the y-coordinate changes to (2*4 - 6) = 2. So, (2, 2).",
+        "difficulty": "medium",
+        "imgFileName": "98_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 99,
+        "question": "A triangle with vertices at (1, 0), (3, 0), and (2, 3) is translated 3 units to the right and 2 units up. What are the new coordinates of the vertex originally at (2, 3)?",
+        "options": {
+            "A": "(5, 5)",
+            "B": "(-1, 1)",
+            "C": "(5, 1)",
+            "D": "(-1, 5)"
+        },
+        "answer": "A",
+        "explanation": "Translating a point 3 units to the right increases its x-coordinate by 3, and 2 units up increases its y-coordinate by 2. So, (2 + 3, 3 + 2) = (5, 5).",
+        "difficulty": "medium",
+        "imgFileName": "99_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    },
+    {
+        "qid": 100,
+        "question": "A quadrilateral with vertices at (0, 0), (3, 0), (3, 2), and (0, 2) is reflected over the line x = 2. What are the new coordinates of the vertex originally at (3, 0)?",
+        "options": {
+            "A": "(1, 0)",
+            "B": "(3, -2)",
+            "C": "(1, 2)",
+            "D": "(3, 2)"
+        },
+        "answer": "A",
+        "explanation": "Reflecting a point over the line x = 2 means the x-coordinate changes to (2*2 - 3) = 1. So, (1, 0).",
+        "difficulty": "medium",
+        "imgFileName": "100_Year5-Geometry-position_and_direction_medium.png",
+        "used": 0,
+        "type": "Year5-Geometry-position_and_direction"
+    }
+]

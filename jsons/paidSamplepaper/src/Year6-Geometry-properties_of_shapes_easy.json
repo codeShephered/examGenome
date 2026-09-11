@@ -1,0 +1,1522 @@
+[
+    {
+        "qid": 1,
+        "question": "Which tool should you use to draw a square with each side exactly 5 cm?",
+        "options": {
+            "A": "Protractor",
+            "B": "Ruler",
+            "C": "Compass",
+            "D": "Set square"
+        },
+        "answer": "B",
+        "explanation": "A ruler is used to draw straight lines of exact lengths, such as the sides of a square.",
+        "difficulty": "easy",
+        "imgFileName": "1_Year6-Geometry-properties_of_shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties_of_shapes"
+    },
+    {
+        "qid": 2,
+        "question": "What is the name of the 3-D shape that can be made from this net?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Pyramid",
+            "D": "Cone"
+        },
+        "answer": "A",
+        "explanation": "The net shows six equal squares, which fold to make a cube.",
+        "difficulty": "easy",
+        "imgFileName": "2_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 3,
+        "question": "Which of these shapes is a quadrilateral?",
+        "options": {
+            "A": "Triangle",
+            "B": "Pentagon",
+            "C": "Rectangle",
+            "D": "Hexagon"
+        },
+        "answer": "C",
+        "explanation": "A quadrilateral is a shape with four sides. A rectangle is a quadrilateral.",
+        "difficulty": "easy",
+        "imgFileName": "3_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 4,
+        "question": "What is the name of the line segment that joins the centre of a circle to any point on its edge?",
+        "options": {
+            "A": "Diameter",
+            "B": "Radius",
+            "C": "Circumference",
+            "D": "Chord"
+        },
+        "answer": "B",
+        "explanation": "The radius is the line segment from the centre of a circle to any point on its edge.",
+        "difficulty": "easy",
+        "imgFileName": "4_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 5,
+        "question": "If the radius of a circle is 4 cm, what is the diameter?",
+        "options": {
+            "A": "2 cm",
+            "B": "4 cm",
+            "C": "8 cm",
+            "D": "16 cm"
+        },
+        "answer": "C",
+        "explanation": "The diameter is twice the radius. So, diameter = 2 × 4 cm = 8 cm.",
+        "difficulty": "easy",
+        "imgFileName": "5_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 6,
+        "question": "Which of these shapes has exactly five sides?",
+        "options": {
+            "A": "Hexagon",
+            "B": "Pentagon",
+            "C": "Octagon",
+            "D": "Heptagon"
+        },
+        "answer": "B",
+        "explanation": "A pentagon is a shape with exactly five sides.",
+        "difficulty": "easy",
+        "imgFileName": "6_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 7,
+        "question": "What is the name of the longest side of a right-angled triangle?",
+        "options": {
+            "A": "Base",
+            "B": "Leg",
+            "C": "Hypotenuse",
+            "D": "Height"
+        },
+        "answer": "C",
+        "explanation": "The longest side of a right-angled triangle is called the hypotenuse.",
+        "difficulty": "easy",
+        "imgFileName": "7_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 8,
+        "question": "Which of these shapes has six sides?",
+        "options": {
+            "A": "Pentagon",
+            "B": "Hexagon",
+            "C": "Heptagon",
+            "D": "Octagon"
+        },
+        "answer": "B",
+        "explanation": "A hexagon is a shape with six sides.",
+        "difficulty": "easy",
+        "imgFileName": "8_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 9,
+        "question": "What is the name of the line segment that passes through the centre of a circle and touches both edges?",
+        "options": {
+            "A": "Radius",
+            "B": "Diameter",
+            "C": "Circumference",
+            "D": "Arc"
+        },
+        "answer": "B",
+        "explanation": "The diameter is the line segment that passes through the centre of a circle and touches both edges.",
+        "difficulty": "easy",
+        "imgFileName": "9_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 10,
+        "question": "Which of these shapes has all sides equal and all angles equal?",
+        "options": {
+            "A": "Rectangle",
+            "B": "Rhombus",
+            "C": "Square",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A square has all sides equal and all angles equal (each 90°).",
+        "difficulty": "easy",
+        "imgFileName": "10_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 11,
+        "question": "What is the name of the shape that has four sides, with only one pair of parallel sides?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Trapezoid",
+            "D": "Rhombus"
+        },
+        "answer": "C",
+        "explanation": "A trapezoid is a quadrilateral with only one pair of parallel sides.",
+        "difficulty": "easy",
+        "imgFileName": "11_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 12,
+        "question": "Which of these is the correct formula for the relationship between the radius (r) and diameter (d) of a circle?",
+        "options": {
+            "A": "d = r",
+            "B": "d = 2r",
+            "C": "d = r/2",
+            "D": "d = 3r"
+        },
+        "answer": "B",
+        "explanation": "The diameter is always twice the radius, so d = 2r.",
+        "difficulty": "easy",
+        "imgFileName": "12_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 13,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal in length, and all angles equal to 90°?",
+        "options": {
+            "A": "Rhombus",
+            "B": "Square",
+            "C": "Rectangle",
+            "D": "Parallelogram"
+        },
+        "answer": "C",
+        "explanation": "A rectangle has opposite sides parallel and equal in length, and all angles equal to 90°.",
+        "difficulty": "easy",
+        "imgFileName": "13_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 14,
+        "question": "Which of these shapes has five sides and five angles?",
+        "options": {
+            "A": "Hexagon",
+            "B": "Pentagon",
+            "C": "Heptagon",
+            "D": "Octagon"
+        },
+        "answer": "B",
+        "explanation": "A pentagon is a shape with five sides and five angles.",
+        "difficulty": "easy",
+        "imgFileName": "14_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 15,
+        "question": "What is the name of the shape that has four sides, with all sides equal and opposite angles equal?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has all sides equal and opposite angles equal.",
+        "difficulty": "easy",
+        "imgFileName": "15_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 16,
+        "question": "Which of these shapes has eight sides?",
+        "options": {
+            "A": "Hexagon",
+            "B": "Heptagon",
+            "C": "Octagon",
+            "D": "Nonagon"
+        },
+        "answer": "C",
+        "explanation": "An octagon is a shape with eight sides.",
+        "difficulty": "easy",
+        "imgFileName": "16_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 17,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal in length, and opposite angles equal?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has opposite sides parallel and equal in length, and opposite angles equal.",
+        "difficulty": "easy",
+        "imgFileName": "17_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 18,
+        "question": "Which of these shapes has seven sides?",
+        "options": {
+            "A": "Hexagon",
+            "B": "Heptagon",
+            "C": "Octagon",
+            "D": "Nonagon"
+        },
+        "answer": "B",
+        "explanation": "A heptagon is a shape with seven sides.",
+        "difficulty": "easy",
+        "imgFileName": "18_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 19,
+        "question": "What is the name of the shape that has four sides, with all sides equal, all angles equal, and is a type of parallelogram?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "A",
+        "explanation": "A square has all sides equal, all angles equal (each 90°), and is a type of parallelogram.",
+        "difficulty": "easy",
+        "imgFileName": "19_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 20,
+        "question": "Which of these shapes has nine sides?",
+        "options": {
+            "A": "Octagon",
+            "B": "Nonagon",
+            "C": "Decagon",
+            "D": "Heptagon"
+        },
+        "answer": "B",
+        "explanation": "A nonagon is a shape with nine sides.",
+        "difficulty": "easy",
+        "imgFileName": "20_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 21,
+        "question": "What is the name of the shape that has four sides, with only one pair of parallel sides and no equal sides?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Trapezoid",
+            "D": "Rhombus"
+        },
+        "answer": "C",
+        "explanation": "A trapezoid has only one pair of parallel sides and does not necessarily have equal sides.",
+        "difficulty": "easy",
+        "imgFileName": "21_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 22,
+        "question": "Which of these shapes has ten sides?",
+        "options": {
+            "A": "Nonagon",
+            "B": "Decagon",
+            "C": "Octagon",
+            "D": "Heptagon"
+        },
+        "answer": "B",
+        "explanation": "A decagon is a shape with ten sides.",
+        "difficulty": "easy",
+        "imgFileName": "22_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 23,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and all angles equal to 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has opposite sides parallel and equal, and all angles equal to 90°.",
+        "difficulty": "easy",
+        "imgFileName": "23_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 24,
+        "question": "Which of these shapes is a 3-D shape with six rectangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Cone",
+            "D": "Pyramid"
+        },
+        "answer": "A",
+        "explanation": "A cube is a 3-D shape with six square faces (which are a type of rectangle).",
+        "difficulty": "easy",
+        "imgFileName": "24_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 25,
+        "question": "What is the name of the shape that has four sides, with all sides equal and opposite angles equal, but not all angles are 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has all sides equal and opposite angles equal, but not all angles are 90° unless it is a square.",
+        "difficulty": "easy",
+        "imgFileName": "25_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 26,
+        "question": "Which of these shapes is a 3-D shape with a circular base and a single vertex?",
+        "options": {
+            "A": "Cylinder",
+            "B": "Cone",
+            "C": "Sphere",
+            "D": "Cube"
+        },
+        "answer": "B",
+        "explanation": "A cone is a 3-D shape with a circular base and a single vertex.",
+        "difficulty": "easy",
+        "imgFileName": "26_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 27,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, but not all angles are 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has opposite sides parallel and equal, but not all angles are 90° unless it is a rectangle or square.",
+        "difficulty": "easy",
+        "imgFileName": "27_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 28,
+        "question": "Which of these shapes is a 3-D shape with two circular bases?",
+        "options": {
+            "A": "Cone",
+            "B": "Cylinder",
+            "C": "Sphere",
+            "D": "Cube"
+        },
+        "answer": "B",
+        "explanation": "A cylinder is a 3-D shape with two circular bases.",
+        "difficulty": "easy",
+        "imgFileName": "28_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 29,
+        "question": "What is the name of the shape that has four sides, with all sides equal, all angles equal, and is a regular quadrilateral?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "A",
+        "explanation": "A square is a regular quadrilateral with all sides equal and all angles equal (each 90°).",
+        "difficulty": "easy",
+        "imgFileName": "29_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 30,
+        "question": "Which of these shapes is a 3-D shape with a square base and triangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Square pyramid",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A square pyramid is a 3-D shape with a square base and triangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "30_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 31,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and all angles equal to 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has opposite sides parallel and equal, and all angles equal to 90°.",
+        "difficulty": "easy",
+        "imgFileName": "31_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 32,
+        "question": "Which of these shapes is a 3-D shape with all faces as triangles?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Tetrahedron",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A tetrahedron is a 3-D shape with all faces as triangles.",
+        "difficulty": "easy",
+        "imgFileName": "32_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 33,
+        "question": "What is the name of the shape that has four sides, with all sides equal, and opposite angles equal, but not all angles are 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has all sides equal and opposite angles equal, but not all angles are 90° unless it is a square.",
+        "difficulty": "easy",
+        "imgFileName": "33_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 35,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and opposite angles equal?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has opposite sides parallel and equal, and opposite angles equal.",
+        "difficulty": "easy",
+        "imgFileName": "35_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 37,
+        "question": "What is the name of the shape that has four sides, with all sides equal, all angles equal, and is a type of rhombus?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "A",
+        "explanation": "A square is a type of rhombus with all sides equal, all angles equal (each 90°).",
+        "difficulty": "easy",
+        "imgFileName": "37_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 38,
+        "question": "Which of these shapes is a 3-D shape with a rectangular base and triangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Rectangular pyramid",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A rectangular pyramid is a 3-D shape with a rectangular base and triangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "38_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 39,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and all angles equal to 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has opposite sides parallel and equal, and all angles equal to 90°.",
+        "difficulty": "easy",
+        "imgFileName": "39_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 40,
+        "question": "Which of these shapes is a 3-D shape with six square faces?",
+        "options": {
+            "A": "Cuboid",
+            "B": "Cube",
+            "C": "Cylinder",
+            "D": "Cone"
+        },
+        "answer": "B",
+        "explanation": "A cube is a 3-D shape with six square faces.",
+        "difficulty": "easy",
+        "imgFileName": "40_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 41,
+        "question": "What is the name of the shape that has four sides, with all sides equal, and opposite angles equal, but not all angles are 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has all sides equal and opposite angles equal, but not all angles are 90° unless it is a square.",
+        "difficulty": "easy",
+        "imgFileName": "41_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 42,
+        "question": "Which of these shapes is a 3-D shape with a hexagonal base and triangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Hexagonal pyramid",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A hexagonal pyramid is a 3-D shape with a hexagonal base and triangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "42_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 43,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and opposite angles equal?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has opposite sides parallel and equal, and opposite angles equal.",
+        "difficulty": "easy",
+        "imgFileName": "43_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 44,
+        "question": "Which of these shapes is a 3-D shape with a pentagonal base and triangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Pentagonal pyramid",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A pentagonal pyramid is a 3-D shape with a pentagonal base and triangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "44_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 45,
+        "question": "What is the name of the shape that has four sides, with all sides equal, all angles equal, and is a type of parallelogram?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "A",
+        "explanation": "A square is a type of parallelogram with all sides equal, all angles equal (each 90°).",
+        "difficulty": "easy",
+        "imgFileName": "45_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 46,
+        "question": "Which of these shapes is a 3-D shape with a square base and four triangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Square pyramid",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A square pyramid is a 3-D shape with a square base and four triangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "46_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 47,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and all angles equal to 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has opposite sides parallel and equal, and all angles equal to 90°.",
+        "difficulty": "easy",
+        "imgFileName": "47_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 49,
+        "question": "What is the name of the shape that has four sides, with all sides equal, and opposite angles equal, but not all angles are 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has all sides equal and opposite angles equal, but not all angles are 90° unless it is a square.",
+        "difficulty": "easy",
+        "imgFileName": "49_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 50,
+        "question": "Which of these shapes is a 3-D shape with a rectangular base and four rectangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Cylinder",
+            "D": "Cone"
+        },
+        "answer": "B",
+        "explanation": "A cuboid is a 3-D shape with a rectangular base and four rectangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "50_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 51,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and opposite angles equal?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has opposite sides parallel and equal, and opposite angles equal.",
+        "difficulty": "easy",
+        "imgFileName": "51_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 52,
+        "question": "Which of these shapes is a 3-D shape with a circular base and a curved surface?",
+        "options": {
+            "A": "Cone",
+            "B": "Cylinder",
+            "C": "Sphere",
+            "D": "Cube"
+        },
+        "answer": "B",
+        "explanation": "A cylinder is a 3-D shape with a circular base and a curved surface.",
+        "difficulty": "easy",
+        "imgFileName": "52_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 53,
+        "question": "What is the name of the shape that has four sides, with all sides equal, all angles equal, and is a regular quadrilateral?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "A",
+        "explanation": "A square is a regular quadrilateral with all sides equal and all angles equal (each 90°).",
+        "difficulty": "easy",
+        "imgFileName": "53_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 55,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and all angles equal to 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has opposite sides parallel and equal, and all angles equal to 90°.",
+        "difficulty": "easy",
+        "imgFileName": "55_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 57,
+        "question": "What is the name of the shape that has four sides, with all sides equal, and opposite angles equal, but not all angles are 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has all sides equal and opposite angles equal, but not all angles are 90° unless it is a square.",
+        "difficulty": "easy",
+        "imgFileName": "57_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 58,
+        "question": "Which of these shapes is a 3-D shape with a hexagonal base and six triangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Hexagonal pyramid",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A hexagonal pyramid is a 3-D shape with a hexagonal base and six triangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "58_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 59,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and opposite angles equal?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has opposite sides parallel and equal, and opposite angles equal.",
+        "difficulty": "easy",
+        "imgFileName": "59_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 60,
+        "question": "Which of these shapes is a 3-D shape with a pentagonal base and five triangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Pentagonal pyramid",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A pentagonal pyramid is a 3-D shape with a pentagonal base and five triangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "60_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 61,
+        "question": "What is the name of the shape that has four sides, with all sides equal, all angles equal, and is a type of parallelogram?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "A",
+        "explanation": "A square is a type of parallelogram with all sides equal, all angles equal (each 90°).",
+        "difficulty": "easy",
+        "imgFileName": "61_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 62,
+        "question": "Which of these shapes is a 3-D shape with a square base and four rectangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Cylinder",
+            "D": "Cone"
+        },
+        "answer": "B",
+        "explanation": "A cuboid is a 3-D shape with a rectangular base and four rectangular faces (a cube is a special case of a cuboid).",
+        "difficulty": "easy",
+        "imgFileName": "62_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 63,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and all angles equal to 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has opposite sides parallel and equal, and all angles equal to 90°.",
+        "difficulty": "easy",
+        "imgFileName": "63_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 64,
+        "question": "Which of these shapes is a 3-D shape with a circular base and a curved surface?",
+        "options": {
+            "A": "Cone",
+            "B": "Cylinder",
+            "C": "Sphere",
+            "D": "Cube"
+        },
+        "answer": "B",
+        "explanation": "A cylinder is a 3-D shape with a circular base and a curved surface.",
+        "difficulty": "easy",
+        "imgFileName": "64_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 65,
+        "question": "What is the name of the shape that has four sides, with all sides equal, and opposite angles equal, but not all angles are 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has all sides equal and opposite angles equal, but not all angles are 90° unless it is a square.",
+        "difficulty": "easy",
+        "imgFileName": "65_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 66,
+        "question": "Which of these shapes is a 3-D shape with a triangular base and three rectangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Triangular prism",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A triangular prism is a 3-D shape with a triangular base and three rectangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "66_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 67,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and opposite angles equal?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has opposite sides parallel and equal, and opposite angles equal.",
+        "difficulty": "easy",
+        "imgFileName": "67_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 68,
+        "question": "Which of these shapes is a 3-D shape with a square base and four triangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Square pyramid",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A square pyramid is a 3-D shape with a square base and four triangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "68_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 69,
+        "question": "What is the name of the shape that has four sides, with all sides equal, all angles equal, and is a type of rhombus?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "A",
+        "explanation": "A square is a type of rhombus with all sides equal, all angles equal (each 90°).",
+        "difficulty": "easy",
+        "imgFileName": "69_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 70,
+        "question": "Which of these shapes is a 3-D shape with a rectangular base and four rectangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Cylinder",
+            "D": "Cone"
+        },
+        "answer": "B",
+        "explanation": "A cuboid is a 3-D shape with a rectangular base and four rectangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "70_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 71,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and opposite angles equal?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has opposite sides parallel and equal, and opposite angles equal.",
+        "difficulty": "easy",
+        "imgFileName": "71_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 72,
+        "question": "Which of these shapes is a 3-D shape with a hexagonal base and six rectangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Hexagonal prism",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A hexagonal prism is a 3-D shape with a hexagonal base and six rectangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "72_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 73,
+        "question": "What is the name of the shape that has four sides, with all sides equal, all angles equal, and is a regular quadrilateral?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "A",
+        "explanation": "A square is a regular quadrilateral with all sides equal and all angles equal (each 90°).",
+        "difficulty": "easy",
+        "imgFileName": "73_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 74,
+        "question": "Which of these shapes is a 3-D shape with a pentagonal base and five rectangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Pentagonal prism",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A pentagonal prism is a 3-D shape with a pentagonal base and five rectangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "74_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 75,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and all angles equal to 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has opposite sides parallel and equal, and all angles equal to 90°.",
+        "difficulty": "easy",
+        "imgFileName": "75_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 76,
+        "question": "Which of these shapes is a 3-D shape with a circular base and a curved surface?",
+        "options": {
+            "A": "Cone",
+            "B": "Cylinder",
+            "C": "Sphere",
+            "D": "Cube"
+        },
+        "answer": "B",
+        "explanation": "A cylinder is a 3-D shape with a circular base and a curved surface.",
+        "difficulty": "easy",
+        "imgFileName": "76_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 77,
+        "question": "What is the name of the shape that has four sides, with all sides equal, and opposite angles equal, but not all angles are 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has all sides equal and opposite angles equal, but not all angles are 90° unless it is a square.",
+        "difficulty": "easy",
+        "imgFileName": "77_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 78,
+        "question": "Which of these shapes is a 3-D shape with a square base and four triangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Square pyramid",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A square pyramid is a 3-D shape with a square base and four triangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "78_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 79,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and opposite angles equal?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has opposite sides parallel and equal, and opposite angles equal.",
+        "difficulty": "easy",
+        "imgFileName": "79_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 80,
+        "question": "Which of these shapes is a 3-D shape with a triangular base and three rectangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Triangular prism",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A triangular prism is a 3-D shape with a triangular base and three rectangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "80_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 81,
+        "question": "What is the name of the shape that has four sides, with all sides equal, all angles equal, and is a type of parallelogram?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "A",
+        "explanation": "A square is a type of parallelogram with all sides equal, all angles equal (each 90°).",
+        "difficulty": "easy",
+        "imgFileName": "81_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 82,
+        "question": "Which of these shapes is a 3-D shape with a hexagonal base and six triangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Hexagonal pyramid",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A hexagonal pyramid is a 3-D shape with a hexagonal base and six triangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "82_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 83,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and all angles equal to 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has opposite sides parallel and equal, and all angles equal to 90°.",
+        "difficulty": "easy",
+        "imgFileName": "83_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 84,
+        "question": "Which of these shapes is a 3-D shape with a pentagonal base and five triangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Pentagonal pyramid",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A pentagonal pyramid is a 3-D shape with a pentagonal base and five triangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "84_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 85,
+        "question": "What is the name of the shape that has four sides, with all sides equal, and opposite angles equal, but not all angles are 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has all sides equal and opposite angles equal, but not all angles are 90° unless it is a square.",
+        "difficulty": "easy",
+        "imgFileName": "85_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 86,
+        "question": "Which of these shapes is a 3-D shape with a square base and four rectangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cuboid",
+            "C": "Cylinder",
+            "D": "Cone"
+        },
+        "answer": "B",
+        "explanation": "A cuboid is a 3-D shape with a rectangular base and four rectangular faces (a cube is a special case of a cuboid).",
+        "difficulty": "easy",
+        "imgFileName": "86_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 87,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and opposite angles equal?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has opposite sides parallel and equal, and opposite angles equal.",
+        "difficulty": "easy",
+        "imgFileName": "87_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 88,
+        "question": "Which of these shapes is a 3-D shape with a circular base and a curved surface?",
+        "options": {
+            "A": "Cone",
+            "B": "Cylinder",
+            "C": "Sphere",
+            "D": "Cube"
+        },
+        "answer": "B",
+        "explanation": "A cylinder is a 3-D shape with a circular base and a curved surface.",
+        "difficulty": "easy",
+        "imgFileName": "88_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 89,
+        "question": "What is the name of the shape that has four sides, with all sides equal, all angles equal, and is a type of rhombus?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "A",
+        "explanation": "A square is a type of rhombus with all sides equal, all angles equal (each 90°).",
+        "difficulty": "easy",
+        "imgFileName": "89_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 90,
+        "question": "Which of these shapes is a 3-D shape with a triangular base and three triangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Tetrahedron",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A tetrahedron is a 3-D shape with a triangular base and three triangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "90_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 91,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and all angles equal to 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "B",
+        "explanation": "A rectangle has opposite sides parallel and equal, and all angles equal to 90°.",
+        "difficulty": "easy",
+        "imgFileName": "91_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 92,
+        "question": "Which of these shapes is a 3-D shape with a square base and four triangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Square pyramid",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A square pyramid is a 3-D shape with a square base and four triangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "92_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 93,
+        "question": "What is the name of the shape that has four sides, with all sides equal, and opposite angles equal, but not all angles are 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has all sides equal and opposite angles equal, but not all angles are 90° unless it is a square.",
+        "difficulty": "easy",
+        "imgFileName": "93_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 94,
+        "question": "Which of these shapes is a 3-D shape with a hexagonal base and six rectangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Hexagonal prism",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A hexagonal prism is a 3-D shape with a hexagonal base and six rectangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "94_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 95,
+        "question": "What is the name of the shape that has four sides, with opposite sides parallel and equal, and opposite angles equal?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Parallelogram"
+        },
+        "answer": "D",
+        "explanation": "A parallelogram has opposite sides parallel and equal, and opposite angles equal.",
+        "difficulty": "easy",
+        "imgFileName": "95_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 96,
+        "question": "Which of these shapes is a 3-D shape with a pentagonal base and five rectangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Pentagonal prism",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A pentagonal prism is a 3-D shape with a pentagonal base and five rectangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "96_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 97,
+        "question": "What is the name of the shape that has four sides, with all sides equal, all angles equal, and is a type of parallelogram?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "A",
+        "explanation": "A square is a type of parallelogram with all sides equal, all angles equal (each 90°).",
+        "difficulty": "easy",
+        "imgFileName": "97_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 98,
+        "question": "Which of these shapes is a 3-D shape with a circular base and a curved surface?",
+        "options": {
+            "A": "Cone",
+            "B": "Cylinder",
+            "C": "Sphere",
+            "D": "Cube"
+        },
+        "answer": "B",
+        "explanation": "A cylinder is a 3-D shape with a circular base and a curved surface.",
+        "difficulty": "easy",
+        "imgFileName": "98_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 99,
+        "question": "What is the name of the shape that has four sides, with all sides equal, and opposite angles equal, but not all angles are 90°?",
+        "options": {
+            "A": "Square",
+            "B": "Rectangle",
+            "C": "Rhombus",
+            "D": "Trapezoid"
+        },
+        "answer": "C",
+        "explanation": "A rhombus has all sides equal and opposite angles equal, but not all angles are 90° unless it is a square.",
+        "difficulty": "easy",
+        "imgFileName": "99_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    },
+    {
+        "qid": 100,
+        "question": "Which of these shapes is a 3-D shape with a square base and four triangular faces?",
+        "options": {
+            "A": "Cube",
+            "B": "Cylinder",
+            "C": "Square pyramid",
+            "D": "Cone"
+        },
+        "answer": "C",
+        "explanation": "A square pyramid is a 3-D shape with a square base and four triangular faces.",
+        "difficulty": "easy",
+        "imgFileName": "100_Year6-Geometry-properties-of-shapes_easy.png",
+        "used": 0,
+        "type": "Year6-Geometry-properties-of-shapes"
+    }
+]
