@@ -1,0 +1,6302 @@
+[
+  {
+    "question": "A rectangle is 6 cm long and 15 cm wide. What is its perimeter?",
+    "options": {
+      "A": "90 cm",
+      "B": "42 cm",
+      "C": "27 cm",
+      "D": "21 cm"
+    },
+    "answer": "B",
+    "explanation": "Perimeter = 2 × (length + width) = 2 × (6 + 15) = 42 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "5 kg and 330 g is the same as how many grams?",
+    "options": {
+      "A": "4670",
+      "B": "335",
+      "C": "5330",
+      "D": "830"
+    },
+    "answer": "C",
+    "explanation": "5 kg = 5000 g. 5000 g + 330 g = 5330 g.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A ribbon is 17 cm long. Another ribbon is 40 cm long. What is their total length?",
+    "options": {
+      "A": "47 cm",
+      "B": "67 cm",
+      "C": "23 cm",
+      "D": "57 cm"
+    },
+    "answer": "D",
+    "explanation": "17 cm + 40 cm = 57 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A jug has 80 l of water. Another 11 l is poured in. How much water is there now?",
+    "options": {
+      "A": "91 l",
+      "B": "69 l",
+      "C": "81 l",
+      "D": "101 l"
+    },
+    "answer": "A",
+    "explanation": "80 l + 11 l = 91 l.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 16:00 in 12-hour time?",
+    "options": {
+      "A": "4:00am",
+      "B": "4:00pm",
+      "C": "5:00pm",
+      "D": "16:00pm"
+    },
+    "answer": "B",
+    "explanation": "For times after 12:00, subtract 12: 16 - 12 = 4, so it is 4:00pm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The minute hand points to the 3 and the hour hand is just past the 2. What time is it?",
+    "options": {
+      "A": "quarter past 2",
+      "B": "quarter past 7",
+      "C": "quarter past 8",
+      "D": "quarter to 2"
+    },
+    "answer": "A",
+    "explanation": "When the minute hand points to 3, it is 15 minutes past the hour: quarter past 2.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A ribbon is 14 cm long. Another ribbon is 44 cm long. What is their total length?",
+    "options": {
+      "A": "48 cm",
+      "B": "30 cm",
+      "C": "58 cm",
+      "D": "68 cm"
+    },
+    "answer": "C",
+    "explanation": "14 cm + 44 cm = 58 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many pence is £3?",
+    "options": {
+      "A": "300p",
+      "B": "3000p",
+      "C": "3p",
+      "D": "30p"
+    },
+    "answer": "A",
+    "explanation": "£1 = 100p, so £3 = 3 × 100 = 300p.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "On a clock face, the Roman numeral XI represents which number?",
+    "options": {
+      "A": "9",
+      "B": "4",
+      "C": "10",
+      "D": "11"
+    },
+    "answer": "D",
+    "explanation": "The Roman numeral XI represents the number 11.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in April?",
+    "options": {
+      "A": "31",
+      "B": "29",
+      "C": "28",
+      "D": "30"
+    },
+    "answer": "D",
+    "explanation": "April has 30 days.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What do we call 12 o'clock in the middle of the night?",
+    "options": {
+      "A": "Midnight",
+      "B": "Evening",
+      "C": "Noon",
+      "D": "Morning"
+    },
+    "answer": "A",
+    "explanation": "12 o'clock in the middle of the night is called midnight.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A ribbon is 88 m long. Another ribbon is 81 m long. What is their total length?",
+    "options": {
+      "A": "159 m",
+      "B": "169 m",
+      "C": "7 m",
+      "D": "179 m"
+    },
+    "answer": "B",
+    "explanation": "88 m + 81 m = 169 m.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Is 8pm in the morning or the evening?",
+    "options": {
+      "A": "Morning",
+      "B": "Noon",
+      "C": "Midnight",
+      "D": "Evening"
+    },
+    "answer": "D",
+    "explanation": "'pm' stands for times after noon, so 8pm is in the evening.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A jug has 58 l of water. Another 34 l is poured in. How much water is there now?",
+    "options": {
+      "A": "92 l",
+      "B": "82 l",
+      "C": "24 l",
+      "D": "102 l"
+    },
+    "answer": "A",
+    "explanation": "58 l + 34 l = 92 l.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many centimetres are in 3 metres?",
+    "options": {
+      "A": "300",
+      "B": "3",
+      "C": "3000",
+      "D": "30"
+    },
+    "answer": "A",
+    "explanation": "1 metre = 100 cm, so 3 metres = 3 × 100 = 300 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A shape has 5 sides measuring 3 cm, 10 cm, 3 cm, 2 cm, 9 cm. What is its perimeter?",
+    "options": {
+      "A": "27 cm",
+      "B": "32 cm",
+      "C": "50 cm",
+      "D": "24 cm"
+    },
+    "answer": "A",
+    "explanation": "Add all the sides together: 3 + 10 + 3 + 2 + 9 = 27 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A book costs £13. You pay with a £20 note. How much change do you get?",
+    "options": {
+      "A": "£33",
+      "B": "£12",
+      "C": "£7",
+      "D": "£13"
+    },
+    "answer": "C",
+    "explanation": "£20 - £13 = £7 change.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "On a clock face, which Roman numeral represents the number 8?",
+    "options": {
+      "A": "VII",
+      "B": "VIII",
+      "C": "IX",
+      "D": "III"
+    },
+    "answer": "B",
+    "explanation": "The Roman numeral for 8 is VIII.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is longer: 5 m or 470 cm?",
+    "options": {
+      "A": "5 m",
+      "B": "470 cm",
+      "C": "They are the same length",
+      "D": "475 cm"
+    },
+    "answer": "A",
+    "explanation": "5 m = 500 cm. Comparing 500 cm and 470 cm, 5 m is longer.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many grams are in 6 kilograms?",
+    "options": {
+      "A": "600",
+      "B": "60000",
+      "C": "6000",
+      "D": "6"
+    },
+    "answer": "C",
+    "explanation": "1 kg = 1000 g, so 6 kg = 6 × 1000 = 6000 g.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A square has sides of 11 cm. What is its perimeter?",
+    "options": {
+      "A": "33 cm",
+      "B": "44 cm",
+      "C": "121 cm",
+      "D": "22 cm"
+    },
+    "answer": "B",
+    "explanation": "A square has 4 equal sides. Perimeter = 4 × 11 = 44 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A square has sides of 14 cm. What is its perimeter?",
+    "options": {
+      "A": "196 cm",
+      "B": "28 cm",
+      "C": "42 cm",
+      "D": "56 cm"
+    },
+    "answer": "D",
+    "explanation": "A square has 4 equal sides. Perimeter = 4 × 14 = 56 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is longer: 4 m or 430 cm?",
+    "options": {
+      "A": "They are the same length",
+      "B": "4 m",
+      "C": "435 cm",
+      "D": "430 cm"
+    },
+    "answer": "D",
+    "explanation": "4 m = 400 cm. Comparing 400 cm and 430 cm, 430 cm is longer.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many seconds are in 4 minutes?",
+    "options": {
+      "A": "24",
+      "B": "240",
+      "C": "400",
+      "D": "4"
+    },
+    "answer": "B",
+    "explanation": "1 minute = 60 seconds, so 4 minutes = 4 × 60 = 240 seconds.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which holds more: 2 l or 1900 ml?",
+    "options": {
+      "A": "They hold the same amount",
+      "B": "1950 ml",
+      "C": "2 l",
+      "D": "1900 ml"
+    },
+    "answer": "C",
+    "explanation": "2 l = 2000 ml. Comparing 2000 ml and 1900 ml, 2 l holds more.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A plank of wood is 58 cm long. 8 cm is cut off. How long is the plank now?",
+    "options": {
+      "A": "50 cm",
+      "B": "66 cm",
+      "C": "60 cm",
+      "D": "40 cm"
+    },
+    "answer": "A",
+    "explanation": "58 cm - 8 cm = 50 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A square has sides of 13 cm. What is its perimeter?",
+    "options": {
+      "A": "169 cm",
+      "B": "26 cm",
+      "C": "39 cm",
+      "D": "52 cm"
+    },
+    "answer": "D",
+    "explanation": "A square has 4 equal sides. Perimeter = 4 × 13 = 52 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Ravi's reading lasted 47 minutes. Finn's reading lasted 86 minutes. Which statement is correct?",
+    "options": {
+      "A": "Ravi's reading lasted longer.",
+      "B": "They lasted the same amount of time.",
+      "C": "Finn's reading lasted longer.",
+      "D": "It is not possible to tell."
+    },
+    "answer": "C",
+    "explanation": "Compare 47 minutes and 86 minutes. Since 86 is greater than 47, Finn's reading lasted longer.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A shape has 5 sides measuring 2 cm, 9 cm, 4 cm, 2 cm, 4 cm. What is its perimeter?",
+    "options": {
+      "A": "26 cm",
+      "B": "45 cm",
+      "C": "21 cm",
+      "D": "19 cm"
+    },
+    "answer": "C",
+    "explanation": "Add all the sides together: 2 + 9 + 4 + 2 + 4 = 21 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many seconds are in 3 minutes?",
+    "options": {
+      "A": "180",
+      "B": "18",
+      "C": "300",
+      "D": "3"
+    },
+    "answer": "A",
+    "explanation": "1 minute = 60 seconds, so 3 minutes = 3 × 60 = 180 seconds.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Dan's reading lasted 30 minutes. Theo's reading lasted 16 minutes. Which statement is correct?",
+    "options": {
+      "A": "They lasted the same amount of time.",
+      "B": "Theo's reading lasted longer.",
+      "C": "Dan's reading lasted longer.",
+      "D": "It is not possible to tell."
+    },
+    "answer": "C",
+    "explanation": "Compare 30 minutes and 16 minutes. Since 30 is greater than 16, Dan's reading lasted longer.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Ivy's bag of rice weighs 19 g. Kira's bag of rice is 2 times as heavy. How heavy is Kira's bag of rice?",
+    "options": {
+      "A": "21 g",
+      "B": "38 g",
+      "C": "40 g",
+      "D": "36 g"
+    },
+    "answer": "B",
+    "explanation": "2 times as much as 19 is 2 × 19 = 38 g.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many centimetres are in 2 metres?",
+    "options": {
+      "A": "2",
+      "B": "200",
+      "C": "20",
+      "D": "2000"
+    },
+    "answer": "B",
+    "explanation": "1 metre = 100 cm, so 2 metres = 2 × 100 = 200 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What do we call 12 o'clock in the middle of the day?",
+    "options": {
+      "A": "Midnight",
+      "B": "Afternoon",
+      "C": "Morning",
+      "D": "Noon"
+    },
+    "answer": "D",
+    "explanation": "12 o'clock in the middle of the day is called noon.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A square has sides of 7 cm. What is its perimeter?",
+    "options": {
+      "A": "14 cm",
+      "B": "21 cm",
+      "C": "49 cm",
+      "D": "28 cm"
+    },
+    "answer": "D",
+    "explanation": "A square has 4 equal sides. Perimeter = 4 × 7 = 28 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A shape has 5 sides measuring 7 cm, 9 cm, 4 cm, 9 cm, 9 cm. What is its perimeter?",
+    "options": {
+      "A": "45 cm",
+      "B": "31 cm",
+      "C": "43 cm",
+      "D": "38 cm"
+    },
+    "answer": "D",
+    "explanation": "Add all the sides together: 7 + 9 + 4 + 9 + 9 = 38 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many pence is £6?",
+    "options": {
+      "A": "6000p",
+      "B": "60p",
+      "C": "6p",
+      "D": "600p"
+    },
+    "answer": "D",
+    "explanation": "£1 = 100p, so £6 = 6 × 100 = 600p.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "3 m and 9 cm is the same as how many centimetres?",
+    "options": {
+      "A": "309",
+      "B": "291",
+      "C": "12",
+      "D": "39"
+    },
+    "answer": "A",
+    "explanation": "3 m = 300 cm. 300 cm + 9 cm = 309 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A bag of flour weighs 53 kg. Another bag weighs 17 kg. What is their total weight?",
+    "options": {
+      "A": "60 kg",
+      "B": "70 kg",
+      "C": "80 kg",
+      "D": "36 kg"
+    },
+    "answer": "B",
+    "explanation": "53 kg + 17 kg = 70 kg.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Harry's rope is 7 m long. Grace's rope is 5 times as long. How long is Grace's rope?",
+    "options": {
+      "A": "37 m",
+      "B": "12 m",
+      "C": "35 m",
+      "D": "33 m"
+    },
+    "answer": "C",
+    "explanation": "5 times as much as 7 is 5 × 7 = 35 m.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which holds more: 1 l or 1300 ml?",
+    "options": {
+      "A": "They hold the same amount",
+      "B": "1350 ml",
+      "C": "1300 ml",
+      "D": "1 l"
+    },
+    "answer": "C",
+    "explanation": "1 l = 1000 ml. Comparing 1000 ml and 1300 ml, 1300 ml holds more.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "On a clock face, the Roman numeral IX represents which number?",
+    "options": {
+      "A": "8",
+      "B": "4",
+      "C": "9",
+      "D": "5"
+    },
+    "answer": "C",
+    "explanation": "The Roman numeral IX represents the number 9.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in May?",
+    "options": {
+      "A": "31",
+      "B": "30",
+      "C": "29",
+      "D": "28"
+    },
+    "answer": "A",
+    "explanation": "May has 31 days.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "On a clock face, which Roman numeral represents the number 5?",
+    "options": {
+      "A": "XI",
+      "B": "V",
+      "C": "VII",
+      "D": "III"
+    },
+    "answer": "B",
+    "explanation": "The Roman numeral for 5 is V.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A sack of potatoes weighs 71 kg. 55 kg is used. How much is left?",
+    "options": {
+      "A": "126 kg",
+      "B": "16 kg",
+      "C": "26 kg",
+      "D": "6 kg"
+    },
+    "answer": "B",
+    "explanation": "71 kg - 55 kg = 16 kg.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in a normal year?",
+    "options": {
+      "A": "360",
+      "B": "365",
+      "C": "12",
+      "D": "366"
+    },
+    "answer": "B",
+    "explanation": "A normal year has 365 days.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "4 l and 275 ml is the same as how many millilitres?",
+    "options": {
+      "A": "3725",
+      "B": "4275",
+      "C": "279",
+      "D": "675"
+    },
+    "answer": "B",
+    "explanation": "4 l = 4000 ml. 4000 ml + 275 ml = 4275 ml.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A ribbon is 63 cm long. Another ribbon is 65 cm long. What is their total length?",
+    "options": {
+      "A": "128 cm",
+      "B": "2 cm",
+      "C": "118 cm",
+      "D": "138 cm"
+    },
+    "answer": "A",
+    "explanation": "63 cm + 65 cm = 128 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in a leap year?",
+    "options": {
+      "A": "12",
+      "B": "365",
+      "C": "366",
+      "D": "360"
+    },
+    "answer": "C",
+    "explanation": "A leap year has one extra day: 366 days.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A ribbon is 31 cm long. Another ribbon is 34 cm long. What is their total length?",
+    "options": {
+      "A": "3 cm",
+      "B": "55 cm",
+      "C": "65 cm",
+      "D": "75 cm"
+    },
+    "answer": "C",
+    "explanation": "31 cm + 34 cm = 65 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Chloe's cycling lasted 77 minutes. Noah's cycling lasted 80 minutes. Which statement is correct?",
+    "options": {
+      "A": "Chloe's cycling lasted longer.",
+      "B": "Noah's cycling lasted longer.",
+      "C": "It is not possible to tell.",
+      "D": "They lasted the same amount of time."
+    },
+    "answer": "B",
+    "explanation": "Compare 77 minutes and 80 minutes. Since 80 is greater than 77, Noah's cycling lasted longer.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "6 kg and 114 g is the same as how many grams?",
+    "options": {
+      "A": "5886",
+      "B": "714",
+      "C": "120",
+      "D": "6114"
+    },
+    "answer": "D",
+    "explanation": "6 kg = 6000 g. 6000 g + 114 g = 6114 g.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many millilitres are in 6 litres?",
+    "options": {
+      "A": "600",
+      "B": "6",
+      "C": "60000",
+      "D": "6000"
+    },
+    "answer": "D",
+    "explanation": "1 litre = 1000 ml, so 6 litres = 6 × 1000 = 6000 ml.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "An item costs 69p. You pay with a £1 coin (100p). How much change do you get?",
+    "options": {
+      "A": "169p",
+      "B": "69p",
+      "C": "31p",
+      "D": "41p"
+    },
+    "answer": "C",
+    "explanation": "100p - 69p = 31p change.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is heavier: 5 kg or 4700 g?",
+    "options": {
+      "A": "4750 g",
+      "B": "They are the same weight",
+      "C": "5 kg",
+      "D": "4700 g"
+    },
+    "answer": "C",
+    "explanation": "5 kg = 5000 g. Comparing 5000 g and 4700 g, 5 kg is heavier.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A bottle has 89 ml of juice. 43 ml is drunk. How much juice is left?",
+    "options": {
+      "A": "46 ml",
+      "B": "132 ml",
+      "C": "36 ml",
+      "D": "56 ml"
+    },
+    "answer": "A",
+    "explanation": "89 ml - 43 ml = 46 ml.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which holds more: 4 l or 4300 ml?",
+    "options": {
+      "A": "4300 ml",
+      "B": "They hold the same amount",
+      "C": "4 l",
+      "D": "4350 ml"
+    },
+    "answer": "A",
+    "explanation": "4 l = 4000 ml. Comparing 4000 ml and 4300 ml, 4300 ml holds more.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A bottle has 68 l of juice. 26 l is drunk. How much juice is left?",
+    "options": {
+      "A": "42 l",
+      "B": "32 l",
+      "C": "94 l",
+      "D": "52 l"
+    },
+    "answer": "A",
+    "explanation": "68 l - 26 l = 42 l.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many months are in a year?",
+    "options": {
+      "A": "12",
+      "B": "24",
+      "C": "52",
+      "D": "10"
+    },
+    "answer": "A",
+    "explanation": "There are 12 months in a year.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A plank of wood is 62 cm long. 43 cm is cut off. How long is the plank now?",
+    "options": {
+      "A": "19 cm",
+      "B": "9 cm",
+      "C": "105 cm",
+      "D": "29 cm"
+    },
+    "answer": "A",
+    "explanation": "62 cm - 43 cm = 19 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A jug has 19 ml of water. Another 87 ml is poured in. How much water is there now?",
+    "options": {
+      "A": "68 ml",
+      "B": "96 ml",
+      "C": "116 ml",
+      "D": "106 ml"
+    },
+    "answer": "D",
+    "explanation": "19 ml + 87 ml = 106 ml.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Grace has 70p and finds 10p. How much money is that in total?",
+    "options": {
+      "A": "80p",
+      "B": "70p",
+      "C": "60p",
+      "D": "90p"
+    },
+    "answer": "A",
+    "explanation": "70p + 10p = 80p.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Ben has 10p and finds 40p. How much money is that in total?",
+    "options": {
+      "A": "40p",
+      "B": "60p",
+      "C": "50p",
+      "D": "30p"
+    },
+    "answer": "C",
+    "explanation": "10p + 40p = 50p.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 4:00am in 24-hour time?",
+    "options": {
+      "A": "03:00",
+      "B": "16:00",
+      "C": "05:00",
+      "D": "04:00"
+    },
+    "answer": "D",
+    "explanation": "For am times before 12, the 24-hour time is the same: 04:00.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many millilitres are in 5 litres?",
+    "options": {
+      "A": "5000",
+      "B": "5",
+      "C": "50000",
+      "D": "500"
+    },
+    "answer": "A",
+    "explanation": "1 litre = 1000 ml, so 5 litres = 5 × 1000 = 5000 ml.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many grams are in 5 kilograms?",
+    "options": {
+      "A": "5000",
+      "B": "5",
+      "C": "50000",
+      "D": "500"
+    },
+    "answer": "A",
+    "explanation": "1 kg = 1000 g, so 5 kg = 5 × 1000 = 5000 g.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A sack of potatoes weighs 98 g. 54 g is used. How much is left?",
+    "options": {
+      "A": "44 g",
+      "B": "54 g",
+      "C": "152 g",
+      "D": "34 g"
+    },
+    "answer": "A",
+    "explanation": "98 g - 54 g = 44 g.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Dan's pencil is 6 cm long. Sam's pencil is 3 times as long. How long is Sam's pencil?",
+    "options": {
+      "A": "18 cm",
+      "B": "20 cm",
+      "C": "9 cm",
+      "D": "16 cm"
+    },
+    "answer": "A",
+    "explanation": "3 times as much as 6 is 3 × 6 = 18 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many pence is £1?",
+    "options": {
+      "A": "1000p",
+      "B": "1p",
+      "C": "10p",
+      "D": "100p"
+    },
+    "answer": "D",
+    "explanation": "£1 = 100p, so £1 = 1 × 100 = 100p.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A plank of wood is 74 m long. 16 m is cut off. How long is the plank now?",
+    "options": {
+      "A": "68 m",
+      "B": "90 m",
+      "C": "58 m",
+      "D": "48 m"
+    },
+    "answer": "C",
+    "explanation": "74 m - 16 m = 58 m.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is heavier: 1 kg or 1100 g?",
+    "options": {
+      "A": "They are the same weight",
+      "B": "1150 g",
+      "C": "1 kg",
+      "D": "1100 g"
+    },
+    "answer": "D",
+    "explanation": "1 kg = 1000 g. Comparing 1000 g and 1100 g, 1100 g is heavier.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle is 8 cm long and 10 cm wide. What is its perimeter?",
+    "options": {
+      "A": "18 cm",
+      "B": "36 cm",
+      "C": "26 cm",
+      "D": "80 cm"
+    },
+    "answer": "B",
+    "explanation": "Perimeter = 2 × (length + width) = 2 × (8 + 10) = 36 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Nina has 20p and finds 80p. How much money is that in total?",
+    "options": {
+      "A": "90p",
+      "B": "60p",
+      "C": "110p",
+      "D": "100p"
+    },
+    "answer": "D",
+    "explanation": "20p + 80p = 100p.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "4 kg and 422 g is the same as how many grams?",
+    "options": {
+      "A": "822",
+      "B": "426",
+      "C": "3578",
+      "D": "4422"
+    },
+    "answer": "D",
+    "explanation": "4 kg = 4000 g. 4000 g + 422 g = 4422 g.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many millimetres are in 2 centimetres?",
+    "options": {
+      "A": "12",
+      "B": "2",
+      "C": "20",
+      "D": "200"
+    },
+    "answer": "C",
+    "explanation": "1 cm = 10 mm, so 2 cm = 2 × 10 = 20 mm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A square has sides of 9 cm. What is its perimeter?",
+    "options": {
+      "A": "27 cm",
+      "B": "18 cm",
+      "C": "36 cm",
+      "D": "81 cm"
+    },
+    "answer": "C",
+    "explanation": "A square has 4 equal sides. Perimeter = 4 × 9 = 36 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle is 6 cm long and 7 cm wide. What is its perimeter?",
+    "options": {
+      "A": "19 cm",
+      "B": "26 cm",
+      "C": "42 cm",
+      "D": "13 cm"
+    },
+    "answer": "B",
+    "explanation": "Perimeter = 2 × (length + width) = 2 × (6 + 7) = 26 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many grams are in 7 kilograms?",
+    "options": {
+      "A": "7000",
+      "B": "700",
+      "C": "70000",
+      "D": "7"
+    },
+    "answer": "A",
+    "explanation": "1 kg = 1000 g, so 7 kg = 7 × 1000 = 7000 g.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "3 l and 790 ml is the same as how many millilitres?",
+    "options": {
+      "A": "1090",
+      "B": "2210",
+      "C": "3790",
+      "D": "793"
+    },
+    "answer": "C",
+    "explanation": "3 l = 3000 ml. 3000 ml + 790 ml = 3790 ml.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 22:00 in 12-hour time?",
+    "options": {
+      "A": "10:00pm",
+      "B": "10:00am",
+      "C": "11:00pm",
+      "D": "22:00pm"
+    },
+    "answer": "A",
+    "explanation": "For times after 12:00, subtract 12: 22 - 12 = 10, so it is 10:00pm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many minutes are in 1 hour?",
+    "options": {
+      "A": "100",
+      "B": "12",
+      "C": "60",
+      "D": "24"
+    },
+    "answer": "C",
+    "explanation": "There are 60 minutes in 1 hour.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many millimetres are in 7 centimetres?",
+    "options": {
+      "A": "70",
+      "B": "17",
+      "C": "7",
+      "D": "700"
+    },
+    "answer": "A",
+    "explanation": "1 cm = 10 mm, so 7 cm = 7 × 10 = 70 mm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A sack of potatoes weighs 62 kg. 36 kg is used. How much is left?",
+    "options": {
+      "A": "36 kg",
+      "B": "98 kg",
+      "C": "16 kg",
+      "D": "26 kg"
+    },
+    "answer": "D",
+    "explanation": "62 kg - 36 kg = 26 kg.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many millilitres are in 9 litres?",
+    "options": {
+      "A": "900",
+      "B": "9000",
+      "C": "90000",
+      "D": "9"
+    },
+    "answer": "B",
+    "explanation": "1 litre = 1000 ml, so 9 litres = 9 × 1000 = 9000 ml.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many centimetres are in 4 metres?",
+    "options": {
+      "A": "40",
+      "B": "4000",
+      "C": "400",
+      "D": "4"
+    },
+    "answer": "C",
+    "explanation": "1 metre = 100 cm, so 4 metres = 4 × 100 = 400 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Zara has 10p and finds 50p. How much money is that in total?",
+    "options": {
+      "A": "50p",
+      "B": "40p",
+      "C": "70p",
+      "D": "60p"
+    },
+    "answer": "D",
+    "explanation": "10p + 50p = 60p.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 10:00pm in 24-hour time?",
+    "options": {
+      "A": "10:00",
+      "B": "21:00",
+      "C": "23:00",
+      "D": "22:00"
+    },
+    "answer": "D",
+    "explanation": "For pm, add 12 to the hour: 10 + 12 = 22, so 22:00.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is longer: 1 m or 90 cm?",
+    "options": {
+      "A": "1 m",
+      "B": "90 cm",
+      "C": "95 cm",
+      "D": "They are the same length"
+    },
+    "answer": "A",
+    "explanation": "1 m = 100 cm. Comparing 100 cm and 90 cm, 1 m is longer.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A sack of potatoes weighs 78 kg. 16 kg is used. How much is left?",
+    "options": {
+      "A": "94 kg",
+      "B": "62 kg",
+      "C": "52 kg",
+      "D": "72 kg"
+    },
+    "answer": "B",
+    "explanation": "78 kg - 16 kg = 62 kg.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many weeks are in a year?",
+    "options": {
+      "A": "365",
+      "B": "50",
+      "C": "12",
+      "D": "52"
+    },
+    "answer": "D",
+    "explanation": "There are 52 weeks in a year.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Ravi's tower is 4 cm tall. Chloe's tower is 5 times as tall. How tall is Chloe's tower?",
+    "options": {
+      "A": "18 cm",
+      "B": "20 cm",
+      "C": "22 cm",
+      "D": "9 cm"
+    },
+    "answer": "B",
+    "explanation": "5 times as much as 4 is 5 × 4 = 20 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 6:00am in 24-hour time?",
+    "options": {
+      "A": "05:00",
+      "B": "07:00",
+      "C": "06:00",
+      "D": "18:00"
+    },
+    "answer": "C",
+    "explanation": "For am times before 12, the 24-hour time is the same: 06:00.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "6 m and 52 cm is the same as how many centimetres?",
+    "options": {
+      "A": "548",
+      "B": "112",
+      "C": "58",
+      "D": "652"
+    },
+    "answer": "D",
+    "explanation": "6 m = 600 cm. 600 cm + 52 cm = 652 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Is 8am in the morning or the afternoon?",
+    "options": {
+      "A": "Afternoon",
+      "B": "Morning",
+      "C": "Evening",
+      "D": "Night"
+    },
+    "answer": "B",
+    "explanation": "'am' stands for times before noon, so 8am is in the morning.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The hour hand points exactly to the 2 and the minute hand points to the 12. What time is it?",
+    "options": {
+      "A": "5 o'clock",
+      "B": "9 o'clock",
+      "C": "12 o'clock",
+      "D": "2 o'clock"
+    },
+    "answer": "D",
+    "explanation": "When the minute hand points to 12 and the hour hand points to 2, the time is 2 o'clock.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Noah's reading lasted 24 minutes. Mia's reading lasted 51 minutes. Which statement is correct?",
+    "options": {
+      "A": "It is not possible to tell.",
+      "B": "Mia's reading lasted longer.",
+      "C": "They lasted the same amount of time.",
+      "D": "Noah's reading lasted longer."
+    },
+    "answer": "B",
+    "explanation": "Compare 24 minutes and 51 minutes. Since 51 is greater than 24, Mia's reading lasted longer.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in June?",
+    "options": {
+      "A": "30",
+      "B": "28",
+      "C": "29",
+      "D": "31"
+    },
+    "answer": "A",
+    "explanation": "June has 30 days.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 17:00 in 12-hour time?",
+    "options": {
+      "A": "5:00am",
+      "B": "17:00pm",
+      "C": "6:00pm",
+      "D": "5:00pm"
+    },
+    "answer": "D",
+    "explanation": "For times after 12:00, subtract 12: 17 - 12 = 5, so it is 5:00pm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many grams are in 2 kilograms?",
+    "options": {
+      "A": "20000",
+      "B": "200",
+      "C": "2000",
+      "D": "2"
+    },
+    "answer": "C",
+    "explanation": "1 kg = 1000 g, so 2 kg = 2 × 1000 = 2000 g.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 13:00 in 12-hour time?",
+    "options": {
+      "A": "2:00pm",
+      "B": "1:00pm",
+      "C": "13:00pm",
+      "D": "1:00am"
+    },
+    "answer": "B",
+    "explanation": "For times after 12:00, subtract 12: 13 - 12 = 1, so it is 1:00pm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A plank of wood is 95 m long. 75 m is cut off. How long is the plank now?",
+    "options": {
+      "A": "30 m",
+      "B": "10 m",
+      "C": "170 m",
+      "D": "20 m"
+    },
+    "answer": "D",
+    "explanation": "95 m - 75 m = 20 m.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Chloe's bag of rice weighs 14 g. Priya's bag of rice is 4 times as heavy. How heavy is Priya's bag of rice?",
+    "options": {
+      "A": "18 g",
+      "B": "58 g",
+      "C": "56 g",
+      "D": "54 g"
+    },
+    "answer": "C",
+    "explanation": "4 times as much as 14 is 4 × 14 = 56 g.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A plank of wood is 73 m long. 7 m is cut off. How long is the plank now?",
+    "options": {
+      "A": "80 m",
+      "B": "66 m",
+      "C": "56 m",
+      "D": "76 m"
+    },
+    "answer": "B",
+    "explanation": "73 m - 7 m = 66 m.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The minute hand points to the 6 and the hour hand is just past the 12. What time is it?",
+    "options": {
+      "A": "half past 10",
+      "B": "half past 2",
+      "C": "half past 12",
+      "D": "quarter past 12"
+    },
+    "answer": "C",
+    "explanation": "When the minute hand points to 6, it is 30 minutes past the hour: half past 12.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "3 l and 825 ml is the same as how many millilitres?",
+    "options": {
+      "A": "3825",
+      "B": "2175",
+      "C": "828",
+      "D": "1125"
+    },
+    "answer": "A",
+    "explanation": "3 l = 3000 ml. 3000 ml + 825 ml = 3825 ml.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A bag of flour weighs 86 kg. Another bag weighs 86 kg. What is their total weight?",
+    "options": {
+      "A": "172 kg",
+      "B": "182 kg",
+      "C": "0 kg",
+      "D": "162 kg"
+    },
+    "answer": "A",
+    "explanation": "86 kg + 86 kg = 172 kg.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A book costs £13. You pay with a £50 note. How much change do you get?",
+    "options": {
+      "A": "£13",
+      "B": "£37",
+      "C": "£63",
+      "D": "£42"
+    },
+    "answer": "B",
+    "explanation": "£50 - £13 = £37 change.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The hour hand points exactly to the 4 and the minute hand points to the 12. What time is it?",
+    "options": {
+      "A": "3 o'clock",
+      "B": "4 o'clock",
+      "C": "1 o'clock",
+      "D": "9 o'clock"
+    },
+    "answer": "B",
+    "explanation": "When the minute hand points to 12 and the hour hand points to 4, the time is 4 o'clock.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many millimetres are in 4 centimetres?",
+    "options": {
+      "A": "40",
+      "B": "400",
+      "C": "4",
+      "D": "14"
+    },
+    "answer": "A",
+    "explanation": "1 cm = 10 mm, so 4 cm = 4 × 10 = 40 mm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The minute hand points to the 6 and the hour hand is just past the 8. What time is it?",
+    "options": {
+      "A": "half past 10",
+      "B": "half past 7",
+      "C": "quarter past 8",
+      "D": "half past 8"
+    },
+    "answer": "D",
+    "explanation": "When the minute hand points to 6, it is 30 minutes past the hour: half past 8.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A bottle has 50 l of juice. 31 l is drunk. How much juice is left?",
+    "options": {
+      "A": "81 l",
+      "B": "19 l",
+      "C": "29 l",
+      "D": "9 l"
+    },
+    "answer": "B",
+    "explanation": "50 l - 31 l = 19 l.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many seconds are in 2 minutes?",
+    "options": {
+      "A": "12",
+      "B": "120",
+      "C": "200",
+      "D": "2"
+    },
+    "answer": "B",
+    "explanation": "1 minute = 60 seconds, so 2 minutes = 2 × 60 = 120 seconds.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The minute hand points to the 3 and the hour hand is just past the 1. What time is it?",
+    "options": {
+      "A": "quarter past 8",
+      "B": "quarter past 12",
+      "C": "quarter past 1",
+      "D": "quarter to 1"
+    },
+    "answer": "C",
+    "explanation": "When the minute hand points to 3, it is 15 minutes past the hour: quarter past 1.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is longer: 3 m or 330 cm?",
+    "options": {
+      "A": "330 cm",
+      "B": "335 cm",
+      "C": "3 m",
+      "D": "They are the same length"
+    },
+    "answer": "A",
+    "explanation": "3 m = 300 cm. Comparing 300 cm and 330 cm, 330 cm is longer.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A jug has 14 l of water. Another 46 l is poured in. How much water is there now?",
+    "options": {
+      "A": "70 l",
+      "B": "60 l",
+      "C": "50 l",
+      "D": "32 l"
+    },
+    "answer": "B",
+    "explanation": "14 l + 46 l = 60 l.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Ella's cycling lasted 19 minutes. Leo's cycling lasted 11 minutes. Which statement is correct?",
+    "options": {
+      "A": "They lasted the same amount of time.",
+      "B": "It is not possible to tell.",
+      "C": "Ella's cycling lasted longer.",
+      "D": "Leo's cycling lasted longer."
+    },
+    "answer": "C",
+    "explanation": "Compare 19 minutes and 11 minutes. Since 19 is greater than 11, Ella's cycling lasted longer.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many millilitres are in 2 litres?",
+    "options": {
+      "A": "200",
+      "B": "20000",
+      "C": "2",
+      "D": "2000"
+    },
+    "answer": "D",
+    "explanation": "1 litre = 1000 ml, so 2 litres = 2 × 1000 = 2000 ml.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Priya's reading lasted 34 minutes. Noah's reading lasted 21 minutes. Which statement is correct?",
+    "options": {
+      "A": "They lasted the same amount of time.",
+      "B": "Priya's reading lasted longer.",
+      "C": "Noah's reading lasted longer.",
+      "D": "It is not possible to tell."
+    },
+    "answer": "B",
+    "explanation": "Compare 34 minutes and 21 minutes. Since 34 is greater than 21, Priya's reading lasted longer.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Amy's tower is 15 cm tall. Ravi's tower is 4 times as tall. How tall is Ravi's tower?",
+    "options": {
+      "A": "60 cm",
+      "B": "62 cm",
+      "C": "19 cm",
+      "D": "58 cm"
+    },
+    "answer": "A",
+    "explanation": "4 times as much as 15 is 4 × 15 = 60 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The hour hand points exactly to the 11 and the minute hand points to the 12. What time is it?",
+    "options": {
+      "A": "8 o'clock",
+      "B": "6 o'clock",
+      "C": "7 o'clock",
+      "D": "11 o'clock"
+    },
+    "answer": "D",
+    "explanation": "When the minute hand points to 12 and the hour hand points to 11, the time is 11 o'clock.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "An item costs 70p. You pay with a £1 coin (100p). How much change do you get?",
+    "options": {
+      "A": "170p",
+      "B": "40p",
+      "C": "70p",
+      "D": "30p"
+    },
+    "answer": "D",
+    "explanation": "100p - 70p = 30p change.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A bottle has 74 ml of juice. 64 ml is drunk. How much juice is left?",
+    "options": {
+      "A": "138 ml",
+      "B": "0 ml",
+      "C": "10 ml",
+      "D": "20 ml"
+    },
+    "answer": "C",
+    "explanation": "74 ml - 64 ml = 10 ml.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "An item costs 83p. You pay with a £1 coin (100p). How much change do you get?",
+    "options": {
+      "A": "27p",
+      "B": "183p",
+      "C": "17p",
+      "D": "83p"
+    },
+    "answer": "C",
+    "explanation": "100p - 83p = 17p change.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A shape has 5 sides measuring 4 cm, 3 cm, 7 cm, 4 cm, 6 cm. What is its perimeter?",
+    "options": {
+      "A": "35 cm",
+      "B": "29 cm",
+      "C": "20 cm",
+      "D": "24 cm"
+    },
+    "answer": "D",
+    "explanation": "Add all the sides together: 4 + 3 + 7 + 4 + 6 = 24 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "1 kg and 219 g is the same as how many grams?",
+    "options": {
+      "A": "220",
+      "B": "319",
+      "C": "1219",
+      "D": "781"
+    },
+    "answer": "C",
+    "explanation": "1 kg = 1000 g. 1000 g + 219 g = 1219 g.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The minute hand points to the 6 and the hour hand is just past the 4. What time is it?",
+    "options": {
+      "A": "half past 2",
+      "B": "half past 4",
+      "C": "quarter past 4",
+      "D": "half past 8"
+    },
+    "answer": "B",
+    "explanation": "When the minute hand points to 6, it is 30 minutes past the hour: half past 4.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "3 l and 438 ml is the same as how many millilitres?",
+    "options": {
+      "A": "441",
+      "B": "2562",
+      "C": "738",
+      "D": "3438"
+    },
+    "answer": "D",
+    "explanation": "3 l = 3000 ml. 3000 ml + 438 ml = 3438 ml.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many pence is £4?",
+    "options": {
+      "A": "4p",
+      "B": "400p",
+      "C": "4000p",
+      "D": "40p"
+    },
+    "answer": "B",
+    "explanation": "£1 = 100p, so £4 = 4 × 100 = 400p.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "On a clock face, the Roman numeral I represents which number?",
+    "options": {
+      "A": "1",
+      "B": "10",
+      "C": "2",
+      "D": "5"
+    },
+    "answer": "A",
+    "explanation": "The Roman numeral I represents the number 1.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A book costs £9. You pay with a £20 note. How much change do you get?",
+    "options": {
+      "A": "£9",
+      "B": "£11",
+      "C": "£16",
+      "D": "£29"
+    },
+    "answer": "B",
+    "explanation": "£20 - £9 = £11 change.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Mia's a film lasted 10 minutes. Theo's a film lasted 45 minutes. Which statement is correct?",
+    "options": {
+      "A": "Mia's a film lasted longer.",
+      "B": "Theo's a film lasted longer.",
+      "C": "It is not possible to tell.",
+      "D": "They lasted the same amount of time."
+    },
+    "answer": "B",
+    "explanation": "Compare 10 minutes and 45 minutes. Since 45 is greater than 10, Theo's a film lasted longer.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Theo's tower is 5 cm tall. Ravi's tower is 2 times as tall. How tall is Ravi's tower?",
+    "options": {
+      "A": "8 cm",
+      "B": "7 cm",
+      "C": "12 cm",
+      "D": "10 cm"
+    },
+    "answer": "D",
+    "explanation": "2 times as much as 5 is 2 × 5 = 10 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "On a clock face, which Roman numeral represents the number 7?",
+    "options": {
+      "A": "V",
+      "B": "I",
+      "C": "VII",
+      "D": "IX"
+    },
+    "answer": "C",
+    "explanation": "The Roman numeral for 7 is VII.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is heavier: 5 kg or 4900 g?",
+    "options": {
+      "A": "4900 g",
+      "B": "They are the same weight",
+      "C": "5 kg",
+      "D": "4950 g"
+    },
+    "answer": "C",
+    "explanation": "5 kg = 5000 g. Comparing 5000 g and 4900 g, 5 kg is heavier.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A bag of flour weighs 21 g. Another bag weighs 12 g. What is their total weight?",
+    "options": {
+      "A": "23 g",
+      "B": "33 g",
+      "C": "43 g",
+      "D": "9 g"
+    },
+    "answer": "B",
+    "explanation": "21 g + 12 g = 33 g.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is heavier: 1 kg or 900 g?",
+    "options": {
+      "A": "950 g",
+      "B": "They are the same weight",
+      "C": "1 kg",
+      "D": "900 g"
+    },
+    "answer": "C",
+    "explanation": "1 kg = 1000 g. Comparing 1000 g and 900 g, 1 kg is heavier.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which holds more: 2 l or 1700 ml?",
+    "options": {
+      "A": "They hold the same amount",
+      "B": "2 l",
+      "C": "1700 ml",
+      "D": "1750 ml"
+    },
+    "answer": "B",
+    "explanation": "2 l = 2000 ml. Comparing 2000 ml and 1700 ml, 2 l holds more.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many seconds are in 1 minute?",
+    "options": {
+      "A": "30",
+      "B": "60",
+      "C": "100",
+      "D": "6"
+    },
+    "answer": "B",
+    "explanation": "There are 60 seconds in 1 minute.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in February?",
+    "options": {
+      "A": "28",
+      "B": "30",
+      "C": "31",
+      "D": "29"
+    },
+    "answer": "A",
+    "explanation": "February has 28 days.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "4 m and 42 cm is the same as how many centimetres?",
+    "options": {
+      "A": "82",
+      "B": "358",
+      "C": "442",
+      "D": "46"
+    },
+    "answer": "C",
+    "explanation": "4 m = 400 cm. 400 cm + 42 cm = 442 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "On a clock face, which Roman numeral represents the number 9?",
+    "options": {
+      "A": "VIII",
+      "B": "IX",
+      "C": "XI",
+      "D": "XII"
+    },
+    "answer": "B",
+    "explanation": "The Roman numeral for 9 is IX.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A book costs £16. You pay with a £20 note. How much change do you get?",
+    "options": {
+      "A": "£36",
+      "B": "£9",
+      "C": "£16",
+      "D": "£4"
+    },
+    "answer": "D",
+    "explanation": "£20 - £16 = £4 change.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle is 11 cm long and 13 cm wide. What is its perimeter?",
+    "options": {
+      "A": "48 cm",
+      "B": "143 cm",
+      "C": "24 cm",
+      "D": "35 cm"
+    },
+    "answer": "A",
+    "explanation": "Perimeter = 2 × (length + width) = 2 × (11 + 13) = 48 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A bag of flour weighs 72 kg. Another bag weighs 12 kg. What is their total weight?",
+    "options": {
+      "A": "60 kg",
+      "B": "94 kg",
+      "C": "84 kg",
+      "D": "74 kg"
+    },
+    "answer": "C",
+    "explanation": "72 kg + 12 kg = 84 kg.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "On a clock face, the Roman numeral III represents which number?",
+    "options": {
+      "A": "11",
+      "B": "2",
+      "C": "12",
+      "D": "3"
+    },
+    "answer": "D",
+    "explanation": "The Roman numeral III represents the number 3.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is longer: 4 m or 390 cm?",
+    "options": {
+      "A": "4 m",
+      "B": "395 cm",
+      "C": "390 cm",
+      "D": "They are the same length"
+    },
+    "answer": "A",
+    "explanation": "4 m = 400 cm. Comparing 400 cm and 390 cm, 4 m is longer.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "An item costs 59p. You pay with a £1 coin (100p). How much change do you get?",
+    "options": {
+      "A": "41p",
+      "B": "59p",
+      "C": "159p",
+      "D": "51p"
+    },
+    "answer": "A",
+    "explanation": "100p - 59p = 41p change.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many hours are in 1 day?",
+    "options": {
+      "A": "12",
+      "B": "7",
+      "C": "24",
+      "D": "60"
+    },
+    "answer": "C",
+    "explanation": "There are 24 hours in 1 day.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle is 14 cm long and 8 cm wide. What is its perimeter?",
+    "options": {
+      "A": "22 cm",
+      "B": "112 cm",
+      "C": "36 cm",
+      "D": "44 cm"
+    },
+    "answer": "D",
+    "explanation": "Perimeter = 2 × (length + width) = 2 × (14 + 8) = 44 cm.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 8:00pm in 24-hour time?",
+    "options": {
+      "A": "21:00",
+      "B": "19:00",
+      "C": "20:00",
+      "D": "08:00"
+    },
+    "answer": "C",
+    "explanation": "For pm, add 12 to the hour: 8 + 12 = 20, so 20:00.",
+    "difficulty": "easy",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Theo has 2 £1 coins. How much money is that in total (in pence)?",
+    "options": {
+      "A": "2p",
+      "B": "200p",
+      "C": "220p",
+      "D": "180p"
+    },
+    "answer": "B",
+    "explanation": "2 × 100p + 0 × 50p + 0 × 20p = 200p.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "An item costs 61p. You pay with a £1 coin (100p). How much change do you get?",
+    "options": {
+      "A": "61p",
+      "B": "161p",
+      "C": "39p",
+      "D": "44p"
+    },
+    "answer": "C",
+    "explanation": "100p - 61p = 39p change.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "4244 ml is the same as how many l and ml?",
+    "options": {
+      "A": "4 l and 244 ml",
+      "B": "3 l and 244 ml",
+      "C": "5 l and 244 ml",
+      "D": "4 l and 254 ml"
+    },
+    "answer": "A",
+    "explanation": "4244 ml = 4 × 1000 ml + 244 ml = 4 l and 244 ml.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The hour hand is just past the 9 and the minute hand points to the 2. What time is it?",
+    "options": {
+      "A": "ten past 9",
+      "B": "twenty to 10",
+      "C": "ten past 7",
+      "D": "ten past 6"
+    },
+    "answer": "A",
+    "explanation": "The minute hand at the 2 means 10 minutes past the hour, which is ten past 9.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 8:15am in 24-hour time?",
+    "options": {
+      "A": "08:15",
+      "B": "08:45",
+      "C": "20:15",
+      "D": "09:15"
+    },
+    "answer": "A",
+    "explanation": "For am times before 12, the 24-hour time is the same: 08:15.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The hour hand is just past the 10 and the minute hand points to the 1. What time is it?",
+    "options": {
+      "A": "five past 4",
+      "B": "twenty to 11",
+      "C": "five past 10",
+      "D": "five past 1"
+    },
+    "answer": "C",
+    "explanation": "The minute hand at the 1 means 5 minutes past the hour, which is five past 10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rope is 3 m long. A ribbon is 40 cm long. What is their total length in cm?",
+    "options": {
+      "A": "330 cm",
+      "B": "43 cm",
+      "C": "340 cm",
+      "D": "350 cm"
+    },
+    "answer": "C",
+    "explanation": "3 m = 300 cm. 300 cm + 40 cm = 340 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which holds more: 3 l or 2950 ml?",
+    "options": {
+      "A": "3 l",
+      "B": "2970 ml",
+      "C": "They hold the same amount",
+      "D": "2950 ml"
+    },
+    "answer": "A",
+    "explanation": "3 l = 3000 ml. Comparing 3000 ml and 2950 ml, 3 l holds more.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is heavier: 4 kg or 4150 g?",
+    "options": {
+      "A": "4 kg",
+      "B": "4150 g",
+      "C": "They are the same weight",
+      "D": "4170 g"
+    },
+    "answer": "B",
+    "explanation": "4 kg = 4000 g. Comparing 4000 g and 4150 g, 4150 g is heavier.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A parcel weighs 4 kg. Another weighs 770 g. What is their total weight in g?",
+    "options": {
+      "A": "4870 g",
+      "B": "4670 g",
+      "C": "774 g",
+      "D": "4770 g"
+    },
+    "answer": "D",
+    "explanation": "4 kg = 4000 g. 4000 g + 770 g = 4770 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A parcel weighs 2 kg. Another weighs 390 g. What is their total weight in g?",
+    "options": {
+      "A": "2390 g",
+      "B": "2490 g",
+      "C": "392 g",
+      "D": "2290 g"
+    },
+    "answer": "A",
+    "explanation": "2 kg = 2000 g. 2000 g + 390 g = 2390 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "2870 g is the same as how many kg and g?",
+    "options": {
+      "A": "3 kg and 870 g",
+      "B": "2 kg and 880 g",
+      "C": "1 kg and 870 g",
+      "D": "2 kg and 870 g"
+    },
+    "answer": "D",
+    "explanation": "2870 g = 2 × 1000 g + 870 g = 2 kg and 870 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Tara's a game lasted 69 minutes. Noah's a game lasted 93 minutes. How many minutes longer did Noah's a game last?",
+    "options": {
+      "A": "29",
+      "B": "24",
+      "C": "19",
+      "D": "162"
+    },
+    "answer": "B",
+    "explanation": "The difference between 69 and 93 minutes is 24 minutes.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A box of vegetables weighs 3681 g. 274 g is used. How much is left, in g?",
+    "options": {
+      "A": "3407 g",
+      "B": "3307 g",
+      "C": "3507 g",
+      "D": "3955 g"
+    },
+    "answer": "A",
+    "explanation": "3681 g - 274 g = 3407 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is longer: 322 cm or 3205 mm?",
+    "options": {
+      "A": "3205 mm",
+      "B": "They are the same length",
+      "C": "322 cm",
+      "D": "3208 mm"
+    },
+    "answer": "C",
+    "explanation": "322 cm = 3220 mm. Comparing 3220 mm and 3205 mm, 322 cm is longer.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The hour hand is just past the 8 and the minute hand points to the 4. What time is it?",
+    "options": {
+      "A": "twenty past 1",
+      "B": "twenty past 8",
+      "C": "twenty past 6",
+      "D": "five past 8"
+    },
+    "answer": "B",
+    "explanation": "The minute hand at the 4 means 20 minutes past the hour, which is twenty past 8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The hour hand is just past the 10 and the minute hand points to the 4. What time is it?",
+    "options": {
+      "A": "twenty past 10",
+      "B": "twenty past 8",
+      "C": "twenty past 6",
+      "D": "twenty-five past 10"
+    },
+    "answer": "A",
+    "explanation": "The minute hand at the 4 means 20 minutes past the hour, which is twenty past 10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "On a clock, the hour hand points just past the Roman numeral IV, and the minute hand points to the 6. What time is it?",
+    "options": {
+      "A": "half past 8",
+      "B": "half past 4",
+      "C": "half past 11",
+      "D": "half past 7"
+    },
+    "answer": "B",
+    "explanation": "The Roman numeral IV represents 4. Half past 4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which holds more: 2 l or 1850 ml?",
+    "options": {
+      "A": "2 l",
+      "B": "They hold the same amount",
+      "C": "1870 ml",
+      "D": "1850 ml"
+    },
+    "answer": "A",
+    "explanation": "2 l = 2000 ml. Comparing 2000 ml and 1850 ml, 2 l holds more.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A square has a perimeter of 56 cm. What is the length of each side?",
+    "options": {
+      "A": "16 cm",
+      "B": "42 cm",
+      "C": "14 cm",
+      "D": "28 cm"
+    },
+    "answer": "C",
+    "explanation": "A square has 4 equal sides. 56 ÷ 4 = 14 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which holds more: 2 l or 2050 ml?",
+    "options": {
+      "A": "2050 ml",
+      "B": "2070 ml",
+      "C": "2 l",
+      "D": "They hold the same amount"
+    },
+    "answer": "A",
+    "explanation": "2 l = 2000 ml. Comparing 2000 ml and 2050 ml, 2050 ml holds more.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "On a clock, the hour hand points just past the Roman numeral II, and the minute hand points to the 12. What time is it?",
+    "options": {
+      "A": "8 o'clock",
+      "B": "6 o'clock",
+      "C": "5 o'clock",
+      "D": "2 o'clock"
+    },
+    "answer": "D",
+    "explanation": "The Roman numeral II represents 2. 2 o'clock.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "2 minutes and 10 seconds is the same as how many seconds?",
+    "options": {
+      "A": "12",
+      "B": "210",
+      "C": "130",
+      "D": "140"
+    },
+    "answer": "C",
+    "explanation": "2 minutes = 120 seconds. 120 + 10 = 130 seconds.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Umar's reading lasted 59 minutes. Kira's reading lasted 21 minutes. How many minutes longer did Umar's reading last?",
+    "options": {
+      "A": "33",
+      "B": "80",
+      "C": "43",
+      "D": "38"
+    },
+    "answer": "D",
+    "explanation": "The difference between 59 and 21 minutes is 38 minutes.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Jack's bag of rice weighs 32 g. Grace's bag of rice is 7 times as heavy. How heavy is Grace's bag of rice?",
+    "options": {
+      "A": "39 g",
+      "B": "229 g",
+      "C": "224 g",
+      "D": "219 g"
+    },
+    "answer": "C",
+    "explanation": "7 times as much as 32 is 7 × 32 = 224 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "3446 g is the same as how many kg and g?",
+    "options": {
+      "A": "2 kg and 446 g",
+      "B": "4 kg and 446 g",
+      "C": "3 kg and 456 g",
+      "D": "3 kg and 446 g"
+    },
+    "answer": "D",
+    "explanation": "3446 g = 3 × 1000 g + 446 g = 3 kg and 446 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Oscar's rope is 37 m long. Finn's rope is 5 times as long. How long is Finn's rope?",
+    "options": {
+      "A": "180 m",
+      "B": "185 m",
+      "C": "42 m",
+      "D": "190 m"
+    },
+    "answer": "B",
+    "explanation": "5 times as much as 37 is 5 × 37 = 185 m.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A toy costs £18.37. You pay with a £20 note. How much change do you get?",
+    "options": {
+      "A": "£38.37",
+      "B": "£18.37",
+      "C": "£1.63",
+      "D": "£2.13"
+    },
+    "answer": "C",
+    "explanation": "£20 - £18.37 = £1.63 change.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Umar's bag of rice weighs 37 g. Oscar's bag of rice is 8 times as heavy. How heavy is Oscar's bag of rice?",
+    "options": {
+      "A": "45 g",
+      "B": "301 g",
+      "C": "296 g",
+      "D": "291 g"
+    },
+    "answer": "C",
+    "explanation": "8 times as much as 37 is 8 × 37 = 296 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "3 m and 19 cm is the same as how many millimetres?",
+    "options": {
+      "A": "3019",
+      "B": "319",
+      "C": "31900",
+      "D": "3190"
+    },
+    "answer": "D",
+    "explanation": "3 m 19 cm = 319 cm = 319 × 10 = 3190 mm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is longer: 314 cm or 3135 mm?",
+    "options": {
+      "A": "They are the same length",
+      "B": "3138 mm",
+      "C": "314 cm",
+      "D": "3135 mm"
+    },
+    "answer": "C",
+    "explanation": "314 cm = 3140 mm. Comparing 3140 mm and 3135 mm, 314 cm is longer.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "On a clock, the hour hand points just past the Roman numeral III, and the minute hand points to the 6. What time is it?",
+    "options": {
+      "A": "half past 2",
+      "B": "half past 3",
+      "C": "half past 8",
+      "D": "half past 4"
+    },
+    "answer": "B",
+    "explanation": "The Roman numeral III represents 3. Half past 3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Ravi's pencil is 34 cm long. Ella's pencil is 6 times as long. How long is Ella's pencil?",
+    "options": {
+      "A": "199 cm",
+      "B": "209 cm",
+      "C": "204 cm",
+      "D": "40 cm"
+    },
+    "answer": "C",
+    "explanation": "6 times as much as 34 is 6 × 34 = 204 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "8 identical bags each weigh 363 g. What is their total weight in g?",
+    "options": {
+      "A": "2904",
+      "B": "371",
+      "C": "2541",
+      "D": "3267"
+    },
+    "answer": "A",
+    "explanation": "8 × 363 g = 2904 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is heavier: 1 kg or 1150 g?",
+    "options": {
+      "A": "1170 g",
+      "B": "They are the same weight",
+      "C": "1150 g",
+      "D": "1 kg"
+    },
+    "answer": "C",
+    "explanation": "1 kg = 1000 g. Comparing 1000 g and 1150 g, 1150 g is heavier.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "6 identical cups each hold 79 ml. What is the total amount in ml?",
+    "options": {
+      "A": "85",
+      "B": "395",
+      "C": "474",
+      "D": "553"
+    },
+    "answer": "C",
+    "explanation": "6 × 79 ml = 474 ml.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A plank is 2 m and 2 cm long (that is 202 cm). 73 cm is cut off. How much is left, in cm?",
+    "options": {
+      "A": "129 cm",
+      "B": "119 cm",
+      "C": "139 cm",
+      "D": "275 cm"
+    },
+    "answer": "A",
+    "explanation": "202 cm - 73 cm = 129 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "3469 g is the same as how many kg and g?",
+    "options": {
+      "A": "3 kg and 469 g",
+      "B": "2 kg and 469 g",
+      "C": "3 kg and 479 g",
+      "D": "4 kg and 469 g"
+    },
+    "answer": "A",
+    "explanation": "3469 g = 3 × 1000 g + 469 g = 3 kg and 469 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "143 minutes is the same as how many hours and minutes?",
+    "options": {
+      "A": "3 hours and 23 minutes",
+      "B": "2 hours and 23 minutes",
+      "C": "2 hours and 28 minutes",
+      "D": "23 hours and 2 minutes"
+    },
+    "answer": "B",
+    "explanation": "143 ÷ 60 = 2 remainder 23, so 2 hours and 23 minutes.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many millimetres are in 7 metres?",
+    "options": {
+      "A": "70",
+      "B": "7000",
+      "C": "700",
+      "D": "7"
+    },
+    "answer": "B",
+    "explanation": "1 metre = 1000 mm, so 7 metres = 7 × 1000 = 7000 mm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "7 identical cups each hold 83 ml. What is the total amount in ml?",
+    "options": {
+      "A": "498",
+      "B": "90",
+      "C": "581",
+      "D": "664"
+    },
+    "answer": "C",
+    "explanation": "7 × 83 ml = 581 ml.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A tank holds 2680 ml of water. 233 ml is used. How much is left, in ml?",
+    "options": {
+      "A": "2913 ml",
+      "B": "2347 ml",
+      "C": "2547 ml",
+      "D": "2447 ml"
+    },
+    "answer": "D",
+    "explanation": "2680 ml - 233 ml = 2447 ml.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "An item costs 51p. You pay with a £1 coin (100p). How much change do you get?",
+    "options": {
+      "A": "151p",
+      "B": "54p",
+      "C": "51p",
+      "D": "49p"
+    },
+    "answer": "D",
+    "explanation": "100p - 51p = 49p change.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A square has a perimeter of 40 cm. What is the length of each side?",
+    "options": {
+      "A": "10 cm",
+      "B": "20 cm",
+      "C": "12 cm",
+      "D": "30 cm"
+    },
+    "answer": "A",
+    "explanation": "A square has 4 equal sides. 40 ÷ 4 = 10 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Oscar has £3.23. Ben has £6.02. What is their total, in £?",
+    "options": {
+      "A": "£8.25",
+      "B": "£10.25",
+      "C": "£9.25",
+      "D": "£2.79"
+    },
+    "answer": "C",
+    "explanation": "£3.23 + £6.02 = £9.25.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "69 minutes is the same as how many hours and minutes?",
+    "options": {
+      "A": "1 hours and 9 minutes",
+      "B": "1 hours and 14 minutes",
+      "C": "2 hours and 9 minutes",
+      "D": "9 hours and 1 minutes"
+    },
+    "answer": "A",
+    "explanation": "69 ÷ 60 = 1 remainder 9, so 1 hours and 9 minutes.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Grace has 4 £1 coins, 1 50p coin, 2 20p coins. How much money is that in total (in pence)?",
+    "options": {
+      "A": "470p",
+      "B": "490p",
+      "C": "510p",
+      "D": "7p"
+    },
+    "answer": "B",
+    "explanation": "4 × 100p + 1 × 50p + 2 × 20p = 490p.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 23:45 in 12-hour time?",
+    "options": {
+      "A": "11:15pm",
+      "B": "23:45pm",
+      "C": "11:45am",
+      "D": "11:45pm"
+    },
+    "answer": "D",
+    "explanation": "For times after 12:00, subtract 12: 23 - 12 = 11, so it is 11:45pm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "8 identical bags each weigh 292 g. What is their total weight in g?",
+    "options": {
+      "A": "2628",
+      "B": "2336",
+      "C": "2044",
+      "D": "300"
+    },
+    "answer": "B",
+    "explanation": "8 × 292 g = 2336 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 21:45 in 12-hour time?",
+    "options": {
+      "A": "9:45pm",
+      "B": "21:45pm",
+      "C": "9:45am",
+      "D": "9:15pm"
+    },
+    "answer": "A",
+    "explanation": "For times after 12:00, subtract 12: 21 - 12 = 9, so it is 9:45pm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 23:15 in 12-hour time?",
+    "options": {
+      "A": "11:45pm",
+      "B": "11:15am",
+      "C": "11:15pm",
+      "D": "23:15pm"
+    },
+    "answer": "C",
+    "explanation": "For times after 12:00, subtract 12: 23 - 12 = 11, so it is 11:15pm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A toy costs £14.98. You pay with a £20 note. How much change do you get?",
+    "options": {
+      "A": "£34.98",
+      "B": "£5.02",
+      "C": "£5.52",
+      "D": "£14.98"
+    },
+    "answer": "B",
+    "explanation": "£20 - £14.98 = £5.02 change.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle has a perimeter of 48 cm. One side is 9 cm. What is the length of the other (different) side?",
+    "options": {
+      "A": "17 cm",
+      "B": "39 cm",
+      "C": "9 cm",
+      "D": "15 cm"
+    },
+    "answer": "D",
+    "explanation": "Perimeter = 2 × (length + width). 48 ÷ 2 = 24. 24 - 9 = 15 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle has a perimeter of 42 cm. One side is 12 cm. What is the length of the other (different) side?",
+    "options": {
+      "A": "9 cm",
+      "B": "30 cm",
+      "C": "12 cm",
+      "D": "11 cm"
+    },
+    "answer": "A",
+    "explanation": "Perimeter = 2 × (length + width). 42 ÷ 2 = 21. 21 - 12 = 9 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The hour hand is just past the 10 and the minute hand points to the 7. What time is it?",
+    "options": {
+      "A": "twenty-five to 11",
+      "B": "twenty-five to 1",
+      "C": "twenty-five to 8",
+      "D": "ten past 10"
+    },
+    "answer": "A",
+    "explanation": "The minute hand at the 7 means 35 minutes past the hour, which is twenty-five to 11.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "4 minutes and 32 seconds is the same as how many seconds?",
+    "options": {
+      "A": "282",
+      "B": "272",
+      "C": "432",
+      "D": "36"
+    },
+    "answer": "B",
+    "explanation": "4 minutes = 240 seconds. 240 + 32 = 272 seconds.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Nina's tower is 39 cm tall. Umar's tower is 3 times as tall. How tall is Umar's tower?",
+    "options": {
+      "A": "112 cm",
+      "B": "42 cm",
+      "C": "122 cm",
+      "D": "117 cm"
+    },
+    "answer": "D",
+    "explanation": "3 times as much as 39 is 3 × 39 = 117 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A square has a perimeter of 32 cm. What is the length of each side?",
+    "options": {
+      "A": "16 cm",
+      "B": "24 cm",
+      "C": "10 cm",
+      "D": "8 cm"
+    },
+    "answer": "D",
+    "explanation": "A square has 4 equal sides. 32 ÷ 4 = 8 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Ben has £5.87. Tara has £1.86. What is their total, in £?",
+    "options": {
+      "A": "£8.73",
+      "B": "£4.01",
+      "C": "£7.73",
+      "D": "£6.73"
+    },
+    "answer": "C",
+    "explanation": "£5.87 + £1.86 = £7.73.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A tank holds 4125 ml of water. 512 ml is used. How much is left, in ml?",
+    "options": {
+      "A": "3613 ml",
+      "B": "4637 ml",
+      "C": "3513 ml",
+      "D": "3713 ml"
+    },
+    "answer": "A",
+    "explanation": "4125 ml - 512 ml = 3613 ml.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A tank holds 3211 ml of water. 855 ml is used. How much is left, in ml?",
+    "options": {
+      "A": "2256 ml",
+      "B": "2456 ml",
+      "C": "2356 ml",
+      "D": "4066 ml"
+    },
+    "answer": "C",
+    "explanation": "3211 ml - 855 ml = 2356 ml.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The hour hand is just past the 10 and the minute hand points to the 5. What time is it?",
+    "options": {
+      "A": "twenty-five past 3",
+      "B": "twenty-five past 10",
+      "C": "five to 11",
+      "D": "twenty-five past 6"
+    },
+    "answer": "B",
+    "explanation": "The minute hand at the 5 means 25 minutes past the hour, which is twenty-five past 10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle has a perimeter of 56 cm. One side is 13 cm. What is the length of the other (different) side?",
+    "options": {
+      "A": "17 cm",
+      "B": "15 cm",
+      "C": "13 cm",
+      "D": "43 cm"
+    },
+    "answer": "B",
+    "explanation": "Perimeter = 2 × (length + width). 56 ÷ 2 = 28. 28 - 13 = 15 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A jug holds 3 l of water. Another holds 590 ml. What is the total in ml?",
+    "options": {
+      "A": "593 ml",
+      "B": "3590 ml",
+      "C": "3490 ml",
+      "D": "3690 ml"
+    },
+    "answer": "B",
+    "explanation": "3 l = 3000 ml. 3000 ml + 590 ml = 3590 ml.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "5 identical bags each weigh 199 g. What is their total weight in g?",
+    "options": {
+      "A": "995",
+      "B": "204",
+      "C": "796",
+      "D": "1194"
+    },
+    "answer": "A",
+    "explanation": "5 × 199 g = 995 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 11:15am in 24-hour time?",
+    "options": {
+      "A": "11:45",
+      "B": "23:15",
+      "C": "11:15",
+      "D": "12:15"
+    },
+    "answer": "C",
+    "explanation": "For am times before 12, the 24-hour time is the same: 11:15.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is longer: 280 cm or 2805 mm?",
+    "options": {
+      "A": "280 cm",
+      "B": "They are the same length",
+      "C": "2808 mm",
+      "D": "2805 mm"
+    },
+    "answer": "D",
+    "explanation": "280 cm = 2800 mm. Comparing 2800 mm and 2805 mm, 2805 mm is longer.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A jug holds 1 l of water. Another holds 570 ml. What is the total in ml?",
+    "options": {
+      "A": "571 ml",
+      "B": "1570 ml",
+      "C": "1670 ml",
+      "D": "1470 ml"
+    },
+    "answer": "B",
+    "explanation": "1 l = 1000 ml. 1000 ml + 570 ml = 1570 ml.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Finn has £1.40. Noah has £1.09. What is their total, in £?",
+    "options": {
+      "A": "£1.49",
+      "B": "£3.49",
+      "C": "£2.49",
+      "D": "£0.31"
+    },
+    "answer": "C",
+    "explanation": "£1.40 + £1.09 = £2.49.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A toy costs £15.68. You pay with a £20 note. How much change do you get?",
+    "options": {
+      "A": "£15.68",
+      "B": "£4.32",
+      "C": "£35.68",
+      "D": "£4.82"
+    },
+    "answer": "B",
+    "explanation": "£20 - £15.68 = £4.32 change.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in February and August combined?",
+    "options": {
+      "A": "58",
+      "B": "28",
+      "C": "59",
+      "D": "60"
+    },
+    "answer": "C",
+    "explanation": "February has 28 days and August has 31 days. 28 + 31 = 59 days.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many millimetres are in 6 metres?",
+    "options": {
+      "A": "6",
+      "B": "600",
+      "C": "6000",
+      "D": "60"
+    },
+    "answer": "C",
+    "explanation": "1 metre = 1000 mm, so 6 metres = 6 × 1000 = 6000 mm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A parcel weighs 2 kg. Another weighs 450 g. What is their total weight in g?",
+    "options": {
+      "A": "2450 g",
+      "B": "2350 g",
+      "C": "2550 g",
+      "D": "452 g"
+    },
+    "answer": "A",
+    "explanation": "2 kg = 2000 g. 2000 g + 450 g = 2450 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 17:45 in 12-hour time?",
+    "options": {
+      "A": "17:45pm",
+      "B": "5:45pm",
+      "C": "5:15pm",
+      "D": "5:45am"
+    },
+    "answer": "B",
+    "explanation": "For times after 12:00, subtract 12: 17 - 12 = 5, so it is 5:45pm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "1 minutes and 55 seconds is the same as how many seconds?",
+    "options": {
+      "A": "125",
+      "B": "56",
+      "C": "155",
+      "D": "115"
+    },
+    "answer": "D",
+    "explanation": "1 minutes = 60 seconds. 60 + 55 = 115 seconds.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many millimetres are in 3 metres?",
+    "options": {
+      "A": "3",
+      "B": "30",
+      "C": "300",
+      "D": "3000"
+    },
+    "answer": "D",
+    "explanation": "1 metre = 1000 mm, so 3 metres = 3 × 1000 = 3000 mm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "4 hours and 36 minutes is the same as how many minutes?",
+    "options": {
+      "A": "276",
+      "B": "266",
+      "C": "436",
+      "D": "40"
+    },
+    "answer": "A",
+    "explanation": "4 hours = 240 minutes. 240 + 36 = 276 minutes.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A 5-sided shape has a total perimeter of 20 cm. Four of its sides measure 2 cm, 3 cm, 3 cm, 9 cm. What is the length of the fifth side?",
+    "options": {
+      "A": "18 cm",
+      "B": "5 cm",
+      "C": "3 cm",
+      "D": "1 cm"
+    },
+    "answer": "C",
+    "explanation": "Add the known sides: 17 cm. 20 - 17 = 3 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The hour hand is just past the 7 and the minute hand points to the 8. What time is it?",
+    "options": {
+      "A": "twenty to 8",
+      "B": "five to 8",
+      "C": "twenty to 9",
+      "D": "twenty to 5"
+    },
+    "answer": "A",
+    "explanation": "The minute hand at the 8 means 40 minutes past the hour, which is twenty to 8.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "1 m and 31 cm is the same as how many millimetres?",
+    "options": {
+      "A": "1031",
+      "B": "131",
+      "C": "1310",
+      "D": "13100"
+    },
+    "answer": "C",
+    "explanation": "1 m 31 cm = 131 cm = 131 × 10 = 1310 mm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A plank is 3 m and 39 cm long (that is 339 cm). 79 cm is cut off. How much is left, in cm?",
+    "options": {
+      "A": "260 cm",
+      "B": "250 cm",
+      "C": "418 cm",
+      "D": "270 cm"
+    },
+    "answer": "A",
+    "explanation": "339 cm - 79 cm = 260 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A parcel weighs 1 kg. Another weighs 870 g. What is their total weight in g?",
+    "options": {
+      "A": "1870 g",
+      "B": "871 g",
+      "C": "1770 g",
+      "D": "1970 g"
+    },
+    "answer": "A",
+    "explanation": "1 kg = 1000 g. 1000 g + 870 g = 1870 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Grace's cycling lasted 84 minutes. Theo's cycling lasted 49 minutes. How many minutes longer did Grace's cycling last?",
+    "options": {
+      "A": "30",
+      "B": "40",
+      "C": "133",
+      "D": "35"
+    },
+    "answer": "D",
+    "explanation": "The difference between 84 and 49 minutes is 35 minutes.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "On a clock, the hour hand points just past the Roman numeral X, and the minute hand points to the 6. What time is it?",
+    "options": {
+      "A": "half past 10",
+      "B": "half past 3",
+      "C": "half past 1",
+      "D": "half past 12"
+    },
+    "answer": "A",
+    "explanation": "The Roman numeral X represents 10. Half past 10.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A 5-sided shape has a total perimeter of 33 cm. Four of its sides measure 8 cm, 5 cm, 9 cm, 2 cm. What is the length of the fifth side?",
+    "options": {
+      "A": "11 cm",
+      "B": "25 cm",
+      "C": "7 cm",
+      "D": "9 cm"
+    },
+    "answer": "D",
+    "explanation": "Add the known sides: 24 cm. 33 - 24 = 9 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A plank is 2 m and 74 cm long (that is 274 cm). 101 cm is cut off. How much is left, in cm?",
+    "options": {
+      "A": "183 cm",
+      "B": "375 cm",
+      "C": "173 cm",
+      "D": "163 cm"
+    },
+    "answer": "C",
+    "explanation": "274 cm - 101 cm = 173 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Zara's cycling lasted 25 minutes. Ravi's cycling lasted 89 minutes. How many minutes longer did Ravi's cycling last?",
+    "options": {
+      "A": "69",
+      "B": "114",
+      "C": "64",
+      "D": "59"
+    },
+    "answer": "C",
+    "explanation": "The difference between 25 and 89 minutes is 64 minutes.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rope is 3 m long. A ribbon is 44 cm long. What is their total length in cm?",
+    "options": {
+      "A": "354 cm",
+      "B": "344 cm",
+      "C": "334 cm",
+      "D": "47 cm"
+    },
+    "answer": "B",
+    "explanation": "3 m = 300 cm. 300 cm + 44 cm = 344 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "1 hours and 1 minutes is the same as how many minutes?",
+    "options": {
+      "A": "61",
+      "B": "51",
+      "C": "2",
+      "D": "101"
+    },
+    "answer": "A",
+    "explanation": "1 hours = 60 minutes. 60 + 1 = 61 minutes.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Ben's swimming lasted 19 minutes. Ivy's swimming lasted 10 minutes. How many minutes longer did Ben's swimming last?",
+    "options": {
+      "A": "4",
+      "B": "14",
+      "C": "29",
+      "D": "9"
+    },
+    "answer": "D",
+    "explanation": "The difference between 19 and 10 minutes is 9 minutes.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle has a perimeter of 24 cm. One side is 4 cm. What is the length of the other (different) side?",
+    "options": {
+      "A": "10 cm",
+      "B": "20 cm",
+      "C": "4 cm",
+      "D": "8 cm"
+    },
+    "answer": "D",
+    "explanation": "Perimeter = 2 × (length + width). 24 ÷ 2 = 12. 12 - 4 = 8 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "On a clock, the hour hand points just past the Roman numeral IV, and the minute hand points to the 12. What time is it?",
+    "options": {
+      "A": "5 o'clock",
+      "B": "7 o'clock",
+      "C": "4 o'clock",
+      "D": "9 o'clock"
+    },
+    "answer": "C",
+    "explanation": "The Roman numeral IV represents 4. 4 o'clock.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many millimetres are in 8 metres?",
+    "options": {
+      "A": "8",
+      "B": "800",
+      "C": "8000",
+      "D": "80"
+    },
+    "answer": "C",
+    "explanation": "1 metre = 1000 mm, so 8 metres = 8 × 1000 = 8000 mm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rope is 2 m long. A ribbon is 68 cm long. What is their total length in cm?",
+    "options": {
+      "A": "70 cm",
+      "B": "268 cm",
+      "C": "278 cm",
+      "D": "258 cm"
+    },
+    "answer": "B",
+    "explanation": "2 m = 200 cm. 200 cm + 68 cm = 268 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "3 hours and 38 minutes is the same as how many minutes?",
+    "options": {
+      "A": "338",
+      "B": "41",
+      "C": "218",
+      "D": "208"
+    },
+    "answer": "C",
+    "explanation": "3 hours = 180 minutes. 180 + 38 = 218 minutes.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A plank is 1 m and 69 cm long (that is 169 cm). 94 cm is cut off. How much is left, in cm?",
+    "options": {
+      "A": "75 cm",
+      "B": "65 cm",
+      "C": "85 cm",
+      "D": "263 cm"
+    },
+    "answer": "A",
+    "explanation": "169 cm - 94 cm = 75 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "2 m and 12 cm is the same as how many millimetres?",
+    "options": {
+      "A": "2012",
+      "B": "212",
+      "C": "21200",
+      "D": "2120"
+    },
+    "answer": "D",
+    "explanation": "2 m 12 cm = 212 cm = 212 × 10 = 2120 mm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "4 m and 65 cm is the same as how many millimetres?",
+    "options": {
+      "A": "46500",
+      "B": "4065",
+      "C": "465",
+      "D": "4650"
+    },
+    "answer": "D",
+    "explanation": "4 m 65 cm = 465 cm = 465 × 10 = 4650 mm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Harry has £4.71. Tara has £3.53. What is their total, in £?",
+    "options": {
+      "A": "£7.24",
+      "B": "£9.24",
+      "C": "£1.18",
+      "D": "£8.24"
+    },
+    "answer": "D",
+    "explanation": "£4.71 + £3.53 = £8.24.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Ben's pencil is 20 cm long. Noah's pencil is 9 times as long. How long is Noah's pencil?",
+    "options": {
+      "A": "180 cm",
+      "B": "175 cm",
+      "C": "185 cm",
+      "D": "29 cm"
+    },
+    "answer": "A",
+    "explanation": "9 times as much as 20 is 9 × 20 = 180 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is heavier: 5 kg or 5150 g?",
+    "options": {
+      "A": "5150 g",
+      "B": "5 kg",
+      "C": "They are the same weight",
+      "D": "5170 g"
+    },
+    "answer": "A",
+    "explanation": "5 kg = 5000 g. Comparing 5000 g and 5150 g, 5150 g is heavier.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rope is 1 m long. A ribbon is 42 cm long. What is their total length in cm?",
+    "options": {
+      "A": "43 cm",
+      "B": "132 cm",
+      "C": "152 cm",
+      "D": "142 cm"
+    },
+    "answer": "D",
+    "explanation": "1 m = 100 cm. 100 cm + 42 cm = 142 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A square has a perimeter of 16 cm. What is the length of each side?",
+    "options": {
+      "A": "12 cm",
+      "B": "4 cm",
+      "C": "8 cm",
+      "D": "6 cm"
+    },
+    "answer": "B",
+    "explanation": "A square has 4 equal sides. 16 ÷ 4 = 4 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Tara has 4 £1 coins, 1 50p coin, 1 20p coin. How much money is that in total (in pence)?",
+    "options": {
+      "A": "450p",
+      "B": "490p",
+      "C": "470p",
+      "D": "6p"
+    },
+    "answer": "C",
+    "explanation": "4 × 100p + 1 × 50p + 1 × 20p = 470p.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 3:15pm in 24-hour time?",
+    "options": {
+      "A": "16:15",
+      "B": "03:15",
+      "C": "15:15",
+      "D": "15:45"
+    },
+    "answer": "C",
+    "explanation": "For pm, add 12 to the hour: 3 + 12 = 15, so 15:15.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in March and February combined?",
+    "options": {
+      "A": "31",
+      "B": "60",
+      "C": "59",
+      "D": "58"
+    },
+    "answer": "C",
+    "explanation": "March has 31 days and February has 28 days. 31 + 28 = 59 days.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "3881 ml is the same as how many l and ml?",
+    "options": {
+      "A": "4 l and 881 ml",
+      "B": "2 l and 881 ml",
+      "C": "3 l and 891 ml",
+      "D": "3 l and 881 ml"
+    },
+    "answer": "D",
+    "explanation": "3881 ml = 3 × 1000 ml + 881 ml = 3 l and 881 ml.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in August and January combined?",
+    "options": {
+      "A": "63",
+      "B": "31",
+      "C": "62",
+      "D": "61"
+    },
+    "answer": "C",
+    "explanation": "August has 31 days and January has 31 days. 31 + 31 = 62 days.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Ella's cycling lasted 84 minutes. Harry's cycling lasted 12 minutes. How many minutes longer did Ella's cycling last?",
+    "options": {
+      "A": "77",
+      "B": "96",
+      "C": "67",
+      "D": "72"
+    },
+    "answer": "D",
+    "explanation": "The difference between 84 and 12 minutes is 72 minutes.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A 5-sided shape has a total perimeter of 33 cm. Four of its sides measure 2 cm, 8 cm, 10 cm, 5 cm. What is the length of the fifth side?",
+    "options": {
+      "A": "6 cm",
+      "B": "31 cm",
+      "C": "8 cm",
+      "D": "10 cm"
+    },
+    "answer": "C",
+    "explanation": "Add the known sides: 25 cm. 33 - 25 = 8 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in June, July and August combined?",
+    "options": {
+      "A": "93",
+      "B": "92",
+      "C": "91",
+      "D": "90"
+    },
+    "answer": "B",
+    "explanation": "June has 30, July has 31, and August has 31 days. 30 + 31 + 31 = 92 days.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "189 minutes is the same as how many hours and minutes?",
+    "options": {
+      "A": "3 hours and 14 minutes",
+      "B": "4 hours and 9 minutes",
+      "C": "9 hours and 3 minutes",
+      "D": "3 hours and 9 minutes"
+    },
+    "answer": "D",
+    "explanation": "189 ÷ 60 = 3 remainder 9, so 3 hours and 9 minutes.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in October and May combined?",
+    "options": {
+      "A": "62",
+      "B": "63",
+      "C": "61",
+      "D": "31"
+    },
+    "answer": "A",
+    "explanation": "October has 31 days and May has 31 days. 31 + 31 = 62 days.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "5 identical cups each hold 185 ml. What is the total amount in ml?",
+    "options": {
+      "A": "1110",
+      "B": "925",
+      "C": "740",
+      "D": "190"
+    },
+    "answer": "B",
+    "explanation": "5 × 185 ml = 925 ml.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "On a clock, the hour hand points just past the Roman numeral XII, and the minute hand points to the 12. What time is it?",
+    "options": {
+      "A": "3 o'clock",
+      "B": "9 o'clock",
+      "C": "7 o'clock",
+      "D": "12 o'clock"
+    },
+    "answer": "D",
+    "explanation": "The Roman numeral XII represents 12. 12 o'clock.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The hour hand is just past the 3 and the minute hand points to the 1. What time is it?",
+    "options": {
+      "A": "twenty-five past 3",
+      "B": "five past 3",
+      "C": "five past 2",
+      "D": "five past 8"
+    },
+    "answer": "B",
+    "explanation": "The minute hand at the 1 means 5 minutes past the hour, which is five past 3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The hour hand is just past the 2 and the minute hand points to the 8. What time is it?",
+    "options": {
+      "A": "twenty-five to 3",
+      "B": "twenty to 3",
+      "C": "twenty to 9",
+      "D": "twenty to 8"
+    },
+    "answer": "B",
+    "explanation": "The minute hand at the 8 means 40 minutes past the hour, which is twenty to 3.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Sam's bag of rice weighs 35 g. Ivy's bag of rice is 5 times as heavy. How heavy is Ivy's bag of rice?",
+    "options": {
+      "A": "170 g",
+      "B": "40 g",
+      "C": "180 g",
+      "D": "175 g"
+    },
+    "answer": "D",
+    "explanation": "5 times as much as 35 is 5 × 35 = 175 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle has a perimeter of 38 cm. One side is 15 cm. What is the length of the other (different) side?",
+    "options": {
+      "A": "15 cm",
+      "B": "4 cm",
+      "C": "6 cm",
+      "D": "23 cm"
+    },
+    "answer": "B",
+    "explanation": "Perimeter = 2 × (length + width). 38 ÷ 2 = 19. 19 - 15 = 4 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A box of vegetables weighs 2499 g. 103 g is used. How much is left, in g?",
+    "options": {
+      "A": "2602 g",
+      "B": "2296 g",
+      "C": "2496 g",
+      "D": "2396 g"
+    },
+    "answer": "D",
+    "explanation": "2499 g - 103 g = 2396 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A box of vegetables weighs 2500 g. 486 g is used. How much is left, in g?",
+    "options": {
+      "A": "2986 g",
+      "B": "2114 g",
+      "C": "1914 g",
+      "D": "2014 g"
+    },
+    "answer": "D",
+    "explanation": "2500 g - 486 g = 2014 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in January and February combined (not a leap year)?",
+    "options": {
+      "A": "58",
+      "B": "61",
+      "C": "59",
+      "D": "60"
+    },
+    "answer": "C",
+    "explanation": "January has 31 days and February has 28 days (not a leap year). 31 + 28 = 59 days.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "The hour hand is just past the 3 and the minute hand points to the 10. What time is it?",
+    "options": {
+      "A": "ten to 3",
+      "B": "ten to 10",
+      "C": "ten to 4",
+      "D": "twenty to 4"
+    },
+    "answer": "C",
+    "explanation": "The minute hand at the 10 means 50 minutes past the hour, which is ten to 4.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "6 identical cups each hold 81 ml. What is the total amount in ml?",
+    "options": {
+      "A": "87",
+      "B": "567",
+      "C": "405",
+      "D": "486"
+    },
+    "answer": "D",
+    "explanation": "6 × 81 ml = 486 ml.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in March and April combined?",
+    "options": {
+      "A": "60",
+      "B": "62",
+      "C": "61",
+      "D": "59"
+    },
+    "answer": "C",
+    "explanation": "March has 31 days and April has 30 days. 31 + 30 = 61 days.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A tank holds 4286 ml of water. 335 ml is used. How much is left, in ml?",
+    "options": {
+      "A": "3951 ml",
+      "B": "4051 ml",
+      "C": "4621 ml",
+      "D": "3851 ml"
+    },
+    "answer": "A",
+    "explanation": "4286 ml - 335 ml = 3951 ml.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which holds more: 2 l or 1950 ml?",
+    "options": {
+      "A": "They hold the same amount",
+      "B": "1970 ml",
+      "C": "2 l",
+      "D": "1950 ml"
+    },
+    "answer": "C",
+    "explanation": "2 l = 2000 ml. Comparing 2000 ml and 1950 ml, 2 l holds more.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "4 m and 84 cm is the same as how many millimetres?",
+    "options": {
+      "A": "48400",
+      "B": "4084",
+      "C": "4840",
+      "D": "484"
+    },
+    "answer": "C",
+    "explanation": "4 m 84 cm = 484 cm = 484 × 10 = 4840 mm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A toy costs £3.99. You pay with a £10 note. How much change do you get?",
+    "options": {
+      "A": "£6.01",
+      "B": "£13.99",
+      "C": "£3.99",
+      "D": "£6.51"
+    },
+    "answer": "A",
+    "explanation": "£10 - £3.99 = £6.01 change.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A square has a perimeter of 28 cm. What is the length of each side?",
+    "options": {
+      "A": "14 cm",
+      "B": "21 cm",
+      "C": "7 cm",
+      "D": "9 cm"
+    },
+    "answer": "C",
+    "explanation": "A square has 4 equal sides. 28 ÷ 4 = 7 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Grace's a film lasted 11 minutes. Ivy's a film lasted 33 minutes. How many minutes longer did Ivy's a film last?",
+    "options": {
+      "A": "27",
+      "B": "44",
+      "C": "22",
+      "D": "17"
+    },
+    "answer": "C",
+    "explanation": "The difference between 11 and 33 minutes is 22 minutes.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "An item costs 81p. You pay with a £1 coin (100p). How much change do you get?",
+    "options": {
+      "A": "181p",
+      "B": "19p",
+      "C": "81p",
+      "D": "24p"
+    },
+    "answer": "B",
+    "explanation": "100p - 81p = 19p change.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A jug holds 2 l of water. Another holds 870 ml. What is the total in ml?",
+    "options": {
+      "A": "872 ml",
+      "B": "2970 ml",
+      "C": "2770 ml",
+      "D": "2870 ml"
+    },
+    "answer": "D",
+    "explanation": "2 l = 2000 ml. 2000 ml + 870 ml = 2870 ml.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is longer: 224 cm or 2245 mm?",
+    "options": {
+      "A": "2248 mm",
+      "B": "They are the same length",
+      "C": "2245 mm",
+      "D": "224 cm"
+    },
+    "answer": "C",
+    "explanation": "224 cm = 2240 mm. Comparing 2240 mm and 2245 mm, 2245 mm is longer.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Freya has 3 £1 coins, 1 50p coin, 1 20p coin. How much money is that in total (in pence)?",
+    "options": {
+      "A": "5p",
+      "B": "370p",
+      "C": "390p",
+      "D": "350p"
+    },
+    "answer": "B",
+    "explanation": "3 × 100p + 1 × 50p + 1 × 20p = 370p.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many millimetres are in 2 metres?",
+    "options": {
+      "A": "2",
+      "B": "2000",
+      "C": "200",
+      "D": "20"
+    },
+    "answer": "B",
+    "explanation": "1 metre = 1000 mm, so 2 metres = 2 × 1000 = 2000 mm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "8 identical bags each weigh 310 g. What is their total weight in g?",
+    "options": {
+      "A": "2480",
+      "B": "318",
+      "C": "2170",
+      "D": "2790"
+    },
+    "answer": "A",
+    "explanation": "8 × 310 g = 2480 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A 5-sided shape has a total perimeter of 23 cm. Four of its sides measure 6 cm, 7 cm, 3 cm, 2 cm. What is the length of the fifth side?",
+    "options": {
+      "A": "5 cm",
+      "B": "17 cm",
+      "C": "7 cm",
+      "D": "3 cm"
+    },
+    "answer": "A",
+    "explanation": "Add the known sides: 18 cm. 23 - 18 = 5 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "1 minutes and 16 seconds is the same as how many seconds?",
+    "options": {
+      "A": "116",
+      "B": "17",
+      "C": "76",
+      "D": "86"
+    },
+    "answer": "C",
+    "explanation": "1 minutes = 60 seconds. 60 + 16 = 76 seconds.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A jug holds 2 l of water. Another holds 380 ml. What is the total in ml?",
+    "options": {
+      "A": "2280 ml",
+      "B": "382 ml",
+      "C": "2480 ml",
+      "D": "2380 ml"
+    },
+    "answer": "D",
+    "explanation": "2 l = 2000 ml. 2000 ml + 380 ml = 2380 ml.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "3855 ml is the same as how many l and ml?",
+    "options": {
+      "A": "4 l and 855 ml",
+      "B": "3 l and 865 ml",
+      "C": "2 l and 855 ml",
+      "D": "3 l and 855 ml"
+    },
+    "answer": "D",
+    "explanation": "3855 ml = 3 × 1000 ml + 855 ml = 3 l and 855 ml.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "4162 ml is the same as how many l and ml?",
+    "options": {
+      "A": "4 l and 162 ml",
+      "B": "4 l and 172 ml",
+      "C": "5 l and 162 ml",
+      "D": "3 l and 162 ml"
+    },
+    "answer": "A",
+    "explanation": "4162 ml = 4 × 1000 ml + 162 ml = 4 l and 162 ml.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A box of vegetables weighs 3437 g. 497 g is used. How much is left, in g?",
+    "options": {
+      "A": "2940 g",
+      "B": "3934 g",
+      "C": "2840 g",
+      "D": "3040 g"
+    },
+    "answer": "A",
+    "explanation": "3437 g - 497 g = 2940 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "2641 g is the same as how many kg and g?",
+    "options": {
+      "A": "2 kg and 651 g",
+      "B": "3 kg and 641 g",
+      "C": "2 kg and 641 g",
+      "D": "1 kg and 641 g"
+    },
+    "answer": "C",
+    "explanation": "2641 g = 2 × 1000 g + 641 g = 2 kg and 641 g.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 11:15pm in 24-hour time?",
+    "options": {
+      "A": "00:15",
+      "B": "23:45",
+      "C": "11:15",
+      "D": "23:15"
+    },
+    "answer": "D",
+    "explanation": "For pm, add 12 to the hour: 11 + 12 = 23, so 23:15.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "An item costs 41p. You pay with a £1 coin (100p). How much change do you get?",
+    "options": {
+      "A": "41p",
+      "B": "141p",
+      "C": "64p",
+      "D": "59p"
+    },
+    "answer": "D",
+    "explanation": "100p - 41p = 59p change.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A plank is 1 m and 8 cm long (that is 108 cm). 84 cm is cut off. How much is left, in cm?",
+    "options": {
+      "A": "192 cm",
+      "B": "24 cm",
+      "C": "14 cm",
+      "D": "34 cm"
+    },
+    "answer": "B",
+    "explanation": "108 cm - 84 cm = 24 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rope is 1 m long. A ribbon is 64 cm long. What is their total length in cm?",
+    "options": {
+      "A": "154 cm",
+      "B": "164 cm",
+      "C": "174 cm",
+      "D": "65 cm"
+    },
+    "answer": "B",
+    "explanation": "1 m = 100 cm. 100 cm + 64 cm = 164 cm.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many more days does a leap year have than a normal year?",
+    "options": {
+      "A": "2",
+      "B": "1",
+      "C": "4",
+      "D": "0"
+    },
+    "answer": "B",
+    "explanation": "A leap year has 366 days and a normal year has 365 days. 366 - 365 = 1 extra day.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is heavier: 4 kg or 4050 g?",
+    "options": {
+      "A": "4050 g",
+      "B": "4070 g",
+      "C": "4 kg",
+      "D": "They are the same weight"
+    },
+    "answer": "A",
+    "explanation": "4 kg = 4000 g. Comparing 4000 g and 4050 g, 4050 g is heavier.",
+    "difficulty": "medium",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is longer: 362 cm or 3623 mm?",
+    "options": {
+      "A": "3623 mm",
+      "B": "362 cm",
+      "C": "3624 mm",
+      "D": "They are the same length"
+    },
+    "answer": "A",
+    "explanation": "362 cm = 3620 mm. Comparing 3620 mm and 3623 mm, 3623 mm is longer.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Three pieces of string measure 2 m, 67 cm, and 1 m 15 cm. What is their total length in cm?",
+    "options": {
+      "A": "382 cm",
+      "B": "392 cm",
+      "C": "372 cm",
+      "D": "85 cm"
+    },
+    "answer": "A",
+    "explanation": "2 m = 200 cm. Total = 200 + 67 + 115 = 382 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "1153 mm is the same as how many m and cm?",
+    "options": {
+      "A": "15 m and 1 cm",
+      "B": "2 m and 15 cm",
+      "C": "1 m and 16 cm",
+      "D": "1 m and 15 cm"
+    },
+    "answer": "D",
+    "explanation": "1153 mm = 115 cm = 1 m and 15 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Noah starts a puzzle at 5:15 and finishes at 5:45. How many minutes did the puzzle take?",
+    "options": {
+      "A": "15",
+      "B": "30",
+      "C": "45",
+      "D": "0"
+    },
+    "answer": "B",
+    "explanation": "From 5:15 to 5:45 is 30 minutes.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "You buy two toys costing £3 and 16p and £4 and 98p. You pay with a £10 note. How much change do you get?",
+    "options": {
+      "A": "£2 and 36p",
+      "B": "£18 and 14p",
+      "C": "£1 and 86p",
+      "D": "£6 and 84p"
+    },
+    "answer": "C",
+    "explanation": "£3 and 16p + £4 and 98p = £8 and 14p. £10 - £8 and 14p = £1 and 86p change.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Oscar's pencil is 5 times as long as Noah's pencil. Oscar's pencil is 55 cm long. How long is Noah's pencil?",
+    "options": {
+      "A": "9 cm",
+      "B": "16 cm",
+      "C": "11 cm",
+      "D": "50 cm"
+    },
+    "answer": "C",
+    "explanation": "55 ÷ 5 = 11 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A film starts at 11:45. It lasts 15 minutes. What time does it finish?",
+    "options": {
+      "A": "12:15",
+      "B": "1:00",
+      "C": "11:00",
+      "D": "12:00"
+    },
+    "answer": "D",
+    "explanation": "11:45 plus 15 minutes = 60 minutes past 11 o'clock, which is 12:00.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "2 day(s) and 14 hours is the same as how many hours?",
+    "options": {
+      "A": "62",
+      "B": "67",
+      "C": "34",
+      "D": "16"
+    },
+    "answer": "A",
+    "explanation": "2 day(s) = 48 hours. 48 + 14 = 62 hours.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "You buy two items costing 49p and 50p. You pay with a £1 coin (100p). How much change do you get?",
+    "options": {
+      "A": "6p",
+      "B": "51p",
+      "C": "1p",
+      "D": "199p"
+    },
+    "answer": "C",
+    "explanation": "49p + 50p = 99p. 100p - 99p = 1p change.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is the digital time for 'twenty-five past 4'?",
+    "options": {
+      "A": "4:30",
+      "B": "4:25",
+      "C": "5:25",
+      "D": "4:55"
+    },
+    "answer": "B",
+    "explanation": "'twenty-five past 4' means 25 minutes past 4 o'clock, written digitally as 4:25.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle's length is 3 times its width. The perimeter is 48 cm. What is the length?",
+    "options": {
+      "A": "6 cm",
+      "B": "18 cm",
+      "C": "16 cm",
+      "D": "24 cm"
+    },
+    "answer": "B",
+    "explanation": "width = 48 ÷ 8 = 6 cm, so length = 3 × 6 = 18 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A jug holds 1 l 146 ml. Another holds 3 l. What is their total in ml?",
+    "options": {
+      "A": "4246 ml",
+      "B": "150 ml",
+      "C": "4146 ml",
+      "D": "4046 ml"
+    },
+    "answer": "C",
+    "explanation": "1 l 146 ml = 1146 ml. 3 l = 3000 ml. Total = 4146 ml.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "5803 mm is the same as how many m and cm?",
+    "options": {
+      "A": "5 m and 81 cm",
+      "B": "80 m and 5 cm",
+      "C": "5 m and 80 cm",
+      "D": "6 m and 80 cm"
+    },
+    "answer": "C",
+    "explanation": "5803 mm = 580 cm = 5 m and 80 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Three bottles hold 610 ml, 239 ml and 152 ml. What is the total in ml?",
+    "options": {
+      "A": "901",
+      "B": "391",
+      "C": "1001",
+      "D": "1101"
+    },
+    "answer": "C",
+    "explanation": "610 + 239 + 152 = 1001 ml.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A water tank holds 3339 ml. 681 ml is used one day and 567 ml the next day. How much water is left, in ml?",
+    "options": {
+      "A": "3225 ml",
+      "B": "2091 ml",
+      "C": "1991 ml",
+      "D": "2191 ml"
+    },
+    "answer": "B",
+    "explanation": "3339 - 681 - 567 = 2091 ml.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle's length is 2 times its width. The perimeter is 42 cm. What is the length?",
+    "options": {
+      "A": "12 cm",
+      "B": "14 cm",
+      "C": "21 cm",
+      "D": "7 cm"
+    },
+    "answer": "B",
+    "explanation": "width = 42 ÷ 6 = 7 cm, so length = 2 × 7 = 14 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A film starts at 11:15. It lasts 90 minutes. What time does it finish?",
+    "options": {
+      "A": "12:00",
+      "B": "11:45",
+      "C": "12:45",
+      "D": "1:45"
+    },
+    "answer": "C",
+    "explanation": "11:15 plus 90 minutes = 105 minutes past 11 o'clock, which is 12:45.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Jack starts a puzzle at 6:30 and finishes at 7:00. How many minutes did the puzzle take?",
+    "options": {
+      "A": "15",
+      "B": "30",
+      "C": "45",
+      "D": "60"
+    },
+    "answer": "B",
+    "explanation": "From 6:30 to 7:00 is 30 minutes.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A film starts at 6:45. It lasts 75 minutes. What time does it finish?",
+    "options": {
+      "A": "9:00",
+      "B": "8:15",
+      "C": "8:00",
+      "D": "6:00"
+    },
+    "answer": "C",
+    "explanation": "6:45 plus 75 minutes = 120 minutes past 6 o'clock, which is 8:00.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "You buy two items costing 41p and 50p. You pay with a £1 coin (100p). How much change do you get?",
+    "options": {
+      "A": "59p",
+      "B": "14p",
+      "C": "191p",
+      "D": "9p"
+    },
+    "answer": "D",
+    "explanation": "41p + 50p = 91p. 100p - 91p = 9p change.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A film starts at 11:30. It lasts 60 minutes. What time does it finish?",
+    "options": {
+      "A": "12:45",
+      "B": "1:30",
+      "C": "12:30",
+      "D": "11:30"
+    },
+    "answer": "C",
+    "explanation": "11:30 plus 60 minutes = 90 minutes past 11 o'clock, which is 12:30.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Mia's tower is 6 times as tall as Sam's tower. Mia's tower is 30 cm tall. How tall is Sam's tower?",
+    "options": {
+      "A": "24 cm",
+      "B": "11 cm",
+      "C": "3 cm",
+      "D": "5 cm"
+    },
+    "answer": "D",
+    "explanation": "30 ÷ 6 = 5 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 12:00 in 12-hour time (using the 24-hour clock)?",
+    "options": {
+      "A": "00:00pm",
+      "B": "12:00am",
+      "C": "24:00pm",
+      "D": "12:00pm"
+    },
+    "answer": "D",
+    "explanation": "12:00 on the 24-hour clock is midday, written as 12:00pm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A box weighs 1 kg 716 g. Another weighs 3 kg. What is their total weight in g?",
+    "options": {
+      "A": "720 g",
+      "B": "4816 g",
+      "C": "4716 g",
+      "D": "4616 g"
+    },
+    "answer": "C",
+    "explanation": "1 kg 716 g = 1716 g. 3 kg = 3000 g. Total = 4716 g.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A film starts at 5:30. It lasts 90 minutes. What time does it finish?",
+    "options": {
+      "A": "7:00",
+      "B": "8:00",
+      "C": "7:15",
+      "D": "5:00"
+    },
+    "answer": "A",
+    "explanation": "5:30 plus 90 minutes = 120 minutes past 5 o'clock, which is 7:00.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle's length is 2 times its width. The perimeter is 24 cm. What is the width?",
+    "options": {
+      "A": "8 cm",
+      "B": "6 cm",
+      "C": "12 cm",
+      "D": "4 cm"
+    },
+    "answer": "D",
+    "explanation": "Perimeter = 2 × (length + width) = 2 × (2×width + width) = 2 × 3 × width. 24 ÷ 6 = 4 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Three bottles hold 506 ml, 460 ml and 753 ml. What is the total in ml?",
+    "options": {
+      "A": "1213",
+      "B": "1619",
+      "C": "1819",
+      "D": "1719"
+    },
+    "answer": "D",
+    "explanation": "506 + 460 + 753 = 1719 ml.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Three pieces of string measure 2 m, 34 cm, and 3 m 31 cm. What is their total length in cm?",
+    "options": {
+      "A": "555 cm",
+      "B": "575 cm",
+      "C": "70 cm",
+      "D": "565 cm"
+    },
+    "answer": "D",
+    "explanation": "2 m = 200 cm. Total = 200 + 34 + 331 = 565 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Zara has 1 £1 coin, 1 50p coin, 1 20p coin, 2 5p coins. How much money is that in total (in pence)?",
+    "options": {
+      "A": "165p",
+      "B": "195p",
+      "C": "5p",
+      "D": "180p"
+    },
+    "answer": "D",
+    "explanation": "1×100p + 1×50p + 1×20p + 2×5p = 180p.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Umar's tower is 4 times as tall as Noah's tower. Umar's tower is 76 cm tall. How tall is Noah's tower?",
+    "options": {
+      "A": "23 cm",
+      "B": "19 cm",
+      "C": "17 cm",
+      "D": "72 cm"
+    },
+    "answer": "B",
+    "explanation": "76 ÷ 4 = 19 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A box weighs 1 kg 448 g. Another weighs 1 kg. What is their total weight in g?",
+    "options": {
+      "A": "2448 g",
+      "B": "2548 g",
+      "C": "2348 g",
+      "D": "450 g"
+    },
+    "answer": "A",
+    "explanation": "1 kg 448 g = 1448 g. 1 kg = 1000 g. Total = 2448 g.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is heavier: 5 kg or 5040 g?",
+    "options": {
+      "A": "They are the same weight",
+      "B": "5 kg",
+      "C": "5040 g",
+      "D": "5045 g"
+    },
+    "answer": "C",
+    "explanation": "5 kg = 5000 g. Comparing 5000 g and 5040 g, 5040 g is heavier.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A film starts at 1:30. It lasts 75 minutes. What time does it finish?",
+    "options": {
+      "A": "1:45",
+      "B": "2:00",
+      "C": "3:45",
+      "D": "2:45"
+    },
+    "answer": "D",
+    "explanation": "1:30 plus 75 minutes = 105 minutes past 1 o'clock, which is 2:45.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Three bottles hold 693 ml, 241 ml and 408 ml. What is the total in ml?",
+    "options": {
+      "A": "1342",
+      "B": "1242",
+      "C": "649",
+      "D": "1442"
+    },
+    "answer": "A",
+    "explanation": "693 + 241 + 408 = 1342 ml.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Freya has 4 £1 coins, 2 20p coins, 2 5p coins. How much money is that in total (in pence)?",
+    "options": {
+      "A": "8p",
+      "B": "465p",
+      "C": "435p",
+      "D": "450p"
+    },
+    "answer": "D",
+    "explanation": "4×100p + 0×50p + 2×20p + 2×5p = 450p.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is the digital time for 'five to 11'?",
+    "options": {
+      "A": "11:55",
+      "B": "10:00",
+      "C": "10:55",
+      "D": "10:05"
+    },
+    "answer": "C",
+    "explanation": "'five to 11' means 55 minutes past 10 o'clock, written digitally as 10:55.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A film starts at 8:45. It lasts 75 minutes. What time does it finish?",
+    "options": {
+      "A": "10:00",
+      "B": "8:00",
+      "C": "10:15",
+      "D": "11:00"
+    },
+    "answer": "A",
+    "explanation": "8:45 plus 75 minutes = 120 minutes past 8 o'clock, which is 10:00.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A water tank holds 4376 ml. 796 ml is used one day and 782 ml the next day. How much water is left, in ml?",
+    "options": {
+      "A": "2698 ml",
+      "B": "4362 ml",
+      "C": "2898 ml",
+      "D": "2798 ml"
+    },
+    "answer": "D",
+    "explanation": "4376 - 796 - 782 = 2798 ml.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Three pieces of string measure 3 m, 51 cm, and 3 m 10 cm. What is their total length in cm?",
+    "options": {
+      "A": "661 cm",
+      "B": "67 cm",
+      "C": "671 cm",
+      "D": "651 cm"
+    },
+    "answer": "A",
+    "explanation": "3 m = 300 cm. Total = 300 + 51 + 310 = 661 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in September, October and December combined?",
+    "options": {
+      "A": "92",
+      "B": "91",
+      "C": "61",
+      "D": "93"
+    },
+    "answer": "A",
+    "explanation": "30 + 31 + 31 = 92 days.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle's length is 2 times its width. The perimeter is 60 cm. What is the width?",
+    "options": {
+      "A": "10 cm",
+      "B": "12 cm",
+      "C": "20 cm",
+      "D": "30 cm"
+    },
+    "answer": "A",
+    "explanation": "Perimeter = 2 × (length + width) = 2 × (2×width + width) = 2 × 3 × width. 60 ÷ 6 = 10 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 11:50pm in 24-hour time?",
+    "options": {
+      "A": "11:50",
+      "B": "23:50",
+      "C": "23:10",
+      "D": "00:50"
+    },
+    "answer": "B",
+    "explanation": "For pm, add 12 to the hour: 11 + 12 = 23, so 23:50.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which holds more: 4 l or 4015 ml?",
+    "options": {
+      "A": "They hold the same amount",
+      "B": "4015 ml",
+      "C": "4020 ml",
+      "D": "4 l"
+    },
+    "answer": "B",
+    "explanation": "4 l = 4000 ml. Comparing 4000 ml and 4015 ml, 4015 ml holds more.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A roll of ribbon is 630 cm long. A piece 59 cm long is cut, then another piece 71 cm long is cut. How much ribbon is left, in cm?",
+    "options": {
+      "A": "642 cm",
+      "B": "500 cm",
+      "C": "510 cm",
+      "D": "490 cm"
+    },
+    "answer": "B",
+    "explanation": "630 - 59 - 71 = 500 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "1 day(s) and 7 hours is the same as how many hours?",
+    "options": {
+      "A": "8",
+      "B": "36",
+      "C": "17",
+      "D": "31"
+    },
+    "answer": "D",
+    "explanation": "1 day(s) = 24 hours. 24 + 7 = 31 hours.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Mia starts a puzzle at 6:00 and finishes at 7:30. How many minutes did the puzzle take?",
+    "options": {
+      "A": "60",
+      "B": "105",
+      "C": "90",
+      "D": "75"
+    },
+    "answer": "C",
+    "explanation": "From 6:00 to 7:30 is 90 minutes.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which holds more: 1 l or 985 ml?",
+    "options": {
+      "A": "990 ml",
+      "B": "They hold the same amount",
+      "C": "1 l",
+      "D": "985 ml"
+    },
+    "answer": "C",
+    "explanation": "1 l = 1000 ml. Comparing 1000 ml and 985 ml, 1 l holds more.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Nina starts a puzzle at 3:00 and finishes at 4:30. How many minutes did the puzzle take?",
+    "options": {
+      "A": "90",
+      "B": "60",
+      "C": "105",
+      "D": "75"
+    },
+    "answer": "A",
+    "explanation": "From 3:00 to 4:30 is 90 minutes.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "3600 mm is the same as how many m and cm?",
+    "options": {
+      "A": "3 m and 61 cm",
+      "B": "3 m and 60 cm",
+      "C": "4 m and 60 cm",
+      "D": "60 m and 3 cm"
+    },
+    "answer": "B",
+    "explanation": "3600 mm = 360 cm = 3 m and 60 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 12:00am (midnight) in 24-hour time?",
+    "options": {
+      "A": "12:00",
+      "B": "00:12",
+      "C": "24:00",
+      "D": "00:00"
+    },
+    "answer": "D",
+    "explanation": "Midnight (12:00am) in 24-hour time is 00:00, the very start of the day.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A roll of ribbon is 417 cm long. A piece 59 cm long is cut, then another piece 48 cm long is cut. How much ribbon is left, in cm?",
+    "options": {
+      "A": "300 cm",
+      "B": "406 cm",
+      "C": "320 cm",
+      "D": "310 cm"
+    },
+    "answer": "D",
+    "explanation": "417 - 59 - 48 = 310 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "8251 g is the same as how many kg and g?",
+    "options": {
+      "A": "8 kg and 251 g",
+      "B": "9 kg and 251 g",
+      "C": "8 kg and 261 g",
+      "D": "251 kg and 8 g"
+    },
+    "answer": "A",
+    "explanation": "8251 g = 8 × 1000 g + 251 g = 8 kg and 251 g.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle 10 cm by 15 cm has a small 5 cm by 12 cm rectangle cut from one corner, making an L-shape. What is the perimeter of the L-shape?",
+    "options": {
+      "A": "33 cm",
+      "B": "50 cm",
+      "C": "16 cm",
+      "D": "90 cm"
+    },
+    "answer": "B",
+    "explanation": "Even though a corner is cut out, the total perimeter stays the same as the original rectangle: 2 × (10 + 15) = 50 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "3 m, 48 cm and 2 mm together is how many mm?",
+    "options": {
+      "A": "3492",
+      "B": "3482",
+      "C": "3472",
+      "D": "782"
+    },
+    "answer": "B",
+    "explanation": "3 m = 3000 mm, 48 cm = 480 mm. 3000 + 480 + 2 = 3482 mm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A sack of rice weighs 3384 g. 542 g is used one day and 335 g the next day. How much rice is left, in g?",
+    "options": {
+      "A": "2407 g",
+      "B": "2507 g",
+      "C": "3177 g",
+      "D": "2607 g"
+    },
+    "answer": "B",
+    "explanation": "3384 - 542 - 335 = 2507 g.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A film starts at 6:30. It lasts 90 minutes. What time does it finish?",
+    "options": {
+      "A": "8:00",
+      "B": "9:00",
+      "C": "6:00",
+      "D": "8:15"
+    },
+    "answer": "A",
+    "explanation": "6:30 plus 90 minutes = 120 minutes past 6 o'clock, which is 8:00.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 12:00pm (noon) in 24-hour time?",
+    "options": {
+      "A": "24:00",
+      "B": "12:00",
+      "C": "00:00",
+      "D": "12:12"
+    },
+    "answer": "B",
+    "explanation": "Noon (12:00pm) in 24-hour time is 12:00 — it stays the same, it is not 24:00.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle's length is 3 times its width. The perimeter is 72 cm. What is the width?",
+    "options": {
+      "A": "9 cm",
+      "B": "36 cm",
+      "C": "27 cm",
+      "D": "11 cm"
+    },
+    "answer": "A",
+    "explanation": "Perimeter = 2 × (length + width) = 2 × (3×width + width) = 2 × 4 × width. 72 ÷ 8 = 9 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle's length is 3 times its width. The perimeter is 40 cm. What is the length?",
+    "options": {
+      "A": "5 cm",
+      "B": "15 cm",
+      "C": "13 cm",
+      "D": "20 cm"
+    },
+    "answer": "B",
+    "explanation": "width = 40 ÷ 8 = 5 cm, so length = 3 × 5 = 15 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "180 seconds is the same as how many minutes and seconds?",
+    "options": {
+      "A": "3 minutes and 5 seconds",
+      "B": "3 minutes and 0 seconds",
+      "C": "4 minutes and 0 seconds",
+      "D": "0 minutes and 3 seconds"
+    },
+    "answer": "B",
+    "explanation": "180 ÷ 60 = 3 remainder 0, so 3 minutes and 0 seconds.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "6090 g is the same as how many kg and g?",
+    "options": {
+      "A": "6 kg and 100 g",
+      "B": "90 kg and 6 g",
+      "C": "6 kg and 90 g",
+      "D": "7 kg and 90 g"
+    },
+    "answer": "C",
+    "explanation": "6090 g = 6 × 1000 g + 90 g = 6 kg and 90 g.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "153 minutes is the same as how many hours and minutes?",
+    "options": {
+      "A": "3 hours and 33 minutes",
+      "B": "33 hours and 2 minutes",
+      "C": "2 hours and 38 minutes",
+      "D": "2 hours and 33 minutes"
+    },
+    "answer": "D",
+    "explanation": "153 ÷ 60 = 2 remainder 33, so 2 hours and 33 minutes.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in August, March and January combined?",
+    "options": {
+      "A": "92",
+      "B": "93",
+      "C": "94",
+      "D": "62"
+    },
+    "answer": "B",
+    "explanation": "31 + 31 + 31 = 93 days.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is heavier: 4 kg or 3960 g?",
+    "options": {
+      "A": "They are the same weight",
+      "B": "3960 g",
+      "C": "3965 g",
+      "D": "4 kg"
+    },
+    "answer": "D",
+    "explanation": "4 kg = 4000 g. Comparing 4000 g and 3960 g, 4 kg is heavier.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in July, June and December combined?",
+    "options": {
+      "A": "93",
+      "B": "92",
+      "C": "61",
+      "D": "91"
+    },
+    "answer": "B",
+    "explanation": "31 + 30 + 31 = 92 days.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is longer: 328 cm or 3283 mm?",
+    "options": {
+      "A": "328 cm",
+      "B": "They are the same length",
+      "C": "3283 mm",
+      "D": "3284 mm"
+    },
+    "answer": "C",
+    "explanation": "328 cm = 3280 mm. Comparing 3280 mm and 3283 mm, 3283 mm is longer.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in January, June and May combined?",
+    "options": {
+      "A": "93",
+      "B": "61",
+      "C": "91",
+      "D": "92"
+    },
+    "answer": "D",
+    "explanation": "31 + 30 + 31 = 92 days.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "6665 ml is the same as how many l and ml?",
+    "options": {
+      "A": "6 l and 675 ml",
+      "B": "665 l and 6 ml",
+      "C": "6 l and 665 ml",
+      "D": "7 l and 665 ml"
+    },
+    "answer": "C",
+    "explanation": "6665 ml = 6 × 1000 ml + 665 ml = 6 l and 665 ml.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "5169 ml is the same as how many l and ml?",
+    "options": {
+      "A": "6 l and 169 ml",
+      "B": "5 l and 179 ml",
+      "C": "169 l and 5 ml",
+      "D": "5 l and 169 ml"
+    },
+    "answer": "D",
+    "explanation": "5169 ml = 5 × 1000 ml + 169 ml = 5 l and 169 ml.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Three parcels weigh 380 g, 690 g and 292 g. What is their total weight in g?",
+    "options": {
+      "A": "982",
+      "B": "1462",
+      "C": "1262",
+      "D": "1362"
+    },
+    "answer": "D",
+    "explanation": "380 + 690 + 292 = 1362 g.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in March, May and September combined?",
+    "options": {
+      "A": "91",
+      "B": "92",
+      "C": "93",
+      "D": "62"
+    },
+    "answer": "B",
+    "explanation": "31 + 31 + 30 = 92 days.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A roll of ribbon is 368 cm long. A piece 79 cm long is cut, then another piece 41 cm long is cut. How much ribbon is left, in cm?",
+    "options": {
+      "A": "258 cm",
+      "B": "248 cm",
+      "C": "238 cm",
+      "D": "330 cm"
+    },
+    "answer": "B",
+    "explanation": "368 - 79 - 41 = 248 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "6694 g is the same as how many kg and g?",
+    "options": {
+      "A": "694 kg and 6 g",
+      "B": "6 kg and 694 g",
+      "C": "6 kg and 704 g",
+      "D": "7 kg and 694 g"
+    },
+    "answer": "B",
+    "explanation": "6694 g = 6 × 1000 g + 694 g = 6 kg and 694 g.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "You buy two toys costing £4 and 59p and £3 and 98p. You pay with a £10 note. How much change do you get?",
+    "options": {
+      "A": "£1 and 93p",
+      "B": "£1 and 43p",
+      "C": "£18 and 57p",
+      "D": "£5 and 41p"
+    },
+    "answer": "B",
+    "explanation": "£4 and 59p + £3 and 98p = £8 and 57p. £10 - £8 and 57p = £1 and 43p change.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A film starts at 8:00. It lasts 60 minutes. What time does it finish?",
+    "options": {
+      "A": "9:00",
+      "B": "9:15",
+      "C": "8:00",
+      "D": "10:00"
+    },
+    "answer": "A",
+    "explanation": "8:00 plus 60 minutes = 60 minutes past 8 o'clock, which is 9:00.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle's length is 2 times its width. The perimeter is 54 cm. What is the width?",
+    "options": {
+      "A": "27 cm",
+      "B": "18 cm",
+      "C": "11 cm",
+      "D": "9 cm"
+    },
+    "answer": "D",
+    "explanation": "Perimeter = 2 × (length + width) = 2 × (2×width + width) = 2 × 3 × width. 54 ÷ 6 = 9 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle 16 cm by 18 cm has a small 11 cm by 4 cm rectangle cut from one corner, making an L-shape. What is the perimeter of the L-shape?",
+    "options": {
+      "A": "38 cm",
+      "B": "244 cm",
+      "C": "53 cm",
+      "D": "68 cm"
+    },
+    "answer": "D",
+    "explanation": "Even though a corner is cut out, the total perimeter stays the same as the original rectangle: 2 × (16 + 18) = 68 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "2656 mm is the same as how many m and cm?",
+    "options": {
+      "A": "65 m and 2 cm",
+      "B": "2 m and 66 cm",
+      "C": "3 m and 65 cm",
+      "D": "2 m and 65 cm"
+    },
+    "answer": "D",
+    "explanation": "2656 mm = 265 cm = 2 m and 65 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is the digital time for 'ten to 10'?",
+    "options": {
+      "A": "9:55",
+      "B": "9:50",
+      "C": "10:50",
+      "D": "9:25"
+    },
+    "answer": "B",
+    "explanation": "'ten to 10' means 50 minutes past 9 o'clock, written digitally as 9:50.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle's length is 2 times its width. The perimeter is 66 cm. What is the length?",
+    "options": {
+      "A": "11 cm",
+      "B": "33 cm",
+      "C": "20 cm",
+      "D": "22 cm"
+    },
+    "answer": "D",
+    "explanation": "width = 66 ÷ 6 = 11 cm, so length = 2 × 11 = 22 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is longer: 305 cm or 3042 mm?",
+    "options": {
+      "A": "3043 mm",
+      "B": "305 cm",
+      "C": "They are the same length",
+      "D": "3042 mm"
+    },
+    "answer": "B",
+    "explanation": "305 cm = 3050 mm. Comparing 3050 mm and 3042 mm, 305 cm is longer.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "4874 mm is the same as how many m and cm?",
+    "options": {
+      "A": "4 m and 87 cm",
+      "B": "5 m and 87 cm",
+      "C": "87 m and 4 cm",
+      "D": "4 m and 88 cm"
+    },
+    "answer": "A",
+    "explanation": "4874 mm = 487 cm = 4 m and 87 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A roll of ribbon is 317 cm long. A piece 80 cm long is cut, then another piece 67 cm long is cut. How much ribbon is left, in cm?",
+    "options": {
+      "A": "170 cm",
+      "B": "160 cm",
+      "C": "180 cm",
+      "D": "304 cm"
+    },
+    "answer": "A",
+    "explanation": "317 - 80 - 67 = 170 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "3 m, 11 cm and 2 mm together is how many mm?",
+    "options": {
+      "A": "3122",
+      "B": "3102",
+      "C": "3112",
+      "D": "412"
+    },
+    "answer": "C",
+    "explanation": "3 m = 3000 mm, 11 cm = 110 mm. 3000 + 110 + 2 = 3112 mm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A jug holds 3 l 469 ml. Another holds 2 l. What is their total in ml?",
+    "options": {
+      "A": "474 ml",
+      "B": "5569 ml",
+      "C": "5469 ml",
+      "D": "5369 ml"
+    },
+    "answer": "C",
+    "explanation": "3 l 469 ml = 3469 ml. 2 l = 2000 ml. Total = 5469 ml.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle 20 cm by 13 cm has a small 13 cm by 7 cm rectangle cut from one corner, making an L-shape. What is the perimeter of the L-shape?",
+    "options": {
+      "A": "66 cm",
+      "B": "169 cm",
+      "C": "46 cm",
+      "D": "26 cm"
+    },
+    "answer": "A",
+    "explanation": "Even though a corner is cut out, the total perimeter stays the same as the original rectangle: 2 × (20 + 13) = 66 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Grace has 4 £1 coins, 1 20p coin. How much money is that in total (in pence)?",
+    "options": {
+      "A": "405p",
+      "B": "5p",
+      "C": "435p",
+      "D": "420p"
+    },
+    "answer": "D",
+    "explanation": "4×100p + 0×50p + 1×20p + 0×5p = 420p.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A film starts at 3:30. It lasts 30 minutes. What time does it finish?",
+    "options": {
+      "A": "3:00",
+      "B": "5:00",
+      "C": "4:15",
+      "D": "4:00"
+    },
+    "answer": "D",
+    "explanation": "3:30 plus 30 minutes = 60 minutes past 3 o'clock, which is 4:00.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "You buy two items costing 59p and 27p. You pay with a £1 coin (100p). How much change do you get?",
+    "options": {
+      "A": "186p",
+      "B": "14p",
+      "C": "19p",
+      "D": "41p"
+    },
+    "answer": "B",
+    "explanation": "59p + 27p = 86p. 100p - 86p = 14p change.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is the digital time for 'twenty-five to 12'?",
+    "options": {
+      "A": "11:40",
+      "B": "11:25",
+      "C": "12:35",
+      "D": "11:35"
+    },
+    "answer": "D",
+    "explanation": "'twenty-five to 12' means 35 minutes past 11 o'clock, written digitally as 11:35.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "You buy two toys costing £1 and 88p and £4 and 44p. You pay with a £10 note. How much change do you get?",
+    "options": {
+      "A": "£3 and 68p",
+      "B": "£16 and 32p",
+      "C": "£8 and 12p",
+      "D": "£4 and 18p"
+    },
+    "answer": "A",
+    "explanation": "£1 and 88p + £4 and 44p = £6 and 32p. £10 - £6 and 32p = £3 and 68p change.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "186 minutes is the same as how many hours and minutes?",
+    "options": {
+      "A": "3 hours and 11 minutes",
+      "B": "4 hours and 6 minutes",
+      "C": "6 hours and 3 minutes",
+      "D": "3 hours and 6 minutes"
+    },
+    "answer": "D",
+    "explanation": "186 ÷ 60 = 3 remainder 6, so 3 hours and 6 minutes.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "You pay with a £1 coin (100p) and get 17p change. How much did the item cost?",
+    "options": {
+      "A": "83p",
+      "B": "17p",
+      "C": "117p",
+      "D": "88p"
+    },
+    "answer": "A",
+    "explanation": "100p - 17p = 83p.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A box weighs 3 kg 473 g. Another weighs 2 kg. What is their total weight in g?",
+    "options": {
+      "A": "5473 g",
+      "B": "5573 g",
+      "C": "478 g",
+      "D": "5373 g"
+    },
+    "answer": "A",
+    "explanation": "3 kg 473 g = 3473 g. 2 kg = 2000 g. Total = 5473 g.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A jug holds 2 l 521 ml. Another holds 2 l. What is their total in ml?",
+    "options": {
+      "A": "4421 ml",
+      "B": "4521 ml",
+      "C": "4621 ml",
+      "D": "525 ml"
+    },
+    "answer": "B",
+    "explanation": "2 l 521 ml = 2521 ml. 2 l = 2000 ml. Total = 4521 ml.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle's length is 2 times its width. The perimeter is 18 cm. What is the length?",
+    "options": {
+      "A": "6 cm",
+      "B": "4 cm",
+      "C": "3 cm",
+      "D": "9 cm"
+    },
+    "answer": "A",
+    "explanation": "width = 18 ÷ 6 = 3 cm, so length = 2 × 3 = 6 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is heavier: 4 kg or 4040 g?",
+    "options": {
+      "A": "4040 g",
+      "B": "4045 g",
+      "C": "4 kg",
+      "D": "They are the same weight"
+    },
+    "answer": "A",
+    "explanation": "4 kg = 4000 g. Comparing 4000 g and 4040 g, 4040 g is heavier.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle 11 cm by 15 cm has a small 4 cm by 8 cm rectangle cut from one corner, making an L-shape. What is the perimeter of the L-shape?",
+    "options": {
+      "A": "133 cm",
+      "B": "52 cm",
+      "C": "40 cm",
+      "D": "28 cm"
+    },
+    "answer": "B",
+    "explanation": "Even though a corner is cut out, the total perimeter stays the same as the original rectangle: 2 × (11 + 15) = 52 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Jack's tower is 7 times as tall as Sam's tower. Jack's tower is 147 cm tall. How tall is Sam's tower?",
+    "options": {
+      "A": "28 cm",
+      "B": "19 cm",
+      "C": "21 cm",
+      "D": "140 cm"
+    },
+    "answer": "C",
+    "explanation": "147 ÷ 7 = 21 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Three pieces of string measure 2 m, 83 cm, and 1 m 43 cm. What is their total length in cm?",
+    "options": {
+      "A": "426 cm",
+      "B": "129 cm",
+      "C": "416 cm",
+      "D": "436 cm"
+    },
+    "answer": "A",
+    "explanation": "2 m = 200 cm. Total = 200 + 83 + 143 = 426 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Finn starts a puzzle at 3:15 and finishes at 4:45. How many minutes did the puzzle take?",
+    "options": {
+      "A": "105",
+      "B": "60",
+      "C": "90",
+      "D": "75"
+    },
+    "answer": "C",
+    "explanation": "From 3:15 to 4:45 is 90 minutes.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 4:10am in 24-hour time?",
+    "options": {
+      "A": "04:50",
+      "B": "04:10",
+      "C": "16:10",
+      "D": "05:10"
+    },
+    "answer": "B",
+    "explanation": "For am times before 12, the 24-hour time is the same: 04:10.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A sack of rice weighs 3869 g. 335 g is used one day and 448 g the next day. How much rice is left, in g?",
+    "options": {
+      "A": "3086 g",
+      "B": "2986 g",
+      "C": "3982 g",
+      "D": "3186 g"
+    },
+    "answer": "A",
+    "explanation": "3869 - 335 - 448 = 3086 g.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Three pieces of string measure 2 m, 49 cm, and 1 m 74 cm. What is their total length in cm?",
+    "options": {
+      "A": "423 cm",
+      "B": "433 cm",
+      "C": "126 cm",
+      "D": "413 cm"
+    },
+    "answer": "A",
+    "explanation": "2 m = 200 cm. Total = 200 + 49 + 174 = 423 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "7905 g is the same as how many kg and g?",
+    "options": {
+      "A": "905 kg and 7 g",
+      "B": "8 kg and 905 g",
+      "C": "7 kg and 905 g",
+      "D": "7 kg and 915 g"
+    },
+    "answer": "C",
+    "explanation": "7905 g = 7 × 1000 g + 905 g = 7 kg and 905 g.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 00:00 in 12-hour time?",
+    "options": {
+      "A": "00:00am",
+      "B": "24:00am",
+      "C": "12:00am",
+      "D": "12:00pm"
+    },
+    "answer": "C",
+    "explanation": "00:00 in 24-hour time is midnight, written as 12:00am.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "You pay with a £1 coin (100p) and get 32p change. How much did the item cost?",
+    "options": {
+      "A": "32p",
+      "B": "73p",
+      "C": "68p",
+      "D": "132p"
+    },
+    "answer": "C",
+    "explanation": "100p - 32p = 68p.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Three parcels weigh 167 g, 587 g and 404 g. What is their total weight in g?",
+    "options": {
+      "A": "991",
+      "B": "1258",
+      "C": "1158",
+      "D": "1058"
+    },
+    "answer": "C",
+    "explanation": "167 + 587 + 404 = 1158 g.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A sack of rice weighs 5396 g. 388 g is used one day and 634 g the next day. How much rice is left, in g?",
+    "options": {
+      "A": "4274 g",
+      "B": "4374 g",
+      "C": "4474 g",
+      "D": "5642 g"
+    },
+    "answer": "B",
+    "explanation": "5396 - 388 - 634 = 4374 g.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 4:50am in 24-hour time?",
+    "options": {
+      "A": "04:50",
+      "B": "04:10",
+      "C": "16:50",
+      "D": "05:50"
+    },
+    "answer": "A",
+    "explanation": "For am times before 12, the 24-hour time is the same: 04:50.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A water tank holds 4531 ml. 369 ml is used one day and 310 ml the next day. How much water is left, in ml?",
+    "options": {
+      "A": "3952 ml",
+      "B": "3752 ml",
+      "C": "3852 ml",
+      "D": "4472 ml"
+    },
+    "answer": "C",
+    "explanation": "4531 - 369 - 310 = 3852 ml.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is the digital time for 'twenty-five to 3'?",
+    "options": {
+      "A": "3:35",
+      "B": "2:40",
+      "C": "2:35",
+      "D": "2:05"
+    },
+    "answer": "C",
+    "explanation": "'twenty-five to 3' means 35 minutes past 2 o'clock, written digitally as 2:35.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "340 seconds is the same as how many minutes and seconds?",
+    "options": {
+      "A": "5 minutes and 40 seconds",
+      "B": "5 minutes and 45 seconds",
+      "C": "40 minutes and 5 seconds",
+      "D": "6 minutes and 40 seconds"
+    },
+    "answer": "A",
+    "explanation": "340 ÷ 60 = 5 remainder 40, so 5 minutes and 40 seconds.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is 8:40pm in 24-hour time?",
+    "options": {
+      "A": "21:40",
+      "B": "20:20",
+      "C": "20:40",
+      "D": "08:40"
+    },
+    "answer": "C",
+    "explanation": "For pm, add 12 to the hour: 8 + 12 = 20, so 20:40.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A water tank holds 2824 ml. 312 ml is used one day and 849 ml the next day. How much water is left, in ml?",
+    "options": {
+      "A": "1663 ml",
+      "B": "1763 ml",
+      "C": "1563 ml",
+      "D": "3361 ml"
+    },
+    "answer": "A",
+    "explanation": "2824 - 312 - 849 = 1663 ml.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "2560 ml is the same as how many l and ml?",
+    "options": {
+      "A": "3 l and 560 ml",
+      "B": "2 l and 560 ml",
+      "C": "560 l and 2 ml",
+      "D": "2 l and 570 ml"
+    },
+    "answer": "B",
+    "explanation": "2560 ml = 2 × 1000 ml + 560 ml = 2 l and 560 ml.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A rectangle's length is 3 times its width. The perimeter is 24 cm. What is the width?",
+    "options": {
+      "A": "9 cm",
+      "B": "5 cm",
+      "C": "3 cm",
+      "D": "12 cm"
+    },
+    "answer": "C",
+    "explanation": "Perimeter = 2 × (length + width) = 2 × (3×width + width) = 2 × 4 × width. 24 ÷ 8 = 3 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "1 m, 7 cm and 3 mm together is how many mm?",
+    "options": {
+      "A": "1083",
+      "B": "1073",
+      "C": "1063",
+      "D": "173"
+    },
+    "answer": "B",
+    "explanation": "1 m = 1000 mm, 7 cm = 70 mm. 1000 + 70 + 3 = 1073 mm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Three parcels weigh 380 g, 265 g and 353 g. What is their total weight in g?",
+    "options": {
+      "A": "618",
+      "B": "998",
+      "C": "898",
+      "D": "1098"
+    },
+    "answer": "B",
+    "explanation": "380 + 265 + 353 = 998 g.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "You pay with a £1 coin (100p) and get 46p change. How much did the item cost?",
+    "options": {
+      "A": "59p",
+      "B": "54p",
+      "C": "146p",
+      "D": "46p"
+    },
+    "answer": "B",
+    "explanation": "100p - 46p = 54p.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "3 day(s) and 8 hours is the same as how many hours?",
+    "options": {
+      "A": "85",
+      "B": "80",
+      "C": "64",
+      "D": "11"
+    },
+    "answer": "B",
+    "explanation": "3 day(s) = 72 hours. 72 + 8 = 80 hours.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Mia's pencil is 5 times as long as Noah's pencil. Mia's pencil is 80 cm long. How long is Noah's pencil?",
+    "options": {
+      "A": "75 cm",
+      "B": "14 cm",
+      "C": "16 cm",
+      "D": "21 cm"
+    },
+    "answer": "C",
+    "explanation": "80 ÷ 5 = 16 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Ivy starts a puzzle at 4:00 and finishes at 5:45. How many minutes did the puzzle take?",
+    "options": {
+      "A": "105",
+      "B": "90",
+      "C": "120",
+      "D": "60"
+    },
+    "answer": "A",
+    "explanation": "From 4:00 to 5:45 is 105 minutes.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "You buy two toys costing £2 and 45p and £1 and 81p. You pay with a £10 note. How much change do you get?",
+    "options": {
+      "A": "£5 and 74p",
+      "B": "£14 and 26p",
+      "C": "£6 and 24p",
+      "D": "£7 and 55p"
+    },
+    "answer": "A",
+    "explanation": "£2 and 45p + £1 and 81p = £4 and 26p. £10 - £4 and 26p = £5 and 74p change.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "102 minutes is the same as how many hours and minutes?",
+    "options": {
+      "A": "2 hours and 42 minutes",
+      "B": "1 hours and 47 minutes",
+      "C": "42 hours and 1 minutes",
+      "D": "1 hours and 42 minutes"
+    },
+    "answer": "D",
+    "explanation": "102 ÷ 60 = 1 remainder 42, so 1 hours and 42 minutes.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in September, July and August combined?",
+    "options": {
+      "A": "91",
+      "B": "61",
+      "C": "93",
+      "D": "92"
+    },
+    "answer": "D",
+    "explanation": "30 + 31 + 31 = 92 days.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A sack of rice weighs 5365 g. 345 g is used one day and 627 g the next day. How much rice is left, in g?",
+    "options": {
+      "A": "4293 g",
+      "B": "4393 g",
+      "C": "4493 g",
+      "D": "5647 g"
+    },
+    "answer": "B",
+    "explanation": "5365 - 345 - 627 = 4393 g.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "What is the digital time for 'ten to 11'?",
+    "options": {
+      "A": "11:50",
+      "B": "10:55",
+      "C": "10:05",
+      "D": "10:50"
+    },
+    "answer": "D",
+    "explanation": "'ten to 11' means 50 minutes past 10 o'clock, written digitally as 10:50.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "1 m, 87 cm and 6 mm together is how many mm?",
+    "options": {
+      "A": "976",
+      "B": "1876",
+      "C": "1866",
+      "D": "1886"
+    },
+    "answer": "B",
+    "explanation": "1 m = 1000 mm, 87 cm = 870 mm. 1000 + 870 + 6 = 1876 mm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A jug holds 1 l 719 ml. Another holds 3 l. What is their total in ml?",
+    "options": {
+      "A": "4819 ml",
+      "B": "4619 ml",
+      "C": "4719 ml",
+      "D": "723 ml"
+    },
+    "answer": "C",
+    "explanation": "1 l 719 ml = 1719 ml. 3 l = 3000 ml. Total = 4719 ml.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "389 seconds is the same as how many minutes and seconds?",
+    "options": {
+      "A": "6 minutes and 34 seconds",
+      "B": "7 minutes and 29 seconds",
+      "C": "6 minutes and 29 seconds",
+      "D": "29 minutes and 6 seconds"
+    },
+    "answer": "C",
+    "explanation": "389 ÷ 60 = 6 remainder 29, so 6 minutes and 29 seconds.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which holds more: 2 l or 2015 ml?",
+    "options": {
+      "A": "They hold the same amount",
+      "B": "2015 ml",
+      "C": "2020 ml",
+      "D": "2 l"
+    },
+    "answer": "B",
+    "explanation": "2 l = 2000 ml. Comparing 2000 ml and 2015 ml, 2015 ml holds more.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Priya starts a puzzle at 2:45 and finishes at 4:15. How many minutes did the puzzle take?",
+    "options": {
+      "A": "75",
+      "B": "120",
+      "C": "90",
+      "D": "105"
+    },
+    "answer": "C",
+    "explanation": "From 2:45 to 4:15 is 90 minutes.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Three parcels weigh 808 g, 261 g and 743 g. What is their total weight in g?",
+    "options": {
+      "A": "1912",
+      "B": "1004",
+      "C": "1812",
+      "D": "1712"
+    },
+    "answer": "C",
+    "explanation": "808 + 261 + 743 = 1812 g.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is heavier: 1 kg or 985 g?",
+    "options": {
+      "A": "985 g",
+      "B": "990 g",
+      "C": "1 kg",
+      "D": "They are the same weight"
+    },
+    "answer": "C",
+    "explanation": "1 kg = 1000 g. Comparing 1000 g and 985 g, 1 kg is heavier.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "4 m, 58 cm and 6 mm together is how many mm?",
+    "options": {
+      "A": "4586",
+      "B": "986",
+      "C": "4576",
+      "D": "4596"
+    },
+    "answer": "A",
+    "explanation": "4 m = 4000 mm, 58 cm = 580 mm. 4000 + 580 + 6 = 4586 mm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Sam has 4 £1 coins, 2 20p coins, 1 5p coin. How much money is that in total (in pence)?",
+    "options": {
+      "A": "460p",
+      "B": "7p",
+      "C": "445p",
+      "D": "430p"
+    },
+    "answer": "C",
+    "explanation": "4×100p + 0×50p + 2×20p + 1×5p = 445p.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A roll of ribbon is 633 cm long. A piece 63 cm long is cut, then another piece 58 cm long is cut. How much ribbon is left, in cm?",
+    "options": {
+      "A": "502 cm",
+      "B": "522 cm",
+      "C": "512 cm",
+      "D": "628 cm"
+    },
+    "answer": "C",
+    "explanation": "633 - 63 - 58 = 512 cm.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in October, January and May combined?",
+    "options": {
+      "A": "62",
+      "B": "93",
+      "C": "94",
+      "D": "92"
+    },
+    "answer": "B",
+    "explanation": "31 + 31 + 31 = 93 days.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Three bottles hold 546 ml, 160 ml and 185 ml. What is the total in ml?",
+    "options": {
+      "A": "991",
+      "B": "345",
+      "C": "791",
+      "D": "891"
+    },
+    "answer": "D",
+    "explanation": "546 + 160 + 185 = 891 ml.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "2 day(s) and 12 hours is the same as how many hours?",
+    "options": {
+      "A": "36",
+      "B": "14",
+      "C": "60",
+      "D": "65"
+    },
+    "answer": "C",
+    "explanation": "2 day(s) = 48 hours. 48 + 12 = 60 hours.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which is longer: 400 cm or 4003 mm?",
+    "options": {
+      "A": "They are the same length",
+      "B": "400 cm",
+      "C": "4004 mm",
+      "D": "4003 mm"
+    },
+    "answer": "D",
+    "explanation": "400 cm = 4000 mm. Comparing 4000 mm and 4003 mm, 4003 mm is longer.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Which holds more: 3 l or 2960 ml?",
+    "options": {
+      "A": "2960 ml",
+      "B": "3 l",
+      "C": "2965 ml",
+      "D": "They hold the same amount"
+    },
+    "answer": "B",
+    "explanation": "3 l = 3000 ml. Comparing 3000 ml and 2960 ml, 3 l holds more.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "How many days are in April, November and September combined?",
+    "options": {
+      "A": "90",
+      "B": "89",
+      "C": "60",
+      "D": "91"
+    },
+    "answer": "A",
+    "explanation": "30 + 30 + 30 = 90 days.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "A box weighs 3 kg 862 g. Another weighs 3 kg. What is their total weight in g?",
+    "options": {
+      "A": "6762 g",
+      "B": "6862 g",
+      "C": "6962 g",
+      "D": "868 g"
+    },
+    "answer": "B",
+    "explanation": "3 kg 862 g = 3862 g. 3 kg = 3000 g. Total = 6862 g.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "You pay with a £1 coin (100p) and get 58p change. How much did the item cost?",
+    "options": {
+      "A": "158p",
+      "B": "42p",
+      "C": "47p",
+      "D": "58p"
+    },
+    "answer": "B",
+    "explanation": "100p - 58p = 42p.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "7607 ml is the same as how many l and ml?",
+    "options": {
+      "A": "7 l and 607 ml",
+      "B": "8 l and 607 ml",
+      "C": "607 l and 7 ml",
+      "D": "7 l and 617 ml"
+    },
+    "answer": "A",
+    "explanation": "7607 ml = 7 × 1000 ml + 607 ml = 7 l and 607 ml.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Jack's rope is 9 times as long as Tara's rope. Jack's rope is 63 m long. How long is Tara's rope?",
+    "options": {
+      "A": "5 m",
+      "B": "54 m",
+      "C": "7 m",
+      "D": "16 m"
+    },
+    "answer": "C",
+    "explanation": "63 ÷ 9 = 7 m.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "Jack's rope is 5 times as long as Noah's rope. Jack's rope is 70 m long. How long is Noah's rope?",
+    "options": {
+      "A": "12 m",
+      "B": "19 m",
+      "C": "14 m",
+      "D": "65 m"
+    },
+    "answer": "C",
+    "explanation": "70 ÷ 5 = 14 m.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  },
+  {
+    "question": "You buy two items costing 49p and 21p. You pay with a £1 coin (100p). How much change do you get?",
+    "options": {
+      "A": "35p",
+      "B": "51p",
+      "C": "30p",
+      "D": "170p"
+    },
+    "answer": "C",
+    "explanation": "49p + 21p = 70p. 100p - 70p = 30p change.",
+    "difficulty": "hard",
+    "used": 0,
+    "type": "Measurement"
+  }
+]
