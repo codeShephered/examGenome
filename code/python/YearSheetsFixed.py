@@ -24,8 +24,8 @@ from reportlab.platypus import (
 # ============================================================
 # === Configuration ===
 # ============================================================
-INPUT_FILE = "../../jsons/year456/src/extracted_y3Number_placevalue.json"
-OUTPUT_PREFIX = "Year3 - Number Place and value"
+INPUT_FILE = "../../jsons/year456/src/extracted_y3Number_measurement.json"
+OUTPUT_PREFIX = "Year3 - Measurement"
 content_output = f"{OUTPUT_PREFIX}"
 TOTAL_PER_PDF = 30          # Questions per PDF
 QUESTIONS_PER_DIFFICULTY = TOTAL_PER_PDF // 3   # 10 easy + 10 medium + 10 hard = 30

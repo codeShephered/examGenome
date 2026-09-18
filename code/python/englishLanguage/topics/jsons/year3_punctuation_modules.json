@@ -1,0 +1,540 @@
+{
+  "modules": [
+    {
+      "topic_title": "Punctuation - Full Stops",
+      "explanation_rules": [
+        "Put a full stop at the end of a sentence that tells us something.",
+        "A full stop shows the reader that the sentence has finished.",
+        "Do not use a full stop if the sentence asks a question.",
+        "Start the next sentence with a capital letter after a full stop."
+      ],
+      "examples": [
+        {
+          "rule": "Rule 1",
+          "sentence": "The dog ran fast."
+        },
+        {
+          "rule": "Rule 2",
+          "sentence": "We went to the park."
+        },
+        {
+          "rule": "Rule 3",
+          "sentence": "Can I have a biscuit?"
+        },
+        {
+          "rule": "Rule 4",
+          "sentence": "The sun is hot. It shines every day."
+        }
+      ],
+      "questions": [
+        {
+          "question_number": 1,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"The cat is sleeping__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 2,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"We played in the garden__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This is a telling sentence, so it ends with a full stop."
+        },
+        {
+          "question_number": 3,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"I have a red bike__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us a fact, so it needs a full stop."
+        },
+        {
+          "question_number": 4,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"The bird flew away__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence is finished, so it needs a full stop."
+        },
+        {
+          "question_number": 5,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"She likes chocolate cake__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 6,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"The sky is blue\"",
+          "answer": "The sky is blue.",
+          "explanation": "A full stop is added because the sentence tells us something."
+        },
+        {
+          "question_number": 7,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"My friend is kind\"",
+          "answer": "My friend is kind.",
+          "explanation": "A full stop is added to show the sentence has ended."
+        },
+        {
+          "question_number": 8,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"We went to school today\"",
+          "answer": "We went to school today.",
+          "explanation": "A full stop is added because this is a telling sentence."
+        },
+        {
+          "question_number": 9,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence has a full stop in the wrong place. Fix it: \"The. cat ran fast.\"",
+          "answer": "The cat ran fast.",
+          "explanation": "A full stop only belongs at the very end of a sentence."
+        },
+        {
+          "question_number": 10,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"I like dogs?\"",
+          "answer": "I like dogs.",
+          "explanation": "This sentence tells us something, so it needs a full stop, not a question mark."
+        },
+        {
+          "question_number": 11,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence about your pet or favourite animal. Remember to use a full stop.",
+          "answer": "Example: My rabbit likes to eat carrots.",
+          "explanation": "Any telling sentence that ends with a full stop is correct."
+        },
+        {
+          "question_number": 12,
+          "difficulty": "Advanced",
+          "question_text": "Complete this sentence and add a full stop: \"My favourite food is ___\"",
+          "answer": "Example: My favourite food is pizza.",
+          "explanation": "The finished sentence must end with a full stop."
+        },
+        {
+          "question_number": 13,
+          "difficulty": "Advanced",
+          "question_text": "Write two short sentences about the weather today. Use a full stop after each one.",
+          "answer": "Example: It is sunny today. The sky is clear.",
+          "explanation": "Each telling sentence needs its own full stop at the end."
+        },
+        {
+          "question_number": 14,
+          "difficulty": "Advanced",
+          "question_text": "Turn this into a correct sentence: \"the boy ran home\"",
+          "answer": "The boy ran home.",
+          "explanation": "Add a capital letter at the start and a full stop at the end."
+        },
+        {
+          "question_number": 15,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence about something you did yesterday. End it with a full stop.",
+          "answer": "Example: I played in the garden yesterday.",
+          "explanation": "Any telling sentence ending with a full stop is correct."
+        }
+      ]
+    },
+    {
+      "topic_title": "Punctuation - Question Marks",
+      "explanation_rules": [
+        "Use a question mark at the end of a sentence that asks something.",
+        "A question mark tells the reader that someone is asking a question.",
+        "Words like what, why, who, where and how often start a question.",
+        "Do not use a question mark if the sentence only tells us something."
+      ],
+      "examples": [
+        {
+          "rule": "Rule 1",
+          "sentence": "What is your name?"
+        },
+        {
+          "rule": "Rule 2",
+          "sentence": "Do you like ice cream?"
+        },
+        {
+          "rule": "Rule 3",
+          "sentence": "Where do you live?"
+        },
+        {
+          "rule": "Rule 4",
+          "sentence": "The sky is blue."
+        }
+      ],
+      "questions": [
+        {
+          "question_number": 1,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"What is your favourite colour__\"",
+          "answer": "A question mark (?)",
+          "explanation": "This sentence asks something, so it needs a question mark."
+        },
+        {
+          "question_number": 2,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Where is the library__\"",
+          "answer": "A question mark (?)",
+          "explanation": "This sentence is a question, so it ends with a question mark."
+        },
+        {
+          "question_number": 3,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Can we go outside__\"",
+          "answer": "A question mark (?)",
+          "explanation": "This sentence asks for something, so it needs a question mark."
+        },
+        {
+          "question_number": 4,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Who is your best friend__\"",
+          "answer": "A question mark (?)",
+          "explanation": "This sentence asks something, so it needs a question mark."
+        },
+        {
+          "question_number": 5,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"How old are you__\"",
+          "answer": "A question mark (?)",
+          "explanation": "This sentence is a question, so it needs a question mark."
+        },
+        {
+          "question_number": 6,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"What time is it\"",
+          "answer": "What time is it?",
+          "explanation": "A question mark is added because this sentence asks something."
+        },
+        {
+          "question_number": 7,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"Why is the dog barking\"",
+          "answer": "Why is the dog barking?",
+          "explanation": "A question mark is added because this sentence is a question."
+        },
+        {
+          "question_number": 8,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"Do you like pizza.\"",
+          "answer": "Do you like pizza?",
+          "explanation": "This sentence asks something, so it needs a question mark, not a full stop."
+        },
+        {
+          "question_number": 9,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"Where are my shoes.\"",
+          "answer": "Where are my shoes?",
+          "explanation": "This sentence is a question, so it needs a question mark, not a full stop."
+        },
+        {
+          "question_number": 10,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"The sun is hot?\"",
+          "answer": "The sun is hot.",
+          "explanation": "This sentence only tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 11,
+          "difficulty": "Advanced",
+          "question_text": "Write a question you could ask a new friend. Use a question mark.",
+          "answer": "Example: What is your name?",
+          "explanation": "Any sentence that asks something and ends with a question mark is correct."
+        },
+        {
+          "question_number": 12,
+          "difficulty": "Advanced",
+          "question_text": "Complete this question and add a question mark: \"What is your favourite ___\"",
+          "answer": "Example: What is your favourite animal?",
+          "explanation": "The finished question must end with a question mark."
+        },
+        {
+          "question_number": 13,
+          "difficulty": "Advanced",
+          "question_text": "Turn this into a question with a question mark: \"you like reading books\"",
+          "answer": "Do you like reading books?",
+          "explanation": "Adding \"Do\" and a question mark turns this into a question."
+        },
+        {
+          "question_number": 14,
+          "difficulty": "Advanced",
+          "question_text": "Write a question about the weather. Use a question mark.",
+          "answer": "Example: Is it raining outside?",
+          "explanation": "Any weather question ending with a question mark is correct."
+        },
+        {
+          "question_number": 15,
+          "difficulty": "Advanced",
+          "question_text": "Write two questions about your school day. Use a question mark after each.",
+          "answer": "Example: What did you learn today? Who did you play with?",
+          "explanation": "Each question needs its own question mark at the end."
+        }
+      ]
+    },
+    {
+      "topic_title": "Punctuation - Speech Marks (Inverted Commas)",
+      "explanation_rules": [
+        "Use speech marks around the exact words a person says.",
+        "Start the spoken words with a capital letter.",
+        "Put the end punctuation inside the speech marks.",
+        "Speech marks always come in pairs, before and after the words."
+      ],
+      "examples": [
+        {
+          "rule": "Rule 1",
+          "sentence": "The boy said, \"I am hungry.\""
+        },
+        {
+          "rule": "Rule 2",
+          "sentence": "\"Where are we going?\" asked Mia."
+        },
+        {
+          "rule": "Rule 3",
+          "sentence": "Sam shouted, \"Look out!\""
+        },
+        {
+          "rule": "Rule 4",
+          "sentence": "\"I love this book,\" said Ben."
+        }
+      ],
+      "questions": [
+        {
+          "question_number": 1,
+          "difficulty": "Basic",
+          "question_text": "Which words need speech marks around them? Tom said, I am tired.",
+          "answer": "I am tired",
+          "explanation": "Speech marks go around the exact words that Tom said."
+        },
+        {
+          "question_number": 2,
+          "difficulty": "Basic",
+          "question_text": "Which words need speech marks around them? Lucy shouted, Watch out!",
+          "answer": "Watch out!",
+          "explanation": "Speech marks go around the exact words that Lucy shouted."
+        },
+        {
+          "question_number": 3,
+          "difficulty": "Basic",
+          "question_text": "Which words need speech marks around them? The teacher said, Sit down please.",
+          "answer": "Sit down please",
+          "explanation": "Speech marks go around the exact words the teacher said."
+        },
+        {
+          "question_number": 4,
+          "difficulty": "Basic",
+          "question_text": "Which words need speech marks around them? Ben asked, Can I go home?",
+          "answer": "Can I go home?",
+          "explanation": "Speech marks go around the exact words Ben asked."
+        },
+        {
+          "question_number": 5,
+          "difficulty": "Basic",
+          "question_text": "Which words need speech marks around them? Mum said, Dinner is ready.",
+          "answer": "Dinner is ready",
+          "explanation": "Speech marks go around the exact words Mum said."
+        },
+        {
+          "question_number": 6,
+          "difficulty": "Intermediate",
+          "question_text": "Add speech marks to this sentence: Sam said, I am happy.",
+          "answer": "Sam said, \"I am happy.\"",
+          "explanation": "Speech marks wrap around the words Sam actually said."
+        },
+        {
+          "question_number": 7,
+          "difficulty": "Intermediate",
+          "question_text": "Add speech marks to this sentence: The girl shouted, Help me!",
+          "answer": "The girl shouted, \"Help me!\"",
+          "explanation": "Speech marks wrap around the words the girl shouted."
+        },
+        {
+          "question_number": 8,
+          "difficulty": "Intermediate",
+          "question_text": "Add speech marks to this sentence: Dad asked, Where are my keys?",
+          "answer": "Dad asked, \"Where are my keys?\"",
+          "explanation": "Speech marks wrap around the words Dad asked."
+        },
+        {
+          "question_number": 9,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence is missing a speech mark. Fix it: \"The cat is soft, said Mia.",
+          "answer": "\"The cat is soft,\" said Mia.",
+          "explanation": "A closing speech mark is needed after the spoken words."
+        },
+        {
+          "question_number": 10,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence is missing a full stop inside the speech marks. Fix it: The dog barked, \"Woof woof\"",
+          "answer": "The dog barked, \"Woof woof.\"",
+          "explanation": "The full stop goes inside the speech marks, after the spoken words."
+        },
+        {
+          "question_number": 11,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence where a character says \"I am scared.\" Use speech marks correctly.",
+          "answer": "Example: Leo whispered, \"I am scared.\"",
+          "explanation": "The spoken words sit inside speech marks, with a capital letter to start."
+        },
+        {
+          "question_number": 12,
+          "difficulty": "Advanced",
+          "question_text": "Complete this sentence with speech marks: Ellie said, ___",
+          "answer": "Example: Ellie said, \"I love painting.\"",
+          "explanation": "Speech marks must wrap around whatever Ellie is said to say."
+        },
+        {
+          "question_number": 13,
+          "difficulty": "Advanced",
+          "question_text": "Turn this into direct speech with speech marks: Jack told his mum he was tired.",
+          "answer": "Jack said, \"I am tired.\"",
+          "explanation": "Direct speech uses the person's exact words inside speech marks."
+        },
+        {
+          "question_number": 14,
+          "difficulty": "Advanced",
+          "question_text": "Write what a teacher might say to a class. Use speech marks.",
+          "answer": "Example: The teacher said, \"Please sit down.\"",
+          "explanation": "The teacher's exact words go inside a pair of speech marks."
+        },
+        {
+          "question_number": 15,
+          "difficulty": "Advanced",
+          "question_text": "Write a short conversation of two sentences. Use speech marks correctly in both.",
+          "answer": "Example: \"Are you coming?\" asked Sam. \"Yes, wait for me!\" replied Ana.",
+          "explanation": "Each person's exact spoken words need their own pair of speech marks."
+        }
+      ]
+    },
+    {
+      "topic_title": "Punctuation - Capital Letters",
+      "explanation_rules": [
+        "Start every sentence with a capital letter.",
+        "Always write the word \"I\" as a capital letter.",
+        "Use a capital letter for names of people, places, days and months.",
+        "Use a capital letter for the first word inside speech marks."
+      ],
+      "examples": [
+        {
+          "rule": "Rule 1",
+          "sentence": "The sun is shining today."
+        },
+        {
+          "rule": "Rule 2",
+          "sentence": "I went to the park with my dad."
+        },
+        {
+          "rule": "Rule 3",
+          "sentence": "Sarah lives in London and visits on Monday."
+        },
+        {
+          "rule": "Rule 4",
+          "sentence": "Ben said, \"Let's go home.\""
+        }
+      ],
+      "questions": [
+        {
+          "question_number": 1,
+          "difficulty": "Basic",
+          "question_text": "Which word needs a capital letter? \"the sun is hot today.\"",
+          "answer": "the (should be The)",
+          "explanation": "Every sentence must start with a capital letter."
+        },
+        {
+          "question_number": 2,
+          "difficulty": "Basic",
+          "question_text": "Which word needs a capital letter? \"i like to play football.\"",
+          "answer": "i (should be I)",
+          "explanation": "The word \"I\" is always written as a capital letter."
+        },
+        {
+          "question_number": 3,
+          "difficulty": "Basic",
+          "question_text": "Which word needs a capital letter? \"we live in london.\"",
+          "answer": "london (should be London)",
+          "explanation": "Place names always start with a capital letter."
+        },
+        {
+          "question_number": 4,
+          "difficulty": "Basic",
+          "question_text": "Which word needs a capital letter? \"my friend is called sam.\"",
+          "answer": "sam (should be Sam)",
+          "explanation": "People's names always start with a capital letter."
+        },
+        {
+          "question_number": 5,
+          "difficulty": "Basic",
+          "question_text": "Which word needs a capital letter? \"we go to school on monday.\"",
+          "answer": "monday (should be Monday)",
+          "explanation": "Day names always start with a capital letter."
+        },
+        {
+          "question_number": 6,
+          "difficulty": "Intermediate",
+          "question_text": "Fix the capital letters in this sentence: \"sarah went to the shop.\"",
+          "answer": "Sarah went to the shop.",
+          "explanation": "Sarah is a name, so it needs a capital letter."
+        },
+        {
+          "question_number": 7,
+          "difficulty": "Intermediate",
+          "question_text": "Fix the capital letters in this sentence: \"i have a pet cat.\"",
+          "answer": "I have a pet cat.",
+          "explanation": "The word \"I\" always needs a capital letter."
+        },
+        {
+          "question_number": 8,
+          "difficulty": "Intermediate",
+          "question_text": "Fix the capital letters in this sentence: \"we visited paris last year.\"",
+          "answer": "We visited Paris last year.",
+          "explanation": "The sentence start and the place name both need capital letters."
+        },
+        {
+          "question_number": 9,
+          "difficulty": "Intermediate",
+          "question_text": "Fix the capital letter in this sentence: Tom said, \"let's play outside.\"",
+          "answer": "Tom said, \"Let's play outside.\"",
+          "explanation": "The first word inside speech marks needs a capital letter."
+        },
+        {
+          "question_number": 10,
+          "difficulty": "Intermediate",
+          "question_text": "Fix the capital letters in this sentence: \"my birthday is in april.\"",
+          "answer": "My birthday is in April.",
+          "explanation": "The sentence start and the month name both need capital letters."
+        },
+        {
+          "question_number": 11,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence with your name in it. Remember the capital letter.",
+          "answer": "Example: My name is Priya.",
+          "explanation": "Names always start with a capital letter, wherever they appear."
+        },
+        {
+          "question_number": 12,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence about a country you know. Use a capital letter for its name.",
+          "answer": "Example: I would like to visit France.",
+          "explanation": "Country names always start with a capital letter."
+        },
+        {
+          "question_number": 13,
+          "difficulty": "Advanced",
+          "question_text": "Complete this sentence correctly: \"___ is my favourite day of the week.\"",
+          "answer": "Example: Friday is my favourite day of the week.",
+          "explanation": "Day names always start with a capital letter."
+        },
+        {
+          "question_number": 14,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence using the word \"I\". Remember the capital letter.",
+          "answer": "Example: I enjoy reading every evening.",
+          "explanation": "The word \"I\" is always written as a capital letter."
+        },
+        {
+          "question_number": 15,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence about someone speaking. Start their words with a capital letter.",
+          "answer": "Example: Mia said, \"Let's build a sandcastle.\"",
+          "explanation": "The first word inside the speech marks needs a capital letter."
+        }
+      ]
+    }
+  ]
+}

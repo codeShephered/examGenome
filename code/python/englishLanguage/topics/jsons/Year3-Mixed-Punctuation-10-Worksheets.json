@@ -1,0 +1,1344 @@
+{
+  "modules": [
+    {
+      "topic_title": "Punctuation - Full Stop, Question Mark, Speech Mark, Capital Letters",
+      "explanation_rules": [
+        "Put a full stop at the end of a sentence that tells us something.",
+        "Put a question mark at the end of a sentence that asks something.",
+        "Put speech marks around the exact words someone says.",
+        "Start every sentence, name, and place with a capital letter."
+      ],
+      "examples": [
+        {
+          "rule": "Rule 1",
+          "sentence": "The dog ran fast."
+        },
+        {
+          "rule": "Rule 2",
+          "sentence": "What is your name?"
+        },
+        {
+          "rule": "Rule 3",
+          "sentence": "Tom said, \"I am happy.\""
+        },
+        {
+          "rule": "Rule 4",
+          "sentence": "Sarah lives in London."
+        }
+      ],
+      "questions": [
+        {
+          "question_number": 1,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Freya is playing in the forest__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 2,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Can Oscar come to my party__\"",
+          "answer": "A question mark (?)",
+          "explanation": "This sentence asks something, so it needs a question mark."
+        },
+        {
+          "question_number": 3,
+          "difficulty": "Basic",
+          "question_text": "Which word needs a capital letter? \"sam can run very fast.\"",
+          "answer": "sam (should be Sam)",
+          "explanation": "Every sentence must start with a capital letter."
+        },
+        {
+          "question_number": 4,
+          "difficulty": "Basic",
+          "question_text": "Which words need speech marks around them? Harry asked, What time is it?",
+          "answer": "What time is it",
+          "explanation": "Speech marks go around the exact words that Harry asked."
+        },
+        {
+          "question_number": 5,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Zara ate some spaghetti__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 6,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"Who is your best friend.\"",
+          "answer": "Who is your best friend?",
+          "explanation": "This sentence asks something, so it needs a question mark, not a full stop."
+        },
+        {
+          "question_number": 7,
+          "difficulty": "Intermediate",
+          "question_text": "Fix the capital letters in this sentence: \"finn is very kind.\"",
+          "answer": "Finn is very kind.",
+          "explanation": "Names always start with a capital letter."
+        },
+        {
+          "question_number": 8,
+          "difficulty": "Intermediate",
+          "question_text": "Add speech marks to this sentence: Ivy asked, What time is it?",
+          "answer": "Ivy asked, \"What time is it?\"",
+          "explanation": "Speech marks wrap around the words Ivy actually asked."
+        },
+        {
+          "question_number": 9,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"My puppy loves to play\"",
+          "answer": "My puppy loves to play.",
+          "explanation": "A full stop is added because the sentence tells us something."
+        },
+        {
+          "question_number": 10,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"When is your birthday.\"",
+          "answer": "When is your birthday?",
+          "explanation": "This sentence asks something, so it needs a question mark, not a full stop."
+        },
+        {
+          "question_number": 11,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence about a place you know. Use a capital letter for its name.",
+          "answer": "Example: I would like to visit Oxford.",
+          "explanation": "Place names always start with a capital letter."
+        },
+        {
+          "question_number": 12,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence where Ravi says \"Watch out!\" Use speech marks correctly.",
+          "answer": "Ravi said, \"Watch out!\"",
+          "explanation": "The spoken words sit inside speech marks, with a capital letter to start."
+        },
+        {
+          "question_number": 13,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence about your family. Remember to use a full stop.",
+          "answer": "Example: My family went to the park.",
+          "explanation": "Any telling sentence that ends with a full stop is correct."
+        },
+        {
+          "question_number": 14,
+          "difficulty": "Advanced",
+          "question_text": "Turn this into a question: \"you like ice cream\"",
+          "answer": "Do you like ice cream?",
+          "explanation": "Adding \"Do\" and a question mark turns this into a question."
+        },
+        {
+          "question_number": 15,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence with your name in it. Remember the capital letter.",
+          "answer": "Example: My name is Ben.",
+          "explanation": "Names always start with a capital letter."
+        }
+      ]
+    },
+    {
+      "topic_title": "Punctuation - Full Stop, Question Mark, Speech Mark, Capital Letters",
+      "explanation_rules": [
+        "Put a full stop at the end of a sentence that tells us something.",
+        "Put a question mark at the end of a sentence that asks something.",
+        "Put speech marks around the exact words someone says.",
+        "Start every sentence, name, and place with a capital letter."
+      ],
+      "examples": [
+        {
+          "rule": "Rule 1",
+          "sentence": "The dog ran fast."
+        },
+        {
+          "rule": "Rule 2",
+          "sentence": "What is your name?"
+        },
+        {
+          "rule": "Rule 3",
+          "sentence": "Tom said, \"I am happy.\""
+        },
+        {
+          "rule": "Rule 4",
+          "sentence": "Sarah lives in London."
+        }
+      ],
+      "questions": [
+        {
+          "question_number": 1,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Amy can run very fast__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 2,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Do you like pancakes__\"",
+          "answer": "A question mark (?)",
+          "explanation": "This sentence asks something, so it needs a question mark."
+        },
+        {
+          "question_number": 3,
+          "difficulty": "Basic",
+          "question_text": "Which word needs a capital letter? \"we live in bristol.\"",
+          "answer": "bristol (should be Bristol)",
+          "explanation": "Place names always start with a capital letter."
+        },
+        {
+          "question_number": 4,
+          "difficulty": "Basic",
+          "question_text": "Which words need speech marks around them? Zara shouted, Look out!",
+          "answer": "Look out",
+          "explanation": "Speech marks go around the exact words that Zara shouted."
+        },
+        {
+          "question_number": 5,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Tara is reading a book__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 6,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"Where is the playground.\"",
+          "answer": "Where is the playground?",
+          "explanation": "This sentence asks something, so it needs a question mark, not a full stop."
+        },
+        {
+          "question_number": 7,
+          "difficulty": "Intermediate",
+          "question_text": "Fix the capital letters in this sentence: \"umar is playing in the playground.\"",
+          "answer": "Umar is playing in the playground.",
+          "explanation": "Every sentence must start with a capital letter."
+        },
+        {
+          "question_number": 8,
+          "difficulty": "Intermediate",
+          "question_text": "Add speech marks to this sentence: Grace asked, Where are we going?",
+          "answer": "Grace asked, \"Where are we going?\"",
+          "explanation": "Speech marks wrap around the words Grace actually asked."
+        },
+        {
+          "question_number": 9,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"Ravi ate some chocolate cake\"",
+          "answer": "Ravi ate some chocolate cake.",
+          "explanation": "A full stop is added because the sentence tells us something."
+        },
+        {
+          "question_number": 10,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"Where is the beach\"",
+          "answer": "Where is the beach?",
+          "explanation": "A question mark is added because this sentence asks something."
+        },
+        {
+          "question_number": 11,
+          "difficulty": "Advanced",
+          "question_text": "Complete this sentence correctly: \"___ is my favourite day of the week.\"",
+          "answer": "Example: Sunday is my favourite day of the week.",
+          "explanation": "Day names always start with a capital letter."
+        },
+        {
+          "question_number": 12,
+          "difficulty": "Advanced",
+          "question_text": "Complete this sentence with speech marks: Harry said, ___",
+          "answer": "Example: Harry said, \"I love painting.\"",
+          "explanation": "Speech marks must wrap around whatever is actually said."
+        },
+        {
+          "question_number": 13,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence about your best friend. Remember to use a full stop.",
+          "answer": "Example: My best friend is kind.",
+          "explanation": "Any telling sentence that ends with a full stop is correct."
+        },
+        {
+          "question_number": 14,
+          "difficulty": "Advanced",
+          "question_text": "Write a question about the weather. Use a question mark.",
+          "answer": "Example: Is it raining outside?",
+          "explanation": "Any question ending with a question mark is correct."
+        },
+        {
+          "question_number": 15,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence using the word \"I\". Remember the capital letter.",
+          "answer": "Example: I enjoy reading every evening.",
+          "explanation": "The word \"I\" is always written as a capital letter."
+        }
+      ]
+    },
+    {
+      "topic_title": "Punctuation - Full Stop, Question Mark, Speech Mark, Capital Letters",
+      "explanation_rules": [
+        "Put a full stop at the end of a sentence that tells us something.",
+        "Put a question mark at the end of a sentence that asks something.",
+        "Put speech marks around the exact words someone says.",
+        "Start every sentence, name, and place with a capital letter."
+      ],
+      "examples": [
+        {
+          "rule": "Rule 1",
+          "sentence": "The dog ran fast."
+        },
+        {
+          "rule": "Rule 2",
+          "sentence": "What is your name?"
+        },
+        {
+          "rule": "Rule 3",
+          "sentence": "Tom said, \"I am happy.\""
+        },
+        {
+          "rule": "Rule 4",
+          "sentence": "Sarah lives in London."
+        }
+      ],
+      "questions": [
+        {
+          "question_number": 1,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"My bird loves to play__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 2,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Does Noah have a pet hamster__\"",
+          "answer": "A question mark (?)",
+          "explanation": "This sentence asks something, so it needs a question mark."
+        },
+        {
+          "question_number": 3,
+          "difficulty": "Basic",
+          "question_text": "Which word needs a capital letter? \"we go swimming on thursday.\"",
+          "answer": "thursday (should be Thursday)",
+          "explanation": "Day names always start with a capital letter."
+        },
+        {
+          "question_number": 4,
+          "difficulty": "Basic",
+          "question_text": "Which words need speech marks around them? Ella asked, What time is it?",
+          "answer": "What time is it",
+          "explanation": "Speech marks go around the exact words that Ella asked."
+        },
+        {
+          "question_number": 5,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Noah is reading a book__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 6,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"Where is the classroom\"",
+          "answer": "Where is the classroom?",
+          "explanation": "A question mark is added because this sentence asks something."
+        },
+        {
+          "question_number": 7,
+          "difficulty": "Intermediate",
+          "question_text": "Fix the capital letters in this sentence: \"zara went to the shop.\"",
+          "answer": "Zara went to the shop.",
+          "explanation": "Names always start with a capital letter."
+        },
+        {
+          "question_number": 8,
+          "difficulty": "Intermediate",
+          "question_text": "Add speech marks to this sentence: Dan said, I am so excited.",
+          "answer": "Dan said, \"I am so excited.\"",
+          "explanation": "Speech marks wrap around the words Dan actually said."
+        },
+        {
+          "question_number": 9,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"We went to the classroom\"",
+          "answer": "We went to the classroom.",
+          "explanation": "A full stop is added because the sentence tells us something."
+        },
+        {
+          "question_number": 10,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"Do you like carrots.\"",
+          "answer": "Do you like carrots?",
+          "explanation": "This sentence asks something, so it needs a question mark, not a full stop."
+        },
+        {
+          "question_number": 11,
+          "difficulty": "Advanced",
+          "question_text": "Spot the mistake: \"my friend is called ella.\"",
+          "answer": "ella should be Ella.",
+          "explanation": "Names always start with a capital letter."
+        },
+        {
+          "question_number": 12,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence where Ivy says \"Can we go now?\" Use speech marks correctly.",
+          "answer": "Ivy said, \"Can we go now?\"",
+          "explanation": "The spoken words sit inside speech marks, with a capital letter to start."
+        },
+        {
+          "question_number": 13,
+          "difficulty": "Advanced",
+          "question_text": "Rewrite this correctly: \"priya and I are best friends\"",
+          "answer": "Priya and I are best friends.",
+          "explanation": "Add a capital letter at the start and a full stop at the end."
+        },
+        {
+          "question_number": 14,
+          "difficulty": "Advanced",
+          "question_text": "Turn this into a question: \"you play football\"",
+          "answer": "Do you play football?",
+          "explanation": "Adding \"Do\" and a question mark turns this into a question."
+        },
+        {
+          "question_number": 15,
+          "difficulty": "Advanced",
+          "question_text": "Spot the mistake: \"my friend is called ivy.\"",
+          "answer": "ivy should be Ivy.",
+          "explanation": "Names always start with a capital letter."
+        }
+      ]
+    },
+    {
+      "topic_title": "Punctuation - Full Stop, Question Mark, Speech Mark, Capital Letters",
+      "explanation_rules": [
+        "Put a full stop at the end of a sentence that tells us something.",
+        "Put a question mark at the end of a sentence that asks something.",
+        "Put speech marks around the exact words someone says.",
+        "Start every sentence, name, and place with a capital letter."
+      ],
+      "examples": [
+        {
+          "rule": "Rule 1",
+          "sentence": "The dog ran fast."
+        },
+        {
+          "rule": "Rule 2",
+          "sentence": "What is your name?"
+        },
+        {
+          "rule": "Rule 3",
+          "sentence": "Tom said, \"I am happy.\""
+        },
+        {
+          "rule": "Rule 4",
+          "sentence": "Sarah lives in London."
+        }
+      ],
+      "questions": [
+        {
+          "question_number": 1,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Ravi is playing in the shop__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 2,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Who is your best friend__\"",
+          "answer": "A question mark (?)",
+          "explanation": "This sentence asks something, so it needs a question mark."
+        },
+        {
+          "question_number": 3,
+          "difficulty": "Basic",
+          "question_text": "Which word needs a capital letter? \"we go swimming on tuesday.\"",
+          "answer": "tuesday (should be Tuesday)",
+          "explanation": "Day names always start with a capital letter."
+        },
+        {
+          "question_number": 4,
+          "difficulty": "Basic",
+          "question_text": "Which words need speech marks around them? Zara replied, Let's play outside.",
+          "answer": "Let's play outside",
+          "explanation": "Speech marks go around the exact words that Zara replied."
+        },
+        {
+          "question_number": 5,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Theo is playing in the farm__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 6,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"Do you like soup.\"",
+          "answer": "Do you like soup?",
+          "explanation": "This sentence asks something, so it needs a question mark, not a full stop."
+        },
+        {
+          "question_number": 7,
+          "difficulty": "Intermediate",
+          "question_text": "Fix the capital letters in this sentence: \"chloe plays football.\"",
+          "answer": "Chloe plays football.",
+          "explanation": "Names always start with a capital letter."
+        },
+        {
+          "question_number": 8,
+          "difficulty": "Intermediate",
+          "question_text": "Add speech marks to this sentence: Ella shouted, Stop right there!",
+          "answer": "Ella shouted, \"Stop right there!\"",
+          "explanation": "Speech marks wrap around the words Ella actually shouted."
+        },
+        {
+          "question_number": 9,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"Dan is reading a book\"",
+          "answer": "Dan is reading a book.",
+          "explanation": "A full stop is added because the sentence tells us something."
+        },
+        {
+          "question_number": 10,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"Who is your best friend\"",
+          "answer": "Who is your best friend?",
+          "explanation": "A question mark is added because this sentence asks something."
+        },
+        {
+          "question_number": 11,
+          "difficulty": "Advanced",
+          "question_text": "Spot the mistake: \"my friend is called tara.\"",
+          "answer": "tara should be Tara.",
+          "explanation": "Names always start with a capital letter."
+        },
+        {
+          "question_number": 12,
+          "difficulty": "Advanced",
+          "question_text": "Complete this sentence with speech marks: Mia said, ___",
+          "answer": "Example: Mia said, \"I love painting.\"",
+          "explanation": "Speech marks must wrap around whatever is actually said."
+        },
+        {
+          "question_number": 13,
+          "difficulty": "Advanced",
+          "question_text": "Rewrite this correctly: \"the cat is sleeping\"",
+          "answer": "The cat is sleeping.",
+          "explanation": "Add a capital letter at the start and a full stop at the end."
+        },
+        {
+          "question_number": 14,
+          "difficulty": "Advanced",
+          "question_text": "Write a question about your school day. Use a question mark.",
+          "answer": "Example: What did you learn today?",
+          "explanation": "Any question ending with a question mark is correct."
+        },
+        {
+          "question_number": 15,
+          "difficulty": "Advanced",
+          "question_text": "Spot the mistake: \"my friend is called freya.\"",
+          "answer": "freya should be Freya.",
+          "explanation": "Names always start with a capital letter."
+        }
+      ]
+    },
+    {
+      "topic_title": "Punctuation - Full Stop, Question Mark, Speech Mark, Capital Letters",
+      "explanation_rules": [
+        "Put a full stop at the end of a sentence that tells us something.",
+        "Put a question mark at the end of a sentence that asks something.",
+        "Put speech marks around the exact words someone says.",
+        "Start every sentence, name, and place with a capital letter."
+      ],
+      "examples": [
+        {
+          "rule": "Rule 1",
+          "sentence": "The dog ran fast."
+        },
+        {
+          "rule": "Rule 2",
+          "sentence": "What is your name?"
+        },
+        {
+          "rule": "Rule 3",
+          "sentence": "Tom said, \"I am happy.\""
+        },
+        {
+          "rule": "Rule 4",
+          "sentence": "Sarah lives in London."
+        }
+      ],
+      "questions": [
+        {
+          "question_number": 1,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"We went to the park__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 2,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Can Dan come to my party__\"",
+          "answer": "A question mark (?)",
+          "explanation": "This sentence asks something, so it needs a question mark."
+        },
+        {
+          "question_number": 3,
+          "difficulty": "Basic",
+          "question_text": "Which word needs a capital letter? \"we live in leeds.\"",
+          "answer": "leeds (should be Leeds)",
+          "explanation": "Place names always start with a capital letter."
+        },
+        {
+          "question_number": 4,
+          "difficulty": "Basic",
+          "question_text": "Which words need speech marks around them? Ravi replied, Let's play outside.",
+          "answer": "Let's play outside",
+          "explanation": "Speech marks go around the exact words that Ravi replied."
+        },
+        {
+          "question_number": 5,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"We went to the library__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 6,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"Do you like ice cream.\"",
+          "answer": "Do you like ice cream?",
+          "explanation": "This sentence asks something, so it needs a question mark, not a full stop."
+        },
+        {
+          "question_number": 7,
+          "difficulty": "Intermediate",
+          "question_text": "Fix the capital letters in this sentence: \"we go swimming on monday.\"",
+          "answer": "We go swimming on Monday.",
+          "explanation": "Sentence start and day names need capital letters."
+        },
+        {
+          "question_number": 8,
+          "difficulty": "Intermediate",
+          "question_text": "Add speech marks to this sentence: Amy whispered, Dinner is ready.",
+          "answer": "Amy whispered, \"Dinner is ready.\"",
+          "explanation": "Speech marks wrap around the words Amy actually whispered."
+        },
+        {
+          "question_number": 9,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"Grace has a pet fish\"",
+          "answer": "Grace has a pet fish.",
+          "explanation": "A full stop is added because the sentence tells us something."
+        },
+        {
+          "question_number": 10,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"What is your favourite game\"",
+          "answer": "What is your favourite game?",
+          "explanation": "A question mark is added because this sentence asks something."
+        },
+        {
+          "question_number": 11,
+          "difficulty": "Advanced",
+          "question_text": "Spot the mistake: \"my friend is called zara.\"",
+          "answer": "zara should be Zara.",
+          "explanation": "Names always start with a capital letter."
+        },
+        {
+          "question_number": 12,
+          "difficulty": "Advanced",
+          "question_text": "Complete this sentence with speech marks: Freya said, ___",
+          "answer": "Example: Freya said, \"I love painting.\"",
+          "explanation": "Speech marks must wrap around whatever is actually said."
+        },
+        {
+          "question_number": 13,
+          "difficulty": "Advanced",
+          "question_text": "Rewrite this correctly: \"my hamster loves to play\"",
+          "answer": "My hamster loves to play.",
+          "explanation": "Add a capital letter at the start and a full stop at the end."
+        },
+        {
+          "question_number": 14,
+          "difficulty": "Advanced",
+          "question_text": "Write a question about your holiday. Use a question mark.",
+          "answer": "Example: Where did you go on holiday?",
+          "explanation": "Any question ending with a question mark is correct."
+        },
+        {
+          "question_number": 15,
+          "difficulty": "Advanced",
+          "question_text": "Spot the mistake: \"my friend is called jack.\"",
+          "answer": "jack should be Jack.",
+          "explanation": "Names always start with a capital letter."
+        }
+      ]
+    },
+    {
+      "topic_title": "Punctuation - Full Stop, Question Mark, Speech Mark, Capital Letters",
+      "explanation_rules": [
+        "Put a full stop at the end of a sentence that tells us something.",
+        "Put a question mark at the end of a sentence that asks something.",
+        "Put speech marks around the exact words someone says.",
+        "Start every sentence, name, and place with a capital letter."
+      ],
+      "examples": [
+        {
+          "rule": "Rule 1",
+          "sentence": "The dog ran fast."
+        },
+        {
+          "rule": "Rule 2",
+          "sentence": "What is your name?"
+        },
+        {
+          "rule": "Rule 3",
+          "sentence": "Tom said, \"I am happy.\""
+        },
+        {
+          "rule": "Rule 4",
+          "sentence": "Sarah lives in London."
+        }
+      ],
+      "questions": [
+        {
+          "question_number": 1,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"The kitten is sleeping__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 2,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Where is the library__\"",
+          "answer": "A question mark (?)",
+          "explanation": "This sentence asks something, so it needs a question mark."
+        },
+        {
+          "question_number": 3,
+          "difficulty": "Basic",
+          "question_text": "Which word needs a capital letter? \"sam likes pasta.\"",
+          "answer": "sam (should be Sam)",
+          "explanation": "Every sentence must start with a capital letter."
+        },
+        {
+          "question_number": 4,
+          "difficulty": "Basic",
+          "question_text": "Which words need speech marks around them? Amy shouted, Help me!",
+          "answer": "Help me",
+          "explanation": "Speech marks go around the exact words that Amy shouted."
+        },
+        {
+          "question_number": 5,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"The puppy is sleeping__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 6,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"Do you like carrots\"",
+          "answer": "Do you like carrots?",
+          "explanation": "A question mark is added because this sentence asks something."
+        },
+        {
+          "question_number": 7,
+          "difficulty": "Intermediate",
+          "question_text": "Fix the capital letters in this sentence: \"i love painting.\"",
+          "answer": "I love painting.",
+          "explanation": "The word \"I\" is always written as a capital letter."
+        },
+        {
+          "question_number": 8,
+          "difficulty": "Intermediate",
+          "question_text": "Add speech marks to this sentence: Mia asked, Can we go now?",
+          "answer": "Mia asked, \"Can we go now?\"",
+          "explanation": "Speech marks wrap around the words Mia actually asked."
+        },
+        {
+          "question_number": 9,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"Ravi and I are best friends\"",
+          "answer": "Ravi and I are best friends.",
+          "explanation": "A full stop is added because the sentence tells us something."
+        },
+        {
+          "question_number": 10,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"Where is the beach.\"",
+          "answer": "Where is the beach?",
+          "explanation": "This sentence asks something, so it needs a question mark, not a full stop."
+        },
+        {
+          "question_number": 11,
+          "difficulty": "Advanced",
+          "question_text": "Spot the mistake: \"my friend is called ben.\"",
+          "answer": "ben should be Ben.",
+          "explanation": "Names always start with a capital letter."
+        },
+        {
+          "question_number": 12,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence where Noah says \"Are you coming?\" Use speech marks correctly.",
+          "answer": "Noah said, \"Are you coming?\"",
+          "explanation": "The spoken words sit inside speech marks, with a capital letter to start."
+        },
+        {
+          "question_number": 13,
+          "difficulty": "Advanced",
+          "question_text": "Rewrite this correctly: \"my rabbit loves to play\"",
+          "answer": "My rabbit loves to play.",
+          "explanation": "Add a capital letter at the start and a full stop at the end."
+        },
+        {
+          "question_number": 14,
+          "difficulty": "Advanced",
+          "question_text": "Write a question about an animal. Use a question mark.",
+          "answer": "Example: What is your favourite animal?",
+          "explanation": "Any question ending with a question mark is correct."
+        },
+        {
+          "question_number": 15,
+          "difficulty": "Advanced",
+          "question_text": "Spot the mistake: \"my friend is called harry.\"",
+          "answer": "harry should be Harry.",
+          "explanation": "Names always start with a capital letter."
+        }
+      ]
+    },
+    {
+      "topic_title": "Punctuation - Full Stop, Question Mark, Speech Mark, Capital Letters",
+      "explanation_rules": [
+        "Put a full stop at the end of a sentence that tells us something.",
+        "Put a question mark at the end of a sentence that asks something.",
+        "Put speech marks around the exact words someone says.",
+        "Start every sentence, name, and place with a capital letter."
+      ],
+      "examples": [
+        {
+          "rule": "Rule 1",
+          "sentence": "The dog ran fast."
+        },
+        {
+          "rule": "Rule 2",
+          "sentence": "What is your name?"
+        },
+        {
+          "rule": "Rule 3",
+          "sentence": "Tom said, \"I am happy.\""
+        },
+        {
+          "rule": "Rule 4",
+          "sentence": "Sarah lives in London."
+        }
+      ],
+      "questions": [
+        {
+          "question_number": 1,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Umar likes pasta__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 2,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Where is the shop__\"",
+          "answer": "A question mark (?)",
+          "explanation": "This sentence asks something, so it needs a question mark."
+        },
+        {
+          "question_number": 3,
+          "difficulty": "Basic",
+          "question_text": "Which word needs a capital letter? \"i love to read.\"",
+          "answer": "i (should be I)",
+          "explanation": "The word \"I\" is always written as a capital letter."
+        },
+        {
+          "question_number": 4,
+          "difficulty": "Basic",
+          "question_text": "Which words need speech marks around them? Nina whispered, I love this book.",
+          "answer": "I love this book",
+          "explanation": "Speech marks go around the exact words that Nina whispered."
+        },
+        {
+          "question_number": 5,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"We went to the school__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 6,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"Where is the school.\"",
+          "answer": "Where is the school?",
+          "explanation": "This sentence asks something, so it needs a question mark, not a full stop."
+        },
+        {
+          "question_number": 7,
+          "difficulty": "Intermediate",
+          "question_text": "Fix the capital letters in this sentence: \"finn likes to read.\"",
+          "answer": "Finn likes to read.",
+          "explanation": "Names always start with a capital letter."
+        },
+        {
+          "question_number": 8,
+          "difficulty": "Intermediate",
+          "question_text": "Add speech marks to this sentence: Noah asked, Are you coming?",
+          "answer": "Noah asked, \"Are you coming?\"",
+          "explanation": "Speech marks wrap around the words Noah actually asked."
+        },
+        {
+          "question_number": 9,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"The bird is sleeping\"",
+          "answer": "The bird is sleeping.",
+          "explanation": "A full stop is added because the sentence tells us something."
+        },
+        {
+          "question_number": 10,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"How old is Amy.\"",
+          "answer": "How old is Amy?",
+          "explanation": "This sentence asks something, so it needs a question mark, not a full stop."
+        },
+        {
+          "question_number": 11,
+          "difficulty": "Advanced",
+          "question_text": "Spot the mistake: \"my friend is called grace.\"",
+          "answer": "grace should be Grace.",
+          "explanation": "Names always start with a capital letter."
+        },
+        {
+          "question_number": 12,
+          "difficulty": "Advanced",
+          "question_text": "Complete this sentence with speech marks: Chloe said, ___",
+          "answer": "Example: Chloe said, \"I love painting.\"",
+          "explanation": "Speech marks must wrap around whatever is actually said."
+        },
+        {
+          "question_number": 13,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence about your pet. Remember to use a full stop.",
+          "answer": "Example: My rabbit likes to eat carrots.",
+          "explanation": "Any telling sentence that ends with a full stop is correct."
+        },
+        {
+          "question_number": 14,
+          "difficulty": "Advanced",
+          "question_text": "Turn this into a question: \"you enjoy swimming\"",
+          "answer": "Do you enjoy swimming?",
+          "explanation": "Adding \"Do\" and a question mark turns this into a question."
+        },
+        {
+          "question_number": 15,
+          "difficulty": "Advanced",
+          "question_text": "Spot the mistake: \"my friend is called amy.\"",
+          "answer": "amy should be Amy.",
+          "explanation": "Names always start with a capital letter."
+        }
+      ]
+    },
+    {
+      "topic_title": "Punctuation - Full Stop, Question Mark, Speech Mark, Capital Letters",
+      "explanation_rules": [
+        "Put a full stop at the end of a sentence that tells us something.",
+        "Put a question mark at the end of a sentence that asks something.",
+        "Put speech marks around the exact words someone says.",
+        "Start every sentence, name, and place with a capital letter."
+      ],
+      "examples": [
+        {
+          "rule": "Rule 1",
+          "sentence": "The dog ran fast."
+        },
+        {
+          "rule": "Rule 2",
+          "sentence": "What is your name?"
+        },
+        {
+          "rule": "Rule 3",
+          "sentence": "Tom said, \"I am happy.\""
+        },
+        {
+          "rule": "Rule 4",
+          "sentence": "Sarah lives in London."
+        }
+      ],
+      "questions": [
+        {
+          "question_number": 1,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Leo has a pet bird__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 2,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Where is the beach__\"",
+          "answer": "A question mark (?)",
+          "explanation": "This sentence asks something, so it needs a question mark."
+        },
+        {
+          "question_number": 3,
+          "difficulty": "Basic",
+          "question_text": "Which word needs a capital letter? \"grace and I are best friends.\"",
+          "answer": "grace (should be Grace)",
+          "explanation": "Every sentence must start with a capital letter."
+        },
+        {
+          "question_number": 4,
+          "difficulty": "Basic",
+          "question_text": "Which words need speech marks around them? Noah replied, Let's play outside.",
+          "answer": "Let's play outside",
+          "explanation": "Speech marks go around the exact words that Noah replied."
+        },
+        {
+          "question_number": 5,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"My fish loves to play__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 6,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"Can Freya come to my party\"",
+          "answer": "Can Freya come to my party?",
+          "explanation": "A question mark is added because this sentence asks something."
+        },
+        {
+          "question_number": 7,
+          "difficulty": "Intermediate",
+          "question_text": "Fix the capital letters in this sentence: \"i enjoy football.\"",
+          "answer": "I enjoy football.",
+          "explanation": "The word \"I\" is always written as a capital letter."
+        },
+        {
+          "question_number": 8,
+          "difficulty": "Intermediate",
+          "question_text": "Add speech marks to this sentence: Ben shouted, Stop right there!",
+          "answer": "Ben shouted, \"Stop right there!\"",
+          "explanation": "Speech marks wrap around the words Ben actually shouted."
+        },
+        {
+          "question_number": 9,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"Freya likes sandwiches\"",
+          "answer": "Freya likes sandwiches.",
+          "explanation": "A full stop is added because the sentence tells us something."
+        },
+        {
+          "question_number": 10,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"Does Mia have a pet rabbit.\"",
+          "answer": "Does Mia have a pet rabbit?",
+          "explanation": "This sentence asks something, so it needs a question mark, not a full stop."
+        },
+        {
+          "question_number": 11,
+          "difficulty": "Advanced",
+          "question_text": "Spot the mistake: \"my friend is called theo.\"",
+          "answer": "theo should be Theo.",
+          "explanation": "Names always start with a capital letter."
+        },
+        {
+          "question_number": 12,
+          "difficulty": "Advanced",
+          "question_text": "Write a sentence where Ben says \"This is fun.\" Use speech marks correctly.",
+          "answer": "Ben said, \"This is fun.\"",
+          "explanation": "The spoken words sit inside speech marks, with a capital letter to start."
+        },
+        {
+          "question_number": 13,
+          "difficulty": "Advanced",
+          "question_text": "Rewrite this correctly: \"theo is reading a book\"",
+          "answer": "Theo is reading a book.",
+          "explanation": "Add a capital letter at the start and a full stop at the end."
+        },
+        {
+          "question_number": 14,
+          "difficulty": "Advanced",
+          "question_text": "Turn this into a question: \"you like reading books\"",
+          "answer": "Do you like reading books?",
+          "explanation": "Adding \"Do\" and a question mark turns this into a question."
+        },
+        {
+          "question_number": 15,
+          "difficulty": "Advanced",
+          "question_text": "Spot the mistake: \"my friend is called nina.\"",
+          "answer": "nina should be Nina.",
+          "explanation": "Names always start with a capital letter."
+        }
+      ]
+    },
+    {
+      "topic_title": "Punctuation - Full Stop, Question Mark, Speech Mark, Capital Letters",
+      "explanation_rules": [
+        "Put a full stop at the end of a sentence that tells us something.",
+        "Put a question mark at the end of a sentence that asks something.",
+        "Put speech marks around the exact words someone says.",
+        "Start every sentence, name, and place with a capital letter."
+      ],
+      "examples": [
+        {
+          "rule": "Rule 1",
+          "sentence": "The dog ran fast."
+        },
+        {
+          "rule": "Rule 2",
+          "sentence": "What is your name?"
+        },
+        {
+          "rule": "Rule 3",
+          "sentence": "Tom said, \"I am happy.\""
+        },
+        {
+          "rule": "Rule 4",
+          "sentence": "Sarah lives in London."
+        }
+      ],
+      "questions": [
+        {
+          "question_number": 1,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Ivy has a pet bird__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 2,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Does Ella have a pet fish__\"",
+          "answer": "A question mark (?)",
+          "explanation": "This sentence asks something, so it needs a question mark."
+        },
+        {
+          "question_number": 3,
+          "difficulty": "Basic",
+          "question_text": "Which word needs a capital letter? \"we go swimming on monday.\"",
+          "answer": "monday (should be Monday)",
+          "explanation": "Day names always start with a capital letter."
+        },
+        {
+          "question_number": 4,
+          "difficulty": "Basic",
+          "question_text": "Which words need speech marks around them? Leo shouted, Watch out!",
+          "answer": "Watch out",
+          "explanation": "Speech marks go around the exact words that Leo shouted."
+        },
+        {
+          "question_number": 5,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Nina likes apples__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 6,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"How old is Theo.\"",
+          "answer": "How old is Theo?",
+          "explanation": "This sentence asks something, so it needs a question mark, not a full stop."
+        },
+        {
+          "question_number": 7,
+          "difficulty": "Intermediate",
+          "question_text": "Fix the capital letters in this sentence: \"we visited oxford last year.\"",
+          "answer": "We visited Oxford last year.",
+          "explanation": "Sentence start and place names need capital letters."
+        },
+        {
+          "question_number": 8,
+          "difficulty": "Intermediate",
+          "question_text": "Add speech marks to this sentence: Freya said, Let's play outside.",
+          "answer": "Freya said, \"Let's play outside.\"",
+          "explanation": "Speech marks wrap around the words Freya actually said."
+        },
+        {
+          "question_number": 9,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"Ivy ate some pasta\"",
+          "answer": "Ivy ate some pasta.",
+          "explanation": "A full stop is added because the sentence tells us something."
+        },
+        {
+          "question_number": 10,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"How old is Ben.\"",
+          "answer": "How old is Ben?",
+          "explanation": "This sentence asks something, so it needs a question mark, not a full stop."
+        },
+        {
+          "question_number": 11,
+          "difficulty": "Advanced",
+          "question_text": "Spot the mistake: \"my friend is called mia.\"",
+          "answer": "mia should be Mia.",
+          "explanation": "Names always start with a capital letter."
+        },
+        {
+          "question_number": 12,
+          "difficulty": "Advanced",
+          "question_text": "Complete this sentence with speech marks: Nina said, ___",
+          "answer": "Example: Nina said, \"I love painting.\"",
+          "explanation": "Speech marks must wrap around whatever is actually said."
+        },
+        {
+          "question_number": 13,
+          "difficulty": "Advanced",
+          "question_text": "Rewrite this correctly: \"ravi has a pet rabbit\"",
+          "answer": "Ravi has a pet rabbit.",
+          "explanation": "Add a capital letter at the start and a full stop at the end."
+        },
+        {
+          "question_number": 14,
+          "difficulty": "Advanced",
+          "question_text": "Turn this into a question: \"you play football\"",
+          "answer": "Do you play football?",
+          "explanation": "Adding \"Do\" and a question mark turns this into a question."
+        },
+        {
+          "question_number": 15,
+          "difficulty": "Advanced",
+          "question_text": "Spot the mistake: \"my friend is called noah.\"",
+          "answer": "noah should be Noah.",
+          "explanation": "Names always start with a capital letter."
+        }
+      ]
+    },
+    {
+      "topic_title": "Punctuation - Full Stop, Question Mark, Speech Mark, Capital Letters",
+      "explanation_rules": [
+        "Put a full stop at the end of a sentence that tells us something.",
+        "Put a question mark at the end of a sentence that asks something.",
+        "Put speech marks around the exact words someone says.",
+        "Start every sentence, name, and place with a capital letter."
+      ],
+      "examples": [
+        {
+          "rule": "Rule 1",
+          "sentence": "The dog ran fast."
+        },
+        {
+          "rule": "Rule 2",
+          "sentence": "What is your name?"
+        },
+        {
+          "rule": "Rule 3",
+          "sentence": "Tom said, \"I am happy.\""
+        },
+        {
+          "rule": "Rule 4",
+          "sentence": "Sarah lives in London."
+        }
+      ],
+      "questions": [
+        {
+          "question_number": 1,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Finn has a pet guinea pig__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 2,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"How old is Nina__\"",
+          "answer": "A question mark (?)",
+          "explanation": "This sentence asks something, so it needs a question mark."
+        },
+        {
+          "question_number": 3,
+          "difficulty": "Basic",
+          "question_text": "Which word needs a capital letter? \"ben ate some soup.\"",
+          "answer": "ben (should be Ben)",
+          "explanation": "Every sentence must start with a capital letter."
+        },
+        {
+          "question_number": 4,
+          "difficulty": "Basic",
+          "question_text": "Which words need speech marks around them? Priya replied, This is fun.",
+          "answer": "This is fun",
+          "explanation": "Speech marks go around the exact words that Priya replied."
+        },
+        {
+          "question_number": 5,
+          "difficulty": "Basic",
+          "question_text": "What punctuation mark is missing here? \"Dan likes apples__\"",
+          "answer": "A full stop (.)",
+          "explanation": "This sentence tells us something, so it needs a full stop."
+        },
+        {
+          "question_number": 6,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"Where is the farm.\"",
+          "answer": "Where is the farm?",
+          "explanation": "This sentence asks something, so it needs a question mark, not a full stop."
+        },
+        {
+          "question_number": 7,
+          "difficulty": "Intermediate",
+          "question_text": "Fix the capital letters in this sentence: \"my kitten loves to play.\"",
+          "answer": "My kitten loves to play.",
+          "explanation": "Every sentence must start with a capital letter."
+        },
+        {
+          "question_number": 8,
+          "difficulty": "Intermediate",
+          "question_text": "Add speech marks to this sentence: Oscar whispered, This is fun.",
+          "answer": "Oscar whispered, \"This is fun.\"",
+          "explanation": "Speech marks wrap around the words Oscar actually whispered."
+        },
+        {
+          "question_number": 9,
+          "difficulty": "Intermediate",
+          "question_text": "Add the missing punctuation: \"Jack is reading a book\"",
+          "answer": "Jack is reading a book.",
+          "explanation": "A full stop is added because the sentence tells us something."
+        },
+        {
+          "question_number": 10,
+          "difficulty": "Intermediate",
+          "question_text": "This sentence used the wrong punctuation. Fix it: \"Can Oscar come to my party.\"",
+          "answer": "Can Oscar come to my party?",
+          "explanation": "This sentence asks something, so it needs a question mark, not a full stop."
+        },
+        {
+          "question_number": 11,
+          "difficulty": "Advanced",
+          "question_text": "Spot the mistake: \"my friend is called finn.\"",
+          "answer": "finn should be Finn.",
+          "explanation": "Names always start with a capital letter."
+        },
+        {
+          "question_number": 12,
+          "difficulty": "Advanced",
+          "question_text": "Complete this sentence with speech marks: Oscar said, ___",
+          "answer": "Example: Oscar said, \"I love painting.\"",
+          "explanation": "Speech marks must wrap around whatever is actually said."
+        },
+        {
+          "question_number": 13,
+          "difficulty": "Advanced",
+          "question_text": "Rewrite this correctly: \"ben has a pet dog\"",
+          "answer": "Ben has a pet dog.",
+          "explanation": "Add a capital letter at the start and a full stop at the end."
+        },
+        {
+          "question_number": 14,
+          "difficulty": "Advanced",
+          "question_text": "Turn this into a question: \"you like ice cream\"",
+          "answer": "Do you like ice cream?",
+          "explanation": "Adding \"Do\" and a question mark turns this into a question."
+        },
+        {
+          "question_number": 15,
+          "difficulty": "Advanced",
+          "question_text": "Spot the mistake: \"my friend is called kira.\"",
+          "answer": "kira should be Kira.",
+          "explanation": "Names always start with a capital letter."
+        }
+      ]
+    }
+  ]
+}

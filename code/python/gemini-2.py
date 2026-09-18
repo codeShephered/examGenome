@@ -2,9 +2,9 @@ import json
 import os
 
 # --- Configuration ---
-INPUT_FILE = '../../jsons/year456/src/y3Number_placevalue.json'
+INPUT_FILE = '../../jsons/year456/src/y3_statistics.json'
 #INPUT_FILE = '../../jsons/paidSamplepaper/src/year4-Number_Fractions_hard.json'
-OUTPUT_FILE = '../../jsons/year456/src/extracted_y3Number_placevalue.json' # Optional: name for saving the extracted data
+OUTPUT_FILE = '../../jsons/year456/src/extracted_y3_statistics.json' # Optional: name for saving the extracted data
 
 def extract_qa_data(input_filename):
     """

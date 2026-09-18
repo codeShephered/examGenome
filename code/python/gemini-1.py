@@ -5,8 +5,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # --- Configuration ---
-JSON_FILE = '../../jsons/year456/src/extracted_y3Number_placevalue.json'
-OUTPUT_FILE = '../../jsons/year456/verif/y3Number_placevalue_verification.txt'
+JSON_FILE = '../../jsons/year456/src/extracted_y3_statistics.json'
+OUTPUT_FILE = '../../jsons/year456/verif/y3_statistics_verification.txt'
 
 
 def generate_evaluation_prompt(filename):
